@@ -5,15 +5,20 @@
   function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
 
   async function loadAll(){
-    const [toolsRes, newsRes] = await Promise.all([fetch(toolsURL), fetch(newsURL)]);
-    const toolsData = await toolsRes.json();
-    const newsData  = await newsRes.json();
-    renderTools(toolsData.tools||[]);
-    renderNews(newsData.items||[]);
+    try {
+      const [toolsRes, newsRes] = await Promise.all([fetch(toolsURL), fetch(newsURL)]);
+      const toolsData = await toolsRes.json();
+      const newsData  = await newsRes.json();
+      renderTools(toolsData.tools || []);
+      renderNews(newsData.items || []);
+    } catch(err) {
+      console.error("Errore nel caricamento:", err);
+      document.body.innerHTML = "<p style='padding:40px'>Errore nel caricamento dati.</p>";
+    }
   }
 
   function renderTools(items){
-    const grid = document.querySelector(".grid") || document.getElementById("tools-grid");
+    const grid = document.getElementById("tools-grid");
     if(!grid) return;
     grid.innerHTML = items.map(t => `
       <a href="./tool.html?slug=${encodeURIComponent(t.slug)}" class="group rounded-2xl overflow-hidden border border-zinc-200 hover:shadow-md transition">
