@@ -2,10 +2,72 @@
 <html lang="it">
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>DailyAI</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap: 16px; }
+    .card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; }
+    .meta { font-size: 12px; color: #6b7280; margin-top: 8px; }
+    .row { display: flex; gap: 12px; align-items: center; margin: 12px 0; flex-wrap: wrap; }
+    input, select { padding: 8px 10px; border: 1px solid #e5e7eb; border-radius: 8px; }
+    .badge { font-size: 11px; padding: 3px 8px; border: 1px solid #e5e7eb; border-radius: 999px; }
+  </style>
 </head>
 <body>
-  <h1>Benvenuto su DailyAI</h1>
-  <p>Se vedi questa pagina, GitHub Pages funziona 🎉</p>
+  <h1>DailyAI</h1>
+  <p>Nuovi strumenti e progetti AI raccolti in italiano</p>
+  <div class="row">
+    <input id="search" placeholder="Cerca titolo o descrizione" />
+    <select id="source">
+      <option value="">Tutte le fonti</option>
+      <option value="github">GitHub</option>
+      <option value="hn">Hacker News</option>
+    </select>
+  </div>
+  <div id="info" class="meta"></div>
+  <main class="grid" id="list"></main>
+
+  <script>
+    const infoEl = document.getElementById("info");
+    const listEl = document.getElementById("list");
+    const searchEl = document.getElementById("search");
+    const sourceEl = document.getElementById("source");
+    let DATA = { items: [] };
+
+    async function load(){
+      const r = await fetch("./public/data.json?_=" + Date.now());
+      DATA = await r.json();
+      infoEl.textContent = "Ultimo aggiornamento: " + new Date(DATA.generated_at).toLocaleString("it-IT") + " • Elementi: " + DATA.items.length;
+      render();
+    }
+    function render(){
+      const q = searchEl.value.trim().toLowerCase();
+      const s = sourceEl.value;
+      const items = DATA.items.filter(it => {
+        const text = (it.title + " " + (it.summary_it || it.summary || "")).toLowerCase();
+        const okQ = q ? text.includes(q) : true;
+        const okS = s ? it.source === s : true;
+        return okQ && okS;
+      });
+      listEl.innerHTML = items.map(it => `
+        <article class="card">
+          <h3>${escapeHtml(it.title)}</h3>
+          <p>${escapeHtml(it.summary_it || it.summary || "")}</p>
+          <div class="row">
+            <span class="badge">${it.source === "github" ? "GitHub" : "Hacker News"}</span>
+            ${(it.tags||[]).map(t => `<span class="badge">${escapeHtml(t)}</span>`).join("")}
+          </div>
+          <a href="${it.url}" target="_blank" rel="noopener">Visita</a>
+          <div class="meta">${new Date(it.date).toLocaleDateString("it-IT")} • ${it.source}</div>
+        </article>
+      `).join("");
+    }
+    function escapeHtml(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
+    searchEl.addEventListener("input", render);
+    sourceEl.addEventListener("change", render);
+    load();
+  </script>
 </body>
 </html>
+
