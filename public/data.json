@@ -1,6 +1,27 @@
 {
-  "generated_at": "2025-10-23T20:53:03.634340+00:00",
+  "generated_at": "2025-10-23T20:57:27.927830+00:00",
   "items": [
+    {
+      "title": "Stability AI and EA partner to reimagine game development",
+      "summary": "Article URL: https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development Comments URL: https://news.ycombinator.com/item?id=45687017 Points: 1 # Comments: 0",
+      "url": "https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development",
+      "image": "http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/68f7e4c20448615ff118b4da/1761247220752/EA+announcement_Thumbnail_1x1_v3.png?format=1500w",
+      "date": "2025-10-23T20:56:49+00:00"
+    },
+    {
+      "title": "Don't be fooled. the US is regulating AI – just not the way you think",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2025/oct/23/us-artificial-intelligence-regulations Comments URL: https://news.ycombinator.com/item?id=45687003 Points: 3 # Comments: 0",
+      "url": "https://www.theguardian.com/commentisfree/2025/oct/23/us-artificial-intelligence-regulations",
+      "image": "https://i.guim.co.uk/img/media/f3b9ac69b44d5479c00808f71bd1a046b6b3f552/0_0_5833_4667/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9b7f72c1d9d3446c28925d9cfaff561c",
+      "date": "2025-10-23T20:55:37+00:00"
+    },
+    {
+      "title": "Waiting for AI's phase change in mathematics [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=omBpalvYFNM Comments URL: https://news.ycombinator.com/item?id=45686947 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=omBpalvYFNM",
+      "image": "",
+      "date": "2025-10-23T20:51:01+00:00"
+    },
     {
       "title": "Meet Mico, Microsoft's AI Version of Clippy",
       "summary": "Article URL: https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy Comments URL: https://news.ycombinator.com/item?id=45686609 Points: 2 # Comments: 1",
@@ -10,24 +31,10 @@
     },
     {
       "title": "Bill Gates says a 2-day work week is coming in just 10 years, thanks to AI",
-      "summary": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 3 # Comments: 4",
+      "summary": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 3 # Comments: 5",
       "url": "https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/03/GettyImages-2205263480-e1743086931230.jpg?resize=1200,600",
       "date": "2025-10-23T20:17:02+00:00"
-    },
-    {
-      "title": "AI Orchestration for Operational Real-Time Network Analysis",
-      "summary": "Article URL: https://dimaggi.com Comments URL: https://news.ycombinator.com/item?id=45686338 Points: 1 # Comments: 1",
-      "url": "https://dimaggi.com",
-      "image": "",
-      "date": "2025-10-23T20:03:25+00:00"
-    },
-    {
-      "title": "I built this AI photography app for small brands",
-      "summary": "Article URL: https://pixelshot.ai/ Comments URL: https://news.ycombinator.com/item?id=45686156 Points: 1 # Comments: 2",
-      "url": "https://pixelshot.ai/",
-      "image": "https://pixelshot.ai/open-graph.jpg",
-      "date": "2025-10-23T19:47:56+00:00"
     },
     {
       "title": "Ask HN: Where should an experienced developer start learning AI development?",
@@ -42,13 +49,6 @@
       "url": "https://www.dexerto.com/entertainment/us-army-general-admits-using-ai-for-military-decisions-and-is-really-close-with-chatgpt-3270391/",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/17/Top-US-Army-general-admits-to-using-ChatGPT-for-military-decisions.jpg",
       "date": "2025-10-23T18:56:51+00:00"
-    },
-    {
-      "title": "Show HN: Story Keeper – AI agents with narrative continuity instead of memory",
-      "summary": "Hi HN! Creator here.\nI built Story Keeper to solve a problem I kept hitting with AI agents: they remember everything but lose coherence over long conversations.\nThe Core Idea\nInstead of storing chat history and retrieving chunks (RAG approach), Story Keeper maintains a living narrative: Characters: Who you are (evolving), who the agent is\nArc: Where you started → where you're going\nThemes: What matters to you\nContext: The thread connecting everything Think of it as the difference between reading meeting notes vs. being in the relationship.\nTechnical Approach\n~200 lines of Python. Three primitives: Story State (not message list)\nStory Evolution (not appending)\nStory-Grounded Response (not retrieval) Works with any LLM - tested with GPT-4, Claude, Llama 3.1, Mistral.\nWhy This Works\nTraditional memory is about facts. Story Keeper is about continuity.\nExample: Health coaching agent Normal: Generic advice each time\nStory Keeper: \"This is the pattern we identified last month. You do better with 'good enough' than perfect.\" The agent carries forward understanding, not just data.\nImplementation\nPart of PACT-AX (open source agent collaboration framework). MIT licensed.\nSimple integration:\npythonfrom pact_ax.primitives.story_keeper import StoryKeeper keeper = StoryKeeper(agent_id=\"my-agent\")\nresponse = keeper.process_turn(user_message)\nUse Cases I'm Exploring Long-term coaching/mentorship\nMulti-session research assistants\nCustomer support with relationship continuity\nEducational tutors that understand learning journeys What I'd Love Feedback On Is this solving a real problem or am I overthinking it?\nPerformance concerns at scale?\nOther approaches people have tried for this?\nUse cases I'm missing? The full technical writeup is in the repo blog folder.\nHappy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45685363 Points: 2 # Comments: 0",
-      "url": "https://github.com/neurobloomai/pact-ax",
-      "image": "https://opengraph.githubassets.com/ce2f223bc0b01d4df0372f70aac23eb99c5922dadd4858daf5f9b0808056b97e/neurobloomai/pact-ax",
-      "date": "2025-10-23T18:50:24+00:00"
     },
     {
       "title": "OpenAI buys AI startup that built interface for Apple computers",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-      "summary": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 211 # Comments: 143",
+      "summary": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 227 # Comments: 149",
       "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/23/doritos-ai-gun-detection-student-swarmed.jpg",
       "date": "2025-10-23T18:09:37+00:00"
@@ -100,13 +100,6 @@
       "date": "2025-10-23T17:48:52+00:00"
     },
     {
-      "title": "The Official AI purity test",
-      "summary": "Article URL: https://www.aipuritytest.org/ Comments URL: https://news.ycombinator.com/item?id=45684629 Points: 2 # Comments: 0",
-      "url": "https://www.aipuritytest.org/",
-      "image": "",
-      "date": "2025-10-23T17:43:18+00:00"
-    },
-    {
       "title": "Sakana AI CTO says he's 'sick' of transformers that powers every major AI model",
       "summary": "Article URL: https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers Comments URL: https://news.ycombinator.com/item?id=45684505 Points: 3 # Comments: 0",
       "url": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers",
@@ -119,27 +112,6 @@
       "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
       "date": "2025-10-23T17:28:48+00:00"
-    },
-    {
-      "title": "Alpha Arena: AI Trading Competition",
-      "summary": "Article URL: https://nof1.ai/ Comments URL: https://news.ycombinator.com/item?id=45684407 Points: 1 # Comments: 0",
-      "url": "https://nof1.ai/",
-      "image": "",
-      "date": "2025-10-23T17:21:08+00:00"
-    },
-    {
-      "title": "Microsoft's Mico is a 'Clippy' for the AI era",
-      "summary": "Article URL: https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=45684380 Points: 2 # Comments: 0",
-      "url": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-      "date": "2025-10-23T17:18:49+00:00"
-    },
-    {
-      "title": "Wealth AI the world's First all in one privacy focused finance tool (no sign-in)",
-      "summary": "Article URL: https://wealth-ai.in/ Comments URL: https://news.ycombinator.com/item?id=45684311 Points: 2 # Comments: 2",
-      "url": "https://wealth-ai.in/",
-      "image": "https://wealth-ai.in/income.png",
-      "date": "2025-10-23T17:12:55+00:00"
     }
   ]
 }
