@@ -3,71 +3,116 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>DailyAI</title>
+  <title>DailyAI — novità utili, in italiano</title>
   <style>
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
+    header { margin-bottom: 16px; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap: 16px; }
     .card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; }
     .meta { font-size: 12px; color: #6b7280; margin-top: 8px; }
     .row { display: flex; gap: 12px; align-items: center; margin: 12px 0; flex-wrap: wrap; }
     input, select { padding: 8px 10px; border: 1px solid #e5e7eb; border-radius: 8px; }
     .badge { font-size: 11px; padding: 3px 8px; border: 1px solid #e5e7eb; border-radius: 999px; }
+    h2 { margin: 28px 0 8px; }
+    .top { border: 1px solid #d1fae5; background:#f0fdf4; }
   </style>
 </head>
 <body>
-  <h1>DailyAI</h1>
-  <p>Nuovi strumenti e progetti AI raccolti in italiano</p>
-  <div class="row">
-    <input id="search" placeholder="Cerca titolo o descrizione" />
-    <select id="source">
-      <option value="">Tutte le fonti</option>
-      <option value="github">GitHub</option>
-      <option value="hn">Hacker News</option>
-    </select>
-  </div>
-  <div id="info" class="meta"></div>
+  <header>
+    <h1>DailyAI</h1>
+    <p>Novità AI con <b>valore</b>: Top 5 del giorno + raccolta completa in italiano</p>
+    <div class="row">
+      <input id="search" placeholder="Cerca titolo o descrizione" />
+      <select id="source">
+        <option value="">Tutte le fonti</option>
+        <option value="ph">Product Hunt</option>
+        <option value="github">GitHub</option>
+        <option value="hn">Hacker News</option>
+      </select>
+      <select id="category">
+        <option value="">Tutte le categorie</option>
+        <option>Immagini</option><option>Video</option><option>Audio</option>
+        <option>Chat/Agent</option><option>Dev/Code</option><option>Marketing/Content</option>
+        <option>E-commerce</option><option>Altro</option>
+      </select>
+    </div>
+    <div id="info" class="meta"></div>
+  </header>
+
+  <h2>Top 5 di oggi</h2>
+  <section class="grid" id="top"></section>
+
+  <h2>Tutte le novità</h2>
   <main class="grid" id="list"></main>
 
+  <footer class="meta" style="margin-top:24px">
+    Open source • si aggiorna ogni giorno in automatico
+  </footer>
+
   <script>
-    const infoEl = document.getElementById("info");
     const listEl = document.getElementById("list");
+    const topEl = document.getElementById("top");
+    const infoEl = document.getElementById("info");
     const searchEl = document.getElementById("search");
     const sourceEl = document.getElementById("source");
-    let DATA = { items: [] };
+    const catEl = document.getElementById("category");
+    let DATA = { items: [], top5: [] };
 
-    async function load(){
-      const r = await fetch("./public/data.json?_=" + Date.now());
-      DATA = await r.json();
-      infoEl.textContent = "Ultimo aggiornamento: " + new Date(DATA.generated_at).toLocaleString("it-IT") + " • Elementi: " + DATA.items.length;
+    async function load() {
+      const resp = await fetch("./public/data.json?_=" + Date.now());
+      DATA = await resp.json();
+      infoEl.textContent = `Ultimo aggiornamento: ${new Date(DATA.generated_at).toLocaleString("it-IT")} • Elementi: ${DATA.items.length}`;
       render();
     }
-    function render(){
+
+    function render() {
+      // Top 5
+      topEl.innerHTML = DATA.top5.map(card).join("");
+
+      // Lista completa con filtri
       const q = searchEl.value.trim().toLowerCase();
       const s = sourceEl.value;
+      const c = catEl.value;
+
       const items = DATA.items.filter(it => {
         const text = (it.title + " " + (it.summary_it || it.summary || "")).toLowerCase();
         const okQ = q ? text.includes(q) : true;
         const okS = s ? it.source === s : true;
-        return okQ && okS;
+        const okC = c ? (it.tags || []).includes(c) : true;
+        return okQ && okS && okC;
       });
-      listEl.innerHTML = items.map(it => `
-        <article class="card">
+
+      listEl.innerHTML = items.map(card).join("");
+    }
+
+    function card(it) {
+      const src = it.source === "github" ? "GitHub" : it.source === "ph" ? "Product Hunt" : "Hacker News";
+      const tags = (it.tags||[]).map(t => `<span class="badge">${escapeHtml(t)}</span>`).join("");
+      const stars = it.stars ? `<span class="badge">⭐ ${it.stars}</span>` : "";
+      const pts = it.points ? `<span class="badge">⬆︎ ${it.points}</span>` : "";
+      const score = it.score ? `<span class="badge">Score ${it.score}</span>` : "";
+      const cls = (DATA.top5||[]).some(x => x.url===it.url) ? "card top" : "card";
+      return `
+        <article class="${cls}">
           <h3>${escapeHtml(it.title)}</h3>
           <p>${escapeHtml(it.summary_it || it.summary || "")}</p>
           <div class="row">
-            <span class="badge">${it.source === "github" ? "GitHub" : "Hacker News"}</span>
-            ${(it.tags||[]).map(t => `<span class="badge">${escapeHtml(t)}</span>`).join("")}
+            <span class="badge">${src}</span>
+            ${stars}${pts}${score}${tags}
           </div>
           <a href="${it.url}" target="_blank" rel="noopener">Visita</a>
           <div class="meta">${new Date(it.date).toLocaleDateString("it-IT")} • ${it.source}</div>
         </article>
-      `).join("");
+      `;
     }
+
     function escapeHtml(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
+
     searchEl.addEventListener("input", render);
     sourceEl.addEventListener("change", render);
+    catEl.addEventListener("change", render);
+
     load();
   </script>
 </body>
 </html>
-
