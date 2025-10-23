@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tool • DailyAI Italia</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; max-width: 960px; }
+    .badge { font-size: 12px; padding: 3px 8px; border: 1px solid #e5e7eb; border-radius: 999px; }
+  </style>
+</head>
+<body>
+  <a href="./" style="text-decoration:none">← Torna alla home</a>
+  <div id="content"></div>
+
+  <script>
+    function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
+    function getSlug(){ const u = new URL(location.href); return u.searchParams.get("slug") || ""; }
+
+    async function load(){
+      const r = await fetch("./public/tools.json?_=" + Date.now());
+      const data = await r.json();
+      const slug = getSlug();
+      const t = (data.tools||[]).find(x => x.slug === slug);
+      const el = document.getElementById("content");
+      if(!t){ el.innerHTML = "<p>Tool non trovato.</p>"; return; }
+      el.innerHTML = `
+        <header style="display:flex; gap:16px; align-items:center; margin:12px 0">
+          <img src="${t.logo}" alt="" width="56" height="56" style="border-radius:8px" />
+          <div>
+            <h1 style="margin:0">${esc(t.name)}</h1>
+            <div style="color:#6b7280">${esc(t.tagline||"")}</div>
+          </div>
+          <div style="flex:1"></div>
+          <a href="${t.website}" target="_blank" rel="noopener" class="badge">Visita</a>
+        </header>
+
+        <div style="aspect-ratio:16/9; background:#f3f4f6; overflow:hidden; border-radius:12px; margin:12px 0">
+          <img src="${t.cover}" alt="" style="width:100%; height:100%; object-fit:cover" />
+        </div>
+
+        <p>${esc(t.description||"")}</p>
+
+        <h3>Prezzi</h3>
+        <p>${esc(t.pricing||"")}</p>
+
+        <h3>Perché usarlo</h3>
+        <ul>${(t.pros||[]).map(p=>`<li>${esc(p)}</li>`).join("")}</ul>
+
+        <h3>Limiti</h3>
+        <ul>${(t.cons||[]).map(c=>`<li>${esc(c)}</li>`).join("")}</ul>
+
+        <h3>Tag</h3>
+        <div style="display:flex; gap:8px; flex-wrap:wrap">
+          ${(t.badges||[]).map(b=>`<span class="badge">${esc(b)}</span>`).join("")}
+          ${(t.categories||[]).map(c=>`<span class="badge">${esc(c)}</span>`).join("")}
+        </div>
+
+        <h3 style="margin-top:16px">Alternative</h3>
+        <ul>${(t.alternatives||[]).map(a=>`<li><a href="./tool.html?slug=${encodeURIComponent(a)}">${esc(a)}</a></li>`).join("")}</ul>
+      `;
+    }
+    load();
+  </script>
+</body>
+</html>
