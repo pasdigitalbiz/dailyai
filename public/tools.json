@@ -1,20 +1,17 @@
 {
-  "updated_at": "2025-10-23T20:45:00Z",
+  "updated_at": "2025-10-23T22:40:00Z",
   "tools": [
     {
       "slug": "scribeai",
       "name": "ScribeAI",
       "tagline": "Assistente di scrittura in italiano",
-      "description": "Genera testi brevi per blog, email e annunci. Template e toni.",
+      "description": "Genera testi brevi per blog, email e annunci con template e toni.",
       "website": "https://example.com",
       "logo": "https://via.placeholder.com/64?text=S",
       "cover": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?q=80&w=1200&auto=format&fit=crop",
       "pricing": "Gratis con piani Pro",
-      "badges": ["Web", "Gratis"],
-      "categories": ["Scrittura","Produttività"],
-      "pros": ["Interfaccia semplice","Template pronti"],
-      "cons": ["Pochi controlli avanzati"],
-      "alternatives": ["copybuddy","writerx"]
+      "badges": ["Web","Gratis"],
+      "categories": ["Scrittura","Produttività"]
     },
     {
       "slug": "picmaker",
@@ -26,10 +23,55 @@
       "cover": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop",
       "pricing": "Prova gratuita",
       "badges": ["Web","API"],
-      "categories": ["Immagini"],
-      "pros": ["Output pulito","Facile da usare"],
-      "cons": ["Licenze immagini da verificare"],
-      "alternatives": ["stablepaint","brandimg"]
+      "categories": ["Immagini"]
+    },
+    {
+      "slug": "meetingnote",
+      "name": "MeetingNote",
+      "tagline": "Appunti da riunioni",
+      "description": "Trascrive e riassume incontri. Esporta in Google Docs e Notion.",
+      "website": "https://example.com",
+      "logo": "https://via.placeholder.com/64?text=M",
+      "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?q=80&w=1200&auto=format&fit=crop",
+      "pricing": "Piano gratuito disponibile",
+      "badges": ["Desktop","Web"],
+      "categories": ["Audio","Produttività"]
+    },
+    {
+      "slug": "codebuddy",
+      "name": "CodeBuddy",
+      "tagline": "Aiuto per sviluppatori",
+      "description": "Suggerimenti di codice, refactor e test. Si integra con VS Code.",
+      "website": "https://example.com",
+      "logo": "https://via.placeholder.com/64?text=C",
+      "cover": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+      "pricing": "A pagamento",
+      "badges": ["Estensione","API"],
+      "categories": ["Dev e code"]
+    },
+    {
+      "slug": "shopbot",
+      "name": "ShopBot",
+      "tagline": "Agente per e-commerce",
+      "description": "Risponde ai clienti, recupera carrelli, suggerisce prodotti.",
+      "website": "https://example.com",
+      "logo": "https://via.placeholder.com/64?text=SB",
+      "cover": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?q=80&w=1200&auto=format&fit=crop",
+      "pricing": "Gratis fino a 100 conversazioni",
+      "badges": ["Web","Shopify"],
+      "categories": ["Agenti","E-commerce"]
+    },
+    {
+      "slug": "rankseo",
+      "name": "RankSEO",
+      "tagline": "SEO assistita dall’AI",
+      "description": "Brief, cluster e outline ottimizzati. Integrazione con CMS.",
+      "website": "https://example.com",
+      "logo": "https://via.placeholder.com/64?text=R",
+      "cover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+      "pricing": "Prova gratuita 7 giorni",
+      "badges": ["Web"],
+      "categories": ["SEO e marketing","Produttività"]
     }
   ]
 }
