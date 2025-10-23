@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-10-23T20:33:48.007473+00:00",
+  "generated_at": "2025-10-23T20:35:34.272154+00:00",
   "items": [
     {
       "title": "hoppscotch /hoppscotch",
       "summary": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
       "summary_it": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
       "url": "https://github.com/hoppscotch/hoppscotch",
-      "date": "2025-10-23T20:33:47.244029+00:00",
+      "date": "2025-10-23T20:35:33.838757+00:00",
       "source": "github",
       "tags": [
         "TypeScript",
@@ -18,7 +18,7 @@
       "summary": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
       "summary_it": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
       "url": "https://github.com/jaywcjlove/awesome-mac",
-      "date": "2025-10-23T20:33:47.243662+00:00",
+      "date": "2025-10-23T20:35:33.838384+00:00",
       "source": "github",
       "tags": [
         "JavaScript",
@@ -30,7 +30,7 @@
       "summary": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
       "summary_it": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
       "url": "https://github.com/guofei9987/scikit-opt",
-      "date": "2025-10-23T20:33:47.243377+00:00",
+      "date": "2025-10-23T20:35:33.838106+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -42,7 +42,7 @@
       "summary": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
       "summary_it": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
       "url": "https://github.com/lukasmasuch/best-of-ml-python",
-      "date": "2025-10-23T20:33:47.243086+00:00",
+      "date": "2025-10-23T20:35:33.837829+00:00",
       "source": "github",
       "tags": [
         "trending"
@@ -53,7 +53,7 @@
       "summary": "PyTorch-native post-training at scale",
       "summary_it": "PyTorch-native post-training at scale",
       "url": "https://github.com/meta-pytorch/torchforge",
-      "date": "2025-10-23T20:33:47.242663+00:00",
+      "date": "2025-10-23T20:35:33.837424+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -65,7 +65,7 @@
       "summary": "A feature-rich command-line audio/video downloader",
       "summary_it": "A feature-rich command-line audio/video downloader",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "date": "2025-10-23T20:33:47.242379+00:00",
+      "date": "2025-10-23T20:35:33.837153+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -77,7 +77,7 @@
       "summary": "Introduction to Machine Learning Systems",
       "summary_it": "Introduction to Machine Learning Systems",
       "url": "https://github.com/harvard-edge/cs249r_book",
-      "date": "2025-10-23T20:33:47.242086+00:00",
+      "date": "2025-10-23T20:35:33.836877+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -89,7 +89,7 @@
       "summary": "A fancy self-hosted monitoring tool",
       "summary_it": "A fancy self-hosted monitoring tool",
       "url": "https://github.com/louislam/uptime-kuma",
-      "date": "2025-10-23T20:33:47.241779+00:00",
+      "date": "2025-10-23T20:35:33.836578+00:00",
       "source": "github",
       "tags": [
         "JavaScript",
@@ -101,7 +101,7 @@
       "summary": "A curated list of awesome mathematics resources",
       "summary_it": "A curated list of awesome mathematics resources",
       "url": "https://github.com/rossant/awesome-math",
-      "date": "2025-10-23T20:33:47.241396+00:00",
+      "date": "2025-10-23T20:35:33.836219+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -113,7 +113,7 @@
       "summary": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
       "summary_it": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
       "url": "https://github.com/k2-fsa/sherpa-onnx",
-      "date": "2025-10-23T20:33:47.241049+00:00",
+      "date": "2025-10-23T20:35:33.835940+00:00",
       "source": "github",
       "tags": [
         "C++",
@@ -125,7 +125,7 @@
       "summary": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
       "summary_it": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
       "url": "https://github.com/dyad-sh/dyad",
-      "date": "2025-10-23T20:33:47.240741+00:00",
+      "date": "2025-10-23T20:35:33.835657+00:00",
       "source": "github",
       "tags": [
         "TypeScript",
@@ -137,7 +137,7 @@
       "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "summary_it": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "date": "2025-10-23T20:33:47.240438+00:00",
+      "date": "2025-10-23T20:35:33.835357+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -149,7 +149,7 @@
       "summary": "Truly independent web browser",
       "summary_it": "Truly independent web browser",
       "url": "https://github.com/LadybirdBrowser/ladybird",
-      "date": "2025-10-23T20:33:47.240140+00:00",
+      "date": "2025-10-23T20:35:33.835070+00:00",
       "source": "github",
       "tags": [
         "C++",
@@ -161,7 +161,7 @@
       "summary": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
       "summary_it": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
       "url": "https://github.com/mountain-loop/yaak",
-      "date": "2025-10-23T20:33:47.239815+00:00",
+      "date": "2025-10-23T20:35:33.834779+00:00",
       "source": "github",
       "tags": [
         "TypeScript",
@@ -173,7 +173,7 @@
       "summary": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
       "summary_it": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
       "url": "https://github.com/guofei9987/blind_watermark",
-      "date": "2025-10-23T20:33:47.239489+00:00",
+      "date": "2025-10-23T20:35:33.834431+00:00",
       "source": "github",
       "tags": [
         "Python",
@@ -185,7 +185,7 @@
       "summary": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "summary_it": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "url": "https://github.com/minio/minio",
-      "date": "2025-10-23T20:33:47.239111+00:00",
+      "date": "2025-10-23T20:35:33.834095+00:00",
       "source": "github",
       "tags": [
         "Go",
