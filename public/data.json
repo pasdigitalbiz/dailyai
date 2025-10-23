@@ -1,220 +1,328 @@
 {
-  "generated_at": "2025-10-23T20:35:34.272154+00:00",
-  "items": [
+  "generated_at": "2025-10-23T20:45:09.570466+00:00",
+  "top5": [
     {
-      "title": "hoppscotch /hoppscotch",
+      "title": "hoppscotch / hoppscotch",
       "summary": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
       "summary_it": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
       "url": "https://github.com/hoppscotch/hoppscotch",
-      "date": "2025-10-23T20:35:33.838757+00:00",
+      "date": "2025-10-23T20:45:08.748326+00:00",
       "source": "github",
       "tags": [
-        "TypeScript",
-        "trending"
-      ]
+        "Altro",
+        "TypeScript"
+      ],
+      "stars": 75306,
+      "score": 14.0
     },
     {
-      "title": "jaywcjlove /awesome-mac",
+      "title": "jaywcjlove / awesome-mac",
       "summary": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
       "summary_it": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
       "url": "https://github.com/jaywcjlove/awesome-mac",
-      "date": "2025-10-23T20:35:33.838384+00:00",
+      "date": "2025-10-23T20:45:08.581451+00:00",
       "source": "github",
       "tags": [
         "JavaScript",
-        "trending"
-      ]
+        "E-commerce"
+      ],
+      "stars": 91037,
+      "score": 14.0
     },
     {
-      "title": "guofei9987 /scikit-opt",
+      "title": "guofei9987 / scikit-opt",
       "summary": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
       "summary_it": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
       "url": "https://github.com/guofei9987/scikit-opt",
-      "date": "2025-10-23T20:35:33.838106+00:00",
+      "date": "2025-10-23T20:45:08.418926+00:00",
       "source": "github",
       "tags": [
         "Python",
-        "trending"
-      ]
+        "Altro"
+      ],
+      "stars": 6014,
+      "score": 14.0
     },
     {
-      "title": "lukasmasuch /best-of-ml-python",
+      "title": "lukasmasuch / best-of-ml-python",
       "summary": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
       "summary_it": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
       "url": "https://github.com/lukasmasuch/best-of-ml-python",
-      "date": "2025-10-23T20:35:33.837829+00:00",
+      "date": "2025-10-23T20:45:08.257389+00:00",
       "source": "github",
       "tags": [
-        "trending"
-      ]
+        "Altro"
+      ],
+      "stars": 22359,
+      "score": 14.0
     },
     {
-      "title": "meta-pytorch /torchforge",
-      "summary": "PyTorch-native post-training at scale",
-      "summary_it": "PyTorch-native post-training at scale",
-      "url": "https://github.com/meta-pytorch/torchforge",
-      "date": "2025-10-23T20:35:33.837424+00:00",
-      "source": "github",
-      "tags": [
-        "Python",
-        "trending"
-      ]
-    },
-    {
-      "title": "yt-dlp /yt-dlp",
+      "title": "yt-dlp / yt-dlp",
       "summary": "A feature-rich command-line audio/video downloader",
       "summary_it": "A feature-rich command-line audio/video downloader",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "date": "2025-10-23T20:35:33.837153+00:00",
+      "date": "2025-10-23T20:45:07.798972+00:00",
       "source": "github",
       "tags": [
         "Python",
-        "trending"
-      ]
-    },
+        "Audio",
+        "Video"
+      ],
+      "stars": 131856,
+      "score": 14.0
+    }
+  ],
+  "items": [
     {
-      "title": "harvard-edge /cs249r_book",
-      "summary": "Introduction to Machine Learning Systems",
-      "summary_it": "Introduction to Machine Learning Systems",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "date": "2025-10-23T20:35:33.836877+00:00",
+      "title": "hoppscotch / hoppscotch",
+      "summary": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+      "summary_it": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+      "url": "https://github.com/hoppscotch/hoppscotch",
+      "date": "2025-10-23T20:45:08.748326+00:00",
       "source": "github",
       "tags": [
-        "Python",
-        "trending"
-      ]
+        "Altro",
+        "TypeScript"
+      ],
+      "stars": 75306,
+      "score": 14.0
     },
     {
-      "title": "louislam /uptime-kuma",
-      "summary": "A fancy self-hosted monitoring tool",
-      "summary_it": "A fancy self-hosted monitoring tool",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "date": "2025-10-23T20:35:33.836578+00:00",
+      "title": "jaywcjlove / awesome-mac",
+      "summary": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+      "summary_it": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "date": "2025-10-23T20:45:08.581451+00:00",
       "source": "github",
       "tags": [
         "JavaScript",
-        "trending"
-      ]
+        "E-commerce"
+      ],
+      "stars": 91037,
+      "score": 14.0
     },
     {
-      "title": "rossant /awesome-math",
+      "title": "guofei9987 / scikit-opt",
+      "summary": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
+      "summary_it": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
+      "url": "https://github.com/guofei9987/scikit-opt",
+      "date": "2025-10-23T20:45:08.418926+00:00",
+      "source": "github",
+      "tags": [
+        "Python",
+        "Altro"
+      ],
+      "stars": 6014,
+      "score": 14.0
+    },
+    {
+      "title": "lukasmasuch / best-of-ml-python",
+      "summary": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+      "summary_it": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+      "url": "https://github.com/lukasmasuch/best-of-ml-python",
+      "date": "2025-10-23T20:45:08.257389+00:00",
+      "source": "github",
+      "tags": [
+        "Altro"
+      ],
+      "stars": 22359,
+      "score": 14.0
+    },
+    {
+      "title": "yt-dlp / yt-dlp",
+      "summary": "A feature-rich command-line audio/video downloader",
+      "summary_it": "A feature-rich command-line audio/video downloader",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "date": "2025-10-23T20:45:07.798972+00:00",
+      "source": "github",
+      "tags": [
+        "Python",
+        "Audio",
+        "Video"
+      ],
+      "stars": 131856,
+      "score": 14.0
+    },
+    {
+      "title": "louislam / uptime-kuma",
+      "summary": "A fancy self-hosted monitoring tool",
+      "summary_it": "A fancy self-hosted monitoring tool",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "date": "2025-10-23T20:45:07.469683+00:00",
+      "source": "github",
+      "tags": [
+        "JavaScript",
+        "Altro"
+      ],
+      "stars": 76926,
+      "score": 14.0
+    },
+    {
+      "title": "rossant / awesome-math",
       "summary": "A curated list of awesome mathematics resources",
       "summary_it": "A curated list of awesome mathematics resources",
       "url": "https://github.com/rossant/awesome-math",
-      "date": "2025-10-23T20:35:33.836219+00:00",
+      "date": "2025-10-23T20:45:07.328097+00:00",
       "source": "github",
       "tags": [
         "Python",
-        "trending"
-      ]
+        "Altro"
+      ],
+      "stars": 11055,
+      "score": 14.0
     },
     {
-      "title": "k2-fsa /sherpa-onnx",
+      "title": "k2-fsa / sherpa-onnx",
       "summary": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
       "summary_it": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
       "url": "https://github.com/k2-fsa/sherpa-onnx",
-      "date": "2025-10-23T20:35:33.835940+00:00",
+      "date": "2025-10-23T20:45:07.182558+00:00",
       "source": "github",
       "tags": [
-        "C++",
-        "trending"
-      ]
+        "Altro",
+        "C++"
+      ],
+      "stars": 8141,
+      "score": 14.0
     },
     {
-      "title": "dyad-sh /dyad",
+      "title": "dyad-sh / dyad",
       "summary": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
       "summary_it": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
       "url": "https://github.com/dyad-sh/dyad",
-      "date": "2025-10-23T20:35:33.835657+00:00",
+      "date": "2025-10-23T20:45:07.012949+00:00",
       "source": "github",
       "tags": [
-        "TypeScript",
-        "trending"
-      ]
+        "Altro",
+        "TypeScript"
+      ],
+      "stars": 16917,
+      "score": 14.0
     },
     {
-      "title": "paperless-ngx /paperless-ngx",
+      "title": "paperless-ngx / paperless-ngx",
       "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "summary_it": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "date": "2025-10-23T20:35:33.835357+00:00",
+      "date": "2025-10-23T20:45:06.853660+00:00",
       "source": "github",
       "tags": [
         "Python",
-        "trending"
-      ]
+        "Altro"
+      ],
+      "stars": 33131,
+      "score": 14.0
     },
     {
-      "title": "LadybirdBrowser /ladybird",
+      "title": "LadybirdBrowser / ladybird",
       "summary": "Truly independent web browser",
       "summary_it": "Truly independent web browser",
       "url": "https://github.com/LadybirdBrowser/ladybird",
-      "date": "2025-10-23T20:35:33.835070+00:00",
+      "date": "2025-10-23T20:45:06.685170+00:00",
       "source": "github",
       "tags": [
-        "C++",
-        "trending"
-      ]
+        "Altro",
+        "C++"
+      ],
+      "stars": 50398,
+      "score": 14.0
     },
     {
-      "title": "mountain-loop /yaak",
+      "title": "mountain-loop / yaak",
       "summary": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
       "summary_it": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
       "url": "https://github.com/mountain-loop/yaak",
-      "date": "2025-10-23T20:35:33.834779+00:00",
+      "date": "2025-10-23T20:45:06.524369+00:00",
       "source": "github",
       "tags": [
-        "TypeScript",
-        "trending"
-      ]
+        "Altro",
+        "TypeScript"
+      ],
+      "stars": 13191,
+      "score": 14.0
     },
     {
-      "title": "guofei9987 /blind_watermark",
+      "title": "guofei9987 / blind_watermark",
       "summary": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
       "summary_it": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
       "url": "https://github.com/guofei9987/blind_watermark",
-      "date": "2025-10-23T20:35:33.834431+00:00",
+      "date": "2025-10-23T20:45:06.381679+00:00",
       "source": "github",
       "tags": [
         "Python",
-        "trending"
-      ]
+        "Altro"
+      ],
+      "stars": 8739,
+      "score": 14.0
     },
     {
-      "title": "minio /minio",
+      "title": "minio / minio",
       "summary": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "summary_it": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "url": "https://github.com/minio/minio",
-      "date": "2025-10-23T20:35:33.834095+00:00",
+      "date": "2025-10-23T20:45:06.232855+00:00",
       "source": "github",
       "tags": [
-        "Go",
-        "trending"
-      ]
+        "E-commerce",
+        "Go"
+      ],
+      "stars": 56451,
+      "score": 14.0
+    },
+    {
+      "title": "harvard-edge / cs249r_book",
+      "summary": "Introduction to Machine Learning Systems",
+      "summary_it": "Introduction to Machine Learning Systems",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "date": "2025-10-23T20:45:07.638686+00:00",
+      "source": "github",
+      "tags": [
+        "Python",
+        "Altro"
+      ],
+      "stars": 4622,
+      "score": 13.24
+    },
+    {
+      "title": "meta-pytorch / torchforge",
+      "summary": "PyTorch-native post-training at scale",
+      "summary_it": "PyTorch-native post-training at scale",
+      "url": "https://github.com/meta-pytorch/torchforge",
+      "date": "2025-10-23T20:45:07.983951+00:00",
+      "source": "github",
+      "tags": [
+        "Python",
+        "Altro"
+      ],
+      "stars": 274,
+      "score": 4.55
     },
     {
       "title": "Meet Mico, Microsoft's AI Version of Clippy",
-      "summary": "Article URL: https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy Comments URL: https://news.ycombinator.com/item?id=45686609 Points: 1 # Comments: 1",
-      "summary_it": "Article URL: https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy Comments URL: https://news.ycombinator.com/item?id=45686609 Points: 1 # Comments: 1",
+      "summary": "Article URL: https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy Comments URL: https://news.ycombinator.com/item?id=45686609 Points: 2 # Comments: 1",
+      "summary_it": "Article URL: https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy Comments URL: https://news.ycombinator.com/item?id=45686609 Points: 2 # Comments: 1",
       "url": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy",
       "date": "2025-10-23T20:25:47+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Video",
+        "Chat/Agent"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Bill Gates says a 2-day work week is coming in just 10 years, thanks to AI",
-      "summary": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 2 # Comments: 3",
-      "summary_it": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 2 # Comments: 3",
+      "summary": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 3 # Comments: 4",
+      "summary_it": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 3 # Comments: 4",
       "url": "https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/",
       "date": "2025-10-23T20:17:02+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "AI Orchestration for Operational Real-Time Network Analysis",
@@ -224,9 +332,10 @@
       "date": "2025-10-23T20:03:25+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "I built this AI photography app for small brands",
@@ -236,9 +345,10 @@
       "date": "2025-10-23T19:47:56+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Ask HN: Where should an experienced developer start learning AI development?",
@@ -248,9 +358,11 @@
       "date": "2025-10-23T19:17:02+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Dev/Code",
+        "E-commerce"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "US general uses AI for military decisions and is \"really close\" with ChatGPT",
@@ -260,21 +372,24 @@
       "date": "2025-10-23T18:56:51+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Chat/Agent"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Show HN: Story Keeper – AI agents with narrative continuity instead of memory",
-      "summary": "Hi HN! Creator here.\nI built Story Keeper to solve a problem I kept hitting with AI agents: they remember everything but lose coherence over long conversations.\nThe Core Idea\nInstead of storing chat history and retrieving chunks (RAG approach), Story Keeper maintains a living narrative: Characters: Who you are (evolving), who the agent is\nArc: Where you started → where you're going\nThemes: What matters to you\nContext: The thread connecting everything Think of it as the difference between reading meeting notes vs. being in the relationship.\nTechnical Approach\n~200 lines of Python. Three primitives: Story State (not message list)\nStory Evolution (not appending)\nStory-Grounded Response (not retrieval) Works with any LLM - tested with GPT-4, Claude, Llama 3.1, Mistral.\nWhy This Works\nTraditional memory is about facts. Story Keeper is about continuity.\nExample: Health coaching agent Normal: Generic advice each time\nStory Keeper: \"This is the pattern we identified last month. You do better with 'good enough' than perfect.\" The agent carries forward understanding, not just data.\nImplementation\nPart of PACT-AX (open source agent collaboration framework). MIT licensed.\nSimple integration:\npythonfrom pact_ax.primitives.story_keeper import StoryKeeper keeper = StoryKeeper(agent_id=\"my-agent\")\nresponse = keeper.process_turn(user_message)\nUse Cases I'm Exploring Long-term coaching/mentorship\nMulti-session research assistants\nCustomer support with relationship continuity\nEducational tutors that understand learning journeys What I'd Love Feedback On Is this solving a real problem or am I overthinking it?\nPerformance concerns at scale?\nOther approaches people have tried for this?\nUse cases I'm missing? The full technical writeup is in the repo blog folder.\nHappy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45685363 Points: 2 # Comments: 0",
-      "summary_it": "Hi HN! Creator here.\nI built Story Keeper to solve a problem I kept hitting with AI agents: they remember everything but lose coherence over long conversations.\nThe Core Idea\nInstead of storing chat history and retrieving chunks (RAG approach), Story Keeper maintains a living narrative: Characters: Who you are (evolving), who the agent is\nArc: Where you started → where you're going\nThemes: What matters to you\nContext: The thread connecting everything Think of it as the difference between reading meeting notes vs. being in the relationship.\nTechnical Approach\n~200 lines of Python. Three primitives: Story State (not message list)\nStory Evolution (not appending)\nStory-Grounded Response (not retrieval) Works with any LLM - tested with GPT-4, Claude, Llama 3.1, Mistral.\nWhy This Works\nTraditional memory is about facts. Story Keeper is about continuity.\nExample: Health coaching agent Normal: Generic advice each time\nStory Keeper: \"This is the pattern we identified last month. You do better with 'good enough' than perfect.\" The agent carries forward understanding, not just data.\nImplementation\nPart of PACT-AX (open source agent collaboration framework). MIT licensed.\nSimple integration:\npythonfrom pact_ax.primitives.story_keeper import StoryKeeper keeper = StoryKeeper(agent_id=\"my-agent\")\nresponse = keeper.process_turn(user_message)\nUse Cases I'm Exploring Long-term coaching/mentorship\nMulti-session research assistants\nCustomer support with relationship continuity\nEducational tutors that understand learning journeys What I'd Love Feedback On Is this solving a real problem or am I overthinking it?\nPerformance concerns at scale?\nOther approaches people have tried for this?\nUse cases I'm missing? The full technical writeup is in the repo blog folder.\nHappy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45685363 Points: 2 # Comments: 0",
+      "summary": "Hi HN! Creator here. I built Story Keeper to solve a problem I kept hitting with AI agents: they remember everything but lose coherence over long conversations. The Core Idea Instead of storing chat history and retrieving chunks (RAG approach), Story Keeper maintains a living narrative: Characters: Who you are (evolving), who the agent is Arc: Where you started → where you're going Themes: What matters to you Context: The thread connecting everything Think of it as the difference between reading meeting notes vs. being in the relationship. Technical Approach ~200 lines of Python. Three primitives: Story State (not message list) Story Evolution (not appending) Story-Grounded Response (not retrieval) Works with any LLM - tested with GPT-4, Claude, Llama 3.1, Mistral. Why This Works Traditional memory is about facts. Story Keeper is about continuity. Example: Health coaching agent Normal: Generic advice each time Story Keeper: \"This is the pattern we identified last month. You do better with 'good enough' than perfect.\" The agent carries forward understanding, not just data. Implementation Part of PACT-AX (open source agent collaboration framework). MIT licensed. Simple integration: pythonfrom pact_ax.primitives.story_keeper import StoryKeeper keeper = StoryKeeper(agent_id=\"my-agent\") response = keeper.process_turn(user_message) Use Cases I'm Exploring Long-term coaching/mentorship Multi-session research assistants Customer support with relationship continuity Educational tutors that understand learning journeys What I'd Love Feedback On Is this solving a real problem or am I overthinking it? Performance concerns at scale? Other approaches people have tried for this? Use cases I'm missing? The full technical writeup is in the repo blog folder. Happy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45685363 Points: 2 # Comments: 0",
+      "summary_it": "Hi HN! Creator here. I built Story Keeper to solve a problem I kept hitting with AI agents: they remember everything but lose coherence over long conversations. The Core Idea Instead of storing chat history and retrieving chunks (RAG approach), Story Keeper maintains a living narrative: Characters: Who you are (evolving), who the agent is Arc: Where you started → where you're going Themes: What matters to you Context: The thread connecting everything Think of it as the difference between reading meeting notes vs. being in the relationship. Technical Approach ~200 lines of Python. Three primitives: Story State (not message list) Story Evolution (not appending) Story-Grounded Response (not retrieval) Works with any LLM - tested with GPT-4, Claude, Llama 3.1, Mistral. Why This Works Traditional memory is about facts. Story Keeper is about continuity. Example: Health coaching agent Normal: Generic advice each time Story Keeper: \"This is the pattern we identified last month. You do better with 'good enough' than perfect.\" The agent carries forward understanding, not just data. Implementation Part of PACT-AX (open source agent collaboration framework). MIT licensed. Simple integration: pythonfrom pact_ax.primitives.story_keeper import StoryKeeper keeper = StoryKeeper(agent_id=\"my-agent\") response = keeper.process_turn(user_message) Use Cases I'm Exploring Long-term coaching/mentorship Multi-session research assistants Customer support with relationship continuity Educational tutors that understand learning journeys What I'd Love Feedback On Is this solving a real problem or am I overthinking it? Performance concerns at scale? Other approaches people have tried for this? Use cases I'm missing? The full technical writeup is in the repo blog folder. Happy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45685363 Points: 2 # Comments: 0",
       "url": "https://github.com/neurobloomai/pact-ax",
       "date": "2025-10-23T18:50:24+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Chat/Agent",
+        "Dev/Code"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "OpenAI buys AI startup that built interface for Apple computers",
@@ -284,9 +399,10 @@
       "date": "2025-10-23T18:49:50+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Study shows AI assistants misrepresent news content 45% of the time",
@@ -296,9 +412,11 @@
       "date": "2025-10-23T18:21:15+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Chat/Agent",
+        "Marketing/Content"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "When Will AI Transform the Economy?",
@@ -308,21 +426,23 @@
       "date": "2025-10-23T18:18:47+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-      "summary": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 199 # Comments: 139",
-      "summary_it": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 199 # Comments: 139",
+      "summary": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 211 # Comments: 143",
+      "summary_it": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 211 # Comments: 143",
       "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
       "date": "2025-10-23T18:09:37+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "AI Pullback Has Officially Started",
@@ -332,9 +452,10 @@
       "date": "2025-10-23T17:58:10+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "I Want Everything Local – Building My Offline AI Workspace (incl. Claude Skills)",
@@ -344,9 +465,10 @@
       "date": "2025-10-23T17:52:06+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "A different kind of personal intelligence: an architecture for understanding",
@@ -356,9 +478,10 @@
       "date": "2025-10-23T17:48:52+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "The Official AI purity test",
@@ -368,9 +491,10 @@
       "date": "2025-10-23T17:43:18+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Sakana AI CTO says he's 'sick' of transformers that powers every major AI model",
@@ -380,9 +504,10 @@
       "date": "2025-10-23T17:32:47+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Statement from Anthropic CEO on Commitment to US AI Leadership",
@@ -392,9 +517,10 @@
       "date": "2025-10-23T17:28:48+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Alpha Arena: AI Trading Competition",
@@ -404,9 +530,10 @@
       "date": "2025-10-23T17:21:08+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Microsoft's Mico is a 'Clippy' for the AI era",
@@ -416,9 +543,10 @@
       "date": "2025-10-23T17:18:49+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Video"
+      ],
+      "points": 0,
+      "score": 3.0
     },
     {
       "title": "Wealth AI the world's First all in one privacy focused finance tool (no sign-in)",
@@ -428,9 +556,10 @@
       "date": "2025-10-23T17:12:55+00:00",
       "source": "hn",
       "tags": [
-        "hn",
-        "ai"
-      ]
+        "Altro"
+      ],
+      "points": 0,
+      "score": 3.0
     }
   ]
 }
