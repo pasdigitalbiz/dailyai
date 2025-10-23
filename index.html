@@ -1,54 +1,65 @@
-<!doctype html>
-<html lang="it">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>DailyAI — Notizie da Hacker News</title>
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 40px auto; max-width: 920px; line-height: 1.5; color: #111; }
-    h1 { font-size: 2rem; margin: 0 0 6px; }
-    p.sub { color: #555; margin: 0 0 24px; }
-    article { display: grid; grid-template-columns: 180px 1fr; gap: 16px; padding: 18px 0; border-bottom: 1px solid #eee; }
-    img.thumb { width: 180px; height: 110px; object-fit: cover; border-radius: 8px; background: #f6f6f6; }
-    .meta { font-size: .9rem; color: #777; margin-top: 6px; }
-    a.title { color: #111; text-decoration: none; }
-    a.title:hover { text-decoration: underline; }
-    footer { margin: 36px 0; font-size: .9rem; color: #888; text-align: center; }
-  </style>
-</head>
-<body>
-  <h1>DailyAI</h1>
-  <p class="sub">Ultime notizie su AI da Hacker News. Aggiornamento automatico ogni giorno.</p>
+<script>
+  const toolsURL = "./public/tools.json?_=" + Date.now();
+  const newsURL  = "./public/data.json?_=" + Date.now();
 
-  <div id="feed">Caricamento…</div>
+  function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
 
-  <footer>Fonte RSS Hacker News • open source su GitHub Pages</footer>
+  async function loadAll(){
+    const [toolsRes, newsRes] = await Promise.all([fetch(toolsURL), fetch(newsURL)]);
+    const toolsData = await toolsRes.json();
+    const newsData  = await newsRes.json();
+    renderTools(toolsData.tools||[]);
+    renderNews(newsData.items||[]);
+  }
 
-  <script>
-    function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
-    function proxy(u){
-      if(!u) return "https://via.placeholder.com/180x110?text=AI";
-      // proxy per evitare blocchi di immagini
-      return "https://images.weserv.nl/?url=" + encodeURIComponent(u) + "&w=360&h=220&fit=cover";
-    }
-    async function load(){
-      const r = await fetch("./public/data.json?_=" + Date.now());
-      const data = await r.json();
-      const items = data.items || [];
-      const el = document.getElementById("feed");
-      if(!items.length){ el.textContent = "Nessuna notizia al momento."; return; }
-      el.innerHTML = items.map(it => `
-        <article>
-          <img class="thumb" referrerpolicy="no-referrer" src="${proxy(it.image)}" alt="">
-          <div>
-            <h2 style="margin:0 0 6px"><a class="title" href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
-            <p style="margin:0 0 8px">${esc(it.summary||"")}</p>
-            <div class="meta">${new Date(it.date).toLocaleString("it-IT")}</div>
+  function renderTools(items){
+    const grid = document.querySelector(".grid") || document.getElementById("tools-grid");
+    if(!grid) return;
+    grid.innerHTML = items.map(t => `
+      <a href="./tool.html?slug=${encodeURIComponent(t.slug)}" class="group rounded-2xl overflow-hidden border border-zinc-200 hover:shadow-md transition">
+        <div class="aspect-[16/9] w-full overflow-hidden bg-zinc-100">
+          <img src="${t.cover}" alt="" class="w-full h-full object-cover group-hover:scale-[1.02] transition" />
+        </div>
+        <div class="p-3">
+          <div class="flex items-center gap-2 mb-2">
+            <img src="${t.logo}" alt="" class="w-8 h-8 rounded" />
+            <div>
+              <div class="font-semibold leading-tight">${esc(t.name)}</div>
+              <div class="text-xs text-zinc-600">${esc(t.tagline||"")}</div>
+            </div>
           </div>
-        </article>
-      `).join("");
-    }
-    load();
-  </script>
-</body>
-</html>
+          <p class="text-sm text-zinc-700 line-clamp-2 mb-2">${esc(t.description||"")}</p>
+          <div class="flex flex-wrap gap-2">
+            ${(t.badges||[]).map(b=>`<span class="text-xs px-2 py-1 rounded-full border border-zinc-200">${esc(b)}</span>`).join("")}
+          </div>
+        </div>
+      </a>
+    `).join("");
+  }
+
+  function proxy(u){
+    if(!u) return "https://via.placeholder.com/180x110?text=AI";
+    return "https://images.weserv.nl/?url=" + encodeURIComponent(u) + "&w=360&h=220&fit=cover";
+  }
+
+  function renderNews(items){
+    const feed = document.getElementById("feed");
+    if(!feed) return;
+    if(!items.length){ feed.innerHTML = "<p>Nessuna notizia al momento.</p>"; return; }
+    feed.innerHTML = items.slice(0,9).map(it => `
+      <article class="rounded-2xl overflow-hidden border border-zinc-200">
+        <div class="aspect-[16/9] bg-zinc-100">
+          <img class="w-full h-full object-cover" src="${proxy(it.image)}" alt="">
+        </div>
+        <div class="p-3">
+          <div class="text-sm text-zinc-500">Hacker News</div>
+          <h4 class="font-semibold"><a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
+          <p class="text-sm text-zinc-700 line-clamp-2">${esc(it.summary||"")}</p>
+          <div class="text-xs text-zinc-500 mt-1">${new Date(it.date).toLocaleString("it-IT")}</div>
+        </div>
+      </article>
+    `).join("");
+  }
+
+  loadAll();
+</script>
