@@ -1,117 +1,124 @@
 {
-  "generated_at": "2025-10-23T20:57:27.927830+00:00",
+  "generated_at": "2025-10-24T06:42:04.648624+00:00",
   "items": [
     {
-      "title": "Stability AI and EA partner to reimagine game development",
-      "summary": "Article URL: https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development Comments URL: https://news.ycombinator.com/item?id=45687017 Points: 1 # Comments: 0",
-      "url": "https://stability.ai/news/stability-ai-and-ea-partner-to-reimagine-game-development",
-      "image": "http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/68f7e4c20448615ff118b4da/1761247220752/EA+announcement_Thumbnail_1x1_v3.png?format=1500w",
-      "date": "2025-10-23T20:56:49+00:00"
+      "title": "Will AI lengthen lifespans or shorten them?",
+      "summary": "Article URL: https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb Comments URL: https://news.ycombinator.com/item?id=45691380 Points: 2 # Comments: 0",
+      "url": "https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc1a73c2-ac2f-4d84-8b94-767239130eb0.jpg?source=next-barrier-page",
+      "date": "2025-10-24T06:11:53+00:00"
     },
     {
-      "title": "Don't be fooled. the US is regulating AI – just not the way you think",
-      "summary": "Article URL: https://www.theguardian.com/commentisfree/2025/oct/23/us-artificial-intelligence-regulations Comments URL: https://news.ycombinator.com/item?id=45687003 Points: 3 # Comments: 0",
-      "url": "https://www.theguardian.com/commentisfree/2025/oct/23/us-artificial-intelligence-regulations",
-      "image": "https://i.guim.co.uk/img/media/f3b9ac69b44d5479c00808f71bd1a046b6b3f552/0_0_5833_4667/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9b7f72c1d9d3446c28925d9cfaff561c",
-      "date": "2025-10-23T20:55:37+00:00"
+      "title": "Schneier on LLM vulnerabilities, agentic AI, and \"trusting trust\"",
+      "summary": "Article URL: https://herbsutter.com/2025/10/23/schneier-on-llm-vulnerabilities-agentic-ai-and-trusting-trust/ Comments URL: https://news.ycombinator.com/item?id=45691306 Points: 2 # Comments: 0",
+      "url": "https://herbsutter.com/2025/10/23/schneier-on-llm-vulnerabilities-agentic-ai-and-trusting-trust/",
+      "image": "https://secure.gravatar.com/blavatar/fe7f5b0b83dba894afe26c42bcab33fe2d1246d9730ef182c72c0bff0dc26acb?s=200&ts=1761286413",
+      "date": "2025-10-24T06:00:37+00:00"
     },
     {
-      "title": "Waiting for AI's phase change in mathematics [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=omBpalvYFNM Comments URL: https://news.ycombinator.com/item?id=45686947 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=omBpalvYFNM",
+      "title": "Google AI falsely named an innocent journalist as a notorious child murderer",
+      "summary": "Article URL: https://www.smh.com.au/national/how-google-ai-falsely-named-an-innocent-journalist-as-a-notorious-child-murderer-20251024-p5n52d.html Comments URL: https://news.ycombinator.com/item?id=45691159 Points: 2 # Comments: 0",
+      "url": "https://www.smh.com.au/national/how-google-ai-falsely-named-an-innocent-journalist-as-a-notorious-child-murderer-20251024-p5n52d.html",
+      "image": "https://static.ffx.io/images/$zoom_0.29904666332162566%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/9840809598ad631a60c20941be136c0caa39004ef26b5b32fd893e079ccaa8af",
+      "date": "2025-10-24T05:37:05+00:00"
+    },
+    {
+      "title": "When AI Meets Tarot: What Happens When Logic Encounters Intuition",
+      "summary": "Article URL: https://arcanacalculator.com/blog/how-ai-tools-supercharge-tarot-practice Comments URL: https://news.ycombinator.com/item?id=45691146 Points: 3 # Comments: 0",
+      "url": "https://arcanacalculator.com/blog/how-ai-tools-supercharge-tarot-practice",
       "image": "",
-      "date": "2025-10-23T20:51:01+00:00"
+      "date": "2025-10-24T05:34:55+00:00"
     },
     {
-      "title": "Meet Mico, Microsoft's AI Version of Clippy",
-      "summary": "Article URL: https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy Comments URL: https://news.ycombinator.com/item?id=45686609 Points: 2 # Comments: 1",
-      "url": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/chrome_P7wxXjb8cg.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "date": "2025-10-23T20:25:47+00:00"
+      "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0rpzrrgqvlo Comments URL: https://news.ycombinator.com/item?id=45691087 Points: 2 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/c0rpzrrgqvlo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9d37/live/6e579b40-afb2-11f0-9245-f1d64a55b2bb.jpg",
+      "date": "2025-10-24T05:28:00+00:00"
     },
     {
-      "title": "Bill Gates says a 2-day work week is coming in just 10 years, thanks to AI",
-      "summary": "Article URL: https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/ Comments URL: https://news.ycombinator.com/item?id=45686510 Points: 3 # Comments: 5",
-      "url": "https://fortune.com/2025/03/27/billionaire-bill-gates-two-day-workweek-ai-replacing-humans/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/03/GettyImages-2205263480-e1743086931230.jpg?resize=1200,600",
-      "date": "2025-10-23T20:17:02+00:00"
+      "title": "Redpoint Claims $1.8T Up for Grabs for AI Apps in New Report",
+      "summary": "Article URL: https://www.upstartsmedia.com/p/redpoint-ai64-apps-cursor Comments URL: https://news.ycombinator.com/item?id=45690798 Points: 1 # Comments: 0",
+      "url": "https://www.upstartsmedia.com/p/redpoint-ai64-apps-cursor",
+      "image": "https://substackcdn.com/image/fetch/$s_!djJe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F383bf442-b6e1-4a15-9cc6-469a599bace2_1920x1080.png",
+      "date": "2025-10-24T04:34:06+00:00"
     },
     {
-      "title": "Ask HN: Where should an experienced developer start learning AI development?",
-      "summary": "For an experienced software developer looking to get started in AI development. What online courses would you recommend for someone entering this area of development today? Any guidance on where to begin or which areas to focus on would be greatly appreciated. While I prefer online courses, I’m also open to other learning formats like books, YouTube channels, or tutorials. Thanks in advance for your advice! Comments URL: https://news.ycombinator.com/item?id=45685702 Points: 4 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45685702",
+      "title": "IDEaS fictional intelligence contest: Polar paradigms 2045 – Defending Canada",
+      "summary": "Article URL: https://www.canada.ca/en/department-national-defence/programs/defence-ideas/element/contests/challenge/ideas-fictional-intelligence-contest-polar-paradigms-2045-defending-canada-sovereignty.html Comments URL: https://news.ycombinator.com/item?id=45690446 Points: 2 # Comments: 0",
+      "url": "https://www.canada.ca/en/department-national-defence/programs/defence-ideas/element/contests/challenge/ideas-fictional-intelligence-contest-polar-paradigms-2045-defending-canada-sovereignty.html",
       "image": "",
-      "date": "2025-10-23T19:17:02+00:00"
+      "date": "2025-10-24T03:27:13+00:00"
     },
     {
-      "title": "US general uses AI for military decisions and is \"really close\" with ChatGPT",
-      "summary": "Article URL: https://www.dexerto.com/entertainment/us-army-general-admits-using-ai-for-military-decisions-and-is-really-close-with-chatgpt-3270391/ Comments URL: https://news.ycombinator.com/item?id=45685442 Points: 6 # Comments: 3",
-      "url": "https://www.dexerto.com/entertainment/us-army-general-admits-using-ai-for-military-decisions-and-is-really-close-with-chatgpt-3270391/",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/17/Top-US-Army-general-admits-to-using-ChatGPT-for-military-decisions.jpg",
-      "date": "2025-10-23T18:56:51+00:00"
-    },
-    {
-      "title": "OpenAI buys AI startup that built interface for Apple computers",
-      "summary": "Article URL: https://www.cnbc.com/2025/10/23/openai-buys-ai-startup-software-applications-incorporated.html Comments URL: https://news.ycombinator.com/item?id=45685356 Points: 2 # Comments: 1",
-      "url": "https://www.cnbc.com/2025/10/23/openai-buys-ai-startup-software-applications-incorporated.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108204530-1758900517239-gettyimages-2236544077-STARGATE_DATA_CENTER.jpeg?v=1761239410&w=1920&h=1080",
-      "date": "2025-10-23T18:49:50+00:00"
-    },
-    {
-      "title": "Study shows AI assistants misrepresent news content 45% of the time",
-      "summary": "Article URL: https://www.ebu.ch/news/2025/10/ai-s-systemic-distortion-of-news-is-consistent-across-languages-and-territories-international-study-by-public-service-broadcaste Comments URL: https://news.ycombinator.com/item?id=45685069 Points: 3 # Comments: 0",
-      "url": "https://www.ebu.ch/news/2025/10/ai-s-systemic-distortion-of-news-is-consistent-across-languages-and-territories-international-study-by-public-service-broadcaste",
+      "title": "To be replaced by AI is a choice",
+      "summary": "Article URL: https://peter.demin.dev/12_articles/75-replaced-by-AI.html Comments URL: https://news.ycombinator.com/item?id=45690362 Points: 3 # Comments: 1",
+      "url": "https://peter.demin.dev/12_articles/75-replaced-by-AI.html",
       "image": "",
-      "date": "2025-10-23T18:21:15+00:00"
+      "date": "2025-10-24T03:13:17+00:00"
     },
     {
-      "title": "When Will AI Transform the Economy?",
-      "summary": "Article URL: https://andreinfante.substack.com/p/when-will-ai-transform-the-economy Comments URL: https://news.ycombinator.com/item?id=45685042 Points: 5 # Comments: 0",
-      "url": "https://andreinfante.substack.com/p/when-will-ai-transform-the-economy",
+      "title": "Data centers turn to commercial aircraft jet engines as AI power crunch bites",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites Comments URL: https://news.ycombinator.com/item?id=45690180 Points: 5 # Comments: 2",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites",
+      "image": "https://cdn.mos.cms.futurecdn.net/SNparuUYnM5PjH5MyZAkDa-1053-80.png",
+      "date": "2025-10-24T02:45:16+00:00"
+    },
+    {
+      "title": "Low GPA, High Impact: Horses, Code, and Influencing Future AI",
+      "summary": "Article URL: https://lightcapai.medium.com/unconventional-synergy-horses-weed-and-code-in-a-23-year-olds-tech-journey-b8dff132becb Comments URL: https://news.ycombinator.com/item?id=45689916 Points: 1 # Comments: 1",
+      "url": "https://lightcapai.medium.com/unconventional-synergy-horses-weed-and-code-in-a-23-year-olds-tech-journey-b8dff132becb",
       "image": "",
-      "date": "2025-10-23T18:18:47+00:00"
+      "date": "2025-10-24T02:01:44+00:00"
     },
     {
-      "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-      "summary": "Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/ Comments URL: https://news.ycombinator.com/item?id=45684934 Points: 227 # Comments: 149",
-      "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/23/doritos-ai-gun-detection-student-swarmed.jpg",
-      "date": "2025-10-23T18:09:37+00:00"
+      "title": "Microsoft AI chief says company won't build chatbots for erotica",
+      "summary": "Article URL: https://www.cnbc.com/2025/10/23/microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.html Comments URL: https://news.ycombinator.com/item?id=45689865 Points: 3 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/10/23/microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1697126213&w=1920&h=1080",
+      "date": "2025-10-24T01:53:01+00:00"
     },
     {
-      "title": "AI Pullback Has Officially Started",
-      "summary": "Article URL: https://wlockett.medium.com/ai-pullback-has-officially-started-fb6dfa5e4128 Comments URL: https://news.ycombinator.com/item?id=45684814 Points: 2 # Comments: 0",
-      "url": "https://wlockett.medium.com/ai-pullback-has-officially-started-fb6dfa5e4128",
+      "title": "AI is changing our understanding of earthquakes",
+      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2025/ai-is-changing-understanding-of-earthquakes Comments URL: https://news.ycombinator.com/item?id=45689534 Points: 1 # Comments: 0",
+      "url": "https://knowablemagazine.org/content/article/physical-world/2025/ai-is-changing-understanding-of-earthquakes",
       "image": "",
-      "date": "2025-10-23T17:58:10+00:00"
+      "date": "2025-10-24T01:05:34+00:00"
     },
     {
-      "title": "I Want Everything Local – Building My Offline AI Workspace (incl. Claude Skills)",
-      "summary": "Article URL: https://instavm.io/blog/building-my-offline-workspace-part-2-skills Comments URL: https://news.ycombinator.com/item?id=45684732 Points: 1 # Comments: 0",
-      "url": "https://instavm.io/blog/building-my-offline-workspace-part-2-skills",
+      "title": "If AI \"slop\" scares you, your PR reviews are broken",
+      "summary": "Article URL: https://www.pcloadletter.dev/blog/pr-review-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=45689485 Points: 3 # Comments: 3",
+      "url": "https://www.pcloadletter.dev/blog/pr-review-ai-slop/",
       "image": "",
-      "date": "2025-10-23T17:52:06+00:00"
+      "date": "2025-10-24T00:57:25+00:00"
     },
     {
-      "title": "A different kind of personal intelligence: an architecture for understanding",
-      "summary": "Article URL: https://rebeccadai.substack.com/p/building-personal-intelligence-differently Comments URL: https://news.ycombinator.com/item?id=45684693 Points: 2 # Comments: 0",
-      "url": "https://rebeccadai.substack.com/p/building-personal-intelligence-differently",
+      "title": "Detection firm finds 82% of herbal remedy books on Amazon 'likely written' by AI",
+      "summary": "Article URL: https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai Comments URL: https://news.ycombinator.com/item?id=45689479 Points: 5 # Comments: 1",
+      "url": "https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai",
+      "image": "https://i.guim.co.uk/img/media/86a03a966ce87d89abd38660797306a09552ea83/335_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ca162dd8fb33f95ef7da08786da731d",
+      "date": "2025-10-24T00:56:19+00:00"
+    },
+    {
+      "title": "Two federal judges say use of AI led to errors in US court rulings",
+      "summary": "Article URL: https://www.channelnewsasia.com/business/two-federal-judges-say-use-ai-led-errors-in-us-court-rulings-5421161 Comments URL: https://news.ycombinator.com/item?id=45689373 Points: 7 # Comments: 0",
+      "url": "https://www.channelnewsasia.com/business/two-federal-judges-say-use-ai-led-errors-in-us-court-rulings-5421161",
+      "image": "https://dam.mediacorp.sg/image/upload/s--IrbkHoFo--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-10-23T202924Z_4_LYNXMPEL9M0VO_RTROPTP_3_USA-ARTIFICIAL-INTELLIGENCE-JUDGES.JPG?itok=eEEGr2iM",
+      "date": "2025-10-24T00:41:55+00:00"
+    },
+    {
+      "title": "AI Sidebar Spoofing Puts ChatGPT Atlas, Perplexity Comet, Other Browsers at Risk",
+      "summary": "Article URL: https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/ Comments URL: https://news.ycombinator.com/item?id=45689162 Points: 3 # Comments: 0",
+      "url": "https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/",
       "image": "",
-      "date": "2025-10-23T17:48:52+00:00"
+      "date": "2025-10-24T00:11:21+00:00"
     },
     {
-      "title": "Sakana AI CTO says he's 'sick' of transformers that powers every major AI model",
-      "summary": "Article URL: https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers Comments URL: https://news.ycombinator.com/item?id=45684505 Points: 3 # Comments: 0",
-      "url": "https://venturebeat.com/ai/sakana-ais-cto-says-hes-absolutely-sick-of-transformers-the-tech-that-powers",
-      "image": "",
-      "date": "2025-10-23T17:32:47+00:00"
-    },
-    {
-      "title": "Statement from Anthropic CEO on Commitment to US AI Leadership",
-      "summary": "Article URL: https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership Comments URL: https://news.ycombinator.com/item?id=45684473 Points: 1 # Comments: 0",
-      "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&backgroundColor=oat",
-      "date": "2025-10-23T17:28:48+00:00"
+      "title": "The Goldfish Problem: Why AI Agents Need Smaller Bowls to Swim Effectively",
+      "summary": "Article URL: https://blog.justcopy.ai/p/why-ai-agents-struggle-with-big-goals Comments URL: https://news.ycombinator.com/item?id=45688404 Points: 9 # Comments: 1",
+      "url": "https://blog.justcopy.ai/p/why-ai-agents-struggle-with-big-goals",
+      "image": "https://substackcdn.com/image/fetch/$s_!nujc!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dfb07df-9eda-4b6d-a50c-e675aedaa5fe_446x446.png",
+      "date": "2025-10-23T22:49:10+00:00"
     }
   ]
 }
