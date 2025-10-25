@@ -1,124 +1,110 @@
 {
-  "generated_at": "2025-10-24T06:42:04.648624+00:00",
+  "generated_at": "2025-10-25T06:37:12.143271+00:00",
   "items": [
     {
-      "title": "Will AI lengthen lifespans or shorten them?",
-      "summary": "Article URL: https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb Comments URL: https://news.ycombinator.com/item?id=45691380 Points: 2 # Comments: 0",
-      "url": "https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc1a73c2-ac2f-4d84-8b94-767239130eb0.jpg?source=next-barrier-page",
-      "date": "2025-10-24T06:11:53+00:00"
+      "title": "Wafer-Scale AI Compute: A System Software Perspective",
+      "summary": "Article URL: https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/ Comments URL: https://news.ycombinator.com/item?id=45701484 Points: 1 # Comments: 0",
+      "url": "https://www.sigops.org/2025/wafer-scale-ai-compute-a-system-software-perspective/",
+      "image": "https://www.sigops.org/wp-content/uploads/2025/10/wafer.png",
+      "date": "2025-10-25T05:08:30+00:00"
     },
     {
-      "title": "Schneier on LLM vulnerabilities, agentic AI, and \"trusting trust\"",
-      "summary": "Article URL: https://herbsutter.com/2025/10/23/schneier-on-llm-vulnerabilities-agentic-ai-and-trusting-trust/ Comments URL: https://news.ycombinator.com/item?id=45691306 Points: 2 # Comments: 0",
-      "url": "https://herbsutter.com/2025/10/23/schneier-on-llm-vulnerabilities-agentic-ai-and-trusting-trust/",
-      "image": "https://secure.gravatar.com/blavatar/fe7f5b0b83dba894afe26c42bcab33fe2d1246d9730ef182c72c0bff0dc26acb?s=200&ts=1761286413",
-      "date": "2025-10-24T06:00:37+00:00"
+      "title": "Armed police handcuff teen after AI mistakes crisp packet for gun in US",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cgjdlx92lylo Comments URL: https://news.ycombinator.com/item?id=45701441 Points: 1 # Comments: 1",
+      "url": "https://www.bbc.com/news/articles/cgjdlx92lylo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/db61/live/e50a8580-b0d5-11f0-bf5a-11e181bfe30d.jpg",
+      "date": "2025-10-25T04:53:34+00:00"
     },
     {
-      "title": "Google AI falsely named an innocent journalist as a notorious child murderer",
-      "summary": "Article URL: https://www.smh.com.au/national/how-google-ai-falsely-named-an-innocent-journalist-as-a-notorious-child-murderer-20251024-p5n52d.html Comments URL: https://news.ycombinator.com/item?id=45691159 Points: 2 # Comments: 0",
-      "url": "https://www.smh.com.au/national/how-google-ai-falsely-named-an-innocent-journalist-as-a-notorious-child-murderer-20251024-p5n52d.html",
-      "image": "https://static.ffx.io/images/$zoom_0.29904666332162566%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/9840809598ad631a60c20941be136c0caa39004ef26b5b32fd893e079ccaa8af",
-      "date": "2025-10-24T05:37:05+00:00"
+      "title": "Fire Yourself First: The E-Myth Approach to Iteratively AI App Development",
+      "summary": "Article URL: http://arcturus-labs.com/blog/2025/01/17/fire-yourself-first-the-e-myth-approach-to-iteratively-ai-app-development/ Comments URL: https://news.ycombinator.com/item?id=45701271 Points: 2 # Comments: 0",
+      "url": "http://arcturus-labs.com/blog/2025/01/17/fire-yourself-first-the-e-myth-approach-to-iteratively-ai-app-development/",
+      "image": "http://arcturus-labs.com/blog/assets/fire_yourself/top_image.png",
+      "date": "2025-10-25T03:58:59+00:00"
     },
     {
-      "title": "When AI Meets Tarot: What Happens When Logic Encounters Intuition",
-      "summary": "Article URL: https://arcanacalculator.com/blog/how-ai-tools-supercharge-tarot-practice Comments URL: https://news.ycombinator.com/item?id=45691146 Points: 3 # Comments: 0",
-      "url": "https://arcanacalculator.com/blog/how-ai-tools-supercharge-tarot-practice",
+      "title": "Is AI's Circular Financing Inflating a Bubble? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NbL7yZCF-6Q Comments URL: https://news.ycombinator.com/item?id=45701188 Points: 10 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=NbL7yZCF-6Q",
       "image": "",
-      "date": "2025-10-24T05:34:55+00:00"
+      "date": "2025-10-25T03:35:57+00:00"
     },
     {
-      "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c0rpzrrgqvlo Comments URL: https://news.ycombinator.com/item?id=45691087 Points: 2 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c0rpzrrgqvlo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9d37/live/6e579b40-afb2-11f0-9245-f1d64a55b2bb.jpg",
-      "date": "2025-10-24T05:28:00+00:00"
+      "title": "Should You Apply for a PhD in AI (2025-26)?",
+      "summary": "Article URL: https://yashbhalgat.github.io/blog/phd-or-not-phd.html Comments URL: https://news.ycombinator.com/item?id=45700881 Points: 2 # Comments: 1",
+      "url": "https://yashbhalgat.github.io/blog/phd-or-not-phd.html",
+      "image": "https://yashbhalgat.github.io/images/phd-or-not-phd.png",
+      "date": "2025-10-25T02:15:28+00:00"
     },
     {
-      "title": "Redpoint Claims $1.8T Up for Grabs for AI Apps in New Report",
-      "summary": "Article URL: https://www.upstartsmedia.com/p/redpoint-ai64-apps-cursor Comments URL: https://news.ycombinator.com/item?id=45690798 Points: 1 # Comments: 0",
-      "url": "https://www.upstartsmedia.com/p/redpoint-ai64-apps-cursor",
-      "image": "https://substackcdn.com/image/fetch/$s_!djJe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F383bf442-b6e1-4a15-9cc6-469a599bace2_1920x1080.png",
-      "date": "2025-10-24T04:34:06+00:00"
+      "title": "The design space of AI coding tools",
+      "summary": "Article URL: https://austinhenley.com/blog/aidesignspace.html Comments URL: https://news.ycombinator.com/item?id=45700816 Points: 10 # Comments: 1",
+      "url": "https://austinhenley.com/blog/aidesignspace.html",
+      "image": "https://austinhenley.com/blog/images/buildingrobots.jpg",
+      "date": "2025-10-25T01:58:29+00:00"
     },
     {
-      "title": "IDEaS fictional intelligence contest: Polar paradigms 2045 – Defending Canada",
-      "summary": "Article URL: https://www.canada.ca/en/department-national-defence/programs/defence-ideas/element/contests/challenge/ideas-fictional-intelligence-contest-polar-paradigms-2045-defending-canada-sovereignty.html Comments URL: https://news.ycombinator.com/item?id=45690446 Points: 2 # Comments: 0",
-      "url": "https://www.canada.ca/en/department-national-defence/programs/defence-ideas/element/contests/challenge/ideas-fictional-intelligence-contest-polar-paradigms-2045-defending-canada-sovereignty.html",
+      "title": "A Framework to Support Technical Assessment in AI Regulatory Sandboxes",
+      "summary": "Article URL: https://arxiv.org/abs/2509.25256 Comments URL: https://news.ycombinator.com/item?id=45700540 Points: 2 # Comments: 0",
+      "url": "https://arxiv.org/abs/2509.25256",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-10-25T00:52:49+00:00"
+    },
+    {
+      "title": "Once AI bubble pops we'll all suffer – better than letting it grow unabated?",
+      "summary": "Article URL: https://www.theguardian.com/technology/2025/oct/23/ai-bubble-economy-workers-wage-growth Comments URL: https://news.ycombinator.com/item?id=45700373 Points: 6 # Comments: 3",
+      "url": "https://www.theguardian.com/technology/2025/oct/23/ai-bubble-economy-workers-wage-growth",
+      "image": "https://i.guim.co.uk/img/media/b0f11b922baf38674065366e413a713473623277/724_0_7211_5773/master/7211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e06bd11c0b59584927c70c38575a09b1",
+      "date": "2025-10-25T00:14:29+00:00"
+    },
+    {
+      "title": "I built an AI tool to recover passwords",
+      "summary": "Hi HN, I built aiipassword.com, a small tool for one specific problem: getting back into your own accounts when you no longer have access to the linked email or phone. How it works, simply: the site asks short, memory‑based questions about habits and patterns you use for passwords (name cues, dates, favorite numbers, job hints, common symbols). An AI model uses those answers and learned human password patterns to generate a short list of likely passwords you might actually have used. I used the list to try plausible combos until one worked. Privacy and limits: nothing you type is stored long‑term. Inputs are processed transiently and never used for training. The tool is strictly for recovering your own accounts. Do not use it on other people’s accounts. Threat model and safety: this is a last‑resort recovery aid, not a replacement for proper account recovery, 2FA, or password managers. I want the community to critique the security model, suggest attacks I missed, and help me close gaps. If you’re a security researcher or HN reader with notes on cryptography, privacy, or ethical concerns, I’d love your feedback. Links, tests, and honest critiques welcome. Comments URL: https://news.ycombinator.com/item?id=45700357 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45700357",
       "image": "",
-      "date": "2025-10-24T03:27:13+00:00"
+      "date": "2025-10-25T00:12:05+00:00"
     },
     {
-      "title": "To be replaced by AI is a choice",
-      "summary": "Article URL: https://peter.demin.dev/12_articles/75-replaced-by-AI.html Comments URL: https://news.ycombinator.com/item?id=45690362 Points: 3 # Comments: 1",
-      "url": "https://peter.demin.dev/12_articles/75-replaced-by-AI.html",
+      "title": "Reddit's 'AI Scraping' Lawsuit Is an Attack on the Open Internet",
+      "summary": "Article URL: https://www.techdirt.com/2025/10/24/reddits-ai-scraping-lawsuit-is-an-attack-on-the-open-internet/ Comments URL: https://news.ycombinator.com/item?id=45700167 Points: 17 # Comments: 2",
+      "url": "https://www.techdirt.com/2025/10/24/reddits-ai-scraping-lawsuit-is-an-attack-on-the-open-internet/",
+      "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "date": "2025-10-24T23:35:56+00:00"
+    },
+    {
+      "title": "Airflow at Asapp: Enhancing AI-Powered Contact Centers (2024)",
+      "summary": "Article URL: https://uditsaxena.bearblog.dev/airflow-asapp-ai/ Comments URL: https://news.ycombinator.com/item?id=45700098 Points: 1 # Comments: 0",
+      "url": "https://uditsaxena.bearblog.dev/airflow-asapp-ai/",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "date": "2025-10-24T23:21:29+00:00"
+    },
+    {
+      "title": "A Man Behind Grand Theft Auto Just Called AI a \"Parlor Trick\"",
+      "summary": "Article URL: https://www.gtaboom.com/the-man-behind-grand-theft-auto-just-called-ai-a-parlor-trick-7cc4 Comments URL: https://news.ycombinator.com/item?id=45699917 Points: 5 # Comments: 3",
+      "url": "https://www.gtaboom.com/the-man-behind-grand-theft-auto-just-called-ai-a-parlor-trick-7cc4",
+      "image": "https://media.gtaboom.com/media/images/2b/ba/take-two-ceo-ai-creativity.jpeg",
+      "date": "2025-10-24T22:53:35+00:00"
+    },
+    {
+      "title": "OpenAI Backs a New Venture Trying to Thwart AI Bio-Attacks",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-10-24/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks Comments URL: https://news.ycombinator.com/item?id=45699822 Points: 2 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-24/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVKkWIyViP6s/v1/1200x800.jpg",
+      "date": "2025-10-24T22:38:17+00:00"
+    },
+    {
+      "title": "Be Your Own AI Early Warning System",
+      "summary": "Article URL: https://smartmic.bearblog.dev/be-your-own-ai-early-warning-system/ Comments URL: https://news.ycombinator.com/item?id=45699349 Points: 4 # Comments: 0",
+      "url": "https://smartmic.bearblog.dev/be-your-own-ai-early-warning-system/",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "date": "2025-10-24T21:35:26+00:00"
+    },
+    {
+      "title": "Is Generative Artificial Intelligence Useful? and Moral?",
+      "summary": "Article URL: https://remotesynthesis.com/blog/is-artificial-intelligence-useful-and-moral/ Comments URL: https://news.ycombinator.com/item?id=45699348 Points: 3 # Comments: 0",
+      "url": "https://remotesynthesis.com/blog/is-artificial-intelligence-useful-and-moral/",
       "image": "",
-      "date": "2025-10-24T03:13:17+00:00"
-    },
-    {
-      "title": "Data centers turn to commercial aircraft jet engines as AI power crunch bites",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites Comments URL: https://news.ycombinator.com/item?id=45690180 Points: 5 # Comments: 2",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites",
-      "image": "https://cdn.mos.cms.futurecdn.net/SNparuUYnM5PjH5MyZAkDa-1053-80.png",
-      "date": "2025-10-24T02:45:16+00:00"
-    },
-    {
-      "title": "Low GPA, High Impact: Horses, Code, and Influencing Future AI",
-      "summary": "Article URL: https://lightcapai.medium.com/unconventional-synergy-horses-weed-and-code-in-a-23-year-olds-tech-journey-b8dff132becb Comments URL: https://news.ycombinator.com/item?id=45689916 Points: 1 # Comments: 1",
-      "url": "https://lightcapai.medium.com/unconventional-synergy-horses-weed-and-code-in-a-23-year-olds-tech-journey-b8dff132becb",
-      "image": "",
-      "date": "2025-10-24T02:01:44+00:00"
-    },
-    {
-      "title": "Microsoft AI chief says company won't build chatbots for erotica",
-      "summary": "Article URL: https://www.cnbc.com/2025/10/23/microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.html Comments URL: https://news.ycombinator.com/item?id=45689865 Points: 3 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/10/23/microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1697126213&w=1920&h=1080",
-      "date": "2025-10-24T01:53:01+00:00"
-    },
-    {
-      "title": "AI is changing our understanding of earthquakes",
-      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2025/ai-is-changing-understanding-of-earthquakes Comments URL: https://news.ycombinator.com/item?id=45689534 Points: 1 # Comments: 0",
-      "url": "https://knowablemagazine.org/content/article/physical-world/2025/ai-is-changing-understanding-of-earthquakes",
-      "image": "",
-      "date": "2025-10-24T01:05:34+00:00"
-    },
-    {
-      "title": "If AI \"slop\" scares you, your PR reviews are broken",
-      "summary": "Article URL: https://www.pcloadletter.dev/blog/pr-review-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=45689485 Points: 3 # Comments: 3",
-      "url": "https://www.pcloadletter.dev/blog/pr-review-ai-slop/",
-      "image": "",
-      "date": "2025-10-24T00:57:25+00:00"
-    },
-    {
-      "title": "Detection firm finds 82% of herbal remedy books on Amazon 'likely written' by AI",
-      "summary": "Article URL: https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai Comments URL: https://news.ycombinator.com/item?id=45689479 Points: 5 # Comments: 1",
-      "url": "https://www.theguardian.com/books/2025/oct/22/detection-firm-finds-82-of-herbal-remedy-books-on-amazon-likely-written-by-ai",
-      "image": "https://i.guim.co.uk/img/media/86a03a966ce87d89abd38660797306a09552ea83/335_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ca162dd8fb33f95ef7da08786da731d",
-      "date": "2025-10-24T00:56:19+00:00"
-    },
-    {
-      "title": "Two federal judges say use of AI led to errors in US court rulings",
-      "summary": "Article URL: https://www.channelnewsasia.com/business/two-federal-judges-say-use-ai-led-errors-in-us-court-rulings-5421161 Comments URL: https://news.ycombinator.com/item?id=45689373 Points: 7 # Comments: 0",
-      "url": "https://www.channelnewsasia.com/business/two-federal-judges-say-use-ai-led-errors-in-us-court-rulings-5421161",
-      "image": "https://dam.mediacorp.sg/image/upload/s--IrbkHoFo--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-10-23T202924Z_4_LYNXMPEL9M0VO_RTROPTP_3_USA-ARTIFICIAL-INTELLIGENCE-JUDGES.JPG?itok=eEEGr2iM",
-      "date": "2025-10-24T00:41:55+00:00"
-    },
-    {
-      "title": "AI Sidebar Spoofing Puts ChatGPT Atlas, Perplexity Comet, Other Browsers at Risk",
-      "summary": "Article URL: https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/ Comments URL: https://news.ycombinator.com/item?id=45689162 Points: 3 # Comments: 0",
-      "url": "https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/",
-      "image": "",
-      "date": "2025-10-24T00:11:21+00:00"
-    },
-    {
-      "title": "The Goldfish Problem: Why AI Agents Need Smaller Bowls to Swim Effectively",
-      "summary": "Article URL: https://blog.justcopy.ai/p/why-ai-agents-struggle-with-big-goals Comments URL: https://news.ycombinator.com/item?id=45688404 Points: 9 # Comments: 1",
-      "url": "https://blog.justcopy.ai/p/why-ai-agents-struggle-with-big-goals",
-      "image": "https://substackcdn.com/image/fetch/$s_!nujc!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dfb07df-9eda-4b6d-a50c-e675aedaa5fe_446x446.png",
-      "date": "2025-10-23T22:49:10+00:00"
+      "date": "2025-10-24T21:35:21+00:00"
     }
   ]
 }
