@@ -1,96 +1,110 @@
 {
-  "generated_at": "2025-10-28T06:45:19.676111+00:00",
+  "generated_at": "2025-10-29T06:45:46.070035+00:00",
   "items": [
     {
-      "title": "Should I have become a radiologist? The hype versus reality of radiology AI",
-      "summary": "Article URL: https://ameyarad.github.io/RadiologyAI/ Comments URL: https://news.ycombinator.com/item?id=45729452 Points: 1 # Comments: 0",
-      "url": "https://ameyarad.github.io/RadiologyAI/",
-      "image": "https://ameyarad.github.io/RadiologyAI/assets/img/Slide6-social.jpg",
-      "date": "2025-10-28T05:26:05+00:00"
+      "title": "Turning Historical Incidents into AI Insights",
+      "summary": "Article URL: https://blog.paypay.ne.jp/en/turning-historical-incidents-into-ai-insights-rag-enhanced-llm-approach-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=45742961 Points: 3 # Comments: 0",
+      "url": "https://blog.paypay.ne.jp/en/turning-historical-incidents-into-ai-insights-rag-enhanced-llm-approach-to-code-review/",
+      "image": "https://i0.wp.com/blog.paypay.ne.jp/wp-content/uploads/2025/10/turning-historical-incidents-into-ai-insights-1200x600-1.jpg?fit=1024%2C512&ssl=1",
+      "date": "2025-10-29T05:28:15+00:00"
     },
     {
-      "title": "'AI' Sucks the Joy Out of Programming",
-      "summary": "Article URL: https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/ Comments URL: https://news.ycombinator.com/item?id=45729400 Points: 5 # Comments: 2",
-      "url": "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/",
-      "image": "https://alexn.org/assets/media/articles/2025-my-dogs.jpg?202510271816",
-      "date": "2025-10-28T05:15:56+00:00"
+      "title": "Wharton AI 2025 Adoption Report",
+      "summary": "Article URL: https://knowledge.wharton.upenn.edu/special-report/2025-ai-adoption-report/ Comments URL: https://news.ycombinator.com/item?id=45742618 Points: 1 # Comments: 0",
+      "url": "https://knowledge.wharton.upenn.edu/special-report/2025-ai-adoption-report/",
+      "image": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2025/10/Report_AI-Adoption_KatW_1300x884-600x500.jpg",
+      "date": "2025-10-29T04:26:12+00:00"
     },
     {
-      "title": "AI Is the Bubble to Burst Them All",
-      "summary": "Article URL: https://www.wired.com/story/ai-bubble-will-burst/ Comments URL: https://news.ycombinator.com/item?id=45729379 Points: 4 # Comments: 1",
-      "url": "https://www.wired.com/story/ai-bubble-will-burst/",
-      "image": "https://media.wired.com/photos/68e043992e3fc9a36ea8f485/191:100/w_1280,c_limit/WIRED-AI-as_Bubble_Blue_ALT2.jpg",
-      "date": "2025-10-28T05:12:06+00:00"
+      "title": "Australian police building AI to translate emoji used by 'crimefluencers'",
+      "summary": "Article URL: https://www.theregister.com/2025/10/29/afp_ai_commissioner_barrett_speech/ Comments URL: https://news.ycombinator.com/item?id=45742598 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2025/10/29/afp_ai_commissioner_barrett_speech/",
+      "image": "https://regmedia.co.uk/2025/10/29/shutterstock_editorial_only_australian_federal_police.jpg",
+      "date": "2025-10-29T04:22:47+00:00"
     },
     {
-      "title": "My AI Appetites",
-      "summary": "Article URL: https://martin-brennan.com/my-ai-appetites/ Comments URL: https://news.ycombinator.com/item?id=45729060 Points: 2 # Comments: 0",
-      "url": "https://martin-brennan.com/my-ai-appetites/",
+      "title": "Building AI Agents? Watch Memento (Or Ghajini for a Version with Song and Dance)",
+      "summary": "Article URL: https://testchimp.io/blog/building-agents-watch-memento/ Comments URL: https://news.ycombinator.com/item?id=45742577 Points: 1 # Comments: 1",
+      "url": "https://testchimp.io/blog/building-agents-watch-memento/",
       "image": "",
-      "date": "2025-10-28T03:53:26+00:00"
+      "date": "2025-10-29T04:19:59+00:00"
     },
     {
-      "title": "Justcopy.ai – Copy and Customize Digital Tools in Minutes",
-      "summary": "Article URL: https://blog.justcopy.ai/p/dont-build-from-scratch-just-copy Comments URL: https://news.ycombinator.com/item?id=45728748 Points: 3 # Comments: 0",
-      "url": "https://blog.justcopy.ai/p/dont-build-from-scratch-just-copy",
-      "image": "https://substackcdn.com/image/fetch/$s_!nujc!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dfb07df-9eda-4b6d-a50c-e675aedaa5fe_446x446.png",
-      "date": "2025-10-28T02:44:48+00:00"
+      "title": "Open AI Restructures as a For-Profit",
+      "summary": "Article URL: https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html Comments URL: https://news.ycombinator.com/item?id=45742067 Points: 3 # Comments: 3",
+      "url": "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
+      "image": "",
+      "date": "2025-10-29T02:49:24+00:00"
     },
     {
-      "title": "Chegg slashes 45% of workforce, blames 'new realities of AI'",
-      "summary": "Article URL: https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html Comments URL: https://news.ycombinator.com/item?id=45728672 Points: 2 # Comments: 2",
-      "url": "https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105886313-1608767423549-cheg.jpg?v=1683132689&w=1920&h=1080",
-      "date": "2025-10-28T02:29:11+00:00"
+      "title": "J.Huang Reveals Nvidia's Quantum and AI Supercomputing Breakthroughs [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=PJ65NEUi5iw Comments URL: https://news.ycombinator.com/item?id=45741975 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=PJ65NEUi5iw",
+      "image": "",
+      "date": "2025-10-29T02:34:37+00:00"
     },
     {
-      "title": "Stop DDoS Attacking the Research Community with AI-Generated Survey Papers",
-      "summary": "Article URL: https://arxiv.org/abs/2510.09686 Comments URL: https://news.ycombinator.com/item?id=45728665 Points: 4 # Comments: 0",
-      "url": "https://arxiv.org/abs/2510.09686",
+      "title": "2025 Top AI Startups",
+      "summary": "Article URL: https://www.bloomberg.com/features/2025-top-ai-startups/ Comments URL: https://news.ycombinator.com/item?id=45741827 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/features/2025-top-ai-startups/",
+      "image": "",
+      "date": "2025-10-29T02:11:27+00:00"
+    },
+    {
+      "title": "Meta layoff to hit 318 AI team workers around Bay Area headquarters",
+      "summary": "Article URL: https://www.sfgate.com/tech/article/meta-slashes-jobs-ai-team-21114971.php Comments URL: https://news.ycombinator.com/item?id=45741809 Points: 5 # Comments: 3",
+      "url": "https://www.sfgate.com/tech/article/meta-slashes-jobs-ai-team-21114971.php",
+      "image": "https://s.hdnux.com/photos/01/54/72/01/28549246/3/rawImage.jpg",
+      "date": "2025-10-29T02:07:30+00:00"
+    },
+    {
+      "title": "Advancing cybersecurity a comprehensive review of AI-driven detection techniques",
+      "summary": "Article URL: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00957-y Comments URL: https://news.ycombinator.com/item?id=45741808 Points: 2 # Comments: 0",
+      "url": "https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00957-y",
+      "image": "https://static-content.springer.com/image/art%3A10.1186%2Fs40537-024-00957-y/MediaObjects/40537_2024_957_Fig1_HTML.png",
+      "date": "2025-10-29T02:07:25+00:00"
+    },
+    {
+      "title": "Guiding AI Agents Through Error Messages",
+      "summary": "Article URL: https://www.maybedont.ai/blog/guidance/ Comments URL: https://news.ycombinator.com/item?id=45741604 Points: 1 # Comments: 0",
+      "url": "https://www.maybedont.ai/blog/guidance/",
+      "image": "",
+      "date": "2025-10-29T01:36:32+00:00"
+    },
+    {
+      "title": "NDAs keep AI data center details hidden from Americans",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/data-center-ai-google-amazon-nda-non-disclosure-agreement-colossus-rcna236423 Comments URL: https://news.ycombinator.com/item?id=45741596 Points: 9 # Comments: 0",
+      "url": "https://www.nbcnews.com/tech/tech-news/data-center-ai-google-amazon-nda-non-disclosure-agreement-colossus-rcna236423",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251027-data-center-nda-vl-343p-bb0862.jpg",
+      "date": "2025-10-29T01:35:45+00:00"
+    },
+    {
+      "title": "Show HN: AI Japanese grammar checker for Chrome",
+      "summary": "Hi HN people! I created an AI grammar checker for Chrome/Edge. It works on Zendesk, Gmail, X, or any other pages. Something like Grammarly for Japanese.\nIt includes generative AI, but it will only highlight areas for improvement, similar to Grammarly. If you have some feedback or comments, please let me know. I want to improve this product and help you. It requires Google sign in, so little bit shame, sorry. Comments URL: https://news.ycombinator.com/item?id=45741442 Points: 1 # Comments: 2",
+      "url": "https://chromewebstore.google.com/detail/shodo-ai-japanese-proofre/nngjmiibepcaelkkdjopmlcaaiagogmi",
+      "image": "https://lh3.googleusercontent.com/Fm9tT6c3N7phodXBjheP6n9oRm63zrIqVCQxMneEbk4wCmvHUu11V9inkAKrB99bvRIb0BuVgmcRGoVbFki1Vak08qw=s128-rj-sc0x00ffffff",
+      "date": "2025-10-29T01:13:21+00:00"
+    },
+    {
+      "title": "Friend or Foe: Delegating to an AI Whose Alignment Is Unknown",
+      "summary": "Article URL: https://arxiv.org/abs/2509.14396 Comments URL: https://news.ycombinator.com/item?id=45741405 Points: 6 # Comments: 0",
+      "url": "https://arxiv.org/abs/2509.14396",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-10-28T02:28:20+00:00"
+      "date": "2025-10-29T01:07:48+00:00"
     },
     {
-      "title": "The AI Workflows of Every's Six Engineers",
-      "summary": "Article URL: https://every.to/source-code/inside-the-ai-workflows-of-every-s-six-engineers Comments URL: https://news.ycombinator.com/item?id=45728560 Points: 1 # Comments: 0",
-      "url": "https://every.to/source-code/inside-the-ai-workflows-of-every-s-six-engineers",
+      "title": "Intelligence as flavor, like umami, or just heat?",
+      "summary": "Article URL: https://www.isaacbowen.com/2025/10/28/thunk Comments URL: https://news.ycombinator.com/item?id=45741396 Points: 2 # Comments: 0",
+      "url": "https://www.isaacbowen.com/2025/10/28/thunk",
+      "image": "https://www.isaacbowen.com/~gitbook/image?url=https%3A%2F%2F3048497272-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FLAkEXZiQJDxsC0OipdSQ%252Fsocialpreview%252FhZ40BWAxEJzjdf5uWDcu%252Fcollage.png%3Falt%3Dmedia%26token%3D8fdf88e3-7afc-4e91-aee0-0829af863dc4&width=1200&height=630&sign=b3869289&sv=2",
+      "date": "2025-10-29T01:06:46+00:00"
+    },
+    {
+      "title": "AI's labor market squeeze tightens",
+      "summary": "Article URL: https://www.axios.com/2025/10/28/ai-jobs-amazon-layoffs Comments URL: https://news.ycombinator.com/item?id=45741259 Points: 3 # Comments: 2",
+      "url": "https://www.axios.com/2025/10/28/ai-jobs-amazon-layoffs",
       "image": "",
-      "date": "2025-10-28T02:06:24+00:00"
-    },
-    {
-      "title": "AI for Industry Challenge by Intrinsic and Open Robotics",
-      "summary": "Article URL: https://www.intrinsic.ai/events/ai-for-industry-challenge Comments URL: https://news.ycombinator.com/item?id=45728536 Points: 2 # Comments: 0",
-      "url": "https://www.intrinsic.ai/events/ai-for-industry-challenge",
-      "image": "https://cdn.prod.website-files.com/65ef6590d3b13c549fc95d9b/68f824e25b89084a6c23c4c9_Challenge_Campaign_meta.jpg",
-      "date": "2025-10-28T02:02:44+00:00"
-    },
-    {
-      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia",
-      "summary": "Article URL: https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html Comments URL: https://news.ycombinator.com/item?id=45728275 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108139038-1761584175310-108139038-1746043403612-gettyimages-2183694537-DSC_1318.jpeg?v=1761584197&w=1920&h=1080",
-      "date": "2025-10-28T01:12:18+00:00"
-    },
-    {
-      "title": "JPMorgan offers staff AI chatbot to help write performance reviews",
-      "summary": "Article URL: https://www.ft.com/content/84308936-e277-4ae0-b384-502d60375456 Comments URL: https://news.ycombinator.com/item?id=45728249 Points: 3 # Comments: 3",
-      "url": "https://www.ft.com/content/84308936-e277-4ae0-b384-502d60375456",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe97679f3-0607-44a2-997c-9b1d5bd2c797.jpg?source=next-barrier-page",
-      "date": "2025-10-28T01:08:15+00:00"
-    },
-    {
-      "title": "AI can code, but it can't build software",
-      "summary": "Article URL: https://bytesauna.com/post/coding-vs-software-engineering Comments URL: https://news.ycombinator.com/item?id=45727664 Points: 201 # Comments: 112",
-      "url": "https://bytesauna.com/post/coding-vs-software-engineering",
-      "image": "",
-      "date": "2025-10-27T23:41:32+00:00"
-    },
-    {
-      "title": "How to Use a Spec-Driven Approach for Coding with AI",
-      "summary": "Article URL: https://blog.jetbrains.com/junie/2025/10/how-to-use-a-spec-driven-approach-for-coding-with-ai/ Comments URL: https://news.ycombinator.com/item?id=45727480 Points: 2 # Comments: 0",
-      "url": "https://blog.jetbrains.com/junie/2025/10/how-to-use-a-spec-driven-approach-for-coding-with-ai/",
-      "image": "https://blog.jetbrains.com/wp-content/uploads/2025/10/JN-social-BlogSocialShare-1280x720-1.png",
-      "date": "2025-10-27T23:18:29+00:00"
+      "date": "2025-10-29T00:46:05+00:00"
     }
   ]
 }
