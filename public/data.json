@@ -1,110 +1,89 @@
 {
-  "generated_at": "2025-10-30T06:43:12.787971+00:00",
+  "generated_at": "2025-10-31T06:44:03.374920+00:00",
   "items": [
     {
-      "title": "Ask HN: Is there any website for listed AI stocks news?",
-      "summary": "Hi \nI am looking for a website where i can check news about all listed companies - AI specific ones Comments URL: https://news.ycombinator.com/item?id=45756987 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45756987",
+      "title": "Federal judge in Mississippi admits staff used AI to draft inaccurate order",
+      "summary": "Article URL: https://apnews.com/article/robert-conrad-chuck-grassley-artificial-intelligence-henry-t-wingate-mississippi-b2dca153ae6521f5246b0d3170e1962a Comments URL: https://news.ycombinator.com/item?id=45768920 Points: 1 # Comments: 0",
+      "url": "https://apnews.com/article/robert-conrad-chuck-grassley-artificial-intelligence-henry-t-wingate-mississippi-b2dca153ae6521f5246b0d3170e1962a",
+      "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "date": "2025-10-31T06:15:09+00:00"
+    },
+    {
+      "title": "Transforming Expense Management with AI Agent Orchestration",
+      "summary": "Article URL: https://insideaiagents.com/use-cases/expenses-processing Comments URL: https://news.ycombinator.com/item?id=45768893 Points: 1 # Comments: 0",
+      "url": "https://insideaiagents.com/use-cases/expenses-processing",
+      "image": "https://insideaiagents.com/use-cases/expenses-processing/opengraph-image?b4f962682e51b54f",
+      "date": "2025-10-31T06:10:43+00:00"
+    },
+    {
+      "title": "Amp's new business model? Ad-supported AI coding",
+      "summary": "Article URL: https://ainativedev.io/news/amp-s-new-business-model-ad-supported-ai-coding Comments URL: https://news.ycombinator.com/item?id=45768714 Points: 1 # Comments: 0",
+      "url": "https://ainativedev.io/news/amp-s-new-business-model-ad-supported-ai-coding",
+      "image": "https://cdn.sanity.io/images/7rhhj7zk/production/7bd20f7205a3629462a3079c412cda43e516aef1-1456x816.png?w=1200&fit=max&auto=format",
+      "date": "2025-10-31T05:30:06+00:00"
+    },
+    {
+      "title": "Show HN: Approve your AI agent's actions on the go",
+      "summary": "Hi, I’m Felipe. I've built this tool to manually approve or deny AI actions in real time. It’s an MCP server connected to a mobile app, available on Android and iOS. MCP URL: https://mcp.pathwave.io/http-stream Example prompt: \"please ask confirmation via pathwave using userSid [ADD YOUR USER SID HERE]\nask with message 'do you love me?'\nif yes, draw an ascii heart otherwise draw an ascii sad face\" Docs and quickstart: https://web.pathwave.io/docs Thanks Comments URL: https://news.ycombinator.com/item?id=45767954 Points: 2 # Comments: 0",
+      "url": "https://web.pathwave.io/docs",
+      "image": "/logo.png",
+      "date": "2025-10-31T03:13:11+00:00"
+    },
+    {
+      "title": "Please stop using AI browsers",
+      "summary": "Article URL: https://www.xda-developers.com/please-stop-using-ai-browsers/ Comments URL: https://news.ycombinator.com/item?id=45767933 Points: 7 # Comments: 0",
+      "url": "https://www.xda-developers.com/please-stop-using-ai-browsers/",
       "image": "",
-      "date": "2025-10-30T06:31:33+00:00"
+      "date": "2025-10-31T03:10:27+00:00"
     },
     {
-      "title": "32.355 Voices on AI and Gay Dating",
-      "summary": "Article URL: https://www.romeo.com/en/blog/ai_and_gay_dating/ Comments URL: https://news.ycombinator.com/item?id=45756921 Points: 1 # Comments: 0",
-      "url": "https://www.romeo.com/en/blog/ai_and_gay_dating/",
-      "image": "https://www.romeo.com/wp-content/uploads/2025/10/ai_statement-ognew.jpg",
-      "date": "2025-10-30T06:18:35+00:00"
-    },
-    {
-      "title": "Intel Unveils Panther Lake Architecture: First AI PC Platform Built on 18A",
-      "summary": "Article URL: https://www.intc.com/news-events/press-releases/detail/1752/intel-unveils-panther-lake-architecture-first-ai-pc Comments URL: https://news.ycombinator.com/item?id=45756726 Points: 1 # Comments: 0",
-      "url": "https://www.intc.com/news-events/press-releases/detail/1752/intel-unveils-panther-lake-architecture-first-ai-pc",
-      "image": "https://d1io3yog0oux5.cloudfront.net/_a9c76828df1af0b055f7cffea57824a7/intel/db/878/6995/social_image_resized.jpg",
-      "date": "2025-10-30T05:33:33+00:00"
-    },
-    {
-      "title": "Scientists Need a Positive Vision for AI",
-      "summary": "Article URL: https://spectrum.ieee.org/responsible-ai Comments URL: https://news.ycombinator.com/item?id=45756444 Points: 2 # Comments: 1",
-      "url": "https://spectrum.ieee.org/responsible-ai",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=61747230&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
-      "date": "2025-10-30T04:29:39+00:00"
-    },
-    {
-      "title": "I wrote a book with the help of AI, the experience is great",
-      "summary": "Article URL: https://www.amazon.com/Advanced-React-Native-Principles-Development-ebook/dp/B0FM2NMD3T Comments URL: https://news.ycombinator.com/item?id=45756331 Points: 2 # Comments: 0",
-      "url": "https://www.amazon.com/Advanced-React-Native-Principles-Development-ebook/dp/B0FM2NMD3T",
+      "title": "How China Is Using AI and EEG in Classrooms [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=JMLsHI8aV0g Comments URL: https://news.ycombinator.com/item?id=45767923 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=JMLsHI8aV0g",
       "image": "",
-      "date": "2025-10-30T04:08:13+00:00"
+      "date": "2025-10-31T03:09:03+00:00"
     },
     {
-      "title": "How to Harden AI Instances for Privacy and Security",
-      "summary": "Article URL: https://techshinobi.org/posts/ai-privacy/ Comments URL: https://news.ycombinator.com/item?id=45756234 Points: 1 # Comments: 0",
-      "url": "https://techshinobi.org/posts/ai-privacy/",
+      "title": "Show HN: Sentient – AI-powered customer feedback analysis with 95% accuracy",
+      "summary": "We built Sentient to automatically extract themes and sentiment from customer feedback without manual configuration. The system processes documents in sub-second time while maintaining 95% accuracy. Built with Next.js 14 and FastAPI, using fine-tuned OpenAI models trained on millions of feedback examples. Key features include automatic customer segmentation, multi-format support (PDF, DOCX, CSV), and real-time processing. The core insight: most tools analyze individual reviews instead of understanding customer journeys and behavioral patterns. Sentient connects feedback sentiment to business outcomes through multi-phase AI analysis. Technical approach uses theme detection, emotion recognition, and intelligent caching for enterprise-grade performance. Try it at: https://data-decoder.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=45767719 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45767719",
       "image": "",
-      "date": "2025-10-30T03:48:44+00:00"
+      "date": "2025-10-31T02:33:09+00:00"
     },
     {
-      "title": "Jet engine shortages threaten AI data center expansion, wait times into 2030",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/turbine-shortage-threatens-ai-datacenters-as-wait-times-stretch-into-2030 Comments URL: https://news.ycombinator.com/item?id=45756162 Points: 2 # Comments: 0",
-      "url": "https://www.tomshardware.com/tech-industry/turbine-shortage-threatens-ai-datacenters-as-wait-times-stretch-into-2030",
-      "image": "https://cdn.mos.cms.futurecdn.net/MQ2ciubTHacYAkcA2c3XqY-1920-80.jpg",
-      "date": "2025-10-30T03:34:14+00:00"
-    },
-    {
-      "title": "AI Use Makes Us Overestimate Our Cognitive Performance",
-      "summary": "Article URL: https://www.aalto.fi/en/news/ai-use-makes-us-overestimate-our-cognitive-performance Comments URL: https://news.ycombinator.com/item?id=45756123 Points: 2 # Comments: 2",
-      "url": "https://www.aalto.fi/en/news/ai-use-makes-us-overestimate-our-cognitive-performance",
-      "image": "https://www.aalto.fi/sites/default/files/styles/1_91_1200w_630h_n/public/2025-10/Aalto_University_Robin_and_Daniela_29-10-2025_by_Matti_Ahlgren_1.jpg?h=0a8b6f8b&itok=FeShbUxW",
-      "date": "2025-10-30T03:27:50+00:00"
-    },
-    {
-      "title": "Data centers turn to commercial aircraft jet engines as AI power crunch bites",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites Comments URL: https://news.ycombinator.com/item?id=45755903 Points: 3 # Comments: 3",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites",
-      "image": "https://cdn.mos.cms.futurecdn.net/SNparuUYnM5PjH5MyZAkDa-1053-80.png",
-      "date": "2025-10-30T02:47:31+00:00"
-    },
-    {
-      "title": "No Nvidia Chips Needed Amazon's New AI Data Center for Anthropic [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=vnGC4YS36gU Comments URL: https://news.ycombinator.com/item?id=45755813 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=vnGC4YS36gU",
+      "title": "Show HN: TruthGuard – AI System That Detects Invalid Survey Responses",
+      "summary": "Hi HN ,\nI’m Vivek Jaiswal, Founder & Technology Strategist at QBits Marketing Research. We built TruthGuard, an AI-powered validation platform designed to detect synthetic, low-quality, or fraudulent survey responses in large-scale research datasets — a $10B+ issue in global data collection. TruthGuard runs a multi-stage validation pipeline combining: LLM-based semantic verification (OpenAI, Anthropic, Azure models) Vector similarity scoring using Qdrant/Chroma Anomaly & pattern detection for response duplication Adaptive thresholding tuned with live dataset feedback It processes 100K+ responses per day with 99%+ accuracy, cutting operational costs by over 60% for our enterprise clients. I’d love to get feedback from this community — especially around: Improving real-time validation at scale Better approaches for prompt consistency between multiple LLMs Efficient ways to benchmark accuracy on mixed human + AI datasets Code architecture and system design overview (non-confidential parts) are here:\n github.com/vivekjaiswal-ai/truthguard Thanks for reading — open to ideas, critiques, and collaborations! — Vivek Comments URL: https://news.ycombinator.com/item?id=45767359 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45767359",
       "image": "",
-      "date": "2025-10-30T02:36:15+00:00"
+      "date": "2025-10-31T01:18:20+00:00"
     },
     {
-      "title": "AI Agents Are Terrible Freelance Workers",
-      "summary": "Article URL: https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/ Comments URL: https://news.ycombinator.com/item?id=45755652 Points: 4 # Comments: 0",
-      "url": "https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/",
-      "image": "https://media.wired.com/photos/690147a56a37037ce5efc6db/191:100/w_1280,c_limit/A-%20Lab-AI-Agents-Tried-to-Make-Money-Doing-Freelance-Work-Business-2168056998.jpg",
-      "date": "2025-10-30T02:07:23+00:00"
+      "title": "Show HN: Write one primary AI config file; Export it to all AI Coding Assistants",
+      "summary": "I made this free macOS app and want to see what y'all think: Simplify your AI assisted coding setup. Write one primary instruction file with 'Agent Smith' then easily export it to your Gemini, Claude, and Codex AI coding assistants. Simplify your AI-assisted coding setup. Write one master instruction file with Agent Smith, then export it directly to your project root for your Gemini, Claude, and Codex AI coding assistants to read. Agent Smith lets developers create unified configuration files for all their AI coding tools. Instead of maintaining multiple prompt templates or setup notes, you define a single “Master Instruction” file per project that standardizes your coding environment across assistants. Comments URL: https://news.ycombinator.com/item?id=45767327 Points: 3 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/agent-smith-v1/id6754718082?mt=12",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/92/54/469254e1-56a4-c431-00e9-d50f7d8035a9/AppIcon-0-0-85-220-0-5-0-2x.png/1200x630bb.png",
+      "date": "2025-10-31T01:14:04+00:00"
     },
     {
-      "title": "Flux Kontext – AI-Powered Image Restoration Platform",
-      "summary": "We’ve built Flux Kontext — an AI image editing platform that allows LoRA and ControlNet editing, character consistency, and restoration tools.\nYou can test it here: https://flux1kontextai.com\nFeedback is welcome! Comments URL: https://news.ycombinator.com/item?id=45755569 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45755569",
+      "title": "Game AI's Existential Crisis",
+      "summary": "Article URL: https://www.aiandgames.com/p/game-ais-existential-crisis-part Comments URL: https://news.ycombinator.com/item?id=45767221 Points: 1 # Comments: 0",
+      "url": "https://www.aiandgames.com/p/game-ais-existential-crisis-part",
+      "image": "https://substackcdn.com/image/fetch/$s_!ERGx!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F069186f0-5ef7-4ced-962a-70af65c071e5_3840x2742.jpeg",
+      "date": "2025-10-31T00:54:28+00:00"
+    },
+    {
+      "title": "Claude Skills vs. MCP: Complementary Philosophies for AI Customization",
+      "summary": "Article URL: https://subramanya.ai/2025/10/30/claude-skills-vs-mcp-a-tale-of-two-ai-customization-philosophies/ Comments URL: https://news.ycombinator.com/item?id=45766686 Points: 1 # Comments: 1",
+      "url": "https://subramanya.ai/2025/10/30/claude-skills-vs-mcp-a-tale-of-two-ai-customization-philosophies/",
       "image": "",
-      "date": "2025-10-30T01:56:03+00:00"
+      "date": "2025-10-30T23:33:14+00:00"
     },
     {
-      "title": "Nvidia Becomes First $5T Company as AI Demand Surges",
-      "summary": "Article URL: https://www.macrumors.com/2025/10/29/nvidia-5-trillion-market-cap/ Comments URL: https://news.ycombinator.com/item?id=45755561 Points: 4 # Comments: 1",
-      "url": "https://www.macrumors.com/2025/10/29/nvidia-5-trillion-market-cap/",
-      "image": "https://images.macrumors.com/t/hTWtXD99jUuYkTySQL6_TOl47us=/2500x/article-new/2024/06/Apple-vs-Nvidia.jpg",
-      "date": "2025-10-30T01:54:14+00:00"
-    },
-    {
-      "title": "Eclipse Opens Up Enterprise AI Agent Development with ADL",
-      "summary": "Article URL: https://thenewstack.io/eclipse-opens-up-enterprise-ai-agent-development-with-adl/ Comments URL: https://news.ycombinator.com/item?id=45754698 Points: 1 # Comments: 0",
-      "url": "https://thenewstack.io/eclipse-opens-up-enterprise-ai-agent-development-with-adl/",
-      "image": "https://cdn.thenewstack.io/media/2025/10/c47606e0-getty-images-aize-pwywr8-unsplash-1.jpg",
-      "date": "2025-10-29T23:57:44+00:00"
-    },
-    {
-      "title": "Agentic AI and Security",
-      "summary": "Article URL: https://martinfowler.com/articles/agentic-ai-security.html Comments URL: https://news.ycombinator.com/item?id=45754307 Points: 2 # Comments: 0",
-      "url": "https://martinfowler.com/articles/agentic-ai-security.html",
-      "image": "https://martinfowler.com/articles/agentic-ai-security/card.png",
-      "date": "2025-10-29T23:09:25+00:00"
+      "title": "AI startup Mercor now valued at $10B with new $350M funding round",
+      "summary": "Article URL: https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html Comments URL: https://news.ycombinator.com/item?id=45766518 Points: 1 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217307-1761582591072-Mercor_Founders_-_Adarsh_Hiremath_Brendan_Foody.jpg?v=1761583724&w=1920&h=1080",
+      "date": "2025-10-30T23:14:14+00:00"
     }
   ]
 }
