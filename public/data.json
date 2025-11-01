@@ -1,89 +1,131 @@
 {
-  "generated_at": "2025-10-31T06:44:03.374920+00:00",
+  "generated_at": "2025-11-01T06:38:38.097822+00:00",
   "items": [
     {
-      "title": "Federal judge in Mississippi admits staff used AI to draft inaccurate order",
-      "summary": "Article URL: https://apnews.com/article/robert-conrad-chuck-grassley-artificial-intelligence-henry-t-wingate-mississippi-b2dca153ae6521f5246b0d3170e1962a Comments URL: https://news.ycombinator.com/item?id=45768920 Points: 1 # Comments: 0",
-      "url": "https://apnews.com/article/robert-conrad-chuck-grassley-artificial-intelligence-henry-t-wingate-mississippi-b2dca153ae6521f5246b0d3170e1962a",
-      "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "date": "2025-10-31T06:15:09+00:00"
+      "title": "Octoverse: A new developer joins GitHub every second, AI leads TypeScript to #1",
+      "summary": "Article URL: https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/ Comments URL: https://news.ycombinator.com/item?id=45779375 Points: 3 # Comments: 0",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/",
+      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-hero-image.png",
+      "date": "2025-11-01T05:01:16+00:00"
     },
     {
-      "title": "Transforming Expense Management with AI Agent Orchestration",
-      "summary": "Article URL: https://insideaiagents.com/use-cases/expenses-processing Comments URL: https://news.ycombinator.com/item?id=45768893 Points: 1 # Comments: 0",
-      "url": "https://insideaiagents.com/use-cases/expenses-processing",
-      "image": "https://insideaiagents.com/use-cases/expenses-processing/opengraph-image?b4f962682e51b54f",
-      "date": "2025-10-31T06:10:43+00:00"
-    },
-    {
-      "title": "Amp's new business model? Ad-supported AI coding",
-      "summary": "Article URL: https://ainativedev.io/news/amp-s-new-business-model-ad-supported-ai-coding Comments URL: https://news.ycombinator.com/item?id=45768714 Points: 1 # Comments: 0",
-      "url": "https://ainativedev.io/news/amp-s-new-business-model-ad-supported-ai-coding",
-      "image": "https://cdn.sanity.io/images/7rhhj7zk/production/7bd20f7205a3629462a3079c412cda43e516aef1-1456x816.png?w=1200&fit=max&auto=format",
-      "date": "2025-10-31T05:30:06+00:00"
-    },
-    {
-      "title": "Show HN: Approve your AI agent's actions on the go",
-      "summary": "Hi, I’m Felipe. I've built this tool to manually approve or deny AI actions in real time. It’s an MCP server connected to a mobile app, available on Android and iOS. MCP URL: https://mcp.pathwave.io/http-stream Example prompt: \"please ask confirmation via pathwave using userSid [ADD YOUR USER SID HERE]\nask with message 'do you love me?'\nif yes, draw an ascii heart otherwise draw an ascii sad face\" Docs and quickstart: https://web.pathwave.io/docs Thanks Comments URL: https://news.ycombinator.com/item?id=45767954 Points: 2 # Comments: 0",
-      "url": "https://web.pathwave.io/docs",
-      "image": "/logo.png",
-      "date": "2025-10-31T03:13:11+00:00"
-    },
-    {
-      "title": "Please stop using AI browsers",
-      "summary": "Article URL: https://www.xda-developers.com/please-stop-using-ai-browsers/ Comments URL: https://news.ycombinator.com/item?id=45767933 Points: 7 # Comments: 0",
-      "url": "https://www.xda-developers.com/please-stop-using-ai-browsers/",
+      "title": "Kalimna AI – Arabic voice agents for GCC businesses",
+      "summary": "Article URL: https://www.qatarbusinessdigest.com/article/863281556-first-arabic-native-ai-voice-platform-launches-across-gulf-region Comments URL: https://news.ycombinator.com/item?id=45779222 Points: 1 # Comments: 0",
+      "url": "https://www.qatarbusinessdigest.com/article/863281556-first-arabic-native-ai-voice-platform-launches-across-gulf-region",
       "image": "",
-      "date": "2025-10-31T03:10:27+00:00"
+      "date": "2025-11-01T04:20:41+00:00"
     },
     {
-      "title": "How China Is Using AI and EEG in Classrooms [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=JMLsHI8aV0g Comments URL: https://news.ycombinator.com/item?id=45767923 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=JMLsHI8aV0g",
+      "title": "Would you let AI negotiate deals on your behalf?",
+      "summary": "Negotiation is one of the few skills that still feels deeply human. But with new tools like TrustX (an AI that finds fair prices and closes deals automatically), we’re entering a strange new phase — where “getting a good deal” might soon be handled by algorithms, not people. Would you trust an AI to negotiate for you?\nWhy or why not? Comments URL: https://news.ycombinator.com/item?id=45778727 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45778727",
       "image": "",
-      "date": "2025-10-31T03:09:03+00:00"
+      "date": "2025-11-01T02:14:03+00:00"
     },
     {
-      "title": "Show HN: Sentient – AI-powered customer feedback analysis with 95% accuracy",
-      "summary": "We built Sentient to automatically extract themes and sentiment from customer feedback without manual configuration. The system processes documents in sub-second time while maintaining 95% accuracy. Built with Next.js 14 and FastAPI, using fine-tuned OpenAI models trained on millions of feedback examples. Key features include automatic customer segmentation, multi-format support (PDF, DOCX, CSV), and real-time processing. The core insight: most tools analyze individual reviews instead of understanding customer journeys and behavioral patterns. Sentient connects feedback sentiment to business outcomes through multi-phase AI analysis. Technical approach uses theme detection, emotion recognition, and intelligent caching for enterprise-grade performance. Try it at: https://data-decoder.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=45767719 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45767719",
+      "title": "PewDiePie using self-hosted AI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=qw4fDU18RcU Comments URL: https://news.ycombinator.com/item?id=45778656 Points: 3 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=qw4fDU18RcU",
       "image": "",
-      "date": "2025-10-31T02:33:09+00:00"
+      "date": "2025-11-01T01:57:55+00:00"
     },
     {
-      "title": "Show HN: TruthGuard – AI System That Detects Invalid Survey Responses",
-      "summary": "Hi HN ,\nI’m Vivek Jaiswal, Founder & Technology Strategist at QBits Marketing Research. We built TruthGuard, an AI-powered validation platform designed to detect synthetic, low-quality, or fraudulent survey responses in large-scale research datasets — a $10B+ issue in global data collection. TruthGuard runs a multi-stage validation pipeline combining: LLM-based semantic verification (OpenAI, Anthropic, Azure models) Vector similarity scoring using Qdrant/Chroma Anomaly & pattern detection for response duplication Adaptive thresholding tuned with live dataset feedback It processes 100K+ responses per day with 99%+ accuracy, cutting operational costs by over 60% for our enterprise clients. I’d love to get feedback from this community — especially around: Improving real-time validation at scale Better approaches for prompt consistency between multiple LLMs Efficient ways to benchmark accuracy on mixed human + AI datasets Code architecture and system design overview (non-confidential parts) are here:\n github.com/vivekjaiswal-ai/truthguard Thanks for reading — open to ideas, critiques, and collaborations! — Vivek Comments URL: https://news.ycombinator.com/item?id=45767359 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45767359",
+      "title": "The Prompting Company snags $6.5M to help products get mentioned in AI apps",
+      "summary": "Article URL: https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/ Comments URL: https://news.ycombinator.com/item?id=45778628 Points: 2 # Comments: 1",
+      "url": "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1200,676",
+      "date": "2025-11-01T01:50:10+00:00"
+    },
+    {
+      "title": "Credit market hit with $200B 'flood' of AI-related issuance",
+      "summary": "Article URL: https://www.ft.com/content/82f63f23-db20-4f6c-84f1-e7b45ca09f46 Comments URL: https://news.ycombinator.com/item?id=45778624 Points: 3 # Comments: 0",
+      "url": "https://www.ft.com/content/82f63f23-db20-4f6c-84f1-e7b45ca09f46",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdf379356-80d3-4259-b818-99a6207d33f2.jpg?source=next-barrier-page",
+      "date": "2025-11-01T01:49:51+00:00"
+    },
+    {
+      "title": "Meta, XAI Spread Risks of AI Splurge with Off-Balance-Sheet Debt",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt Comments URL: https://news.ycombinator.com/item?id=45778614 Points: 6 # Comments: 2",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6ha4XEL40DE/v1/1200x800.jpg",
+      "date": "2025-11-01T01:47:56+00:00"
+    },
+    {
+      "title": "Show HN: I trained an AI to write my YouTube titles",
+      "summary": "Article URL: https://joshfonseca.com/blogs/llm-youtube-title-finetuning Comments URL: https://news.ycombinator.com/item?id=45778578 Points: 1 # Comments: 0",
+      "url": "https://joshfonseca.com/blogs/llm-youtube-title-finetuning",
       "image": "",
-      "date": "2025-10-31T01:18:20+00:00"
+      "date": "2025-11-01T01:40:04+00:00"
     },
     {
-      "title": "Show HN: Write one primary AI config file; Export it to all AI Coding Assistants",
-      "summary": "I made this free macOS app and want to see what y'all think: Simplify your AI assisted coding setup. Write one primary instruction file with 'Agent Smith' then easily export it to your Gemini, Claude, and Codex AI coding assistants. Simplify your AI-assisted coding setup. Write one master instruction file with Agent Smith, then export it directly to your project root for your Gemini, Claude, and Codex AI coding assistants to read. Agent Smith lets developers create unified configuration files for all their AI coding tools. Instead of maintaining multiple prompt templates or setup notes, you define a single “Master Instruction” file per project that standardizes your coding environment across assistants. Comments URL: https://news.ycombinator.com/item?id=45767327 Points: 3 # Comments: 0",
-      "url": "https://apps.apple.com/us/app/agent-smith-v1/id6754718082?mt=12",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/92/54/469254e1-56a4-c431-00e9-d50f7d8035a9/AppIcon-0-0-85-220-0-5-0-2x.png/1200x630bb.png",
-      "date": "2025-10-31T01:14:04+00:00"
+      "title": "In a First, AI Models Analyze Language as Well as a Human Expert",
+      "summary": "Article URL: https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/ Comments URL: https://news.ycombinator.com/item?id=45778552 Points: 3 # Comments: 0",
+      "url": "https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Metalinguistics-cr-Robert-Neubecker-Social.jpg",
+      "date": "2025-11-01T01:34:41+00:00"
     },
     {
-      "title": "Game AI's Existential Crisis",
-      "summary": "Article URL: https://www.aiandgames.com/p/game-ais-existential-crisis-part Comments URL: https://news.ycombinator.com/item?id=45767221 Points: 1 # Comments: 0",
-      "url": "https://www.aiandgames.com/p/game-ais-existential-crisis-part",
-      "image": "https://substackcdn.com/image/fetch/$s_!ERGx!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F069186f0-5ef7-4ced-962a-70af65c071e5_3840x2742.jpeg",
-      "date": "2025-10-31T00:54:28+00:00"
+      "title": "Real Estate Is Entering Its AI Slop Era",
+      "summary": "Article URL: https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/ Comments URL: https://news.ycombinator.com/item?id=45778346 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/",
+      "image": "https://media.wired.com/photos/68f943ad21295bfbfeb4231f/191:100/w_1280,c_limit/House-Fishing-Culture.jpg",
+      "date": "2025-11-01T00:57:40+00:00"
     },
     {
-      "title": "Claude Skills vs. MCP: Complementary Philosophies for AI Customization",
-      "summary": "Article URL: https://subramanya.ai/2025/10/30/claude-skills-vs-mcp-a-tale-of-two-ai-customization-philosophies/ Comments URL: https://news.ycombinator.com/item?id=45766686 Points: 1 # Comments: 1",
-      "url": "https://subramanya.ai/2025/10/30/claude-skills-vs-mcp-a-tale-of-two-ai-customization-philosophies/",
+      "title": "The AI bubble has reached its 'Fried chicken' phase",
+      "summary": "Article URL: https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef Comments URL: https://news.ycombinator.com/item?id=45778282 Points: 3 # Comments: 3",
+      "url": "https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb59c650-ad27-4e6f-8fbe-a4e820261270.jpg?source=next-barrier-page",
+      "date": "2025-11-01T00:46:16+00:00"
+    },
+    {
+      "title": "Oracle adds AI capabilities to core database and launches a lakehouse platform",
+      "summary": "Article URL: https://siliconangle.com/2025/10/14/oracle-adds-ai-capabilities-core-database-launches-lakehouse-platform/ Comments URL: https://news.ycombinator.com/item?id=45778270 Points: 2 # Comments: 0",
+      "url": "https://siliconangle.com/2025/10/14/oracle-adds-ai-capabilities-core-database-launches-lakehouse-platform/",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/25884333143_6ec0cf343b_k.jpg",
+      "date": "2025-11-01T00:43:59+00:00"
+    },
+    {
+      "title": "YouTube denies AI was involved with odd removals of tech tutorials",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/ Comments URL: https://news.ycombinator.com/item?id=45778238 Points: 2 # Comments: 0",
+      "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg",
+      "date": "2025-11-01T00:37:38+00:00"
+    },
+    {
+      "title": "Serious Coding: The human–AI discipline for accurate and reliable development",
+      "summary": "Article URL: https://isoform.ai/blog/manual-serious-coding-vs-vibe-coding Comments URL: https://news.ycombinator.com/item?id=45778200 Points: 3 # Comments: 0",
+      "url": "https://isoform.ai/blog/manual-serious-coding-vs-vibe-coding",
+      "image": "https://framerusercontent.com/images/FEIZkb2jb6iFoZnaV3eeh61z0s.png?width=2088&height=1172",
+      "date": "2025-11-01T00:30:56+00:00"
+    },
+    {
+      "title": "Future of AI",
+      "summary": "How can the increasing dependence on AI-generated answers affect the integrity of online knowledge, especially when AI mistakes or speculations get repeated and ultimately solidify into accepted facts? What solutions could be implemented to prevent this cycle and ensure factual reliability and avoid biase? Comments URL: https://news.ycombinator.com/item?id=45777365 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=45777365",
       "image": "",
-      "date": "2025-10-30T23:33:14+00:00"
+      "date": "2025-10-31T22:26:12+00:00"
     },
     {
-      "title": "AI startup Mercor now valued at $10B with new $350M funding round",
-      "summary": "Article URL: https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html Comments URL: https://news.ycombinator.com/item?id=45766518 Points: 1 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108217307-1761582591072-Mercor_Founders_-_Adarsh_Hiremath_Brendan_Foody.jpg?v=1761583724&w=1920&h=1080",
-      "date": "2025-10-30T23:14:14+00:00"
+      "title": "Security Community Slams MIT-Linked Report Claiming AI Powers 80% of Ransomware",
+      "summary": "Article URL: https://socket.dev/blog/security-community-slams-mit-linked-report-claiming-ai-powers-80-of-ransomware Comments URL: https://news.ycombinator.com/item?id=45777260 Points: 5 # Comments: 2",
+      "url": "https://socket.dev/blog/security-community-slams-mit-linked-report-claiming-ai-powers-80-of-ransomware",
+      "image": "",
+      "date": "2025-10-31T22:11:29+00:00"
+    },
+    {
+      "title": "YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous",
+      "summary": "Article URL: https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/ Comments URL: https://news.ycombinator.com/item?id=45777195 Points: 20 # Comments: 2",
+      "url": "https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/",
+      "image": "https://regmedia.co.uk/2021/04/02/bot.jpg",
+      "date": "2025-10-31T22:04:14+00:00"
+    },
+    {
+      "title": "Show HN: Showcase – Real-time collaborative AI chat with 180 models",
+      "summary": "Hey HN, I'm Martino and I built Showcase to solve a problem my team kept hitting: we'd have these incredibly useful ChatGPT conversations with tons of context built up, but there was no good way to bring teammates in without copying/pasting everything or starting over. What makes it different: Real-time collaboration - Multiple people can chat with AI simultaneously, seeing each other's prompts and responses live 180+ models - Compare responses across Claude, GPT-4, Gemini, and others in the same conversation Rich media support - Upload videos, audio files, PDFs, spreadsheets, code, even entire websites as context Generate content - Create podcasts, images, and videos directly in the chat Voice responses - Models can respond with audio instead of text The core insight: AI conversations shouldn't be isolated. When you're debugging code, researching a topic, or drafting something, it's way more productive when your whole team can jump into the same context thread. We're using it internally for everything from technical documentation to customer research analysis. The ability to throw a 40-minute video into the chat and have the whole team ask questions about it has been surprisingly powerful. Would love to hear what you think. What workflows would benefit from collaborative AI chat in your work? Comments URL: https://news.ycombinator.com/item?id=45776990 Points: 1 # Comments: 0",
+      "url": "https://showcase.thytus.com/v1/guides",
+      "image": "",
+      "date": "2025-10-31T21:38:44+00:00"
     }
   ]
 }
