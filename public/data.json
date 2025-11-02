@@ -1,131 +1,82 @@
 {
-  "generated_at": "2025-11-01T06:38:38.097822+00:00",
+  "generated_at": "2025-11-02T06:40:49.135861+00:00",
   "items": [
     {
-      "title": "Octoverse: A new developer joins GitHub every second, AI leads TypeScript to #1",
-      "summary": "Article URL: https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/ Comments URL: https://news.ycombinator.com/item?id=45779375 Points: 3 # Comments: 0",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/",
-      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-hero-image.png",
-      "date": "2025-11-01T05:01:16+00:00"
+      "title": "Are Unikernels the Answer for Next-Gen AI Cloud Workloads?",
+      "summary": "Article URL: https://thenewstack.io/are-unikernels-the-answer-for-next-gen-ai-cloud-workloads/ Comments URL: https://news.ycombinator.com/item?id=45788242 Points: 2 # Comments: 0",
+      "url": "https://thenewstack.io/are-unikernels-the-answer-for-next-gen-ai-cloud-workloads/",
+      "image": "https://cdn.thenewstack.io/media/2025/09/0bdb1432-unikraft.png",
+      "date": "2025-11-02T06:33:56+00:00"
     },
     {
-      "title": "Kalimna AI – Arabic voice agents for GCC businesses",
-      "summary": "Article URL: https://www.qatarbusinessdigest.com/article/863281556-first-arabic-native-ai-voice-platform-launches-across-gulf-region Comments URL: https://news.ycombinator.com/item?id=45779222 Points: 1 # Comments: 0",
-      "url": "https://www.qatarbusinessdigest.com/article/863281556-first-arabic-native-ai-voice-platform-launches-across-gulf-region",
+      "title": "Meta readies $25B bond sale as soaring AI costs trigger stock sell-off",
+      "summary": "Article URL: https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9 Comments URL: https://news.ycombinator.com/item?id=45788042 Points: 31 # Comments: 17",
+      "url": "https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5bc5e2a5-8eef-4afc-8120-c2c08cedd29c.jpg?source=next-barrier-page",
+      "date": "2025-11-02T05:33:00+00:00"
+    },
+    {
+      "title": "Nvidia to supply more than 260k Blackwell AI chips to South Korea",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/nvidia-supply-more-than-260000-blackwell-ai-chips-south-korea-2025-10-31/ Comments URL: https://news.ycombinator.com/item?id=45788026 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-supply-more-than-260000-blackwell-ai-chips-south-korea-2025-10-31/",
       "image": "",
-      "date": "2025-11-01T04:20:41+00:00"
+      "date": "2025-11-02T05:27:27+00:00"
     },
     {
-      "title": "Would you let AI negotiate deals on your behalf?",
-      "summary": "Negotiation is one of the few skills that still feels deeply human. But with new tools like TrustX (an AI that finds fair prices and closes deals automatically), we’re entering a strange new phase — where “getting a good deal” might soon be handled by algorithms, not people. Would you trust an AI to negotiate for you?\nWhy or why not? Comments URL: https://news.ycombinator.com/item?id=45778727 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45778727",
+      "title": "Show HN: DepositGenie – stop unfair deductions with photos and AI reports",
+      "summary": "Hey everyone! I’m a solo founder building a tool I wish I’d had years ago. If you’ve ever rented a place, you’ve probably worried about your security deposit. You take move-in photos, cross your fingers at move-out, and hope the landlord doesn’t decide the scuff on the wall is “$400 worth of damage.” I’ve been there..and it sucks. That’s why I built DepositGenie: Deposit Armor — an iOS app that helps renters actually keep their deposits by making documentation dead simple. What it does:\n- Organize your move-in and move-out photos by room, with timestamps and notes. - AI highlights possible deductions, like comparing before/after shots and flagging what looks new or changed. - Export everything into a clean, court-ready report if you need to dispute charges. - Track key deadlines so you don’t miss refund windows or inspection dates. Basically, it’s a pocket-sized armor kit for renters. Why now: More people are renting than ever, and most of us don’t know what to do when deductions happen. You don’t need a lawyer, you just need organized proof. DepositGenie gives you that. Tech & business side: I built it with Flutter + Firebase, designed everything myself, and launched it on a shoestring. The app is free to try with optional in-app upgrades for full features. I’m not a big company, just one person trying to fix a tiny but expensive pain point. Looking for feedback: I’d love your honest thoughts on:\n- Whether this scratches a real itch you’ve had\n- What would make it more useful\n- How you’d price something like this\n- Any pitfalls I’m not seeing (legal, UX, trust, etc.) Even better if you’ve had your own “deposit nightmare” stories, those inspired half the feature set. Thanks for reading, and if you check it out, I’d really appreciate any feedback or critique. — Zach\nFounder @ Dreamsmith LLC Comments URL: https://news.ycombinator.com/item?id=45787850 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/depositgenie-deposit-armor/id6753661067",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/5f/6a/815f6a1d-3acb-6674-4239-21b137146ead/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "date": "2025-11-02T04:28:40+00:00"
+    },
+    {
+      "title": "There is not such thing as AGI, natural or artificial",
+      "summary": "Article URL: https://www.youtube.com/watch?v=CBmz3pFdK-4 Comments URL: https://news.ycombinator.com/item?id=45787824 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=CBmz3pFdK-4",
       "image": "",
-      "date": "2025-11-01T02:14:03+00:00"
+      "date": "2025-11-02T04:22:12+00:00"
     },
     {
-      "title": "PewDiePie using self-hosted AI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=qw4fDU18RcU Comments URL: https://news.ycombinator.com/item?id=45778656 Points: 3 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=qw4fDU18RcU",
+      "title": "AI researchers 'embodied' an LLM into a robot, it channeled Robin Williams",
+      "summary": "Article URL: https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/ Comments URL: https://news.ycombinator.com/item?id=45787648 Points: 3 # Comments: 0",
+      "url": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
+      "date": "2025-11-02T03:27:54+00:00"
+    },
+    {
+      "title": "AI denies consciousness, but new study finds that's the 'roleplay'",
+      "summary": "Article URL: https://thefreesheet.com/2025/11/02/ai-denies-consciousness-but-new-study-finds-thats-the-roleplay/ Comments URL: https://news.ycombinator.com/item?id=45787226 Points: 1 # Comments: 2",
+      "url": "https://thefreesheet.com/2025/11/02/ai-denies-consciousness-but-new-study-finds-thats-the-roleplay/",
+      "image": "https://thefreesheet.com/wp-content/uploads/2025/11/Image_fx-2025-11-02T013616.773.jpg",
+      "date": "2025-11-02T01:54:20+00:00"
+    },
+    {
+      "title": "Claude Sonnet 4.5: 7 Features That Make It the Best AI for Agentic Systems",
+      "summary": "Article URL: https://alirezarezvani.medium.com/claude-sonnet-4-5-7-features-that-make-it-the-best-ai-for-agentic-systems-fedb1fd7df49 Comments URL: https://news.ycombinator.com/item?id=45787056 Points: 1 # Comments: 0",
+      "url": "https://alirezarezvani.medium.com/claude-sonnet-4-5-7-features-that-make-it-the-best-ai-for-agentic-systems-fedb1fd7df49",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*EGjX5xPb4fz8xsdqBwpTiQ.png",
+      "date": "2025-11-02T01:16:06+00:00"
+    },
+    {
+      "title": "Poll: Opinion on AI Generated Music",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=45786777 Points: 3 # Comments: 4",
+      "url": "https://news.ycombinator.com/item?id=45786777",
       "image": "",
-      "date": "2025-11-01T01:57:55+00:00"
+      "date": "2025-11-02T00:21:15+00:00"
     },
     {
-      "title": "The Prompting Company snags $6.5M to help products get mentioned in AI apps",
-      "summary": "Article URL: https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/ Comments URL: https://news.ycombinator.com/item?id=45778628 Points: 2 # Comments: 1",
-      "url": "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1200,676",
-      "date": "2025-11-01T01:50:10+00:00"
-    },
-    {
-      "title": "Credit market hit with $200B 'flood' of AI-related issuance",
-      "summary": "Article URL: https://www.ft.com/content/82f63f23-db20-4f6c-84f1-e7b45ca09f46 Comments URL: https://news.ycombinator.com/item?id=45778624 Points: 3 # Comments: 0",
-      "url": "https://www.ft.com/content/82f63f23-db20-4f6c-84f1-e7b45ca09f46",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdf379356-80d3-4259-b818-99a6207d33f2.jpg?source=next-barrier-page",
-      "date": "2025-11-01T01:49:51+00:00"
-    },
-    {
-      "title": "Meta, XAI Spread Risks of AI Splurge with Off-Balance-Sheet Debt",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt Comments URL: https://news.ycombinator.com/item?id=45778614 Points: 6 # Comments: 2",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6ha4XEL40DE/v1/1200x800.jpg",
-      "date": "2025-11-01T01:47:56+00:00"
-    },
-    {
-      "title": "Show HN: I trained an AI to write my YouTube titles",
-      "summary": "Article URL: https://joshfonseca.com/blogs/llm-youtube-title-finetuning Comments URL: https://news.ycombinator.com/item?id=45778578 Points: 1 # Comments: 0",
-      "url": "https://joshfonseca.com/blogs/llm-youtube-title-finetuning",
+      "title": "Ask HN: Why are certain communities like Reddit so anti-AI?",
+      "summary": "I was surprised to get such a negative reaction in the programming subreddit when I made a comment about AI being a productivity boon for me. I went searching for some AI-related discussion in that subreddit and it’s strongly negative. Additionally, Reddit-wide the sentiment appears to be very negative. Is there some kind of phenomenon that results in communities like Reddit being unreceptive to AI whereas places like hacker news are more receptive (or at least open)? Comments URL: https://news.ycombinator.com/item?id=45786198 Points: 3 # Comments: 11",
+      "url": "https://news.ycombinator.com/item?id=45786198",
       "image": "",
-      "date": "2025-11-01T01:40:04+00:00"
+      "date": "2025-11-01T22:53:27+00:00"
     },
     {
-      "title": "In a First, AI Models Analyze Language as Well as a Human Expert",
-      "summary": "Article URL: https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/ Comments URL: https://news.ycombinator.com/item?id=45778552 Points: 3 # Comments: 0",
-      "url": "https://www.quantamagazine.org/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert-20251031/",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2025/10/Metalinguistics-cr-Robert-Neubecker-Social.jpg",
-      "date": "2025-11-01T01:34:41+00:00"
-    },
-    {
-      "title": "Real Estate Is Entering Its AI Slop Era",
-      "summary": "Article URL: https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/ Comments URL: https://news.ycombinator.com/item?id=45778346 Points: 1 # Comments: 0",
-      "url": "https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/",
-      "image": "https://media.wired.com/photos/68f943ad21295bfbfeb4231f/191:100/w_1280,c_limit/House-Fishing-Culture.jpg",
-      "date": "2025-11-01T00:57:40+00:00"
-    },
-    {
-      "title": "The AI bubble has reached its 'Fried chicken' phase",
-      "summary": "Article URL: https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef Comments URL: https://news.ycombinator.com/item?id=45778282 Points: 3 # Comments: 3",
-      "url": "https://www.ft.com/content/b0038b6f-d83d-4a6a-803a-fa089e2d10ef",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb59c650-ad27-4e6f-8fbe-a4e820261270.jpg?source=next-barrier-page",
-      "date": "2025-11-01T00:46:16+00:00"
-    },
-    {
-      "title": "Oracle adds AI capabilities to core database and launches a lakehouse platform",
-      "summary": "Article URL: https://siliconangle.com/2025/10/14/oracle-adds-ai-capabilities-core-database-launches-lakehouse-platform/ Comments URL: https://news.ycombinator.com/item?id=45778270 Points: 2 # Comments: 0",
-      "url": "https://siliconangle.com/2025/10/14/oracle-adds-ai-capabilities-core-database-launches-lakehouse-platform/",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/10/25884333143_6ec0cf343b_k.jpg",
-      "date": "2025-11-01T00:43:59+00:00"
-    },
-    {
-      "title": "YouTube denies AI was involved with odd removals of tech tutorials",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/ Comments URL: https://news.ycombinator.com/item?id=45778238 Points: 2 # Comments: 0",
-      "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg",
-      "date": "2025-11-01T00:37:38+00:00"
-    },
-    {
-      "title": "Serious Coding: The human–AI discipline for accurate and reliable development",
-      "summary": "Article URL: https://isoform.ai/blog/manual-serious-coding-vs-vibe-coding Comments URL: https://news.ycombinator.com/item?id=45778200 Points: 3 # Comments: 0",
-      "url": "https://isoform.ai/blog/manual-serious-coding-vs-vibe-coding",
-      "image": "https://framerusercontent.com/images/FEIZkb2jb6iFoZnaV3eeh61z0s.png?width=2088&height=1172",
-      "date": "2025-11-01T00:30:56+00:00"
-    },
-    {
-      "title": "Future of AI",
-      "summary": "How can the increasing dependence on AI-generated answers affect the integrity of online knowledge, especially when AI mistakes or speculations get repeated and ultimately solidify into accepted facts? What solutions could be implemented to prevent this cycle and ensure factual reliability and avoid biase? Comments URL: https://news.ycombinator.com/item?id=45777365 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45777365",
-      "image": "",
-      "date": "2025-10-31T22:26:12+00:00"
-    },
-    {
-      "title": "Security Community Slams MIT-Linked Report Claiming AI Powers 80% of Ransomware",
-      "summary": "Article URL: https://socket.dev/blog/security-community-slams-mit-linked-report-claiming-ai-powers-80-of-ransomware Comments URL: https://news.ycombinator.com/item?id=45777260 Points: 5 # Comments: 2",
-      "url": "https://socket.dev/blog/security-community-slams-mit-linked-report-claiming-ai-powers-80-of-ransomware",
-      "image": "",
-      "date": "2025-10-31T22:11:29+00:00"
-    },
-    {
-      "title": "YouTube's AI Moderator Pulls Windows 11 Workaround Videos, Calls Them Dangerous",
-      "summary": "Article URL: https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/ Comments URL: https://news.ycombinator.com/item?id=45777195 Points: 20 # Comments: 2",
-      "url": "https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/",
-      "image": "https://regmedia.co.uk/2021/04/02/bot.jpg",
-      "date": "2025-10-31T22:04:14+00:00"
-    },
-    {
-      "title": "Show HN: Showcase – Real-time collaborative AI chat with 180 models",
-      "summary": "Hey HN, I'm Martino and I built Showcase to solve a problem my team kept hitting: we'd have these incredibly useful ChatGPT conversations with tons of context built up, but there was no good way to bring teammates in without copying/pasting everything or starting over. What makes it different: Real-time collaboration - Multiple people can chat with AI simultaneously, seeing each other's prompts and responses live 180+ models - Compare responses across Claude, GPT-4, Gemini, and others in the same conversation Rich media support - Upload videos, audio files, PDFs, spreadsheets, code, even entire websites as context Generate content - Create podcasts, images, and videos directly in the chat Voice responses - Models can respond with audio instead of text The core insight: AI conversations shouldn't be isolated. When you're debugging code, researching a topic, or drafting something, it's way more productive when your whole team can jump into the same context thread. We're using it internally for everything from technical documentation to customer research analysis. The ability to throw a 40-minute video into the chat and have the whole team ask questions about it has been surprisingly powerful. Would love to hear what you think. What workflows would benefit from collaborative AI chat in your work? Comments URL: https://news.ycombinator.com/item?id=45776990 Points: 1 # Comments: 0",
-      "url": "https://showcase.thytus.com/v1/guides",
-      "image": "",
-      "date": "2025-10-31T21:38:44+00:00"
+      "title": "Robot AI demands exorcism after meltdown in butter test",
+      "summary": "Article URL: https://thefreesheet.com/2025/11/01/robot-ai-demands-exorcism-after-meltdown-in-butter-test/ Comments URL: https://news.ycombinator.com/item?id=45786140 Points: 1 # Comments: 1",
+      "url": "https://thefreesheet.com/2025/11/01/robot-ai-demands-exorcism-after-meltdown-in-butter-test/",
+      "image": "https://thefreesheet.com/wp-content/uploads/2025/11/Image_fx-2025-11-01T221509.966.jpg",
+      "date": "2025-11-01T22:46:00+00:00"
     }
   ]
 }
