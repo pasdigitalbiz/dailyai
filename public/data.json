@@ -1,96 +1,110 @@
 {
-  "generated_at": "2025-11-03T06:46:06.779656+00:00",
+  "generated_at": "2025-11-04T06:45:01.352702+00:00",
   "items": [
     {
-      "title": "The Collapse of Centralized AI Discovery",
-      "summary": "Article URL: https://www.aivojournal.org/the-collapse-of-centralized-ai-discovery/ Comments URL: https://news.ycombinator.com/item?id=45796443 Points: 1 # Comments: 0",
-      "url": "https://www.aivojournal.org/the-collapse-of-centralized-ai-discovery/",
-      "image": "https://www.aivojournal.org/content/images/size/w1200/2025/11/ChatGPT-Image-Nov-3--2025-at-06_26_34-AM.png",
-      "date": "2025-11-03T06:44:07+00:00"
-    },
-    {
-      "title": "Best AI-Powered Learning Apps for Kids Ages 2-5: A Parent's Guide",
-      "summary": "Article URL: https://techlife.blog/posts/best-ai-powered-learning-apps-for-kids-ages-2-5-parents-guide/ Comments URL: https://news.ycombinator.com/item?id=45796319 Points: 2 # Comments: 0",
-      "url": "https://techlife.blog/posts/best-ai-powered-learning-apps-for-kids-ages-2-5-parents-guide/",
-      "image": "https://techlife.blog/images/ai-kids-learning-apps.webp",
-      "date": "2025-11-03T06:14:24+00:00"
-    },
-    {
-      "title": "Mistake-filled legal briefs show the limits of relying on AI tools at work",
-      "summary": "Article URL: https://apnews.com/article/artificial-intelligence-tools-work-errors-skills-fddcd0a5c86c20a4748dc65ba38f77fa Comments URL: https://news.ycombinator.com/item?id=45795912 Points: 4 # Comments: 0",
-      "url": "https://apnews.com/article/artificial-intelligence-tools-work-errors-skills-fddcd0a5c86c20a4748dc65ba38f77fa",
-      "image": "https://dims.apnews.com/dims4/default/1932d90/2147483647/strip/true/crop/1920x1080+0+100/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2Fee%2Ffdb3966e918b739082588f01258b%2F6eff308d0a80410b9cf86351a29d3778",
-      "date": "2025-11-03T04:33:32+00:00"
-    },
-    {
-      "title": "Google Earth Gets an AI Chatbot to Help Chart the Climate Crisis",
-      "summary": "Article URL: https://www.wired.com/story/google-earth-gemini-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=45795661 Points: 1 # Comments: 0",
-      "url": "https://www.wired.com/story/google-earth-gemini-ai-chatbot/",
-      "image": "https://media.wired.com/photos/68f959aca91fabafe58f44df/191:100/w_1280,c_limit/gear-google-earth-669824188.jpg",
-      "date": "2025-11-03T03:44:32+00:00"
-    },
-    {
-      "title": "Small Language Models Are the Future of Agentic AI",
-      "summary": "Article URL: https://research.nvidia.com/labs/lpr/slm-agents/ Comments URL: https://news.ycombinator.com/item?id=45795358 Points: 1 # Comments: 1",
-      "url": "https://research.nvidia.com/labs/lpr/slm-agents/",
-      "image": "static/image/diagram.png",
-      "date": "2025-11-03T02:36:55+00:00"
-    },
-    {
-      "title": "Senators announce bill that would ban AI chatbot companions for minors",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/ai-ban-kids-minors-chatgpt-characters-congress-senate-rcna240178 Comments URL: https://news.ycombinator.com/item?id=45795317 Points: 5 # Comments: 0",
-      "url": "https://www.nbcnews.com/tech/tech-news/ai-ban-kids-minors-chatgpt-characters-congress-senate-rcna240178",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251027-hawley-blumethal-mn-1025-3908bd.jpg",
-      "date": "2025-11-03T02:28:51+00:00"
-    },
-    {
-      "title": "Why AI is not a bubble*",
-      "summary": "Article URL: https://www.derekthompson.org/p/why-ai-is-not-a-bubble Comments URL: https://news.ycombinator.com/item?id=45794998 Points: 3 # Comments: 6",
-      "url": "https://www.derekthompson.org/p/why-ai-is-not-a-bubble",
-      "image": "https://substackcdn.com/image/fetch/$s_!LmO8!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6da4dc9-6436-4c94-bc57-a83c3794b005_1022x535.jpeg",
-      "date": "2025-11-03T01:20:29+00:00"
-    },
-    {
-      "title": "The next RISC-V processor frontier: AI",
-      "summary": "Article URL: https://www.edn.com/the-next-risc-v-processor-frontier-ai/ Comments URL: https://news.ycombinator.com/item?id=45794954 Points: 3 # Comments: 0",
-      "url": "https://www.edn.com/the-next-risc-v-processor-frontier-ai/",
+      "title": "IndQA: A Benchmark for Evaluating AI on Indian Culture and Languages",
+      "summary": "Article URL: https://openai.com/index/introducing-indqa Comments URL: https://news.ycombinator.com/item?id=45808003 Points: 1 # Comments: 0",
+      "url": "https://openai.com/index/introducing-indqa",
       "image": "",
-      "date": "2025-11-03T01:12:10+00:00"
+      "date": "2025-11-04T06:36:23+00:00"
     },
     {
-      "title": "Early xAI researcher raising $1B to build AI with emotional intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/researcher-raising-1-billion-to-build-ai-models-with-eq-2025-10 Comments URL: https://news.ycombinator.com/item?id=45794912 Points: 2 # Comments: 0",
-      "url": "https://www.businessinsider.com/researcher-raising-1-billion-to-build-ai-models-with-eq-2025-10",
-      "image": "https://i.insider.com/69050484599d46a4ccc1431b?width=1007&format=jpeg",
-      "date": "2025-11-03T01:04:36+00:00"
+      "title": "Merriam-Webster banks on \"actual intelligence\" over artificial intelligence",
+      "summary": "Article URL: https://www.marketplace.org/story/2025/10/29/artificial-intelligence-versus-actual-intelligence-a-merriamwebster-story Comments URL: https://news.ycombinator.com/item?id=45807873 Points: 3 # Comments: 0",
+      "url": "https://www.marketplace.org/story/2025/10/29/artificial-intelligence-versus-actual-intelligence-a-merriamwebster-story",
+      "image": "https://img.apmcdn.org/e3b88d337b252072681dd6dc5f0a7419204cdc16/widescreen/387bda-20251029-a-merriam-webster-collegiate-dictionary-on-a-bookshelf-of-other-reference-books-2000.jpg",
+      "date": "2025-11-04T06:16:13+00:00"
     },
     {
-      "title": "AI \"Assisted\" Reporter",
-      "summary": "Article URL: https://jobs.dayforcehcm.com/en-US/gannett/CANDIDATEPORTAL/jobs/80394 Comments URL: https://news.ycombinator.com/item?id=45794906 Points: 2 # Comments: 1",
-      "url": "https://jobs.dayforcehcm.com/en-US/gannett/CANDIDATEPORTAL/jobs/80394",
+      "title": "Skiddly Voice AI for Shopify Stores – Abandoned Cart Recovery",
+      "summary": "We just launched a small tool called SkiddlyAI — a Voice AI platform for Shopify store owners to recover abandoned checkouts. It automatically calls customers who left items in their cart, talks to them just like a real person, answers their questions, and helps them finish the purchase. Comments URL: https://news.ycombinator.com/item?id=45807803 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45807803",
       "image": "",
-      "date": "2025-11-03T01:03:55+00:00"
+      "date": "2025-11-04T05:59:14+00:00"
     },
     {
-      "title": "AI Proof Businesses",
-      "summary": "Article URL: https://worklifenotes.com/2025/11/02/ai-proof-businesses/ Comments URL: https://news.ycombinator.com/item?id=45794851 Points: 1 # Comments: 0",
-      "url": "https://worklifenotes.com/2025/11/02/ai-proof-businesses/",
-      "image": "https://worklifenotes.com/wp-content/uploads/2025/11/image.png",
-      "date": "2025-11-03T00:54:59+00:00"
+      "title": "Google Quantum AI revived a decades-old concept known as quantum money",
+      "summary": "Article URL: https://arxiv.org/abs/2510.06212 Comments URL: https://news.ycombinator.com/item?id=45807595 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2510.06212",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-11-04T05:07:54+00:00"
     },
     {
-      "title": "Big Tech Is Spending More Than Ever on AI and It's Still Not Enough",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/big-tech-is-spending-more-than-ever-on-ai-and-its-still-not-enough-f2398cfe Comments URL: https://news.ycombinator.com/item?id=45794849 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/big-tech-is-spending-more-than-ever-on-ai-and-its-still-not-enough-f2398cfe",
+      "title": "The Work of AI, Ourselves",
+      "summary": "Article URL: https://oliverbatemandoesthework.substack.com/p/the-work-of-ai-ourselves Comments URL: https://news.ycombinator.com/item?id=45807559 Points: 2 # Comments: 0",
+      "url": "https://oliverbatemandoesthework.substack.com/p/the-work-of-ai-ourselves",
       "image": "",
-      "date": "2025-11-03T00:54:52+00:00"
+      "date": "2025-11-04T04:58:25+00:00"
     },
     {
-      "title": "What Everyone Is Getting Wrong About AI and Jobs [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=IqwSb2hO1jE Comments URL: https://news.ycombinator.com/item?id=45794781 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=IqwSb2hO1jE",
+      "title": "Small language models review. SLMs on incremental intelligence",
+      "summary": "Article URL: https://agentherbie.com/articles/slms-incremental-intelligence Comments URL: https://news.ycombinator.com/item?id=45807541 Points: 1 # Comments: 0",
+      "url": "https://agentherbie.com/articles/slms-incremental-intelligence",
+      "image": "https://agentherbie.com/ah.nb.sq.png",
+      "date": "2025-11-04T04:53:33+00:00"
+    },
+    {
+      "title": "Security Vulnerabilities in AI-Powered Web Browsers",
+      "summary": "Article URL: https://blog.lukaszolejnik.com/security-vulnerabilities-in-ai-powered-web-browsers/ Comments URL: https://news.ycombinator.com/item?id=45807299 Points: 3 # Comments: 0",
+      "url": "https://blog.lukaszolejnik.com/security-vulnerabilities-in-ai-powered-web-browsers/",
       "image": "",
-      "date": "2025-11-03T00:43:25+00:00"
+      "date": "2025-11-04T04:02:16+00:00"
+    },
+    {
+      "title": "Is it worrying that 95% of AI enterprise projects fail?",
+      "summary": "Article URL: https://www.seangoedecke.com/why-do-ai-enterprise-projects-fail/ Comments URL: https://news.ycombinator.com/item?id=45807090 Points: 2 # Comments: 2",
+      "url": "https://www.seangoedecke.com/why-do-ai-enterprise-projects-fail/",
+      "image": "",
+      "date": "2025-11-04T03:12:07+00:00"
+    },
+    {
+      "title": "Trump says China, other countries can't have Nvidia's top AI chips chips",
+      "summary": "Article URL: https://www.reuters.com/world/china/trump-says-nvidias-blackwell-ai-chip-not-other-people-2025-11-03/ Comments URL: https://news.ycombinator.com/item?id=45806941 Points: 2 # Comments: 0",
+      "url": "https://www.reuters.com/world/china/trump-says-nvidias-blackwell-ai-chip-not-other-people-2025-11-03/",
+      "image": "",
+      "date": "2025-11-04T02:44:23+00:00"
+    },
+    {
+      "title": "Meta Says Porn Stash Was for 'Personal Use,' Not Training AI Models",
+      "summary": "Article URL: https://gizmodo.com/meta-says-porn-stash-was-for-personal-use-not-training-ai-models-2000679672 Comments URL: https://news.ycombinator.com/item?id=45806463 Points: 4 # Comments: 4",
+      "url": "https://gizmodo.com/meta-says-porn-stash-was-for-personal-use-not-training-ai-models-2000679672",
+      "image": "https://gizmodo.com/app/uploads/2025/04/GettyImages-2195497483-1200x675.jpg",
+      "date": "2025-11-04T01:10:00+00:00"
+    },
+    {
+      "title": "Palantir tops estimates, boosts fourth-quarter guidance on AI adoption",
+      "summary": "Article URL: https://www.cnbc.com/2025/11/03/palantir-pltr-q3-earnings-2025.html Comments URL: https://news.ycombinator.com/item?id=45805735 Points: 3 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/11/03/palantir-pltr-q3-earnings-2025.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108115846-1741901334944-gettyimages-2204343747-PALANTIR_AIPCON.jpeg?v=1762185570&w=1920&h=1080",
+      "date": "2025-11-03T23:27:54+00:00"
+    },
+    {
+      "title": "Trump Officials Torpedoed Nvidia's Push to Export AI Chips to China",
+      "summary": "Article URL: https://www.wsj.com/world/china/trump-nvidia-china-chip-exports-51e00415 Comments URL: https://news.ycombinator.com/item?id=45805245 Points: 5 # Comments: 0",
+      "url": "https://www.wsj.com/world/china/trump-nvidia-china-chip-exports-51e00415",
+      "image": "",
+      "date": "2025-11-03T22:31:02+00:00"
+    },
+    {
+      "title": "AI Is the Bubble to Burst Them All",
+      "summary": "Article URL: https://www.wired.com/story/ai-bubble-will-burst/ Comments URL: https://news.ycombinator.com/item?id=45805219 Points: 5 # Comments: 0",
+      "url": "https://www.wired.com/story/ai-bubble-will-burst/",
+      "image": "https://media.wired.com/photos/68e043992e3fc9a36ea8f485/191:100/w_1280,c_limit/WIRED-AI-as_Bubble_Blue_ALT2.jpg",
+      "date": "2025-11-03T22:28:40+00:00"
+    },
+    {
+      "title": "Knowledge model is key to having working enterprise AI",
+      "summary": "Article URL: https://www.vian.ai/content/how-to-finally-have-working-genai-in-the-enterprise Comments URL: https://news.ycombinator.com/item?id=45805008 Points: 1 # Comments: 0",
+      "url": "https://www.vian.ai/content/how-to-finally-have-working-genai-in-the-enterprise",
+      "image": "",
+      "date": "2025-11-03T22:06:45+00:00"
+    },
+    {
+      "title": "Big Tech Needs $2T in AI Revenue by 2030",
+      "summary": "Article URL: https://www.wheresyoured.at/big-tech-2tr/ Comments URL: https://news.ycombinator.com/item?id=45804873 Points: 38 # Comments: 20",
+      "url": "https://www.wheresyoured.at/big-tech-2tr/",
+      "image": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+      "date": "2025-11-03T21:50:05+00:00"
     }
   ]
 }
