@@ -1,89 +1,89 @@
 {
-  "generated_at": "2025-11-06T06:44:46.759387+00:00",
+  "generated_at": "2025-11-07T06:44:19.156147+00:00",
   "items": [
     {
-      "title": "Snap and Perplexity sign $400M deal to put AI search directly in Snapchat",
-      "summary": "Article URL: https://www.engadget.com/social-media/snap-and-perplexity-sign-400-million-deal-to-put-ai-search-directly-in-snapchat-221101734.html Comments URL: https://news.ycombinator.com/item?id=45831947 Points: 1 # Comments: 0",
-      "url": "https://www.engadget.com/social-media/snap-and-perplexity-sign-400-million-deal-to-put-ai-search-directly-in-snapchat-221101734.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SSoZ4JI66bkhe7veOKFYEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2025-11/d858c8b7-0dda-4a29-aba0-51b0c81e375d",
-      "date": "2025-11-06T05:57:25+00:00"
+      "title": "People Inc. forges AI licensing deal with Microsoft as Google traffic drops",
+      "summary": "Article URL: https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/ Comments URL: https://news.ycombinator.com/item?id=45844001 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?resize=1200,593",
+      "date": "2025-11-07T06:27:19+00:00"
     },
     {
-      "title": "Apple Nears $1B-A Year Deal to Use Google AI for Siri",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri Comments URL: https://news.ycombinator.com/item?id=45831837 Points: 3 # Comments: 3",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri",
+      "title": "Qatar-linked intelligence operation targeted ICC prosecutor's alleged victim",
+      "summary": "Article URL: https://www.theguardian.com/law/2025/nov/06/qatar-linked-intelligence-operation-targeted-icc-prosecutor-karim-khan-alleged-victim Comments URL: https://news.ycombinator.com/item?id=45843809 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/law/2025/nov/06/qatar-linked-intelligence-operation-targeted-icc-prosecutor-karim-khan-alleged-victim",
+      "image": "https://i.guim.co.uk/img/media/e9265b311d2846fe4a76fdeb31709fcab6e04bee/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc20e13fa2e7f75aa15fc3ffc471dc83",
+      "date": "2025-11-07T05:37:59+00:00"
+    },
+    {
+      "title": "What happens when you mix live faculty with generative AI?",
+      "summary": "Article URL: http://www.sampaddock.com/blog/2025/10/27/1-week-five-faculty-130-students-ai-tutor-paski-nps-78-live-faculty-meets-generative-ai Comments URL: https://news.ycombinator.com/item?id=45843671 Points: 1 # Comments: 0",
+      "url": "http://www.sampaddock.com/blog/2025/10/27/1-week-five-faculty-130-students-ai-tutor-paski-nps-78-live-faculty-meets-generative-ai",
+      "image": "http://static1.squarespace.com/static/5111344ce4b04cd3eb15efea/t/68fd02674328e96a61ea8b2c/1761411692626/1759508476465.jpg?format=1500w",
+      "date": "2025-11-07T04:58:41+00:00"
+    },
+    {
+      "title": "Bridging the gap between fast-evolving code libraries and AI models",
+      "summary": "I’ve been working on an idea to make coding LLMs much smarter about new or less-known libraries. Right now, when developers use fresh packages or new versions, most AI coding tools fail multiple times because they don’t have context about those APIs—they end up searching the web and hallucinating. My project aims to fix that by indexing packages and version, and exposing them through a unified API that LLMs (or AI agents) can query directly. The system would understand which version the user’s environment uses, explain why a symbol is missing or deprecated, and suggest alternatives or migration paths. Do you think this is a valuable direction for improving AI-assisted coding tools? Comments URL: https://news.ycombinator.com/item?id=45843594 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45843594",
       "image": "",
-      "date": "2025-11-06T05:33:23+00:00"
+      "date": "2025-11-07T04:36:15+00:00"
     },
     {
-      "title": "What AI features will benefit small businesses and enterprises alike",
-      "summary": "Machines are smarter than ever before. Any industry shifts you notice Comments URL: https://news.ycombinator.com/item?id=45831485 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45831485",
+      "title": "Local AI Hardware Performance Benchmarking",
+      "summary": "Article URL: https://blog.olares.com/local-ai-hardware-performance-benchmarking/ Comments URL: https://news.ycombinator.com/item?id=45843382 Points: 1 # Comments: 0",
+      "url": "https://blog.olares.com/local-ai-hardware-performance-benchmarking/",
+      "image": "https://blog.olares.com/wp-content/uploads/2025/11/Local-AI-Hardware-Performance-Benchmarking.png",
+      "date": "2025-11-07T03:47:06+00:00"
+    },
+    {
+      "title": "Show HN: AI app for trading psychology (clinically validated)",
+      "summary": "After losing $50K to emotional trading, I built ZennyTrader - an AI app that detects emotional patterns (FOMO, revenge trading, overconfidence) and intervenes before costly mistakes. What makes it different:\n- Clinically validated by licensed psychologist\n- Real-time interventions (cooling periods when emotions spike)\n- Shows correlation between emotions and P&L\n- Backed by peer-reviewed research Currently in Apple review. Offering lifetime founding memberships ($399) to first 50 users. Built with React Native, Node.js, Supabase. Happy to answer technical or trading psychology questions. Comments URL: https://news.ycombinator.com/item?id=45843381 Points: 1 # Comments: 0",
+      "url": "https://zennytrader.gumroad.com/l/bxbyn",
+      "image": "https://public-files.gumroad.com/3do45dcn732ylmq4nwd0rl468d5o",
+      "date": "2025-11-07T03:46:53+00:00"
+    },
+    {
+      "title": "I learnt to debug my AI voice agents",
+      "summary": "Article URL: https://vllora.dev/blog/voice-agents/ Comments URL: https://news.ycombinator.com/item?id=45843296 Points: 4 # Comments: 0",
+      "url": "https://vllora.dev/blog/voice-agents/",
+      "image": "https://vllora.dev/img/thread-voice-agent.png",
+      "date": "2025-11-07T03:31:20+00:00"
+    },
+    {
+      "title": "Google Maps taps Gemini AI to transform into an 'all-knowing copilot'",
+      "summary": "Article URL: https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions Comments URL: https://news.ycombinator.com/item?id=45843082 Points: 2 # Comments: 0",
+      "url": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Gemini-in-navigation.png?quality=90&strip=all&crop=0%2C17.46344436393%2C100%2C65.073111272141&w=1200",
+      "date": "2025-11-07T02:48:44+00:00"
+    },
+    {
+      "title": "Ryan Reynolds-backed password manager tops $400M in ARR on AI tail winds",
+      "summary": "Article URL: https://www.cnbc.com/2025/11/06/ryan-reynolds-backed-1password-tops-400-million-in-arr.html Comments URL: https://news.ycombinator.com/item?id=45842871 Points: 1 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/11/06/ryan-reynolds-backed-1password-tops-400-million-in-arr.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108221975-1762372281567-Untitled-2.jpg?v=1762372336&w=1920&h=1080",
+      "date": "2025-11-07T02:13:59+00:00"
+    },
+    {
+      "title": "Ask HN: Beta testers for a free AI crawler analytics dashboard",
+      "summary": "I'm building a free dashboard to track AI crawlers and non-human visitors on websites. It's designed for developers, SEOs, and marketers who want to understand how AI agents (like ChatGPT, Claude, Perplexity, Gemini, and others) interact with their sites. I'm looking for beta testers to try it out, provide feedback, and help shape the tool. No cost, no commitment. Would love to hear your thoughts and feedback! Comments URL: https://news.ycombinator.com/item?id=45842489 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45842489",
       "image": "",
-      "date": "2025-11-06T04:31:07+00:00"
+      "date": "2025-11-07T00:59:42+00:00"
     },
     {
-      "title": "Nvidia boss Jensen Huang dismisses fears of an 'AI bubble'",
-      "summary": "Article URL: https://www.thetimes.com/business-money/companies/article/nvidia-boss-jensen-huang-dismisses-fears-of-an-ai-bubble-nl80v208c Comments URL: https://news.ycombinator.com/item?id=45831448 Points: 4 # Comments: 3",
-      "url": "https://www.thetimes.com/business-money/companies/article/nvidia-boss-jensen-huang-dismisses-fears-of-an-ai-bubble-nl80v208c",
-      "image": "https://www.thetimes.com/imageserver/image/%2F028e4da4-6d1d-4c13-8efd-68a77ea7f514.jpg?crop=7855%2C4418%2C121%2C1105&resize=1200",
-      "date": "2025-11-06T04:25:26+00:00"
+      "title": "Are we all writing for AI?",
+      "summary": "Article URL: https://theamericanscholar.org/baby-shoggoth-is-listening/ Comments URL: https://news.ycombinator.com/item?id=45842442 Points: 4 # Comments: 1",
+      "url": "https://theamericanscholar.org/baby-shoggoth-is-listening/",
+      "image": "https://theamericanscholar.org/wp-content/uploads/2025/10/robot-hand.png",
+      "date": "2025-11-07T00:50:23+00:00"
     },
     {
-      "title": "AI Native Architecture: Intelligence by Design",
-      "summary": "Article URL: https://sumant.bearblog.dev/ai-native-architecture-intelligence-by-design/ Comments URL: https://news.ycombinator.com/item?id=45831318 Points: 1 # Comments: 0",
-      "url": "https://sumant.bearblog.dev/ai-native-architecture-intelligence-by-design/",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
-      "date": "2025-11-06T04:07:20+00:00"
-    },
-    {
-      "title": "OpenAI Seeks Government Backing to Boost AI Investments",
-      "summary": "Article URL: https://www.barrons.com/news/openai-seeks-government-backing-to-boost-ai-investments-b9850f3a Comments URL: https://news.ycombinator.com/item?id=45830666 Points: 5 # Comments: 1",
-      "url": "https://www.barrons.com/news/openai-seeks-government-backing-to-boost-ai-investments-b9850f3a",
-      "image": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-      "date": "2025-11-06T02:21:05+00:00"
-    },
-    {
-      "title": "OpenAI asks U.S. for loan guarantees to fund $1T AI expansion",
-      "summary": "Article URL: https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/ Comments URL: https://news.ycombinator.com/item?id=45830380 Points: 71 # Comments: 25",
-      "url": "https://investinglive.com/stock-market-update/icymi-openai-asks-us-for-loan-guarantees-to-fund-1-trillion-ai-expansion-20251105/",
-      "image": "https://images.investinglive.com/images/OpenAI_id_de33877c-2111-4702-8751-aa7ce776db47_size975.jpeg",
-      "date": "2025-11-06T01:32:08+00:00"
-    },
-    {
-      "title": "Ask HN: How different is compute orchestration for AI?",
-      "summary": "If there are folks here that work on LLM providers on managing the compute server/workload orchestration on training or inference side, I'm curious what's the state of the art in this area is. I understand Kubernetes has a fair amount of frameworks for training and serving, but I assume it's not the best tool for running large-scale GPU clusters (at least not out of the box). Many cloud providers started providing ultrascale but low-pod density Kubernetes clusters for this. I also assume there are still many orchestrators like Slurm still around for these kinds of job, and I remember Open AI trying to build their own orchestrator for training jobs. I also assume spatial locality between servers, infiniband/RDMA also matter a lot more than Kubernetes provider native support for, and server health story must be completely different since GPUs fail a lot more often, and they have a lot more interesting metrics to monitor on top of standard OS metrics. What are some articles or blogs to read in this space to come up to speed on how GPU/ML compute orchestration happens in the state of the art today? Comments URL: https://news.ycombinator.com/item?id=45829491 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45829491",
-      "image": "",
-      "date": "2025-11-05T23:31:01+00:00"
-    },
-    {
-      "title": "Universal music group and udio announce new licensed AI music creation platform",
-      "summary": "Article URL: https://www.universalmusic.com/universal-music-group-and-udio-announce-udios-first-strategic-agreements-for-new-licensed-ai-music-creation-platform/ Comments URL: https://news.ycombinator.com/item?id=45829292 Points: 3 # Comments: 0",
-      "url": "https://www.universalmusic.com/universal-music-group-and-udio-announce-udios-first-strategic-agreements-for-new-licensed-ai-music-creation-platform/",
-      "image": "https://www.universalmusic.com/wp-content/uploads/2025/10/UMG-x-Udio-scaled.jpg",
-      "date": "2025-11-05T23:07:34+00:00"
-    },
-    {
-      "title": "CoreWeave CEO Plays Down Concerns About AI-Spending Bubble",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/coreweave-ceo-plays-down-concerns-about-ai-spending-bubble-5a21a6ee Comments URL: https://news.ycombinator.com/item?id=45829269 Points: 1 # Comments: 2",
-      "url": "https://www.wsj.com/tech/ai/coreweave-ceo-plays-down-concerns-about-ai-spending-bubble-5a21a6ee",
-      "image": "",
-      "date": "2025-11-05T23:05:24+00:00"
-    },
-    {
-      "title": "Show HN: I built a way to debug your deployed code on Vercel from your AI IDE",
-      "summary": "Ever experienced building something, deploy it to Vercel, just to find out that something didn't work as expected, but worked on local even with prod flags? That's why I built return0 - tired of debugging why the production environment made the code behave differently - like - why did my endpoints hang (example: node module didn't work in the production environment - silently caught error. In this case I had to modify the 3rd party node module, redeploy the code, add console.logs, took hours to figure out) - or, why was the code pointing to wrong hosts in production (reason: environment variables) - and more. Usually to fix it you'd add logs here and there, that might surface some information. But, it's time consuming & tedious, and not the best developer experience. return0 dynamically figures out what information to extract, like variable states. In your AI IDE - with the help of the return0 MCP server - simply explain the issue in the chat window, and it will find the root cause based on live variable states from the deployed code - like a local debugger would. And no redeployment of the code is necessary to extract more information, return0 includes an SDK that enables this dynamic tracing of your code. You also don't need to tell what information to extract. Demo: https://www.getreturn0.com/livedemo Docs: https://www.getreturn0.com/docs Comments URL: https://news.ycombinator.com/item?id=45829189 Points: 1 # Comments: 0",
-      "url": "https://www.getreturn0.com/livedemo",
-      "image": "",
-      "date": "2025-11-05T22:56:01+00:00"
-    },
-    {
-      "title": "We Tested 6 AI Models on 3 Common Security Exploits",
-      "summary": "Article URL: https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced Comments URL: https://news.ycombinator.com/item?id=45828917 Points: 2 # Comments: 1",
-      "url": "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced",
-      "image": "https://substackcdn.com/image/fetch/$s_!EkG7!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b3426f4-4fc1-4147-9a61-e3fabf59f2fa_1456x589.jpeg",
-      "date": "2025-11-05T22:23:49+00:00"
+      "title": "Square Enix aims to have AI doing 70% of its QA work by the end of 2027",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/square-enix-aims-to-have-ai-doing-70-percent-of-its-qa-work-by-the-end-of-2027-which-seems-like-itd-be-hard-to-achieve-without-laying-off-most-of-your-qa-workers/ Comments URL: https://news.ycombinator.com/item?id=45842425 Points: 3 # Comments: 0",
+      "url": "https://www.pcgamer.com/gaming-industry/square-enix-aims-to-have-ai-doing-70-percent-of-its-qa-work-by-the-end-of-2027-which-seems-like-itd-be-hard-to-achieve-without-laying-off-most-of-your-qa-workers/",
+      "image": "https://cdn.mos.cms.futurecdn.net/E7ef3CiJFkHzACo9c7PeW7-2560-80.jpg",
+      "date": "2025-11-07T00:48:02+00:00"
     }
   ]
 }
