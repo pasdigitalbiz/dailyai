@@ -1,117 +1,96 @@
 {
-  "generated_at": "2025-11-08T06:38:35.689406+00:00",
+  "generated_at": "2025-11-09T06:39:50.606375+00:00",
   "items": [
     {
-      "title": "HOLO – a persistence framework that keeps AI context across resets",
-      "summary": "I’ve been building a small framework called HOLO that locks state and continuity for AI systems instead of treating each session as stateless.\nIt uses containment math and CAP-style rules to preserve context and rebuild identity on restart.\nI’m looking for two or three engineers or researchers who’ve wrestled with context drift or continual-learning issues and want to test persistence models together.\nRepo/demo available on request — this post is just to find the right people.\nHolo.Simulations@gmail.com Comments URL: https://news.ycombinator.com/item?id=45854558 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45854558",
+      "title": "Why tech giants are offering premium AI tools to Indians for free",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c14pr0enjr6o Comments URL: https://news.ycombinator.com/item?id=45863391 Points: 4 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03c9/live/f0bae610-b9f2-11f0-b7a6-fd0b59da7243.jpg",
+      "date": "2025-11-09T06:19:11+00:00"
+    },
+    {
+      "title": "The Company Funneling Paywalled Articles to AI Developers",
+      "summary": "Article URL: https://www.msn.com/en-us/money/news/the-company-quietly-funneling-paywalled-articles-to-ai-developers/ar-AA1PMBHE Comments URL: https://news.ycombinator.com/item?id=45862707 Points: 2 # Comments: 1",
+      "url": "https://www.msn.com/en-us/money/news/the-company-quietly-funneling-paywalled-articles-to-ai-developers/ar-AA1PMBHE",
       "image": "",
-      "date": "2025-11-08T06:13:45+00:00"
+      "date": "2025-11-09T03:41:56+00:00"
     },
     {
-      "title": "GitChat – Branch AI chats on a canvas like Miro meets ChatGPT and Notion",
-      "summary": "I've been building GitChat as a side project to solve fragmented brainstorming in AI chats (linear threads bury ideas). So I wanted a non-linear space to visually connect thoughts. It's an AI chat app where you branch conversations across a dynamic canvas: pin websites, docs, images, and reference them in any thread for seamless collaboration. Think Miro's visual boards + ChatGPT's smarts + Notion's organization. Supports multiple AI modes (OpenAI, Anthropic, xAI, Google, and more) Early beta, so expect rough edges; no mobile yet. Feedback welcome! Requires an invite code to get your account activated though. Lmk if you need one! Comments URL: https://news.ycombinator.com/item?id=45854253 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45854253",
+      "title": "Show HN: AI text rewriter with 90%+ detection pass rate",
+      "summary": "Hi HN, I built a tool that rewrites AI-generated text to pass detection systems like Turnitin and CNKI (知网). Unlike simple paraphrasing tools, it uses semantic understanding to maintain meaning while removing AI fingerprints. Technical approach:\n- Analyzes sentence structure patterns typical of LLM outputs\n- Rebuilds content using varied syntax and vocabulary distributions\n- Preserves academic tone while reducing AI detection scores from 80%+ to <20% Tested on: CNKI (知网), VIP (维普), WanFang (万方), and Western detection systems Try it: https://www.yanbiai.com/tools/paper-pass?ly=hackernews Would love feedback from the community, especially on:\n1. Ethical considerations (I know this is controversial)\n2. Technical improvements to the rewriting algorithm\n3. Detection evasion vs. genuine writing assistance Free tier available for testing. Comments URL: https://news.ycombinator.com/item?id=45862583 Points: 2 # Comments: 0",
+      "url": "https://www.yanbiai.com/tools/paper-pass?ly=hackernews",
       "image": "",
-      "date": "2025-11-08T04:55:04+00:00"
+      "date": "2025-11-09T03:14:13+00:00"
     },
     {
-      "title": "Beyond Chatbots: 5 Next-Gen Use Cases for AI Agents in Customer Support",
-      "summary": "Article URL: https://composio.dev/blog/ai-agents-customer-support-use-cases Comments URL: https://news.ycombinator.com/item?id=45854095 Points: 1 # Comments: 0",
-      "url": "https://composio.dev/blog/ai-agents-customer-support-use-cases",
-      "image": "https://framerusercontent.com/images/fU4L9M6IdZ2DpMg5T37mOFdVtc.png?width=1280&height=800",
-      "date": "2025-11-08T04:22:32+00:00"
-    },
-    {
-      "title": "Can you talk to the dead using AI?",
-      "summary": "Article URL: https://www.rnz.co.nz/news/on-the-inside/578264/can-you-really-talk-to-the-dead-using-ai-we-tried-out-deathbots-so-you-don-t-have-to Comments URL: https://news.ycombinator.com/item?id=45854040 Points: 4 # Comments: 2",
-      "url": "https://www.rnz.co.nz/news/on-the-inside/578264/can-you-really-talk-to-the-dead-using-ai-we-tried-out-deathbots-so-you-don-t-have-to",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--FgwoD8py--/t_tohu-badge-facebook/v1756858537/4K1NOM2_curated_lifestyle_t2ZnSNh548I_unsplash_jpg?_a=BACCd2AD",
-      "date": "2025-11-08T04:04:59+00:00"
-    },
-    {
-      "title": "Stability AI wins UK court battle against Getty Images",
-      "summary": "Article URL: https://apnews.com/article/getty-stability-ai-image-copyright-trademark-fa2c561a33c7b6714a7657255a3fbdf1 Comments URL: https://news.ycombinator.com/item?id=45853803 Points: 2 # Comments: 0",
-      "url": "https://apnews.com/article/getty-stability-ai-image-copyright-trademark-fa2c561a33c7b6714a7657255a3fbdf1",
-      "image": "https://dims.apnews.com/dims4/default/1bdf16e/2147483647/strip/true/crop/2497x1405+0+192/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fd8%2F4feb4ae4e9ce956dddbaebea3e8c%2Feacf2ae9947d4dd0a5e6f996f83bcd07",
-      "date": "2025-11-08T03:14:35+00:00"
-    },
-    {
-      "title": "How I use AI (Oct 2025)",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/how_use_ai_oct_2025/ Comments URL: https://news.ycombinator.com/item?id=45853691 Points: 1 # Comments: 0",
-      "url": "https://ben.stolovitz.com/posts/how_use_ai_oct_2025/",
-      "image": "/_astro/og.B__LH-Yx_Z2orTKl.png",
-      "date": "2025-11-08T02:52:21+00:00"
-    },
-    {
-      "title": "Show HN: PixSprout – Create custom stamps from text or images using AI",
-      "summary": "Hi HN, I'm Eagien, the creator of PixSprout ( https://pixsprout.com ), an AI tool that turns text or images into custom stamp designs. I built it after seeing a friend who runs a stamp business spend hours in Photoshop manually designing hundreds of layouts for customers every day. I thought — why not automate it? So I built PixSprout to generate realistic stamp-style designs with AI in just seconds. You can try:\n- Text to Stamp Generator → https://pixsprout.com/text-to-stamp - Image to Stamp Maker → https://pixsprout.com/image-to-stamp You’ll need to sign up to generate and save results, but everything runs directly in your browser — no downloads or setup needed. I’d love your feedback! What customization options or new tools would you want for stamp design? Comments URL: https://news.ycombinator.com/item?id=45853505 Points: 1 # Comments: 0",
-      "url": "https://pixsprout.com/image-to-stamp",
-      "image": "https://pixsprout.com/og-image.jpg",
-      "date": "2025-11-08T02:21:36+00:00"
-    },
-    {
-      "title": "AI Progress and Recommendations",
-      "summary": "Article URL: https://openai.com/index/ai-progress-and-recommendations/ Comments URL: https://news.ycombinator.com/item?id=45853094 Points: 3 # Comments: 0",
-      "url": "https://openai.com/index/ai-progress-and-recommendations/",
-      "image": "",
-      "date": "2025-11-08T00:56:27+00:00"
-    },
-    {
-      "title": "The Path to a Superhuman AI Mathematician",
-      "summary": "Article URL: https://cacm.acm.org/news/the-path-to-a-superhuman-ai-mathematician/ Comments URL: https://news.ycombinator.com/item?id=45853007 Points: 4 # Comments: 0",
-      "url": "https://cacm.acm.org/news/the-path-to-a-superhuman-ai-mathematician/",
-      "image": "",
-      "date": "2025-11-08T00:42:38+00:00"
-    },
-    {
-      "title": "A new threat: Being replaced by someone who knows AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df Comments URL: https://news.ycombinator.com/item?id=45852859 Points: 37 # Comments: 39",
-      "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df",
-      "image": "",
-      "date": "2025-11-08T00:15:16+00:00"
-    },
-    {
-      "title": "Thoughts by a non-economist on AI and economics",
-      "summary": "Article URL: https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics/ Comments URL: https://news.ycombinator.com/item?id=45852812 Points: 4 # Comments: 0",
-      "url": "https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics/",
-      "image": "https://windowsontheory.org/wp-content/uploads/2025/11/image-1-1.png",
-      "date": "2025-11-08T00:08:44+00:00"
-    },
-    {
-      "title": "Faking Receipts with AI",
-      "summary": "Article URL: https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html Comments URL: https://news.ycombinator.com/item?id=45852459 Points: 7 # Comments: 0",
-      "url": "https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html",
-      "image": "",
-      "date": "2025-11-07T23:19:27+00:00"
-    },
-    {
-      "title": "How AI Companies Are Keeping Debt Off Their Balance Sheets",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt Comments URL: https://news.ycombinator.com/item?id=45852456 Points: 5 # Comments: 2",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-31/meta-xai-starting-trend-for-billions-in-off-balance-sheet-debt",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6ha4XEL40DE/v1/1200x800.jpg",
-      "date": "2025-11-07T23:18:54+00:00"
-    },
-    {
-      "title": "Jensen Huang's Stark Warning: China's 1M AI Workers vs. America's 20k",
-      "summary": "Article URL: https://entropytown.com/articles/2025-11-06-nvidia-jensen-taipei/ Comments URL: https://news.ycombinator.com/item?id=45852376 Points: 28 # Comments: 22",
-      "url": "https://entropytown.com/articles/2025-11-06-nvidia-jensen-taipei/",
+      "title": "China's AI Upstart Moonshot Stuns Valley Again with a $4.6M Wonder",
+      "summary": "Article URL: https://entropytown.com/articles/2025-11-07-kimi-k2-thinking/ Comments URL: https://news.ycombinator.com/item?id=45862192 Points: 9 # Comments: 1",
+      "url": "https://entropytown.com/articles/2025-11-07-kimi-k2-thinking/",
       "image": "https://entropytown.com/favicon.svg",
-      "date": "2025-11-07T23:10:14+00:00"
+      "date": "2025-11-09T01:53:41+00:00"
     },
     {
-      "title": "AI Capabilities May Be Overhyped on Bogus Benchmarks, Study Finds",
-      "summary": "Article URL: https://gizmodo.com/ai-capabilities-may-be-overhyped-on-bogus-benchmarks-study-finds-2000682577 Comments URL: https://news.ycombinator.com/item?id=45852240 Points: 37 # Comments: 2",
-      "url": "https://gizmodo.com/ai-capabilities-may-be-overhyped-on-bogus-benchmarks-study-finds-2000682577",
-      "image": "https://gizmodo.com/app/uploads/2023/10/4712a81c5bd8a98cf1b403547108b450.jpg",
-      "date": "2025-11-07T22:55:19+00:00"
+      "title": "AI-Induced Psychosis as Existential Risk Lowerbound",
+      "summary": "Article URL: https://flocrivello.com/ai-induced-psychosis-as-existential-risk-lower-bound/ Comments URL: https://news.ycombinator.com/item?id=45862142 Points: 4 # Comments: 0",
+      "url": "https://flocrivello.com/ai-induced-psychosis-as-existential-risk-lower-bound/",
+      "image": "https://flocrivello.com/content/images/size/w1200/2025/11/u3796932916_black_bgg_--ar_9151_--v_7_2c576763-0818-4e26-8927-d707446a85f8_1-2.png",
+      "date": "2025-11-09T01:46:27+00:00"
     },
     {
-      "title": "AI-powered proptech got into YC without writing a single line of code",
-      "summary": "Article URL: https://sifted.eu/articles/y-combinator-yc-startup-apply-europe-brickwise Comments URL: https://news.ycombinator.com/item?id=45852093 Points: 2 # Comments: 1",
-      "url": "https://sifted.eu/articles/y-combinator-yc-startup-apply-europe-brickwise",
-      "image": "",
-      "date": "2025-11-07T22:42:37+00:00"
+      "title": "Statistical Estimate of Occurrence of Extraterrestrial Intelligence in Milky Way",
+      "summary": "Article URL: https://arxiv.org/abs/2012.07902 Comments URL: https://news.ycombinator.com/item?id=45862035 Points: 3 # Comments: 0",
+      "url": "https://arxiv.org/abs/2012.07902",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-11-09T01:27:49+00:00"
+    },
+    {
+      "title": "Advances in Threat Actor Usage of AI Tools",
+      "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools Comments URL: https://news.ycombinator.com/item?id=45861991 Points: 3 # Comments: 1",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools",
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+      "date": "2025-11-09T01:20:00+00:00"
+    },
+    {
+      "title": "Freee AI Image Prompt Generator",
+      "summary": "Article URL: https://gempix2.photo/prompt-generator/ Comments URL: https://news.ycombinator.com/item?id=45861725 Points: 2 # Comments: 0",
+      "url": "https://gempix2.photo/prompt-generator/",
+      "image": "https://static.gempix2.photo/image/gempix2-image-prompt-generator-og.webp",
+      "date": "2025-11-09T00:39:08+00:00"
+    },
+    {
+      "title": "Before AI's Kepler Moment – Are LLMs the Epicycles of Intelligence?",
+      "summary": "Article URL: https://ashvardanian.com/posts/llm-epicycles/ Comments URL: https://news.ycombinator.com/item?id=45861121 Points: 3 # Comments: 0",
+      "url": "https://ashvardanian.com/posts/llm-epicycles/",
+      "image": "https://ashvardanian.com/llm-epicycles/LLM-Epicycles.jpg",
+      "date": "2025-11-08T23:29:20+00:00"
+    },
+    {
+      "title": "Leading AI Researcher Is Raising $1B to Build AI Models with EQ",
+      "summary": "Article URL: https://www.businessinsider.com/researcher-raising-1-billion-to-build-ai-models-with-eq-2025-10 Comments URL: https://news.ycombinator.com/item?id=45860956 Points: 3 # Comments: 0",
+      "url": "https://www.businessinsider.com/researcher-raising-1-billion-to-build-ai-models-with-eq-2025-10",
+      "image": "https://i.insider.com/69050484599d46a4ccc1431b?width=1007&format=jpeg",
+      "date": "2025-11-08T23:15:53+00:00"
+    },
+    {
+      "title": "AI Models Fail Miserably at This One Easy Task: Telling Time",
+      "summary": "Article URL: https://spectrum.ieee.org/large-language-models-reading-clocks Comments URL: https://news.ycombinator.com/item?id=45860836 Points: 2 # Comments: 1",
+      "url": "https://spectrum.ieee.org/large-language-models-reading-clocks",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62053179&width=1200&height=600&coordinates=0%2C263%2C0%2C537",
+      "date": "2025-11-08T23:02:14+00:00"
+    },
+    {
+      "title": "From Auth to Action: Guide to Secure and Scalable AI Agent Infrastructure",
+      "summary": "Article URL: https://composio.dev/blog/secure-ai-agent-infrastructure-guide Comments URL: https://news.ycombinator.com/item?id=45860787 Points: 2 # Comments: 0",
+      "url": "https://composio.dev/blog/secure-ai-agent-infrastructure-guide",
+      "image": "https://framerusercontent.com/images/F4i1omYkcNTYEsXkFwIR6IPA0.png?width=1280&height=768",
+      "date": "2025-11-08T22:54:31+00:00"
+    },
+    {
+      "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/ Comments URL: https://news.ycombinator.com/item?id=45860273 Points: 59 # Comments: 53",
+      "url": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-1152x648.jpg",
+      "date": "2025-11-08T21:36:39+00:00"
     }
   ]
 }
