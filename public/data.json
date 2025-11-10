@@ -1,96 +1,117 @@
 {
-  "generated_at": "2025-11-09T06:39:50.606375+00:00",
+  "generated_at": "2025-11-10T06:46:14.430518+00:00",
   "items": [
     {
-      "title": "Why tech giants are offering premium AI tools to Indians for free",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c14pr0enjr6o Comments URL: https://news.ycombinator.com/item?id=45863391 Points: 4 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/03c9/live/f0bae610-b9f2-11f0-b7a6-fd0b59da7243.jpg",
-      "date": "2025-11-09T06:19:11+00:00"
+      "title": "EU set to water down landmark AI act after Big Tech pressure",
+      "summary": "Article URL: https://www.ft.com/content/af6c6dbe-ce63-47cc-8923-8bce4007f6e1 Comments URL: https://news.ycombinator.com/item?id=45873105 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/af6c6dbe-ce63-47cc-8923-8bce4007f6e1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe52cc196-4822-448b-b57f-7ca862088cd1.jpg?source=next-barrier-page",
+      "date": "2025-11-10T06:43:03+00:00"
     },
     {
-      "title": "The Company Funneling Paywalled Articles to AI Developers",
-      "summary": "Article URL: https://www.msn.com/en-us/money/news/the-company-quietly-funneling-paywalled-articles-to-ai-developers/ar-AA1PMBHE Comments URL: https://news.ycombinator.com/item?id=45862707 Points: 2 # Comments: 1",
-      "url": "https://www.msn.com/en-us/money/news/the-company-quietly-funneling-paywalled-articles-to-ai-developers/ar-AA1PMBHE",
+      "title": "Bill Gates says we're in an AI bubble similar to the dot-com bubble",
+      "summary": "Article URL: https://www.businessinsider.com/bill-gates-ai-bubble-similar-dot-com-bubble-2025-10 Comments URL: https://news.ycombinator.com/item?id=45873089 Points: 2 # Comments: 0",
+      "url": "https://www.businessinsider.com/bill-gates-ai-bubble-similar-dot-com-bubble-2025-10",
+      "image": "https://i.insider.com/69012062599d46a4ccc10578?width=1200&format=jpeg",
+      "date": "2025-11-10T06:40:08+00:00"
+    },
+    {
+      "title": "AI Pricing Tools in Senior Care: The Antitrust Risks You Need to Manage Now",
+      "summary": "Article URL: https://www.jdsupra.com/legalnews/ai-pricing-tools-in-senior-care-the-4725400/ Comments URL: https://news.ycombinator.com/item?id=45872925 Points: 1 # Comments: 0",
+      "url": "https://www.jdsupra.com/legalnews/ai-pricing-tools-in-senior-care-the-4725400/",
+      "image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13905_60.jpg",
+      "date": "2025-11-10T06:05:42+00:00"
+    },
+    {
+      "title": "AI-Trained Grads Edge Out Costly Advisers at Indian Wealth Firm",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-10/billionaire-premji-backed-indian-wealth-venture-is-hiring-dozens-of-grads Comments URL: https://news.ycombinator.com/item?id=45872842 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-10/billionaire-premji-backed-indian-wealth-venture-is-hiring-dozens-of-grads",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWI1j3wjrNpg/v0/1200x800.jpg",
+      "date": "2025-11-10T05:50:06+00:00"
+    },
+    {
+      "title": "Nvidia Buys Illumina? The AI Foundry for Healthcare",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/nvidia-buys-illumina-the-ai-foundry Comments URL: https://news.ycombinator.com/item?id=45872423 Points: 3 # Comments: 2",
+      "url": "https://newsletter.semianalysis.com/p/nvidia-buys-illumina-the-ai-foundry",
+      "image": "https://substackcdn.com/image/fetch/$s_!eEP_!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccc74a97-a035-4dbe-943c-66d948307d47_2208x1598.png",
+      "date": "2025-11-10T04:26:11+00:00"
+    },
+    {
+      "title": "The worst intelligence disaster in U.S. history",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Robert_Hanssen Comments URL: https://news.ycombinator.com/item?id=45872331 Points: 4 # Comments: 0",
+      "url": "https://en.wikipedia.org/wiki/Robert_Hanssen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/966px-Robert_Hanssen.jpg",
+      "date": "2025-11-10T04:08:20+00:00"
+    },
+    {
+      "title": "China bans foreign AI chips from state-funded data centres",
+      "summary": "Article URL: https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/ Comments URL: https://news.ycombinator.com/item?id=45872233 Points: 9 # Comments: 0",
+      "url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/",
       "image": "",
-      "date": "2025-11-09T03:41:56+00:00"
+      "date": "2025-11-10T03:52:41+00:00"
     },
     {
-      "title": "Show HN: AI text rewriter with 90%+ detection pass rate",
-      "summary": "Hi HN, I built a tool that rewrites AI-generated text to pass detection systems like Turnitin and CNKI (知网). Unlike simple paraphrasing tools, it uses semantic understanding to maintain meaning while removing AI fingerprints. Technical approach:\n- Analyzes sentence structure patterns typical of LLM outputs\n- Rebuilds content using varied syntax and vocabulary distributions\n- Preserves academic tone while reducing AI detection scores from 80%+ to <20% Tested on: CNKI (知网), VIP (维普), WanFang (万方), and Western detection systems Try it: https://www.yanbiai.com/tools/paper-pass?ly=hackernews Would love feedback from the community, especially on:\n1. Ethical considerations (I know this is controversial)\n2. Technical improvements to the rewriting algorithm\n3. Detection evasion vs. genuine writing assistance Free tier available for testing. Comments URL: https://news.ycombinator.com/item?id=45862583 Points: 2 # Comments: 0",
-      "url": "https://www.yanbiai.com/tools/paper-pass?ly=hackernews",
+      "title": "AI-Powered Customer Service – 24/7 Global Support",
+      "summary": "Free to use.\nBoosts conversions through behavior-based marketing triggers.\nEnhances satisfaction with 24/7 multilingual AI support. Comments URL: https://news.ycombinator.com/item?id=45872121 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45872121",
       "image": "",
-      "date": "2025-11-09T03:14:13+00:00"
+      "date": "2025-11-10T03:36:28+00:00"
     },
     {
-      "title": "China's AI Upstart Moonshot Stuns Valley Again with a $4.6M Wonder",
-      "summary": "Article URL: https://entropytown.com/articles/2025-11-07-kimi-k2-thinking/ Comments URL: https://news.ycombinator.com/item?id=45862192 Points: 9 # Comments: 1",
-      "url": "https://entropytown.com/articles/2025-11-07-kimi-k2-thinking/",
-      "image": "https://entropytown.com/favicon.svg",
-      "date": "2025-11-09T01:53:41+00:00"
+      "title": "AII vs. ASI: Philosophical and Systemic Implications for AI's Future",
+      "summary": "Article URL: https://nooneweone.org/aii_vs_asi_the_complete_manifest.html Comments URL: https://news.ycombinator.com/item?id=45871618 Points: 1 # Comments: 1",
+      "url": "https://nooneweone.org/aii_vs_asi_the_complete_manifest.html",
+      "image": "",
+      "date": "2025-11-10T02:21:12+00:00"
     },
     {
-      "title": "AI-Induced Psychosis as Existential Risk Lowerbound",
-      "summary": "Article URL: https://flocrivello.com/ai-induced-psychosis-as-existential-risk-lower-bound/ Comments URL: https://news.ycombinator.com/item?id=45862142 Points: 4 # Comments: 0",
-      "url": "https://flocrivello.com/ai-induced-psychosis-as-existential-risk-lower-bound/",
-      "image": "https://flocrivello.com/content/images/size/w1200/2025/11/u3796932916_black_bgg_--ar_9151_--v_7_2c576763-0818-4e26-8927-d707446a85f8_1-2.png",
-      "date": "2025-11-09T01:46:27+00:00"
+      "title": "Ask HN: Is AI code assistance fundamentally unenforceable without hooks?",
+      "summary": "I spent ~$2k on Claude Code this year (10+ years dev, non-dev job now, side projects only). \nThe hard lesson: markdown instructions don't work. AI needs enforcement. The breaking point was Auto Compact. \nAfter context compression, Claude consistently ignores CLAUDE.md - the very file Anthropic tells you to create. \nIt's like hiring someone who forgets their job description every 2 hours. Core issues I couldn't solve with instructions alone: - Post-compact amnesia: \"interprets\" previous session, often destructively - Session memory loss: asks the same questions like a new intern daily - TODO epidemic: \"I implemented it!\" (narrator: it was just a TODO) - Command chaos: rm -rf, repetitive curl prompts, git commits with \"by Claude\" - Guidelines = suggestions: follows them... when it feels like it After 6 months struggling with this, I built enforcement hooks (command restrictor, auto-summarizer before compact, TODO detector, commit validator). \nThey work, but I feel like I'm working against the tool rather than with it. Questions for the community: 1. Is this everyone's experience, or am I using Claude Code fundamentally wrong? 2. For those on Cursor/Copilot/etc - same enforcement issues? 3. Is \"markdown guidelines → AI follows them\" just... not viable at scale? The hooks are on GitHub (mostly Korean but universally functional): https://github.com/meloncafe/claude-code-hooks Really curious if this is a universal AI coding problem or a skill issue on my end. Comments URL: https://news.ycombinator.com/item?id=45871445 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=45871445",
+      "image": "",
+      "date": "2025-11-10T02:01:33+00:00"
     },
     {
-      "title": "Statistical Estimate of Occurrence of Extraterrestrial Intelligence in Milky Way",
-      "summary": "Article URL: https://arxiv.org/abs/2012.07902 Comments URL: https://news.ycombinator.com/item?id=45862035 Points: 3 # Comments: 0",
-      "url": "https://arxiv.org/abs/2012.07902",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-11-09T01:27:49+00:00"
+      "title": "Microsoft forms superintelligence team under AI head Mustafa Suleyman",
+      "summary": "Article URL: https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html Comments URL: https://news.ycombinator.com/item?id=45870796 Points: 11 # Comments: 6",
+      "url": "https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1762449041&w=1920&h=1080",
+      "date": "2025-11-10T00:31:23+00:00"
     },
     {
-      "title": "Advances in Threat Actor Usage of AI Tools",
-      "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools Comments URL: https://news.ycombinator.com/item?id=45861991 Points: 3 # Comments: 1",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
-      "date": "2025-11-09T01:20:00+00:00"
+      "title": "Is AI coming for our jobs and wages? Past predictions offer some clues",
+      "summary": "Article URL: https://www.rnz.co.nz/news/business/578397/is-ai-really-coming-for-our-jobs-and-wages-past-predictions-of-a-robot-apocalypse-offer-some-clues Comments URL: https://news.ycombinator.com/item?id=45870316 Points: 6 # Comments: 0",
+      "url": "https://www.rnz.co.nz/news/business/578397/is-ai-really-coming-for-our-jobs-and-wages-past-predictions-of-a-robot-apocalypse-offer-some-clues",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--PmutHhUD--/t_tohu-badge-facebook/v1761419040/4JYXXPE_248432772_m_jpg?_a=BACCd2AD",
+      "date": "2025-11-09T23:24:46+00:00"
     },
     {
-      "title": "Freee AI Image Prompt Generator",
-      "summary": "Article URL: https://gempix2.photo/prompt-generator/ Comments URL: https://news.ycombinator.com/item?id=45861725 Points: 2 # Comments: 0",
-      "url": "https://gempix2.photo/prompt-generator/",
-      "image": "https://static.gempix2.photo/image/gempix2-image-prompt-generator-og.webp",
-      "date": "2025-11-09T00:39:08+00:00"
+      "title": "Experiments in Autonomous AI Development",
+      "summary": "Article URL: https://kenforthewin.github.io/blog/posts/experiments-in-autonomous-dev/ Comments URL: https://news.ycombinator.com/item?id=45870209 Points: 1 # Comments: 0",
+      "url": "https://kenforthewin.github.io/blog/posts/experiments-in-autonomous-dev/",
+      "image": "https://kenforthewin.github.io/blog/",
+      "date": "2025-11-09T23:12:50+00:00"
     },
     {
-      "title": "Before AI's Kepler Moment – Are LLMs the Epicycles of Intelligence?",
-      "summary": "Article URL: https://ashvardanian.com/posts/llm-epicycles/ Comments URL: https://news.ycombinator.com/item?id=45861121 Points: 3 # Comments: 0",
-      "url": "https://ashvardanian.com/posts/llm-epicycles/",
-      "image": "https://ashvardanian.com/llm-epicycles/LLM-Epicycles.jpg",
-      "date": "2025-11-08T23:29:20+00:00"
+      "title": "An AI-Generated Country Song Is Topping a Billboard Chart",
+      "summary": "Article URL: https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/ Comments URL: https://news.ycombinator.com/item?id=45870032 Points: 6 # Comments: 0",
+      "url": "https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/",
+      "image": "https://www.whiskeyriff.com/wp-content/uploads/Breaking-Rust.jpg",
+      "date": "2025-11-09T22:51:40+00:00"
     },
     {
-      "title": "Leading AI Researcher Is Raising $1B to Build AI Models with EQ",
-      "summary": "Article URL: https://www.businessinsider.com/researcher-raising-1-billion-to-build-ai-models-with-eq-2025-10 Comments URL: https://news.ycombinator.com/item?id=45860956 Points: 3 # Comments: 0",
-      "url": "https://www.businessinsider.com/researcher-raising-1-billion-to-build-ai-models-with-eq-2025-10",
-      "image": "https://i.insider.com/69050484599d46a4ccc1431b?width=1007&format=jpeg",
-      "date": "2025-11-08T23:15:53+00:00"
+      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds Comments URL: https://news.ycombinator.com/item?id=45869928 Points: 9 # Comments: 1",
+      "url": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
+      "image": "https://cdn.mos.cms.futurecdn.net/VsVniKWsqcufsCr7tEUNeF-2560-80.jpg",
+      "date": "2025-11-09T22:38:28+00:00"
     },
     {
-      "title": "AI Models Fail Miserably at This One Easy Task: Telling Time",
-      "summary": "Article URL: https://spectrum.ieee.org/large-language-models-reading-clocks Comments URL: https://news.ycombinator.com/item?id=45860836 Points: 2 # Comments: 1",
-      "url": "https://spectrum.ieee.org/large-language-models-reading-clocks",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62053179&width=1200&height=600&coordinates=0%2C263%2C0%2C537",
-      "date": "2025-11-08T23:02:14+00:00"
-    },
-    {
-      "title": "From Auth to Action: Guide to Secure and Scalable AI Agent Infrastructure",
-      "summary": "Article URL: https://composio.dev/blog/secure-ai-agent-infrastructure-guide Comments URL: https://news.ycombinator.com/item?id=45860787 Points: 2 # Comments: 0",
-      "url": "https://composio.dev/blog/secure-ai-agent-infrastructure-guide",
-      "image": "https://framerusercontent.com/images/F4i1omYkcNTYEsXkFwIR6IPA0.png?width=1280&height=768",
-      "date": "2025-11-08T22:54:31+00:00"
-    },
-    {
-      "title": "How to declutter, quiet down, and take the AI out of Windows 11 25H2",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/ Comments URL: https://news.ycombinator.com/item?id=45860273 Points: 59 # Comments: 53",
-      "url": "https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/windows-11-cleanup-1152x648.jpg",
-      "date": "2025-11-08T21:36:39+00:00"
+      "title": "The Algorithmic Turn: The Emerging Evidence on AI Tutoring That's Hard to Ignore",
+      "summary": "Article URL: https://carlhendrick.substack.com/p/the-algorithmic-turn-the-emerging Comments URL: https://news.ycombinator.com/item?id=45869651 Points: 4 # Comments: 1",
+      "url": "https://carlhendrick.substack.com/p/the-algorithmic-turn-the-emerging",
+      "image": "",
+      "date": "2025-11-09T22:03:59+00:00"
     }
   ]
 }
