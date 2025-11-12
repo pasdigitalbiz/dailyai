@@ -1,103 +1,96 @@
 {
-  "generated_at": "2025-11-11T06:45:37.818241+00:00",
+  "generated_at": "2025-11-12T06:45:30.443874+00:00",
   "items": [
     {
-      "title": "Platonic Intelligence",
-      "summary": "Article URL: https://www.youtube.com/watch?v=1mXUFweWOug Comments URL: https://news.ycombinator.com/item?id=45884710 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=1mXUFweWOug",
+      "title": "AGCI Benchmark: Evaluating Long-Term and Adaptive Intelligence in AI Systems",
+      "summary": "Article URL: https://www.dropstone.io/research/agci-benchmark Comments URL: https://news.ycombinator.com/item?id=45896944 Points: 1 # Comments: 0",
+      "url": "https://www.dropstone.io/research/agci-benchmark",
+      "image": "https://www.dropstone.io/images/agci-research-meta-image.png",
+      "date": "2025-11-12T06:25:45+00:00"
+    },
+    {
+      "title": "Trader who inspired The Big Short bets against AI as tech shares fall",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c867vyn2evlo Comments URL: https://news.ycombinator.com/item?id=45896891 Points: 1 # Comments: 1",
+      "url": "https://www.bbc.com/news/articles/c867vyn2evlo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b562/live/7f6639f0-ba3e-11f0-a0d5-273175887cd7.jpg",
+      "date": "2025-11-12T06:15:30+00:00"
+    },
+    {
+      "title": "California backs down on AI laws so more tech leaders don't flee the state",
+      "summary": "Article URL: https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions Comments URL: https://news.ycombinator.com/item?id=45896864 Points: 1 # Comments: 0",
+      "url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/d9043c4/2147483647/strip/true/crop/5714x3000+0+428/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbe%2F3a%2Fed46b710473b872efdd638b243ff%2F2242675747.jpg",
+      "date": "2025-11-12T06:09:24+00:00"
+    },
+    {
+      "title": "AI's $5T Data-Center Boom Will Dip into Every Debt Market: JPMorgan",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-10/ai-s-5-trillion-data-center-boom-will-dip-into-every-debt-market-jpmorgan-says Comments URL: https://news.ycombinator.com/item?id=45896717 Points: 4 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-10/ai-s-5-trillion-data-center-boom-will-dip-into-every-debt-market-jpmorgan-says",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imHiwKFsS11E/v1/1200x800.jpg",
+      "date": "2025-11-12T05:38:49+00:00"
+    },
+    {
+      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds Comments URL: https://news.ycombinator.com/item?id=45896707 Points: 13 # Comments: 3",
+      "url": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
+      "image": "https://cdn.mos.cms.futurecdn.net/VsVniKWsqcufsCr7tEUNeF-2560-80.jpg",
+      "date": "2025-11-12T05:36:41+00:00"
+    },
+    {
+      "title": "Bank of America Just Issued a Stark Warning: AI Boom Is Hitting a Cash Crunch",
+      "summary": "Article URL: https://247wallst.com/investing/2025/11/10/bank-of-america-just-issued-a-stark-warning-the-ai-boom-is-hitting-a-cash-crunch/ Comments URL: https://news.ycombinator.com/item?id=45896555 Points: 9 # Comments: 0",
+      "url": "https://247wallst.com/investing/2025/11/10/bank-of-america-just-issued-a-stark-warning-the-ai-boom-is-hitting-a-cash-crunch/",
+      "image": "https://247wallst.com/wp-content/uploads/2018/11/gettyimages-835036152.jpg",
+      "date": "2025-11-12T05:04:31+00:00"
+    },
+    {
+      "title": "Show HN: AI is a DJ",
+      "summary": "Set the mood/genre and sit back, let the AI mix music for you! Comments URL: https://news.ycombinator.com/item?id=45896527 Points: 3 # Comments: 0",
+      "url": "https://loopmaster.xyz/editor?aidj",
+      "image": "https://loopmaster.xyz/screenshot.png?v=2",
+      "date": "2025-11-12T05:01:13+00:00"
+    },
+    {
+      "title": "SoftBank's $5.8B Nvidia stake sale stirs fresh AI bubble fears",
+      "summary": "Article URL: https://www.thehindu.com/sci-tech/technology/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears/article70269709.ece Comments URL: https://news.ycombinator.com/item?id=45896305 Points: 2 # Comments: 0",
+      "url": "https://www.thehindu.com/sci-tech/technology/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears/article70269709.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4hyych/article70269715.ece/alternates/LANDSCAPE_1200/2025-11-11T132623Z_208739742_RC2CUHA4SRB1_RTRMADP_3_SOFTBANK-GROUP-RESULTS.JPG",
+      "date": "2025-11-12T04:09:07+00:00"
+    },
+    {
+      "title": "Can consulting become a conscious resonance between humans and AI?",
+      "summary": "Article URL: https://dotnetone.com/ao-consulting-manifesto.html Comments URL: https://news.ycombinator.com/item?id=45896098 Points: 2 # Comments: 1",
+      "url": "https://dotnetone.com/ao-consulting-manifesto.html",
       "image": "",
-      "date": "2025-11-11T06:39:12+00:00"
+      "date": "2025-11-12T03:27:50+00:00"
     },
     {
-      "title": "AI-Generated Country Song Is Topping Billboard Chart. That Should Infuriate Us",
-      "summary": "Article URL: https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/ Comments URL: https://news.ycombinator.com/item?id=45884565 Points: 1 # Comments: 0",
-      "url": "https://www.whiskeyriff.com/2025/11/08/an-ai-generated-country-song-is-topping-a-billboard-chart-and-that-should-infuriate-us-all/",
-      "image": "https://www.whiskeyriff.com/wp-content/uploads/Breaking-Rust.jpg",
-      "date": "2025-11-11T06:09:18+00:00"
+      "title": "What if the AI race isn't about chips at all?",
+      "summary": "Article URL: https://www.ft.com/content/e4c9ac58-d64e-487a-b06d-e71be47f31c9 Comments URL: https://news.ycombinator.com/item?id=45895894 Points: 4 # Comments: 1",
+      "url": "https://www.ft.com/content/e4c9ac58-d64e-487a-b06d-e71be47f31c9",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffea2ba26-0558-4e58-b503-14bec3cec219.jpg?source=next-barrier-page",
+      "date": "2025-11-12T02:51:44+00:00"
     },
     {
-      "title": "Olares to Launch a Personal AI Device Bringing Cloud-Level Performance Home",
-      "summary": "Article URL: https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home Comments URL: https://news.ycombinator.com/item?id=45884563 Points: 1 # Comments: 0",
-      "url": "https://www.techpowerup.com/342779/olares-to-launch-a-personal-ai-device-bringing-cloud-level-performance-home",
-      "image": "https://www.techpowerup.com/img/sEVYBp1maxOb3BRr.jpg",
-      "date": "2025-11-11T06:09:00+00:00"
-    },
-    {
-      "title": "Why AI Won't Save Your PLG Strategy (But It's Changing How I Find It)",
-      "summary": "Article URL: https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/ Comments URL: https://news.ycombinator.com/item?id=45884547 Points: 1 # Comments: 0",
-      "url": "https://www.ksred.com/why-ai-wont-save-your-plg-strategy-but-its-changing-how-i-find-it/",
-      "image": "https://www.ksred.com/content/images/2025/11/ksred_A_detailed_vector_illustration_of_a_solo_robot_in_the_s_91e54199-edb5-46de-a635-8e49f1e70e28_3-2.png",
-      "date": "2025-11-11T06:05:04+00:00"
-    },
-    {
-      "title": "AI for Junior Software Engineers",
-      "summary": "Article URL: https://surya-digital.com/blog/2025-10-17/ai-for-software-engineers Comments URL: https://news.ycombinator.com/item?id=45884168 Points: 2 # Comments: 0",
-      "url": "https://surya-digital.com/blog/2025-10-17/ai-for-software-engineers",
-      "image": "/open-graph/defaultOpenGraphImage.png",
-      "date": "2025-11-11T04:38:21+00:00"
-    },
-    {
-      "title": "Agentic Exchange: A Search Engine and Registry for AI Agents (ADP v2.0)",
-      "summary": "Article URL: https://agentic-exchange.metisos.co/search?q=coding Comments URL: https://news.ycombinator.com/item?id=45884149 Points: 3 # Comments: 1",
-      "url": "https://agentic-exchange.metisos.co/search?q=coding",
+      "title": "Public Report from NCC Group: Google Private AI Compute Review",
+      "summary": "Article URL: https://www.nccgroup.com/research-blog/public-report-google-private-ai-compute-review/ Comments URL: https://news.ycombinator.com/item?id=45895075 Points: 3 # Comments: 0",
+      "url": "https://www.nccgroup.com/research-blog/public-report-google-private-ai-compute-review/",
       "image": "",
-      "date": "2025-11-11T04:34:37+00:00"
+      "date": "2025-11-12T00:52:57+00:00"
     },
     {
-      "title": "Network Stats for Q3 2025: The Magnitude of AI Workflows",
-      "summary": "Article URL: https://www.backblaze.com/blog/network-stats-for-q3-2025-the-magnitude-of-ai-workflows/ Comments URL: https://news.ycombinator.com/item?id=45884051 Points: 1 # Comments: 0",
-      "url": "https://www.backblaze.com/blog/network-stats-for-q3-2025-the-magnitude-of-ai-workflows/",
-      "image": "/blog/wp-content/uploads/2025/11/Network-Stats-Blog-Header-1440x820-1.png",
-      "date": "2025-11-11T04:13:16+00:00"
+      "title": "The No. 1 Country Song in America Is AI-Generated",
+      "summary": "Article URL: https://www.newsweek.com/breaking-rust-ai-music-country-digital-sales-11022040 Comments URL: https://news.ycombinator.com/item?id=45894849 Points: 4 # Comments: 2",
+      "url": "https://www.newsweek.com/breaking-rust-ai-music-country-digital-sales-11022040",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2025/11/32-image-34.png?w=1200crop=1",
+      "date": "2025-11-12T00:28:29+00:00"
     },
     {
-      "title": "We built a black box X-Ray for AI Agents",
-      "summary": "Article URL: https://devhunt.org/tool/agent-compass-by-future-agi Comments URL: https://news.ycombinator.com/item?id=45883590 Points: 1 # Comments: 0",
-      "url": "https://devhunt.org/tool/agent-compass-by-future-agi",
-      "image": "https://mars-images.imgix.net/1758695149571-17586951425731.png?auto=compress&fit=max&w=750",
-      "date": "2025-11-11T02:42:51+00:00"
-    },
-    {
-      "title": "AI is all about inference now",
-      "summary": "Article URL: https://www.infoworld.com/article/4087007/ai-is-all-about-inference-now.html Comments URL: https://news.ycombinator.com/item?id=45883428 Points: 3 # Comments: 0",
-      "url": "https://www.infoworld.com/article/4087007/ai-is-all-about-inference-now.html",
-      "image": "https://www.infoworld.com/wp-content/uploads/2025/11/4087007-0-85615800-1762765302-shutterstock_310773080.jpg?quality=50&strip=all&w=1024",
-      "date": "2025-11-11T02:20:33+00:00"
-    },
-    {
-      "title": "AI's bubble just entered a new phase. This one's debt-fuelled",
-      "summary": "Article URL: https://www.afr.com/chanticleer/184b-in-seven-weeks-the-other-ai-surge-investors-must-watch-20251111-p5n99x Comments URL: https://news.ycombinator.com/item?id=45883385 Points: 3 # Comments: 1",
-      "url": "https://www.afr.com/chanticleer/184b-in-seven-weeks-the-other-ai-surge-investors-must-watch-20251111-p5n99x",
-      "image": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/e2ac59088a621c7517ff4a571c2d4547fa21ad9b",
-      "date": "2025-11-11T02:14:00+00:00"
-    },
-    {
-      "title": "Derek Thompson AI Could Be the Railroad of the 21st Century. Brace Yourself",
-      "summary": "Article URL: https://www.derekthompson.org/p/artificial-intelligence-could-be Comments URL: https://news.ycombinator.com/item?id=45883329 Points: 2 # Comments: 0",
-      "url": "https://www.derekthompson.org/p/artificial-intelligence-could-be",
-      "image": "https://substackcdn.com/image/fetch/$s_!gnzw!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf8d4510-47d2-4964-996c-d2bf1d23c331_1590x1038.png",
-      "date": "2025-11-11T02:06:38+00:00"
-    },
-    {
-      "title": "AI in the Sciences and Engineering (2024)",
-      "summary": "Article URL: https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html Comments URL: https://news.ycombinator.com/item?id=45883325 Points: 1 # Comments: 0",
-      "url": "https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html",
-      "image": "https://camlab.ethz.ch/_jcr_content/pageimages/image.imageformat.lightbox.1478745608.png",
-      "date": "2025-11-11T02:06:14+00:00"
-    },
-    {
-      "title": "AI Killed My Job: Tech Workers",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/how-ai-is-killing-jobs-in-the-tech-f39 Comments URL: https://news.ycombinator.com/item?id=45883295 Points: 4 # Comments: 0",
-      "url": "https://www.bloodinthemachine.com/p/how-ai-is-killing-jobs-in-the-tech-f39",
-      "image": "https://substackcdn.com/image/fetch/$s_!A2bq!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fced675e0-b22e-41c1-b0e4-8a21b7cb3700_1456x1048.jpeg",
-      "date": "2025-11-11T02:02:42+00:00"
-    },
-    {
-      "title": "AI Science and Engineering: A New Field (2022)",
-      "summary": "Article URL: https://www.computer.org/csdl/magazine/ex/2022/01/09756274/1CvQn05LV6g Comments URL: https://news.ycombinator.com/item?id=45883281 Points: 1 # Comments: 0",
-      "url": "https://www.computer.org/csdl/magazine/ex/2022/01/09756274/1CvQn05LV6g",
+      "title": "AI-Accelerated Agile Hardware Design Using the ROHD Framework",
+      "summary": "Article URL: https://intel.github.io/rohd-website/blog/ai-accelerated-agile-design/ Comments URL: https://news.ycombinator.com/item?id=45894736 Points: 2 # Comments: 1",
+      "url": "https://intel.github.io/rohd-website/blog/ai-accelerated-agile-design/",
       "image": "",
-      "date": "2025-11-11T02:01:03+00:00"
+      "date": "2025-11-12T00:16:01+00:00"
     }
   ]
 }
