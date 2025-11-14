@@ -1,103 +1,117 @@
 {
-  "generated_at": "2025-11-13T06:45:02.726465+00:00",
+  "generated_at": "2025-11-14T06:44:54.633783+00:00",
   "items": [
     {
-      "title": "Sorry, AI code still sucks",
-      "summary": "Article URL: https://quamserena.com/2025-11-13/sorry-ai-code-still-sucks Comments URL: https://news.ycombinator.com/item?id=45911389 Points: 2 # Comments: 0",
-      "url": "https://quamserena.com/2025-11-13/sorry-ai-code-still-sucks",
+      "title": "Will AI mean better adverts or 'creepy slop'?",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckg4y4z169go Comments URL: https://news.ycombinator.com/item?id=45924320 Points: 1 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4y4z169go",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/076c/live/3b639860-b34a-11f0-b2a1-6f537f66f9aa.jpg",
+      "date": "2025-11-14T06:06:44+00:00"
+    },
+    {
+      "title": "Using Assisted-by commit footers instead of banning AI tools",
+      "summary": "Article URL: https://xeiaso.net/notes/2025/assisted-by-footer/ Comments URL: https://news.ycombinator.com/item?id=45924153 Points: 1 # Comments: 0",
+      "url": "https://xeiaso.net/notes/2025/assisted-by-footer/",
       "image": "",
-      "date": "2025-11-13T06:21:15+00:00"
+      "date": "2025-11-14T05:30:18+00:00"
     },
     {
-      "title": "My Morning Routine as an AI Automation Agency Owner",
-      "summary": "Article URL: https://philliphhughes.substack.com/p/my-morning-routine-as-an-ai-automation Comments URL: https://news.ycombinator.com/item?id=45911225 Points: 1 # Comments: 0",
-      "url": "https://philliphhughes.substack.com/p/my-morning-routine-as-an-ai-automation",
+      "title": "FireGen: Turn Firebase RTDB into Your Universal Generative AI API",
+      "summary": "Article URL: https://wechaty.js.org/2025/11/13/firegen-firebase-rtdb-genai-api/ Comments URL: https://news.ycombinator.com/item?id=45924110 Points: 2 # Comments: 0",
+      "url": "https://wechaty.js.org/2025/11/13/firegen-firebase-rtdb-genai-api/",
+      "image": "https://wechaty.js.org/assets/2025/11-firegen-firebase-rtdb-genai-api/firegen.webp",
+      "date": "2025-11-14T05:20:41+00:00"
+    },
+    {
+      "title": "Show HN: TranscribeAndSplit – AI that transcribes audio and splits it by meaning",
+      "summary": "Hi HN, I built a small tool to solve a recurring pain when editing podcasts: scrubbing back and forth just to find where a sentence or idea actually ends. How it works: - Upload an audio file (MP3/WAV/M4A) - AI transcribes the audio and suggests cut points at sentence or paragraph boundaries - Automatically split and export segments, or adjust them manually if needed Website: https://transcribeandsplit.com/ This came out of my own frustration with editing long recordings and manually hunting for the right cut points. I wanted something that actually understands the content before splitting it. I’d love feedback — especially on edge cases like interviews, lectures, or multi-speaker audio. What features would make this more useful? Comments URL: https://news.ycombinator.com/item?id=45923884 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45923884",
       "image": "",
-      "date": "2025-11-13T05:54:56+00:00"
+      "date": "2025-11-14T04:37:17+00:00"
     },
     {
-      "title": "Can AI tell us anything meaningful about Bob Dylan's songs?",
-      "summary": "Article URL: https://aeon.co/essays/can-ai-tell-us-anything-meaningful-about-bob-dylans-songs Comments URL: https://news.ycombinator.com/item?id=45910898 Points: 2 # Comments: 0",
-      "url": "https://aeon.co/essays/can-ai-tell-us-anything-meaningful-about-bob-dylans-songs",
-      "image": "https://images.aeonmedia.co/images/4a74a93f-d662-477a-91b3-b4b12a9f38bb/v1-final-dylan-hr-flat-2.jpg?width=1200&quality=75&format=auto",
-      "date": "2025-11-13T05:04:42+00:00"
+      "title": "Building open AI to cure or prevent all disease by 2110",
+      "summary": "Article URL: https://www.latent.space/p/biohub Comments URL: https://news.ycombinator.com/item?id=45923813 Points: 2 # Comments: 0",
+      "url": "https://www.latent.space/p/biohub",
+      "image": "https://substackcdn.com/image/fetch/$s_!-Hnf!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F642dbc59-1304-4a96-951f-2cc8f66cf635_2764x1898.png",
+      "date": "2025-11-14T04:19:32+00:00"
     },
     {
-      "title": "The AI Wildfire Is Coming. It's Going to Be Painful and Healthy",
-      "summary": "Article URL: https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going Comments URL: https://news.ycombinator.com/item?id=45910785 Points: 6 # Comments: 1",
-      "url": "https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going",
+      "title": "Binary Prediction and Artificial Intelligence = Automation for Businesses",
+      "summary": "Hi! I recently came across the thought while building and Artificial Intelligence Operating System to automate Business & Employees that I believe businesses at any scale should be using binary Prediction systems in there software. We are seeing a huge scale in these systems right now as Polymarket and Kashi are growing at a very exponential rate. If you are unfamiliar with the methods of these Binary prediction systems let me explain. Polymarket uses as on a scale from 0 to 1, so 0-0.5-1, 0=false or no, 1=true or Yes. See each \"Question\" In polymarket starts at .5 or .50 or 50% right in the middle of 0 and 1 and when you vote and give your money to them for say I vote yes it sways that value to say 65% or .65 depending on the volume of voting and swaying obviously. Now i'm sure your asking why and how is it possible for these company's to integrate these systems or Bayesian Formula into there software and why does Artificial Intelligence matter. This system with the right amount of volume allows us like never before to guess the future to an extensive rate like we have never seen before, and its pretty accurate. Now image you are using Polymarket and you have the option for a person who has 10x the intelligence as you to replace you and place your inputs for you. Surely you would take this option right? It makes the most sense?! Right!? Right. I have taken Binary Prediction method and Combined it with an intelligent learning system. Users, Business Owners, Employees like you can join this application and connect your integrations like Gmail, Stripe, Shopify, Asana, Slack, Google Calendar and allow the environment to catch events from those integrations - for example A Shopify order comes in \"Order #1004\" as soon as it is caught the system checks other integrations connected and paves a route of the Event \"Order #1004\", When you the user click this Order it shows you the route like \"Fulfill Order\", \"Compose Email to User being thankful for order\", \"Update the Team in Slack about Order\", \"Create Calendar event to fulfill order later\", among various things. And in one button you can complete all the Actions per the Event and integrations. This Environment uses Binary Prediction to intelligently pre-fill these Actions off of the Event Context and it learns and adapts to you the longer you use it. My hope is in the future, this environment along with enough data can guess where and when future payments, orders, tasks, anything you can think of business wise, and work on them before they even arrive so you can focus on the things that matter. I hope you found this interesting-- I built this in my dorm room so check it out, Build Something Great- Zeke, https://harmonized-ai.com Comments URL: https://news.ycombinator.com/item?id=45923788 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=45923788",
       "image": "",
-      "date": "2025-11-13T04:48:38+00:00"
+      "date": "2025-11-14T04:16:20+00:00"
     },
     {
-      "title": "China in Race to Overtake U.S. Military in AI Warfare (2018)",
-      "summary": "Article URL: https://nationalinterest.org/blog/buzz/china-race-overtake-us-military-ai-warfare-26035 Comments URL: https://news.ycombinator.com/item?id=45910639 Points: 2 # Comments: 0",
-      "url": "https://nationalinterest.org/blog/buzz/china-race-overtake-us-military-ai-warfare-26035",
+      "title": "TypeScript, Python, and the AI feedback loop changing software development",
+      "summary": "Article URL: https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/ Comments URL: https://news.ycombinator.com/item?id=45923784 Points: 1 # Comments: 0",
+      "url": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
+      "image": "https://github.blog/wp-content/uploads/2025/11/GithubStockIllos_Hiring_final-copy.jpg?fit=2000%2C1200",
+      "date": "2025-11-14T04:15:58+00:00"
+    },
+    {
+      "title": "Architectures of the AI Mind: The simple prompt that tells you everything",
+      "summary": "Article URL: https://artificiallyintelligentspace.substack.com/p/architectures-of-the-ai-mind Comments URL: https://news.ycombinator.com/item?id=45923711 Points: 1 # Comments: 0",
+      "url": "https://artificiallyintelligentspace.substack.com/p/architectures-of-the-ai-mind",
       "image": "",
-      "date": "2025-11-13T04:29:08+00:00"
+      "date": "2025-11-14T04:04:14+00:00"
     },
     {
-      "title": "AI's true impact will become apparent in the coming year",
-      "summary": "Article URL: https://www.economist.com/the-world-ahead/2025/11/10/ais-true-impact-will-become-apparent-in-the-coming-year Comments URL: https://news.ycombinator.com/item?id=45909940 Points: 3 # Comments: 0",
-      "url": "https://www.economist.com/the-world-ahead/2025/11/10/ais-true-impact-will-become-apparent-in-the-coming-year",
+      "title": "How to Survive Artificial Intelligence",
+      "summary": "Article URL: https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human Comments URL: https://news.ycombinator.com/item?id=45923704 Points: 1 # Comments: 0",
+      "url": "https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human",
+      "image": "https://substackcdn.com/image/fetch/$s_!ixvR!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa11fb891-404c-4f73-92a1-942343afa98f_1024x683.png",
+      "date": "2025-11-14T04:03:06+00:00"
+    },
+    {
+      "title": "Sima Mofakham, Chuck Mikell's AI that sees signs of consciousness",
+      "summary": "Article URL: https://tbrnewsmedia.com/sbus-sima-mofakham-chuck-mikell-design-ai-that-sees-signs-of-consciousness/ Comments URL: https://news.ycombinator.com/item?id=45923682 Points: 1 # Comments: 0",
+      "url": "https://tbrnewsmedia.com/sbus-sima-mofakham-chuck-mikell-design-ai-that-sees-signs-of-consciousness/",
       "image": "",
-      "date": "2025-11-13T02:52:37+00:00"
+      "date": "2025-11-14T03:58:43+00:00"
     },
     {
-      "title": "Tell HN: PSA/reminder AI Apps have access to your clipboard",
-      "summary": "I had a situation occur where Cursor demonstrated it already knew what was in my clipboard. A pleasant feature, but jarring because I hadn't started working yet and didn't expect it to know what was in my clipboard. I think a year ago I would have 'expected' this but have grown pretty complacent using AI apps and lately have started becoming more shocked realizing how much they are collecting constantly. Comments URL: https://news.ycombinator.com/item?id=45909595 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45909595",
+      "title": "Is it too late to contribute to AI? (Andrew Ng)",
+      "summary": "Article URL: https://www.deeplearning.ai/the-batch/issue-327/ Comments URL: https://news.ycombinator.com/item?id=45923626 Points: 2 # Comments: 0",
+      "url": "https://www.deeplearning.ai/the-batch/issue-327/",
       "image": "",
-      "date": "2025-11-13T02:06:25+00:00"
+      "date": "2025-11-14T03:49:00+00:00"
     },
     {
-      "title": "Big Tech and the AI investment boom in underwater cables",
-      "summary": "Article URL: https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html Comments URL: https://news.ycombinator.com/item?id=45909569 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108221842-1762362592580-251028-cg-32-subsea-cables-gfx1_0-00-07-08.png?v=1762451999&w=1920&h=1080",
-      "date": "2025-11-13T02:03:17+00:00"
-    },
-    {
-      "title": "AI Models Struggle with Reading Analog Clock",
-      "summary": "Article URL: https://spectrum.ieee.org/large-language-models-reading-clocks Comments URL: https://news.ycombinator.com/item?id=45909206 Points: 4 # Comments: 1",
-      "url": "https://spectrum.ieee.org/large-language-models-reading-clocks",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62053179&width=1200&height=600&coordinates=0%2C263%2C0%2C537",
-      "date": "2025-11-13T01:12:27+00:00"
-    },
-    {
-      "title": "Michael Caine and Matthew McConaughey Partner with ElevenLabs for AI Voice Clone",
-      "summary": "Article URL: https://apnews.com/article/ai-voice-clones-michael-caine-matthew-mcconaughey-elevenlabs-a906f912c4500bfea35b53f4ad07e846 Comments URL: https://news.ycombinator.com/item?id=45908709 Points: 3 # Comments: 0",
-      "url": "https://apnews.com/article/ai-voice-clones-michael-caine-matthew-mcconaughey-elevenlabs-a906f912c4500bfea35b53f4ad07e846",
-      "image": "https://dims.apnews.com/dims4/default/5e5f83b/2147483647/strip/true/crop/6514x3664+0+339/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc4%2Fb6%2Ff991bab2e292ede59e623935888a%2F74fc4395081d4392b032da2a3e88879f",
-      "date": "2025-11-13T00:05:51+00:00"
-    },
-    {
-      "title": "Risk of AI-driven, overbuilt energy infrastructure is real",
-      "summary": "Article URL: https://ieefa.org/resources/risk-ai-driven-overbuilt-infrastructure-real Comments URL: https://news.ycombinator.com/item?id=45908511 Points: 1 # Comments: 0",
-      "url": "https://ieefa.org/resources/risk-ai-driven-overbuilt-infrastructure-real",
-      "image": "https://ieefa.org/sites/default/files/2025-05/electricity-tower.jpg",
-      "date": "2025-11-12T23:42:23+00:00"
-    },
-    {
-      "title": "What's in a Benchmark? Quantifying AI Systems for Rapid Iteration and Evaluation",
-      "summary": "Article URL: https://www.withemissary.com/resources/23 Comments URL: https://news.ycombinator.com/item?id=45908341 Points: 1 # Comments: 0",
-      "url": "https://www.withemissary.com/resources/23",
+      "title": "Show HN: AI SDK Rust – With Storage",
+      "summary": "Mainly started working on AI SDK Rust as I was frustrated with the bootstrapping required to just create a small agent for personal use-cases. Feel like it's almost getting there with future support for other storage providers. Currently filesystem storage seems like enough for my personal use Github Link: https://github.com/saribmah/ai-sdk Comments URL: https://news.ycombinator.com/item?id=45923595 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45923595",
       "image": "",
-      "date": "2025-11-12T23:23:39+00:00"
+      "date": "2025-11-14T03:43:24+00:00"
     },
     {
-      "title": "Demo: Vague AI coding prompts can lead to disastrous outcomes",
-      "summary": "Article URL: https://www.youtube.com/playlist?list=PLYGWJjYNEIt2b9pzSWTt-EbmL6A3b8VBj Comments URL: https://news.ycombinator.com/item?id=45908238 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/playlist?list=PLYGWJjYNEIt2b9pzSWTt-EbmL6A3b8VBj",
-      "image": "https://i.ytimg.com/vi/FAuDnU9KgzU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDB_isKQsz7Ka1dx25lf6Tud30ag&days_since_epoch=20405",
-      "date": "2025-11-12T23:13:16+00:00"
+      "title": "Azure AI Superfactory",
+      "summary": "Article URL: https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/ Comments URL: https://news.ycombinator.com/item?id=45923500 Points: 2 # Comments: 0",
+      "url": "https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/",
+      "image": "https://blogs.microsoft.com/wp-content/uploads/2025/11/OMB-Datacenter-11_11-Hero-1024x767.jpg",
+      "date": "2025-11-14T03:24:10+00:00"
     },
     {
-      "title": "Comparing the Best AI Upscalers for Video and Images",
-      "summary": "Article URL: https://blog.fal.ai/comparing-the-best-ai-upscalers-for-video-and-images/ Comments URL: https://news.ycombinator.com/item?id=45908177 Points: 1 # Comments: 1",
-      "url": "https://blog.fal.ai/comparing-the-best-ai-upscalers-for-video-and-images/",
-      "image": "https://blog.fal.ai/content/images/2025/11/Sky-Circuit.png",
-      "date": "2025-11-12T23:06:18+00:00"
+      "title": "Early look at images generated by Nano Banana 2 via Media AI",
+      "summary": "Article URL: https://www.testingcatalog.com/early-look-at-images-generated-by-nano-banana-2/ Comments URL: https://news.ycombinator.com/item?id=45923491 Points: 2 # Comments: 0",
+      "url": "https://www.testingcatalog.com/early-look-at-images-generated-by-nano-banana-2/",
+      "image": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/Image-to-Image-AI-Generator-----Media-io-11-08-2025_08_36_PM.jpg",
+      "date": "2025-11-14T03:22:55+00:00"
+    },
+    {
+      "title": "AI-powered humanoid robot demo [video]",
+      "summary": "Article URL: https://www.youtube.com/shorts/xPE7JIWjryQ Comments URL: https://news.ycombinator.com/item?id=45923366 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/shorts/xPE7JIWjryQ",
+      "image": "",
+      "date": "2025-11-14T02:58:11+00:00"
+    },
+    {
+      "title": "Where Are All the AI Generated Native Android and iOS Apps?",
+      "summary": "Article URL: https://jamesoclaire.com/2025/11/14/where-are-all-the-ai-generated-native-android-ios-apps/ Comments URL: https://news.ycombinator.com/item?id=45923172 Points: 2 # Comments: 1",
+      "url": "https://jamesoclaire.com/2025/11/14/where-are-all-the-ai-generated-native-android-ios-apps/",
+      "image": "",
+      "date": "2025-11-14T02:24:30+00:00"
     }
   ]
 }
