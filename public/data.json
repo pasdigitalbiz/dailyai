@@ -1,117 +1,103 @@
 {
-  "generated_at": "2025-11-14T06:44:54.633783+00:00",
+  "generated_at": "2025-11-15T06:39:53.193935+00:00",
   "items": [
     {
-      "title": "Will AI mean better adverts or 'creepy slop'?",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckg4y4z169go Comments URL: https://news.ycombinator.com/item?id=45924320 Points: 1 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4y4z169go",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/076c/live/3b639860-b34a-11f0-b2a1-6f537f66f9aa.jpg",
-      "date": "2025-11-14T06:06:44+00:00"
-    },
-    {
-      "title": "Using Assisted-by commit footers instead of banning AI tools",
-      "summary": "Article URL: https://xeiaso.net/notes/2025/assisted-by-footer/ Comments URL: https://news.ycombinator.com/item?id=45924153 Points: 1 # Comments: 0",
-      "url": "https://xeiaso.net/notes/2025/assisted-by-footer/",
+      "title": "He's Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c Comments URL: https://news.ycombinator.com/item?id=45935478 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c",
       "image": "",
-      "date": "2025-11-14T05:30:18+00:00"
+      "date": "2025-11-15T06:26:54+00:00"
     },
     {
-      "title": "FireGen: Turn Firebase RTDB into Your Universal Generative AI API",
-      "summary": "Article URL: https://wechaty.js.org/2025/11/13/firegen-firebase-rtdb-genai-api/ Comments URL: https://news.ycombinator.com/item?id=45924110 Points: 2 # Comments: 0",
-      "url": "https://wechaty.js.org/2025/11/13/firegen-firebase-rtdb-genai-api/",
-      "image": "https://wechaty.js.org/assets/2025/11-firegen-firebase-rtdb-genai-api/firegen.webp",
-      "date": "2025-11-14T05:20:41+00:00"
+      "title": "'Vibe revenue': AI companies admit they're worried about a bubble",
+      "summary": "Article URL: https://www.cnbc.com/2025/11/14/vibe-revenue-ai-companies-admit-theyre-worried-about-a-bubble.html Comments URL: https://news.ycombinator.com/item?id=45935424 Points: 1 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/11/14/vibe-revenue-ai-companies-admit-theyre-worried-about-a-bubble.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214997-1761078222031-gettyimages-1412458280-business444.jpeg?v=1763040701&w=1920&h=1080",
+      "date": "2025-11-15T06:10:26+00:00"
     },
     {
-      "title": "Show HN: TranscribeAndSplit – AI that transcribes audio and splits it by meaning",
-      "summary": "Hi HN, I built a small tool to solve a recurring pain when editing podcasts: scrubbing back and forth just to find where a sentence or idea actually ends. How it works: - Upload an audio file (MP3/WAV/M4A) - AI transcribes the audio and suggests cut points at sentence or paragraph boundaries - Automatically split and export segments, or adjust them manually if needed Website: https://transcribeandsplit.com/ This came out of my own frustration with editing long recordings and manually hunting for the right cut points. I wanted something that actually understands the content before splitting it. I’d love feedback — especially on edge cases like interviews, lectures, or multi-speaker audio. What features would make this more useful? Comments URL: https://news.ycombinator.com/item?id=45923884 Points: 3 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45923884",
+      "title": "The Missing Abstraction for AI Agents: The Agent Filesystem",
+      "summary": "Article URL: https://turso.tech/blog/agentfs Comments URL: https://news.ycombinator.com/item?id=45935381 Points: 2 # Comments: 0",
+      "url": "https://turso.tech/blog/agentfs",
+      "image": "https://turso.tech/images/blog/agentfs/cover.png",
+      "date": "2025-11-15T05:55:43+00:00"
+    },
+    {
+      "title": "Maryland taps AI for housing and government benefits",
+      "summary": "Article URL: https://www.axios.com/2025/11/13/maryland-ai-housing-government-benefits Comments URL: https://news.ycombinator.com/item?id=45935105 Points: 1 # Comments: 0",
+      "url": "https://www.axios.com/2025/11/13/maryland-ai-housing-government-benefits",
       "image": "",
-      "date": "2025-11-14T04:37:17+00:00"
+      "date": "2025-11-15T04:44:12+00:00"
     },
     {
-      "title": "Building open AI to cure or prevent all disease by 2110",
-      "summary": "Article URL: https://www.latent.space/p/biohub Comments URL: https://news.ycombinator.com/item?id=45923813 Points: 2 # Comments: 0",
-      "url": "https://www.latent.space/p/biohub",
-      "image": "https://substackcdn.com/image/fetch/$s_!-Hnf!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F642dbc59-1304-4a96-951f-2cc8f66cf635_2764x1898.png",
-      "date": "2025-11-14T04:19:32+00:00"
+      "title": "Quantum chip gives China's AI data centres '1k-fold' speed boost",
+      "summary": "Article URL: https://www.scmp.com/news/china/science/article/3332604/quantum-chip-gives-chinas-ai-data-centres-1000-fold-speed-boost-award-winning-team Comments URL: https://news.ycombinator.com/item?id=45935068 Points: 1 # Comments: 0",
+      "url": "https://www.scmp.com/news/china/science/article/3332604/quantum-chip-gives-chinas-ai-data-centres-1000-fold-speed-boost-award-winning-team",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/13/8d2e7201-d6ad-4afa-858c-22cc1cf45c04_5d9156d2.jpg?itok=H1miAEis&v=1763016073",
+      "date": "2025-11-15T04:34:55+00:00"
     },
     {
-      "title": "Binary Prediction and Artificial Intelligence = Automation for Businesses",
-      "summary": "Hi! I recently came across the thought while building and Artificial Intelligence Operating System to automate Business & Employees that I believe businesses at any scale should be using binary Prediction systems in there software. We are seeing a huge scale in these systems right now as Polymarket and Kashi are growing at a very exponential rate. If you are unfamiliar with the methods of these Binary prediction systems let me explain. Polymarket uses as on a scale from 0 to 1, so 0-0.5-1, 0=false or no, 1=true or Yes. See each \"Question\" In polymarket starts at .5 or .50 or 50% right in the middle of 0 and 1 and when you vote and give your money to them for say I vote yes it sways that value to say 65% or .65 depending on the volume of voting and swaying obviously. Now i'm sure your asking why and how is it possible for these company's to integrate these systems or Bayesian Formula into there software and why does Artificial Intelligence matter. This system with the right amount of volume allows us like never before to guess the future to an extensive rate like we have never seen before, and its pretty accurate. Now image you are using Polymarket and you have the option for a person who has 10x the intelligence as you to replace you and place your inputs for you. Surely you would take this option right? It makes the most sense?! Right!? Right. I have taken Binary Prediction method and Combined it with an intelligent learning system. Users, Business Owners, Employees like you can join this application and connect your integrations like Gmail, Stripe, Shopify, Asana, Slack, Google Calendar and allow the environment to catch events from those integrations - for example A Shopify order comes in \"Order #1004\" as soon as it is caught the system checks other integrations connected and paves a route of the Event \"Order #1004\", When you the user click this Order it shows you the route like \"Fulfill Order\", \"Compose Email to User being thankful for order\", \"Update the Team in Slack about Order\", \"Create Calendar event to fulfill order later\", among various things. And in one button you can complete all the Actions per the Event and integrations. This Environment uses Binary Prediction to intelligently pre-fill these Actions off of the Event Context and it learns and adapts to you the longer you use it. My hope is in the future, this environment along with enough data can guess where and when future payments, orders, tasks, anything you can think of business wise, and work on them before they even arrive so you can focus on the things that matter. I hope you found this interesting-- I built this in my dorm room so check it out, Build Something Great- Zeke, https://harmonized-ai.com Comments URL: https://news.ycombinator.com/item?id=45923788 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45923788",
+      "title": "The AI water issue is fake",
+      "summary": "Article URL: https://andymasley.substack.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=45935037 Points: 4 # Comments: 0",
+      "url": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
       "image": "",
-      "date": "2025-11-14T04:16:20+00:00"
+      "date": "2025-11-15T04:26:29+00:00"
     },
     {
-      "title": "TypeScript, Python, and the AI feedback loop changing software development",
-      "summary": "Article URL: https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/ Comments URL: https://news.ycombinator.com/item?id=45923784 Points: 1 # Comments: 0",
-      "url": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
-      "image": "https://github.blog/wp-content/uploads/2025/11/GithubStockIllos_Hiring_final-copy.jpg?fit=2000%2C1200",
-      "date": "2025-11-14T04:15:58+00:00"
+      "title": "Green AI – Do you care?",
+      "summary": "Article URL: https://christopher-helm.com/green-ai-oder-ki-im-stromsparmodus/ Comments URL: https://news.ycombinator.com/item?id=45934662 Points: 2 # Comments: 1",
+      "url": "https://christopher-helm.com/green-ai-oder-ki-im-stromsparmodus/",
+      "image": "https://christopher-helm.com/wp-content/uploads/2025/11/benchmarks-1-1200x628-cropped.png",
+      "date": "2025-11-15T02:54:41+00:00"
     },
     {
-      "title": "Architectures of the AI Mind: The simple prompt that tells you everything",
-      "summary": "Article URL: https://artificiallyintelligentspace.substack.com/p/architectures-of-the-ai-mind Comments URL: https://news.ycombinator.com/item?id=45923711 Points: 1 # Comments: 0",
-      "url": "https://artificiallyintelligentspace.substack.com/p/architectures-of-the-ai-mind",
+      "title": "AI note-taking startup Fireflies was really two guys typing notes by hand",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/ Comments URL: https://news.ycombinator.com/item?id=45934447 Points: 72 # Comments: 44",
+      "url": "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/",
+      "image": "https://cdn.mos.cms.futurecdn.net/sJvAbqcewJpBMxvC4ycyaU-1920-80.png",
+      "date": "2025-11-15T02:11:43+00:00"
+    },
+    {
+      "title": "Show HN: Turn Any Website into AI Knowledge Base [1-Click] Free Workflow",
+      "summary": "Turn any Website into a Knowledge base for Your AI Agent for free! 1-Click Deploy! Comments URL: https://news.ycombinator.com/item?id=45934312 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=YYCBHX4ZqjA",
       "image": "",
-      "date": "2025-11-14T04:04:14+00:00"
+      "date": "2025-11-15T01:43:48+00:00"
     },
     {
-      "title": "How to Survive Artificial Intelligence",
-      "summary": "Article URL: https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human Comments URL: https://news.ycombinator.com/item?id=45923704 Points: 1 # Comments: 0",
-      "url": "https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human",
-      "image": "https://substackcdn.com/image/fetch/$s_!ixvR!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa11fb891-404c-4f73-92a1-942343afa98f_1024x683.png",
-      "date": "2025-11-14T04:03:06+00:00"
+      "title": "Anthropic 'disrupted' 'the first case of a large-scale AI cyberattack",
+      "summary": "Article URL: https://fortune.com/2025/11/14/anthropic-disrupted-first-documented-large-scale-ai-cyberattack-claude-agentic/ Comments URL: https://news.ycombinator.com/item?id=45934279 Points: 1 # Comments: 1",
+      "url": "https://fortune.com/2025/11/14/anthropic-disrupted-first-documented-large-scale-ai-cyberattack-claude-agentic/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2235057714-e1763129940177.jpg?resize=1200,600",
+      "date": "2025-11-15T01:37:15+00:00"
     },
     {
-      "title": "Sima Mofakham, Chuck Mikell's AI that sees signs of consciousness",
-      "summary": "Article URL: https://tbrnewsmedia.com/sbus-sima-mofakham-chuck-mikell-design-ai-that-sees-signs-of-consciousness/ Comments URL: https://news.ycombinator.com/item?id=45923682 Points: 1 # Comments: 0",
-      "url": "https://tbrnewsmedia.com/sbus-sima-mofakham-chuck-mikell-design-ai-that-sees-signs-of-consciousness/",
+      "title": "Andrew Ng's letter to an 18 y.o. worried about AI",
+      "summary": "Article URL: https://www.deeplearning.ai/the-batch/dont-believe-the-hype/ Comments URL: https://news.ycombinator.com/item?id=45933647 Points: 5 # Comments: 0",
+      "url": "https://www.deeplearning.ai/the-batch/dont-believe-the-hype/",
       "image": "",
-      "date": "2025-11-14T03:58:43+00:00"
+      "date": "2025-11-15T00:01:48+00:00"
     },
     {
-      "title": "Is it too late to contribute to AI? (Andrew Ng)",
-      "summary": "Article URL: https://www.deeplearning.ai/the-batch/issue-327/ Comments URL: https://news.ycombinator.com/item?id=45923626 Points: 2 # Comments: 0",
-      "url": "https://www.deeplearning.ai/the-batch/issue-327/",
+      "title": "AI Gateway from Pydantic",
+      "summary": "Article URL: https://pydantic.dev/articles/gateway-open-beta Comments URL: https://news.ycombinator.com/item?id=45933604 Points: 1 # Comments: 0",
+      "url": "https://pydantic.dev/articles/gateway-open-beta",
+      "image": "https://pydantic.dev/articles/gateway-open-beta/og.png",
+      "date": "2025-11-14T23:56:25+00:00"
+    },
+    {
+      "title": "Disney+ to Allow User-Generated Content via AI",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/ Comments URL: https://news.ycombinator.com/item?id=45933555 Points: 3 # Comments: 1",
+      "url": "https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/03/MCDFRTW_WD014-H-2021-1616007123.jpg?w=1296&h=730&crop=1",
+      "date": "2025-11-14T23:48:13+00:00"
+    },
+    {
+      "title": "AI Generated Pokemon Sprites with GPT-2",
+      "summary": "Article URL: https://matthew.rayfield.world/articles/ai-generated-pokemon-sprites-with-gpt-2/ Comments URL: https://news.ycombinator.com/item?id=45933386 Points: 1 # Comments: 0",
+      "url": "https://matthew.rayfield.world/articles/ai-generated-pokemon-sprites-with-gpt-2/",
       "image": "",
-      "date": "2025-11-14T03:49:00+00:00"
-    },
-    {
-      "title": "Show HN: AI SDK Rust – With Storage",
-      "summary": "Mainly started working on AI SDK Rust as I was frustrated with the bootstrapping required to just create a small agent for personal use-cases. Feel like it's almost getting there with future support for other storage providers. Currently filesystem storage seems like enough for my personal use Github Link: https://github.com/saribmah/ai-sdk Comments URL: https://news.ycombinator.com/item?id=45923595 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45923595",
-      "image": "",
-      "date": "2025-11-14T03:43:24+00:00"
-    },
-    {
-      "title": "Azure AI Superfactory",
-      "summary": "Article URL: https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/ Comments URL: https://news.ycombinator.com/item?id=45923500 Points: 2 # Comments: 0",
-      "url": "https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/",
-      "image": "https://blogs.microsoft.com/wp-content/uploads/2025/11/OMB-Datacenter-11_11-Hero-1024x767.jpg",
-      "date": "2025-11-14T03:24:10+00:00"
-    },
-    {
-      "title": "Early look at images generated by Nano Banana 2 via Media AI",
-      "summary": "Article URL: https://www.testingcatalog.com/early-look-at-images-generated-by-nano-banana-2/ Comments URL: https://news.ycombinator.com/item?id=45923491 Points: 2 # Comments: 0",
-      "url": "https://www.testingcatalog.com/early-look-at-images-generated-by-nano-banana-2/",
-      "image": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/Image-to-Image-AI-Generator-----Media-io-11-08-2025_08_36_PM.jpg",
-      "date": "2025-11-14T03:22:55+00:00"
-    },
-    {
-      "title": "AI-powered humanoid robot demo [video]",
-      "summary": "Article URL: https://www.youtube.com/shorts/xPE7JIWjryQ Comments URL: https://news.ycombinator.com/item?id=45923366 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/shorts/xPE7JIWjryQ",
-      "image": "",
-      "date": "2025-11-14T02:58:11+00:00"
-    },
-    {
-      "title": "Where Are All the AI Generated Native Android and iOS Apps?",
-      "summary": "Article URL: https://jamesoclaire.com/2025/11/14/where-are-all-the-ai-generated-native-android-ios-apps/ Comments URL: https://news.ycombinator.com/item?id=45923172 Points: 2 # Comments: 1",
-      "url": "https://jamesoclaire.com/2025/11/14/where-are-all-the-ai-generated-native-android-ios-apps/",
-      "image": "",
-      "date": "2025-11-14T02:24:30+00:00"
+      "date": "2025-11-14T23:26:43+00:00"
     }
   ]
 }
