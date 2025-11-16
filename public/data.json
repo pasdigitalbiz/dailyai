@@ -1,103 +1,82 @@
 {
-  "generated_at": "2025-11-15T06:39:53.193935+00:00",
+  "generated_at": "2025-11-16T06:41:08.425553+00:00",
   "items": [
     {
-      "title": "He's Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c Comments URL: https://news.ycombinator.com/item?id=45935478 Points: 2 # Comments: 0",
+      "title": "RealWorldProgrammer – Artificial Intelligence Is Making Us All Dumber",
+      "summary": "Article URL: https://realworldprogrammer.com/2025/11/09/artificial-intelligence-is-making-us-all-dumber/ Comments URL: https://news.ycombinator.com/item?id=45942793 Points: 1 # Comments: 0",
+      "url": "https://realworldprogrammer.com/2025/11/09/artificial-intelligence-is-making-us-all-dumber/",
+      "image": "https://realworldprogrammer.com/wp-content/uploads/2025/11/ai-is-making-us-dumber-1.png",
+      "date": "2025-11-16T04:33:07+00:00"
+    },
+    {
+      "title": "Teaching AI to see the world more like we do",
+      "summary": "Article URL: https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/ Comments URL: https://news.ycombinator.com/item?id=45942606 Points: 2 # Comments: 0",
+      "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
+      "image": "https://lh3.googleusercontent.com/pr1odwZzuCO8826Vd7ekb3yIHpt4iP9sULx5f_fa-BaTzJob88Lsr_y03zjtGV6J0q-zfPOe7Ym9JE2nyoGV7a4MbNZ3VP5IEAQCCUhzL7YZlT7KRg=w1200-h630-n-nu",
+      "date": "2025-11-16T03:49:37+00:00"
+    },
+    {
+      "title": "Yann LeCun Has Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c Comments URL: https://news.ycombinator.com/item?id=45942581 Points: 16 # Comments: 2",
       "url": "https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c",
       "image": "",
-      "date": "2025-11-15T06:26:54+00:00"
+      "date": "2025-11-16T03:42:54+00:00"
     },
     {
-      "title": "'Vibe revenue': AI companies admit they're worried about a bubble",
-      "summary": "Article URL: https://www.cnbc.com/2025/11/14/vibe-revenue-ai-companies-admit-theyre-worried-about-a-bubble.html Comments URL: https://news.ycombinator.com/item?id=45935424 Points: 1 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/11/14/vibe-revenue-ai-companies-admit-theyre-worried-about-a-bubble.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108214997-1761078222031-gettyimages-1412458280-business444.jpeg?v=1763040701&w=1920&h=1080",
-      "date": "2025-11-15T06:10:26+00:00"
-    },
-    {
-      "title": "The Missing Abstraction for AI Agents: The Agent Filesystem",
-      "summary": "Article URL: https://turso.tech/blog/agentfs Comments URL: https://news.ycombinator.com/item?id=45935381 Points: 2 # Comments: 0",
-      "url": "https://turso.tech/blog/agentfs",
-      "image": "https://turso.tech/images/blog/agentfs/cover.png",
-      "date": "2025-11-15T05:55:43+00:00"
-    },
-    {
-      "title": "Maryland taps AI for housing and government benefits",
-      "summary": "Article URL: https://www.axios.com/2025/11/13/maryland-ai-housing-government-benefits Comments URL: https://news.ycombinator.com/item?id=45935105 Points: 1 # Comments: 0",
-      "url": "https://www.axios.com/2025/11/13/maryland-ai-housing-government-benefits",
+      "title": "Show HN: AI Tarot Reading – get instant 1/3-card or (past/now/future) readings",
+      "summary": "Description:\nI built AI Tarot Reading, a simple web tool that lets you pull a tarot card (or three cards representing past / now / future) and ask a question to get a reading. The idea is to make the tarot experience accessible, quick, and just a little mystical — whether you’re just curious, seeking insight, or playing around. Key features: Choose 1 card (for a focused answer) or 3 cards (past-, present-, future-style) Enter your question and then the cards are drawn instantly Readable interpretations accompany each card so you can get some insight immediately No app install required – runs fully in browser Why I made it:\nTarot has always fascinated me. I found a lot of existing tools either too heavy (lots of decks, lots of options) or too shallow (just random card flip but no context). I thought: what if I build something clean, minimal, fun, where someone can just ask “What’s going on with X?” and pull a reading in 30 seconds?\nAlso, I’m curious how folks will use it — for serious reflection, or just for fun. I hope it brings a moment of stirring thought, or maybe just entertainment. Tech stack / implementation notes: The card draw is random but seeded so each session is unique Interpretations are standard tarot-style meanings, adapted for readability UI is minimalist, mobile-friendly Gotchas: It’s meant for fun/reflective use only (not predictive or therapeutic advice) Open questions / for feedback: Would a “custom deck” option or more spread types (5-card, Celtic cross, etc) be valuable? How much depth do users want in the interpretation? (Short snippets vs longer explanations) Any suggestions for UX: maybe save readings, share with friends, log over time? I’m also thinking of adding a “theme” mode (love, career, creativity …) — worth it? If you’re at all interested in tarot, reflection tools, or just want a quirky bit of code/play, check it out and I’d love your feedback. Thanks! — Thanks for reading. Comments URL: https://news.ycombinator.com/item?id=45942342 Points: 1 # Comments: 0",
+      "url": "https://www.randomtarotcard.org/ai-tarot-reading",
       "image": "",
-      "date": "2025-11-15T04:44:12+00:00"
+      "date": "2025-11-16T02:47:27+00:00"
     },
     {
-      "title": "Quantum chip gives China's AI data centres '1k-fold' speed boost",
-      "summary": "Article URL: https://www.scmp.com/news/china/science/article/3332604/quantum-chip-gives-chinas-ai-data-centres-1000-fold-speed-boost-award-winning-team Comments URL: https://news.ycombinator.com/item?id=45935068 Points: 1 # Comments: 0",
-      "url": "https://www.scmp.com/news/china/science/article/3332604/quantum-chip-gives-chinas-ai-data-centres-1000-fold-speed-boost-award-winning-team",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/13/8d2e7201-d6ad-4afa-858c-22cc1cf45c04_5d9156d2.jpg?itok=H1miAEis&v=1763016073",
-      "date": "2025-11-15T04:34:55+00:00"
-    },
-    {
-      "title": "The AI water issue is fake",
-      "summary": "Article URL: https://andymasley.substack.com/p/the-ai-water-issue-is-fake Comments URL: https://news.ycombinator.com/item?id=45935037 Points: 4 # Comments: 0",
-      "url": "https://andymasley.substack.com/p/the-ai-water-issue-is-fake",
+      "title": "AI Limits: How Junior Developers Can Thrive by Understanding AI's Limits",
+      "summary": "Article URL: https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior Comments URL: https://news.ycombinator.com/item?id=45941544 Points: 2 # Comments: 0",
+      "url": "https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior",
       "image": "",
-      "date": "2025-11-15T04:26:29+00:00"
+      "date": "2025-11-15T23:51:41+00:00"
     },
     {
-      "title": "Green AI – Do you care?",
-      "summary": "Article URL: https://christopher-helm.com/green-ai-oder-ki-im-stromsparmodus/ Comments URL: https://news.ycombinator.com/item?id=45934662 Points: 2 # Comments: 1",
-      "url": "https://christopher-helm.com/green-ai-oder-ki-im-stromsparmodus/",
-      "image": "https://christopher-helm.com/wp-content/uploads/2025/11/benchmarks-1-1200x628-cropped.png",
-      "date": "2025-11-15T02:54:41+00:00"
+      "title": "Icelandic in danger of dying out due to AI and English-language media –former PM",
+      "summary": "Article URL: https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm Comments URL: https://news.ycombinator.com/item?id=45941519 Points: 2 # Comments: 1",
+      "url": "https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm",
+      "image": "https://i.guim.co.uk/img/media/85174e4859cfa1f34bac56d0766f0edf293352d7/165_85_1018_815/master/1018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f2686a37ba082136341de04bdbe4489",
+      "date": "2025-11-15T23:47:04+00:00"
     },
     {
-      "title": "AI note-taking startup Fireflies was really two guys typing notes by hand",
-      "summary": "Article URL: https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/ Comments URL: https://news.ycombinator.com/item?id=45934447 Points: 72 # Comments: 44",
-      "url": "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/",
-      "image": "https://cdn.mos.cms.futurecdn.net/sJvAbqcewJpBMxvC4ycyaU-1920-80.png",
-      "date": "2025-11-15T02:11:43+00:00"
-    },
-    {
-      "title": "Show HN: Turn Any Website into AI Knowledge Base [1-Click] Free Workflow",
-      "summary": "Turn any Website into a Knowledge base for Your AI Agent for free! 1-Click Deploy! Comments URL: https://news.ycombinator.com/item?id=45934312 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=YYCBHX4ZqjA",
+      "title": "AI Agent to Agent Exploitation: The Case for Sentinel AI Agents",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Do41BmoReME Comments URL: https://news.ycombinator.com/item?id=45941223 Points: 2 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=Do41BmoReME",
       "image": "",
-      "date": "2025-11-15T01:43:48+00:00"
+      "date": "2025-11-15T22:53:51+00:00"
     },
     {
-      "title": "Anthropic 'disrupted' 'the first case of a large-scale AI cyberattack",
-      "summary": "Article URL: https://fortune.com/2025/11/14/anthropic-disrupted-first-documented-large-scale-ai-cyberattack-claude-agentic/ Comments URL: https://news.ycombinator.com/item?id=45934279 Points: 1 # Comments: 1",
-      "url": "https://fortune.com/2025/11/14/anthropic-disrupted-first-documented-large-scale-ai-cyberattack-claude-agentic/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2235057714-e1763129940177.jpg?resize=1200,600",
-      "date": "2025-11-15T01:37:15+00:00"
+      "title": "'Godfather of AI' (Bengio) becomes first person to hit one million citations",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-025-03681-6 Comments URL: https://news.ycombinator.com/item?id=45941052 Points: 2 # Comments: 3",
+      "url": "https://www.nature.com/articles/d41586-025-03681-6",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03681-6/d41586-025-03681-6_51692650.jpg",
+      "date": "2025-11-15T22:20:05+00:00"
     },
     {
-      "title": "Andrew Ng's letter to an 18 y.o. worried about AI",
-      "summary": "Article URL: https://www.deeplearning.ai/the-batch/dont-believe-the-hype/ Comments URL: https://news.ycombinator.com/item?id=45933647 Points: 5 # Comments: 0",
-      "url": "https://www.deeplearning.ai/the-batch/dont-believe-the-hype/",
+      "title": "Cadence Debuts System Chiplet Silicon to Accelerate Physical AI",
+      "summary": "Article URL: https://www.forbes.com/sites/marcochiappetta/2025/11/13/cadence-debuts-its-first-system-chiplet-silicon-to-accelerate-physical-ai-development/ Comments URL: https://news.ycombinator.com/item?id=45940876 Points: 2 # Comments: 0",
+      "url": "https://www.forbes.com/sites/marcochiappetta/2025/11/13/cadence-debuts-its-first-system-chiplet-silicon-to-accelerate-physical-ai-development/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69163d8de2a7877d71470ae9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "date": "2025-11-15T21:52:08+00:00"
+    },
+    {
+      "title": "When AI Hype Meets AI Reality: A Reckoning in 6 Charts",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/when-ai-hype-meets-ai-reality-a-reckoning-in-6-charts-bf8043b4 Comments URL: https://news.ycombinator.com/item?id=45940554 Points: 2 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/when-ai-hype-meets-ai-reality-a-reckoning-in-6-charts-bf8043b4",
       "image": "",
-      "date": "2025-11-15T00:01:48+00:00"
+      "date": "2025-11-15T20:57:01+00:00"
     },
     {
-      "title": "AI Gateway from Pydantic",
-      "summary": "Article URL: https://pydantic.dev/articles/gateway-open-beta Comments URL: https://news.ycombinator.com/item?id=45933604 Points: 1 # Comments: 0",
-      "url": "https://pydantic.dev/articles/gateway-open-beta",
-      "image": "https://pydantic.dev/articles/gateway-open-beta/og.png",
-      "date": "2025-11-14T23:56:25+00:00"
-    },
-    {
-      "title": "Disney+ to Allow User-Generated Content via AI",
-      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/ Comments URL: https://news.ycombinator.com/item?id=45933555 Points: 3 # Comments: 1",
-      "url": "https://www.hollywoodreporter.com/business/digital/disney-plus-gen-ai-user-generated-content-1236426135/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/03/MCDFRTW_WD014-H-2021-1616007123.jpg?w=1296&h=730&crop=1",
-      "date": "2025-11-14T23:48:13+00:00"
-    },
-    {
-      "title": "AI Generated Pokemon Sprites with GPT-2",
-      "summary": "Article URL: https://matthew.rayfield.world/articles/ai-generated-pokemon-sprites-with-gpt-2/ Comments URL: https://news.ycombinator.com/item?id=45933386 Points: 1 # Comments: 0",
-      "url": "https://matthew.rayfield.world/articles/ai-generated-pokemon-sprites-with-gpt-2/",
-      "image": "",
-      "date": "2025-11-14T23:26:43+00:00"
+      "title": "Anthropic AI Cyber Espionage Attack Thwarted",
+      "summary": "Article URL: https://captaincompliance.com/education/the-first-anthropic-ai-orchestrated-cyber-espionage-campaign/ Comments URL: https://news.ycombinator.com/item?id=45940425 Points: 2 # Comments: 1",
+      "url": "https://captaincompliance.com/education/the-first-anthropic-ai-orchestrated-cyber-espionage-campaign/",
+      "image": "https://captaincompliance.com/wp-content/uploads/2025/11/screenshot-2025-11-15-at-2.19.38-pm.png",
+      "date": "2025-11-15T20:37:47+00:00"
     }
   ]
 }
