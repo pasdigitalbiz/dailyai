@@ -1,82 +1,124 @@
 {
-  "generated_at": "2025-11-16T06:41:08.425553+00:00",
+  "generated_at": "2025-11-17T06:45:57.910317+00:00",
   "items": [
     {
-      "title": "RealWorldProgrammer – Artificial Intelligence Is Making Us All Dumber",
-      "summary": "Article URL: https://realworldprogrammer.com/2025/11/09/artificial-intelligence-is-making-us-all-dumber/ Comments URL: https://news.ycombinator.com/item?id=45942793 Points: 1 # Comments: 0",
-      "url": "https://realworldprogrammer.com/2025/11/09/artificial-intelligence-is-making-us-all-dumber/",
-      "image": "https://realworldprogrammer.com/wp-content/uploads/2025/11/ai-is-making-us-dumber-1.png",
-      "date": "2025-11-16T04:33:07+00:00"
-    },
-    {
-      "title": "Teaching AI to see the world more like we do",
-      "summary": "Article URL: https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/ Comments URL: https://news.ycombinator.com/item?id=45942606 Points: 2 # Comments: 0",
-      "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
-      "image": "https://lh3.googleusercontent.com/pr1odwZzuCO8826Vd7ekb3yIHpt4iP9sULx5f_fa-BaTzJob88Lsr_y03zjtGV6J0q-zfPOe7Ym9JE2nyoGV7a4MbNZ3VP5IEAQCCUhzL7YZlT7KRg=w1200-h630-n-nu",
-      "date": "2025-11-16T03:49:37+00:00"
-    },
-    {
-      "title": "Yann LeCun Has Been Right About AI for 40 Years. Now He Thinks Everyone Is Wrong",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c Comments URL: https://news.ycombinator.com/item?id=45942581 Points: 16 # Comments: 2",
-      "url": "https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c",
+      "title": "AI Success Anecdotes",
+      "summary": "Article URL: http://funcall.blogspot.com/2025/11/ai-success-anecdotes.html Comments URL: https://news.ycombinator.com/item?id=45951262 Points: 1 # Comments: 0",
+      "url": "http://funcall.blogspot.com/2025/11/ai-success-anecdotes.html",
       "image": "",
-      "date": "2025-11-16T03:42:54+00:00"
+      "date": "2025-11-17T06:25:53+00:00"
     },
     {
-      "title": "Show HN: AI Tarot Reading – get instant 1/3-card or (past/now/future) readings",
-      "summary": "Description:\nI built AI Tarot Reading, a simple web tool that lets you pull a tarot card (or three cards representing past / now / future) and ask a question to get a reading. The idea is to make the tarot experience accessible, quick, and just a little mystical — whether you’re just curious, seeking insight, or playing around. Key features: Choose 1 card (for a focused answer) or 3 cards (past-, present-, future-style) Enter your question and then the cards are drawn instantly Readable interpretations accompany each card so you can get some insight immediately No app install required – runs fully in browser Why I made it:\nTarot has always fascinated me. I found a lot of existing tools either too heavy (lots of decks, lots of options) or too shallow (just random card flip but no context). I thought: what if I build something clean, minimal, fun, where someone can just ask “What’s going on with X?” and pull a reading in 30 seconds?\nAlso, I’m curious how folks will use it — for serious reflection, or just for fun. I hope it brings a moment of stirring thought, or maybe just entertainment. Tech stack / implementation notes: The card draw is random but seeded so each session is unique Interpretations are standard tarot-style meanings, adapted for readability UI is minimalist, mobile-friendly Gotchas: It’s meant for fun/reflective use only (not predictive or therapeutic advice) Open questions / for feedback: Would a “custom deck” option or more spread types (5-card, Celtic cross, etc) be valuable? How much depth do users want in the interpretation? (Short snippets vs longer explanations) Any suggestions for UX: maybe save readings, share with friends, log over time? I’m also thinking of adding a “theme” mode (love, career, creativity …) — worth it? If you’re at all interested in tarot, reflection tools, or just want a quirky bit of code/play, check it out and I’d love your feedback. Thanks! — Thanks for reading. Comments URL: https://news.ycombinator.com/item?id=45942342 Points: 1 # Comments: 0",
-      "url": "https://www.randomtarotcard.org/ai-tarot-reading",
+      "title": "Despite $80B commitment to AI, nuclear plants face decadelong timeline",
+      "summary": "Article URL: https://www.latimes.com/business/story/2025-11-13/despite-80-billion-commitment-nuclear-plants-face-decade-long-timeline-to-meet-ai-energy-needs Comments URL: https://news.ycombinator.com/item?id=45951189 Points: 4 # Comments: 0",
+      "url": "https://www.latimes.com/business/story/2025-11-13/despite-80-billion-commitment-nuclear-plants-face-decade-long-timeline-to-meet-ai-energy-needs",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/7f0a3ec/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F66%2F3e%2F3f5eddf859d961018377500bb7ea%2F1x-1.jpg",
+      "date": "2025-11-17T06:04:29+00:00"
+    },
+    {
+      "title": "AI Writes the Code. You Better Know If It's Wrong",
+      "summary": "Article URL: https://davidadamojr.com/ai-writes-the-code-you-better-know-if-its-wrong/ Comments URL: https://news.ycombinator.com/item?id=45951053 Points: 1 # Comments: 0",
+      "url": "https://davidadamojr.com/ai-writes-the-code-you-better-know-if-its-wrong/",
       "image": "",
-      "date": "2025-11-16T02:47:27+00:00"
+      "date": "2025-11-17T05:27:21+00:00"
     },
     {
-      "title": "AI Limits: How Junior Developers Can Thrive by Understanding AI's Limits",
-      "summary": "Article URL: https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior Comments URL: https://news.ycombinator.com/item?id=45941544 Points: 2 # Comments: 0",
-      "url": "https://practicalsecurity.substack.com/p/the-ai-reasoning-ceiling-how-junior",
+      "title": "Ask HN: Engineers working AI tools. Are you working more or less?",
+      "summary": "Curious whether AI tooling are making engineers more productive with more free time or more productive with even less free time. Comments URL: https://news.ycombinator.com/item?id=45950934 Points: 4 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=45950934",
       "image": "",
-      "date": "2025-11-15T23:51:41+00:00"
+      "date": "2025-11-17T04:54:37+00:00"
     },
     {
-      "title": "Icelandic in danger of dying out due to AI and English-language media –former PM",
-      "summary": "Article URL: https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm Comments URL: https://news.ycombinator.com/item?id=45941519 Points: 2 # Comments: 1",
-      "url": "https://www.theguardian.com/world/2025/nov/15/icelandic-is-in-danger-of-dying-out-because-of-ai-and-english-language-media-says-former-pm",
-      "image": "https://i.guim.co.uk/img/media/85174e4859cfa1f34bac56d0766f0edf293352d7/165_85_1018_815/master/1018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f2686a37ba082136341de04bdbe4489",
-      "date": "2025-11-15T23:47:04+00:00"
+      "title": "Fact check: Did an AI country song reach No. 1 on Billboard?",
+      "summary": "Article URL: https://mashable.com/article/ai-country-song-broken-rust-billboard-chart Comments URL: https://news.ycombinator.com/item?id=45950652 Points: 2 # Comments: 0",
+      "url": "https://mashable.com/article/ai-country-song-broken-rust-billboard-chart",
+      "image": "https://helios-i.mashable.com/imagery/articles/0227RnFawG83p72ToGHdfH2/hero-image.fill.size_1200x675.v1763145104.jpg",
+      "date": "2025-11-17T03:36:16+00:00"
     },
     {
-      "title": "AI Agent to Agent Exploitation: The Case for Sentinel AI Agents",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Do41BmoReME Comments URL: https://news.ycombinator.com/item?id=45941223 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=Do41BmoReME",
+      "title": "AI's Impact on Mental Health",
+      "summary": "Article URL: https://cacm.acm.org/news/ais-impact-on-mental-health/ Comments URL: https://news.ycombinator.com/item?id=45950604 Points: 1 # Comments: 0",
+      "url": "https://cacm.acm.org/news/ais-impact-on-mental-health/",
       "image": "",
-      "date": "2025-11-15T22:53:51+00:00"
+      "date": "2025-11-17T03:22:27+00:00"
     },
     {
-      "title": "'Godfather of AI' (Bengio) becomes first person to hit one million citations",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-03681-6 Comments URL: https://news.ycombinator.com/item?id=45941052 Points: 2 # Comments: 3",
-      "url": "https://www.nature.com/articles/d41586-025-03681-6",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03681-6/d41586-025-03681-6_51692650.jpg",
-      "date": "2025-11-15T22:20:05+00:00"
-    },
-    {
-      "title": "Cadence Debuts System Chiplet Silicon to Accelerate Physical AI",
-      "summary": "Article URL: https://www.forbes.com/sites/marcochiappetta/2025/11/13/cadence-debuts-its-first-system-chiplet-silicon-to-accelerate-physical-ai-development/ Comments URL: https://news.ycombinator.com/item?id=45940876 Points: 2 # Comments: 0",
-      "url": "https://www.forbes.com/sites/marcochiappetta/2025/11/13/cadence-debuts-its-first-system-chiplet-silicon-to-accelerate-physical-ai-development/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69163d8de2a7877d71470ae9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "date": "2025-11-15T21:52:08+00:00"
-    },
-    {
-      "title": "When AI Hype Meets AI Reality: A Reckoning in 6 Charts",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/when-ai-hype-meets-ai-reality-a-reckoning-in-6-charts-bf8043b4 Comments URL: https://news.ycombinator.com/item?id=45940554 Points: 2 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/when-ai-hype-meets-ai-reality-a-reckoning-in-6-charts-bf8043b4",
+      "title": "More than three kinds of AI products work",
+      "summary": "Article URL: https://carsho.dev/writings/article/more-than-three-kinds-of-ai-products-work Comments URL: https://news.ycombinator.com/item?id=45950502 Points: 2 # Comments: 2",
+      "url": "https://carsho.dev/writings/article/more-than-three-kinds-of-ai-products-work",
       "image": "",
-      "date": "2025-11-15T20:57:01+00:00"
+      "date": "2025-11-17T02:59:16+00:00"
     },
     {
-      "title": "Anthropic AI Cyber Espionage Attack Thwarted",
-      "summary": "Article URL: https://captaincompliance.com/education/the-first-anthropic-ai-orchestrated-cyber-espionage-campaign/ Comments URL: https://news.ycombinator.com/item?id=45940425 Points: 2 # Comments: 1",
-      "url": "https://captaincompliance.com/education/the-first-anthropic-ai-orchestrated-cyber-espionage-campaign/",
-      "image": "https://captaincompliance.com/wp-content/uploads/2025/11/screenshot-2025-11-15-at-2.19.38-pm.png",
-      "date": "2025-11-15T20:37:47+00:00"
+      "title": "Programming Languages in the Age of AI Agents",
+      "summary": "Article URL: https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=45950471 Points: 1 # Comments: 0",
+      "url": "https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/",
+      "image": "https://alexn.org/assets/media/articles/2025-math-github-copilot.png?202511161122",
+      "date": "2025-11-17T02:55:07+00:00"
+    },
+    {
+      "title": "I know you don't want them to want AI",
+      "summary": "Article URL: https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/ Comments URL: https://news.ycombinator.com/item?id=45950400 Points: 3 # Comments: 0",
+      "url": "https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/",
+      "image": "/images/red-panda.jpg",
+      "date": "2025-11-17T02:38:11+00:00"
+    },
+    {
+      "title": "AI Debt Explosion Has Traders Searching for Cover: Credit Weekly",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-15/ai-debt-explosion-has-traders-searching-for-cover-credit-weekly Comments URL: https://news.ycombinator.com/item?id=45950349 Points: 2 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-15/ai-debt-explosion-has-traders-searching-for-cover-credit-weekly",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijkXWQej7_P4/v1/1200x800.jpg",
+      "date": "2025-11-17T02:25:39+00:00"
+    },
+    {
+      "title": "Show HN: I DON'T want to upload my private files to AI",
+      "summary": "Hi HN, For the past few years, I've been obsessed with a problem: my hard drive is a treasure chest of knowledge (PDFs, docs, notes) from the last decade, and I want to use modern AI to actually use it. But every solution forces a trade-off: either convenience (upload everything to the cloud) or privacy (let my files sit dormant locally). I got tired of this \"hold your nose\" compromise. With capable SLMs (Small Language Models) exploding and on-device compute (Apple Silicon, NPUs) finally catching up, I believe privacy and intelligence is no longer a false choice. So I (and my team) built KnowledgeFocus (Apple Silicon chips only) It's an open-source (Apache-2.0) knowledge engine built with Tauri (Rust + Python + TS), and it's 100% local-first. In v0.6.4, it focuses on one thing: unlocking your local file 'treasure chest'. - Scans & Indexes: It scans your designated local folders (PDFs, .md, .txt, .docx, etc.). - Auto-tagging: Uses a local model to auto-tag files, so you can aggregate and discover them. - Local RAG: You can 'chat' with all your local files. It runs RAG 100% on-device. No data (vectors included) ever leaves your machine. Website (Download): https://github.com/huozhong-in/knowledge-focus This is just the first step of our \"Data Workbench\" vision. I have a lot more thoughts on 'local-first agents', 'data aggregation' (like pulling in your cloud AI chat logs to store them locally), and building a real 'second brain' for knowledge workers. I'll be in the comments to expand on these ideas and our future roadmap. I'm here for all the feedback—especially the critical kind. Thanks, HN. Comments URL: https://news.ycombinator.com/item?id=45950238 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45950238",
+      "image": "",
+      "date": "2025-11-17T01:58:37+00:00"
+    },
+    {
+      "title": "AI/ML for Biology and Healthcare: A Learning Path",
+      "summary": "Article URL: https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path Comments URL: https://news.ycombinator.com/item?id=45950237 Points: 1 # Comments: 0",
+      "url": "https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path",
+      "image": "https://iamtk.co/building-a-linear-regression-from-scratch-with-python-and-mathematics/cover.jpg",
+      "date": "2025-11-17T01:58:35+00:00"
+    },
+    {
+      "title": "How to turn off Copilot and protect your data from Microsoft's AI",
+      "summary": "Article URL: https://proton.me/blog/turn-off-copilot Comments URL: https://news.ycombinator.com/item?id=45950104 Points: 21 # Comments: 1",
+      "url": "https://proton.me/blog/turn-off-copilot",
+      "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1763115237%2Fwp-pme%2Fhow-to-turn-off-copilot%2Fhow-to-turn-off-copilot.png%3F_i%3DAA",
+      "date": "2025-11-17T01:30:09+00:00"
+    },
+    {
+      "title": "Show HN: Find Faceless YouTube Channels with AI",
+      "summary": "Here's my embarrassing story: I thought \"gaming highlights\" would work. Made 20 videos. Got 47 subscribers. Realized the CPM is like $2-4. Would need 500K views just to make $1K/month. Not happening. Then I tried \"motivational quotes\". Saturated. Couldn't get any traction. Then \"meditation music\". Also saturated. Plus copyright issues. I was so frustrated. I knew faceless channels could work (I saw some making money), but I had no idea HOW to find profitable ones. Manually searching YouTube was a nightmare: - Most channels show face sometimes (not truly faceless) - Can't tell if they're actually monetized - No way to know their revenue - Takes forever to find good examples I wasted 3 months guessing. Made 50+ videos across different niches. Got nowhere. Then I realized the problem: I was trying to find profitable faceless channels manually. It's impossible. There are millions of channels. How do you know which ones are actually making money? So I built a scraper to track faceless channels making $5K+/month. Started analyzing what actually works. What I found: - Personal finance reviews (budget products) - Channels making $15K-35K/mo - Tech comparisons (budget tech angle) - Channels making $12K-28K/mo - \"How it works\" explained content - Channels making $8K-20K/mo - Ranking videos (\"Top 10 X under $Y\") - Channels making $6K-18K/mo - Historical deep dives - Channels making $10K-22K/mo The pattern: All successful faceless channels pick a micro-niche. Not \"tech reviews\" but \"budget gaming laptops under $800\". I turned my research into a tool called *ApexVix* so other people don't waste months like I did. It tracks profitable faceless channels across all niches and shows you: - Real channels making $5K-30K/month - What niches they're in - Growth patterns - Upload frequency that works It's free to use: apexvix No signup needed. I just wish I had this when I started. Would've saved me 3 months of guessing. If you're struggling to find profitable faceless niches, this might help. Happy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45949988 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=45949988",
+      "image": "",
+      "date": "2025-11-17T01:03:40+00:00"
+    },
+    {
+      "title": "The AI Scientist: Towards Automated Open-Ended Scientific Discovery",
+      "summary": "Article URL: https://sakana.ai/ai-scientist/ Comments URL: https://news.ycombinator.com/item?id=45949940 Points: 1 # Comments: 1",
+      "url": "https://sakana.ai/ai-scientist/",
+      "image": "https://sakana.ai/assets/home/sakana_rect.png",
+      "date": "2025-11-17T00:53:20+00:00"
+    },
+    {
+      "title": "Sakana AI Series B Announcement",
+      "summary": "Article URL: https://sakana.ai/series-b/ Comments URL: https://news.ycombinator.com/item?id=45949884 Points: 2 # Comments: 1",
+      "url": "https://sakana.ai/series-b/",
+      "image": "https://sakana.ai/assets/home/sakana_rect.png",
+      "date": "2025-11-17T00:40:00+00:00"
+    },
+    {
+      "title": "Ask HN: LangChain for Rails, Port with AI?",
+      "summary": "I need to use an agentic framework in my rails app and debating different solutions.   How hard would it be to point AI at the Langchain repo and say “convert to a rails gem”.   I took a stab at it and haven’t tested it yet but the code looks pretty damn good.   I feel like this is a great use of AI where it’s not really thinking just converting from one language to another.   Thoughts? Comments URL: https://news.ycombinator.com/item?id=45949640 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45949640",
+      "image": "",
+      "date": "2025-11-16T23:56:58+00:00"
     }
   ]
 }
