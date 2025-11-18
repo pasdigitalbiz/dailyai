@@ -1,124 +1,110 @@
 {
-  "generated_at": "2025-11-17T06:45:57.910317+00:00",
+  "generated_at": "2025-11-18T06:44:21.905671+00:00",
   "items": [
     {
-      "title": "AI Success Anecdotes",
-      "summary": "Article URL: http://funcall.blogspot.com/2025/11/ai-success-anecdotes.html Comments URL: https://news.ycombinator.com/item?id=45951262 Points: 1 # Comments: 0",
-      "url": "http://funcall.blogspot.com/2025/11/ai-success-anecdotes.html",
+      "title": "AI algorithms is making all products look the same (2021) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=V8msfSiTWLg Comments URL: https://news.ycombinator.com/item?id=45961954 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=V8msfSiTWLg",
       "image": "",
-      "date": "2025-11-17T06:25:53+00:00"
+      "date": "2025-11-18T06:19:52+00:00"
     },
     {
-      "title": "Despite $80B commitment to AI, nuclear plants face decadelong timeline",
-      "summary": "Article URL: https://www.latimes.com/business/story/2025-11-13/despite-80-billion-commitment-nuclear-plants-face-decade-long-timeline-to-meet-ai-energy-needs Comments URL: https://news.ycombinator.com/item?id=45951189 Points: 4 # Comments: 0",
-      "url": "https://www.latimes.com/business/story/2025-11-13/despite-80-billion-commitment-nuclear-plants-face-decade-long-timeline-to-meet-ai-energy-needs",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/7f0a3ec/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F66%2F3e%2F3f5eddf859d961018377500bb7ea%2F1x-1.jpg",
-      "date": "2025-11-17T06:04:29+00:00"
-    },
-    {
-      "title": "AI Writes the Code. You Better Know If It's Wrong",
-      "summary": "Article URL: https://davidadamojr.com/ai-writes-the-code-you-better-know-if-its-wrong/ Comments URL: https://news.ycombinator.com/item?id=45951053 Points: 1 # Comments: 0",
-      "url": "https://davidadamojr.com/ai-writes-the-code-you-better-know-if-its-wrong/",
+      "title": "AI for IA: LLMs as thinking tools (2024)",
+      "summary": "Article URL: https://www.patreon.com/posts/ai-for-ia-large-118120516 Comments URL: https://news.ycombinator.com/item?id=45961952 Points: 2 # Comments: 0",
+      "url": "https://www.patreon.com/posts/ai-for-ia-large-118120516",
       "image": "",
-      "date": "2025-11-17T05:27:21+00:00"
+      "date": "2025-11-18T06:19:50+00:00"
     },
     {
-      "title": "Ask HN: Engineers working AI tools. Are you working more or less?",
-      "summary": "Curious whether AI tooling are making engineers more productive with more free time or more productive with even less free time. Comments URL: https://news.ycombinator.com/item?id=45950934 Points: 4 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=45950934",
+      "title": "Bezos returns to the trenches as co-CEO of new AI startup, Project Prometheus",
+      "summary": "Article URL: https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/ Comments URL: https://news.ycombinator.com/item?id=45961906 Points: 2 # Comments: 1",
+      "url": "https://techcrunch.com/2025/11/17/jeff-bezos-reportedly-returns-to-the-trenches-as-co-ceo-of-new-ai-startup-project-prometheus/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
+      "date": "2025-11-18T06:09:30+00:00"
+    },
+    {
+      "title": "Google boss warns 'no company is going to be immune' if AI bubble bursts",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwy7vrd8k4eo Comments URL: https://news.ycombinator.com/item?id=45961886 Points: 4 # Comments: 3",
+      "url": "https://www.bbc.com/news/articles/cwy7vrd8k4eo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/11d6/live/0de8cc60-c3db-11f0-8669-5560f5c90fbe.png",
+      "date": "2025-11-18T06:06:52+00:00"
+    },
+    {
+      "title": "Dutch students show growing enthusiasm for generative AI in education",
+      "summary": "Article URL: https://phys.org/news/2025-11-dutch-students-enthusiasm-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=45961559 Points: 4 # Comments: 5",
+      "url": "https://phys.org/news/2025-11-dutch-students-enthusiasm-generative-ai.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/student-online.jpg",
+      "date": "2025-11-18T05:00:30+00:00"
+    },
+    {
+      "title": "Beverly Hills Bar Association AI & the Law section: Looking for attorney coders",
+      "summary": "I'm the inaugural section chair and I'd love to build out our leadership team with other attorneys who code. Comments URL: https://news.ycombinator.com/item?id=45961445 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45961445",
       "image": "",
-      "date": "2025-11-17T04:54:37+00:00"
+      "date": "2025-11-18T04:35:39+00:00"
     },
     {
-      "title": "Fact check: Did an AI country song reach No. 1 on Billboard?",
-      "summary": "Article URL: https://mashable.com/article/ai-country-song-broken-rust-billboard-chart Comments URL: https://news.ycombinator.com/item?id=45950652 Points: 2 # Comments: 0",
-      "url": "https://mashable.com/article/ai-country-song-broken-rust-billboard-chart",
-      "image": "https://helios-i.mashable.com/imagery/articles/0227RnFawG83p72ToGHdfH2/hero-image.fill.size_1200x675.v1763145104.jpg",
-      "date": "2025-11-17T03:36:16+00:00"
+      "title": "Microsoft's AI Strategy Deconstructed – From Energy to Tokens",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed Comments URL: https://news.ycombinator.com/item?id=45961216 Points: 1 # Comments: 0",
+      "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed",
+      "image": "https://substackcdn.com/image/fetch/$s_!gJ74!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1833a032-d435-4776-a0f6-358a1032dffd_1525x1009.png",
+      "date": "2025-11-18T03:58:11+00:00"
     },
     {
-      "title": "AI's Impact on Mental Health",
-      "summary": "Article URL: https://cacm.acm.org/news/ais-impact-on-mental-health/ Comments URL: https://news.ycombinator.com/item?id=45950604 Points: 1 # Comments: 0",
-      "url": "https://cacm.acm.org/news/ais-impact-on-mental-health/",
+      "title": "CoreWeave, the AI industry's ticking time bomb",
+      "summary": "Article URL: https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/ Comments URL: https://news.ycombinator.com/item?id=45961150 Points: 19 # Comments: 5",
+      "url": "https://www.niemanlab.org/reading/meet-coreweave-the-ai-industrys-ticking-time-bomb/",
       "image": "",
-      "date": "2025-11-17T03:22:27+00:00"
+      "date": "2025-11-18T03:41:49+00:00"
     },
     {
-      "title": "More than three kinds of AI products work",
-      "summary": "Article URL: https://carsho.dev/writings/article/more-than-three-kinds-of-ai-products-work Comments URL: https://news.ycombinator.com/item?id=45950502 Points: 2 # Comments: 2",
-      "url": "https://carsho.dev/writings/article/more-than-three-kinds-of-ai-products-work",
+      "title": "Show HN: I built and AI phone system and wrote a step by step instructions",
+      "summary": "Hey, I built an AI voicemail and wrote about it. I'm now looking for any feedback on how to write similar articles. Can be anything - copy, styling, format. Open to suggestions :) Also if anyone decided to actually use it to build their own system - I'd love to hear about it! Comments URL: https://news.ycombinator.com/item?id=45960499 Points: 2 # Comments: 0",
+      "url": "https://www.yadalog.com/blog/ai_phone_system_voicemail",
       "image": "",
-      "date": "2025-11-17T02:59:16+00:00"
+      "date": "2025-11-18T01:50:24+00:00"
     },
     {
-      "title": "Programming Languages in the Age of AI Agents",
-      "summary": "Article URL: https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=45950471 Points: 1 # Comments: 0",
-      "url": "https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/",
-      "image": "https://alexn.org/assets/media/articles/2025-math-github-copilot.png?202511161122",
-      "date": "2025-11-17T02:55:07+00:00"
+      "title": "Physical Intelligence: A VLA That Learns From Experience",
+      "summary": "Article URL: https://www.pi.website/blog/pistar06 Comments URL: https://news.ycombinator.com/item?id=45960366 Points: 1 # Comments: 0",
+      "url": "https://www.pi.website/blog/pistar06",
+      "image": "https://physicalintelligence.company/images/pistar06-og.png",
+      "date": "2025-11-18T01:25:08+00:00"
     },
     {
-      "title": "I know you don't want them to want AI",
-      "summary": "Article URL: https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/ Comments URL: https://news.ycombinator.com/item?id=45950400 Points: 3 # Comments: 0",
-      "url": "https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/",
-      "image": "/images/red-panda.jpg",
-      "date": "2025-11-17T02:38:11+00:00"
-    },
-    {
-      "title": "AI Debt Explosion Has Traders Searching for Cover: Credit Weekly",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-15/ai-debt-explosion-has-traders-searching-for-cover-credit-weekly Comments URL: https://news.ycombinator.com/item?id=45950349 Points: 2 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-15/ai-debt-explosion-has-traders-searching-for-cover-credit-weekly",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijkXWQej7_P4/v1/1200x800.jpg",
-      "date": "2025-11-17T02:25:39+00:00"
-    },
-    {
-      "title": "Show HN: I DON'T want to upload my private files to AI",
-      "summary": "Hi HN, For the past few years, I've been obsessed with a problem: my hard drive is a treasure chest of knowledge (PDFs, docs, notes) from the last decade, and I want to use modern AI to actually use it. But every solution forces a trade-off: either convenience (upload everything to the cloud) or privacy (let my files sit dormant locally). I got tired of this \"hold your nose\" compromise. With capable SLMs (Small Language Models) exploding and on-device compute (Apple Silicon, NPUs) finally catching up, I believe privacy and intelligence is no longer a false choice. So I (and my team) built KnowledgeFocus (Apple Silicon chips only) It's an open-source (Apache-2.0) knowledge engine built with Tauri (Rust + Python + TS), and it's 100% local-first. In v0.6.4, it focuses on one thing: unlocking your local file 'treasure chest'. - Scans & Indexes: It scans your designated local folders (PDFs, .md, .txt, .docx, etc.). - Auto-tagging: Uses a local model to auto-tag files, so you can aggregate and discover them. - Local RAG: You can 'chat' with all your local files. It runs RAG 100% on-device. No data (vectors included) ever leaves your machine. Website (Download): https://github.com/huozhong-in/knowledge-focus This is just the first step of our \"Data Workbench\" vision. I have a lot more thoughts on 'local-first agents', 'data aggregation' (like pulling in your cloud AI chat logs to store them locally), and building a real 'second brain' for knowledge workers. I'll be in the comments to expand on these ideas and our future roadmap. I'm here for all the feedback—especially the critical kind. Thanks, HN. Comments URL: https://news.ycombinator.com/item?id=45950238 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45950238",
+      "title": "Convert Video to 4K Online – AI 4K Video Converter",
+      "summary": "Article URL: https://www.4kupscaler.com/tools/convert-video-to-4k Comments URL: https://news.ycombinator.com/item?id=45960333 Points: 1 # Comments: 1",
+      "url": "https://www.4kupscaler.com/tools/convert-video-to-4k",
       "image": "",
-      "date": "2025-11-17T01:58:37+00:00"
+      "date": "2025-11-18T01:20:02+00:00"
     },
     {
-      "title": "AI/ML for Biology and Healthcare: A Learning Path",
-      "summary": "Article URL: https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path Comments URL: https://news.ycombinator.com/item?id=45950237 Points: 1 # Comments: 0",
-      "url": "https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path",
-      "image": "https://iamtk.co/building-a-linear-regression-from-scratch-with-python-and-mathematics/cover.jpg",
-      "date": "2025-11-17T01:58:35+00:00"
+      "title": "Sundar Pichai Is Google's AI 'Wartime CEO' After All",
+      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2025-11-13/google-sundar-pichai-is-ai-wartime-ceo-after-all Comments URL: https://news.ycombinator.com/item?id=45960004 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/opinion/articles/2025-11-13/google-sundar-pichai-is-ai-wartime-ceo-after-all",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNjyskGfrbMk/v1/1200x800.jpg",
+      "date": "2025-11-18T00:19:57+00:00"
     },
     {
-      "title": "How to turn off Copilot and protect your data from Microsoft's AI",
-      "summary": "Article URL: https://proton.me/blog/turn-off-copilot Comments URL: https://news.ycombinator.com/item?id=45950104 Points: 21 # Comments: 1",
-      "url": "https://proton.me/blog/turn-off-copilot",
-      "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1763115237%2Fwp-pme%2Fhow-to-turn-off-copilot%2Fhow-to-turn-off-copilot.png%3F_i%3DAA",
-      "date": "2025-11-17T01:30:09+00:00"
-    },
-    {
-      "title": "Show HN: Find Faceless YouTube Channels with AI",
-      "summary": "Here's my embarrassing story: I thought \"gaming highlights\" would work. Made 20 videos. Got 47 subscribers. Realized the CPM is like $2-4. Would need 500K views just to make $1K/month. Not happening. Then I tried \"motivational quotes\". Saturated. Couldn't get any traction. Then \"meditation music\". Also saturated. Plus copyright issues. I was so frustrated. I knew faceless channels could work (I saw some making money), but I had no idea HOW to find profitable ones. Manually searching YouTube was a nightmare: - Most channels show face sometimes (not truly faceless) - Can't tell if they're actually monetized - No way to know their revenue - Takes forever to find good examples I wasted 3 months guessing. Made 50+ videos across different niches. Got nowhere. Then I realized the problem: I was trying to find profitable faceless channels manually. It's impossible. There are millions of channels. How do you know which ones are actually making money? So I built a scraper to track faceless channels making $5K+/month. Started analyzing what actually works. What I found: - Personal finance reviews (budget products) - Channels making $15K-35K/mo - Tech comparisons (budget tech angle) - Channels making $12K-28K/mo - \"How it works\" explained content - Channels making $8K-20K/mo - Ranking videos (\"Top 10 X under $Y\") - Channels making $6K-18K/mo - Historical deep dives - Channels making $10K-22K/mo The pattern: All successful faceless channels pick a micro-niche. Not \"tech reviews\" but \"budget gaming laptops under $800\". I turned my research into a tool called *ApexVix* so other people don't waste months like I did. It tracks profitable faceless channels across all niches and shows you: - Real channels making $5K-30K/month - What niches they're in - Growth patterns - Upload frequency that works It's free to use: apexvix No signup needed. I just wish I had this when I started. Would've saved me 3 months of guessing. If you're struggling to find profitable faceless niches, this might help. Happy to answer questions! Comments URL: https://news.ycombinator.com/item?id=45949988 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45949988",
+      "title": "AI and the Future of Pedagogy",
+      "summary": "Article URL: https://www.sagepub.com/explore-our-content/white-papers/2025/11/03/ai-and-the-future-of-pedagogy Comments URL: https://news.ycombinator.com/item?id=45959988 Points: 4 # Comments: 0",
+      "url": "https://www.sagepub.com/explore-our-content/white-papers/2025/11/03/ai-and-the-future-of-pedagogy",
       "image": "",
-      "date": "2025-11-17T01:03:40+00:00"
+      "date": "2025-11-18T00:17:18+00:00"
     },
     {
-      "title": "The AI Scientist: Towards Automated Open-Ended Scientific Discovery",
-      "summary": "Article URL: https://sakana.ai/ai-scientist/ Comments URL: https://news.ycombinator.com/item?id=45949940 Points: 1 # Comments: 1",
-      "url": "https://sakana.ai/ai-scientist/",
-      "image": "https://sakana.ai/assets/home/sakana_rect.png",
-      "date": "2025-11-17T00:53:20+00:00"
-    },
-    {
-      "title": "Sakana AI Series B Announcement",
-      "summary": "Article URL: https://sakana.ai/series-b/ Comments URL: https://news.ycombinator.com/item?id=45949884 Points: 2 # Comments: 1",
-      "url": "https://sakana.ai/series-b/",
-      "image": "https://sakana.ai/assets/home/sakana_rect.png",
-      "date": "2025-11-17T00:40:00+00:00"
-    },
-    {
-      "title": "Ask HN: LangChain for Rails, Port with AI?",
-      "summary": "I need to use an agentic framework in my rails app and debating different solutions.   How hard would it be to point AI at the Langchain repo and say “convert to a rails gem”.   I took a stab at it and haven’t tested it yet but the code looks pretty damn good.   I feel like this is a great use of AI where it’s not really thinking just converting from one language to another.   Thoughts? Comments URL: https://news.ycombinator.com/item?id=45949640 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=45949640",
+      "title": "My tiny workflow for an AI code review assist",
+      "summary": "I wanted to share a small workflow I find helpful that I haven't necessarily seen mentioned elsewhere. I don't always want AI assistance for a code review but it can sometimes be helpful and for those cases I use the below method. 1. Download the raw PR diff file. In GitHub you can do this very easily by adding '.diff' to the end of the pull request url and then saving the resulting page. 2. Go to your preferred AI chat/ide that accepts file attachments and has access to your codebase, I like Cursor for this. 3. Git checkout the feature branch if you aren't on it already. 4. In the AI chat attach the diff file and a message like \"help me review this pr, diff attached, we are on the feature branch\" That's it. Sometimes I make the chat message more relevant, tell it some background about the task, and ask it for specific parts of the pull I am interested in checking, but nine times out of ten I just use the very simple message as above and it works fine. It certainly spouts out some garbage, but it has also caught some very obvious and non-obvious bugs. What I like about this method as opposed to say bugbot, apart from the fact that bugbot costs extra, is it makes it easy to continue the conversation and also to look through the files/diffs in the ide. Hope this workflow is helpful to someone. Comments URL: https://news.ycombinator.com/item?id=45959846 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=45959846",
       "image": "",
-      "date": "2025-11-16T23:56:58+00:00"
+      "date": "2025-11-17T23:54:17+00:00"
+    },
+    {
+      "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
+      "summary": "Article URL: https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/ Comments URL: https://news.ycombinator.com/item?id=45959795 Points: 283 # Comments: 171",
+      "url": "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2025/11/Windows-11-AI-Agent-feature.jpg",
+      "date": "2025-11-17T23:47:27+00:00"
     }
   ]
 }
