@@ -1,110 +1,117 @@
 {
-  "generated_at": "2025-11-21T06:45:56.741575+00:00",
+  "generated_at": "2025-11-22T06:39:45.502237+00:00",
   "items": [
     {
-      "title": "The third AI Math Olympiad Progress Prize has now launched",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/115585571504291318 Comments URL: https://news.ycombinator.com/item?id=46001736 Points: 1 # Comments: 0",
-      "url": "https://mathstodon.xyz/@tao/115585571504291318",
+      "title": "Google begins showing ads in AI Mode (AI answers)",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/ Comments URL: https://news.ycombinator.com/item?id=46012525 Points: 2 # Comments: 1",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
       "image": "",
-      "date": "2025-11-21T06:18:40+00:00"
+      "date": "2025-11-22T06:09:16+00:00"
     },
     {
-      "title": "Microsoft AI CEO Puzzled by People Being Unimpressed by AI",
-      "summary": "Article URL: https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai Comments URL: https://news.ycombinator.com/item?id=46001727 Points: 1 # Comments: 0",
-      "url": "https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai",
-      "image": "https://cdn.80.lv/api/upload/meta/45433/images/691ec33857eb7/contain_1200x630.jpg",
-      "date": "2025-11-21T06:16:58+00:00"
-    },
-    {
-      "title": "AI in Practice Survey",
-      "summary": "Article URL: https://theoryvc.com/blog-posts/ai-in-practice-survey Comments URL: https://news.ycombinator.com/item?id=46001362 Points: 3 # Comments: 0",
-      "url": "https://theoryvc.com/blog-posts/ai-in-practice-survey",
-      "image": "https://cdn.prod.website-files.com/6830b8f4d130be6b15dc8f30/69165d2731221028102f9d14_Frame%20499.png",
-      "date": "2025-11-21T04:55:05+00:00"
-    },
-    {
-      "title": "Show HN: Dream Decoder AI – Jungian dream analysis with 3D visualization",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46001328 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46001328",
+      "title": "An MIT Student Awed Top Economists with His AI Study–Then It All Fell Apart",
+      "summary": "Article URL: https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243 Comments URL: https://news.ycombinator.com/item?id=46012481 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243",
       "image": "",
-      "date": "2025-11-21T04:48:56+00:00"
+      "date": "2025-11-22T05:58:03+00:00"
     },
     {
-      "title": "Muddy Waters CEO Carson Block on Nvidia, What to Short in AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=A3aFSliswho Comments URL: https://news.ycombinator.com/item?id=46001213 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=A3aFSliswho",
+      "title": "Google denies 'misleading' reports of Gmail using your emails to train AI",
+      "summary": "Article URL: https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out Comments URL: https://news.ycombinator.com/item?id=46012370 Points: 5 # Comments: 1",
+      "url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2025-11-22T05:31:35+00:00"
+    },
+    {
+      "title": "AI Exponentializes Your Tech Debt",
+      "summary": "Article URL: https://www.vincentschmalbach.com/ai-exponentializes-your-tech-debt/ Comments URL: https://news.ycombinator.com/item?id=46012183 Points: 11 # Comments: 3",
+      "url": "https://www.vincentschmalbach.com/ai-exponentializes-your-tech-debt/",
+      "image": "https://api.mightyshare.io/v1/MSeTLvoDQQXTffir/d6a48708de61174d89c14e7c2dbf4dfd955dac1c7ba9bdbe75de03393f4a8e14/jpeg?cache=true&height=630&width=1200&template=standard-1&template_values=%5B%7B%22name%22%3A%22google_font%22%2C%22google_font%22%3A%22%22%7D%2C%7B%22name%22%3A%22logo_width%22%2C%22text%22%3A%22%22%7D%2C%7B%22name%22%3A%22primary_color%22%2C%22color%22%3A%22%23222a40%22%7D%2C%7B%22name%22%3A%22logo%22%2C%22image_url%22%3A%22https%253A%252F%252Fwww.vincentschmalbach.com%252Fwp-content%252Fuploads%252F2021%252F05%252FVincent-Schmalbach-draft01.jpg%22%7D%2C%7B%22name%22%3A%22background%22%2C%22image_url%22%3A%22https%253A%252F%252Fwww.vincentschmalbach.com%252Fwp-content%252Fuploads%252F2024%252F11%252Ftechnologybackground-scaled.jpg%22%7D%2C%7B%22name%22%3A%22title%22%2C%22text%22%3A%22AI%2520Exponentializes%2520Your%2520Tech%2520Debt%22%7D%2C%7B%22name%22%3A%22description%22%2C%22text%22%3A%22%22%7D%5D&page=https%3A%2F%2Fwww.vincentschmalbach.com%2Fai-exponentializes-your-tech-debt",
+      "date": "2025-11-22T04:44:33+00:00"
+    },
+    {
+      "title": "Microsoft's head of AI doesn't understand why people don't like AI",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/ Comments URL: https://news.ycombinator.com/item?id=46012119 Points: 21 # Comments: 4",
+      "url": "https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/",
+      "image": "https://cdn.mos.cms.futurecdn.net/2pxA6yzTEP9ooyoySNGwJh-1920-80.jpg",
+      "date": "2025-11-22T04:33:34+00:00"
+    },
+    {
+      "title": "Nvidia GPUs Compare to Google's and Amazon's AI Chips [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=RBmOgQi4Fr0 Comments URL: https://news.ycombinator.com/item?id=46011811 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=RBmOgQi4Fr0",
       "image": "",
-      "date": "2025-11-21T04:23:22+00:00"
+      "date": "2025-11-22T03:28:08+00:00"
     },
     {
-      "title": "I Tested the M5 iPad Pro's Neural-Accelerated AI, and the Hype Is Real",
-      "summary": "Article URL: https://www.macstories.net/stories/ipad-pro-m5-neural-benchmarks-mlx/ Comments URL: https://news.ycombinator.com/item?id=46001197 Points: 4 # Comments: 2",
-      "url": "https://www.macstories.net/stories/ipad-pro-m5-neural-benchmarks-mlx/",
-      "image": "https://cdn.macstories.net/img_0803-1763640592596.jpeg",
-      "date": "2025-11-21T04:20:47+00:00"
+      "title": "Auditing JDBC Drivers at Scale with AI led to 85000 bounty",
+      "summary": "Article URL: https://www.hacktron.ai/blog/jdbc-audit-at-scale Comments URL: https://news.ycombinator.com/item?id=46011712 Points: 2 # Comments: 0",
+      "url": "https://www.hacktron.ai/blog/jdbc-audit-at-scale",
+      "image": "https://www.hacktron.ai/_astro/jdbc_thumbnail.DXYe466s.png",
+      "date": "2025-11-22T03:08:28+00:00"
     },
     {
-      "title": "If the AI bubble bursts, what will it mean for research?",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-03776-0 Comments URL: https://news.ycombinator.com/item?id=46001107 Points: 3 # Comments: 0",
-      "url": "https://www.nature.com/articles/d41586-025-03776-0",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03776-0/d41586-025-03776-0_51725442.jpg",
-      "date": "2025-11-21T04:03:28+00:00"
+      "title": "Show HN: I made yet another AI headshot app because the world needed one more",
+      "summary": "Look, I know. There are like 47 of these apps already. I'm aware.\nBut here's the thing - I kept trying them and they all took forever (30+ min processing), need to be a prompt master or charged $200 for 5 photos. So I built one that does it in 60 seconds from any selfie. The pitch is simple: LinkedIn, Tinder, Bumble, Hinge, your mom's WhatsApp profile pic - whatever. Upload a selfie, pick a style, done. Let people go wild with it. Tech stuff: Swift app, nano-banana, no face training required. It's style transfer that keeps you looking like yourself, just better lit. Free trial, no credit card. Built it solo from Braga, Portugal.\nHappy to talk about the tech or explain why entering the most saturated App Store category seemed like a good idea at the time. Comments URL: https://news.ycombinator.com/item?id=46011655 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/pt/app/ai-headshot-editor-glowtap/id6754992714",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/34/eb/2e34eb9c-341b-c168-3593-4054be6cbc32/Placeholder.mill/1200x630wa.jpg",
+      "date": "2025-11-22T02:56:08+00:00"
     },
     {
-      "title": "Are Animals and AI Conscious? We've Devised New Theories for How to Test This",
-      "summary": "Article URL: https://studyfinds.org/are-animals-and-ai-conscious/ Comments URL: https://news.ycombinator.com/item?id=46001085 Points: 4 # Comments: 0",
-      "url": "https://studyfinds.org/are-animals-and-ai-conscious/",
-      "image": "https://studyfinds.org/wp-content/uploads/2025/11/honeybee-scaled.jpg",
-      "date": "2025-11-21T03:59:00+00:00"
-    },
-    {
-      "title": "The Trump Administration's Order on AI Is Deeply Misguided",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2025/11/trump-administrations-order-ai-deeply-misguided Comments URL: https://news.ycombinator.com/item?id=46001007 Points: 9 # Comments: 1",
-      "url": "https://www.eff.org/deeplinks/2025/11/trump-administrations-order-ai-deeply-misguided",
-      "image": "https://www.eff.org/files/banner_library/capitol-2.jpg",
-      "date": "2025-11-21T03:42:50+00:00"
-    },
-    {
-      "title": "Just a pinch of DSG for curl-able sites and confused AI crawlers",
-      "summary": "Article URL: https://iris.coralcmd.net/curlblog/ Comments URL: https://news.ycombinator.com/item?id=46000670 Points: 1 # Comments: 0",
-      "url": "https://iris.coralcmd.net/curlblog/",
+      "title": "Is Apple Intelligence Smart? We Tested Every Feature",
+      "summary": "Article URL: https://www.steaktek.com/tech/is-apple-intelligence-actually-smart-we-tested-every-feature/ Comments URL: https://news.ycombinator.com/item?id=46011613 Points: 2 # Comments: 1",
+      "url": "https://www.steaktek.com/tech/is-apple-intelligence-actually-smart-we-tested-every-feature/",
       "image": "",
-      "date": "2025-11-21T02:45:02+00:00"
+      "date": "2025-11-22T02:48:33+00:00"
     },
     {
-      "title": "Stack Overflow is remaking itself into an AI data provider",
-      "summary": "Article URL: https://techcrunch.com/2025/11/18/stack-overflow-is-remaking-itself-into-an-ai-data-provider/ Comments URL: https://news.ycombinator.com/item?id=46000270 Points: 3 # Comments: 1",
-      "url": "https://techcrunch.com/2025/11/18/stack-overflow-is-remaking-itself-into-an-ai-data-provider/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/stack-overflow-symbol-orange.png?w=1037",
-      "date": "2025-11-21T01:44:04+00:00"
+      "title": "Nvidia, Microsoft invest $15B in AI startup Anthropic",
+      "summary": "Article URL: https://finance.yahoo.com/news/nvidia-microsoft-invest-15-billion-203500905.html Comments URL: https://news.ycombinator.com/item?id=46011101 Points: 1 # Comments: 2",
+      "url": "https://finance.yahoo.com/news/nvidia-microsoft-invest-15-billion-203500905.html",
+      "image": "https://media.zenfs.com/en/afp.com/b70b5425398f2b43c616a857258174b7",
+      "date": "2025-11-22T01:12:36+00:00"
     },
     {
-      "title": "Algebris CEO Warns of 'Significant' Correction for Big AI Stocks",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-19/algebris-ceo-warns-of-significant-correction-for-big-ai-stocks Comments URL: https://news.ycombinator.com/item?id=46000135 Points: 3 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-19/algebris-ceo-warns-of-significant-correction-for-big-ai-stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5FApJIiCTY8/v0/1200x800.jpg",
-      "date": "2025-11-21T01:20:56+00:00"
-    },
-    {
-      "title": "AI Caught in a Lie: A Corrective Conversation with Perplexity AI",
-      "summary": "Article URL: https://shastasfog.wordpress.com/2024/10/23/ai-caught-in-a-lie-a-corrective-conversation-with-perplexity-ai/ Comments URL: https://news.ycombinator.com/item?id=46000090 Points: 1 # Comments: 1",
-      "url": "https://shastasfog.wordpress.com/2024/10/23/ai-caught-in-a-lie-a-corrective-conversation-with-perplexity-ai/",
-      "image": "https://shastasfog.wordpress.com/wp-content/uploads/2024/10/image.png",
-      "date": "2025-11-21T01:14:07+00:00"
-    },
-    {
-      "title": "Ask HN: Best solution to build AI agents?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=45999648 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=45999648",
+      "title": "Definitions of AI and How Companies Use Them to Lie [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=F5ajyr5VzS0 Comments URL: https://news.ycombinator.com/item?id=46010845 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=F5ajyr5VzS0",
       "image": "",
-      "date": "2025-11-21T00:05:09+00:00"
+      "date": "2025-11-22T00:36:06+00:00"
     },
     {
-      "title": "US Stocks Slump Anew After Nvidia Results Fail to Quiet AI Angst",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-20/us-stocks-rally-as-nvidia-earnings-ease-ai-bubble-worries Comments URL: https://news.ycombinator.com/item?id=45999487 Points: 6 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-20/us-stocks-rally-as-nvidia-earnings-ease-ai-bubble-worries",
+      "title": "AI Agent Security: Why Reliability Is the Missing Defense Against Data",
+      "summary": "Article URL: https://composio.dev/blog/ai-agent-security-reliability-data-integrity Comments URL: https://news.ycombinator.com/item?id=46010603 Points: 1 # Comments: 0",
+      "url": "https://composio.dev/blog/ai-agent-security-reliability-data-integrity",
+      "image": "https://framerusercontent.com/images/B9mwF6aEIQ36mzGfLT2yYAObNI.png?width=1280&height=800",
+      "date": "2025-11-22T00:02:12+00:00"
+    },
+    {
+      "title": "Renewed push to preempt US state AI laws gains steam",
+      "summary": "Article URL: https://iapp.org/news/a/renewed-push-to-preempt-us-state-ai-laws-gains-steam Comments URL: https://news.ycombinator.com/item?id=46010539 Points: 4 # Comments: 1",
+      "url": "https://iapp.org/news/a/renewed-push-to-preempt-us-state-ai-laws-gains-steam",
       "image": "",
-      "date": "2025-11-20T23:44:37+00:00"
+      "date": "2025-11-21T23:53:41+00:00"
+    },
+    {
+      "title": "Amazon's Layoffs Are Business as Usual, Not Omens of AI Doom",
+      "summary": "Article URL: https://jacobin.com/2025/11/amazon-layoffs-artificial-intelligence-h-1b-visa Comments URL: https://news.ycombinator.com/item?id=46010510 Points: 1 # Comments: 1",
+      "url": "https://jacobin.com/2025/11/amazon-layoffs-artificial-intelligence-h-1b-visa",
+      "image": "https://images.jacobinmag.com/wp-content/uploads/2025/11/15135154/amazon.jpg",
+      "date": "2025-11-21T23:50:25+00:00"
+    },
+    {
+      "title": "The Zero-Bullshit Protocol – Hallucination-Proof AI Engineering System",
+      "summary": "Article URL: https://gracefultc.gumroad.com/l/ctgyvz Comments URL: https://news.ycombinator.com/item?id=46010494 Points: 1 # Comments: 1",
+      "url": "https://gracefultc.gumroad.com/l/ctgyvz",
+      "image": "https://public-files.gumroad.com/t9i4ij2drfxnavrasyz6fvi0drhm",
+      "date": "2025-11-21T23:48:08+00:00"
+    },
+    {
+      "title": "Building an AI-native engineering team [pdf]",
+      "summary": "Article URL: https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf Comments URL: https://news.ycombinator.com/item?id=46010412 Points: 2 # Comments: 0",
+      "url": "https://cdn.openai.com/business-guides-and-resources/building-an-ai-native-engineering-team.pdf",
+      "image": "",
+      "date": "2025-11-21T23:38:09+00:00"
     }
   ]
 }
