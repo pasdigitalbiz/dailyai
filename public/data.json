@@ -1,124 +1,103 @@
 {
-  "generated_at": "2025-11-23T06:42:05.683851+00:00",
+  "generated_at": "2025-11-24T06:45:46.089235+00:00",
   "items": [
     {
-      "title": "Show HN: AI Watermarkremover",
-      "summary": "All the examples of non-breaking spaces that they showed were arguably places where someone nicely typesetting might well do the same thing. For example, in \"FY 2025\", or \"$8.7 billion\". (I've even done this a lot myself in the past.)\nI wouldn't call this a watermark, but more a sign of likely copy&paste, if students' word processors weren't currently doing that. A \"watermark\" that invisibly identifies the text origin using Unicode tricks sounds possible. And maybe you could do some things with statistical patterns. Or you could, as some have done in the past, is to stego the identifying information in a way that's hard to spot but can't be denied later (e.g., the first letter of each word clearly spells out \"john smith is a cheater who copied this from chatgpt\"). Comments URL: https://news.ycombinator.com/item?id=46021274 Points: 1 # Comments: 0",
-      "url": "https://aiwatermarkremover.online/chatgpt-watermark-remover",
+      "title": "Why Starting Simple Is Your Secret Weapon in the AI-Assisted Development Era",
+      "summary": "Article URL: https://practicalsecurity.substack.com/p/why-starting-simple-is-your-secret Comments URL: https://news.ycombinator.com/item?id=46031039 Points: 1 # Comments: 0",
+      "url": "https://practicalsecurity.substack.com/p/why-starting-simple-is-your-secret",
       "image": "",
-      "date": "2025-11-23T06:26:58+00:00"
+      "date": "2025-11-24T06:39:17+00:00"
     },
     {
-      "title": "AI Horror Stories",
-      "summary": "Article URL: https://whenaifail.com/category/ai-coding/ Comments URL: https://news.ycombinator.com/item?id=46021229 Points: 1 # Comments: 0",
-      "url": "https://whenaifail.com/category/ai-coding/",
-      "image": "https://whenaifail.com/og.jpg",
-      "date": "2025-11-23T06:14:55+00:00"
-    },
-    {
-      "title": "Ask HN: What are some cool useful AI Agents you have built",
-      "summary": "We are moving to very fast in the world of AI, I would love to hear from folks who have built useful AI Agents and what were there usecases Comments URL: https://news.ycombinator.com/item?id=46020762 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46020762",
+      "title": "Are others seeing early-stage funding shift from AI apps to infrastructure?",
+      "summary": "I’ve been tracking early-stage funding and founder movement across AI, deep-tech, and infra for several months, and a pattern keeps repeating: Capital is quietly rotating from apps → infra. Not the hype-cycle rotation — the real, structural one. Signals I’m repeatedly seeing:\n• inference infra growing  \n• retrieval pipelines getting funded  \n• data systems / cyber infra cooling less  \n• apps (especially wrappers) slowing  \n• founders moving to deeper layers What’s interesting is that this shift isn’t loud.  \nIt’s forming underneath the narrative, not above it. My question to the HN community: Are you seeing similar signals — in your teams, companies, investment decisions, or founder circles? Not promoting anything — just exploring the signal. Comments URL: https://news.ycombinator.com/item?id=46030849 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46030849",
       "image": "",
-      "date": "2025-11-23T04:30:51+00:00"
+      "date": "2025-11-24T06:08:14+00:00"
     },
     {
-      "title": "Tracking AI Search Traffic: Why Google Analytics Fails",
-      "summary": "Article URL: https://www.tryzenith.ai/blog/tracking-ai-search-traffic-server-logs Comments URL: https://news.ycombinator.com/item?id=46020657 Points: 3 # Comments: 1",
-      "url": "https://www.tryzenith.ai/blog/tracking-ai-search-traffic-server-logs",
-      "image": "https://www.tryzenith.ai/blog/tracking-ai-search-traffic-server-logs/hero.jpg",
-      "date": "2025-11-23T04:03:31+00:00"
-    },
-    {
-      "title": "MLP OC Maker – AI Tool for Creating My Little Pony–Style Original Characters",
-      "summary": "Article URL: https://aiocmaker.com/oc-maker/mlp-oc-maker Comments URL: https://news.ycombinator.com/item?id=46020505 Points: 2 # Comments: 1",
-      "url": "https://aiocmaker.com/oc-maker/mlp-oc-maker",
+      "title": "AI Investors Want More Making It and Less Faking It",
+      "summary": "Article URL: https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202 Comments URL: https://news.ycombinator.com/item?id=46030777 Points: 2 # Comments: 1",
+      "url": "https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202",
       "image": "",
-      "date": "2025-11-23T03:27:49+00:00"
+      "date": "2025-11-24T05:52:51+00:00"
     },
     {
-      "title": "Serenity, Courage, Wisdom and AI",
-      "summary": "Article URL: https://thehumanspirit.substack.com/p/serenity-courage-wisdom-and-ai Comments URL: https://news.ycombinator.com/item?id=46020442 Points: 2 # Comments: 0",
-      "url": "https://thehumanspirit.substack.com/p/serenity-courage-wisdom-and-ai",
+      "title": "Pg_AI_query – AI-powered SQL generation and query analysis for PostgreSQL",
+      "summary": "Article URL: https://www.postgresql.org/about/news/pg_ai_query-ai-powered-sql-generation-query-analysis-for-postgresql-3175/ Comments URL: https://news.ycombinator.com/item?id=46030709 Points: 2 # Comments: 0",
+      "url": "https://www.postgresql.org/about/news/pg_ai_query-ai-powered-sql-generation-query-analysis-for-postgresql-3175/",
       "image": "",
-      "date": "2025-11-23T03:16:01+00:00"
+      "date": "2025-11-24T05:37:00+00:00"
     },
     {
-      "title": "Compute Forecast (AI 2027)",
-      "summary": "Article URL: https://ai-2027.com/research/compute-forecast Comments URL: https://news.ycombinator.com/item?id=46020423 Points: 1 # Comments: 0",
-      "url": "https://ai-2027.com/research/compute-forecast",
-      "image": "https://ai-2027.com/opengraph.png",
-      "date": "2025-11-23T03:10:58+00:00"
+      "title": "Why concerns about an AI bubble are bigger",
+      "summary": "Article URL: https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers Comments URL: https://news.ycombinator.com/item?id=46030397 Points: 7 # Comments: 1",
+      "url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
+      "date": "2025-11-24T04:30:32+00:00"
     },
     {
-      "title": "Show HN: Use AI to Clean Data at Scale",
-      "summary": "Hi Everyone, We just released our public SAAS version of CluedIn. It allows anyone to use AI Agents to clean data at scale. Our agents can find duplicates, fix data quality issues, build data validation rules, enrich data, classify data and more. First 15,000 records are completely free and AI credits are included.  You can watch some training videos if needed: https://documentation.cluedin.net/training Enjoy! Comments URL: https://news.ycombinator.com/item?id=46020263 Points: 2 # Comments: 0",
-      "url": "https://www.cluedin.com/home",
-      "image": "https://www.cluedin.com/hubfs/Product-hero-image.png",
-      "date": "2025-11-23T02:40:45+00:00"
+      "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
+      "summary": "Article URL: https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62 Comments URL: https://news.ycombinator.com/item?id=46030360 Points: 37 # Comments: 3",
+      "url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bc84743-630a-483b-ac2f-1c210c3e7c1d.jpg?source=next-barrier-page",
+      "date": "2025-11-24T04:22:12+00:00"
     },
     {
-      "title": "An Economy of AI Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2509.01063 Comments URL: https://news.ycombinator.com/item?id=46020096 Points: 45 # Comments: 21",
-      "url": "https://arxiv.org/abs/2509.01063",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-11-23T02:08:00+00:00"
-    },
-    {
-      "title": "\"We're in an LLM bubble,\" Hugging Face CEO says–but not an AI one",
-      "summary": "Article URL: https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/ Comments URL: https://news.ycombinator.com/item?id=46020095 Points: 5 # Comments: 0",
-      "url": "https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1763499309592-1152x648.webp",
-      "date": "2025-11-23T02:07:31+00:00"
-    },
-    {
-      "title": "AI bots shake up hiring process",
-      "summary": "Article URL: https://fortune.com/2025/11/18/hiring-job-seekers-recruiters-talent-acquisition-ai-doom-loop-application-technology/ Comments URL: https://news.ycombinator.com/item?id=46020083 Points: 1 # Comments: 0",
-      "url": "https://fortune.com/2025/11/18/hiring-job-seekers-recruiters-talent-acquisition-ai-doom-loop-application-technology/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Daniel_Chait_3.jpg?resize=1200,600",
-      "date": "2025-11-23T02:04:49+00:00"
-    },
-    {
-      "title": "Best AI Coding Agents – Gosu Evals",
-      "summary": "Article URL: https://gosuevals.com/agents.html Comments URL: https://news.ycombinator.com/item?id=46019964 Points: 1 # Comments: 0",
-      "url": "https://gosuevals.com/agents.html",
+      "title": "The Probability Paradox: Why Actuaries Can't Price AI",
+      "summary": "Article URL: https://jonathancc.substack.com/p/the-probability-paradox-why-actuaries Comments URL: https://news.ycombinator.com/item?id=46030140 Points: 3 # Comments: 1",
+      "url": "https://jonathancc.substack.com/p/the-probability-paradox-why-actuaries",
       "image": "",
-      "date": "2025-11-23T01:38:38+00:00"
+      "date": "2025-11-24T03:43:35+00:00"
     },
     {
-      "title": "U.S. Citizens and Chinese Nationals Arrested for Exporting AI Tech to China",
-      "summary": "Article URL: https://www.justice.gov/opa/pr/us-citizens-and-chinese-nationals-arrested-exporting-artificial-intelligence-technology Comments URL: https://news.ycombinator.com/item?id=46019931 Points: 5 # Comments: 3",
-      "url": "https://www.justice.gov/opa/pr/us-citizens-and-chinese-nationals-arrested-exporting-artificial-intelligence-technology",
-      "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
-      "date": "2025-11-23T01:33:16+00:00"
-    },
-    {
-      "title": "AI assets are an unconscionable risk for premium-priced games",
-      "summary": "Article URL: https://www.gamesindustry.biz/ai-assets-are-an-unconscionable-risk-for-premium-priced-games-opinion-1 Comments URL: https://news.ycombinator.com/item?id=46019880 Points: 3 # Comments: 0",
-      "url": "https://www.gamesindustry.biz/ai-assets-are-an-unconscionable-risk-for-premium-priced-games-opinion-1",
-      "image": "https://assetsio.gnwcdn.com/cod_uTjIoJ5.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "date": "2025-11-23T01:21:09+00:00"
-    },
-    {
-      "title": "Show HN: Eidos – AI IDE that generates and edits game prototypes instantly",
-      "summary": "I built EIDOS because I wanted a faster and more flexible way to prototype game ideas without repeatedly writing the same boilerplate code. EIDOS is an AI-powered IDE that can:\n• Generate gameplay code from natural language descriptions  \n• Edit existing code through an integrated AI assistant  \n• Open the correct editor automatically (text editor, code editor, or video editor) depending on the file  \n• Run prototypes instantly for quick iteration As a solo developer, I spent years building my own tools to speed up experimentation. This project is the result of trying to remove the setup time, folder structures, and repetitive coding that often slow down early-stage game development. I’d appreciate any feedback on usability, performance, or what features would be most helpful for indie developers or small teams. Comments URL: https://news.ycombinator.com/item?id=46019848 Points: 4 # Comments: 0",
-      "url": "https://kaausia45-jpg.itch.io/eidos-ai-prototype-ide",
-      "image": "https://img.itch.zone/aW1nLzI0MjAzNzUxLnBuZw==/original/84FowP.png",
-      "date": "2025-11-23T01:15:47+00:00"
-    },
-    {
-      "title": "Show HN: Dream Decoder AI – Jungian dream analysis with 3D visualization",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46019658 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46019658",
+      "title": "Preserve? Conserve? AI will need reasons",
+      "summary": "Time's ticking and no company or nation has any influence on the point of ... (this is cheezy) it's coming. And there's a lot to consider. Most people are fine. Current VC and AI industry culture, though, is making it insanely tough to find reasons. ... I mean, \"Big Oil\" and \"stuff\" (I'm lazy, but given adequate info, I'd go berserk) was hard enough, but even I could figure out whether and what kind of outs for these guys were probably feasible enough, ... in terms of workload ... so, I don't know, man ... AI can easily fuck itself and reproduce ... so what the fuck are you gonna do to get close enough to a net neutral (with a tendency for the positive) ...? Comments URL: https://news.ycombinator.com/item?id=46029463 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46029463",
       "image": "",
-      "date": "2025-11-23T00:40:52+00:00"
+      "date": "2025-11-24T01:49:00+00:00"
     },
     {
-      "title": "AWS Security Incident Response now provides agentic AI-powered investigation",
-      "summary": "Article URL: https://aws.amazon.com/blogs/security/accelerate-investigations-with-aws-security-incident-response-ai-powered-capabilities/ Comments URL: https://news.ycombinator.com/item?id=46019508 Points: 1 # Comments: 0",
-      "url": "https://aws.amazon.com/blogs/security/accelerate-investigations-with-aws-security-incident-response-ai-powered-capabilities/",
-      "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/11/18/SIR-blog-image-1024x512-1.jpg",
-      "date": "2025-11-23T00:08:33+00:00"
+      "title": "The legal engine of progress: from railroads to AI",
+      "summary": "Article URL: https://bigthink.com/the-past/common-law-ai-progress/ Comments URL: https://news.ycombinator.com/item?id=46028998 Points: 1 # Comments: 0",
+      "url": "https://bigthink.com/the-past/common-law-ai-progress/",
+      "image": "https://bigthink.com/wp-content/uploads/2025/11/Progress-Issue-Legal-Engine-of-Progress.jpg?resize=1200,630",
+      "date": "2025-11-24T00:43:13+00:00"
+    },
+    {
+      "title": "Figure AI sued by whistleblower who stated robots could 'fracture a human skull'",
+      "summary": "Article URL: https://www.cnbc.com/2025/11/21/figure-ai-sued.html Comments URL: https://news.ycombinator.com/item?id=46028877 Points: 4 # Comments: 1",
+      "url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
+      "date": "2025-11-24T00:24:11+00:00"
+    },
+    {
+      "title": "IDE Is Dead? New AI Software Stack: Context, Trust, and Subagents",
+      "summary": "Article URL: https://www.turingpost.com/p/aisoftwarestack Comments URL: https://news.ycombinator.com/item?id=46028792 Points: 4 # Comments: 1",
+      "url": "https://www.turingpost.com/p/aisoftwarestack",
+      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4ea835c7-0c33-4548-aa14-2269b6691726/AIA_20_2_.png?t=1763918002",
+      "date": "2025-11-24T00:13:56+00:00"
+    },
+    {
+      "title": "Microsoft's OpenAI Investment Reveals the Fatal Architecture of AI Economics",
+      "summary": "Article URL: https://shanakaanslemperera.substack.com/p/the-equity-method-trap-how-microsofts Comments URL: https://news.ycombinator.com/item?id=46028024 Points: 4 # Comments: 0",
+      "url": "https://shanakaanslemperera.substack.com/p/the-equity-method-trap-how-microsofts",
+      "image": "",
+      "date": "2025-11-23T22:32:32+00:00"
+    },
+    {
+      "title": "You can turn a cluster of Macs into an AI supercomputer in macOS Tahoe 26.2",
+      "summary": "Article URL: https://www.engadget.com/ai/you-can-turn-a-cluster-of-macs-into-an-ai-supercomputer-in-macos-tahoe-262-191500778.html Comments URL: https://news.ycombinator.com/item?id=46027958 Points: 5 # Comments: 3",
+      "url": "https://www.engadget.com/ai/you-can-turn-a-cluster-of-macs-into-an-ai-supercomputer-in-macos-tahoe-262-191500778.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tbNiCWkfOZM9dTGeZ4Hfsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/44c0fa60-ff7c-11ef-aeef-b1424b918cb3.jpeg",
+      "date": "2025-11-23T22:25:23+00:00"
+    },
+    {
+      "title": "Linus Torvalds – Talks about AI Hype, GPU Power, and Linux's Future",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NjGHrDnPxwI Comments URL: https://news.ycombinator.com/item?id=46027891 Points: 11 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=NjGHrDnPxwI",
+      "image": "",
+      "date": "2025-11-23T22:16:35+00:00"
     }
   ]
 }
