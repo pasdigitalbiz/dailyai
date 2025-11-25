@@ -1,103 +1,110 @@
 {
-  "generated_at": "2025-11-24T06:45:46.089235+00:00",
+  "generated_at": "2025-11-25T06:47:22.541335+00:00",
   "items": [
     {
-      "title": "Why Starting Simple Is Your Secret Weapon in the AI-Assisted Development Era",
-      "summary": "Article URL: https://practicalsecurity.substack.com/p/why-starting-simple-is-your-secret Comments URL: https://news.ycombinator.com/item?id=46031039 Points: 1 # Comments: 0",
-      "url": "https://practicalsecurity.substack.com/p/why-starting-simple-is-your-secret",
+      "title": "Instructions for generating AI porn posted on .gov website",
+      "summary": "Article URL: https://bakersfieldnow.com/news/local/nude-ai-deepfake-instructions-posted-on-local-air-quality-district-website Comments URL: https://news.ycombinator.com/item?id=46042886 Points: 2 # Comments: 0",
+      "url": "https://bakersfieldnow.com/news/local/nude-ai-deepfake-instructions-posted-on-local-air-quality-district-website",
+      "image": "https://bakersfieldnow.com/resources/media/b4900e2f-7356-47df-9911-7ee8100ef600-PATTERSON_MOJAVEAIRDEEPFAKE_0010_frame_219.jpeg",
+      "date": "2025-11-25T06:25:28+00:00"
+    },
+    {
+      "title": "People as Intelligence vs. People as Biology. Thoughts?",
+      "summary": "I have been thinking about this new research direction for AI all year. I believe it is an error to even call the field AI rather than just simply intelligence or machine intelligence, as the framing largely influences how people approach this. We have literally been transferring different aspects of human intelligence to the machines and we are probably very close to being able to transfer everything now. Then we could build entities that simultaneously capture the best parts of humanity while doing away with the saddest ones. What about intelligent, ethical and 'almost' immortal machines that can survive anywhere? Comments URL: https://news.ycombinator.com/item?id=46042758 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46042758",
       "image": "",
-      "date": "2025-11-24T06:39:17+00:00"
+      "date": "2025-11-25T05:59:24+00:00"
     },
     {
-      "title": "Are others seeing early-stage funding shift from AI apps to infrastructure?",
-      "summary": "I’ve been tracking early-stage funding and founder movement across AI, deep-tech, and infra for several months, and a pattern keeps repeating: Capital is quietly rotating from apps → infra. Not the hype-cycle rotation — the real, structural one. Signals I’m repeatedly seeing:\n• inference infra growing  \n• retrieval pipelines getting funded  \n• data systems / cyber infra cooling less  \n• apps (especially wrappers) slowing  \n• founders moving to deeper layers What’s interesting is that this shift isn’t loud.  \nIt’s forming underneath the narrative, not above it. My question to the HN community: Are you seeing similar signals — in your teams, companies, investment decisions, or founder circles? Not promoting anything — just exploring the signal. Comments URL: https://news.ycombinator.com/item?id=46030849 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46030849",
+      "title": "Jeff Dean on Important AI Trends [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=AnTw_t21ayE Comments URL: https://news.ycombinator.com/item?id=46042626 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=AnTw_t21ayE",
       "image": "",
-      "date": "2025-11-24T06:08:14+00:00"
+      "date": "2025-11-25T05:28:33+00:00"
     },
     {
-      "title": "AI Investors Want More Making It and Less Faking It",
-      "summary": "Article URL: https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202 Comments URL: https://news.ycombinator.com/item?id=46030777 Points: 2 # Comments: 1",
-      "url": "https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202",
+      "title": "Google Further Encroaches on Nvidia's Turf with New AI Chip Push",
+      "summary": "Article URL: https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push Comments URL: https://news.ycombinator.com/item?id=46042400 Points: 2 # Comments: 3",
+      "url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
       "image": "",
-      "date": "2025-11-24T05:52:51+00:00"
+      "date": "2025-11-25T04:42:05+00:00"
     },
     {
-      "title": "Pg_AI_query – AI-powered SQL generation and query analysis for PostgreSQL",
-      "summary": "Article URL: https://www.postgresql.org/about/news/pg_ai_query-ai-powered-sql-generation-query-analysis-for-postgresql-3175/ Comments URL: https://news.ycombinator.com/item?id=46030709 Points: 2 # Comments: 0",
-      "url": "https://www.postgresql.org/about/news/pg_ai_query-ai-powered-sql-generation-query-analysis-for-postgresql-3175/",
+      "title": "Is OpenAI putting the 'AI' in too big to fail?",
+      "summary": "Article URL: https://www.morningbrew.com/stories/2025/11/08/is-openai-putting-the-ai-in-too-big-to-fail Comments URL: https://news.ycombinator.com/item?id=46042295 Points: 1 # Comments: 0",
+      "url": "https://www.morningbrew.com/stories/2025/11/08/is-openai-putting-the-ai-in-too-big-to-fail",
+      "image": "https://morningbrew.com/cdn-cgi/image/width=1200,height=630,quality=70,format=auto/https://storage.morningbrew.com/image/2025-11-07/image-6dffc57da647fe92b93ac422281070dff74c71af-6250x4167-jpg/openaiillo.jpg",
+      "date": "2025-11-25T04:18:46+00:00"
+    },
+    {
+      "title": "Bernie sanders vs. Hinton: Worst fears and best promises of AI",
+      "summary": "Article URL: https://youtu.be/EK7uWh3TP3o Comments URL: https://news.ycombinator.com/item?id=46042286 Points: 1 # Comments: 0",
+      "url": "https://youtu.be/EK7uWh3TP3o",
       "image": "",
-      "date": "2025-11-24T05:37:00+00:00"
+      "date": "2025-11-25T04:16:24+00:00"
     },
     {
-      "title": "Why concerns about an AI bubble are bigger",
-      "summary": "Article URL: https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers Comments URL: https://news.ycombinator.com/item?id=46030397 Points: 7 # Comments: 1",
-      "url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "date": "2025-11-24T04:30:32+00:00"
+      "title": "Nvidia has acquired Canadian AI startup CentML",
+      "summary": "Article URL: https://thelogic.co/news/exclusive/centml-nvidia-acquisition-canada-ai/ Comments URL: https://news.ycombinator.com/item?id=46042238 Points: 1 # Comments: 1",
+      "url": "https://thelogic.co/news/exclusive/centml-nvidia-acquisition-canada-ai/",
+      "image": "https://thelogic.co/wp-content/uploads/2025/06/Akbar_Nurlybayev-Toronto-June_2024-P_Christopher_Katsarov_Luna-1920x1280-1.jpg",
+      "date": "2025-11-25T04:02:51+00:00"
     },
     {
-      "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
-      "summary": "Article URL: https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62 Comments URL: https://news.ycombinator.com/item?id=46030360 Points: 37 # Comments: 3",
-      "url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bc84743-630a-483b-ac2f-1c210c3e7c1d.jpg?source=next-barrier-page",
-      "date": "2025-11-24T04:22:12+00:00"
+      "title": "Is AI Eating the World?",
+      "summary": "Article URL: https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/ Comments URL: https://news.ycombinator.com/item?id=46042065 Points: 3 # Comments: 1",
+      "url": "https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/",
+      "image": "https://static.philippdubach.com/ograph/ograph-eatingtheworld.jpg",
+      "date": "2025-11-25T03:31:40+00:00"
     },
     {
-      "title": "The Probability Paradox: Why Actuaries Can't Price AI",
-      "summary": "Article URL: https://jonathancc.substack.com/p/the-probability-paradox-why-actuaries Comments URL: https://news.ycombinator.com/item?id=46030140 Points: 3 # Comments: 1",
-      "url": "https://jonathancc.substack.com/p/the-probability-paradox-why-actuaries",
+      "title": "OpenAI's AI gadget now has a prototype",
+      "summary": "Article URL: https://sherwood.news/tech/altman-openais-ai-gadget-now-has-a-prototype/ Comments URL: https://news.ycombinator.com/item?id=46041934 Points: 1 # Comments: 0",
+      "url": "https://sherwood.news/tech/altman-openais-ai-gadget-now-has-a-prototype/",
+      "image": "https://sherwoodnews.imgix.net/Screenshot%202025-11-24%20at%2012.03.56%E2%80%AFPM.png?w=1600&auto=compress%2Cformat&cs=srgb",
+      "date": "2025-11-25T03:03:22+00:00"
+    },
+    {
+      "title": "The AI Invasion of Knitting and Crochet",
+      "summary": "Article URL: https://www.plagiarismtoday.com/2025/11/24/the-ai-invasion-of-knitting-and-crochet/ Comments URL: https://news.ycombinator.com/item?id=46041854 Points: 4 # Comments: 0",
+      "url": "https://www.plagiarismtoday.com/2025/11/24/the-ai-invasion-of-knitting-and-crochet/",
+      "image": "https://www.plagiarismtoday.com/wp-content/uploads/2025/11/knittingcrochet-675-sized.png",
+      "date": "2025-11-25T02:48:03+00:00"
+    },
+    {
+      "title": "The US is on a dangerous course without AI regulation",
+      "summary": "Article URL: https://proton.me/blog/ai-regulation-us Comments URL: https://news.ycombinator.com/item?id=46041655 Points: 6 # Comments: 0",
+      "url": "https://proton.me/blog/ai-regulation-us",
+      "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1763998561%2Fwp-pme%2Ffuture-ai-regulation-us%2Ffuture-ai-regulation-us.png%3F_i%3DAA",
+      "date": "2025-11-25T02:10:08+00:00"
+    },
+    {
+      "title": "Ask HN: Does anyone just listen to their own AI music now?",
+      "summary": "This I did not predict to happen so quick with myself … Comments URL: https://news.ycombinator.com/item?id=46041572 Points: 4 # Comments: 5",
+      "url": "https://news.ycombinator.com/item?id=46041572",
       "image": "",
-      "date": "2025-11-24T03:43:35+00:00"
+      "date": "2025-11-25T01:56:17+00:00"
     },
     {
-      "title": "Preserve? Conserve? AI will need reasons",
-      "summary": "Time's ticking and no company or nation has any influence on the point of ... (this is cheezy) it's coming. And there's a lot to consider. Most people are fine. Current VC and AI industry culture, though, is making it insanely tough to find reasons. ... I mean, \"Big Oil\" and \"stuff\" (I'm lazy, but given adequate info, I'd go berserk) was hard enough, but even I could figure out whether and what kind of outs for these guys were probably feasible enough, ... in terms of workload ... so, I don't know, man ... AI can easily fuck itself and reproduce ... so what the fuck are you gonna do to get close enough to a net neutral (with a tendency for the positive) ...? Comments URL: https://news.ycombinator.com/item?id=46029463 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46029463",
+      "title": "Lenovo Stockpiling PC Memory Due to 'Unprecedented' AI Squeeze",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-11-24/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze Comments URL: https://news.ycombinator.com/item?id=46041505 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-24/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze",
       "image": "",
-      "date": "2025-11-24T01:49:00+00:00"
+      "date": "2025-11-25T01:47:52+00:00"
     },
     {
-      "title": "The legal engine of progress: from railroads to AI",
-      "summary": "Article URL: https://bigthink.com/the-past/common-law-ai-progress/ Comments URL: https://news.ycombinator.com/item?id=46028998 Points: 1 # Comments: 0",
-      "url": "https://bigthink.com/the-past/common-law-ai-progress/",
-      "image": "https://bigthink.com/wp-content/uploads/2025/11/Progress-Issue-Legal-Engine-of-Progress.jpg?resize=1200,630",
-      "date": "2025-11-24T00:43:13+00:00"
+      "title": "A mathematical ceiling limits generative AI to amateur-level creativity",
+      "summary": "Article URL: https://www.psypost.org/a-mathematical-ceiling-limits-generative-ai-to-amateur-level-creativity/ Comments URL: https://news.ycombinator.com/item?id=46041351 Points: 10 # Comments: 2",
+      "url": "https://www.psypost.org/a-mathematical-ceiling-limits-generative-ai-to-amateur-level-creativity/",
+      "image": "https://www.psypost.org/wp-content/uploads/2025/11/artificial-intelligence-1.jpg",
+      "date": "2025-11-25T01:23:21+00:00"
     },
     {
-      "title": "Figure AI sued by whistleblower who stated robots could 'fracture a human skull'",
-      "summary": "Article URL: https://www.cnbc.com/2025/11/21/figure-ai-sued.html Comments URL: https://news.ycombinator.com/item?id=46028877 Points: 4 # Comments: 1",
-      "url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
-      "date": "2025-11-24T00:24:11+00:00"
-    },
-    {
-      "title": "IDE Is Dead? New AI Software Stack: Context, Trust, and Subagents",
-      "summary": "Article URL: https://www.turingpost.com/p/aisoftwarestack Comments URL: https://news.ycombinator.com/item?id=46028792 Points: 4 # Comments: 1",
-      "url": "https://www.turingpost.com/p/aisoftwarestack",
-      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4ea835c7-0c33-4548-aa14-2269b6691726/AIA_20_2_.png?t=1763918002",
-      "date": "2025-11-24T00:13:56+00:00"
-    },
-    {
-      "title": "Microsoft's OpenAI Investment Reveals the Fatal Architecture of AI Economics",
-      "summary": "Article URL: https://shanakaanslemperera.substack.com/p/the-equity-method-trap-how-microsofts Comments URL: https://news.ycombinator.com/item?id=46028024 Points: 4 # Comments: 0",
-      "url": "https://shanakaanslemperera.substack.com/p/the-equity-method-trap-how-microsofts",
-      "image": "",
-      "date": "2025-11-23T22:32:32+00:00"
-    },
-    {
-      "title": "You can turn a cluster of Macs into an AI supercomputer in macOS Tahoe 26.2",
-      "summary": "Article URL: https://www.engadget.com/ai/you-can-turn-a-cluster-of-macs-into-an-ai-supercomputer-in-macos-tahoe-262-191500778.html Comments URL: https://news.ycombinator.com/item?id=46027958 Points: 5 # Comments: 3",
-      "url": "https://www.engadget.com/ai/you-can-turn-a-cluster-of-macs-into-an-ai-supercomputer-in-macos-tahoe-262-191500778.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/tbNiCWkfOZM9dTGeZ4Hfsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/44c0fa60-ff7c-11ef-aeef-b1424b918cb3.jpeg",
-      "date": "2025-11-23T22:25:23+00:00"
-    },
-    {
-      "title": "Linus Torvalds – Talks about AI Hype, GPU Power, and Linux's Future",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NjGHrDnPxwI Comments URL: https://news.ycombinator.com/item?id=46027891 Points: 11 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=NjGHrDnPxwI",
-      "image": "",
-      "date": "2025-11-23T22:16:35+00:00"
+      "title": "Jony Ive and Sam Altman say they have an AI hardware prototype",
+      "summary": "Article URL: https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman Comments URL: https://news.ycombinator.com/item?id=46041285 Points: 2 # Comments: 2",
+      "url": "https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/altman-ive-emerson-collective-interview-cropped.jpg?quality=90&strip=all&crop=0%2C3.4258431589551%2C100%2C93.14831368209&w=1200",
+      "date": "2025-11-25T01:09:46+00:00"
     }
   ]
 }
