@@ -1,110 +1,117 @@
 {
-  "generated_at": "2025-11-26T06:46:33.504832+00:00",
+  "generated_at": "2025-11-27T06:47:05.271451+00:00",
   "items": [
     {
-      "title": "Create your own AI version and scale yourself",
-      "summary": "Article URL: https://www.myclone.is/blog/ai-digital-personas-revolutionizing-services/ Comments URL: https://news.ycombinator.com/item?id=46054676 Points: 1 # Comments: 0",
-      "url": "https://www.myclone.is/blog/ai-digital-personas-revolutionizing-services/",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60",
-      "date": "2025-11-26T06:17:22+00:00"
+      "title": "Elevating Intelligence via Efficient Model and Tool Orchestration",
+      "summary": "Article URL: https://arxiv.org/abs/2511.21689 Comments URL: https://news.ycombinator.com/item?id=46066381 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2511.21689",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-11-27T06:36:16+00:00"
     },
     {
-      "title": "The Protocol Labs Vision for Neurotech and Neuro AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=LKYSzA9scns Comments URL: https://news.ycombinator.com/item?id=46054657 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=LKYSzA9scns",
+      "title": "Artificial 'nose' tells people when certain smells are present",
+      "summary": "Article URL: https://www.science.org/content/article/artificial-nose-tells-people-when-certain-smells-are-present Comments URL: https://news.ycombinator.com/item?id=46066337 Points: 3 # Comments: 0",
+      "url": "https://www.science.org/content/article/artificial-nose-tells-people-when-certain-smells-are-present",
       "image": "",
-      "date": "2025-11-26T06:13:03+00:00"
+      "date": "2025-11-27T06:27:12+00:00"
     },
     {
-      "title": "Show HN: RankLens – Track your brand's visibility in AI answers reliably",
-      "summary": "We built RankLens because we couldn’t answer a simple question for our own clients: “How often do AI assistants actually recommend your brand vs. competitors?” Instead of ad-hoc “SEO prompts”, RankLens uses structured entity-conditioned probes. Each probe is defined by a brand/site entity + intent, and we resample across many runs to reduce prompt noise and random LLM variance. For each probe we track:\n– Explicit mention of your brand/site (Brand Match)\n– Precision of when you’re recommended as the answer (Brand Target)\n– How often competitors get recommended instead (Brand Appearance + share of voice)-  \n- Likelihood of being recommended by the AI. (Brand Discovery)\n– A prominence / “confidence” score for how strongly the LLM backs that recommendation We combine these into a visibility index so agencies and brands can:\n– See AI visibility trends over time\n– Compare engines (e.g., ChatGPT-style assistants vs. others)\n– Spot when they’re losing AI “mindshare” to specific competitors in regions/locale Method & code\n– We open-sourced the entity/probe framework as RankLens Entities (code + configs): https://github.com/jim-seovendor/entity-probe – We also wrote an in-depth study, “Entity-Conditioned Probing with Resampling: Validity and Reliability for Measuring LLM Brand/Site Recommendations”: https://zenodo.org/records/17489350 I’d love HN feedback on:\n– Weak spots / blind spots in the entity-conditioned probing methodology\n– Better baselines or evaluation strategies you’d use to test validity & reliability\n– Any ways this could be gamed in practice (e.g., by changing site content or prompts) that we haven’t considered Happy to go into implementation details (sampling design, resampling, scoring, engine differences, etc.) in the comments. Comments URL: https://news.ycombinator.com/item?id=46054337 Points: 1 # Comments: 0",
-      "url": "https://seovendor.co/ranklens-llm-rankings/",
-      "image": "https://seovendor.co/wp-content/uploads/2025/11/ai-brand-visibility-ranklens-businesses.jpg",
-      "date": "2025-11-26T05:00:34+00:00"
-    },
-    {
-      "title": "Threatening AI models has no meaningful effect on performance",
-      "summary": "Article URL: https://gail.wharton.upenn.edu/research-and-insights/techreport-threaten-or-tip/ Comments URL: https://news.ycombinator.com/item?id=46054314 Points: 4 # Comments: 0",
-      "url": "https://gail.wharton.upenn.edu/research-and-insights/techreport-threaten-or-tip/",
-      "image": "https://gail.wharton.upenn.edu/wp-content/plugins/martech-chupacabra/includes/images/social.png",
-      "date": "2025-11-26T04:54:05+00:00"
-    },
-    {
-      "title": "HP to sack up to 6000 staff under AI adoption plan, fresh round of cost-cutting",
-      "summary": "Article URL: https://www.theregister.com/2025/11/26/hp_inc_q4_2025/ Comments URL: https://news.ycombinator.com/item?id=46054057 Points: 7 # Comments: 1",
-      "url": "https://www.theregister.com/2025/11/26/hp_inc_q4_2025/",
-      "image": "https://regmedia.co.uk/2020/10/26/fired.jpg",
-      "date": "2025-11-26T04:00:42+00:00"
-    },
-    {
-      "title": "Trump signs executive order launching Genesis Mission AI project",
-      "summary": "Article URL: https://www.nbcnews.com/video/trump-signs-executive-order-launching-genesis-mission-ai-project-253034053537 Comments URL: https://news.ycombinator.com/item?id=46054030 Points: 3 # Comments: 0",
-      "url": "https://www.nbcnews.com/video/trump-signs-executive-order-launching-genesis-mission-ai-project-253034053537",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2025_11/1764127041670_now_staytuned_genesis_mission_ai_251125_1920x1080-gcifjp.jpg",
-      "date": "2025-11-26T03:54:36+00:00"
-    },
-    {
-      "title": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
-      "summary": "Article URL: https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html Comments URL: https://news.ycombinator.com/item?id=46053932 Points: 2 # Comments: 1",
-      "url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108228210-1763560872768-2025-11-04T124305Z_639437890_RC2MPHA3CMAC_RTRMADP_3_GERMANY-TELEKOM-AI.JPG?v=1763585187&w=1920&h=1080",
-      "date": "2025-11-26T03:34:55+00:00"
-    },
-    {
-      "title": "Fei-Fei Li and Justin Johnson, World Labs: Spatial Intelligence and World Models [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=60iW8FZ7MJU Comments URL: https://news.ycombinator.com/item?id=46053649 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=60iW8FZ7MJU",
+      "title": "Ask HN: What's your favorite open-source AI model, and what do you use it for?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46066145 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46066145",
       "image": "",
-      "date": "2025-11-26T02:43:00+00:00"
+      "date": "2025-11-27T05:55:11+00:00"
     },
     {
-      "title": "Markets are getting more concerned about Oracle's AI data center debt",
-      "summary": "Article URL: https://sherwood.news/markets/markets-are-getting-more-concerned-about-oracles-ai-data-center-debt/ Comments URL: https://news.ycombinator.com/item?id=46053410 Points: 4 # Comments: 0",
-      "url": "https://sherwood.news/markets/markets-are-getting-more-concerned-about-oracles-ai-data-center-debt/",
-      "image": "https://sherwoodnews.imgix.net/GettyImages-2234722663.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
-      "date": "2025-11-26T02:09:38+00:00"
-    },
-    {
-      "title": "Unix man pages: AI-friendly documentation since 1971",
-      "summary": "Article URL: https://www.nutrient.io/blog/unix-man-pages-ai-friendly-documentation/ Comments URL: https://news.ycombinator.com/item?id=46052410 Points: 3 # Comments: 0",
-      "url": "https://www.nutrient.io/blog/unix-man-pages-ai-friendly-documentation/",
-      "image": "https://www.nutrient.io/_astro/article-header.uep6p8he_Z1oVdme.webp",
-      "date": "2025-11-26T00:01:33+00:00"
-    },
-    {
-      "title": "SF home invasion targets crypto of Physical Intelligence co-founder Lachy Groom",
-      "summary": "Article URL: https://nypost.com/2025/11/25/us-news/sam-altmans-ex-boyfriends-san-francisco-home-targeted-in-crypto-heist/ Comments URL: https://news.ycombinator.com/item?id=46052370 Points: 6 # Comments: 2",
-      "url": "https://nypost.com/2025/11/25/us-news/sam-altmans-ex-boyfriends-san-francisco-home-targeted-in-crypto-heist/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/11/chatgpt-ex-boyfriend-bitcoin-theft-lachy-groom-comp-3-1.jpg?quality=75&strip=all&w=1200",
-      "date": "2025-11-25T23:57:16+00:00"
-    },
-    {
-      "title": "How to Sound Like an Expert in Any AI Bubble Debate",
-      "summary": "Article URL: https://www.derekthompson.org/p/how-to-sound-like-an-expert-in-any Comments URL: https://news.ycombinator.com/item?id=46051631 Points: 3 # Comments: 0",
-      "url": "https://www.derekthompson.org/p/how-to-sound-like-an-expert-in-any",
-      "image": "https://images.unsplash.com/photo-1496942299866-9e7ab403e614?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxOHx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHx8fDE3NjQwMTk1ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "date": "2025-11-25T22:32:38+00:00"
-    },
-    {
-      "title": "Ask HN: When an AI holds your company hostage, what will be the best defense?",
-      "summary": "Pure hypothetical, but the clearly possible case when an AI targets and infects a company, and it does not have a real person holding the strings. What would be the best line of defence or best way to prepare? Do we need firewalls for our own AI agents such that they are not infected and taken over? Comments URL: https://news.ycombinator.com/item?id=46051620 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46051620",
+      "title": "The Temporal Uncanny Valley: On the Nature of AI Work",
+      "summary": "Article URL: https://substack.com/inbox/post/180071478 Comments URL: https://news.ycombinator.com/item?id=46065989 Points: 2 # Comments: 1",
+      "url": "https://substack.com/inbox/post/180071478",
       "image": "",
-      "date": "2025-11-25T22:31:41+00:00"
+      "date": "2025-11-27T05:26:53+00:00"
     },
     {
-      "title": "Warner Music Settles Legal War with Suno in Landmark AI Partnership",
-      "summary": "Article URL: https://www.hollywoodreporter.com/music/music-industry-news/warner-music-group-settles-ai-infringement-suit-with-suno-1236435516/ Comments URL: https://news.ycombinator.com/item?id=46051479 Points: 1 # Comments: 2",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/warner-music-group-settles-ai-infringement-suit-with-suno-1236435516/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/GettyImages-2150878018-1.jpg?crop=0px%2C0px%2C5879px%2C3290px&resize=1440%2C810",
-      "date": "2025-11-25T22:16:46+00:00"
+      "title": "Jony Ive and Sam Altman say they have an AI hardware prototype",
+      "summary": "Article URL: https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman Comments URL: https://news.ycombinator.com/item?id=46065911 Points: 2 # Comments: 1",
+      "url": "https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/altman-ive-emerson-collective-interview-cropped.jpg?quality=90&strip=all&crop=0%2C3.4258431589551%2C100%2C93.14831368209&w=1200",
+      "date": "2025-11-27T05:13:43+00:00"
     },
     {
-      "title": "Playing Safe with AI",
-      "summary": "Article URL: https://declanbright.com/software/playing-safe-with-ai/ Comments URL: https://news.ycombinator.com/item?id=46050986 Points: 1 # Comments: 1",
-      "url": "https://declanbright.com/software/playing-safe-with-ai/",
+      "title": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
+      "summary": "Article URL: https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/ Comments URL: https://news.ycombinator.com/item?id=46065868 Points: 2 # Comments: 0",
+      "url": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
+      "image": "https://media.wired.com/photos/68efda5ae7f63deb0177e5c2/191:100/w_1280,c_limit/101525_AI-Lab-AI-Scaling-Obsession-5.jpg",
+      "date": "2025-11-27T05:05:25+00:00"
+    },
+    {
+      "title": "The Racist, AI-Generated Future of Entertainment",
+      "summary": "Article URL: https://www.theatlantic.com/culture/2025/11/will-stancil-show-ai/685058/ Comments URL: https://news.ycombinator.com/item?id=46065230 Points: 7 # Comments: 6",
+      "url": "https://www.theatlantic.com/culture/2025/11/will-stancil-show-ai/685058/",
+      "image": "https://cdn.theatlantic.com/thumbor/zj_YjPwrKhbIMujqS-ES3QrYpa8=/0x57:2689x1458/1200x625/media/img/mt/2025/11/2025_11_25_Will_Stancil_Show/original.jpg",
+      "date": "2025-11-27T03:24:49+00:00"
+    },
+    {
+      "title": "Tim Sweeney thinks Steam should stop labelling games as being made with AI",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/ Comments URL: https://news.ycombinator.com/item?id=46065211 Points: 3 # Comments: 3",
+      "url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
+      "image": "https://cdn.mos.cms.futurecdn.net/h3f5g59boSWvw7EAoqRYRk-2560-80.jpg",
+      "date": "2025-11-27T03:20:57+00:00"
+    },
+    {
+      "title": "The Iceberg Index: Measuring Workforce Exposure Across the AI Economy",
+      "summary": "Article URL: https://arxiv.org/abs/2510.25137 Comments URL: https://news.ycombinator.com/item?id=46064544 Points: 1 # Comments: 1",
+      "url": "https://arxiv.org/abs/2510.25137",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-11-27T01:45:43+00:00"
+    },
+    {
+      "title": "Generative AI in Software Engineering Must Be Human-Centered [pdf]",
+      "summary": "Article URL: https://www.cs.ubc.ca/~rtholmes/papers/jss_2024_russo.pdf Comments URL: https://news.ycombinator.com/item?id=46064339 Points: 5 # Comments: 1",
+      "url": "https://www.cs.ubc.ca/~rtholmes/papers/jss_2024_russo.pdf",
       "image": "",
-      "date": "2025-11-25T21:25:27+00:00"
+      "date": "2025-11-27T01:14:50+00:00"
+    },
+    {
+      "title": "OpenAI Loses Key Discovery Battle as It Cedes Ground to Authors in AI Lawsuits",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/openai-loses-key-discovery-battle-why-deleted-library-of-pirated-books-1236436363/ Comments URL: https://news.ycombinator.com/item?id=46064326 Points: 4 # Comments: 0",
+      "url": "https://www.hollywoodreporter.com/business/business-news/openai-loses-key-discovery-battle-why-deleted-library-of-pirated-books-1236436363/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2225608132.jpg?w=1440&h=810&crop=1",
+      "date": "2025-11-27T01:11:41+00:00"
+    },
+    {
+      "title": "Warning: The Fed Can't Rescue AI",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai Comments URL: https://news.ycombinator.com/item?id=46064258 Points: 5 # Comments: 1",
+      "url": "https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai",
+      "image": "",
+      "date": "2025-11-27T01:05:05+00:00"
+    },
+    {
+      "title": "2025 Edelman Trust Barometer Flash Poll: Trust and AI at a Crossroad [pdf]",
+      "summary": "Article URL: https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf Comments URL: https://news.ycombinator.com/item?id=46064142 Points: 2 # Comments: 0",
+      "url": "https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf",
+      "image": "",
+      "date": "2025-11-27T00:52:58+00:00"
+    },
+    {
+      "title": "Has the bailout of generative AI begun?",
+      "summary": "Article URL: https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai Comments URL: https://news.ycombinator.com/item?id=46064019 Points: 31 # Comments: 1",
+      "url": "https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai",
+      "image": "",
+      "date": "2025-11-27T00:35:47+00:00"
+    },
+    {
+      "title": "Ask HN: Is all AI coded code in the public domain?",
+      "summary": "AFAIK it's generally assumed (but not(?) tested in court, that LLMs can't be assigned copyright, and that copyright for work generated by LLMs can't be claimed by a human just for being in the loop. Is there going to be an avalanche of code that is legally in the public domain, going forward? Comments URL: https://news.ycombinator.com/item?id=46063586 Points: 4 # Comments: 4",
+      "url": "https://news.ycombinator.com/item?id=46063586",
+      "image": "",
+      "date": "2025-11-26T23:39:45+00:00"
+    },
+    {
+      "title": "Superficial Intelligence: Tech Parenting",
+      "summary": "Article URL: https://www.mozillafoundation.org/en/nothing-personal/superficial-intelligence-humor-column-parenting-advice/ Comments URL: https://news.ycombinator.com/item?id=46063268 Points: 4 # Comments: 1",
+      "url": "https://www.mozillafoundation.org/en/nothing-personal/superficial-intelligence-humor-column-parenting-advice/",
+      "image": "https://assets.mofoprod.net/network/images/NP-Column2-OG_Image.original.png",
+      "date": "2025-11-26T22:57:28+00:00"
     }
   ]
 }
