@@ -1,117 +1,110 @@
 {
-  "generated_at": "2025-11-27T06:47:05.271451+00:00",
+  "generated_at": "2025-11-28T06:46:09.804774+00:00",
   "items": [
     {
-      "title": "Elevating Intelligence via Efficient Model and Tool Orchestration",
-      "summary": "Article URL: https://arxiv.org/abs/2511.21689 Comments URL: https://news.ycombinator.com/item?id=46066381 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2511.21689",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-11-27T06:36:16+00:00"
+      "title": "Heyoner Mario Logo: AI Builds Retro Gaming Brand Identity for Model Figure Shops",
+      "summary": "Article URL: https://www.ailogocreator.io/blog/heyoner-mario-logo-ai-builds-retro-gaming-brand-identity-for-model-figure-shops Comments URL: https://news.ycombinator.com/item?id=46076086 Points: 1 # Comments: 1",
+      "url": "https://www.ailogocreator.io/blog/heyoner-mario-logo-ai-builds-retro-gaming-brand-identity-for-model-figure-shops",
+      "image": "https://www.ailogocreator.io/blog/wp-content/uploads/2025/11/41d0e299ca1abeb-4-1000x500.webp",
+      "date": "2025-11-28T06:30:16+00:00"
     },
     {
-      "title": "Artificial 'nose' tells people when certain smells are present",
-      "summary": "Article URL: https://www.science.org/content/article/artificial-nose-tells-people-when-certain-smells-are-present Comments URL: https://news.ycombinator.com/item?id=46066337 Points: 3 # Comments: 0",
-      "url": "https://www.science.org/content/article/artificial-nose-tells-people-when-certain-smells-are-present",
+      "title": "AI Tools for Streamlining Customer Communication. Halper",
+      "summary": "Article URL: https://halper.ai/blog/ai-tools-for-streamlining-customer-communication Comments URL: https://news.ycombinator.com/item?id=46076043 Points: 1 # Comments: 1",
+      "url": "https://halper.ai/blog/ai-tools-for-streamlining-customer-communication",
+      "image": "https://storage.googleapis.com/halper-website-bucket/main/media/images/base_icons/IMG_20250813_173039_820.png",
+      "date": "2025-11-28T06:21:25+00:00"
+    },
+    {
+      "title": "One-fifth of the jobs at your company could disappear as AI automation takes off",
+      "summary": "Article URL: https://www.theregister.com/2025/11/27/ai_employee_overcapacity_report/ Comments URL: https://news.ycombinator.com/item?id=46075955 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/2025/11/27/ai_employee_overcapacity_report/",
+      "image": "https://regmedia.co.uk/2025/11/26/shutterstock_1753939826.jpg",
+      "date": "2025-11-28T06:05:55+00:00"
+    },
+    {
+      "title": "Brendan Gregg on being copied as an 'AI Brendan'",
+      "summary": "Article URL: https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html Comments URL: https://news.ycombinator.com/item?id=46075892 Points: 3 # Comments: 1",
+      "url": "https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html",
       "image": "",
-      "date": "2025-11-27T06:27:12+00:00"
+      "date": "2025-11-28T05:55:48+00:00"
     },
     {
-      "title": "Ask HN: What's your favorite open-source AI model, and what do you use it for?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46066145 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46066145",
+      "title": "Show HN: AI Agents for Customer Support",
+      "summary": "Article URL: https://www.sparrowdesk.com/ref=hn Comments URL: https://news.ycombinator.com/item?id=46075684 Points: 1 # Comments: 0",
+      "url": "https://www.sparrowdesk.com/ref=hn",
       "image": "",
-      "date": "2025-11-27T05:55:11+00:00"
+      "date": "2025-11-28T05:05:34+00:00"
     },
     {
-      "title": "The Temporal Uncanny Valley: On the Nature of AI Work",
-      "summary": "Article URL: https://substack.com/inbox/post/180071478 Comments URL: https://news.ycombinator.com/item?id=46065989 Points: 2 # Comments: 1",
-      "url": "https://substack.com/inbox/post/180071478",
+      "title": "World War AI",
+      "summary": "Article URL: https://www.epsilontheory.com/world-war-ai/ Comments URL: https://news.ycombinator.com/item?id=46075671 Points: 3 # Comments: 1",
+      "url": "https://www.epsilontheory.com/world-war-ai/",
+      "image": "https://media.perscient.net/media-orig/war%20poster%201%20total%203-2%20%20small.jpg",
+      "date": "2025-11-28T05:02:43+00:00"
+    },
+    {
+      "title": "Are We Becoming Distilled Versions of AI?",
+      "summary": "I’ve been thinking about a possibility that seems right to me but I don’t see discussed directly. As people use AI for more decisions, our cognition may start to shift through normal learning processes. The brain absorbs repeated patterns. If AI becomes part of everyday decision-making, some of its reasoning habits may get reflected in ours. This would be a kind of “cognitive distillation,” similar to how small AI models learn from large ones. Most AI use today are medium decisions: planning a trip, organizing a project, or writing an algorithm. These have low emotional pressure and low friction, so it’s easy to ask an AI for help. But small and large decisions are not currently widely influenced. Small decisions are things like where to put an item, which door to use at a gas station (AI that can see the broken door sign you miss), or the order of misc tasks. We make thousands of these each day without thinking. AI doesn’t influence these yet because the interface friction is too high. It’s not convenient to open a device for choices that happen in seconds. Large decisions are major life choices: lying to get out of a family event, complex interpersonal situations (even psych pros struggle to influence these), or who inherits a sentimental item desired by multiple family members. People ask AI about these already, but the barrier isn’t the interface. It’s that these choices have deep personal weight and are heavily influenced by emotion. Right now AI lives in the middle, but both edges are shifting. On the small-decision side, friction is dropping fast. Glasses, earbuds, smart environments, and real-time overlays will bring AI into the same sensory space we use. Instead of being something you consult, AI will simply be present and able to offer a suggestion at the moment a decision happens. That doesn’t require control. Even small cues can shape many tiny choices per day. These small decisions matter because they are frequent and form habits. On the large-decision side, AI systems are becoming better at recognizing behavioral patterns and presenting structured analysis. And as people interact with them more often, they may feel a kind of narrative familiarity with the system, similar to how characters in books become mentally “predictable.” Over time this could give AI regular influence over complex situations without needing emotional depth. Once AI informs both rapid small decisions and major long-term ones, it stops being a tool used only for specific tasks and becomes part of the whole decision-making pipeline. This returns to the idea of distillation. In machine learning, a small model can learn from a large one by observing its outputs. The small model ends up with a compressed version of the large model’s behavior. Humans learn similarly. Repeated exposure leads to internal shortcuts. When you interact with AI regularly, you start to pick up its patterns. Eventually you start structuring your own thoughts in similar ways without intending to. Similar to how we learn writing styles, heuristics, or professional habits simply by being exposed to them often. If AI becomes heavily involved in daily decisions, especially rapid ones, it becomes a dense pattern source. Over time this could shift how people naturally break down problems or frame choices. It doesn’t require AI to be humanlike, only consistent. If large numbers of people rely on the same families of AI systems over long periods, their thinking may converge in certain ways and eventually dramatic changes may occur given enough time fully interfaced. This may be most drastic with early exposure. As this distillation starts you may find yourself wondering if a given thought is entirely your own.  And what does it even mean for a thought to be mine when my own neural pathways are a ChatGPT distillation? I’m posting this because I’m curious whether you find this framing reasonable and if there’s existing research along these lines. Comments URL: https://news.ycombinator.com/item?id=46075664 Points: 2 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=46075664",
       "image": "",
-      "date": "2025-11-27T05:26:53+00:00"
+      "date": "2025-11-28T05:01:04+00:00"
     },
     {
-      "title": "Jony Ive and Sam Altman say they have an AI hardware prototype",
-      "summary": "Article URL: https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman Comments URL: https://news.ycombinator.com/item?id=46065911 Points: 2 # Comments: 1",
-      "url": "https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/altman-ive-emerson-collective-interview-cropped.jpg?quality=90&strip=all&crop=0%2C3.4258431589551%2C100%2C93.14831368209&w=1200",
-      "date": "2025-11-27T05:13:43+00:00"
-    },
-    {
-      "title": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
-      "summary": "Article URL: https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/ Comments URL: https://news.ycombinator.com/item?id=46065868 Points: 2 # Comments: 0",
-      "url": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
-      "image": "https://media.wired.com/photos/68efda5ae7f63deb0177e5c2/191:100/w_1280,c_limit/101525_AI-Lab-AI-Scaling-Obsession-5.jpg",
-      "date": "2025-11-27T05:05:25+00:00"
-    },
-    {
-      "title": "The Racist, AI-Generated Future of Entertainment",
-      "summary": "Article URL: https://www.theatlantic.com/culture/2025/11/will-stancil-show-ai/685058/ Comments URL: https://news.ycombinator.com/item?id=46065230 Points: 7 # Comments: 6",
-      "url": "https://www.theatlantic.com/culture/2025/11/will-stancil-show-ai/685058/",
-      "image": "https://cdn.theatlantic.com/thumbor/zj_YjPwrKhbIMujqS-ES3QrYpa8=/0x57:2689x1458/1200x625/media/img/mt/2025/11/2025_11_25_Will_Stancil_Show/original.jpg",
-      "date": "2025-11-27T03:24:49+00:00"
-    },
-    {
-      "title": "Tim Sweeney thinks Steam should stop labelling games as being made with AI",
-      "summary": "Article URL: https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/ Comments URL: https://news.ycombinator.com/item?id=46065211 Points: 3 # Comments: 3",
-      "url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
-      "image": "https://cdn.mos.cms.futurecdn.net/h3f5g59boSWvw7EAoqRYRk-2560-80.jpg",
-      "date": "2025-11-27T03:20:57+00:00"
-    },
-    {
-      "title": "The Iceberg Index: Measuring Workforce Exposure Across the AI Economy",
-      "summary": "Article URL: https://arxiv.org/abs/2510.25137 Comments URL: https://news.ycombinator.com/item?id=46064544 Points: 1 # Comments: 1",
-      "url": "https://arxiv.org/abs/2510.25137",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-11-27T01:45:43+00:00"
-    },
-    {
-      "title": "Generative AI in Software Engineering Must Be Human-Centered [pdf]",
-      "summary": "Article URL: https://www.cs.ubc.ca/~rtholmes/papers/jss_2024_russo.pdf Comments URL: https://news.ycombinator.com/item?id=46064339 Points: 5 # Comments: 1",
-      "url": "https://www.cs.ubc.ca/~rtholmes/papers/jss_2024_russo.pdf",
+      "title": "I solo-developed a Call of Duty event clipper using Python and AI",
+      "summary": "https://github.com/karimm-ai/NiceShot_AI Would love any feedback or advice regarding pipeline enhancing, speeding inference or monetization. Thank you. Comments URL: https://news.ycombinator.com/item?id=46075517 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46075517",
       "image": "",
-      "date": "2025-11-27T01:14:50+00:00"
+      "date": "2025-11-28T04:29:32+00:00"
     },
     {
-      "title": "OpenAI Loses Key Discovery Battle as It Cedes Ground to Authors in AI Lawsuits",
-      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/openai-loses-key-discovery-battle-why-deleted-library-of-pirated-books-1236436363/ Comments URL: https://news.ycombinator.com/item?id=46064326 Points: 4 # Comments: 0",
-      "url": "https://www.hollywoodreporter.com/business/business-news/openai-loses-key-discovery-battle-why-deleted-library-of-pirated-books-1236436363/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2225608132.jpg?w=1440&h=810&crop=1",
-      "date": "2025-11-27T01:11:41+00:00"
+      "title": "Japan town retracts bear sighting warning sparked by AI image",
+      "summary": "Article URL: https://www.japantimes.co.jp/news/2025/11/27/japan/society/japan-town-retracts-ai-bear-image/ Comments URL: https://news.ycombinator.com/item?id=46075328 Points: 2 # Comments: 0",
+      "url": "https://www.japantimes.co.jp/news/2025/11/27/japan/society/japan-town-retracts-ai-bear-image/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/11/27/508343.JPG?v=3.1",
+      "date": "2025-11-28T03:46:45+00:00"
     },
     {
-      "title": "Warning: The Fed Can't Rescue AI",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai Comments URL: https://news.ycombinator.com/item?id=46064258 Points: 5 # Comments: 1",
-      "url": "https://paulkrugman.substack.com/p/warning-the-fed-cant-rescue-ai",
+      "title": "Investigating a Possible Scammer in Journalism's AI Era",
+      "summary": "Article URL: https://thelocal.to/investigating-scam-journalism-ai/ Comments URL: https://news.ycombinator.com/item?id=46075060 Points: 4 # Comments: 0",
+      "url": "https://thelocal.to/investigating-scam-journalism-ai/",
+      "image": "https://thelocal.to/wp-content/uploads/2025/11/Victoria_still.jpg",
+      "date": "2025-11-28T02:41:24+00:00"
+    },
+    {
+      "title": "Ask HN: Are AI coding agents becoming more stupid?",
+      "summary": "I wonder what the general opinion is nowadays even though this complaint has been common since years ago. Comments URL: https://news.ycombinator.com/item?id=46074797 Points: 1 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46074797",
       "image": "",
-      "date": "2025-11-27T01:05:05+00:00"
+      "date": "2025-11-28T01:35:24+00:00"
     },
     {
-      "title": "2025 Edelman Trust Barometer Flash Poll: Trust and AI at a Crossroad [pdf]",
-      "summary": "Article URL: https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf Comments URL: https://news.ycombinator.com/item?id=46064142 Points: 2 # Comments: 0",
-      "url": "https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf",
+      "title": "Ask HN: What's your AI coding setup?",
+      "summary": "Where can I learn about the optimal way to have AI write my code for me? Comments URL: https://news.ycombinator.com/item?id=46074594 Points: 3 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46074594",
       "image": "",
-      "date": "2025-11-27T00:52:58+00:00"
+      "date": "2025-11-28T00:57:48+00:00"
     },
     {
-      "title": "Has the bailout of generative AI begun?",
-      "summary": "Article URL: https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai Comments URL: https://news.ycombinator.com/item?id=46064019 Points: 31 # Comments: 1",
-      "url": "https://garymarcus.substack.com/p/has-the-bailout-of-generative-ai",
-      "image": "",
-      "date": "2025-11-27T00:35:47+00:00"
+      "title": "DeepSeek-AI/DeepSeek-Math-V2",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-Math-V2 Comments URL: https://news.ycombinator.com/item?id=46074315 Points: 6 # Comments: 0",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-Math-V2.png",
+      "date": "2025-11-28T00:02:42+00:00"
     },
     {
-      "title": "Ask HN: Is all AI coded code in the public domain?",
-      "summary": "AFAIK it's generally assumed (but not(?) tested in court, that LLMs can't be assigned copyright, and that copyright for work generated by LLMs can't be claimed by a human just for being in the loop. Is there going to be an avalanche of code that is legally in the public domain, going forward? Comments URL: https://news.ycombinator.com/item?id=46063586 Points: 4 # Comments: 4",
-      "url": "https://news.ycombinator.com/item?id=46063586",
-      "image": "",
-      "date": "2025-11-26T23:39:45+00:00"
+      "title": "Invite your heroes into your AI conversations",
+      "summary": "Article URL: https://constantin.glez.de/posts/2025-11-03-invite-your-heroes-into-your-ai-conversations/ Comments URL: https://news.ycombinator.com/item?id=46074115 Points: 2 # Comments: 1",
+      "url": "https://constantin.glez.de/posts/2025-11-03-invite-your-heroes-into-your-ai-conversations/",
+      "image": "Invite_your_heroes_into_ai.jpg",
+      "date": "2025-11-27T23:30:49+00:00"
     },
     {
-      "title": "Superficial Intelligence: Tech Parenting",
-      "summary": "Article URL: https://www.mozillafoundation.org/en/nothing-personal/superficial-intelligence-humor-column-parenting-advice/ Comments URL: https://news.ycombinator.com/item?id=46063268 Points: 4 # Comments: 1",
-      "url": "https://www.mozillafoundation.org/en/nothing-personal/superficial-intelligence-humor-column-parenting-advice/",
-      "image": "https://assets.mofoprod.net/network/images/NP-Column2-OG_Image.original.png",
-      "date": "2025-11-26T22:57:28+00:00"
+      "title": "Built an AI agent that creates block code",
+      "summary": "Article URL: https://huggingface.co/spaces/MCP-1st-Birthday/MCP-Blockly Comments URL: https://news.ycombinator.com/item?id=46073642 Points: 1 # Comments: 1",
+      "url": "https://huggingface.co/spaces/MCP-1st-Birthday/MCP-Blockly",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/MCP-1st-Birthday/MCP-Blockly.png",
+      "date": "2025-11-27T22:10:05+00:00"
     }
   ]
 }
