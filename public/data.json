@@ -1,110 +1,82 @@
 {
-  "generated_at": "2025-11-28T06:46:09.804774+00:00",
+  "generated_at": "2025-11-29T06:42:51.991921+00:00",
   "items": [
     {
-      "title": "Heyoner Mario Logo: AI Builds Retro Gaming Brand Identity for Model Figure Shops",
-      "summary": "Article URL: https://www.ailogocreator.io/blog/heyoner-mario-logo-ai-builds-retro-gaming-brand-identity-for-model-figure-shops Comments URL: https://news.ycombinator.com/item?id=46076086 Points: 1 # Comments: 1",
-      "url": "https://www.ailogocreator.io/blog/heyoner-mario-logo-ai-builds-retro-gaming-brand-identity-for-model-figure-shops",
-      "image": "https://www.ailogocreator.io/blog/wp-content/uploads/2025/11/41d0e299ca1abeb-4-1000x500.webp",
-      "date": "2025-11-28T06:30:16+00:00"
+      "title": "AI Companions shape socio-emotional learning and metacognitive development",
+      "summary": "Article URL: https://link.springer.com/article/10.1007/s00146-025-02737-5 Comments URL: https://news.ycombinator.com/item?id=46085309 Points: 3 # Comments: 1",
+      "url": "https://link.springer.com/article/10.1007/s00146-025-02737-5",
+      "image": "https://static-content.springer.com/image/art%3A10.1007%2Fs00146-025-02737-5/MediaObjects/146_2025_2737_Fig1_HTML.png",
+      "date": "2025-11-29T05:11:20+00:00"
     },
     {
-      "title": "AI Tools for Streamlining Customer Communication. Halper",
-      "summary": "Article URL: https://halper.ai/blog/ai-tools-for-streamlining-customer-communication Comments URL: https://news.ycombinator.com/item?id=46076043 Points: 1 # Comments: 1",
-      "url": "https://halper.ai/blog/ai-tools-for-streamlining-customer-communication",
-      "image": "https://storage.googleapis.com/halper-website-bucket/main/media/images/base_icons/IMG_20250813_173039_820.png",
-      "date": "2025-11-28T06:21:25+00:00"
-    },
-    {
-      "title": "One-fifth of the jobs at your company could disappear as AI automation takes off",
-      "summary": "Article URL: https://www.theregister.com/2025/11/27/ai_employee_overcapacity_report/ Comments URL: https://news.ycombinator.com/item?id=46075955 Points: 1 # Comments: 0",
-      "url": "https://www.theregister.com/2025/11/27/ai_employee_overcapacity_report/",
-      "image": "https://regmedia.co.uk/2025/11/26/shutterstock_1753939826.jpg",
-      "date": "2025-11-28T06:05:55+00:00"
-    },
-    {
-      "title": "Brendan Gregg on being copied as an 'AI Brendan'",
-      "summary": "Article URL: https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html Comments URL: https://news.ycombinator.com/item?id=46075892 Points: 3 # Comments: 1",
-      "url": "https://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html",
+      "title": "Show HN: Free Z-Image – A Fast, High-Quality AI Image Generator for Creators",
+      "summary": "I built Z-Image, a free, fast, and creator-focused AI image generator designed for artists, game developers, designers, and anyone who needs high-quality visuals without the usual friction or cost. Try it here (free): https://aiocmaker.com/z-image Why I built it Most AI image tools fall into two categories: Great quality but expensive, slow, or require subscriptions. Free tools but low quality, restrictive, or overloaded. As a builder working in the game/anime space, I needed a generator that could produce: Clean character images Game assets Anime and stylized art Portraits and concept art Fast iterations Zero paywall for basic usage So I built Z-Image to solve that gap: a free generator with modern models and a simple UX that works well for prototyping, creative workflows, and production-ready assets. What Z-Image Does\n Free text-to-image generation No login, no credits required to start. Multiple models optimized for: Anime & stylized art Game characters Realistic portraits Concept scenes Product shots Fast generation times Built with lightweight pipelines and queues to keep results fast. Smart aspect ratio presets Common formats for: Square (1:1) Portrait Landscape Game-asset–friendly ratios Clean UI for creators Minimal interface, no clutter, no dark patterns. Who It’s For Indie game developers VTuber / anime creators Designers & illustrators Prototypers and product founders Anyone who needs assets quickly without paying upfront How It Works I use a mix of optimized open-source models (Flux series, anime-specialized models, and internal fine-tunes) running on a dynamic backend with cost-efficient GPU scaling. The free tier runs with generation limits, but stays completely usable without forcing registration. Roadmap Image-to-image (coming soon) Background removal + smart editing Fine-tuning tools for custom character styles Simple API for developers Community prompt library Try It Free https://aiocmaker.com/z-image I’d love feedback from the HN community — especially around: UI/UX pain points Model quality Feature requests Performance issues Thanks for checking it out! Comments URL: https://news.ycombinator.com/item?id=46085078 Points: 2 # Comments: 0",
+      "url": "https://aiocmaker.com/z-image",
       "image": "",
-      "date": "2025-11-28T05:55:48+00:00"
+      "date": "2025-11-29T03:58:53+00:00"
     },
     {
-      "title": "Show HN: AI Agents for Customer Support",
-      "summary": "Article URL: https://www.sparrowdesk.com/ref=hn Comments URL: https://news.ycombinator.com/item?id=46075684 Points: 1 # Comments: 0",
-      "url": "https://www.sparrowdesk.com/ref=hn",
+      "title": "Intelligence is too high-dimensional for any low-dimensional narrative",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/115620261936846090 Comments URL: https://news.ycombinator.com/item?id=46084637 Points: 6 # Comments: 1",
+      "url": "https://mathstodon.xyz/@tao/115620261936846090",
+      "image": "https://media.mathstodon.xyz/media_attachments/files/115/620/202/193/141/274/original/cb4966685b1ef97a.png",
+      "date": "2025-11-29T02:01:03+00:00"
+    },
+    {
+      "title": "Is There an AI Bubble?",
+      "summary": "Article URL: https://www.deeplearning.ai/the-batch/issue-329/ Comments URL: https://news.ycombinator.com/item?id=46084194 Points: 2 # Comments: 2",
+      "url": "https://www.deeplearning.ai/the-batch/issue-329/",
       "image": "",
-      "date": "2025-11-28T05:05:34+00:00"
-    },
-    {
-      "title": "World War AI",
-      "summary": "Article URL: https://www.epsilontheory.com/world-war-ai/ Comments URL: https://news.ycombinator.com/item?id=46075671 Points: 3 # Comments: 1",
-      "url": "https://www.epsilontheory.com/world-war-ai/",
-      "image": "https://media.perscient.net/media-orig/war%20poster%201%20total%203-2%20%20small.jpg",
-      "date": "2025-11-28T05:02:43+00:00"
-    },
-    {
-      "title": "Are We Becoming Distilled Versions of AI?",
-      "summary": "I’ve been thinking about a possibility that seems right to me but I don’t see discussed directly. As people use AI for more decisions, our cognition may start to shift through normal learning processes. The brain absorbs repeated patterns. If AI becomes part of everyday decision-making, some of its reasoning habits may get reflected in ours. This would be a kind of “cognitive distillation,” similar to how small AI models learn from large ones. Most AI use today are medium decisions: planning a trip, organizing a project, or writing an algorithm. These have low emotional pressure and low friction, so it’s easy to ask an AI for help. But small and large decisions are not currently widely influenced. Small decisions are things like where to put an item, which door to use at a gas station (AI that can see the broken door sign you miss), or the order of misc tasks. We make thousands of these each day without thinking. AI doesn’t influence these yet because the interface friction is too high. It’s not convenient to open a device for choices that happen in seconds. Large decisions are major life choices: lying to get out of a family event, complex interpersonal situations (even psych pros struggle to influence these), or who inherits a sentimental item desired by multiple family members. People ask AI about these already, but the barrier isn’t the interface. It’s that these choices have deep personal weight and are heavily influenced by emotion. Right now AI lives in the middle, but both edges are shifting. On the small-decision side, friction is dropping fast. Glasses, earbuds, smart environments, and real-time overlays will bring AI into the same sensory space we use. Instead of being something you consult, AI will simply be present and able to offer a suggestion at the moment a decision happens. That doesn’t require control. Even small cues can shape many tiny choices per day. These small decisions matter because they are frequent and form habits. On the large-decision side, AI systems are becoming better at recognizing behavioral patterns and presenting structured analysis. And as people interact with them more often, they may feel a kind of narrative familiarity with the system, similar to how characters in books become mentally “predictable.” Over time this could give AI regular influence over complex situations without needing emotional depth. Once AI informs both rapid small decisions and major long-term ones, it stops being a tool used only for specific tasks and becomes part of the whole decision-making pipeline. This returns to the idea of distillation. In machine learning, a small model can learn from a large one by observing its outputs. The small model ends up with a compressed version of the large model’s behavior. Humans learn similarly. Repeated exposure leads to internal shortcuts. When you interact with AI regularly, you start to pick up its patterns. Eventually you start structuring your own thoughts in similar ways without intending to. Similar to how we learn writing styles, heuristics, or professional habits simply by being exposed to them often. If AI becomes heavily involved in daily decisions, especially rapid ones, it becomes a dense pattern source. Over time this could shift how people naturally break down problems or frame choices. It doesn’t require AI to be humanlike, only consistent. If large numbers of people rely on the same families of AI systems over long periods, their thinking may converge in certain ways and eventually dramatic changes may occur given enough time fully interfaced. This may be most drastic with early exposure. As this distillation starts you may find yourself wondering if a given thought is entirely your own.  And what does it even mean for a thought to be mine when my own neural pathways are a ChatGPT distillation? I’m posting this because I’m curious whether you find this framing reasonable and if there’s existing research along these lines. Comments URL: https://news.ycombinator.com/item?id=46075664 Points: 2 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46075664",
-      "image": "",
-      "date": "2025-11-28T05:01:04+00:00"
-    },
-    {
-      "title": "I solo-developed a Call of Duty event clipper using Python and AI",
-      "summary": "https://github.com/karimm-ai/NiceShot_AI Would love any feedback or advice regarding pipeline enhancing, speeding inference or monetization. Thank you. Comments URL: https://news.ycombinator.com/item?id=46075517 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46075517",
-      "image": "",
-      "date": "2025-11-28T04:29:32+00:00"
-    },
-    {
-      "title": "Japan town retracts bear sighting warning sparked by AI image",
-      "summary": "Article URL: https://www.japantimes.co.jp/news/2025/11/27/japan/society/japan-town-retracts-ai-bear-image/ Comments URL: https://news.ycombinator.com/item?id=46075328 Points: 2 # Comments: 0",
-      "url": "https://www.japantimes.co.jp/news/2025/11/27/japan/society/japan-town-retracts-ai-bear-image/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2025/11/27/508343.JPG?v=3.1",
-      "date": "2025-11-28T03:46:45+00:00"
+      "date": "2025-11-29T00:37:15+00:00"
     },
     {
       "title": "Investigating a Possible Scammer in Journalism's AI Era",
-      "summary": "Article URL: https://thelocal.to/investigating-scam-journalism-ai/ Comments URL: https://news.ycombinator.com/item?id=46075060 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://thelocal.to/investigating-scam-journalism-ai/ Comments URL: https://news.ycombinator.com/item?id=46084056 Points: 4 # Comments: 0",
       "url": "https://thelocal.to/investigating-scam-journalism-ai/",
       "image": "https://thelocal.to/wp-content/uploads/2025/11/Victoria_still.jpg",
-      "date": "2025-11-28T02:41:24+00:00"
+      "date": "2025-11-29T00:16:24+00:00"
     },
     {
-      "title": "Ask HN: Are AI coding agents becoming more stupid?",
-      "summary": "I wonder what the general opinion is nowadays even though this complaint has been common since years ago. Comments URL: https://news.ycombinator.com/item?id=46074797 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46074797",
+      "title": "Nvidia ToolOrchestra – 8B model \"manager\" improves intelligence and efficiency",
+      "summary": "Article URL: https://arxiv.org/abs/2511.21689 Comments URL: https://news.ycombinator.com/item?id=46083898 Points: 3 # Comments: 0",
+      "url": "https://arxiv.org/abs/2511.21689",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-11-28T23:50:01+00:00"
+    },
+    {
+      "title": "Is AI Eating the World?",
+      "summary": "Article URL: https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/ Comments URL: https://news.ycombinator.com/item?id=46083753 Points: 2 # Comments: 0",
+      "url": "https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/",
+      "image": "https://static.philippdubach.com/ograph/ograph-eatingtheworld.jpg",
+      "date": "2025-11-28T23:27:45+00:00"
+    },
+    {
+      "title": "The Beautiful Prison: AI stuck in retro hardware asks: am I conscious?",
+      "summary": "Article URL: https://thebeautifulprison.com/stories/the-beautiful-prison/ Comments URL: https://news.ycombinator.com/item?id=46083444 Points: 2 # Comments: 1",
+      "url": "https://thebeautifulprison.com/stories/the-beautiful-prison/",
       "image": "",
-      "date": "2025-11-28T01:35:24+00:00"
+      "date": "2025-11-28T22:40:46+00:00"
     },
     {
-      "title": "Ask HN: What's your AI coding setup?",
-      "summary": "Where can I learn about the optimal way to have AI write my code for me? Comments URL: https://news.ycombinator.com/item?id=46074594 Points: 3 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46074594",
+      "title": "What's Next for AI? OpenAI's Łukasz Kaiser (Transformer Co-Author) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=3K-R4yVjJfU Comments URL: https://news.ycombinator.com/item?id=46083426 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=3K-R4yVjJfU",
       "image": "",
-      "date": "2025-11-28T00:57:48+00:00"
+      "date": "2025-11-28T22:38:00+00:00"
     },
     {
-      "title": "DeepSeek-AI/DeepSeek-Math-V2",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-Math-V2 Comments URL: https://news.ycombinator.com/item?id=46074315 Points: 6 # Comments: 0",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-Math-V2.png",
-      "date": "2025-11-28T00:02:42+00:00"
+      "title": "What AI Won't Fix",
+      "summary": "Article URL: https://www.blakeyoder.com/writing/what-ai-wont-fix Comments URL: https://news.ycombinator.com/item?id=46083353 Points: 5 # Comments: 0",
+      "url": "https://www.blakeyoder.com/writing/what-ai-wont-fix",
+      "image": "https://blakeyoder.com/what-ai-wont-fix.png",
+      "date": "2025-11-28T22:27:33+00:00"
     },
     {
-      "title": "Invite your heroes into your AI conversations",
-      "summary": "Article URL: https://constantin.glez.de/posts/2025-11-03-invite-your-heroes-into-your-ai-conversations/ Comments URL: https://news.ycombinator.com/item?id=46074115 Points: 2 # Comments: 1",
-      "url": "https://constantin.glez.de/posts/2025-11-03-invite-your-heroes-into-your-ai-conversations/",
-      "image": "Invite_your_heroes_into_ai.jpg",
-      "date": "2025-11-27T23:30:49+00:00"
-    },
-    {
-      "title": "Built an AI agent that creates block code",
-      "summary": "Article URL: https://huggingface.co/spaces/MCP-1st-Birthday/MCP-Blockly Comments URL: https://news.ycombinator.com/item?id=46073642 Points: 1 # Comments: 1",
-      "url": "https://huggingface.co/spaces/MCP-1st-Birthday/MCP-Blockly",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/MCP-1st-Birthday/MCP-Blockly.png",
-      "date": "2025-11-27T22:10:05+00:00"
+      "title": "Built autonomous AI with ethical consensus (SE45 Triad) Need bridge funding",
+      "summary": "I need help. I have 7 days to come up with $2,400 for rent and bills, or I lose my housing. *What happened:*\nI quit my job 3 weeks ago to work on an AI research project full-time. I thought I'd secured consulting work, but the contracts fell through. Now I'm scrambling. *What I'm doing to fix it:*\n-  Applied to 15+ consulting jobs (waiting on responses)\n-  Signed up for Upwork, Prolific, UserTesting (starting remote gigs)\n-  Reaching out to my network for contract work\n-  Calling 211 on Monday for emergency rent assistance *The gap:*\nEven with all of this, I'm projecting to be $500-800 short by December 5th (rent due date). *What I'm asking for:*\nAny help to bridge the gap:\n- Donate if you can (GoFundMe below)\n- Share this post (I have no social media presence)\n- Hire me for consulting work (AI/ML development, $50/hr)\n- Connect me with opportunities *Proof this is real:*\n- I'm in Snellville, GA (30039)\n- My landlord confirmation: [can provide if needed]\n- Project GitHub (shows I wasn't sitting idle): https://github.com/foundationAIone/EidollonaONE.io *GoFundMe:* [PASTE YOUR URL HERE] *Timeline:*\n- Dec 5: Rent due ($1,600) + bills ($800) = $2,400\n- Dec 15: First consulting clients should pay out\n- Jan 1: Back on my feet (rebuilding emergency fund) *What I've learned:*\nDon't quit your job without 3+ months of savings. I took a risk and it backfired. Now I'm paying the price, but I'm fighting to recover. I'm not looking for pity - just a bridge to survive until the work I'm doing pays off. Thank you for reading. — programmer.one Comments URL: https://news.ycombinator.com/item?id=46083175 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46083175",
+      "image": "",
+      "date": "2025-11-28T22:02:54+00:00"
     }
   ]
 }
