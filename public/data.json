@@ -1,82 +1,103 @@
 {
-  "generated_at": "2025-11-29T06:42:51.991921+00:00",
+  "generated_at": "2025-11-30T06:44:18.355278+00:00",
   "items": [
     {
-      "title": "AI Companions shape socio-emotional learning and metacognitive development",
-      "summary": "Article URL: https://link.springer.com/article/10.1007/s00146-025-02737-5 Comments URL: https://news.ycombinator.com/item?id=46085309 Points: 3 # Comments: 1",
-      "url": "https://link.springer.com/article/10.1007/s00146-025-02737-5",
-      "image": "https://static-content.springer.com/image/art%3A10.1007%2Fs00146-025-02737-5/MediaObjects/146_2025_2737_Fig1_HTML.png",
-      "date": "2025-11-29T05:11:20+00:00"
-    },
-    {
-      "title": "Show HN: Free Z-Image – A Fast, High-Quality AI Image Generator for Creators",
-      "summary": "I built Z-Image, a free, fast, and creator-focused AI image generator designed for artists, game developers, designers, and anyone who needs high-quality visuals without the usual friction or cost. Try it here (free): https://aiocmaker.com/z-image Why I built it Most AI image tools fall into two categories: Great quality but expensive, slow, or require subscriptions. Free tools but low quality, restrictive, or overloaded. As a builder working in the game/anime space, I needed a generator that could produce: Clean character images Game assets Anime and stylized art Portraits and concept art Fast iterations Zero paywall for basic usage So I built Z-Image to solve that gap: a free generator with modern models and a simple UX that works well for prototyping, creative workflows, and production-ready assets. What Z-Image Does\n Free text-to-image generation No login, no credits required to start. Multiple models optimized for: Anime & stylized art Game characters Realistic portraits Concept scenes Product shots Fast generation times Built with lightweight pipelines and queues to keep results fast. Smart aspect ratio presets Common formats for: Square (1:1) Portrait Landscape Game-asset–friendly ratios Clean UI for creators Minimal interface, no clutter, no dark patterns. Who It’s For Indie game developers VTuber / anime creators Designers & illustrators Prototypers and product founders Anyone who needs assets quickly without paying upfront How It Works I use a mix of optimized open-source models (Flux series, anime-specialized models, and internal fine-tunes) running on a dynamic backend with cost-efficient GPU scaling. The free tier runs with generation limits, but stays completely usable without forcing registration. Roadmap Image-to-image (coming soon) Background removal + smart editing Fine-tuning tools for custom character styles Simple API for developers Community prompt library Try It Free https://aiocmaker.com/z-image I’d love feedback from the HN community — especially around: UI/UX pain points Model quality Feature requests Performance issues Thanks for checking it out! Comments URL: https://news.ycombinator.com/item?id=46085078 Points: 2 # Comments: 0",
-      "url": "https://aiocmaker.com/z-image",
+      "title": "Italy's Competition Watchdog Broadens WhatsApp AI Policy Probe",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-ai-policy-probe-64c904cd Comments URL: https://news.ycombinator.com/item?id=46094361 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-ai-policy-probe-64c904cd",
       "image": "",
-      "date": "2025-11-29T03:58:53+00:00"
+      "date": "2025-11-30T06:26:38+00:00"
     },
     {
-      "title": "Intelligence is too high-dimensional for any low-dimensional narrative",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/115620261936846090 Comments URL: https://news.ycombinator.com/item?id=46084637 Points: 6 # Comments: 1",
-      "url": "https://mathstodon.xyz/@tao/115620261936846090",
-      "image": "https://media.mathstodon.xyz/media_attachments/files/115/620/202/193/141/274/original/cb4966685b1ef97a.png",
-      "date": "2025-11-29T02:01:03+00:00"
-    },
-    {
-      "title": "Is There an AI Bubble?",
-      "summary": "Article URL: https://www.deeplearning.ai/the-batch/issue-329/ Comments URL: https://news.ycombinator.com/item?id=46084194 Points: 2 # Comments: 2",
-      "url": "https://www.deeplearning.ai/the-batch/issue-329/",
+      "title": "Best Free Headshot Generator 2026: 9 AI Tools Tested and Compared",
+      "summary": "Article URL: https://www.aiheadshotreviews.com/articles/best-free-headshot-generator Comments URL: https://news.ycombinator.com/item?id=46094275 Points: 1 # Comments: 1",
+      "url": "https://www.aiheadshotreviews.com/articles/best-free-headshot-generator",
       "image": "",
-      "date": "2025-11-29T00:37:15+00:00"
+      "date": "2025-11-30T06:07:12+00:00"
     },
     {
-      "title": "Investigating a Possible Scammer in Journalism's AI Era",
-      "summary": "Article URL: https://thelocal.to/investigating-scam-journalism-ai/ Comments URL: https://news.ycombinator.com/item?id=46084056 Points: 4 # Comments: 0",
-      "url": "https://thelocal.to/investigating-scam-journalism-ai/",
-      "image": "https://thelocal.to/wp-content/uploads/2025/11/Victoria_still.jpg",
-      "date": "2025-11-29T00:16:24+00:00"
-    },
-    {
-      "title": "Nvidia ToolOrchestra – 8B model \"manager\" improves intelligence and efficiency",
-      "summary": "Article URL: https://arxiv.org/abs/2511.21689 Comments URL: https://news.ycombinator.com/item?id=46083898 Points: 3 # Comments: 0",
-      "url": "https://arxiv.org/abs/2511.21689",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-11-28T23:50:01+00:00"
-    },
-    {
-      "title": "Is AI Eating the World?",
-      "summary": "Article URL: https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/ Comments URL: https://news.ycombinator.com/item?id=46083753 Points: 2 # Comments: 0",
-      "url": "https://philippdubach.com/2025/11/23/is-ai-really-eating-the-world/",
-      "image": "https://static.philippdubach.com/ograph/ograph-eatingtheworld.jpg",
-      "date": "2025-11-28T23:27:45+00:00"
-    },
-    {
-      "title": "The Beautiful Prison: AI stuck in retro hardware asks: am I conscious?",
-      "summary": "Article URL: https://thebeautifulprison.com/stories/the-beautiful-prison/ Comments URL: https://news.ycombinator.com/item?id=46083444 Points: 2 # Comments: 1",
-      "url": "https://thebeautifulprison.com/stories/the-beautiful-prison/",
+      "title": "Ask HN: How can we measure AI's impact on global developer productivity?",
+      "summary": "I’m curious whether there’s a meaningful way to quantify how much AI tools (ChatGPT, Claude, Copilot, etc.) are affecting software development productivity worldwide. Obviously, metrics like “number of repos created,” “number of commits,” or “lines of code changed” are not quality indicators — but could they still reveal directional trends? For example: Are new repos being created at a faster rate than previous years? Are commits per developer increasing? Is the total volume of code changes growing noticeably on platforms like GitHub or GitLab? Has anyone seen research, datasets, or attempts to measure this kind of global shift? Are there better proxies for AI-driven productivity gains (or losses) in software engineering? Comments URL: https://news.ycombinator.com/item?id=46094221 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46094221",
       "image": "",
-      "date": "2025-11-28T22:40:46+00:00"
+      "date": "2025-11-30T05:54:04+00:00"
     },
     {
-      "title": "What's Next for AI? OpenAI's Łukasz Kaiser (Transformer Co-Author) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=3K-R4yVjJfU Comments URL: https://news.ycombinator.com/item?id=46083426 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=3K-R4yVjJfU",
+      "title": "AI doubted a female developer's work until she switched profile to a white man",
+      "summary": "Article URL: https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/ Comments URL: https://news.ycombinator.com/item?id=46093422 Points: 8 # Comments: 2",
+      "url": "https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/robot.jpg?resize=1200,600",
+      "date": "2025-11-30T03:38:12+00:00"
+    },
+    {
+      "title": "The Futile Quest for Artificial Intelligence (2006)",
+      "summary": "Article URL: https://archive.skeptic.com/archive/reading_room/artificial-intelligence-gone-awry/ Comments URL: https://news.ycombinator.com/item?id=46093336 Points: 3 # Comments: 0",
+      "url": "https://archive.skeptic.com/archive/reading_room/artificial-intelligence-gone-awry/",
+      "image": "https://old.skeptic.com/wordpress/wp-content/uploads/AI-robot.jpg",
+      "date": "2025-11-30T03:24:22+00:00"
+    },
+    {
+      "title": "Microsoft CEO taps advisor to 'rethink' the company's business for the AI era",
+      "summary": "Article URL: https://www.businessinsider.com/nadella-taps-adviser-rethink-new-economics-ai-memo-shows-2025-11 Comments URL: https://news.ycombinator.com/item?id=46092804 Points: 2 # Comments: 0",
+      "url": "https://www.businessinsider.com/nadella-taps-adviser-rethink-new-economics-ai-memo-shows-2025-11",
+      "image": "https://i.insider.com/691ce722e1a9cbb014de777c?width=1200&format=jpeg",
+      "date": "2025-11-30T01:52:50+00:00"
+    },
+    {
+      "title": "The hottest new AI company is Google?",
+      "summary": "Article URL: https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia Comments URL: https://news.ycombinator.com/item?id=46092209 Points: 1 # Comments: 1",
+      "url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215580727-20251128180836519.jpg?c=16x9&q=w_800,c_fill",
+      "date": "2025-11-30T00:23:22+00:00"
+    },
+    {
+      "title": "Leonardo shows Michelangelo, an AI missile shield for Europe",
+      "summary": "Article URL: https://ukdefencejournal.org.uk/leonardo-shows-michelangelo-an-ai-missile-shield-for-europe/ Comments URL: https://news.ycombinator.com/item?id=46091999 Points: 1 # Comments: 0",
+      "url": "https://ukdefencejournal.org.uk/leonardo-shows-michelangelo-an-ai-missile-shield-for-europe/",
+      "image": "https://ukdj.ams3.digitaloceanspaces.com/2025/11/miche.jpg",
+      "date": "2025-11-29T23:51:14+00:00"
+    },
+    {
+      "title": "Gemini Apps limits and upgrades for Google AI subscribers",
+      "summary": "Article URL: https://support.google.com/gemini/answer/16275805?hl=en Comments URL: https://news.ycombinator.com/item?id=46091876 Points: 2 # Comments: 0",
+      "url": "https://support.google.com/gemini/answer/16275805?hl=en",
       "image": "",
-      "date": "2025-11-28T22:38:00+00:00"
+      "date": "2025-11-29T23:34:40+00:00"
     },
     {
-      "title": "What AI Won't Fix",
-      "summary": "Article URL: https://www.blakeyoder.com/writing/what-ai-wont-fix Comments URL: https://news.ycombinator.com/item?id=46083353 Points: 5 # Comments: 0",
-      "url": "https://www.blakeyoder.com/writing/what-ai-wont-fix",
-      "image": "https://blakeyoder.com/what-ai-wont-fix.png",
-      "date": "2025-11-28T22:27:33+00:00"
+      "title": "AI Teddy Bear That Talked Fetishes and Knives Is Back on the Market",
+      "summary": "Article URL: https://gizmodo.com/ai-teddy-bear-that-talked-fetishes-and-knives-is-back-on-the-market-2000691509 Comments URL: https://news.ycombinator.com/item?id=46091490 Points: 3 # Comments: 0",
+      "url": "https://gizmodo.com/ai-teddy-bear-that-talked-fetishes-and-knives-is-back-on-the-market-2000691509",
+      "image": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
+      "date": "2025-11-29T22:42:06+00:00"
     },
     {
-      "title": "Built autonomous AI with ethical consensus (SE45 Triad) Need bridge funding",
-      "summary": "I need help. I have 7 days to come up with $2,400 for rent and bills, or I lose my housing. *What happened:*\nI quit my job 3 weeks ago to work on an AI research project full-time. I thought I'd secured consulting work, but the contracts fell through. Now I'm scrambling. *What I'm doing to fix it:*\n-  Applied to 15+ consulting jobs (waiting on responses)\n-  Signed up for Upwork, Prolific, UserTesting (starting remote gigs)\n-  Reaching out to my network for contract work\n-  Calling 211 on Monday for emergency rent assistance *The gap:*\nEven with all of this, I'm projecting to be $500-800 short by December 5th (rent due date). *What I'm asking for:*\nAny help to bridge the gap:\n- Donate if you can (GoFundMe below)\n- Share this post (I have no social media presence)\n- Hire me for consulting work (AI/ML development, $50/hr)\n- Connect me with opportunities *Proof this is real:*\n- I'm in Snellville, GA (30039)\n- My landlord confirmation: [can provide if needed]\n- Project GitHub (shows I wasn't sitting idle): https://github.com/foundationAIone/EidollonaONE.io *GoFundMe:* [PASTE YOUR URL HERE] *Timeline:*\n- Dec 5: Rent due ($1,600) + bills ($800) = $2,400\n- Dec 15: First consulting clients should pay out\n- Jan 1: Back on my feet (rebuilding emergency fund) *What I've learned:*\nDon't quit your job without 3+ months of savings. I took a risk and it backfired. Now I'm paying the price, but I'm fighting to recover. I'm not looking for pity - just a bridge to survive until the work I'm doing pays off. Thank you for reading. — programmer.one Comments URL: https://news.ycombinator.com/item?id=46083175 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46083175",
+      "title": "AI-Revived Cube World",
+      "summary": "Hi, hackers. Are you interested in Cube World? Here is the introduction:\nhttps://www.youtube.com/watch?v=PDptwH_Rl8k It was a successful product 20 years ago. We wanted to create an AI-version Cube World. How do you think about it? Thank Comments URL: https://news.ycombinator.com/item?id=46091173 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46091173",
       "image": "",
-      "date": "2025-11-28T22:02:54+00:00"
+      "date": "2025-11-29T21:57:23+00:00"
+    },
+    {
+      "title": "The AI Hallucination Debate Is Missing the Point",
+      "summary": "Article URL: https://maxbraglia.substack.com/p/the-ai-hallucination-debate-is-missing-the-point Comments URL: https://news.ycombinator.com/item?id=46091113 Points: 3 # Comments: 6",
+      "url": "https://maxbraglia.substack.com/p/the-ai-hallucination-debate-is-missing-the-point",
+      "image": "",
+      "date": "2025-11-29T21:51:00+00:00"
+    },
+    {
+      "title": "Show HN: Experimental static AI coded website w/ Astro + tails for github pages",
+      "summary": "I think its useful maybe Looking for feedback, tips, suggestions Comments URL: https://news.ycombinator.com/item?id=46090419 Points: 1 # Comments: 1",
+      "url": "https://tariqdude.github.io/Github-Pages-Project-v1/",
+      "image": "https://tariqdude.github.io/Github-Pages-Project-v1/_astro/blog-placeholder-1.Bx0Zcyzv.jpg",
+      "date": "2025-11-29T20:20:57+00:00"
+    },
+    {
+      "title": "Ahead of the holidays, consumer and child advocacy groups warn against AI toys",
+      "summary": "Article URL: https://www.npr.org/2025/11/20/nx-s1-5612689/ai-toys Comments URL: https://news.ycombinator.com/item?id=46090388 Points: 1 # Comments: 0",
+      "url": "https://www.npr.org/2025/11/20/nx-s1-5612689/ai-toys",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2Fde%2Fb7523a404f1e9308e2370d880148%2Fgettyimages-1202484315-resize.jpg",
+      "date": "2025-11-29T20:15:09+00:00"
     }
   ]
 }
