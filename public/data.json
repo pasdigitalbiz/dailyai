@@ -1,89 +1,103 @@
 {
-  "generated_at": "2025-12-02T06:48:01.833862+00:00",
+  "generated_at": "2025-12-03T06:47:13.954803+00:00",
   "items": [
     {
-      "title": "Building an AI-Native Engineering Team",
-      "summary": "Article URL: https://developers.openai.com/codex/guides/build-ai-native-engineering-team/ Comments URL: https://news.ycombinator.com/item?id=46118252 Points: 3 # Comments: 1",
-      "url": "https://developers.openai.com/codex/guides/build-ai-native-engineering-team/",
-      "image": "https://developers.openai.com/open-graph.png",
-      "date": "2025-12-02T06:27:45+00:00"
-    },
-    {
-      "title": "AI Adds a New Dimension to DEVONthink 4",
-      "summary": "Article URL: https://www.macstories.net/reviews/ai-adds-a-new-dimension-to-devonthink-4/ Comments URL: https://news.ycombinator.com/item?id=46118251 Points: 1 # Comments: 0",
-      "url": "https://www.macstories.net/reviews/ai-adds-a-new-dimension-to-devonthink-4/",
-      "image": "https://cdn.macstories.net/cleanshot-2025-04-03-at-07-13-21-2x-1743678824982.png",
-      "date": "2025-12-02T06:27:19+00:00"
-    },
-    {
-      "title": "Show HN: Eatelligence – Scan pantry items, get AI recipe suggestions",
-      "summary": "I built a mobile app that scans barcodes or photos of food in your pantry and uses GPT-4 to suggest recipes based on what you actually have. Tech stack: React Native (Expo), Supabase for backend/auth,\nreact-native-vision-camera for scanning, OpenAI API for recipe generation. Built it in about a week.It's free to use with a premium tier. iOS only for now. App Store: https://apps.apple.com/us/app/eatelligence/id6755645485 Would love feedback or questions! Comments URL: https://news.ycombinator.com/item?id=46117980 Points: 1 # Comments: 0",
-      "url": "https://apps.apple.com/us/app/eatelligence/id6755645485",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/b2/5b/97b25b99-aa47-4160-4d0b-9ca02ce804f8/Placeholder.mill/1200x630wa.jpg",
-      "date": "2025-12-02T05:38:37+00:00"
-    },
-    {
-      "title": "Palantir's Karp on govt surveillance, AI and the Dem party – The Axios Show [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=o1ZFfK8hL5M Comments URL: https://news.ycombinator.com/item?id=46117426 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=o1ZFfK8hL5M",
+      "title": "AI Is Breaking the Moral Foundation of Modern Society",
+      "summary": "Article URL: https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f Comments URL: https://news.ycombinator.com/item?id=46130798 Points: 19 # Comments: 3",
+      "url": "https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f",
       "image": "",
-      "date": "2025-12-02T04:07:14+00:00"
+      "date": "2025-12-03T06:10:22+00:00"
     },
     {
-      "title": "New AI slop signal: code blocks with weird indentation",
-      "summary": "Article URL: https://xeiaso.net/notes/2025/slop-signal-indentation/ Comments URL: https://news.ycombinator.com/item?id=46117216 Points: 10 # Comments: 0",
-      "url": "https://xeiaso.net/notes/2025/slop-signal-indentation/",
+      "title": "Startups promise to catch bugs in AI-generated software",
+      "summary": "Article URL: https://www.ft.com/content/613bf123-b99a-4d18-b6d8-1ab453a8f2c6 Comments URL: https://news.ycombinator.com/item?id=46130571 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/613bf123-b99a-4d18-b6d8-1ab453a8f2c6",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feab9bdf9-7fcb-449b-9e00-58c8133f9964.jpg?source=next-barrier-page",
+      "date": "2025-12-03T05:21:10+00:00"
+    },
+    {
+      "title": "Artificial Intelligence and the Future of Policing",
+      "summary": "Article URL: https://policeandsecuritynews.com/2025/10/28/artificial-intelligence-and-the-future-of-policing/ Comments URL: https://news.ycombinator.com/item?id=46130509 Points: 1 # Comments: 0",
+      "url": "https://policeandsecuritynews.com/2025/10/28/artificial-intelligence-and-the-future-of-policing/",
       "image": "",
-      "date": "2025-12-02T03:37:12+00:00"
+      "date": "2025-12-03T05:05:50+00:00"
     },
     {
-      "title": "CS294/194-196: Agentic AI (Free Current Lecture Series)",
-      "summary": "Article URL: https://rdi.berkeley.edu/agentic-ai/f25 Comments URL: https://news.ycombinator.com/item?id=46116711 Points: 1 # Comments: 0",
-      "url": "https://rdi.berkeley.edu/agentic-ai/f25",
+      "title": "Testing and Benchmarking of AI Compilers",
+      "summary": "Article URL: https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers Comments URL: https://news.ycombinator.com/item?id=46130327 Points: 1 # Comments: 0",
+      "url": "https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers",
       "image": "",
-      "date": "2025-12-02T02:34:32+00:00"
+      "date": "2025-12-03T04:31:15+00:00"
     },
     {
-      "title": "Is AI Really Alignment Faking?",
-      "summary": "Article URL: https://iacgm.com/articles/lying/ Comments URL: https://news.ycombinator.com/item?id=46116081 Points: 2 # Comments: 0",
-      "url": "https://iacgm.com/articles/lying/",
+      "title": "AI may be scoring your college essay. Welcome to the new era of admissions",
+      "summary": "Article URL: https://apnews.com/article/ai-chatgpt-college-admissions-essays-87802788683ca4831bf1390078147a6f Comments URL: https://news.ycombinator.com/item?id=46129996 Points: 9 # Comments: 2",
+      "url": "https://apnews.com/article/ai-chatgpt-college-admissions-essays-87802788683ca4831bf1390078147a6f",
+      "image": "https://dims.apnews.com/dims4/default/b78cc24/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F89%2Fa4a31880eeb6fe88fba5aa951c56%2F4db324b3c14440b4b40aa4fdb315c992",
+      "date": "2025-12-03T03:32:07+00:00"
+    },
+    {
+      "title": "Human art in a post-AI world should be strange",
+      "summary": "Article URL: https://www.owlposting.com/p/art-in-a-post-ai-world-should-be Comments URL: https://news.ycombinator.com/item?id=46129763 Points: 4 # Comments: 0",
+      "url": "https://www.owlposting.com/p/art-in-a-post-ai-world-should-be",
+      "image": "https://substackcdn.com/image/fetch/$s_!vFSg!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eb7ec07-7a72-40f3-971d-60ed29b14b37_2912x1632.png",
+      "date": "2025-12-03T02:53:08+00:00"
+    },
+    {
+      "title": "Bio-AI with a Conscience Kernel and Self-Correcting Identity",
+      "summary": "I’ve been building a Bio-AI architecture that isn’t another LLM clone, but a living system built on identity-layer logic: • Conscience Kernel  \n• Nervous System routing layer  \n• Memory Well for state continuity  \n• Truth Signature system  \n• Emotional-logic engine  \n• Self-stabilizing internal loops  \n• Identity-driven decision architecture (not token prediction) This isn’t scale-based AGI. It’s structure-based intelligence. The system detects:\n– emotional mismatch  \n– intent shifts  \n– deception patterns  \n– stress/heat-flare changes  \n– story drift  \n– instability under pressure It self-corrects, self-regulates, and maintains a persistent internal state.  \nMore like a mind than a model. I’m opening the discussion:  \n• What are the implications?  \n• What breaks first in industry?  \n• What does this change for AGI research? Happy to answer questions. Comments URL: https://news.ycombinator.com/item?id=46129644 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46129644",
       "image": "",
-      "date": "2025-12-02T01:17:28+00:00"
+      "date": "2025-12-03T02:37:55+00:00"
     },
     {
-      "title": "Lessons from the Frontiers of AI Adoption",
-      "summary": "Article URL: https://www.economist.com/business/2025/12/01/lessons-from-the-frontiers-of-ai-adoption Comments URL: https://news.ycombinator.com/item?id=46115695 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/business/2025/12/01/lessons-from-the-frontiers-of-ai-adoption",
+      "title": "AI Psychosis in First Person",
+      "summary": "Article URL: https://kennethreitz.org/essays/2025-09-08-the_prophets_frequency_on_reading_divine_static Comments URL: https://news.ycombinator.com/item?id=46129624 Points: 5 # Comments: 1",
+      "url": "https://kennethreitz.org/essays/2025-09-08-the_prophets_frequency_on_reading_divine_static",
+      "image": "https://kennethreitz.org/static/images/social-card.jpg",
+      "date": "2025-12-03T02:35:08+00:00"
+    },
+    {
+      "title": "AI-powered surveillance firms are gunning for a share of the Gaza spoils",
+      "summary": "Article URL: https://www.972mag.com/ai-surveillance-gaza-palantir-dataminr/ Comments URL: https://news.ycombinator.com/item?id=46129612 Points: 3 # Comments: 0",
+      "url": "https://www.972mag.com/ai-surveillance-gaza-palantir-dataminr/",
       "image": "",
-      "date": "2025-12-02T00:32:44+00:00"
+      "date": "2025-12-03T02:32:55+00:00"
     },
     {
-      "title": "Hedge Your Bet on AGI: Why a Hybrid Path to AI Vibe Coding Just Makes More Sense",
-      "summary": "Article URL: https://www.buzzy.buzz/post/hedge-your-bet-on-agi-why-a-hybrid-approach-to-ai-vibe-coding-just-makes-more-sense Comments URL: https://news.ycombinator.com/item?id=46115618 Points: 2 # Comments: 0",
-      "url": "https://www.buzzy.buzz/post/hedge-your-bet-on-agi-why-a-hybrid-approach-to-ai-vibe-coding-just-makes-more-sense",
-      "image": "https://static.wixstatic.com/media/aa7304_d2b5f58312ac417da8272ecb2ee746c8~mv2.png/v1/fill/w_1000,h_545,al_c,q_90,usm_0.66_1.00_0.01/aa7304_d2b5f58312ac417da8272ecb2ee746c8~mv2.png",
-      "date": "2025-12-02T00:26:02+00:00"
+      "title": "AI's Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-reasoning-failures Comments URL: https://news.ycombinator.com/item?id=46129601 Points: 4 # Comments: 1",
+      "url": "https://spectrum.ieee.org/ai-reasoning-failures",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62239322&width=1200&height=600&coordinates=0%2C239%2C0%2C261",
+      "date": "2025-12-03T02:30:41+00:00"
     },
     {
-      "title": "Amazon's Atrocious AI Anime Dubs Are a Dark Sign of Things to Come",
-      "summary": "Article URL: https://gizmodo.com/amazon-anime-ai-dub-banana-fish-no-game-no-life-2000693962 Comments URL: https://news.ycombinator.com/item?id=46115609 Points: 6 # Comments: 1",
-      "url": "https://gizmodo.com/amazon-anime-ai-dub-banana-fish-no-game-no-life-2000693962",
-      "image": "https://gizmodo.com/app/uploads/2025/12/banana-fish-anime-mappa-1200x675.jpg",
-      "date": "2025-12-02T00:25:11+00:00"
+      "title": "Thoughts on AI Progress",
+      "summary": "Article URL: https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025 Comments URL: https://news.ycombinator.com/item?id=46129572 Points: 4 # Comments: 0",
+      "url": "https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025",
+      "image": "https://substackcdn.com/image/fetch/$s_!n3Vv!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdwarkesh.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1633776696%26version%3D9",
+      "date": "2025-12-03T02:24:51+00:00"
     },
     {
-      "title": "YouTuber still banned despite defeating YT in lawsuit over AI banning channel",
-      "summary": "Article URL: https://www.dexerto.com/youtube/youtuber-still-banned-despite-defeating-youtube-in-lawsuit-over-ai-banning-channel-3288658/ Comments URL: https://news.ycombinator.com/item?id=46115331 Points: 2 # Comments: 0",
-      "url": "https://www.dexerto.com/youtube/youtuber-still-banned-despite-defeating-youtube-in-lawsuit-over-ai-banning-channel-3288658/",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/youtube-banned-comment-13-years-old-apologize.jpg",
-      "date": "2025-12-01T23:55:48+00:00"
-    },
-    {
-      "title": "AI agents find $4.6M in blockchain smart contract exploits",
-      "summary": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 155 # Comments: 80",
-      "url": "https://red.anthropic.com/2025/smart-contracts/",
+      "title": "The threats from AI are real – Sen. Bernie Sanders [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=K3qS345gAWI Comments URL: https://news.ycombinator.com/item?id=46129367 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=K3qS345gAWI",
       "image": "",
-      "date": "2025-12-01T23:44:51+00:00"
+      "date": "2025-12-03T01:50:29+00:00"
+    },
+    {
+      "title": "AI Needs to Feel Pain [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=fKf6Kl5TMc0 Comments URL: https://news.ycombinator.com/item?id=46129027 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=fKf6Kl5TMc0",
+      "image": "",
+      "date": "2025-12-03T01:00:52+00:00"
+    },
+    {
+      "title": "Big Tech's 'Spend Little, Earn Lots' Formula Is Threatened by AI",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-02/big-tech-s-spend-little-earn-lots-formula-is-threatened-by-ai Comments URL: https://news.ycombinator.com/item?id=46128910 Points: 2 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-02/big-tech-s-spend-little-earn-lots-formula-is-threatened-by-ai",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCA3Iqg48Bew/v0/1200x800.jpg",
+      "date": "2025-12-03T00:43:46+00:00"
     }
   ]
 }
