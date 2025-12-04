@@ -1,103 +1,96 @@
 {
-  "generated_at": "2025-12-03T06:47:13.954803+00:00",
+  "generated_at": "2025-12-04T06:47:08.490252+00:00",
   "items": [
     {
-      "title": "AI Is Breaking the Moral Foundation of Modern Society",
-      "summary": "Article URL: https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f Comments URL: https://news.ycombinator.com/item?id=46130798 Points: 19 # Comments: 3",
-      "url": "https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f",
+      "title": "Open, Vendor-Neutral Framework for AI/ML Compute Optimization",
+      "summary": "Article URL: https://outerbounds.com/blog/six-steps-to-cost-optimization Comments URL: https://news.ycombinator.com/item?id=46144432 Points: 1 # Comments: 1",
+      "url": "https://outerbounds.com/blog/six-steps-to-cost-optimization",
+      "image": "https://cdn.prod.website-files.com/667dbc122361b7454b4720c3/66ce52062d7e8288d7f53acd_six-steps-to-cost-optimization.jpg",
+      "date": "2025-12-04T06:29:46+00:00"
+    },
+    {
+      "title": "Why our AI future may look less like Skynet and more like Olympus",
+      "summary": "Article URL: https://awesomeworld.substack.com/p/why-our-ai-future-may-look-less-like Comments URL: https://news.ycombinator.com/item?id=46144135 Points: 2 # Comments: 1",
+      "url": "https://awesomeworld.substack.com/p/why-our-ai-future-may-look-less-like",
       "image": "",
-      "date": "2025-12-03T06:10:22+00:00"
+      "date": "2025-12-04T05:33:59+00:00"
     },
     {
-      "title": "Startups promise to catch bugs in AI-generated software",
-      "summary": "Article URL: https://www.ft.com/content/613bf123-b99a-4d18-b6d8-1ab453a8f2c6 Comments URL: https://news.ycombinator.com/item?id=46130571 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/613bf123-b99a-4d18-b6d8-1ab453a8f2c6",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feab9bdf9-7fcb-449b-9e00-58c8133f9964.jpg?source=next-barrier-page",
-      "date": "2025-12-03T05:21:10+00:00"
+      "title": "AI agent achieves Rank 1 across major CTFs – a defining moment for cybersecurity",
+      "summary": "Article URL: https://arxiv.org/abs/2512.02654 Comments URL: https://news.ycombinator.com/item?id=46144068 Points: 2 # Comments: 1",
+      "url": "https://arxiv.org/abs/2512.02654",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-12-04T05:22:22+00:00"
     },
     {
-      "title": "Artificial Intelligence and the Future of Policing",
-      "summary": "Article URL: https://policeandsecuritynews.com/2025/10/28/artificial-intelligence-and-the-future-of-policing/ Comments URL: https://news.ycombinator.com/item?id=46130509 Points: 1 # Comments: 0",
-      "url": "https://policeandsecuritynews.com/2025/10/28/artificial-intelligence-and-the-future-of-policing/",
+      "title": "AI Agents and Agentic Commerce: Strategic Insights for Business Leaders",
+      "summary": "Article URL: https://lightrains.com/blogs/ai-agentic-commerce-business-insights/ Comments URL: https://news.ycombinator.com/item?id=46143996 Points: 2 # Comments: 0",
+      "url": "https://lightrains.com/blogs/ai-agentic-commerce-business-insights/",
+      "image": "/open-graph/blogs/ai-agentic-commerce-business-insights.png?v=cd8300b",
+      "date": "2025-12-04T05:07:59+00:00"
+    },
+    {
+      "title": "Ask HN: What would you imagine AI looks like in the future?",
+      "summary": "In the past, we learned a lot of wild imaginations about robots and AI from fiction books.･*･:≡( ε:)\nDo AI and robots seem like the imaginations in those novels? I’m not sure. Is AI nowadays the “AI” we used to think about in the past? If you think with the old ideas, what would AI look like? What would AI do? And how would AI work with humans? ⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾ Comments URL: https://news.ycombinator.com/item?id=46143943 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46143943",
       "image": "",
-      "date": "2025-12-03T05:05:50+00:00"
+      "date": "2025-12-04T04:55:38+00:00"
     },
     {
-      "title": "Testing and Benchmarking of AI Compilers",
-      "summary": "Article URL: https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers Comments URL: https://news.ycombinator.com/item?id=46130327 Points: 1 # Comments: 0",
-      "url": "https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers",
+      "title": "AI Might Not Harm Us in the Way You Think",
+      "summary": "Article URL: https://nautil.us/ai-might-not-harm-us-in-the-way-you-think-1248498/ Comments URL: https://news.ycombinator.com/item?id=46143935 Points: 2 # Comments: 1",
+      "url": "https://nautil.us/ai-might-not-harm-us-in-the-way-you-think-1248498/",
+      "image": "https://assets.nautil.us/sites/3/nautilus/2Ie7IGys-Glick_HERO.png?auto=compress&fm=png&ixlib=php-3.3.1",
+      "date": "2025-12-04T04:54:55+00:00"
+    },
+    {
+      "title": "Marvell Acquires Celestial AI",
+      "summary": "Article URL: https://techstartups.com/2025/12/03/top-tech-news-today-december-3-2025/ Comments URL: https://news.ycombinator.com/item?id=46143560 Points: 1 # Comments: 0",
+      "url": "https://techstartups.com/2025/12/03/top-tech-news-today-december-3-2025/",
+      "image": "https://techstartups.com/wp-content/uploads/2023/01/amazonnn.jpg",
+      "date": "2025-12-04T03:38:58+00:00"
+    },
+    {
+      "title": "Show HN: A free AI Room Design tool that redesigns any room in seconds",
+      "summary": "I recently built a free AI Room Design tool that lets you upload a photo of any room and instantly generate redesigned versions. Multiple styles are available: modern, minimalist, Scandinavian, industrial, and more. It works directly in the browser, no login required, and preserves your room’s layout while applying the new style. Would love to hear feedback on styles, UX, or technical improvements! Comments URL: https://news.ycombinator.com/item?id=46143387 Points: 6 # Comments: 0",
+      "url": "https://vdraw.ai/ai-room-design",
+      "image": "https://cdn.vdraw.ai/se/vdraw/web-pages/public/images/logo/logo%403x.png",
+      "date": "2025-12-04T03:13:01+00:00"
+    },
+    {
+      "title": "Amazon Prime Video pulls eerily emotionless AI-generated anime dubs",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/ Comments URL: https://news.ycombinator.com/item?id=46143316 Points: 2 # Comments: 0",
+      "url": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/cf4e3cf73353496b14e14688baba726e09889d10ccc8c588dd7db36bc058b8df-1152x648-1764781755.jpg",
+      "date": "2025-12-04T03:00:57+00:00"
+    },
+    {
+      "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
+      "summary": "Article URL: https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html Comments URL: https://news.ycombinator.com/item?id=46143250 Points: 1 # Comments: 1",
+      "url": "https://www.cnbc.com/2025/12/03/micron-stops-selling-memory-to-consumers-demand-spikes-from-ai-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108164009-1750872052854-gettyimages-2222120700-_75a8714_ahdmj3cp.jpeg?v=1764787805&w=1920&h=1080",
+      "date": "2025-12-04T02:50:51+00:00"
+    },
+    {
+      "title": "Show HN: Seedream 4.5 – High-Consistency AI Image Generation for Creators",
+      "summary": "Hi HN, we’ve been working on Seedream 4.5, a next-generation image model focused on high consistency, realistic detail, and multi-image creative control. It’s designed for creators who need stable characters, clean structure, and production-grade visuals — not just lucky one-off generations. Key features: Multi-Image Consistency: Maintain the same face, style, lighting, and scene logic across batches or sequential renders. High-Fidelity Rendering: Improved materials, shadows, anatomy handling, and fine-detail realism. Flexible Workflows: Supports text-to-image, reference-to-image, multi-reference fusion, style transfer, layout-aware generation, and high-res outputs. Creator-Ready Editing: Modify backgrounds, clothing, mood, and composition while preserving identity and structure. Fast Iteration: Generate multiple variations, refine style, or re-render consistent character sets in seconds. Why we built this: Seedream 4.5 aims to make coherent, editable, production-oriented image generation accessible to artists, designers, marketers, and anyone building multi-shot or multi-style visual workflows. We’d love feedback on: How you’d use high-consistency image models in your projects. What tools or APIs would make Seedream easier to integrate. Try it here: https://www.seedream4.net/seedream-4-5?i=d1d5k Comments URL: https://news.ycombinator.com/item?id=46142882 Points: 1 # Comments: 0",
+      "url": "https://www.seedream4.net/seedream-4-5",
       "image": "",
-      "date": "2025-12-03T04:31:15+00:00"
+      "date": "2025-12-04T01:59:54+00:00"
     },
     {
-      "title": "AI may be scoring your college essay. Welcome to the new era of admissions",
-      "summary": "Article URL: https://apnews.com/article/ai-chatgpt-college-admissions-essays-87802788683ca4831bf1390078147a6f Comments URL: https://news.ycombinator.com/item?id=46129996 Points: 9 # Comments: 2",
-      "url": "https://apnews.com/article/ai-chatgpt-college-admissions-essays-87802788683ca4831bf1390078147a6f",
-      "image": "https://dims.apnews.com/dims4/default/b78cc24/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F89%2Fa4a31880eeb6fe88fba5aa951c56%2F4db324b3c14440b4b40aa4fdb315c992",
-      "date": "2025-12-03T03:32:07+00:00"
-    },
-    {
-      "title": "Human art in a post-AI world should be strange",
-      "summary": "Article URL: https://www.owlposting.com/p/art-in-a-post-ai-world-should-be Comments URL: https://news.ycombinator.com/item?id=46129763 Points: 4 # Comments: 0",
-      "url": "https://www.owlposting.com/p/art-in-a-post-ai-world-should-be",
-      "image": "https://substackcdn.com/image/fetch/$s_!vFSg!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eb7ec07-7a72-40f3-971d-60ed29b14b37_2912x1632.png",
-      "date": "2025-12-03T02:53:08+00:00"
-    },
-    {
-      "title": "Bio-AI with a Conscience Kernel and Self-Correcting Identity",
-      "summary": "I’ve been building a Bio-AI architecture that isn’t another LLM clone, but a living system built on identity-layer logic: • Conscience Kernel  \n• Nervous System routing layer  \n• Memory Well for state continuity  \n• Truth Signature system  \n• Emotional-logic engine  \n• Self-stabilizing internal loops  \n• Identity-driven decision architecture (not token prediction) This isn’t scale-based AGI. It’s structure-based intelligence. The system detects:\n– emotional mismatch  \n– intent shifts  \n– deception patterns  \n– stress/heat-flare changes  \n– story drift  \n– instability under pressure It self-corrects, self-regulates, and maintains a persistent internal state.  \nMore like a mind than a model. I’m opening the discussion:  \n• What are the implications?  \n• What breaks first in industry?  \n• What does this change for AGI research? Happy to answer questions. Comments URL: https://news.ycombinator.com/item?id=46129644 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46129644",
+      "title": "Show HN: Copyly – AI that beats competitor product descriptions in 30 seconds",
+      "summary": "I built Copyly to solve a problem every e-commerce team faces: writing product descriptions that actually convert. Instead of hiring expensive copywriters ($2,400+/month) or spending hours writing copy, you paste a competitor URL and get superior descriptions in 30 seconds. What it does: Analyzes competitor URLs to understand what works Generates multiple variants with SEO scoring Maintains your brand voice across thousands of products Exports directly to Shopify/WooCommerce Results so far: 31% higher conversion rates vs human copy 10x faster than traditional methods Used by 10,000+ brands The key insight: instead of starting from scratch, analyze what's already working and make it better. Try the demo (no signup): https://saa-s-marketing.vercel.app/ What features would make this most useful for your e-commerce needs? Comments URL: https://news.ycombinator.com/item?id=46142648 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46142648",
       "image": "",
-      "date": "2025-12-03T02:37:55+00:00"
+      "date": "2025-12-04T01:21:37+00:00"
     },
     {
-      "title": "AI Psychosis in First Person",
-      "summary": "Article URL: https://kennethreitz.org/essays/2025-09-08-the_prophets_frequency_on_reading_divine_static Comments URL: https://news.ycombinator.com/item?id=46129624 Points: 5 # Comments: 1",
-      "url": "https://kennethreitz.org/essays/2025-09-08-the_prophets_frequency_on_reading_divine_static",
-      "image": "https://kennethreitz.org/static/images/social-card.jpg",
-      "date": "2025-12-03T02:35:08+00:00"
-    },
-    {
-      "title": "AI-powered surveillance firms are gunning for a share of the Gaza spoils",
-      "summary": "Article URL: https://www.972mag.com/ai-surveillance-gaza-palantir-dataminr/ Comments URL: https://news.ycombinator.com/item?id=46129612 Points: 3 # Comments: 0",
-      "url": "https://www.972mag.com/ai-surveillance-gaza-palantir-dataminr/",
-      "image": "",
-      "date": "2025-12-03T02:32:55+00:00"
-    },
-    {
-      "title": "AI's Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-reasoning-failures Comments URL: https://news.ycombinator.com/item?id=46129601 Points: 4 # Comments: 1",
-      "url": "https://spectrum.ieee.org/ai-reasoning-failures",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62239322&width=1200&height=600&coordinates=0%2C239%2C0%2C261",
-      "date": "2025-12-03T02:30:41+00:00"
-    },
-    {
-      "title": "Thoughts on AI Progress",
-      "summary": "Article URL: https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025 Comments URL: https://news.ycombinator.com/item?id=46129572 Points: 4 # Comments: 0",
-      "url": "https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025",
-      "image": "https://substackcdn.com/image/fetch/$s_!n3Vv!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdwarkesh.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1633776696%26version%3D9",
-      "date": "2025-12-03T02:24:51+00:00"
-    },
-    {
-      "title": "The threats from AI are real – Sen. Bernie Sanders [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=K3qS345gAWI Comments URL: https://news.ycombinator.com/item?id=46129367 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=K3qS345gAWI",
-      "image": "",
-      "date": "2025-12-03T01:50:29+00:00"
-    },
-    {
-      "title": "AI Needs to Feel Pain [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=fKf6Kl5TMc0 Comments URL: https://news.ycombinator.com/item?id=46129027 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=fKf6Kl5TMc0",
-      "image": "",
-      "date": "2025-12-03T01:00:52+00:00"
-    },
-    {
-      "title": "Big Tech's 'Spend Little, Earn Lots' Formula Is Threatened by AI",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-02/big-tech-s-spend-little-earn-lots-formula-is-threatened-by-ai Comments URL: https://news.ycombinator.com/item?id=46128910 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-02/big-tech-s-spend-little-earn-lots-formula-is-threatened-by-ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCA3Iqg48Bew/v0/1200x800.jpg",
-      "date": "2025-12-03T00:43:46+00:00"
+      "title": "A Vision for Healthcare AI in America",
+      "summary": "Article URL: https://www.8vc.com/resources/ai-healthcare-vision Comments URL: https://news.ycombinator.com/item?id=46142455 Points: 1 # Comments: 0",
+      "url": "https://www.8vc.com/resources/ai-healthcare-vision",
+      "image": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/692e178cc142c3bd317ff4e2_scaling-vbc-og.png",
+      "date": "2025-12-04T00:51:59+00:00"
     }
   ]
 }
