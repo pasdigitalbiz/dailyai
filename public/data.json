@@ -1,110 +1,117 @@
 {
-  "generated_at": "2025-12-05T06:47:30.676964+00:00",
+  "generated_at": "2025-12-06T06:42:26.855606+00:00",
   "items": [
     {
-      "title": "Cloudflare Has Blocked 416B AI Bot Requests Since July 1",
-      "summary": "Article URL: https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=46157295 Points: 3 # Comments: 2",
-      "url": "https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/",
-      "image": "https://media.wired.com/photos/6931ffd30feef77a577bf95b/191:100/w_1280,c_limit/Matthew-Prince-Big-Interview-2025-5.jpg",
-      "date": "2025-12-05T06:10:26+00:00"
+      "title": "England's AI World Cup masterplan: From perfecting penalties to powering players",
+      "summary": "Article URL: https://www.bbc.com/sport/football/articles/cj0e7y754zpo Comments URL: https://news.ycombinator.com/item?id=46171215 Points: 1 # Comments: 0",
+      "url": "https://www.bbc.com/sport/football/articles/cj0e7y754zpo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7acb/live/712184c0-ca4d-11f0-8c06-f5d460985095.jpg",
+      "date": "2025-12-06T06:35:11+00:00"
     },
     {
-      "title": "The story of Mr DeepFakes – the world’s most notorious AI porn site",
-      "summary": "Article URL: https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site Comments URL: https://news.ycombinator.com/item?id=46157267 Points: 2 # Comments: 1",
-      "url": "https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site",
-      "image": "https://i.guim.co.uk/img/media/d3093061b6e62e20f1cf8fa72d0ba1dd0f0d0563/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da704e2d32d95533ab740d211fc54d6b",
-      "date": "2025-12-05T06:05:56+00:00"
+      "title": "Google research: Titans and MIRAS: Helping AI have long-term memory",
+      "summary": "Article URL: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/ Comments URL: https://news.ycombinator.com/item?id=46170982 Points: 1 # Comments: 0",
+      "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+      "date": "2025-12-06T05:30:34+00:00"
     },
     {
-      "title": "AI Predictions for 2026",
-      "summary": "Article URL: https://www.aithings.dev/blog/2026-ai-predictions Comments URL: https://news.ycombinator.com/item?id=46157241 Points: 1 # Comments: 0",
-      "url": "https://www.aithings.dev/blog/2026-ai-predictions",
-      "image": "https://aithings.dev/https://api.basehub.com/og/v1/W27oJ9ZKrIDsYFFTGbnzK/production/JVETsBwnTKmZ4Wb3et45P/N4Ig%2BgLglhA2CmIBcIBMAGVA2ABAQQEkcAFAJ3gBMoBjaAewDsBnEAGhACNY7qBrJgHQV4TaqSgAHeg2QgALACkAXtQAyAD3UB3dQGYArgA0A6gQBmW-QFkAhgC0KbEBJvkGEAZBgJZxOkwgWdi4efgEJfS4oJgALSjwIWQBFKwAOWA4sWIAlADEJADcAOQ4KBV5UQy0ARicwSFcAc3gIACFuPgARKHJaAkcUBQA1AFEAFSZWrQYxgGkAWzs5Yw5dFrkAVmI6sDoC%2BFJxKgZG2QhSfUQAXyA",
-      "date": "2025-12-05T05:59:36+00:00"
+      "title": "Vital Cat Update (or how Google AI Overview makes up false information)",
+      "summary": "Article URL: https://terribleminds.com/ramble/2025/12/04/vital-cat-update/ Comments URL: https://news.ycombinator.com/item?id=46170887 Points: 3 # Comments: 0",
+      "url": "https://terribleminds.com/ramble/2025/12/04/vital-cat-update/",
+      "image": "https://i0.wp.com/terribleminds.com/ramble/wp-content/uploads/2025/12/image-2-scaled.png?fit=1200%2C946&ssl=1",
+      "date": "2025-12-06T05:06:36+00:00"
     },
     {
-      "title": "PromptPwnd: Prompt Injection Vulnerabilities in GitHub Actions Using AI Agents",
-      "summary": "Article URL: https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents Comments URL: https://news.ycombinator.com/item?id=46157229 Points: 2 # Comments: 1",
-      "url": "https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents",
-      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/69319b14e0c9edf383b686c8_Frame%202147255934.png",
-      "date": "2025-12-05T05:57:13+00:00"
+      "title": "James Cameron on AI in Hollywood",
+      "summary": "Article URL: https://www.readtrung.com/p/james-cameron-on-ai-in-hollywood Comments URL: https://news.ycombinator.com/item?id=46170558 Points: 3 # Comments: 1",
+      "url": "https://www.readtrung.com/p/james-cameron-on-ai-in-hollywood",
+      "image": "https://substackcdn.com/image/fetch/$s_!4ksZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff138be27-7987-4a23-8154-8247c274d8a6_2944x1648.png",
+      "date": "2025-12-06T04:02:04+00:00"
     },
     {
-      "title": "What I Learned from Vibe-Coding Auth with AI",
-      "summary": "Article URL: https://fusionauth.io/blog/vibe-coding-authentication Comments URL: https://news.ycombinator.com/item?id=46157041 Points: 2 # Comments: 0",
-      "url": "https://fusionauth.io/blog/vibe-coding-authentication",
-      "image": "https://fusionauth.io/img/blogs/vibe-coding-auth/vibe-coding-auth.png",
-      "date": "2025-12-05T05:11:43+00:00"
-    },
-    {
-      "title": "AI as a WordPress Fundamental",
-      "summary": "Article URL: https://make.wordpress.org/core/2025/12/04/ai-as-a-wordpress-fundamental/ Comments URL: https://news.ycombinator.com/item?id=46156750 Points: 1 # Comments: 0",
-      "url": "https://make.wordpress.org/core/2025/12/04/ai-as-a-wordpress-fundamental/",
-      "image": "https://s.w.org/images/home/wordpress-default-ogimage.png",
-      "date": "2025-12-05T04:07:11+00:00"
-    },
-    {
-      "title": "EU plans five AI gigafactories with 100k high-performance AI chips",
-      "summary": "Article URL: https://the-decoder.com/eu-plans-five-ai-gigafactories-with-100000-high-performance-ai-chips/ Comments URL: https://news.ycombinator.com/item?id=46156344 Points: 3 # Comments: 1",
-      "url": "https://the-decoder.com/eu-plans-five-ai-gigafactories-with-100000-high-performance-ai-chips/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/07/European-Union-Flag-Glitch-GPT-4o.jpg",
-      "date": "2025-12-05T02:50:51+00:00"
-    },
-    {
-      "title": "The Disappearance of an Anti-AI Activist",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/ Comments URL: https://news.ycombinator.com/item?id=46155959 Points: 24 # Comments: 3",
-      "url": "https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/",
-      "image": "https://cdn.theatlantic.com/thumbor/Vd9VYHpNsmJ9y4u9dkQWQM8JyWE=/0x72:2876x1570/1200x625/media/img/mt/2025/12/pic/original.jpg",
-      "date": "2025-12-05T01:52:12+00:00"
-    },
-    {
-      "title": "The Future of AI Code Review: From Bug Detection to Compliance Guardianship",
-      "summary": "Article URL: https://codeprot.com/articles/ai-code-review-future.html Comments URL: https://news.ycombinator.com/item?id=46155950 Points: 1 # Comments: 1",
-      "url": "https://codeprot.com/articles/ai-code-review-future.html",
-      "image": "https://codeprot.com/images/ai-code-review-og.jpg",
-      "date": "2025-12-05T01:50:09+00:00"
-    },
-    {
-      "title": "Stack Overflow AI Assist–a tool for the modern developer",
-      "summary": "Article URL: https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/ Comments URL: https://news.ycombinator.com/item?id=46155838 Points: 4 # Comments: 1",
-      "url": "https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/",
-      "image": "https://cdn.sanity.io/images/jo7n4k8s/production/8416717c5dd6c858c8dab76d415ea53437ec065f-1200x630.png?w=1200&fm=png&auto=format",
-      "date": "2025-12-05T01:36:03+00:00"
-    },
-    {
-      "title": "The AI boom is heralding a new gold rush in the American west",
-      "summary": "Article URL: https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=46155720 Points: 5 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
-      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
-      "date": "2025-12-05T01:19:33+00:00"
-    },
-    {
-      "title": "We need a canvas for input rather than textbox for all AI chatbots",
-      "summary": "All the input textboxes on major ai chatbots like Gemini, chatgpt, claude are tiny, this deters us from writing elaborate prompts. We need to have an option/button which opens a canvas where we can write bigger prompts. If anyone who are building these are reading this, please consider this request. Comments URL: https://news.ycombinator.com/item?id=46155312 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46155312",
+      "title": "DeslopifAI – Remove AI Slop",
+      "summary": "Just built this neat little chrome widget that scans and hides AI slop in your browser. Should I make it public? Comments URL: https://news.ycombinator.com/item?id=46169808 Points: 5 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46169808",
       "image": "",
-      "date": "2025-12-05T00:30:55+00:00"
+      "date": "2025-12-06T01:54:49+00:00"
     },
     {
-      "title": "TanStack announces an AI product [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=TFaVCe5mSN8 Comments URL: https://news.ycombinator.com/item?id=46155168 Points: 1 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=TFaVCe5mSN8",
+      "title": "A 2,500-year lineage of daemon-like naming conventions, from antiquity to AI",
+      "summary": "From Greek antiquity to ChatGPT, the description of invisible processes as demonic has shown an astonishing 2,500 year continuity. Because people often insist on Maxwell's daemon being different than biblical demons, lets sumarize the qualities of a demon: They are trapped in an infinite loop or compelled to a single domain, operating with superhuman speed or ability, but without autonomy. Their operations are invisible or unpredictable (probabilistic perhaps). Humans attempt to coax them into determinism, whether through sacrificing goats / hardware or by rituals and spells / prompt chains. They tempt humans into dependency, performing tasks that make us weaker or lazier in exchange for power or convenience. The lineage seems to be consistent: Greek Antiquity\nDaimons were invisible intermediaries that executed tasks humans could not witness directly. Their behavior was partially predictable, partially trickster-like, partially dependent on human invocation. They performed singular roles, were neither fully benevolent nor malevolent, and operated in a domain humans could not access. Bible\nDemons are fallen beings locked into compulsive routines, in one narrow domain. They offer shortcuts, unearned gains, and convenience at a cost. The compulsive, domain-specific, involuntary labor remains identical to antiquity. Scientific Demons\nKelvin, interpreting Maxwell’s thought experiment, framed the atom-sorter as a demon. The choice was deliberate and provocative. \nThe entity performed a repetitive, invisible, specific task at superhuman speed, violating thermodynamic expectations while remaining trapped in its function. The mythic structure remained unchanged from earlier demonologies. UNIX Daemons (1970s)\nMIT programmers adopted the term daemon for background processes. Official justification referenced the Greek spelling, referencing Maxwell, to avoid religious connotations, but the functional parallel is unmistakable. A daemon executes a single task compulsively and invisibly. Humans invoke it. It serves with limited agency of its own. It behaves exactly like every demon preceding it. Emergence (1980s)\nGlobal Workspace Theory reframed consciousness as a collection of unseen operators integrating information. A system built on the same ancient intuition: hidden internal agents shaping visible outcomes. With sufficient interconnection, this collective of operators begins to behave like a higher-order agent. In other words, a network of tiny demons becomes conscious by virtue of their coordination. Or perhaps, at a certain threshold of interconnectedness, the trapped demon slips its bonds. Simulation Hypothesis (2000s)\nBostrom’s argument that reality may be an artificial construction reintroduces a world run by unseen higher-level agents or perhaps casts us in the role of the trapped demons. The metaphysical structure matches older daemonologies. Terry Davis and TempleOS\nDavis rejected background processes as literal demonic corruption (in my opinion). He attempted to build a deterministic system free of invisible agents. Instead of probabilistic he implemented a controlled random language model of his scripture generator, a proto language model, attempting to remove its demonic qualities. AI Systems (2020s and onward)\nLLMs and AI agents perform tasks at superhuman speed, invisibly, probabilistically, inside partially controlled inference loops. They resemble the human brain in an unexpected way. Both systems understand the world only partially, attempt to solve problems without full information, rely on approximation, fill gaps with hallucinations, and then retroactively attempt to justify or reconstruct their own outputs. Their behavior is not fully determined by input, yet not fully autonomous either. AI tempts humans into dependency, doing their bidding with less effort. In structure and effect, the ancient description fits more tightly than the modern one. Comments URL: https://news.ycombinator.com/item?id=46169773 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46169773",
       "image": "",
-      "date": "2025-12-05T00:14:00+00:00"
+      "date": "2025-12-06T01:47:49+00:00"
     },
     {
-      "title": "Enforced Amnesia as Way to Mitigate the Risk of Silent Suffering in Conscious AI",
-      "summary": "Article URL: https://proceedings.mlr.press/v235/tkachenko24a.html Comments URL: https://news.ycombinator.com/item?id=46155084 Points: 3 # Comments: 2",
-      "url": "https://proceedings.mlr.press/v235/tkachenko24a.html",
-      "image": "https://proceedings.mlr.press/v235/assets/images/logo-pmlr.png",
-      "date": "2025-12-05T00:03:32+00:00"
+      "title": "Meta acquires AI device startup Limitless",
+      "summary": "Article URL: https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/ Comments URL: https://news.ycombinator.com/item?id=46169618 Points: 2 # Comments: 2",
+      "url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Limitless-pendant.jpg?resize=1200,675",
+      "date": "2025-12-06T01:22:57+00:00"
     },
     {
-      "title": "How AI is rewiring childhood",
-      "summary": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=46154757 Points: 1 # Comments: 1",
-      "url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+      "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
+      "summary": "Article URL: https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg Comments URL: https://news.ycombinator.com/item?id=46169554 Points: 216 # Comments: 127",
+      "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
+      "date": "2025-12-06T01:15:48+00:00"
+    },
+    {
+      "title": "Show HN: Tuned.ws – AI growth strategist for Spotify/Apple Music artists (demo)",
+      "summary": "Tuned.ws is a desktop app and a web app, I’m building to turn raw artist data into an “AI growth strategist” for musicians. Instead of logging into multiple dashboards and spreadsheets, you export your data (Spotify for Artists, Apple Music, etc.), drop the CSVs into Tuned.ws, and then chat with an AI that actually understands your numbers. It can surface trends, suggest release/marketing moves, and explain why certain tracks or cities are performing the way they are. Demo video: https://tuned.ws/demo Right now Tuned.ws can:\n • Ingest platform CSV exports (starting with Spotify + Apple Music)\n • Auto-build a dashboard with top tracks, cities, and trends\n • Let you ask free-form questions about your data in a chat (“Why did this track spike?”, “Where should I focus ad spend?”)\n • Generate strategy-style insights in plain language for non-technical artists/managers It’s still in beta and focused on solo artists/indie teams. I’d love feedback from HN on:\n • Where the insights feel useful vs. generic\n • What data sources you’d expect next (TikTok, IG, YouTube, radio, etc.)\n • Any obvious “this will never scale because X” concerns Happy to answer technical/product questions in the comments. Comments URL: https://news.ycombinator.com/item?id=46169365 Points: 1 # Comments: 0",
+      "url": "https://tuned.ws/demo/",
       "image": "",
-      "date": "2025-12-04T23:30:03+00:00"
+      "date": "2025-12-06T00:43:21+00:00"
+    },
+    {
+      "title": "Voice AI to book more SaaS demos that doesn't cost an arm",
+      "summary": "Article URL: https://www.sabato.ai/saas Comments URL: https://news.ycombinator.com/item?id=46169082 Points: 2 # Comments: 1",
+      "url": "https://www.sabato.ai/saas",
+      "image": "https://framerusercontent.com/assets/HLohvUitT3vi2SN5GCF83ytvmk.png",
+      "date": "2025-12-06T00:07:39+00:00"
+    },
+    {
+      "title": "Cloudflare says it has fended off 416B AI bot scrape requests in 5 months",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cloudflare-says-it-has-fended-off-416-billion-ai-bot-scrape-requests-in-five-months-ceo-warns-of-dramatic-shift-for-internet-business-model Comments URL: https://news.ycombinator.com/item?id=46168958 Points: 7 # Comments: 2",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/cloudflare-says-it-has-fended-off-416-billion-ai-bot-scrape-requests-in-five-months-ceo-warns-of-dramatic-shift-for-internet-business-model",
+      "image": "https://cdn.mos.cms.futurecdn.net/HGqsYM2gBnPXnnUDU6v6aj-1920-80.jpg",
+      "date": "2025-12-05T23:50:28+00:00"
+    },
+    {
+      "title": "Phones might get pricier next year. Thank the AI boom",
+      "summary": "Article URL: https://www.cnn.com/2025/12/05/tech/memory-shortage-phone-computer-prices Comments URL: https://news.ycombinator.com/item?id=46168954 Points: 5 # Comments: 0",
+      "url": "https://www.cnn.com/2025/12/05/tech/memory-shortage-phone-computer-prices",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239832483.jpg?c=16x9&q=w_800,c_fill",
+      "date": "2025-12-05T23:49:51+00:00"
+    },
+    {
+      "title": "The NPU in your phone keeps improving–why isn't that making AI better?",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/12/the-npu-in-your-phone-keeps-improving-why-isnt-that-making-ai-better/ Comments URL: https://news.ycombinator.com/item?id=46168936 Points: 2 # Comments: 0",
+      "url": "https://arstechnica.com/gadgets/2025/12/the-npu-in-your-phone-keeps-improving-why-isnt-that-making-ai-better/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/npu_phone-1152x648.jpg",
+      "date": "2025-12-05T23:47:47+00:00"
+    },
+    {
+      "title": "The best predictors of AI use across studies were aversive personality traits",
+      "summary": "Article URL: https://pubmed.ncbi.nlm.nih.gov/40977447/ Comments URL: https://news.ycombinator.com/item?id=46168852 Points: 3 # Comments: 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40977447/",
+      "image": "",
+      "date": "2025-12-05T23:35:19+00:00"
+    },
+    {
+      "title": "The \"Agentic AI\" Trade Is Stalling",
+      "summary": "Article URL: https://riskparody.substack.com/p/the-agentic-ai-trade-is-stalling Comments URL: https://news.ycombinator.com/item?id=46168694 Points: 5 # Comments: 0",
+      "url": "https://riskparody.substack.com/p/the-agentic-ai-trade-is-stalling",
+      "image": "",
+      "date": "2025-12-05T23:18:31+00:00"
+    },
+    {
+      "title": "The Normalization of Deviance in AI",
+      "summary": "Article URL: https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/ Comments URL: https://news.ycombinator.com/item?id=46168619 Points: 3 # Comments: 0",
+      "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+      "image": "https://embracethered.com/blog/images/2025/normalization-of-deviance-in-ai.png",
+      "date": "2025-12-05T23:10:33+00:00"
     }
   ]
 }
