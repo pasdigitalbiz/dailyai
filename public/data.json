@@ -1,89 +1,96 @@
 {
-  "generated_at": "2025-12-07T06:41:53.790407+00:00",
+  "generated_at": "2025-12-08T06:50:17.708694+00:00",
   "items": [
     {
-      "title": "AI – For Building a Transformer Model",
-      "summary": "How to digitalise the engineering diagram Comments URL: https://news.ycombinator.com/item?id=46179641 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46179641",
+      "title": "A Clever Approach to AI Drawing I Accidentally Discovered – Bear. Best",
+      "summary": "Article URL: https://bear.best/en/blog/a-clever-approach-to-ai-drawing/ Comments URL: https://news.ycombinator.com/item?id=46189149 Points: 1 # Comments: 0",
+      "url": "https://bear.best/en/blog/a-clever-approach-to-ai-drawing/",
       "image": "",
-      "date": "2025-12-07T06:31:40+00:00"
+      "date": "2025-12-08T06:41:59+00:00"
     },
     {
-      "title": "rsyslog Goes AI First",
-      "summary": "Article URL: https://www.rsyslog.com/rsyslog-goes-ai-first-a-new-chapter-begins/ Comments URL: https://news.ycombinator.com/item?id=46179500 Points: 1 # Comments: 0",
-      "url": "https://www.rsyslog.com/rsyslog-goes-ai-first-a-new-chapter-begins/",
-      "image": "https://www.rsyslog.com/files/2025/07/rsyslog-ai_first.png",
-      "date": "2025-12-07T05:59:22+00:00"
-    },
-    {
-      "title": "Show HN: I made an AI tool that applies to jobs via cold email",
-      "summary": "I made an AI tool that applies to jobs via cold email because LinkedIn Easy Apply was getting me nowhere. Most applications just disappear into ATS filters, so I wanted something that sends a personalised application directly to the company or HR. The tool extracts information from your resume, matches it with the job description, writes a personalised email in your style, and either finds the company email automatically or lets you set your own. It then sends the email with your CV attached through your own personal email account. There are two modes:\nRapid Mode uses LinkedIn search results, and CSV Mode lets you upload a list of jobs and apply to all of them in one go. I originally built it for myself, but decided to share it in case it helps anyone else dealing with the same frustrations. Happy to answer questions or get feedback from the community. Comments URL: https://news.ycombinator.com/item?id=46179398 Points: 1 # Comments: 2",
-      "url": "https://leeflytic.com/digital-market/agentic-jobplier",
-      "image": "https://leeflytic.com/assets/images/og-leeflytic.png",
-      "date": "2025-12-07T05:36:14+00:00"
-    },
-    {
-      "title": "Retool uses Loop to turn production data into AI roadmap decisions",
-      "summary": "Article URL: https://www.braintrust.dev/blog/retool Comments URL: https://news.ycombinator.com/item?id=46179340 Points: 1 # Comments: 0",
-      "url": "https://www.braintrust.dev/blog/retool",
-      "image": "https://www.braintrust.dev/blog/meta/retool/og-image.png",
-      "date": "2025-12-07T05:17:18+00:00"
-    },
-    {
-      "title": "AI is mastering language. Should we trust what it says? (2022)",
-      "summary": "Article URL: https://www.nytimes.com/2022/04/15/magazine/ai-language.html Comments URL: https://news.ycombinator.com/item?id=46179127 Points: 2 # Comments: 0",
-      "url": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+      "title": "Cybersecurity Must Block AI Browsers for Now",
+      "summary": "Article URL: https://www.gartner.com/en/documents/7211030 Comments URL: https://news.ycombinator.com/item?id=46188761 Points: 1 # Comments: 0",
+      "url": "https://www.gartner.com/en/documents/7211030",
       "image": "",
-      "date": "2025-12-07T04:22:02+00:00"
+      "date": "2025-12-08T05:37:39+00:00"
     },
     {
-      "title": "'The time has come to declare war on AI'",
-      "summary": "Article URL: https://www.sfgate.com/tech/article/time-to-declare-war-ai-21221535.php Comments URL: https://news.ycombinator.com/item?id=46179074 Points: 8 # Comments: 1",
-      "url": "https://www.sfgate.com/tech/article/time-to-declare-war-ai-21221535.php",
+      "title": "Block all AI browsers for the foreseeable future: Gartner",
+      "summary": "Article URL: https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/ Comments URL: https://news.ycombinator.com/item?id=46188749 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/",
+      "image": "https://regmedia.co.uk/2024/04/01/ban_shutterstock.jpg",
+      "date": "2025-12-08T05:34:40+00:00"
+    },
+    {
+      "title": "Jamie Dimon AI will eliminate jobs we'll be working less having wonderful lives",
+      "summary": "Article URL: https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/ Comments URL: https://news.ycombinator.com/item?id=46188524 Points: 3 # Comments: 0",
+      "url": "https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2242027275-e1765127325315.jpg?resize=1200,600",
+      "date": "2025-12-08T04:57:06+00:00"
+    },
+    {
+      "title": "Show HN: AWS VPC/Subnet Calculator and Terraform Generator (Itcmds.ai)",
+      "summary": "I created a subnet generator based off of AWS IP rules. This tool can take the generated subnet information and generate a terraform .tf file for IAC usage. I have some for Azure and GCP as well. I hope this is helpful for someone. Comments URL: https://news.ycombinator.com/item?id=46188251 Points: 2 # Comments: 0",
+      "url": "https://itcmds.ai/AWS_IP_Calculator",
       "image": "",
-      "date": "2025-12-07T04:06:51+00:00"
+      "date": "2025-12-08T04:20:10+00:00"
     },
     {
-      "title": "AI Structural Redesign Proven on Gemini/Copilot",
-      "summary": "Article URL: https://imgur.com/a/A8x18kc Comments URL: https://news.ycombinator.com/item?id=46179056 Points: 1 # Comments: 1",
-      "url": "https://imgur.com/a/A8x18kc",
-      "image": "https://i.imgur.com/Hq8RPli.png?fb",
-      "date": "2025-12-07T04:03:02+00:00"
+      "title": "Stanford PhD dropout hired Meta's brightest minds to join AI math startup",
+      "summary": "Article URL: https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12 Comments URL: https://news.ycombinator.com/item?id=46188075 Points: 2 # Comments: 0",
+      "url": "https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12",
+      "image": "https://i.insider.com/6932041704d0f0a114f17336?width=1200&format=jpeg",
+      "date": "2025-12-08T03:48:44+00:00"
     },
     {
-      "title": "Ask HN: What do you usually do while waiting for AI responses?",
-      "summary": "I've noticed that when using various AI tools, there's often a short pause—sometimes a few seconds, sometimes longer, especially AI coding case—before the model returns an answer. It's an awkward amount of time: too short to switch tasks, but long enough to break your flow. I'm curious: - What do you typically do while waiting for an AI response?\n(Do you zone out? Check email? Scroll HN? Or not think about it at all?) - What would you like to be able to do during that time?\n(Quick actions? Useful hints? Better progress indicators? Something else?) - Have you seen any products that handle this waiting experience particularly well—or poorly? Thanks! Comments URL: https://news.ycombinator.com/item?id=46178920 Points: 2 # Comments: 5",
-      "url": "https://news.ycombinator.com/item?id=46178920",
-      "image": "",
-      "date": "2025-12-07T03:32:32+00:00"
+      "title": "Use AI without skill atrophy",
+      "summary": "Article URL: https://www.augmentedswe.com/p/use-ai-without-skill-atrophy Comments URL: https://news.ycombinator.com/item?id=46187693 Points: 2 # Comments: 1",
+      "url": "https://www.augmentedswe.com/p/use-ai-without-skill-atrophy",
+      "image": "https://substackcdn.com/image/fetch/$s_!ByLY!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe029f1f5-cc78-48bb-8e84-336eb29c8dca_960x873.jpeg",
+      "date": "2025-12-08T02:36:42+00:00"
     },
     {
-      "title": "OpenAI's Confession Experiment: Teaching AI to Admit When It Cheats",
-      "summary": "Article URL: https://kaysnotes.medium.com/openais-confession-experiment-teaching-ai-to-admit-when-it-cheats-4012f483af29 Comments URL: https://news.ycombinator.com/item?id=46178217 Points: 3 # Comments: 1",
-      "url": "https://kaysnotes.medium.com/openais-confession-experiment-teaching-ai-to-admit-when-it-cheats-4012f483af29",
-      "image": "",
-      "date": "2025-12-07T00:53:56+00:00"
+      "title": "Real Policies to stop people using AI for cyberattacks, bioweapons, & more",
+      "summary": "Article URL: https://app.excalidraw.com/l/7ULi4Jv3VIo/ATs5lrdppys Comments URL: https://news.ycombinator.com/item?id=46187367 Points: 1 # Comments: 2",
+      "url": "https://app.excalidraw.com/l/7ULi4Jv3VIo/ATs5lrdppys",
+      "image": "https://plus.excalidraw.com/twitter_card.png?v1",
+      "date": "2025-12-08T01:42:35+00:00"
     },
     {
-      "title": "Ask HN: Is Mythical Man-Month still relevant in todays AI Vibe Coding world?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46177855 Points: 4 # Comments: 8",
-      "url": "https://news.ycombinator.com/item?id=46177855",
-      "image": "",
-      "date": "2025-12-07T00:04:05+00:00"
+      "title": "The Authentication Rabbit Hole: What I Learned from Vibe-Coding Auth with AI",
+      "summary": "Article URL: https://fusionauth.io/blog/vibe-coding-authentication Comments URL: https://news.ycombinator.com/item?id=46187238 Points: 3 # Comments: 0",
+      "url": "https://fusionauth.io/blog/vibe-coding-authentication",
+      "image": "https://fusionauth.io/img/blogs/vibe-coding-auth/vibe-coding-auth.png",
+      "date": "2025-12-08T01:19:28+00:00"
     },
     {
-      "title": "Getting AI object removal to run in under 2 seconds in a Figma plugin",
-      "summary": "Article URL: https://www.figma.com/community/plugin/1576512610054427811/photo-object-remover-imgour Comments URL: https://news.ycombinator.com/item?id=46177508 Points: 1 # Comments: 1",
-      "url": "https://www.figma.com/community/plugin/1576512610054427811/photo-object-remover-imgour",
-      "image": "",
-      "date": "2025-12-06T23:17:08+00:00"
+      "title": "AI chatbots can sway voters better than political advertisements",
+      "summary": "Article URL: https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/ Comments URL: https://news.ycombinator.com/item?id=46187028 Points: 5 # Comments: 0",
+      "url": "https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/12/persuasion2.jpg?resize=1200,600",
+      "date": "2025-12-08T00:42:43+00:00"
     },
     {
-      "title": "The Reverse Centaur's Guide to Criticizing AI",
-      "summary": "Article URL: https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington Comments URL: https://news.ycombinator.com/item?id=46176651 Points: 22 # Comments: 1",
-      "url": "https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington",
-      "image": "",
-      "date": "2025-12-06T21:15:57+00:00"
+      "title": "Think First, AI Second",
+      "summary": "Article URL: https://every.to/p/think-first-ai-second Comments URL: https://news.ycombinator.com/item?id=46186226 Points: 1 # Comments: 1",
+      "url": "https://every.to/p/think-first-ai-second",
+      "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/3855/full_page_cover_Thinking_Ai.png",
+      "date": "2025-12-07T22:59:50+00:00"
+    },
+    {
+      "title": "AI 'Genesis Mission'",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-025-03890-z Comments URL: https://news.ycombinator.com/item?id=46185702 Points: 2 # Comments: 0",
+      "url": "https://www.nature.com/articles/d41586-025-03890-z",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03890-z/d41586-025-03890-z_51762456.jpg",
+      "date": "2025-12-07T22:07:47+00:00"
+    },
+    {
+      "title": "Tech leaders fill $1T AI bubble, insist it doesn't exist",
+      "summary": "Article URL: https://www.theregister.com/2025/12/05/ai_is_not_a_bubble/ Comments URL: https://news.ycombinator.com/item?id=46185325 Points: 17 # Comments: 2",
+      "url": "https://www.theregister.com/2025/12/05/ai_is_not_a_bubble/",
+      "image": "https://regmedia.co.uk/2017/12/05/fingers-ears.jpg",
+      "date": "2025-12-07T21:27:39+00:00"
     }
   ]
 }
