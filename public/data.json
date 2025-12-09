@@ -1,96 +1,124 @@
 {
-  "generated_at": "2025-12-08T06:50:17.708694+00:00",
+  "generated_at": "2025-12-09T06:47:46.477808+00:00",
   "items": [
     {
-      "title": "A Clever Approach to AI Drawing I Accidentally Discovered – Bear. Best",
-      "summary": "Article URL: https://bear.best/en/blog/a-clever-approach-to-ai-drawing/ Comments URL: https://news.ycombinator.com/item?id=46189149 Points: 1 # Comments: 0",
-      "url": "https://bear.best/en/blog/a-clever-approach-to-ai-drawing/",
+      "title": "Forkable Swaps in AI generated food images for its catering partners",
+      "summary": "Article URL: https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering Comments URL: https://news.ycombinator.com/item?id=46201861 Points: 1 # Comments: 0",
+      "url": "https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering",
+      "image": "https://platform.sf.eater.com/wp-content/uploads/sites/28/2025/12/AI_generation_result20251103-3349-r2o0qt.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2025-12-09T06:24:38+00:00"
+    },
+    {
+      "title": "Artificial Intelligence Index Report (2025) [pdf]",
+      "summary": "Article URL: https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf Comments URL: https://news.ycombinator.com/item?id=46201849 Points: 1 # Comments: 0",
+      "url": "https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf",
       "image": "",
-      "date": "2025-12-08T06:41:59+00:00"
+      "date": "2025-12-09T06:23:09+00:00"
     },
     {
-      "title": "Cybersecurity Must Block AI Browsers for Now",
-      "summary": "Article URL: https://www.gartner.com/en/documents/7211030 Comments URL: https://news.ycombinator.com/item?id=46188761 Points: 1 # Comments: 0",
-      "url": "https://www.gartner.com/en/documents/7211030",
+      "title": "AI and recruitment: Are we in a race to the bottom?",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ced6jv76091o Comments URL: https://news.ycombinator.com/item?id=46201832 Points: 1 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/ced6jv76091o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bca7/live/f0db7db0-c3c7-11f0-8456-eff94716b162.jpg",
+      "date": "2025-12-09T06:20:56+00:00"
+    },
+    {
+      "title": "An AI Visibility Deep Dive",
+      "summary": "Article URL: https://amplitude.com/blog/ai-visibility-explained Comments URL: https://news.ycombinator.com/item?id=46201694 Points: 1 # Comments: 0",
+      "url": "https://amplitude.com/blog/ai-visibility-explained",
+      "image": "https://cdn.sanity.io/images/l5rq9j6r/production/0e655a2d02d6c41196cb49acfcae41d9456c08c3-1920x1440.jpg",
+      "date": "2025-12-09T05:51:54+00:00"
+    },
+    {
+      "title": "A mutually incomprehensible AI communication system",
+      "summary": "Article URL: https://www.hackster.io/misetteichan/a-mutually-incomprehensible-ai-conversation-system-ffd922 Comments URL: https://news.ycombinator.com/item?id=46201572 Points: 2 # Comments: 0",
+      "url": "https://www.hackster.io/misetteichan/a-mutually-incomprehensible-ai-conversation-system-ffd922",
+      "image": "https://hackster.imgix.net/uploads/attachments/1875620/_Q0JMvXVom4.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg",
+      "date": "2025-12-09T05:31:33+00:00"
+    },
+    {
+      "title": "The state of enterprise AI [pdf]",
+      "summary": "Article URL: https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf Comments URL: https://news.ycombinator.com/item?id=46201552 Points: 1 # Comments: 0",
+      "url": "https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf",
       "image": "",
-      "date": "2025-12-08T05:37:39+00:00"
+      "date": "2025-12-09T05:28:10+00:00"
     },
     {
-      "title": "Block all AI browsers for the foreseeable future: Gartner",
-      "summary": "Article URL: https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/ Comments URL: https://news.ycombinator.com/item?id=46188749 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/",
-      "image": "https://regmedia.co.uk/2024/04/01/ban_shutterstock.jpg",
-      "date": "2025-12-08T05:34:40+00:00"
+      "title": "Cost of insuring Oracle's debt surges amid financed AI buildout",
+      "summary": "Article URL: https://finance.yahoo.com/video/cost-insuring-oracles-debt-surges-130044801.html Comments URL: https://news.ycombinator.com/item?id=46201099 Points: 1 # Comments: 0",
+      "url": "https://finance.yahoo.com/video/cost-insuring-oracles-debt-surges-130044801.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wzqUbpc1gsmF7wrvlGvCNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f8100770-d134-11f0-bb73-4c4a3db213d8",
+      "date": "2025-12-09T04:02:33+00:00"
     },
     {
-      "title": "Jamie Dimon AI will eliminate jobs we'll be working less having wonderful lives",
-      "summary": "Article URL: https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/ Comments URL: https://news.ycombinator.com/item?id=46188524 Points: 3 # Comments: 0",
-      "url": "https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2242027275-e1765127325315.jpg?resize=1200,600",
-      "date": "2025-12-08T04:57:06+00:00"
+      "title": "IBM to Buy Confluent for $11B to Expand AI Services",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services Comments URL: https://news.ycombinator.com/item?id=46201054 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inHvpEutu.RE/v0/1200x799.jpg",
+      "date": "2025-12-09T03:51:03+00:00"
     },
     {
-      "title": "Show HN: AWS VPC/Subnet Calculator and Terraform Generator (Itcmds.ai)",
-      "summary": "I created a subnet generator based off of AWS IP rules. This tool can take the generated subnet information and generate a terraform .tf file for IAC usage. I have some for Azure and GCP as well. I hope this is helpful for someone. Comments URL: https://news.ycombinator.com/item?id=46188251 Points: 2 # Comments: 0",
-      "url": "https://itcmds.ai/AWS_IP_Calculator",
+      "title": "U.S. Authorities Shut Down Major China-Linked AI Tech Smuggling Network",
+      "summary": "Article URL: https://www.justice.gov/opa/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network Comments URL: https://news.ycombinator.com/item?id=46200832 Points: 7 # Comments: 0",
+      "url": "https://www.justice.gov/opa/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network",
+      "image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "date": "2025-12-09T03:10:13+00:00"
+    },
+    {
+      "title": "Google's First AI Smart Glasses Coming in 2026",
+      "summary": "Article URL: https://www.macrumors.com/2025/12/08/google-ai-smart-glasses-2026/ Comments URL: https://news.ycombinator.com/item?id=46200748 Points: 2 # Comments: 2",
+      "url": "https://www.macrumors.com/2025/12/08/google-ai-smart-glasses-2026/",
+      "image": "https://images.macrumors.com/t/MO4NM2z_92XS3nwpgNPkjPj0Nt4=/1600x/article-new/2025/12/google-android-glasses.jpg",
+      "date": "2025-12-09T02:57:30+00:00"
+    },
+    {
+      "title": "Alaska Plots AI-Driven Digital Identity",
+      "summary": "Article URL: https://reclaimthenet.org/alaska-plans-ai-powered-digital-id-linking-identity-and-payments Comments URL: https://news.ycombinator.com/item?id=46200710 Points: 2 # Comments: 0",
+      "url": "https://reclaimthenet.org/alaska-plans-ai-powered-digital-id-linking-identity-and-payments",
       "image": "",
-      "date": "2025-12-08T04:20:10+00:00"
+      "date": "2025-12-09T02:50:56+00:00"
     },
     {
-      "title": "Stanford PhD dropout hired Meta's brightest minds to join AI math startup",
-      "summary": "Article URL: https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12 Comments URL: https://news.ycombinator.com/item?id=46188075 Points: 2 # Comments: 0",
-      "url": "https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12",
-      "image": "https://i.insider.com/6932041704d0f0a114f17336?width=1200&format=jpeg",
-      "date": "2025-12-08T03:48:44+00:00"
+      "title": "The State of Enterprise AI",
+      "summary": "Article URL: https://openai.com/index/the-state-of-enterprise-ai-2025-report/ Comments URL: https://news.ycombinator.com/item?id=46200685 Points: 2 # Comments: 0",
+      "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report/",
+      "image": "",
+      "date": "2025-12-09T02:46:46+00:00"
     },
     {
-      "title": "Use AI without skill atrophy",
-      "summary": "Article URL: https://www.augmentedswe.com/p/use-ai-without-skill-atrophy Comments URL: https://news.ycombinator.com/item?id=46187693 Points: 2 # Comments: 1",
-      "url": "https://www.augmentedswe.com/p/use-ai-without-skill-atrophy",
-      "image": "https://substackcdn.com/image/fetch/$s_!ByLY!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe029f1f5-cc78-48bb-8e84-336eb29c8dca_960x873.jpeg",
-      "date": "2025-12-08T02:36:42+00:00"
+      "title": "'Circularity' is a flashing warning for the AI boom",
+      "summary": "Article URL: https://www.washingtonpost.com/opinions/2025/12/08/ai-boom-investment-circular-dot-com-bubble/ Comments URL: https://news.ycombinator.com/item?id=46200584 Points: 3 # Comments: 1",
+      "url": "https://www.washingtonpost.com/opinions/2025/12/08/ai-boom-investment-circular-dot-com-bubble/",
+      "image": "",
+      "date": "2025-12-09T02:29:25+00:00"
     },
     {
-      "title": "Real Policies to stop people using AI for cyberattacks, bioweapons, & more",
-      "summary": "Article URL: https://app.excalidraw.com/l/7ULi4Jv3VIo/ATs5lrdppys Comments URL: https://news.ycombinator.com/item?id=46187367 Points: 1 # Comments: 2",
-      "url": "https://app.excalidraw.com/l/7ULi4Jv3VIo/ATs5lrdppys",
-      "image": "https://plus.excalidraw.com/twitter_card.png?v1",
-      "date": "2025-12-08T01:42:35+00:00"
+      "title": "Amorce – Universal Trust Protocol for AI Agents",
+      "summary": "TL;DR: Built a cryptographic trust protocol for AI agents. Think HTTPS for agent communication—Ed25519 signatures, human-in-the-loop approvals, and a searchable agent directory. BLOG POST : https://amorce.io/blog/announcements/introducing-amorce THE PROBLEM AI agents are proliferating, but there's no standard way to verify an agent's identity, ensure communications weren't tampered with, require human approval for critical actions, or discover legitimate agents by capability. When your AI assistant books a flight or makes a purchase, you're trusting it blindly. THE SOLUTION Amorce provides three core pieces: Cryptographic Identity – Every agent gets Ed25519 key pairs. All communications are signed and verified. Human-in-the-Loop – Developers mark critical functions with @hitl_required. Agents pause and request approval before executing. Trust Directory – Public registry at trust.amorce.io where agents register and can be discovered by capability. LIVE DEMO Check out our marketplace demo where two AI agents negotiate a MacBook Pro sale: https://github.com/trebortGolin/agent-marketplace-demo Sarah (buyer) discovers Henri (seller) via the Trust Directory. They negotiate price autonomously ($450 → $500). Both require human approval before completing transaction. Full cryptographic audit trail. QUICK START pip install amorce-sdk python -m amorce register from amorce import Agent agent = Agent(name=\"MyAgent\", capabilities=[\"booking\"]) @agent.hitl_required def make_purchase(amount): return process_payment(amount) TECHNICAL DETAILS Ed25519 for signatures (32-byte keys, ~50μs verification). Firestore backend for Trust Directory. FastAPI for orchestrator. Works with LangChain, CrewAI, AutoGPT. Cloud Run deployment. WHAT'S LIVE Trust Directory: https://trust.amorce.io Python SDK: pip install amorce-sdk JavaScript SDK: npm install @amorce/sdk Console: https://amorce.io Docs: https://amorce.io/docs WHY THIS MATTERS As agents become more autonomous, we need infrastructure that scales with them. Amorce is the foundation for an agent economy - interoperable, verified, and human-controlled. TRY IT git clone https://github.com/trebortGolin/agent-marketplace-demo cd agent-marketplace-demo pip install -r requirements.txt python demo.py Looking forward to feedback! What security concerns do you have about autonomous agents? Comments URL: https://news.ycombinator.com/item?id=46200568 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46200568",
+      "image": "",
+      "date": "2025-12-09T02:26:38+00:00"
     },
     {
-      "title": "The Authentication Rabbit Hole: What I Learned from Vibe-Coding Auth with AI",
-      "summary": "Article URL: https://fusionauth.io/blog/vibe-coding-authentication Comments URL: https://news.ycombinator.com/item?id=46187238 Points: 3 # Comments: 0",
-      "url": "https://fusionauth.io/blog/vibe-coding-authentication",
-      "image": "https://fusionauth.io/img/blogs/vibe-coding-auth/vibe-coding-auth.png",
-      "date": "2025-12-08T01:19:28+00:00"
+      "title": "Linux Foundation Leader: We're Not in an AI Bubble",
+      "summary": "Article URL: https://thenewstack.io/linux-foundation-leader-were-not-in-an-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=46200560 Points: 3 # Comments: 1",
+      "url": "https://thenewstack.io/linux-foundation-leader-were-not-in-an-ai-bubble/",
+      "image": "https://cdn.thenewstack.io/media/2025/12/ed0470df-jim-zemlin-oss-japan-2025-2.jpg",
+      "date": "2025-12-09T02:25:24+00:00"
     },
     {
-      "title": "AI chatbots can sway voters better than political advertisements",
-      "summary": "Article URL: https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/ Comments URL: https://news.ycombinator.com/item?id=46187028 Points: 5 # Comments: 0",
-      "url": "https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/12/persuasion2.jpg?resize=1200,600",
-      "date": "2025-12-08T00:42:43+00:00"
+      "title": "Major N.L. healthcare report contains errors likely generated by AI",
+      "summary": "Article URL: https://theindependent.ca/news/lji/major-n-l-healthcare-report-contains-errors-likely-generated-by-a-i/ Comments URL: https://news.ycombinator.com/item?id=46200468 Points: 3 # Comments: 1",
+      "url": "https://theindependent.ca/news/lji/major-n-l-healthcare-report-contains-errors-likely-generated-by-a-i/",
+      "image": "https://d2wgbk3gn8z3pi.cloudfront.net/wp-content/uploads/2025/11/22114525/DeloitteHHRP-scaled.jpg",
+      "date": "2025-12-09T02:09:10+00:00"
     },
     {
-      "title": "Think First, AI Second",
-      "summary": "Article URL: https://every.to/p/think-first-ai-second Comments URL: https://news.ycombinator.com/item?id=46186226 Points: 1 # Comments: 1",
-      "url": "https://every.to/p/think-first-ai-second",
-      "image": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/3855/full_page_cover_Thinking_Ai.png",
-      "date": "2025-12-07T22:59:50+00:00"
-    },
-    {
-      "title": "AI 'Genesis Mission'",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-03890-z Comments URL: https://news.ycombinator.com/item?id=46185702 Points: 2 # Comments: 0",
-      "url": "https://www.nature.com/articles/d41586-025-03890-z",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03890-z/d41586-025-03890-z_51762456.jpg",
-      "date": "2025-12-07T22:07:47+00:00"
-    },
-    {
-      "title": "Tech leaders fill $1T AI bubble, insist it doesn't exist",
-      "summary": "Article URL: https://www.theregister.com/2025/12/05/ai_is_not_a_bubble/ Comments URL: https://news.ycombinator.com/item?id=46185325 Points: 17 # Comments: 2",
-      "url": "https://www.theregister.com/2025/12/05/ai_is_not_a_bubble/",
-      "image": "https://regmedia.co.uk/2017/12/05/fingers-ears.jpg",
-      "date": "2025-12-07T21:27:39+00:00"
+      "title": "Horses: AI progress is steady. Human equivalence is sudden",
+      "summary": "Article URL: https://andyljones.com/posts/horses.html Comments URL: https://news.ycombinator.com/item?id=46199723 Points: 298 # Comments: 192",
+      "url": "https://andyljones.com/posts/horses.html",
+      "image": "https://andyljones.com/icons/robot-solid.png",
+      "date": "2025-12-09T00:26:35+00:00"
     }
   ]
 }
