@@ -1,96 +1,103 @@
 {
-  "generated_at": "2025-12-10T06:48:37.271849+00:00",
+  "generated_at": "2025-12-11T06:49:40.103428+00:00",
   "items": [
     {
-      "title": "Linux Foundation Announces the Agentic AI Foundation (AAIF)",
-      "summary": "Article URL: https://aaif.io/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation-aaif-anchored-by-new-project-contributions-including-model-context-protocol-mcp-goose-and-agents-md/ Comments URL: https://news.ycombinator.com/item?id=46214699 Points: 2 # Comments: 2",
-      "url": "https://aaif.io/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation-aaif-anchored-by-new-project-contributions-including-model-context-protocol-mcp-goose-and-agents-md/",
+      "title": "China's AI Power Play: Cheap Electricity from Biggest Grid",
+      "summary": "Article URL: https://www.wsj.com/tech/china-ai-electricity-data-centers-d2a86935 Comments URL: https://news.ycombinator.com/item?id=46227891 Points: 3 # Comments: 0",
+      "url": "https://www.wsj.com/tech/china-ai-electricity-data-centers-d2a86935",
       "image": "",
-      "date": "2025-12-10T06:23:33+00:00"
+      "date": "2025-12-11T05:06:27+00:00"
     },
     {
-      "title": "The Artist's Hand: AI Art Pioneers That Existed Before the Boom",
-      "summary": "Article URL: https://nettricegaskins.medium.com/the-artists-hand-ai-art-pioneers-that-existed-before-the-boom-3dafd929e50a Comments URL: https://news.ycombinator.com/item?id=46214582 Points: 1 # Comments: 0",
-      "url": "https://nettricegaskins.medium.com/the-artists-hand-ai-art-pioneers-that-existed-before-the-boom-3dafd929e50a",
+      "title": "Nvidia-backed Starcloud trains first AI model in space",
+      "summary": "Article URL: https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html Comments URL: https://news.ycombinator.com/item?id=46227551 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108239434-1765324482324-Screenshot_2025-12-09_at_65040_PM.png?v=1765324511&w=1920&h=1080",
+      "date": "2025-12-11T04:09:17+00:00"
+    },
+    {
+      "title": "The Normalization of Deviance in AI",
+      "summary": "Article URL: https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/ Comments URL: https://news.ycombinator.com/item?id=46227282 Points: 2 # Comments: 0",
+      "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+      "image": "https://embracethered.com/blog/images/2025/normalization-of-deviance-in-ai.png",
+      "date": "2025-12-11T03:23:05+00:00"
+    },
+    {
+      "title": "Navy, Palantir Announce $448M 'Ship OS' AI Tool for Shipbuilding and Repair",
+      "summary": "Article URL: https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair Comments URL: https://news.ycombinator.com/item?id=46227270 Points: 1 # Comments: 1",
+      "url": "https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair",
       "image": "",
-      "date": "2025-12-10T06:01:47+00:00"
+      "date": "2025-12-11T03:20:20+00:00"
     },
     {
-      "title": "Microsoft investing $17.5B in India for AI and cloud, CEO Satya Nadella says",
-      "summary": "Article URL: https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed Comments URL: https://news.ycombinator.com/item?id=46214546 Points: 2 # Comments: 1",
-      "url": "https://apnews.com/article/india-microsoft-ceo-nadella-modi-artificial-intelligence-e1d0f47dea566488236bdd2c9dd577ed",
-      "image": "https://dims.apnews.com/dims4/default/492190a/2147483647/strip/true/crop/2000x1125+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2Fb8%2F15e9bfce44fde943759071af777d%2Fe7f257a25fd946bbb0856f1f3ab3ce8a",
-      "date": "2025-12-10T05:55:00+00:00"
+      "title": "Instacart's AI-enabled pricing may bump up your grocery costs by as much as 23%",
+      "summary": "Article URL: https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/ Comments URL: https://news.ycombinator.com/item?id=46227253 Points: 3 # Comments: 3",
+      "url": "https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/09/4a650015-732a-4746-bcdb-f72145f0c302/thumbnail/1200x630/e684ba8cc56e043f29542fb6f8589678/gettyimages-1395364375.jpg",
+      "date": "2025-12-11T03:17:45+00:00"
     },
     {
-      "title": "AI Is Killing Entry-Level Programming Jobs. But Could It Also Help Save Them?",
-      "summary": "Article URL: https://thenewstack.io/ai-is-killing-entry-level-programming-jobs-but-could-it-also-help-save-them/ Comments URL: https://news.ycombinator.com/item?id=46214535 Points: 1 # Comments: 0",
-      "url": "https://thenewstack.io/ai-is-killing-entry-level-programming-jobs-but-could-it-also-help-save-them/",
-      "image": "https://cdn.thenewstack.io/media/2025/12/7395e481-oss-japan-druga-2.jpg",
-      "date": "2025-12-10T05:51:42+00:00"
+      "title": "Upload a selfie and get beautiful AI Santa photos for $9.99",
+      "summary": "Article URL: https://www.photojing.com/products/santa-photos Comments URL: https://news.ycombinator.com/item?id=46227234 Points: 1 # Comments: 0",
+      "url": "https://www.photojing.com/products/santa-photos",
+      "image": "http://www.photojing.com/cdn/shop/files/Santa_photo_collage_ver_2_1.png?v=1765415082",
+      "date": "2025-12-11T03:14:38+00:00"
     },
     {
-      "title": "Collective Governance for AI: Points of Intervention",
-      "summary": "Article URL: https://metagov.org/cg-ai/ Comments URL: https://news.ycombinator.com/item?id=46214048 Points: 1 # Comments: 0",
-      "url": "https://metagov.org/cg-ai/",
+      "title": "SEO poisoning with legit AI chats delivers AMOS stealer",
+      "summary": "Article URL: https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust Comments URL: https://news.ycombinator.com/item?id=46227224 Points: 2 # Comments: 0",
+      "url": "https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F3eb6f92aedf74f109c7b4b0897ec39a8%2Fa08d535589c0480a87d467943b15878f",
+      "date": "2025-12-11T03:12:10+00:00"
+    },
+    {
+      "title": "Cryptographers Show That AI Protections Will Always Have Holes",
+      "summary": "Article URL: https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/ Comments URL: https://news.ycombinator.com/item?id=46226750 Points: 3 # Comments: 0",
+      "url": "https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2025/12/GPTJailbreak-crWei-AnJin-Social.jpg",
+      "date": "2025-12-11T02:00:50+00:00"
+    },
+    {
+      "title": "Is AI a Bubble? Why We're Betting on the Installation Phase",
+      "summary": "If you talk to allocators right now, the conversation eventually lands on the same question: “Is this a bubble? And if it is, why are we deploying capital?”\nIt is the right question. And for me, it’s personal.\nI’ve lived through this movie before. I founded a mobile wallet startup during the dot-com mania, riding the wave of euphoria. Years later, I ran a distressed debt hedge fund through the Global Financial Crisis, sifting through the wreckage when the music stopped. Today, as a YC founder myself (Vantedge AI) and GP at Eight Capital (230+ YC investments), I see the current cycle from the inside.\nWe are seeing the same patterns today: enormous capital spend and narratives swinging between “this changes everything” and “this ends badly.”\nIn a recent memo, Howard Marks introduces a distinction that frames my thesis:\nMean-Reversion Bubbles: Financial fads (like subprime) that inflate asset prices without fundamentally improving the world. These end in value destruction.\nInflection Bubbles: Periods where a transformative technology (railroads, internet) gets massively overbuilt. These bubbles destroy investor capital in the short term, but permanently raise productive capacity.\nMy take: AI is almost certainly an Inflection Bubble. It will change the world, but it will incinerate capital along the way.\nHere is how we are navigating it.\n1. Two Bubbles, Not One\nMarks distinguishes between a \"company behavior\" bubble (hyperscalers, GPU build-outs, debt) and an \"investor behavior\" bubble (pricing, lottery-ticket thinking).\nWe don't fund trillion-dollar CapEx. Our strategy is to:\nInvest in the Application Layer: We back early-stage software companies that consume AI infrastructure not build it.\nSmall, Diversified Checks: We enter pre-Demo Day. We avoid the valuation distortion of late-stage rounds.\nIf the AI infra build-out turns out to be overbuilt, the pain sits with those financing $5T of data centers—not with a YC startup using that cheap compute to sell workflow automation to banks. We are not trying to be the next Nvidia; We are backing the founders building on top of it.\n2. Installation vs. Deployment\nTechnological revolutions begin with an Installation Phase—a mania of over-investment that lays the rails. This phase is chaotic and prone to crashes. It is followed by the Deployment Phase: the profitable period where the new technology is embedded into the economy.\nWe are biased toward Deployment. Our portfolio companies don't need the world to be perfect for AI infra valuations. They just need customers with real problems and willingness to pay. As the \"Installation Bubble\" overbuilds capacity, our companies benefit from better unit economics.\n3. Avoiding the Casino\nHaving navigated the GFC, I have a deep aversion to behaviors that end in tears:\nLottery-Ticket Thinking: We avoid betting on massive outcomes with near-zero probability. I don't need a single company to return the fund; We aim for a high hit rate of solid businesses.\nPre-Product Mega-Rounds: We do not participate in very high priced \"seed\" rounds for companies with no shipped product.\n4. YC as a Narrative Filter\nIn a bubble, capital floods into weak teams with good stories. While no filter is perfect, YC comes close:\nSelection: Screens thousands down to the top ~1.5%.\nDiscipline: The 3-month batch forces founders to ship product, not just slides.\nData: Having invested across 11+ batches has enabled us to spot real traction vs. noise.\nConclusion\nI hold two competing thoughts at once:\n\"AI enthusiasm will almost certainly overshoot.\"\n\"AI is one of the most important technology shifts of our lifetimes.\"\nOur job isn't to predict when the bubble pops. It is to avoid being the marginal dollar funding the excess, and instead ensure we own a basket of companies that will define the next decade.\nWe are not betting on the bubble. We are betting on the builders. Comments URL: https://news.ycombinator.com/item?id=46226513 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46226513",
       "image": "",
-      "date": "2025-12-10T04:20:18+00:00"
+      "date": "2025-12-11T01:23:21+00:00"
     },
     {
-      "title": "Linus Torvalds is 'a believer' in using AI to maintain code",
-      "summary": "Article URL: https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/ Comments URL: https://news.ycombinator.com/item?id=46214046 Points: 4 # Comments: 2",
-      "url": "https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/",
-      "image": "https://www.zdnet.com/a/img/resize/4d26b3c622a4c879672835acc172000dafd64e34/2025/12/09/f96e8431-e12f-4252-a22c-74544abc9621/linus-torvalds-and-dirk-hohndel-12092025.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "date": "2025-12-10T04:20:08+00:00"
-    },
-    {
-      "title": "Canadian accused in plot to export Nvidia's AI chips from US to China",
-      "summary": "Article URL: https://nationalpost.com/news/world/canada-nvidia-high-tech-ai-chips-china Comments URL: https://news.ycombinator.com/item?id=46213780 Points: 7 # Comments: 0",
-      "url": "https://nationalpost.com/news/world/canada-nvidia-high-tech-ai-chips-china",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2025/12/NVIDIA-2.jpg",
-      "date": "2025-12-10T03:40:54+00:00"
-    },
-    {
-      "title": "The Future of Business Intelligence Might Be Here",
-      "summary": "Article URL: https://datamethods.substack.com/p/the-future-of-business-intelligence Comments URL: https://news.ycombinator.com/item?id=46213773 Points: 1 # Comments: 0",
-      "url": "https://datamethods.substack.com/p/the-future-of-business-intelligence",
+      "title": "Police swap suspect sketches for AI",
+      "summary": "Article URL: https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/ Comments URL: https://news.ycombinator.com/item?id=46226484 Points: 1 # Comments: 1",
+      "url": "https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/",
       "image": "",
-      "date": "2025-12-10T03:40:20+00:00"
+      "date": "2025-12-11T01:19:14+00:00"
     },
     {
-      "title": "We Benchmarked the Best Video AI Models",
-      "summary": "Article URL: https://www.gmicloud.ai/blog/modelmatch-technical-overview Comments URL: https://news.ycombinator.com/item?id=46213754 Points: 1 # Comments: 0",
-      "url": "https://www.gmicloud.ai/blog/modelmatch-technical-overview",
-      "image": "https://cdn.prod.website-files.com/6683d8c62e4e62685a8d91c8/69373da93e79d25b926b1fa5_Blog_ModelMatch%20Technical%20Overview.png",
-      "date": "2025-12-10T03:37:56+00:00"
+      "title": "DeepSeek is using Nvidia's banned Blackwell AI chips",
+      "summary": "Article URL: https://www.cnbc.com/2025/12/10/nvidia-report-china-deepseek-ai-blackwell-chips.html Comments URL: https://news.ycombinator.com/item?id=46226439 Points: 2 # Comments: 1",
+      "url": "https://www.cnbc.com/2025/12/10/nvidia-report-china-deepseek-ai-blackwell-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108236087-1764784471491-gettyimages-2249114707-HUANG_SENATE.jpeg?v=1765391913&w=1920&h=1080",
+      "date": "2025-12-11T01:14:50+00:00"
     },
     {
-      "title": "MIT researchers \"speak objects into existence\" using AI and robotics",
-      "summary": "Article URL: https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205 Comments URL: https://news.ycombinator.com/item?id=46213684 Points: 1 # Comments: 0",
-      "url": "https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205",
-      "image": "https://news.mit.edu/sites/default/files/images/202511/MIT-MAD-robotic-assembly.jpg",
-      "date": "2025-12-10T03:29:08+00:00"
+      "title": "The fix for messy AI agent ecosystems might be here and it's open source",
+      "summary": "Article URL: https://www.zdnet.com/article/agentic-ai-foundation-fix-messy-agent-ecosystems/ Comments URL: https://news.ycombinator.com/item?id=46226275 Points: 1 # Comments: 0",
+      "url": "https://www.zdnet.com/article/agentic-ai-foundation-fix-messy-agent-ecosystems/",
+      "image": "https://www.zdnet.com/a/img/resize/4b38eb9655671898856f518fc12afe149abdcaf7/2025/12/10/6f8eafd6-5d0f-48c6-b149-938745d09238/gettyimages-1496275880.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "date": "2025-12-11T00:55:12+00:00"
     },
     {
-      "title": "Show HN: AI Art Platform: Video and Image Creator – VGenie",
-      "summary": "A really good AI video website. I like its design style and interaction method very much Comments URL: https://news.ycombinator.com/item?id=46213507 Points: 1 # Comments: 1",
-      "url": "https://vgenie.ai/home",
-      "image": "https://cdn.vgenie.ai/vg-web/landing/og_image.png",
-      "date": "2025-12-10T02:59:22+00:00"
+      "title": "China government-approved AI hw suppliers: Cambricon and Huawei in, Nvidia out",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/china-starts-list-of-government-approved-ai-hardware-suppliers-cambricon-and-huawei-are-in-nvidia-is-not Comments URL: https://news.ycombinator.com/item?id=46226250 Points: 3 # Comments: 1",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-starts-list-of-government-approved-ai-hardware-suppliers-cambricon-and-huawei-are-in-nvidia-is-not",
+      "image": "https://cdn.mos.cms.futurecdn.net/Bg4AtQ4vEA2beSSb4CXxvH-1280-80.jpg",
+      "date": "2025-12-11T00:53:30+00:00"
     },
     {
-      "title": "You Have Billions Invested in Generative AI",
-      "summary": "Article URL: https://woe-industries.itch.io/you-have-billions-invested-in-generative-ai Comments URL: https://news.ycombinator.com/item?id=46213334 Points: 14 # Comments: 1",
-      "url": "https://woe-industries.itch.io/you-have-billions-invested-in-generative-ai",
-      "image": "https://img.itch.zone/aW1nLzI0NDMzOTIxLnBuZw==/original/i4ImFZ.png",
-      "date": "2025-12-10T02:28:04+00:00"
-    },
-    {
-      "title": "The Seven-Minute Doctor Visit Cannot Understand a Human Body like AI",
-      "summary": "Article URL: https://markatwood.substack.com/p/the-seven-minute-visit-cannot-understand Comments URL: https://news.ycombinator.com/item?id=46213157 Points: 2 # Comments: 0",
-      "url": "https://markatwood.substack.com/p/the-seven-minute-visit-cannot-understand",
-      "image": "",
-      "date": "2025-12-10T01:56:43+00:00"
+      "title": "Something Ominous Is Happening in the AI Economy",
+      "summary": "Article URL: https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/ Comments URL: https://news.ycombinator.com/item?id=46226052 Points: 4 # Comments: 0",
+      "url": "https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/",
+      "image": "https://cdn.theatlantic.com/thumbor/-Pg-k_8FrKzyN7-x5l8RDx-ou2A=/0x43:2000x1085/1200x625/media/img/mt/2025/12/2025_12_09_ai_budget_crisis_horizontal_00/original.jpg",
+      "date": "2025-12-11T00:23:50+00:00"
     }
   ]
 }
