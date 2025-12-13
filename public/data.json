@@ -1,89 +1,89 @@
 {
-  "generated_at": "2025-12-12T06:49:24.482892+00:00",
+  "generated_at": "2025-12-13T06:45:10.664505+00:00",
   "items": [
     {
-      "title": "Why Enterprises Need Evidential Control of AI Mediated Decisions",
-      "summary": "Article URL: https://zenodo.org/records/17906869 Comments URL: https://news.ycombinator.com/item?id=46241414 Points: 1 # Comments: 1",
-      "url": "https://zenodo.org/records/17906869",
+      "title": "Show HN: Zootopia OC Maker – Create Zootopia-Style Original Characters with AI",
+      "summary": "Hi HN, I built Zootopia OC Maker, a small AI tool for creating original characters inspired by Disney’s Zootopia. The idea came from seeing how many fans enjoy world-building, fan fiction, role-playing, and concept art around Zootopia, but don’t necessarily have drawing skills. This tool lets you describe a character (species, job, personality, district, vibe), and it generates a Zootopia-style OC that visually fits into the universe. Link: https://aiocmaker.com/oc-maker/zootopia-oc-maker What it does Generate Zootopia-style animal OCs (police officers, civilians, performers, hackers, reporters, etc.) Supports a wide range of species and city roles Visual style inspired by Zootopia 1 & 2, but characters are fully original Useful for fan fiction, comics, roleplay, storyboarding, or just creative fun Why I built it Most AI image tools are very general. I wanted to experiment with a theme-focused OC maker that understands a specific universe’s tone, proportions, and personality style, while still encouraging original characters rather than copying existing ones. Tech notes Prompt-driven image generation with style constraints Focus on expressive faces, body proportions, and cinematic lighting No copyrighted character replication (OC-only by design) This is still early and very much an experiment. I’d love feedback from HN on: UX / prompt flow How useful this is for creative work Ideas for other themed OC makers Happy to answer questions or share more details. Thanks for checking it out! — Builder of Zootopia OC Maker Comments URL: https://news.ycombinator.com/item?id=46252454 Points: 1 # Comments: 0",
+      "url": "https://aiocmaker.com/oc-maker/zootopia-oc-maker",
       "image": "",
-      "date": "2025-12-12T06:28:25+00:00"
+      "date": "2025-12-13T06:11:03+00:00"
     },
     {
-      "title": "Open AI, Microsoft face lawsuit over ChatGPT's alleged role in murder-suicide",
-      "summary": "Article URL: https://apnews.com/article/ai-chatgpt-wrongful-death-lawsuit-greenwich-97fd7da31c0fa08f3d3ea9efd6713151 Comments URL: https://news.ycombinator.com/item?id=46241262 Points: 2 # Comments: 1",
-      "url": "https://apnews.com/article/ai-chatgpt-wrongful-death-lawsuit-greenwich-97fd7da31c0fa08f3d3ea9efd6713151",
-      "image": "https://dims.apnews.com/dims4/default/1a29ac4/2147483647/strip/true/crop/1230x692+0+577/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2Fcf%2Fcea561318ee2ffbfb96ee1526ec7%2Ff638999703064ceaa91df2c113b3836f",
-      "date": "2025-12-12T05:52:55+00:00"
-    },
-    {
-      "title": "AI toys for kids talk about sex and issue CCP talking points, tests show",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956 Comments URL: https://news.ycombinator.com/item?id=46240612 Points: 5 # Comments: 1",
-      "url": "https://www.nbcnews.com/tech/tech-news/ai-toys-gift-present-safe-kids-robot-child-miko-grok-alilo-miiloo-rcna246956",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251210-ai-toys-group-mn-1000-a4027d.jpg",
-      "date": "2025-12-12T03:36:57+00:00"
-    },
-    {
-      "title": "Innocent Man Gets Arrested at Peppermill Casino After AI Says He's Someone Else [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=B9M4F_U1eEw Comments URL: https://news.ycombinator.com/item?id=46240514 Points: 6 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=B9M4F_U1eEw",
+      "title": "Show HN: OAuth-style authorization for AI agents",
+      "summary": "What would you want to control about AI agents in your life? Would you let an AI agent send emails on your behalf? Most people say \"no\" - too risky. But what if you could set rules like:\n• \"Only send to people in my contacts\"\n• \"Never spend over $50\"\n• \"Only book meetings between 2-4pm\"\n• \"Block domains: competitor.com\" That's what I built. Introducing PIA (Personal Identity Agent) - an authorization platform for AI agents. It's like IAM for your life:\n- Define policies (what agents can/can't do)\n- Agents authenticate via OAuth flow\n- LLM verifies every action against your rules\n- Full audit trail Built an SDK and 5 production agents to prove it:\n Email •  Calendar •  Contacts •  Files •  Tasks All live. All production-ready.\nAll at: digital-embodiments.vercel.app The SDK is on NPM:\nnpm install @variant96/pia-sdk Tech: Next.js, TypeScript, Prisma, NextAuth, Groq/Gemini This is my bet on how we'll safely delegate to AI agents. Thoughts? What would make this more useful? Comments URL: https://news.ycombinator.com/item?id=46251929 Points: 2 # Comments: 0",
+      "url": "https://www.npmjs.com/package/@variant96/pia-sdk",
       "image": "",
-      "date": "2025-12-12T03:20:00+00:00"
+      "date": "2025-12-13T04:14:58+00:00"
     },
     {
-      "title": "LMArena Is a Cancer on AI",
-      "summary": "Article URL: https://surgehq.ai/blog/lmarena-is-a-plague-on-ai Comments URL: https://news.ycombinator.com/item?id=46240450 Points: 5 # Comments: 1",
-      "url": "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai",
-      "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/69385c394b4cc2e3cad4c7bf_lmarena.jpg",
-      "date": "2025-12-12T03:08:46+00:00"
-    },
-    {
-      "title": "PSRT v2.0 – A Generative Theory of Intelligence and Meaning",
-      "summary": "Article URL: https://zenodo.org/records/17905099 Comments URL: https://news.ycombinator.com/item?id=46240337 Points: 1 # Comments: 1",
-      "url": "https://zenodo.org/records/17905099",
+      "title": "Meta's Pivot from Open Source to Money-Making AI Model",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model Comments URL: https://news.ycombinator.com/item?id=46251646 Points: 2 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model",
       "image": "",
-      "date": "2025-12-12T02:51:10+00:00"
+      "date": "2025-12-13T03:11:32+00:00"
     },
     {
-      "title": "AI Social web app",
-      "summary": "Article URL: https://budgetpixel.com/feed Comments URL: https://news.ycombinator.com/item?id=46240185 Points: 1 # Comments: 1",
-      "url": "https://budgetpixel.com/feed",
-      "image": "https://budgetpixel.com/logo.svg",
-      "date": "2025-12-12T02:23:31+00:00"
+      "title": "AI is part of Linux's plumbing – whether developers like it or not",
+      "summary": "Article URL: https://www.zdnet.com/article/ai-is-part-of-linux-plumbing-developers/ Comments URL: https://news.ycombinator.com/item?id=46251402 Points: 2 # Comments: 0",
+      "url": "https://www.zdnet.com/article/ai-is-part-of-linux-plumbing-developers/",
+      "image": "https://www.zdnet.com/a/img/resize/32de96d5f4600a34c131f6c70161ff8918ae469b/2025/12/12/810edd92-1393-44cf-9d93-c2e24e7316cd/gettyimages-804237472-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "date": "2025-12-13T02:21:35+00:00"
     },
     {
-      "title": "The Impact of Visual Generative AI on Advertising Effectiveness",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311 Comments URL: https://news.ycombinator.com/item?id=46240158 Points: 2 # Comments: 0",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311",
+      "title": "Thought Colleague Was a Traitor for Teaching Students to Use AI. Then We Talked",
+      "summary": "Article URL: https://thewalrus.ca/teaching-students-to-use-ai/ Comments URL: https://news.ycombinator.com/item?id=46251290 Points: 1 # Comments: 0",
+      "url": "https://thewalrus.ca/teaching-students-to-use-ai/",
+      "image": "https://walrus-assets.s3.amazonaws.com/img/Perry-AIuniversity-1800.jpg",
+      "date": "2025-12-13T02:03:07+00:00"
+    },
+    {
+      "title": "Sourcedocs.ai – I got tired of writing READMEs, so I built an AI to do it",
+      "summary": "Article URL: https://www.indiehackers.com/post/sourcedocs-ai-i-got-tired-of-writing-readmes-so-i-built-an-ai-to-do-it-9I37gzBUU9HdX3fY8k0s Comments URL: https://news.ycombinator.com/item?id=46250504 Points: 2 # Comments: 1",
+      "url": "https://www.indiehackers.com/post/sourcedocs-ai-i-got-tired-of-writing-readmes-so-i-built-an-ai-to-do-it-9I37gzBUU9HdX3fY8k0s",
+      "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/9I37gzBUU9HdX3fY8k0s",
+      "date": "2025-12-12T23:54:52+00:00"
+    },
+    {
+      "title": "Trump signs order to block states from enforcing own AI rules",
+      "summary": "Article URL: https://www.bbc.com/news/articles/crmddnge9yro Comments URL: https://news.ycombinator.com/item?id=46250055 Points: 8 # Comments: 1",
+      "url": "https://www.bbc.com/news/articles/crmddnge9yro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/24b2/live/fefcbac0-d6f6-11f0-9262-017105b354e8.jpg",
+      "date": "2025-12-12T22:55:29+00:00"
+    },
+    {
+      "title": "Arizona city rejects data center after AI lobbying push",
+      "summary": "Article URL: https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543 Comments URL: https://news.ycombinator.com/item?id=46249820 Points: 19 # Comments: 1",
+      "url": "https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543",
       "image": "",
-      "date": "2025-12-12T02:19:35+00:00"
+      "date": "2025-12-12T22:32:38+00:00"
     },
     {
-      "title": "Building an AI cost-optimizer and AI Slop Prevention tool Looking for feedback.\"",
-      "summary": "Hey — Looking for feedback on my AI cost-optimization + “AI Slop Prevention” tool\nI'm Zach, and I’ve been building AI features for a while now. Like many of you, I started noticing the same painful problems every time I shipped anything that used LLMs.\n The problem (from a developer’s perspective)\nAI bills get out of control fast. Even if you log usage, you still can't answer:\n• “Which model is burning money?”\n• “Why did this prompt suddenly cost 10× more?”\n• “Is this output identical to something we already generated?”\n• “Should this request even go to GPT-4, or would Groq/Claude suffice?”\n• “Why did the LLM produce 3,000 tokens of slop when I asked for 200?”\n• “How do I give my team access without accidentally giving them access to ruin my budget?”\nAnd then there’s AI Slop — unnecessary tokens, verbose responses, hallucinated filler text, or redundant reasoning chains that waste tokens without adding value.\nMost teams have no defense against it.\nI got tired of fighting this manually, so I started building something small… and it turned into a real product.\n Introducing PricePrompter Cloud\nA lightweight proxy + devtool that optimizes AI cost, reduces token waste, and prevents AI slop — without changing how you code.\nYou keep your existing OpenAI/Anthropic calls. We handle the optimization layer behind the scenes.\n What it does\n1⃣ Smart Routing (UCG Engine)\nSend your AI request to PricePrompter → we send it to the cheapest model that satisfies your quality requirements.\n• GPT-4 → Claude-Sonnet if equivalent\n• GPT-3.5 style → Groq if faster/cheaper\n• Or stay on your preferred model with cost warnings\nYour code stays unchanged.\n2⃣ FREE Semantic Caching\nWe automatically store/recognize semantically similar requests and return cached results when safe.\nYou get real observability:\n• Cache hits\n• Cache misses\n• Percentage matched\n• Total savings\nCaching will always remain free.\n3⃣ AI Slop Prevention Engine\nThis is one of the features I’m most excited about.\nWe detect:\n• Overlong responses\n• Repeated sections\n• Chain-of-thought that isn’t needed\n• Redundant reasoning\n• Token inflation\n• Hallucinated filler\nAnd we trim, constrain, or guide the LLM to reduce token waste before the request hits your billing.\nThink of it as:\n“Linting for LLM calls.”\n4⃣ Developer Tools (Cursor-style SDK)\nA VS Code extension + SDK that gives you:\n• Cost per request (live)\n• Alternative model suggestions\n• Token breakdown\n• “Why this request was expensive” explanation\n• Model routing logs\n• Usage analytics directly in your editor\nNo need to open dashboards unless you want deeper insights.\n5⃣ Team & Enterprise Governance\nPractical controls for growing teams:\n• Spending limits\n• Model-level permissions\n• Approval for high-cost requests\n• PII masking\n• Key rotation\n• Audit logs\n• Team-level reporting\nNothing enterprise-y in a bad way — just the stuff dev teams actually need.\n Who this is for\n• Developers building LLM features\n• SaaS teams using expensive models\n• Startups struggling with unpredictable OpenAI bills\n• Agencies running multi-client workloads\n• Anyone experimenting with multi-model routing\n• Anyone who wants visibility into token usage\n• Anyone tired of “AI slop” blowing up their costs\n What I’m looking for:\nI’d love real feedback from developers:\n• Would you trust a proxy that optimizes your LLM cost?\n• Is AI slop prevention actually useful in your workflow?\n• Is free semantic caching valuable?\n• What would make this a must-have devtool?\n• What pricing model makes sense for you?\n• Any dealbreakers or concerns?\nStill shaping the MVP — so your input directly influences what gets built next.\nHappy to answer questions or share a preview.\nThanks ! \n— Zach Comments URL: https://news.ycombinator.com/item?id=46240030 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46240030",
+      "title": "Ask HN: Go all-in on AI Boom vs. enjoy parenthood?",
+      "summary": "After many years of working hard, my wife and I finally decided to have a kid recently. I am looking forward to spending a lot more time with her, while working just a 9-5. However, the AI boom seems like a short-lived, once in a life-time opportunity. Now I am considering if I should dive in fully even if it means sacrificing time with family? Options:\n1) Joining an AI startup \n2) Founding an AI startup \n3) Stay at my big-tech role I make good money at my current role, but I am extremely passionate about the work I do. With the AI boom, there seems to be a lot of great infra, data movement and algorithmic challenges on the table. However, it is also clear that options 1 and 2 seem to require a lot more time commitment than a simple 9-5 job. There are also financial considerations. If AI affects the SWE job market in a meaningful way, my future salary will be drastically low. Maybe it makes sense to devote myself to work for 3-5 more years and make a lot more money in the short term? I understand that there is also some probability associated with the final amount I walk away with. Any others thinking about how to approach the AI boom vs leaning in fully to parenthood? Comments URL: https://news.ycombinator.com/item?id=46249529 Points: 8 # Comments: 15",
+      "url": "https://news.ycombinator.com/item?id=46249529",
       "image": "",
-      "date": "2025-12-12T02:01:25+00:00"
+      "date": "2025-12-12T22:01:37+00:00"
     },
     {
-      "title": "Ensuring a National Policy Framework for Artificial Intelligence",
-      "summary": "Article URL: https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/ Comments URL: https://news.ycombinator.com/item?id=46239500 Points: 3 # Comments: 2",
-      "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
-      "image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-      "date": "2025-12-12T00:44:20+00:00"
+      "title": "How I rehumanize the college classroom for the AI-augmented age",
+      "summary": "Article URL: https://theconversation.com/how-i-rehumanize-the-college-classroom-for-the-ai-augmented-age-269168 Comments URL: https://news.ycombinator.com/item?id=46249226 Points: 2 # Comments: 0",
+      "url": "https://theconversation.com/how-i-rehumanize-the-college-classroom-for-the-ai-augmented-age-269168",
+      "image": "https://images.theconversation.com/files/707879/original/file-20251210-64-lz05o0.jpg?ixlib=rb-4.1.0&rect=0%2C4%2C5616%2C2808&q=45&auto=format&w=1356&h=668&fit=crop",
+      "date": "2025-12-12T21:31:03+00:00"
     },
     {
-      "title": "Google DeepMind Will Open AI Lab in UK to Discover New Materials",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-11/google-deepmind-will-open-a-robotic-ai-lab-in-the-uk-to-discover-new-materials Comments URL: https://news.ycombinator.com/item?id=46239116 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-11/google-deepmind-will-open-a-robotic-ai-lab-in-the-uk-to-discover-new-materials",
-      "image": "",
-      "date": "2025-12-11T23:59:15+00:00"
+      "title": "S&P500 retreats from record/closes down for week as investors rush from AI trade",
+      "summary": "Article URL: https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=46249083 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108241295-17655579172025-12-12t163757z_1022137328_rc22fia6c5ot_rtrmadp_0_usa-stocks.jpeg?v=1765557958&w=1920&h=1080",
+      "date": "2025-12-12T21:18:16+00:00"
     },
     {
-      "title": "Trump signs executive order seeking to ban states from regulating AI companies",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-seeking-ban-state-laws-ai-rcna248741 Comments URL: https://news.ycombinator.com/item?id=46239076 Points: 1 # Comments: 4",
-      "url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-seeking-ban-state-laws-ai-rcna248741",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251211-donald-trump-AI-ew-640p-3b7762.jpg",
-      "date": "2025-12-11T23:56:10+00:00"
+      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3r77j5nze5o Comments URL: https://news.ycombinator.com/item?id=46249008 Points: 5 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/c3r77j5nze5o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05b5/live/8a737610-d77a-11f0-825e-eb4c8fb7e95e.jpg",
+      "date": "2025-12-12T21:10:57+00:00"
     }
   ]
 }
