@@ -1,89 +1,82 @@
 {
-  "generated_at": "2025-12-13T06:45:10.664505+00:00",
+  "generated_at": "2025-12-14T06:44:52.767079+00:00",
   "items": [
     {
-      "title": "Show HN: Zootopia OC Maker – Create Zootopia-Style Original Characters with AI",
-      "summary": "Hi HN, I built Zootopia OC Maker, a small AI tool for creating original characters inspired by Disney’s Zootopia. The idea came from seeing how many fans enjoy world-building, fan fiction, role-playing, and concept art around Zootopia, but don’t necessarily have drawing skills. This tool lets you describe a character (species, job, personality, district, vibe), and it generates a Zootopia-style OC that visually fits into the universe. Link: https://aiocmaker.com/oc-maker/zootopia-oc-maker What it does Generate Zootopia-style animal OCs (police officers, civilians, performers, hackers, reporters, etc.) Supports a wide range of species and city roles Visual style inspired by Zootopia 1 & 2, but characters are fully original Useful for fan fiction, comics, roleplay, storyboarding, or just creative fun Why I built it Most AI image tools are very general. I wanted to experiment with a theme-focused OC maker that understands a specific universe’s tone, proportions, and personality style, while still encouraging original characters rather than copying existing ones. Tech notes Prompt-driven image generation with style constraints Focus on expressive faces, body proportions, and cinematic lighting No copyrighted character replication (OC-only by design) This is still early and very much an experiment. I’d love feedback from HN on: UX / prompt flow How useful this is for creative work Ideas for other themed OC makers Happy to answer questions or share more details. Thanks for checking it out! — Builder of Zootopia OC Maker Comments URL: https://news.ycombinator.com/item?id=46252454 Points: 1 # Comments: 0",
-      "url": "https://aiocmaker.com/oc-maker/zootopia-oc-maker",
+      "title": "Show HN: I built an AI that scans 10k Reddit comments to find 'Blue Ocean' ideas",
+      "summary": "Hi HN,\nI dropped out of college 3 months ago to solve my own problem: I kept building SaaS products that nobody wanted.\nI realized I was guessing instead of measuring. So I built a system to automate \"Market Signal Detection\" using LLMs.\nThe Architecture:\n1. Ingests data primarily from Reddit (niche communities), Hacker News, and rising Search Queries.\n2. Filters for \"Negative Sentiment\" + \"Financial Pain\" (e.g., people complaining about losing money).\n3. Calculates a \"Velocity Score\" to spot trends before they hit mainstream Google Trends.\nI wrote a detailed technical breakdown of the methodology and the \"3 Signals\" I look for (Bleeding Neck, Fragmentation, Wallet Index).\nYou can read the full guide (no paywall) here: https://blog.vect.pro/trend-hacking-guide The tool itself is part of the platform I'm building, but the guide stands alone as a framework for finding ideas manually if you prefer.\nWould love feedback on the signal detection logic.\n- Afraz Comments URL: https://news.ycombinator.com/item?id=46261174 Points: 1 # Comments: 0",
+      "url": "https://blog.vect.pro/trend-hacking-guide",
+      "image": "https://blog.vect.pro/vectai.png",
+      "date": "2025-12-14T06:21:37+00:00"
+    },
+    {
+      "title": "Show HN: Hazbin Hotel OC Maker – Create Original Characters with AI",
+      "summary": "Hi HN I built a Hazbin Hotel OC Maker, an AI-powered tool that helps fans create original characters (OCs) inspired by the Hazbin Hotel universe. As a fan myself, I noticed that many creators struggle to turn vague ideas into a complete OC — especially when it comes to personality, backstory, visual traits, and tone consistency with the Hazbin Hotel style. Most tools focus only on images or only on text, so I wanted to combine both into a single workflow. What it does Generates original Hazbin Hotel–style characters (not existing canon characters) Helps define: Name & demon type Personality traits Backstory & motivations Visual description suitable for artists or AI image tools Designed for writers, roleplayers, and artists Works entirely in the browser, no setup required Why I made it I’m building a broader AI OC creation platform, and this is one of the first focused generators aimed at a specific fandom. Hazbin Hotel has a very distinct tone and aesthetic, which made it an interesting challenge for prompt design and style control. Link Hazbin Hotel OC Maker https://aiocmaker.com/oc-maker/hazbin-hotel-oc-maker Notes This is a fan-made tool and is not affiliated with Vivienne Medrano or A24 Feedback is very welcome — especially from writers and artists who create OCs regularly Happy to answer any questions about the tech, prompts, or design decisions. Thanks for checking it out! — An indie builder Comments URL: https://news.ycombinator.com/item?id=46261079 Points: 1 # Comments: 0",
+      "url": "https://aiocmaker.com/oc-maker/hazbin-hotel-oc-maker",
       "image": "",
-      "date": "2025-12-13T06:11:03+00:00"
+      "date": "2025-12-14T05:56:09+00:00"
     },
     {
-      "title": "Show HN: OAuth-style authorization for AI agents",
-      "summary": "What would you want to control about AI agents in your life? Would you let an AI agent send emails on your behalf? Most people say \"no\" - too risky. But what if you could set rules like:\n• \"Only send to people in my contacts\"\n• \"Never spend over $50\"\n• \"Only book meetings between 2-4pm\"\n• \"Block domains: competitor.com\" That's what I built. Introducing PIA (Personal Identity Agent) - an authorization platform for AI agents. It's like IAM for your life:\n- Define policies (what agents can/can't do)\n- Agents authenticate via OAuth flow\n- LLM verifies every action against your rules\n- Full audit trail Built an SDK and 5 production agents to prove it:\n Email •  Calendar •  Contacts •  Files •  Tasks All live. All production-ready.\nAll at: digital-embodiments.vercel.app The SDK is on NPM:\nnpm install @variant96/pia-sdk Tech: Next.js, TypeScript, Prisma, NextAuth, Groq/Gemini This is my bet on how we'll safely delegate to AI agents. Thoughts? What would make this more useful? Comments URL: https://news.ycombinator.com/item?id=46251929 Points: 2 # Comments: 0",
-      "url": "https://www.npmjs.com/package/@variant96/pia-sdk",
+      "title": "Altman: Super intelligence in 10 years, more extraordinary things in 2026",
+      "summary": "Article URL: https://openai.com/index/ten-years/ Comments URL: https://news.ycombinator.com/item?id=46260895 Points: 2 # Comments: 2",
+      "url": "https://openai.com/index/ten-years/",
       "image": "",
-      "date": "2025-12-13T04:14:58+00:00"
+      "date": "2025-12-14T05:07:59+00:00"
     },
     {
-      "title": "Meta's Pivot from Open Source to Money-Making AI Model",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model Comments URL: https://news.ycombinator.com/item?id=46251646 Points: 2 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model",
+      "title": "The state of enterprise AI – What we're learning about AI at work",
+      "summary": "Article URL: https://openai.com/index/the-state-of-enterprise-ai-2025-report/ Comments URL: https://news.ycombinator.com/item?id=46260463 Points: 1 # Comments: 1",
+      "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report/",
       "image": "",
-      "date": "2025-12-13T03:11:32+00:00"
+      "date": "2025-12-14T03:10:07+00:00"
     },
     {
-      "title": "AI is part of Linux's plumbing – whether developers like it or not",
-      "summary": "Article URL: https://www.zdnet.com/article/ai-is-part-of-linux-plumbing-developers/ Comments URL: https://news.ycombinator.com/item?id=46251402 Points: 2 # Comments: 0",
-      "url": "https://www.zdnet.com/article/ai-is-part-of-linux-plumbing-developers/",
-      "image": "https://www.zdnet.com/a/img/resize/32de96d5f4600a34c131f6c70161ff8918ae469b/2025/12/12/810edd92-1393-44cf-9d93-c2e24e7316cd/gettyimages-804237472-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "date": "2025-12-13T02:21:35+00:00"
-    },
-    {
-      "title": "Thought Colleague Was a Traitor for Teaching Students to Use AI. Then We Talked",
-      "summary": "Article URL: https://thewalrus.ca/teaching-students-to-use-ai/ Comments URL: https://news.ycombinator.com/item?id=46251290 Points: 1 # Comments: 0",
-      "url": "https://thewalrus.ca/teaching-students-to-use-ai/",
-      "image": "https://walrus-assets.s3.amazonaws.com/img/Perry-AIuniversity-1800.jpg",
-      "date": "2025-12-13T02:03:07+00:00"
-    },
-    {
-      "title": "Sourcedocs.ai – I got tired of writing READMEs, so I built an AI to do it",
-      "summary": "Article URL: https://www.indiehackers.com/post/sourcedocs-ai-i-got-tired-of-writing-readmes-so-i-built-an-ai-to-do-it-9I37gzBUU9HdX3fY8k0s Comments URL: https://news.ycombinator.com/item?id=46250504 Points: 2 # Comments: 1",
-      "url": "https://www.indiehackers.com/post/sourcedocs-ai-i-got-tired-of-writing-readmes-so-i-built-an-ai-to-do-it-9I37gzBUU9HdX3fY8k0s",
-      "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/9I37gzBUU9HdX3fY8k0s",
-      "date": "2025-12-12T23:54:52+00:00"
-    },
-    {
-      "title": "Trump signs order to block states from enforcing own AI rules",
-      "summary": "Article URL: https://www.bbc.com/news/articles/crmddnge9yro Comments URL: https://news.ycombinator.com/item?id=46250055 Points: 8 # Comments: 1",
-      "url": "https://www.bbc.com/news/articles/crmddnge9yro",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/24b2/live/fefcbac0-d6f6-11f0-9262-017105b354e8.jpg",
-      "date": "2025-12-12T22:55:29+00:00"
-    },
-    {
-      "title": "Arizona city rejects data center after AI lobbying push",
-      "summary": "Article URL: https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543 Comments URL: https://news.ycombinator.com/item?id=46249820 Points: 19 # Comments: 1",
-      "url": "https://www.politico.com/news/2025/12/12/arizona-city-rejects-data-center-after-ai-lobbying-push-00688543",
+      "title": "Intel Nears $1.6B Deal for AI Chip Startup SambaNova",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova Comments URL: https://news.ycombinator.com/item?id=46260436 Points: 6 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova",
       "image": "",
-      "date": "2025-12-12T22:32:38+00:00"
+      "date": "2025-12-14T03:01:38+00:00"
     },
     {
-      "title": "Ask HN: Go all-in on AI Boom vs. enjoy parenthood?",
-      "summary": "After many years of working hard, my wife and I finally decided to have a kid recently. I am looking forward to spending a lot more time with her, while working just a 9-5. However, the AI boom seems like a short-lived, once in a life-time opportunity. Now I am considering if I should dive in fully even if it means sacrificing time with family? Options:\n1) Joining an AI startup \n2) Founding an AI startup \n3) Stay at my big-tech role I make good money at my current role, but I am extremely passionate about the work I do. With the AI boom, there seems to be a lot of great infra, data movement and algorithmic challenges on the table. However, it is also clear that options 1 and 2 seem to require a lot more time commitment than a simple 9-5 job. There are also financial considerations. If AI affects the SWE job market in a meaningful way, my future salary will be drastically low. Maybe it makes sense to devote myself to work for 3-5 more years and make a lot more money in the short term? I understand that there is also some probability associated with the final amount I walk away with. Any others thinking about how to approach the AI boom vs leaning in fully to parenthood? Comments URL: https://news.ycombinator.com/item?id=46249529 Points: 8 # Comments: 15",
-      "url": "https://news.ycombinator.com/item?id=46249529",
+      "title": "If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",
+      "summary": "Article URL: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain Comments URL: https://news.ycombinator.com/item?id=46260106 Points: 44 # Comments: 17",
+      "url": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain",
+      "image": "https://1393.xyz/og/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain.png",
+      "date": "2025-12-14T01:43:33+00:00"
+    },
+    {
+      "title": "AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says",
+      "summary": "Article URL: https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/ Comments URL: https://news.ycombinator.com/item?id=46259496 Points: 5 # Comments: 0",
+      "url": "https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/",
+      "image": "https://regmedia.co.uk/2024/01/10/shutterstock_ai_hallucination.jpg",
+      "date": "2025-12-14T00:04:00+00:00"
+    },
+    {
+      "title": "China is worried about AI job losses",
+      "summary": "Article URL: https://www.rand.org/pubs/commentary/2025/12/china-is-worried-about-ai-job-losses.html Comments URL: https://news.ycombinator.com/item?id=46259472 Points: 1 # Comments: 0",
+      "url": "https://www.rand.org/pubs/commentary/2025/12/china-is-worried-about-ai-job-losses.html",
       "image": "",
-      "date": "2025-12-12T22:01:37+00:00"
+      "date": "2025-12-14T00:00:49+00:00"
     },
     {
-      "title": "How I rehumanize the college classroom for the AI-augmented age",
-      "summary": "Article URL: https://theconversation.com/how-i-rehumanize-the-college-classroom-for-the-ai-augmented-age-269168 Comments URL: https://news.ycombinator.com/item?id=46249226 Points: 2 # Comments: 0",
-      "url": "https://theconversation.com/how-i-rehumanize-the-college-classroom-for-the-ai-augmented-age-269168",
-      "image": "https://images.theconversation.com/files/707879/original/file-20251210-64-lz05o0.jpg?ixlib=rb-4.1.0&rect=0%2C4%2C5616%2C2808&q=45&auto=format&w=1356&h=668&fit=crop",
-      "date": "2025-12-12T21:31:03+00:00"
+      "title": "Copywriters reveal how AI has decimated their industry",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the Comments URL: https://news.ycombinator.com/item?id=46259380 Points: 5 # Comments: 0",
+      "url": "https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the",
+      "image": "https://substackcdn.com/image/fetch/$s_!Z8kb!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b097389-6f98-4ece-90fe-ba5b018f22e8_1456x1048.jpeg",
+      "date": "2025-12-13T23:46:51+00:00"
     },
     {
-      "title": "S&P500 retreats from record/closes down for week as investors rush from AI trade",
-      "summary": "Article URL: https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=46249083 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108241295-17655579172025-12-12t163757z_1022137328_rc22fia6c5ot_rtrmadp_0_usa-stocks.jpeg?v=1765557958&w=1920&h=1080",
-      "date": "2025-12-12T21:18:16+00:00"
+      "title": "The Core Misconception That Is Driving American AI Policy",
+      "summary": "Article URL: https://garymarcus.substack.com/p/a-deeply-implausible-premise-is-behind Comments URL: https://news.ycombinator.com/item?id=46259368 Points: 1 # Comments: 2",
+      "url": "https://garymarcus.substack.com/p/a-deeply-implausible-premise-is-behind",
+      "image": "",
+      "date": "2025-12-13T23:45:49+00:00"
     },
     {
-      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3r77j5nze5o Comments URL: https://news.ycombinator.com/item?id=46249008 Points: 5 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c3r77j5nze5o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05b5/live/8a737610-d77a-11f0-825e-eb4c8fb7e95e.jpg",
-      "date": "2025-12-12T21:10:57+00:00"
+      "title": "El Salvador teams up with xAI to bring AI to 5k public schools",
+      "summary": "Article URL: https://www.wral.com/story/el-salvador-teams-up-with-elon-musks-xai-to-bring-ai-to-5-000-public-schools/22281958/ Comments URL: https://news.ycombinator.com/item?id=46259266 Points: 3 # Comments: 0",
+      "url": "https://www.wral.com/story/el-salvador-teams-up-with-elon-musks-xai-to-bring-ai-to-5-000-public-schools/22281958/",
+      "image": "https://images.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg",
+      "date": "2025-12-13T23:30:55+00:00"
     }
   ]
 }
