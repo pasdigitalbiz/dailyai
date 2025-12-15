@@ -1,82 +1,124 @@
 {
-  "generated_at": "2025-12-14T06:44:52.767079+00:00",
+  "generated_at": "2025-12-15T06:51:08.617692+00:00",
   "items": [
     {
-      "title": "Show HN: I built an AI that scans 10k Reddit comments to find 'Blue Ocean' ideas",
-      "summary": "Hi HN,\nI dropped out of college 3 months ago to solve my own problem: I kept building SaaS products that nobody wanted.\nI realized I was guessing instead of measuring. So I built a system to automate \"Market Signal Detection\" using LLMs.\nThe Architecture:\n1. Ingests data primarily from Reddit (niche communities), Hacker News, and rising Search Queries.\n2. Filters for \"Negative Sentiment\" + \"Financial Pain\" (e.g., people complaining about losing money).\n3. Calculates a \"Velocity Score\" to spot trends before they hit mainstream Google Trends.\nI wrote a detailed technical breakdown of the methodology and the \"3 Signals\" I look for (Bleeding Neck, Fragmentation, Wallet Index).\nYou can read the full guide (no paywall) here: https://blog.vect.pro/trend-hacking-guide The tool itself is part of the platform I'm building, but the guide stands alone as a framework for finding ideas manually if you prefer.\nWould love feedback on the signal detection logic.\n- Afraz Comments URL: https://news.ycombinator.com/item?id=46261174 Points: 1 # Comments: 0",
-      "url": "https://blog.vect.pro/trend-hacking-guide",
-      "image": "https://blog.vect.pro/vectai.png",
-      "date": "2025-12-14T06:21:37+00:00"
-    },
-    {
-      "title": "Show HN: Hazbin Hotel OC Maker – Create Original Characters with AI",
-      "summary": "Hi HN I built a Hazbin Hotel OC Maker, an AI-powered tool that helps fans create original characters (OCs) inspired by the Hazbin Hotel universe. As a fan myself, I noticed that many creators struggle to turn vague ideas into a complete OC — especially when it comes to personality, backstory, visual traits, and tone consistency with the Hazbin Hotel style. Most tools focus only on images or only on text, so I wanted to combine both into a single workflow. What it does Generates original Hazbin Hotel–style characters (not existing canon characters) Helps define: Name & demon type Personality traits Backstory & motivations Visual description suitable for artists or AI image tools Designed for writers, roleplayers, and artists Works entirely in the browser, no setup required Why I made it I’m building a broader AI OC creation platform, and this is one of the first focused generators aimed at a specific fandom. Hazbin Hotel has a very distinct tone and aesthetic, which made it an interesting challenge for prompt design and style control. Link Hazbin Hotel OC Maker https://aiocmaker.com/oc-maker/hazbin-hotel-oc-maker Notes This is a fan-made tool and is not affiliated with Vivienne Medrano or A24 Feedback is very welcome — especially from writers and artists who create OCs regularly Happy to answer any questions about the tech, prompts, or design decisions. Thanks for checking it out! — An indie builder Comments URL: https://news.ycombinator.com/item?id=46261079 Points: 1 # Comments: 0",
-      "url": "https://aiocmaker.com/oc-maker/hazbin-hotel-oc-maker",
+      "title": "Any reliable free AI business plan generators?",
+      "summary": "I’m in the early planning stage of a new project and looking for tools that can help me structure a rough but reliable business plan. I’m not ready to pay for software yet, so I’m curious if anyone here has used a free AI business plan generator that was actually helpful.\nIf you’ve used any free tools that gave decent, detailed output, what was your experience like?\nNot looking for promotions just honest feedback from people who’ve actually tried them.\nThanks! Comments URL: https://news.ycombinator.com/item?id=46271059 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46271059",
       "image": "",
-      "date": "2025-12-14T05:56:09+00:00"
+      "date": "2025-12-15T06:21:41+00:00"
     },
     {
-      "title": "Altman: Super intelligence in 10 years, more extraordinary things in 2026",
-      "summary": "Article URL: https://openai.com/index/ten-years/ Comments URL: https://news.ycombinator.com/item?id=46260895 Points: 2 # Comments: 2",
-      "url": "https://openai.com/index/ten-years/",
+      "title": "Building AI-Powered Image Generation with OpenAI-Compatible Responses API",
+      "summary": "Article URL: https://vllora.dev/blog/building-ai-powered-image-gen-responses-api/ Comments URL: https://news.ycombinator.com/item?id=46270900 Points: 1 # Comments: 0",
+      "url": "https://vllora.dev/blog/building-ai-powered-image-gen-responses-api/",
+      "image": "https://vllora.dev/img/image-gen/image-gen-responses-api.png",
+      "date": "2025-12-15T05:50:44+00:00"
+    },
+    {
+      "title": "Nvidia-backed Starcloud trains first AI model in space, orbital data centers",
+      "summary": "Article URL: https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html Comments URL: https://news.ycombinator.com/item?id=46270877 Points: 6 # Comments: 1",
+      "url": "https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108239434-1765324482324-Screenshot_2025-12-09_at_65040_PM.png?v=1765324511&w=1920&h=1080",
+      "date": "2025-12-15T05:45:43+00:00"
+    },
+    {
+      "title": "Why Some AI SaaS Ideas Reach $100M",
+      "summary": "When people think about AI startup ideas, they usually imagine something novel, technical, or impressive on a demo. But when you look at AI SaaS companies that quietly reach meaningful scale, the pattern is much less exciting — and much more repeatable. They don’t invent new behaviour. They replace old, manual workflows that people already complain about. Reporting. Ops. Support. Compliance. Sales admin. Boring work that happens every day and costs real money. AI changes the economics. Tasks that once required teams, process, and time can now be handled by small systems built by very few people. That’s where many of the real opportunities live, not in “breakthrough intelligence,” but in obvious pain that finally became cheap enough to solve. What surprised me while researching this was how often the same problems showed up across different communities and industries. Different words, same frustration.\nThat research eventually turned into startupideasdb,com a way to spot AI-friendly SaaS opportunities grounded in repeated, public pain rather than trend-driven ideas. Curious how others here approach this.\nWhen you think about AI SaaS, do you start with the tech, or with the most boring problem you can find? Comments URL: https://news.ycombinator.com/item?id=46270444 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46270444",
       "image": "",
-      "date": "2025-12-14T05:07:59+00:00"
+      "date": "2025-12-15T04:19:51+00:00"
     },
     {
-      "title": "The state of enterprise AI – What we're learning about AI at work",
-      "summary": "Article URL: https://openai.com/index/the-state-of-enterprise-ai-2025-report/ Comments URL: https://news.ycombinator.com/item?id=46260463 Points: 1 # Comments: 1",
-      "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report/",
+      "title": "The Generative AI Industry Is Fraudulent, Immoral and Dangerous",
+      "summary": "Article URL: https://dianne.skoll.ca/writings/ai-is-bad/ Comments URL: https://news.ycombinator.com/item?id=46270264 Points: 9 # Comments: 2",
+      "url": "https://dianne.skoll.ca/writings/ai-is-bad/",
       "image": "",
-      "date": "2025-12-14T03:10:07+00:00"
+      "date": "2025-12-15T03:53:01+00:00"
     },
     {
-      "title": "Intel Nears $1.6B Deal for AI Chip Startup SambaNova",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova Comments URL: https://news.ycombinator.com/item?id=46260436 Points: 6 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-12/intel-nears-1-6-billion-deal-for-ai-chip-startup-sambanova",
+      "title": "The View from Inside the AI Bubble",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/ Comments URL: https://news.ycombinator.com/item?id=46269799 Points: 1 # Comments: 0",
+      "url": "https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/",
+      "image": "https://cdn.theatlantic.com/thumbor/6yBQjSLMBfEUwxwqHa9iIrt8rD8=/3x0:1097x574/960x504/media/img/mt/2025/12/2025_12_12_Ai_mpg/original.gif",
+      "date": "2025-12-15T02:38:13+00:00"
+    },
+    {
+      "title": "'I've been allergic to AI for a long time': an interview with Peter Thiel",
+      "summary": "Article URL: https://www.spectator.co.uk/article/ive-been-allergic-to-ai-for-a-long-time-an-interview-with-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=46269637 Points: 1 # Comments: 1",
+      "url": "https://www.spectator.co.uk/article/ive-been-allergic-to-ai-for-a-long-time-an-interview-with-peter-thiel/",
+      "image": "https://www.spectator.co.uk/wp-content/uploads/2025/12/thiel_inside_colour_002.jpg",
+      "date": "2025-12-15T02:15:34+00:00"
+    },
+    {
+      "title": "Role reversal: Meta adopts Qwen as Chinese AI becomes industry foundation",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3336243/role-reversal-meta-adopts-qwen-chinese-ai-becomes-industry-foundation Comments URL: https://news.ycombinator.com/item?id=46269542 Points: 3 # Comments: 0",
+      "url": "https://www.scmp.com/tech/big-tech/article/3336243/role-reversal-meta-adopts-qwen-chinese-ai-becomes-industry-foundation",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/12/53627e88-1d24-4ddc-8f3f-e6cda1453a54_18274724.jpg?itok=DK_Q4KzJ&v=1765533389",
+      "date": "2025-12-15T02:02:29+00:00"
+    },
+    {
+      "title": "PSRT v2.1 – A Bounded Architecture for Intelligence and Meaning",
+      "summary": "Article URL: https://zenodo.org/records/17932629 Comments URL: https://news.ycombinator.com/item?id=46269537 Points: 1 # Comments: 1",
+      "url": "https://zenodo.org/records/17932629",
       "image": "",
-      "date": "2025-12-14T03:01:38+00:00"
+      "date": "2025-12-15T02:01:47+00:00"
     },
     {
-      "title": "If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",
-      "summary": "Article URL: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain Comments URL: https://news.ycombinator.com/item?id=46260106 Points: 44 # Comments: 17",
-      "url": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain",
-      "image": "https://1393.xyz/og/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain.png",
-      "date": "2025-12-14T01:43:33+00:00"
+      "title": "Redfern Station Christmas artwork to be removed after complaints of 'AI slop'",
+      "summary": "Article URL: https://www.smh.com.au/national/nsw/redfern-station-s-ai-generated-christmas-artwork-to-be-removed-20251127-p5nj0t.html Comments URL: https://news.ycombinator.com/item?id=46269523 Points: 1 # Comments: 0",
+      "url": "https://www.smh.com.au/national/nsw/redfern-station-s-ai-generated-christmas-artwork-to-be-removed-20251127-p5nj0t.html",
+      "image": "https://static.ffx.io/images/$zoom_0.17989243034104027%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_66%2C$y_119/t_crop_custom/q_86%2Cf_auto/caa8dcf159ca8698e915a2384b0905277d883847",
+      "date": "2025-12-15T01:59:40+00:00"
     },
     {
-      "title": "AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says",
-      "summary": "Article URL: https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/ Comments URL: https://news.ycombinator.com/item?id=46259496 Points: 5 # Comments: 0",
-      "url": "https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/",
-      "image": "https://regmedia.co.uk/2024/01/10/shutterstock_ai_hallucination.jpg",
-      "date": "2025-12-14T00:04:00+00:00"
+      "title": "The Architects of AI Are TIME's 2025 Person of the Year",
+      "summary": "Article URL: https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/ Comments URL: https://news.ycombinator.com/item?id=46269518 Points: 2 # Comments: 2",
+      "url": "https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/",
+      "image": "https://api.time.com/wp-content/uploads/2025/12/time-magazine-person-of-the-year-ai-2025-003.jpg?quality=85&w=1200&h=628&crop=1",
+      "date": "2025-12-15T01:58:58+00:00"
     },
     {
-      "title": "China is worried about AI job losses",
-      "summary": "Article URL: https://www.rand.org/pubs/commentary/2025/12/china-is-worried-about-ai-job-losses.html Comments URL: https://news.ycombinator.com/item?id=46259472 Points: 1 # Comments: 0",
-      "url": "https://www.rand.org/pubs/commentary/2025/12/china-is-worried-about-ai-job-losses.html",
+      "title": "How I Use AI for Product Work",
+      "summary": "Article URL: https://elezea.com/2025/12/ai-for-product-management/ Comments URL: https://news.ycombinator.com/item?id=46269093 Points: 2 # Comments: 0",
+      "url": "https://elezea.com/2025/12/ai-for-product-management/",
       "image": "",
-      "date": "2025-12-14T00:00:49+00:00"
+      "date": "2025-12-15T01:07:53+00:00"
     },
     {
-      "title": "Copywriters reveal how AI has decimated their industry",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the Comments URL: https://news.ycombinator.com/item?id=46259380 Points: 5 # Comments: 0",
-      "url": "https://www.bloodinthemachine.com/p/i-was-forced-to-use-ai-until-the",
-      "image": "https://substackcdn.com/image/fetch/$s_!Z8kb!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b097389-6f98-4ece-90fe-ba5b018f22e8_1456x1048.jpeg",
-      "date": "2025-12-13T23:46:51+00:00"
+      "title": "Most people aren't fretting about an AI bubble. What they fear is mass layoffs",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality Comments URL: https://news.ycombinator.com/item?id=46269023 Points: 4 # Comments: 2",
+      "url": "https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality",
+      "image": "https://i.guim.co.uk/img/media/8cc6bbd0024f4ba8485616485bd55f9c34d98452/836_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=036b2f5a87eafd12c35eeb240c61e5bb",
+      "date": "2025-12-15T00:57:33+00:00"
     },
     {
-      "title": "The Core Misconception That Is Driving American AI Policy",
-      "summary": "Article URL: https://garymarcus.substack.com/p/a-deeply-implausible-premise-is-behind Comments URL: https://news.ycombinator.com/item?id=46259368 Points: 1 # Comments: 2",
-      "url": "https://garymarcus.substack.com/p/a-deeply-implausible-premise-is-behind",
-      "image": "",
-      "date": "2025-12-13T23:45:49+00:00"
+      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
+      "summary": "Article URL: https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted Comments URL: https://news.ycombinator.com/item?id=46268844 Points: 119 # Comments: 100",
+      "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
+      "image": "https://www.techpowerup.com/img/LyjhnECZ5Iamtqd9.jpg",
+      "date": "2025-12-15T00:35:41+00:00"
     },
     {
-      "title": "El Salvador teams up with xAI to bring AI to 5k public schools",
-      "summary": "Article URL: https://www.wral.com/story/el-salvador-teams-up-with-elon-musks-xai-to-bring-ai-to-5-000-public-schools/22281958/ Comments URL: https://news.ycombinator.com/item?id=46259266 Points: 3 # Comments: 0",
-      "url": "https://www.wral.com/story/el-salvador-teams-up-with-elon-musks-xai-to-bring-ai-to-5-000-public-schools/22281958/",
-      "image": "https://images.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg",
-      "date": "2025-12-13T23:30:55+00:00"
+      "title": "If AI replaces workers, should it also pay taxes?",
+      "summary": "Article URL: https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html Comments URL: https://news.ycombinator.com/item?id=46268709 Points: 29 # Comments: 69",
+      "url": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7E4S5MDV25MJNBA77WUMWZ3RSQ.jpg?auth=dc176b7a46c8a709d8f029b7ebd061922e4b705eb0b000898609275473b5bead&width=1200",
+      "date": "2025-12-15T00:17:02+00:00"
+    },
+    {
+      "title": "Adding Bits Beats AI Slop",
+      "summary": "Article URL: https://gwern.net/blog/2025/good-ai-samples Comments URL: https://news.ycombinator.com/item?id=46268677 Points: 4 # Comments: 0",
+      "url": "https://gwern.net/blog/2025/good-ai-samples",
+      "image": "https://gwern.net/doc/ai/nn/diffusion/midjourney/2025-03-22-gwern-midjourneyv6-thegreatworkgoeson-fullmetalalchemisthomunculuseyestaringfromjar.png",
+      "date": "2025-12-15T00:13:58+00:00"
+    },
+    {
+      "title": "AI agents are starting to eat SaaS",
+      "summary": "Article URL: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/ Comments URL: https://news.ycombinator.com/item?id=46268452 Points: 82 # Comments: 107",
+      "url": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
+      "image": "https://martinalderson.com/img/og/ai-agents-are-starting-to-eat-saas.png",
+      "date": "2025-12-14T23:48:37+00:00"
     }
   ]
 }
