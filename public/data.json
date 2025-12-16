@@ -1,124 +1,75 @@
 {
-  "generated_at": "2025-12-15T06:51:08.617692+00:00",
+  "generated_at": "2025-12-16T06:49:47.099422+00:00",
   "items": [
     {
-      "title": "Any reliable free AI business plan generators?",
-      "summary": "I’m in the early planning stage of a new project and looking for tools that can help me structure a rough but reliable business plan. I’m not ready to pay for software yet, so I’m curious if anyone here has used a free AI business plan generator that was actually helpful.\nIf you’ve used any free tools that gave decent, detailed output, what was your experience like?\nNot looking for promotions just honest feedback from people who’ve actually tried them.\nThanks! Comments URL: https://news.ycombinator.com/item?id=46271059 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46271059",
+      "title": "Show HN: Atlas – AI YouTube Dubbing and Enhancement",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/atlas-ai-youtube-dubbing/ggkjmkjofkcbaobpohgciabgaocebefc Comments URL: https://news.ycombinator.com/item?id=46285371 Points: 1 # Comments: 1",
+      "url": "https://chromewebstore.google.com/detail/atlas-ai-youtube-dubbing/ggkjmkjofkcbaobpohgciabgaocebefc",
+      "image": "https://lh3.googleusercontent.com/f5yRz6Bmbirki9fd5pdfVv7L0U0RE1wCqEoWG7snnFdGh2e1CQ91BNNMS_OeixUp5HynXb1De11KPl2hszMT22BRbg=s128-rj-sc0x00ffffff",
+      "date": "2025-12-16T06:16:20+00:00"
+    },
+    {
+      "title": "Top AI-Tech Startup Ideas for 2026",
+      "summary": "Whenever people see a title like this, the expectation is usually a list of shiny ideas powered by the latest models. But the AI startup ideas that are most likely to matter in 2026 don’t come from novelty, they come from economics finally working. AI isn’t creating new desires or behaviours. It’s making long-standing, expensive, and frustrating workflows cheap enough to automate. Compliance reviews, internal ops, customer support triage, sales admin, reporting, the kinds of tasks people complain about every day, but tolerate because “that’s just how it works.” What’s different now is that many of these problems can be solved by very small teams. Things that once needed large ops groups or heavy process can now be handled by focused AI systems with clear ROI. While researching this, I noticed the same complaints showing up across different industries and communities. Different words, same pain. Over time, I started collecting these patterns, which turned into startupideasdb, not as a list of predictions, but as a way to ground AI SaaS ideas in repeated, public frustration. you can google startupideasdb:com I’m curious how others here think about 2026.\nWhat problems feel boring today, but suddenly feel inevitable to automate? Comments URL: https://news.ycombinator.com/item?id=46285218 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46285218",
       "image": "",
-      "date": "2025-12-15T06:21:41+00:00"
+      "date": "2025-12-16T05:47:58+00:00"
     },
     {
-      "title": "Building AI-Powered Image Generation with OpenAI-Compatible Responses API",
-      "summary": "Article URL: https://vllora.dev/blog/building-ai-powered-image-gen-responses-api/ Comments URL: https://news.ycombinator.com/item?id=46270900 Points: 1 # Comments: 0",
-      "url": "https://vllora.dev/blog/building-ai-powered-image-gen-responses-api/",
-      "image": "https://vllora.dev/img/image-gen/image-gen-responses-api.png",
-      "date": "2025-12-15T05:50:44+00:00"
-    },
-    {
-      "title": "Nvidia-backed Starcloud trains first AI model in space, orbital data centers",
-      "summary": "Article URL: https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html Comments URL: https://news.ycombinator.com/item?id=46270877 Points: 6 # Comments: 1",
-      "url": "https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108239434-1765324482324-Screenshot_2025-12-09_at_65040_PM.png?v=1765324511&w=1920&h=1080",
-      "date": "2025-12-15T05:45:43+00:00"
-    },
-    {
-      "title": "Why Some AI SaaS Ideas Reach $100M",
-      "summary": "When people think about AI startup ideas, they usually imagine something novel, technical, or impressive on a demo. But when you look at AI SaaS companies that quietly reach meaningful scale, the pattern is much less exciting — and much more repeatable. They don’t invent new behaviour. They replace old, manual workflows that people already complain about. Reporting. Ops. Support. Compliance. Sales admin. Boring work that happens every day and costs real money. AI changes the economics. Tasks that once required teams, process, and time can now be handled by small systems built by very few people. That’s where many of the real opportunities live, not in “breakthrough intelligence,” but in obvious pain that finally became cheap enough to solve. What surprised me while researching this was how often the same problems showed up across different communities and industries. Different words, same frustration.\nThat research eventually turned into startupideasdb,com a way to spot AI-friendly SaaS opportunities grounded in repeated, public pain rather than trend-driven ideas. Curious how others here approach this.\nWhen you think about AI SaaS, do you start with the tech, or with the most boring problem you can find? Comments URL: https://news.ycombinator.com/item?id=46270444 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46270444",
+      "title": "AI-Augmented Memory for Groups",
+      "summary": "Hi HN, We’re building Largemem, (https://largemem.com) a shared knowledge base where groups upload and maintain a common set of documents (PDFs, scans, audio) and query them conversationally. Each group has its own persistent knowledge base. We parse content into chunks, extract entities, and combine vector search with a lightweight knowledge graph, so answers can synthesize information across multiple documents and across the group’s shared context—not just retrieve isolated snippets. We would love to hear your feedback! Comments URL: https://news.ycombinator.com/item?id=46285155 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46285155",
       "image": "",
-      "date": "2025-12-15T04:19:51+00:00"
+      "date": "2025-12-16T05:37:01+00:00"
     },
     {
-      "title": "The Generative AI Industry Is Fraudulent, Immoral and Dangerous",
-      "summary": "Article URL: https://dianne.skoll.ca/writings/ai-is-bad/ Comments URL: https://news.ycombinator.com/item?id=46270264 Points: 9 # Comments: 2",
-      "url": "https://dianne.skoll.ca/writings/ai-is-bad/",
+      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c9qe1e374l1o Comments URL: https://news.ycombinator.com/item?id=46284807 Points: 1 # Comments: 1",
+      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg",
+      "date": "2025-12-16T04:32:59+00:00"
+    },
+    {
+      "title": "Deep Agent Framework, the Pydantic AI Way",
+      "summary": "Article URL: https://vstorm-co.github.io/pydantic-deepagents/ Comments URL: https://news.ycombinator.com/item?id=46284775 Points: 3 # Comments: 1",
+      "url": "https://vstorm-co.github.io/pydantic-deepagents/",
       "image": "",
-      "date": "2025-12-15T03:53:01+00:00"
+      "date": "2025-12-16T04:27:32+00:00"
     },
     {
-      "title": "The View from Inside the AI Bubble",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/ Comments URL: https://news.ycombinator.com/item?id=46269799 Points: 1 # Comments: 0",
-      "url": "https://www.theatlantic.com/technology/2025/12/neurips-ai-bubble-agi/685250/",
-      "image": "https://cdn.theatlantic.com/thumbor/6yBQjSLMBfEUwxwqHa9iIrt8rD8=/3x0:1097x574/960x504/media/img/mt/2025/12/2025_12_12_Ai_mpg/original.gif",
-      "date": "2025-12-15T02:38:13+00:00"
-    },
-    {
-      "title": "'I've been allergic to AI for a long time': an interview with Peter Thiel",
-      "summary": "Article URL: https://www.spectator.co.uk/article/ive-been-allergic-to-ai-for-a-long-time-an-interview-with-peter-thiel/ Comments URL: https://news.ycombinator.com/item?id=46269637 Points: 1 # Comments: 1",
-      "url": "https://www.spectator.co.uk/article/ive-been-allergic-to-ai-for-a-long-time-an-interview-with-peter-thiel/",
-      "image": "https://www.spectator.co.uk/wp-content/uploads/2025/12/thiel_inside_colour_002.jpg",
-      "date": "2025-12-15T02:15:34+00:00"
-    },
-    {
-      "title": "Role reversal: Meta adopts Qwen as Chinese AI becomes industry foundation",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3336243/role-reversal-meta-adopts-qwen-chinese-ai-becomes-industry-foundation Comments URL: https://news.ycombinator.com/item?id=46269542 Points: 3 # Comments: 0",
-      "url": "https://www.scmp.com/tech/big-tech/article/3336243/role-reversal-meta-adopts-qwen-chinese-ai-becomes-industry-foundation",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/12/53627e88-1d24-4ddc-8f3f-e6cda1453a54_18274724.jpg?itok=DK_Q4KzJ&v=1765533389",
-      "date": "2025-12-15T02:02:29+00:00"
-    },
-    {
-      "title": "PSRT v2.1 – A Bounded Architecture for Intelligence and Meaning",
-      "summary": "Article URL: https://zenodo.org/records/17932629 Comments URL: https://news.ycombinator.com/item?id=46269537 Points: 1 # Comments: 1",
-      "url": "https://zenodo.org/records/17932629",
+      "title": "AI and Smart Advertisements Are About to Empty Madison Avenue",
+      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2 Comments URL: https://news.ycombinator.com/item?id=46284720 Points: 1 # Comments: 1",
+      "url": "https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2",
       "image": "",
-      "date": "2025-12-15T02:01:47+00:00"
+      "date": "2025-12-16T04:18:19+00:00"
     },
     {
-      "title": "Redfern Station Christmas artwork to be removed after complaints of 'AI slop'",
-      "summary": "Article URL: https://www.smh.com.au/national/nsw/redfern-station-s-ai-generated-christmas-artwork-to-be-removed-20251127-p5nj0t.html Comments URL: https://news.ycombinator.com/item?id=46269523 Points: 1 # Comments: 0",
-      "url": "https://www.smh.com.au/national/nsw/redfern-station-s-ai-generated-christmas-artwork-to-be-removed-20251127-p5nj0t.html",
-      "image": "https://static.ffx.io/images/$zoom_0.17989243034104027%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_66%2C$y_119/t_crop_custom/q_86%2Cf_auto/caa8dcf159ca8698e915a2384b0905277d883847",
-      "date": "2025-12-15T01:59:40+00:00"
+      "title": "Wall Street eyes AI bubble as skepticism grows over trillion-dollar bets",
+      "summary": "Article URL: https://www.latimes.com/business/story/2025-12-15/wall-street-eyes-ai-bubble-as-skepticism-grows-over-trillion-dollar-bets Comments URL: https://news.ycombinator.com/item?id=46284358 Points: 1 # Comments: 1",
+      "url": "https://www.latimes.com/business/story/2025-12-15/wall-street-eyes-ai-bubble-as-skepticism-grows-over-trillion-dollar-bets",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b831875/2147483647/strip/true/crop/6977x3663+0+494/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2Fca%2F84369dbe4ad78c08c608dde4f61d%2F1f287fb73f3a431f95113dc417ccb52e.jpg",
+      "date": "2025-12-16T03:19:15+00:00"
     },
     {
-      "title": "The Architects of AI Are TIME's 2025 Person of the Year",
-      "summary": "Article URL: https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/ Comments URL: https://news.ycombinator.com/item?id=46269518 Points: 2 # Comments: 2",
-      "url": "https://time.com/7339621/person-of-the-year-2025-ai-architects-choice/",
-      "image": "https://api.time.com/wp-content/uploads/2025/12/time-magazine-person-of-the-year-ai-2025-003.jpg?quality=85&w=1200&h=628&crop=1",
-      "date": "2025-12-15T01:58:58+00:00"
+      "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
+      "summary": "Article URL: https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection Comments URL: https://news.ycombinator.com/item?id=46284266 Points: 326 # Comments: 103",
+      "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
+      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6940043002b9b0e7d938b3ac_1765802302699.jpeg",
+      "date": "2025-12-16T03:03:49+00:00"
     },
     {
-      "title": "How I Use AI for Product Work",
-      "summary": "Article URL: https://elezea.com/2025/12/ai-for-product-management/ Comments URL: https://news.ycombinator.com/item?id=46269093 Points: 2 # Comments: 0",
-      "url": "https://elezea.com/2025/12/ai-for-product-management/",
+      "title": "CoreWeave's Staggering Fall from Market Grace Highlights AI Bubble Fears",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321 Comments URL: https://news.ycombinator.com/item?id=46284254 Points: 1 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321",
       "image": "",
-      "date": "2025-12-15T01:07:53+00:00"
+      "date": "2025-12-16T03:02:31+00:00"
     },
     {
-      "title": "Most people aren't fretting about an AI bubble. What they fear is mass layoffs",
-      "summary": "Article URL: https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality Comments URL: https://news.ycombinator.com/item?id=46269023 Points: 4 # Comments: 2",
-      "url": "https://www.theguardian.com/commentisfree/2025/dec/12/ai-bubble-mass-layoffs-income-inequality",
-      "image": "https://i.guim.co.uk/img/media/8cc6bbd0024f4ba8485616485bd55f9c34d98452/836_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=036b2f5a87eafd12c35eeb240c61e5bb",
-      "date": "2025-12-15T00:57:33+00:00"
-    },
-    {
-      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted",
-      "summary": "Article URL: https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted Comments URL: https://news.ycombinator.com/item?id=46268844 Points: 119 # Comments: 100",
-      "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
-      "image": "https://www.techpowerup.com/img/LyjhnECZ5Iamtqd9.jpg",
-      "date": "2025-12-15T00:35:41+00:00"
-    },
-    {
-      "title": "If AI replaces workers, should it also pay taxes?",
-      "summary": "Article URL: https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html Comments URL: https://news.ycombinator.com/item?id=46268709 Points: 29 # Comments: 69",
-      "url": "https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/7E4S5MDV25MJNBA77WUMWZ3RSQ.jpg?auth=dc176b7a46c8a709d8f029b7ebd061922e4b705eb0b000898609275473b5bead&width=1200",
-      "date": "2025-12-15T00:17:02+00:00"
-    },
-    {
-      "title": "Adding Bits Beats AI Slop",
-      "summary": "Article URL: https://gwern.net/blog/2025/good-ai-samples Comments URL: https://news.ycombinator.com/item?id=46268677 Points: 4 # Comments: 0",
-      "url": "https://gwern.net/blog/2025/good-ai-samples",
-      "image": "https://gwern.net/doc/ai/nn/diffusion/midjourney/2025-03-22-gwern-midjourneyv6-thegreatworkgoeson-fullmetalalchemisthomunculuseyestaringfromjar.png",
-      "date": "2025-12-15T00:13:58+00:00"
-    },
-    {
-      "title": "AI agents are starting to eat SaaS",
-      "summary": "Article URL: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/ Comments URL: https://news.ycombinator.com/item?id=46268452 Points: 82 # Comments: 107",
-      "url": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
-      "image": "https://martinalderson.com/img/og/ai-agents-are-starting-to-eat-saas.png",
-      "date": "2025-12-14T23:48:37+00:00"
+      "title": "Anthropic SDK integration for Microsoft/teams.ai",
+      "summary": "Article URL: https://www.npmjs.com/package/@youdotcom-oss/teams-anthropic Comments URL: https://news.ycombinator.com/item?id=46284213 Points: 1 # Comments: 1",
+      "url": "https://www.npmjs.com/package/@youdotcom-oss/teams-anthropic",
+      "image": "",
+      "date": "2025-12-16T02:55:16+00:00"
     }
   ]
 }
