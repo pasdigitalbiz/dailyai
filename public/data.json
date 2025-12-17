@@ -1,75 +1,117 @@
 {
-  "generated_at": "2025-12-16T06:49:47.099422+00:00",
+  "generated_at": "2025-12-17T06:48:53.540817+00:00",
   "items": [
     {
-      "title": "Show HN: Atlas – AI YouTube Dubbing and Enhancement",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/atlas-ai-youtube-dubbing/ggkjmkjofkcbaobpohgciabgaocebefc Comments URL: https://news.ycombinator.com/item?id=46285371 Points: 1 # Comments: 1",
-      "url": "https://chromewebstore.google.com/detail/atlas-ai-youtube-dubbing/ggkjmkjofkcbaobpohgciabgaocebefc",
-      "image": "https://lh3.googleusercontent.com/f5yRz6Bmbirki9fd5pdfVv7L0U0RE1wCqEoWG7snnFdGh2e1CQ91BNNMS_OeixUp5HynXb1De11KPl2hszMT22BRbg=s128-rj-sc0x00ffffff",
-      "date": "2025-12-16T06:16:20+00:00"
+      "title": "US Government launches 'Tech Force' to hire AI talent",
+      "summary": "Article URL: https://www.cnn.com/2025/12/15/tech/government-tech-force-ai Comments URL: https://news.ycombinator.com/item?id=46298829 Points: 1 # Comments: 0",
+      "url": "https://www.cnn.com/2025/12/15/tech/government-tech-force-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239097553-20251215151114463.jpg?c=16x9&q=w_800,c_fill",
+      "date": "2025-12-17T06:19:49+00:00"
     },
     {
-      "title": "Top AI-Tech Startup Ideas for 2026",
-      "summary": "Whenever people see a title like this, the expectation is usually a list of shiny ideas powered by the latest models. But the AI startup ideas that are most likely to matter in 2026 don’t come from novelty, they come from economics finally working. AI isn’t creating new desires or behaviours. It’s making long-standing, expensive, and frustrating workflows cheap enough to automate. Compliance reviews, internal ops, customer support triage, sales admin, reporting, the kinds of tasks people complain about every day, but tolerate because “that’s just how it works.” What’s different now is that many of these problems can be solved by very small teams. Things that once needed large ops groups or heavy process can now be handled by focused AI systems with clear ROI. While researching this, I noticed the same complaints showing up across different industries and communities. Different words, same pain. Over time, I started collecting these patterns, which turned into startupideasdb, not as a list of predictions, but as a way to ground AI SaaS ideas in repeated, public frustration. you can google startupideasdb:com I’m curious how others here think about 2026.\nWhat problems feel boring today, but suddenly feel inevitable to automate? Comments URL: https://news.ycombinator.com/item?id=46285218 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46285218",
+      "title": "Show HN: Seedance 1.5 Pro – Native Audio-Visual AI Video Generation",
+      "summary": "Hi HN, We’ve been working with Seedance 1.5 Pro, a next-generation AI video model focused on native audio-visual generation—where video, speech, and lip-sync are created together, not stitched together afterward. Unlike traditional pipelines that generate video first and add audio later, Seedance 1.5 Pro produces fully synchronized visuals and sound in a single pass, enabling more natural dialogue, emotion, and storytelling. Key capabilities: Native Audio-Visual Generation: Video, voice, lip movement, and sound effects are generated jointly for tighter sync and realism. Text / Image → Video with Audio: Generate complete talking or narrative videos from text prompts or image references. High-Fidelity Motion & Camera Language: Stable motion, coherent framing, and cinematic camera movements. Multi-Language Lip-Sync: Supports multiple languages with accurate mouth movement and timing. Instruction-Following & Narrative Control: Designed for story-driven and dialogue-heavy video content. Why this matters:\nMost AI video tools still treat audio as an afterthought. Seedance 1.5 Pro explores what happens when audio and video are modeled together from the start, which significantly improves realism for dialogue, narration, and character-driven scenes. We’d love feedback on: How native audio-video generation could change your workflow What creative or production use cases this unlocks What you’d want from an API or developer interface Demo & details here: https://www.jxp.com/seedance/seedance-1-5?i=d1d5k Comments URL: https://news.ycombinator.com/item?id=46298791 Points: 1 # Comments: 0",
+      "url": "https://www.jxp.com/seedance/seedance-1-5",
       "image": "",
-      "date": "2025-12-16T05:47:58+00:00"
+      "date": "2025-12-17T06:12:14+00:00"
     },
     {
-      "title": "AI-Augmented Memory for Groups",
-      "summary": "Hi HN, We’re building Largemem, (https://largemem.com) a shared knowledge base where groups upload and maintain a common set of documents (PDFs, scans, audio) and query them conversationally. Each group has its own persistent knowledge base. We parse content into chunks, extract entities, and combine vector search with a lightweight knowledge graph, so answers can synthesize information across multiple documents and across the group’s shared context—not just retrieve isolated snippets. We would love to hear your feedback! Comments URL: https://news.ycombinator.com/item?id=46285155 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46285155",
+      "title": "Mozilla's New CEO: It's Time to Evolve Firefox into an AI Browser",
+      "summary": "Article URL: https://www.pcmag.com/news/mozillas-new-ceo-its-time-to-evolve-firefox-into-an-ai-browser Comments URL: https://news.ycombinator.com/item?id=46298694 Points: 2 # Comments: 2",
+      "url": "https://www.pcmag.com/news/mozillas-new-ceo-its-time-to-evolve-firefox-into-an-ai-browser",
+      "image": "https://i.pcmag.com/imagery/articles/052W8XBgw2IL9uo9oXou8QD-1.fit_lim.size_1200x630.v1765907219.jpg",
+      "date": "2025-12-17T05:51:29+00:00"
+    },
+    {
+      "title": "Evaluating AI's ability to perform scientific research tasks",
+      "summary": "Article URL: https://openai.com/index/frontierscience/ Comments URL: https://news.ycombinator.com/item?id=46298630 Points: 1 # Comments: 0",
+      "url": "https://openai.com/index/frontierscience/",
       "image": "",
-      "date": "2025-12-16T05:37:01+00:00"
+      "date": "2025-12-17T05:32:57+00:00"
     },
     {
-      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c9qe1e374l1o Comments URL: https://news.ycombinator.com/item?id=46284807 Points: 1 # Comments: 1",
-      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg",
-      "date": "2025-12-16T04:32:59+00:00"
-    },
-    {
-      "title": "Deep Agent Framework, the Pydantic AI Way",
-      "summary": "Article URL: https://vstorm-co.github.io/pydantic-deepagents/ Comments URL: https://news.ycombinator.com/item?id=46284775 Points: 3 # Comments: 1",
-      "url": "https://vstorm-co.github.io/pydantic-deepagents/",
+      "title": "ACM Digital Library started showing AI summaries of articles with abstracts",
+      "summary": "Article URL: https://dl.acm.org/generative-ai/summarizations Comments URL: https://news.ycombinator.com/item?id=46298556 Points: 3 # Comments: 1",
+      "url": "https://dl.acm.org/generative-ai/summarizations",
       "image": "",
-      "date": "2025-12-16T04:27:32+00:00"
+      "date": "2025-12-17T05:21:03+00:00"
     },
     {
-      "title": "AI and Smart Advertisements Are About to Empty Madison Avenue",
-      "summary": "Article URL: https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2 Comments URL: https://news.ycombinator.com/item?id=46284720 Points: 1 # Comments: 1",
-      "url": "https://www.wsj.com/opinion/ai-is-about-to-empty-madison-avenue-58ab2ea2",
+      "title": "AI and camera counter human trafficking",
+      "summary": "Article URL: https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai Comments URL: https://news.ycombinator.com/item?id=46298470 Points: 2 # Comments: 1",
+      "url": "https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62239515&width=1200&height=600&coordinates=0%2C218%2C0%2C13",
+      "date": "2025-12-17T05:05:34+00:00"
+    },
+    {
+      "title": "AI Browser Extensions Leave Fingerprints Everywhere",
+      "summary": "Article URL: https://webdecoy.com/blog/detect-ai-browser-extensions-claude-chatgpt-copilot/ Comments URL: https://news.ycombinator.com/item?id=46298462 Points: 3 # Comments: 0",
+      "url": "https://webdecoy.com/blog/detect-ai-browser-extensions-claude-chatgpt-copilot/",
+      "image": "https://webdecoy.com/social-preview-image.png",
+      "date": "2025-12-17T05:03:42+00:00"
+    },
+    {
+      "title": "Apple TV's new intro was done practical, not CGI or AI [video]",
+      "summary": "Article URL: https://www.youtube.com/shorts/C3uLRJGVkmo Comments URL: https://news.ycombinator.com/item?id=46298297 Points: 4 # Comments: 3",
+      "url": "https://www.youtube.com/shorts/C3uLRJGVkmo",
       "image": "",
-      "date": "2025-12-16T04:18:19+00:00"
+      "date": "2025-12-17T04:35:38+00:00"
     },
     {
-      "title": "Wall Street eyes AI bubble as skepticism grows over trillion-dollar bets",
-      "summary": "Article URL: https://www.latimes.com/business/story/2025-12-15/wall-street-eyes-ai-bubble-as-skepticism-grows-over-trillion-dollar-bets Comments URL: https://news.ycombinator.com/item?id=46284358 Points: 1 # Comments: 1",
-      "url": "https://www.latimes.com/business/story/2025-12-15/wall-street-eyes-ai-bubble-as-skepticism-grows-over-trillion-dollar-bets",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/b831875/2147483647/strip/true/crop/6977x3663+0+494/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2Fca%2F84369dbe4ad78c08c608dde4f61d%2F1f287fb73f3a431f95113dc417ccb52e.jpg",
-      "date": "2025-12-16T03:19:15+00:00"
+      "title": "The Core Problems of AI Coding",
+      "summary": "Article URL: https://magong.se/posts/real-problems-ai-coding-lesswrong Comments URL: https://news.ycombinator.com/item?id=46298200 Points: 2 # Comments: 0",
+      "url": "https://magong.se/posts/real-problems-ai-coding-lesswrong",
+      "image": "https://magong.se/og-image.jpg",
+      "date": "2025-12-17T04:18:24+00:00"
     },
     {
-      "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
-      "summary": "Article URL: https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection Comments URL: https://news.ycombinator.com/item?id=46284266 Points: 326 # Comments: 103",
-      "url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-      "image": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6940043002b9b0e7d938b3ac_1765802302699.jpeg",
-      "date": "2025-12-16T03:03:49+00:00"
+      "title": "The Bifurcation in the AI Market",
+      "summary": "Article URL: https://tomtunguz.com/2025-12-16-open-router-insights/ Comments URL: https://news.ycombinator.com/item?id=46298046 Points: 2 # Comments: 0",
+      "url": "https://tomtunguz.com/2025-12-16-open-router-insights/",
+      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/qi2goq0kx3krfnvheijn",
+      "date": "2025-12-17T03:54:18+00:00"
     },
     {
-      "title": "CoreWeave's Staggering Fall from Market Grace Highlights AI Bubble Fears",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321 Comments URL: https://news.ycombinator.com/item?id=46284254 Points: 1 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321",
+      "title": "OpenAI in Talks to Raise $10B, Adopt Amazon's AI Chips",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-17/openai-in-talks-to-raise-10-billion-from-amazon-information Comments URL: https://news.ycombinator.com/item?id=46298036 Points: 2 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-17/openai-in-talks-to-raise-10-billion-from-amazon-information",
       "image": "",
-      "date": "2025-12-16T03:02:31+00:00"
+      "date": "2025-12-17T03:52:25+00:00"
     },
     {
-      "title": "Anthropic SDK integration for Microsoft/teams.ai",
-      "summary": "Article URL: https://www.npmjs.com/package/@youdotcom-oss/teams-anthropic Comments URL: https://news.ycombinator.com/item?id=46284213 Points: 1 # Comments: 1",
-      "url": "https://www.npmjs.com/package/@youdotcom-oss/teams-anthropic",
+      "title": "The race for an AI Jesus is on",
+      "summary": "Article URL: https://economist.com/united-states/2025/12/16/the-race-for-an-ai-jesus-is-on Comments URL: https://news.ycombinator.com/item?id=46297961 Points: 3 # Comments: 0",
+      "url": "https://economist.com/united-states/2025/12/16/the-race-for-an-ai-jesus-is-on",
       "image": "",
-      "date": "2025-12-16T02:55:16+00:00"
+      "date": "2025-12-17T03:38:56+00:00"
+    },
+    {
+      "title": "Don't Read This If You Want an AI Startup Investors Ignore",
+      "summary": "If you’ve ever pitched an idea and felt investors politely disengage, you know the feeling. They nod. They smile. They ask a few surface questions. And deep down, you can tell, nothing you’re saying feels urgent to them. That moment usually has nothing to do with your intelligence, your effort, or even your execution. It comes down to one thing: the problem doesn’t feel inevitable. Investors don’t fund ideas because they’re clever. They fund them because the pain is obvious, expensive, and already being paid for in some way. Headcount. Time. Workarounds. Stress. AI makes this easier to miss. Everything feels buildable. Every workflow looks automatable. You can ship fast and still build something that doesn’t create pressure on the buyer. The startups investors lean into tend to come from a different place. They’re built around problems people complain about without being prompted. The kind of frustration that shows up repeatedly, across teams and years. That realisation changed how I looked for ideas. Instead of brainstorming, I started collecting real complaints from public forums and founder communities. Over time, that became startupideasdbcom (google it now) not a shortcut to funding, but a way to avoid building something that feels optional. Sharing this here because many capable founders don’t fail, they just pick problems no one is desperate to solve. If you’re thinking about what to build next, I’m curious: what problem do people already pay for, tolerate, or complain about around you? Comments URL: https://news.ycombinator.com/item?id=46297895 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46297895",
+      "image": "",
+      "date": "2025-12-17T03:25:39+00:00"
+    },
+    {
+      "title": "AI romance blooms as Japanese woman weds virtual partner of her dreams",
+      "summary": "Article URL: https://www.reuters.com/investigates/special-report/japan-ai-wedding/ Comments URL: https://news.ycombinator.com/item?id=46297891 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/investigates/special-report/japan-ai-wedding/",
+      "image": "",
+      "date": "2025-12-17T03:24:20+00:00"
+    },
+    {
+      "title": "Linus Torvalds is 'a believer' in using AI to maintain code",
+      "summary": "Article URL: https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/ Comments URL: https://news.ycombinator.com/item?id=46297814 Points: 3 # Comments: 0",
+      "url": "https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/",
+      "image": "https://www.zdnet.com/a/img/resize/4d26b3c622a4c879672835acc172000dafd64e34/2025/12/09/f96e8431-e12f-4252-a22c-74544abc9621/linus-torvalds-and-dirk-hohndel-12092025.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "date": "2025-12-17T03:11:09+00:00"
+    },
+    {
+      "title": "AI Mode, Content and Search Index",
+      "summary": "Article URL: https://dejan.ai/blog/ai-mode-content-search-index/ Comments URL: https://news.ycombinator.com/item?id=46297620 Points: 1 # Comments: 0",
+      "url": "https://dejan.ai/blog/ai-mode-content-search-index/",
+      "image": "",
+      "date": "2025-12-17T02:41:52+00:00"
     }
   ]
 }
