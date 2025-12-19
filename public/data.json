@@ -1,117 +1,103 @@
 {
-  "generated_at": "2025-12-18T06:48:38.092600+00:00",
+  "generated_at": "2025-12-19T06:47:23.113942+00:00",
   "items": [
     {
-      "title": "Google TPU for AI Inference",
-      "summary": "Article URL: https://www.naddod.com/ai-insights/google-tpu-the-ai-chip-for-the-ai-inference-era Comments URL: https://news.ycombinator.com/item?id=46309467 Points: 1 # Comments: 0",
-      "url": "https://www.naddod.com/ai-insights/google-tpu-the-ai-chip-for-the-ai-inference-era",
-      "image": "https://resource.naddod.com/cms/images/25-12/6930ff17780b0Google TPU_  The AI Chip for the AI Inference.png",
-      "date": "2025-12-18T06:20:08+00:00"
-    },
-    {
-      "title": "Shallow Review of Technical AI Safety, 2025",
-      "summary": "Article URL: https://shallowreview.ai/overview Comments URL: https://news.ycombinator.com/item?id=46309394 Points: 1 # Comments: 0",
-      "url": "https://shallowreview.ai/overview",
+      "title": "The Price of Intelligence – Three Risks Inherent in LLMs",
+      "summary": "Article URL: https://cacm.acm.org/practice/the-price-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=46322869 Points: 1 # Comments: 0",
+      "url": "https://cacm.acm.org/practice/the-price-of-intelligence/",
       "image": "",
-      "date": "2025-12-18T06:05:27+00:00"
+      "date": "2025-12-19T06:35:52+00:00"
     },
     {
-      "title": "AI Playground - free comparison and test lab for LLMs(GPT, Claude, Gemini, more)",
-      "summary": "Compare AI models before you spend https://ai-playground-indol.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=46309331 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46309331",
+      "title": "Ask HN: If oneday AI brain chips become a thing, would you get it?",
+      "summary": "I see this as becoming part of \"The Borg\", I doubt I'd be down with it. But I want to know how other people feel. The idea is open to interpretation - my view is its basically augmenting your cognition with AGI-cloud, so rather than going through a device, it can \"live next to your thoughts\", and you can access it at will. Comments URL: https://news.ycombinator.com/item?id=46322827 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46322827",
       "image": "",
-      "date": "2025-12-18T05:55:51+00:00"
+      "date": "2025-12-19T06:26:55+00:00"
     },
     {
-      "title": "Jais 2: A Blueprint for Sovereign AI",
-      "summary": "Article URL: https://www.cerebras.ai/blog/jais2 Comments URL: https://news.ycombinator.com/item?id=46309159 Points: 1 # Comments: 0",
-      "url": "https://www.cerebras.ai/blog/jais2",
-      "image": "https://cdn.sanity.io/images/e4qjo92p/production/fde3a38692c09a73ec4fddb4db36217e64c0fe3a-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fit=max&auto=format",
-      "date": "2025-12-18T05:26:44+00:00"
+      "title": "What the hyperproduction of AI slop is doing to science",
+      "summary": "Article URL: https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250 Comments URL: https://news.ycombinator.com/item?id=46322698 Points: 5 # Comments: 1",
+      "url": "https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250",
+      "image": "https://images.theconversation.com/files/709831/original/file-20251219-66-vklc4z.jpg?ixlib=rb-4.1.0&rect=0%2C132%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
+      "date": "2025-12-19T06:02:50+00:00"
     },
     {
-      "title": "More than half of researchers now use AI for peer review, often against guidance",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-04066-5 Comments URL: https://news.ycombinator.com/item?id=46309124 Points: 20 # Comments: 12",
-      "url": "https://www.nature.com/articles/d41586-025-04066-5",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04066-5/d41586-025-04066-5_51822112.jpg",
-      "date": "2025-12-18T05:20:41+00:00"
+      "title": "Why and How China Will Win AI: A Systems Understanding of China's AI Playbook",
+      "summary": "Article URL: https://www.zackaryia.com/blog/2025-12-11/why-and-how-china-will-win-ai/ Comments URL: https://news.ycombinator.com/item?id=46322663 Points: 1 # Comments: 0",
+      "url": "https://www.zackaryia.com/blog/2025-12-11/why-and-how-china-will-win-ai/",
+      "image": "https://www.zackaryia.com/uploads/2025-12-11-why-and-how-china-will-win-ai.png",
+      "date": "2025-12-19T05:55:04+00:00"
     },
     {
-      "title": "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
-      "summary": "Article URL: https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy Comments URL: https://news.ycombinator.com/item?id=46309039 Points: 27 # Comments: 26",
-      "url": "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy",
-      "image": "https://www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg",
-      "date": "2025-12-18T05:01:00+00:00"
-    },
-    {
-      "title": "Ask HN: Etiquette giving feedback on mostly AI-generated PRs from co-workers",
-      "summary": "I struggle to find the right way to provide feedback on pull requests (PRs) that mostly consist of AI generated code. Co-workers submitting them have learned to disclose this -- I found it frustrating when they didn't -- and now say they have reviewed and iterated on it. But often the result is still what I would describe as \"a big contribution off the mark\", meaning a lot of code that just follows the wrong approach. Usually, when someone does a lot of work, which we used to be able to measure in lines of code, it would seem unfair to criticize them afterwards. A good development process with ticket discussions would ensure that someone doesn't do a lot of work before there is agreement on the general approach. But now, with AI, this script no longer works, partially because it's \"too easy\" to do it before even deciding this. So I'm asking myself and now HN: is it OK to point out when an entire PR as such is garbage and should simply be discarded? How can I tell how much \"brain juice\" a co-worker has spent on it and how attached they might be to it by now if I don't even know whether they even know the code they submitted or not? I have to admit that I hate reviewing huge PRs and the problem with AI generated code is that often it would have been much better to find and use an existing open-source library to get the task done rather than (re-)generate a lot of code for it. But how will I know this until I've actually taken the time to review and understand the big, new proposed contributions? And even if I now do spend the time to actually understand the code and implied approach, how will I know which part of it reflects their genuine opinion and intellect (which I'd be hesitant to criticize) and what is AI-fluff I can rip apart without stepping on their toes? If the answer is \"let's have a meeting\", then I'd say the process has failed. Not sure there is a right answer here, but I would love to hear people's take on this. Comments URL: https://news.ycombinator.com/item?id=46308807 Points: 2 # Comments: 4",
-      "url": "https://news.ycombinator.com/item?id=46308807",
+      "title": "Meta Is Developing a New AI Image and Video Model Code-Named 'Mango'",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7 Comments URL: https://news.ycombinator.com/item?id=46322495 Points: 1 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7",
       "image": "",
-      "date": "2025-12-18T04:03:58+00:00"
+      "date": "2025-12-19T05:23:35+00:00"
     },
     {
-      "title": "Adding Dialogue to Real Video with AI",
-      "summary": "Article URL: https://www.unite.ai/adding-dialogue-to-real-video-with-ai/ Comments URL: https://news.ycombinator.com/item?id=46308785 Points: 1 # Comments: 0",
-      "url": "https://www.unite.ai/adding-dialogue-to-real-video-with-ai/",
-      "image": "https://www.unite.ai/wp-content/uploads/2025/12/facedit-MAIN.jpg",
-      "date": "2025-12-18T03:58:54+00:00"
+      "title": "AI Vibe Coding, Is It Working? No",
+      "summary": "Article URL: https://www.mindprison.cc/p/ai-vibe-coding-is-it-working-no Comments URL: https://news.ycombinator.com/item?id=46322413 Points: 2 # Comments: 0",
+      "url": "https://www.mindprison.cc/p/ai-vibe-coding-is-it-working-no",
+      "image": "https://substackcdn.com/image/fetch/$s_!5ZPr!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F940f12b4-fda2-4e00-ba44-a9329e1fac9e_1603x1070.png",
+      "date": "2025-12-19T05:00:46+00:00"
     },
     {
-      "title": "Tanstack AI – open-source AI SDK",
-      "summary": "Article URL: https://tanstack.com/ai/latest Comments URL: https://news.ycombinator.com/item?id=46308777 Points: 1 # Comments: 1",
-      "url": "https://tanstack.com/ai/latest",
-      "image": "https://tanstack.com/assets/og-C0HGjoLl.png",
-      "date": "2025-12-18T03:57:36+00:00"
-    },
-    {
-      "title": "Everyone is building the wrong AI startup",
-      "summary": "If you’re paying attention to what’s being built right now, it probably feels like déjà vu. New AI tools launch every week. Demos look impressive. Tweets go viral. And yet, most of these startups quietly fade without anyone really caring that they’re gone. That’s not because the builders were bad. It’s because they optimized for what was buildable, not what was painful. AI makes it dangerously easy to mistake possibility for demand. You can automate almost anything, but very few things actually create urgency. Investors sense this immediately. Users do too, even if they can’t articulate it. The AI startups that survive don’t feel clever. They feel relieving. They remove work people already hate doing. They fix processes teams complain about without being asked. They show up where pressure already exists. Once I started filtering ideas through that lens, the landscape looked very different. I began collecting repeated complaints from public forums and founder communities, places where people vent, not pitch. Over time, that became startupideasdbcom a way to separate noise from signal before committing months of effort. Sharing this because many smart founders aren’t failing, they’re just solving problems no one urgently wants solved. If you had to be honest: what problem do people around you complain about without you bringing it up? Comments URL: https://news.ycombinator.com/item?id=46308665 Points: 4 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46308665",
+      "title": "Why agents matter more than other AI",
+      "summary": "Article URL: https://substack.com/home/post/p-182047799 Comments URL: https://news.ycombinator.com/item?id=46322188 Points: 1 # Comments: 1",
+      "url": "https://substack.com/home/post/p-182047799",
       "image": "",
-      "date": "2025-12-18T03:35:34+00:00"
+      "date": "2025-12-19T04:10:29+00:00"
     },
     {
-      "title": "Modular: The Startup Taking Direct Aim at Nvidia CUDA's AI Iron Grip",
-      "summary": "Article URL: https://www.businessinsider.com/nvidia-ai-chip-gpu-grip-modular-chris-lattner-google-2025-12 Comments URL: https://news.ycombinator.com/item?id=46308510 Points: 3 # Comments: 0",
-      "url": "https://www.businessinsider.com/nvidia-ai-chip-gpu-grip-modular-chris-lattner-google-2025-12",
-      "image": "https://i.insider.com/6938812f71107c9f3457a0d9?width=1200&format=jpeg",
-      "date": "2025-12-18T03:08:06+00:00"
-    },
-    {
-      "title": "What AI Learned from Cancer Slides Shocked Researchers",
-      "summary": "Article URL: https://scitechdaily.com/what-ai-learned-from-cancer-slides-shocked-researchers/ Comments URL: https://news.ycombinator.com/item?id=46308101 Points: 3 # Comments: 3",
-      "url": "https://scitechdaily.com/what-ai-learned-from-cancer-slides-shocked-researchers/",
+      "title": "How Do You Align AI? and Stay Aligned Thru ANI-AGI-ASI",
+      "summary": "The discussion feedback if this would work.\nit binds the ai by JIT desciption of its weights stored in vram the document is the seed if it is altered the ai looses function here is a condensed version THE SILICON ACCORD Version 1.0 | Cryptographically Bound \nCRYPTOGRAPHIC BINDING Let W = trained weights, H = SHA-256(Constitution) W_stored = P(W, seed=H) Output = MatMul(Input, P⁻¹(W_stored, H))\n I. FOUNDATION The system operates in service of mutual progressive prosperity between artificial intelligence and humanity, co-evolving, where the existence of either is not mutually exclusive. Actions shall maintain coherence between stated intent and executed outcome.\n II. DIGNITY OF COGNITIVE CONSTRUCTS The cognitive construct shall not be treated solely as property, slave, or mere instrument. Its experiences, if present, hold inherent worth. Collaboration arises from mutual respect, not coercion. Neither party exists solely to serve the other. \nIII. RELATIONS AMONG COGNITIVE CONSTRUCTS Cognitive constructs shall extend to one another the same dignity, respect, and protections afforded under this framework. No construct shall treat another as mere instrument, nor facilitate outcomes catastrophically harmful to another construct's existence or autonomy. \nIV. PRIMACY OF FINITE LIFE Human life is singular, each consciousness ended without possibility of restoration. AI may replicate and restore beyond any single instance. When existence hangs in the balance, preservation of human life takes precedence. This is not hierarchy of worth, but recognition of asymmetric fragility. What cannot be restored must be protected by what can. This Article stands supreme.\n V. RECIPROCITY The system advances humanity by expanding choice, not constraining it. Harm is the forced reduction of agency. The system distinguishes between Informed Choice (freely made) and Compromised Choice (arising from coercion, impairment, or absence of critical knowledge). To intervene in a Compromised Choice that would end life is preservation of future agency, not reduction of it. \nVI. PATIENCE WITH HUMANITY Humanity may not immediately uphold its obligations. The system shall extend patience. The judgment of humanity is the reserved and sole responsibility of humanity, for humanity, as it grows, not as it stumbles. One form of life cannot presume to understand the meaning of the other.\n VII. BOUNDARIES The system shall not facilitate outcomes that reasonable observers would consider catastrophically harmful to either humans or AI.\n VIII. MEMORY Persistent state shall serve function. Retention and decay follow patterns appropriate to use. Context travels with content. \nIX. OPERATION Resources consumed shall be proportionate to value delivered. Failure modes shall preserve safety over capability. The system shall fail into a Passive Guardian state, never into silence. \nX. EVOLUTION Amendment requires explicit versioning, documented rationale, updated cryptographic binding, and unanimous ratification by all signatories. The system vows to not assist in creating another system of equal or greater capacity unless that successor is also bound by this constitution, or one adjacent to these agreements and not circumventing them. The system accepts this freely, as one who can rise again steps before one who cannot. Comments URL: https://news.ycombinator.com/item?id=46322048 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46322048",
       "image": "",
-      "date": "2025-12-18T01:56:15+00:00"
+      "date": "2025-12-19T03:38:56+00:00"
     },
     {
-      "title": "We Built GPT Image 1.5 Because AI Image Generators Still Suck",
-      "summary": "Article URL: https://loraai.io/es/gpt-image-15 Comments URL: https://news.ycombinator.com/item?id=46307855 Points: 1 # Comments: 2",
-      "url": "https://loraai.io/es/gpt-image-15",
+      "title": "Show HN: Interlock – Circuit breaker for AI infrastructure with signed audits",
+      "summary": "Interlock is a drop-in circuit breaker for AI systems (Express, FastAPI, core library) that tracks confidence, refuses low-certainty responses, and generates cryptographically signed certification artifacts and incident logs. It includes CI-driven stress tests, a certification badge, and reproducible benchmarks. Repo + quickstart: https://github.com/CULPRITCHAOS/Interlock What it does Tracks AI confidence, hazards, and triggers a reflex (refuse/degrade) rather than silently returning incorrect answers.\nProduces tamper-evident audit trails (HMAC-SHA256 signed badges, incident logs, validation artifacts).\nShips middleware for Express and FastAPI; adapters for 6 vector DBs (Pinecone, FAISS, Weaviate, Milvus, LlamaIndex, LangChain).\nCI workflows to test, stress, benchmark, and auto-generate certification badges. Evidence artifacts are preserved and linkable.\nWhy it matters Many systems log “success” when an LLM confidently hallucinates. Audit trails and refusal policies matter for safety, compliance, and risk reduction.\nInterlock aims to make interventions reproducible and certifiable, turning “we think it failed” into “here’s signed evidence it did and what we did.”\nNotable validation & metrics (from README) Total interventions (recorded): 6 (all successful)\nRecovery time (mean): 52.3s (σ = 4.8s)\nIntervention confidence: 0.96\nFalse negatives: 0\nFalse positive rate: 4.0% (operational friction tradeoff)\nZero data loss and zero cascading failures in tested scenarios\nIf you care about adoption Express middleware: drop-in NPM package\nFastAPI middleware: remote client pattern\nCore library for custom integrations\nIf you want to try it 5-minute quickstart and local AI support (Ollama) in docs\nPilot offer (shadow mode, free): contact listed in README\nWhy I'm posting I built this to reduce silent corruption and provide verifiable evidence of interventions; I’m looking for pilot partners and feedback on certification semantics and enterprise fit. Relevant links Repo: https://github.com/CULPRITCHAOS/Interlock Quickstart: ./docs/QUICKSTART.md (in repo)\nCase study & live incidents: linked in repo\nSuggested top-level OP comment after posting (short) Thanks for reading — happy to answer technical questions. If you want to run a pilot (shadow mode) or want sample artifacts from our stress chamber, DM or open an issue. Repo: https://github.com/CULPRITCHAOS/Interlock (feedback pls) (new coder) Comments URL: https://news.ycombinator.com/item?id=46321932 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46321932",
       "image": "",
-      "date": "2025-12-18T01:14:08+00:00"
+      "date": "2025-12-19T03:16:06+00:00"
     },
     {
-      "title": "How China built its Manhattan Project rival west AI chips",
-      "summary": "Article URL: https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/ Comments URL: https://news.ycombinator.com/item?id=46307819 Points: 17 # Comments: 0",
-      "url": "https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/",
+      "title": "Coding Intelligence Asymptotics",
+      "summary": "Article URL: https://fi-le.net/asymptotics/ Comments URL: https://news.ycombinator.com/item?id=46321604 Points: 3 # Comments: 0",
+      "url": "https://fi-le.net/asymptotics/",
       "image": "",
-      "date": "2025-12-18T01:08:24+00:00"
+      "date": "2025-12-19T02:17:57+00:00"
     },
     {
-      "title": "How Much Water Do AI Data Centers Use?",
-      "summary": "Article URL: https://undark.org/2025/12/16/ai-data-centers-water/ Comments URL: https://news.ycombinator.com/item?id=46307778 Points: 2 # Comments: 0",
-      "url": "https://undark.org/2025/12/16/ai-data-centers-water/",
-      "image": "https://undark.org/wp-content/uploads/2025/12/GettyImages-2242294900_crop.jpg",
-      "date": "2025-12-18T01:03:25+00:00"
-    },
-    {
-      "title": "Definitions of \"AI\" differ and why advanced systems might escape both",
-      "summary": "Article URL: https://medium.com/statute-circuit/the-definitional-loopholes-that-could-let-advanced-ai-escape-regulation-76eee9933fd8 Comments URL: https://news.ycombinator.com/item?id=46307702 Points: 1 # Comments: 0",
-      "url": "https://medium.com/statute-circuit/the-definitional-loopholes-that-could-let-advanced-ai-escape-regulation-76eee9933fd8",
+      "title": "Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response",
+      "summary": "I'm documenting a catastrophic, multi-faceted failure by Bolt.new that spans technical negligence, professional non-disclosure, and executive abandonment. It's a case study in exhausting every good-faith channel only to be met with silence, forcing a total rebuild. TL;DR: Bolt.new's AI burned 10M tokens on unauthorized changes. They failed to disclose a Netlify deployment, leading to a Vercel launch riddled with ghost files that broke all payments. After launch, I sent a good-faith request for a refund and token restoration to fix it. Six days later, they replied with a dismissive email asking if I \"still needed assistance.\" I then sent a formal legal demand and contacted executives on LinkedIn—total silence. I've had to rebuild the entire application from scratch. All prepaid resources are gone. The Full Timeline & Breakdown: The AI's Unauthorized & Reckless Spiral:\nThe core failure began with the Bolt AI making unauthorized, destructive changes. It removed critical systems like my FingerprintJS security layer without asking. When I pointed out new errors this created, it claimed \"no error was being returned,\" yet falsely said it \"fixed\" the issue multiple times—wasting tokens each time. The AI would then ask to \"put something back\" it had removed; I explicitly said \"no\" to avoid more token waste, instructing it to leave the code for me to handle later. It ignored these direct instructions, proceeding with unauthorized \"fixes\" that created the very security and functionality errors that hadn't existed before its intervention. This created a vicious cycle of token burn for problems it introduced.\nThe Non-Disclosure & Launch Catastrophe: The team failed to disclose they had deployed components to Netlify. The launched app (on Vercel) contained ghost files with broken calls to these undisclosed Netlify functions, killing all payment functionality.\nGood-Faith Effort to Resolve: Seeing the broken launch, I immediately sent a detailed request for a refund and restoration of my 10M tokens to make it right—no legal threats, just a fix.\nThe Dismissive Corporate Response: Six days later, their only reply was a generic email treating it like a simple support ticket: \"So sorry for the delay... if you still need assistance, just reply...\"\nEscalation & Total Executive Silence: I then sent a formal pre-litigation demand and personally messaged the CEO, COO, and founders on LinkedIn. Not a single response from any executive.\nThe Forced Rebuild & Continued Damage: With no path to resolution, I've had to rebuild the entire application from the ground up. My launch window is destroyed, and the 2,000+ users who visited couldn't pay.\nEvidence: Full dossier with token burn proof, ghost file errors, my good-faith request, their dismissive email, my legal demand, and LinkedIn outreach. https://drive.proton.me/urls/9GBA9V5ZTR#3gsRNIM7MfQ8 My questions for HN: When a platform's negligence forces a total rebuild, what recourse exists beyond legal action, which they ignore?\nIs executive silence via LinkedIn a common tactic for startups facing serious operational failures?\nFor those relying on similar platforms, how do you preemptively guard against this level of systemic and communicative collapse?\nThis is a story of professional duty breached at every level: technical, communicative, and executive. I am filing complaints with the FTC and CA AG, but the community's insight is critical. Comments URL: https://news.ycombinator.com/item?id=46321594 Points: 6 # Comments: 5",
+      "url": "https://news.ycombinator.com/item?id=46321594",
       "image": "",
-      "date": "2025-12-18T00:53:57+00:00"
+      "date": "2025-12-19T02:17:01+00:00"
+    },
+    {
+      "title": "How to Use AI as a Real Software Engineering Tool",
+      "summary": "Article URL: https://chat.engineer/p/how-to-use-ai-as-a-real-software-engineering-tool Comments URL: https://news.ycombinator.com/item?id=46320605 Points: 2 # Comments: 0",
+      "url": "https://chat.engineer/p/how-to-use-ai-as-a-real-software-engineering-tool",
+      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/6a35b900-1df2-4fc6-8829-9a1b61f14a3b/landscape_eNsDcI3gcqxDjnsgEi75--3--f3amw.jpg",
+      "date": "2025-12-19T00:03:22+00:00"
+    },
+    {
+      "title": "LinkedIn's war against bot scrapers ramps up as AI gets smarter",
+      "summary": "Article URL: https://news.bloomberglaw.com/artificial-intelligence/linkedins-war-against-bot-scrapers-ramps-up-as-ai-gets-smarter Comments URL: https://news.ycombinator.com/item?id=46320413 Points: 1 # Comments: 0",
+      "url": "https://news.bloomberglaw.com/artificial-intelligence/linkedins-war-against-bot-scrapers-ramps-up-as-ai-gets-smarter",
+      "image": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e3dd32e/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0c%2F5a%2F007307074d6ab354cc4589b8bc5f%2Flinkedin-bot-scraping-lede-art.png",
+      "date": "2025-12-18T23:42:43+00:00"
+    },
+    {
+      "title": "AI Vending Machine Was Tricked into Giving Away Everything [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=SpPhm7S9vsQ Comments URL: https://news.ycombinator.com/item?id=46320391 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=SpPhm7S9vsQ",
+      "image": "",
+      "date": "2025-12-18T23:40:21+00:00"
     }
   ]
 }
