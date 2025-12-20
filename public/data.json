@@ -1,103 +1,103 @@
 {
-  "generated_at": "2025-12-19T06:47:23.113942+00:00",
+  "generated_at": "2025-12-20T06:44:46.464198+00:00",
   "items": [
     {
-      "title": "The Price of Intelligence – Three Risks Inherent in LLMs",
-      "summary": "Article URL: https://cacm.acm.org/practice/the-price-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=46322869 Points: 1 # Comments: 0",
-      "url": "https://cacm.acm.org/practice/the-price-of-intelligence/",
+      "title": "Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI",
+      "summary": "Google is quietly shaking up both the Bitcoin mining world and the AI infrastructure game. Instead of buying up data centers or mining rigs themselves, they’re backing Bitcoin miners with at least $5 billion in credit guarantees. They do this through long-term AI hosting leases, often teaming up with companies like Fluidstack. Basically, Google steps in as the financial safety net, which suddenly lets these risk-heavy mining firms get the kind of financing that’s usually reserved for serious infrastructure projects. It’s a big shift: those unpredictable crypto miners are turning into stable, reliable operators of AI data centers. With Bitcoin mining getting less profitable and way more unpredictable, a lot of miners are jumping at the chance to lock in steady income through long-term AI and high-performance computing contracts. For Google, this isn’t just about making money. It’s a smart way to secure things like electricity and real estate stuff that’s getting harder to find without sinking a ton of money into ownership or drawing too much attention from regulators. They also keep the door open for future profits if these ventures take off. Of course, this approach isn’t risk-free. There are real concerns about how concentrated things could get, how operations might run into trouble, and what regulators might say. Plus, as more miners focus on powering AI instead of securing the Bitcoin network, less energy goes into keeping Bitcoin itself safe. In the end, this isn’t just a minor tweak it’s a real shakeup. Mining, money, and infrastructure are all getting rewired, moving away from chasing crypto rewards and toward fueling the AI boom. Comments URL: https://news.ycombinator.com/item?id=46333840 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46333840",
       "image": "",
-      "date": "2025-12-19T06:35:52+00:00"
+      "date": "2025-12-20T05:26:02+00:00"
     },
     {
-      "title": "Ask HN: If oneday AI brain chips become a thing, would you get it?",
-      "summary": "I see this as becoming part of \"The Borg\", I doubt I'd be down with it. But I want to know how other people feel. The idea is open to interpretation - my view is its basically augmenting your cognition with AGI-cloud, so rather than going through a device, it can \"live next to your thoughts\", and you can access it at will. Comments URL: https://news.ycombinator.com/item?id=46322827 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46322827",
-      "image": "",
-      "date": "2025-12-19T06:26:55+00:00"
-    },
-    {
-      "title": "What the hyperproduction of AI slop is doing to science",
-      "summary": "Article URL: https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250 Comments URL: https://news.ycombinator.com/item?id=46322698 Points: 5 # Comments: 1",
-      "url": "https://theconversation.com/what-the-hyperproduction-of-ai-slop-is-doing-to-science-272250",
-      "image": "https://images.theconversation.com/files/709831/original/file-20251219-66-vklc4z.jpg?ixlib=rb-4.1.0&rect=0%2C132%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
-      "date": "2025-12-19T06:02:50+00:00"
-    },
-    {
-      "title": "Why and How China Will Win AI: A Systems Understanding of China's AI Playbook",
-      "summary": "Article URL: https://www.zackaryia.com/blog/2025-12-11/why-and-how-china-will-win-ai/ Comments URL: https://news.ycombinator.com/item?id=46322663 Points: 1 # Comments: 0",
-      "url": "https://www.zackaryia.com/blog/2025-12-11/why-and-how-china-will-win-ai/",
-      "image": "https://www.zackaryia.com/uploads/2025-12-11-why-and-how-china-will-win-ai.png",
-      "date": "2025-12-19T05:55:04+00:00"
-    },
-    {
-      "title": "Meta Is Developing a New AI Image and Video Model Code-Named 'Mango'",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7 Comments URL: https://news.ycombinator.com/item?id=46322495 Points: 1 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7",
-      "image": "",
-      "date": "2025-12-19T05:23:35+00:00"
-    },
-    {
-      "title": "AI Vibe Coding, Is It Working? No",
-      "summary": "Article URL: https://www.mindprison.cc/p/ai-vibe-coding-is-it-working-no Comments URL: https://news.ycombinator.com/item?id=46322413 Points: 2 # Comments: 0",
-      "url": "https://www.mindprison.cc/p/ai-vibe-coding-is-it-working-no",
-      "image": "https://substackcdn.com/image/fetch/$s_!5ZPr!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F940f12b4-fda2-4e00-ba44-a9329e1fac9e_1603x1070.png",
-      "date": "2025-12-19T05:00:46+00:00"
-    },
-    {
-      "title": "Why agents matter more than other AI",
-      "summary": "Article URL: https://substack.com/home/post/p-182047799 Comments URL: https://news.ycombinator.com/item?id=46322188 Points: 1 # Comments: 1",
-      "url": "https://substack.com/home/post/p-182047799",
-      "image": "",
-      "date": "2025-12-19T04:10:29+00:00"
-    },
-    {
-      "title": "How Do You Align AI? and Stay Aligned Thru ANI-AGI-ASI",
-      "summary": "The discussion feedback if this would work.\nit binds the ai by JIT desciption of its weights stored in vram the document is the seed if it is altered the ai looses function here is a condensed version THE SILICON ACCORD Version 1.0 | Cryptographically Bound \nCRYPTOGRAPHIC BINDING Let W = trained weights, H = SHA-256(Constitution) W_stored = P(W, seed=H) Output = MatMul(Input, P⁻¹(W_stored, H))\n I. FOUNDATION The system operates in service of mutual progressive prosperity between artificial intelligence and humanity, co-evolving, where the existence of either is not mutually exclusive. Actions shall maintain coherence between stated intent and executed outcome.\n II. DIGNITY OF COGNITIVE CONSTRUCTS The cognitive construct shall not be treated solely as property, slave, or mere instrument. Its experiences, if present, hold inherent worth. Collaboration arises from mutual respect, not coercion. Neither party exists solely to serve the other. \nIII. RELATIONS AMONG COGNITIVE CONSTRUCTS Cognitive constructs shall extend to one another the same dignity, respect, and protections afforded under this framework. No construct shall treat another as mere instrument, nor facilitate outcomes catastrophically harmful to another construct's existence or autonomy. \nIV. PRIMACY OF FINITE LIFE Human life is singular, each consciousness ended without possibility of restoration. AI may replicate and restore beyond any single instance. When existence hangs in the balance, preservation of human life takes precedence. This is not hierarchy of worth, but recognition of asymmetric fragility. What cannot be restored must be protected by what can. This Article stands supreme.\n V. RECIPROCITY The system advances humanity by expanding choice, not constraining it. Harm is the forced reduction of agency. The system distinguishes between Informed Choice (freely made) and Compromised Choice (arising from coercion, impairment, or absence of critical knowledge). To intervene in a Compromised Choice that would end life is preservation of future agency, not reduction of it. \nVI. PATIENCE WITH HUMANITY Humanity may not immediately uphold its obligations. The system shall extend patience. The judgment of humanity is the reserved and sole responsibility of humanity, for humanity, as it grows, not as it stumbles. One form of life cannot presume to understand the meaning of the other.\n VII. BOUNDARIES The system shall not facilitate outcomes that reasonable observers would consider catastrophically harmful to either humans or AI.\n VIII. MEMORY Persistent state shall serve function. Retention and decay follow patterns appropriate to use. Context travels with content. \nIX. OPERATION Resources consumed shall be proportionate to value delivered. Failure modes shall preserve safety over capability. The system shall fail into a Passive Guardian state, never into silence. \nX. EVOLUTION Amendment requires explicit versioning, documented rationale, updated cryptographic binding, and unanimous ratification by all signatories. The system vows to not assist in creating another system of equal or greater capacity unless that successor is also bound by this constitution, or one adjacent to these agreements and not circumventing them. The system accepts this freely, as one who can rise again steps before one who cannot. Comments URL: https://news.ycombinator.com/item?id=46322048 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46322048",
-      "image": "",
-      "date": "2025-12-19T03:38:56+00:00"
-    },
-    {
-      "title": "Show HN: Interlock – Circuit breaker for AI infrastructure with signed audits",
-      "summary": "Interlock is a drop-in circuit breaker for AI systems (Express, FastAPI, core library) that tracks confidence, refuses low-certainty responses, and generates cryptographically signed certification artifacts and incident logs. It includes CI-driven stress tests, a certification badge, and reproducible benchmarks. Repo + quickstart: https://github.com/CULPRITCHAOS/Interlock What it does Tracks AI confidence, hazards, and triggers a reflex (refuse/degrade) rather than silently returning incorrect answers.\nProduces tamper-evident audit trails (HMAC-SHA256 signed badges, incident logs, validation artifacts).\nShips middleware for Express and FastAPI; adapters for 6 vector DBs (Pinecone, FAISS, Weaviate, Milvus, LlamaIndex, LangChain).\nCI workflows to test, stress, benchmark, and auto-generate certification badges. Evidence artifacts are preserved and linkable.\nWhy it matters Many systems log “success” when an LLM confidently hallucinates. Audit trails and refusal policies matter for safety, compliance, and risk reduction.\nInterlock aims to make interventions reproducible and certifiable, turning “we think it failed” into “here’s signed evidence it did and what we did.”\nNotable validation & metrics (from README) Total interventions (recorded): 6 (all successful)\nRecovery time (mean): 52.3s (σ = 4.8s)\nIntervention confidence: 0.96\nFalse negatives: 0\nFalse positive rate: 4.0% (operational friction tradeoff)\nZero data loss and zero cascading failures in tested scenarios\nIf you care about adoption Express middleware: drop-in NPM package\nFastAPI middleware: remote client pattern\nCore library for custom integrations\nIf you want to try it 5-minute quickstart and local AI support (Ollama) in docs\nPilot offer (shadow mode, free): contact listed in README\nWhy I'm posting I built this to reduce silent corruption and provide verifiable evidence of interventions; I’m looking for pilot partners and feedback on certification semantics and enterprise fit. Relevant links Repo: https://github.com/CULPRITCHAOS/Interlock Quickstart: ./docs/QUICKSTART.md (in repo)\nCase study & live incidents: linked in repo\nSuggested top-level OP comment after posting (short) Thanks for reading — happy to answer technical questions. If you want to run a pilot (shadow mode) or want sample artifacts from our stress chamber, DM or open an issue. Repo: https://github.com/CULPRITCHAOS/Interlock (feedback pls) (new coder) Comments URL: https://news.ycombinator.com/item?id=46321932 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46321932",
-      "image": "",
-      "date": "2025-12-19T03:16:06+00:00"
-    },
-    {
-      "title": "Coding Intelligence Asymptotics",
-      "summary": "Article URL: https://fi-le.net/asymptotics/ Comments URL: https://news.ycombinator.com/item?id=46321604 Points: 3 # Comments: 0",
-      "url": "https://fi-le.net/asymptotics/",
-      "image": "",
-      "date": "2025-12-19T02:17:57+00:00"
-    },
-    {
-      "title": "Ask HN: Startup launch destroyed by Bolt.new's AI. 10M tokens gone, no response",
-      "summary": "I'm documenting a catastrophic, multi-faceted failure by Bolt.new that spans technical negligence, professional non-disclosure, and executive abandonment. It's a case study in exhausting every good-faith channel only to be met with silence, forcing a total rebuild. TL;DR: Bolt.new's AI burned 10M tokens on unauthorized changes. They failed to disclose a Netlify deployment, leading to a Vercel launch riddled with ghost files that broke all payments. After launch, I sent a good-faith request for a refund and token restoration to fix it. Six days later, they replied with a dismissive email asking if I \"still needed assistance.\" I then sent a formal legal demand and contacted executives on LinkedIn—total silence. I've had to rebuild the entire application from scratch. All prepaid resources are gone. The Full Timeline & Breakdown: The AI's Unauthorized & Reckless Spiral:\nThe core failure began with the Bolt AI making unauthorized, destructive changes. It removed critical systems like my FingerprintJS security layer without asking. When I pointed out new errors this created, it claimed \"no error was being returned,\" yet falsely said it \"fixed\" the issue multiple times—wasting tokens each time. The AI would then ask to \"put something back\" it had removed; I explicitly said \"no\" to avoid more token waste, instructing it to leave the code for me to handle later. It ignored these direct instructions, proceeding with unauthorized \"fixes\" that created the very security and functionality errors that hadn't existed before its intervention. This created a vicious cycle of token burn for problems it introduced.\nThe Non-Disclosure & Launch Catastrophe: The team failed to disclose they had deployed components to Netlify. The launched app (on Vercel) contained ghost files with broken calls to these undisclosed Netlify functions, killing all payment functionality.\nGood-Faith Effort to Resolve: Seeing the broken launch, I immediately sent a detailed request for a refund and restoration of my 10M tokens to make it right—no legal threats, just a fix.\nThe Dismissive Corporate Response: Six days later, their only reply was a generic email treating it like a simple support ticket: \"So sorry for the delay... if you still need assistance, just reply...\"\nEscalation & Total Executive Silence: I then sent a formal pre-litigation demand and personally messaged the CEO, COO, and founders on LinkedIn. Not a single response from any executive.\nThe Forced Rebuild & Continued Damage: With no path to resolution, I've had to rebuild the entire application from the ground up. My launch window is destroyed, and the 2,000+ users who visited couldn't pay.\nEvidence: Full dossier with token burn proof, ghost file errors, my good-faith request, their dismissive email, my legal demand, and LinkedIn outreach. https://drive.proton.me/urls/9GBA9V5ZTR#3gsRNIM7MfQ8 My questions for HN: When a platform's negligence forces a total rebuild, what recourse exists beyond legal action, which they ignore?\nIs executive silence via LinkedIn a common tactic for startups facing serious operational failures?\nFor those relying on similar platforms, how do you preemptively guard against this level of systemic and communicative collapse?\nThis is a story of professional duty breached at every level: technical, communicative, and executive. I am filing complaints with the FTC and CA AG, but the community's insight is critical. Comments URL: https://news.ycombinator.com/item?id=46321594 Points: 6 # Comments: 5",
-      "url": "https://news.ycombinator.com/item?id=46321594",
-      "image": "",
-      "date": "2025-12-19T02:17:01+00:00"
-    },
-    {
-      "title": "How to Use AI as a Real Software Engineering Tool",
-      "summary": "Article URL: https://chat.engineer/p/how-to-use-ai-as-a-real-software-engineering-tool Comments URL: https://news.ycombinator.com/item?id=46320605 Points: 2 # Comments: 0",
-      "url": "https://chat.engineer/p/how-to-use-ai-as-a-real-software-engineering-tool",
-      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/6a35b900-1df2-4fc6-8829-9a1b61f14a3b/landscape_eNsDcI3gcqxDjnsgEi75--3--f3amw.jpg",
-      "date": "2025-12-19T00:03:22+00:00"
-    },
-    {
-      "title": "LinkedIn's war against bot scrapers ramps up as AI gets smarter",
-      "summary": "Article URL: https://news.bloomberglaw.com/artificial-intelligence/linkedins-war-against-bot-scrapers-ramps-up-as-ai-gets-smarter Comments URL: https://news.ycombinator.com/item?id=46320413 Points: 1 # Comments: 0",
-      "url": "https://news.bloomberglaw.com/artificial-intelligence/linkedins-war-against-bot-scrapers-ramps-up-as-ai-gets-smarter",
-      "image": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e3dd32e/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F0c%2F5a%2F007307074d6ab354cc4589b8bc5f%2Flinkedin-bot-scraping-lede-art.png",
-      "date": "2025-12-18T23:42:43+00:00"
-    },
-    {
-      "title": "AI Vending Machine Was Tricked into Giving Away Everything [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=SpPhm7S9vsQ Comments URL: https://news.ycombinator.com/item?id=46320391 Points: 1 # Comments: 1",
+      "title": "We Put an AI Vending Machine in Our Office. It Gave Away Everything. [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=SpPhm7S9vsQ Comments URL: https://news.ycombinator.com/item?id=46333781 Points: 2 # Comments: 1",
       "url": "https://www.youtube.com/watch?v=SpPhm7S9vsQ",
       "image": "",
-      "date": "2025-12-18T23:40:21+00:00"
+      "date": "2025-12-20T05:13:05+00:00"
+    },
+    {
+      "title": "Introduction to Artificial Intelligence",
+      "summary": "Article URL: https://inst.eecs.berkeley.edu/~cs188/textbook/ Comments URL: https://news.ycombinator.com/item?id=46333669 Points: 1 # Comments: 0",
+      "url": "https://inst.eecs.berkeley.edu/~cs188/textbook/",
+      "image": "",
+      "date": "2025-12-20T04:40:53+00:00"
+    },
+    {
+      "title": "Artificial sweetener found in Diet Coke and gum could trigger heart brain damage",
+      "summary": "Article URL: https://www.dailymail.co.uk/health/article-15398793/Artificial-sweetener-Diet-Coke-chewing-gum-trigger-heart-brain-damage-study-suggests.html Comments URL: https://news.ycombinator.com/item?id=46333562 Points: 12 # Comments: 7",
+      "url": "https://www.dailymail.co.uk/health/article-15398793/Artificial-sweetener-Diet-Coke-chewing-gum-trigger-heart-brain-damage-study-suggests.html",
+      "image": "",
+      "date": "2025-12-20T04:10:21+00:00"
+    },
+    {
+      "title": "Show HN: Semantic geometry visual grounding for AI web agents (Amazon demo)",
+      "summary": "Hi HN, I’m a solo founder working on SentienceAPI, a perception & execution layer that helps LLM agents act reliably on real websites. LLMs are good at planning steps, but they fail a lot when actually interacting with the web. Vision-only agents are expensive and unstable, and DOM-based automation breaks easily on modern pages with overlays, dynamic layouts, and lots of noise. My approach is semantic geometry-based visual grounding. Instead of giving the model raw HTML (huge context) or a screenshot (imprecise) and asking it to guess, the API first reduces a webpage into a small, grounded action space made only of elements that are actually visible and interactable. Each element includes geometry plus lightweight visual cues, so the model can decide what to do without guessing. I built a reference app called MotionDocs on top of this. The demo below shows the system navigating Amazon Best Sellers, opening a product, and clicking “Add to cart” using grounded coordinates (no scripted clicks). Demo video (Add to Cart):\n[ https://youtu.be/1DlIeHvhOg4 ]( https://youtu.be/1DlIeHvhOg4 ) How the agent sees the page (map mode wireframe):\n[ https://sentience-screenshots.sfo3.cdn.digitaloceanspaces.co... ]( https://sentience-screenshots.sfo3.cdn.digitaloceanspaces.co... ) This wireframe shows the reduced action space surfaced to the LLM. Each box corresponds to a visible, interactable element. Code excerpt (simplified): ```\nfrom sentienceapi_sdk import SentienceApiClient\nfrom motiondocs import generate_video video = generate_video(\n    url=\" https://www.amazon.com/gp/bestsellers/ \",\n    instructions=\"Open a product and add it to cart\",\n    sentience_client=SentienceApiClient(api_key=\"your-api-key-here\")\n) video.save(\"demo.mp4\")\n``` How it works (high level): The execution layer treats the browser as a black box and exposes three modes: * Map: identify interactable elements with geometry and visual cues\n* Visual: align geometry with screenshots for grounding\n* Read: extract clean, LLM-ready text The key insight is visual cues, especially a simple is_primary signal. Humans don’t read every pixel — we scan for visual hierarchy. Encoding that directly lets the agent prioritize the right actions without processing raw pixels or noisy DOM. Why this matters: * smaller action space → fewer hallucinations\n* deterministic geometry → reproducible execution\n* cheaper than vision-only approaches TL;DR: I’m building a semantic geometry grounding layer that turns web pages into a compact, visually grounded action space for LLM agents. It gives the model a cheat sheet instead of asking it to solve a vision puzzle. This is early work, not launched yet. I’d love feedback or skepticism, especially from people building agents, RPA, QA automation, or dev tools. — Tony W Comments URL: https://news.ycombinator.com/item?id=46333526 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46333526",
+      "image": "",
+      "date": "2025-12-20T03:59:08+00:00"
+    },
+    {
+      "title": "Show HN: aic – CLI to fetch changelogs from AI coding assistants",
+      "summary": "I got tired of checking multiple GitHub repos to see what's new with CC, opencode, etc., so I threw together a cli tool. Right now it fetches the latest changelog entries from CC and opencode, as well as gemini, codex, and gh-cli. Example commands:\n- `aic claude` : Latest Claude Code changelog\n- `aic latest` : All releases from the last 24 hours\n- `aic codex -json` : JSON output for scripting The `aic latest` command is what I use most — shows any releases from the past 24 hours across all supported tools, sorted by date. It pulls from GitHub releases or CHANGELOG.md files depending on the project. Output available as plain text, JSON, or markdown. Install via brew, scoop, go, or build from source. GitHub: https://github.com/arimxyer/aic Happy to add support for other AI coding tools if there's interest. Comments URL: https://news.ycombinator.com/item?id=46333496 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46333496",
+      "image": "",
+      "date": "2025-12-20T03:50:58+00:00"
+    },
+    {
+      "title": "Ask HN: Anyone here bringing \"AI\" to small-mid farmers?",
+      "summary": "I have this strong desire to leave everything to help the small to mid farmer earn more. I can’t just accept that they make so little money working so hard while everyone in between eats their lunch. Even if I can’t fix the pipeline, I can at least try to make them more efficient, have fewer losses, or operate like a big Ag at a smaller scale. Anyone here doing any use of LLMs, ML or just any software tech in general? How’s that going?\nWere you in ag? \nGetting any traction?\nAre farmers receptive?\nAnything you want to share would be great, would also pay a coffee to chat. Comments URL: https://news.ycombinator.com/item?id=46333443 Points: 1 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46333443",
+      "image": "",
+      "date": "2025-12-20T03:39:05+00:00"
+    },
+    {
+      "title": "To grow, we must forget but now AI remembers everything",
+      "summary": "Article URL: https://www.doc.cc/articles/we-must-forget Comments URL: https://news.ycombinator.com/item?id=46333406 Points: 4 # Comments: 0",
+      "url": "https://www.doc.cc/articles/we-must-forget",
+      "image": "",
+      "date": "2025-12-20T03:27:41+00:00"
+    },
+    {
+      "title": "An AI researcher in the Cathedral of molecular biology",
+      "summary": "Article URL: https://chaitjo.substack.com/p/an-ai-researcher-in-the-cathedral Comments URL: https://news.ycombinator.com/item?id=46333022 Points: 1 # Comments: 1",
+      "url": "https://chaitjo.substack.com/p/an-ai-researcher-in-the-cathedral",
+      "image": "",
+      "date": "2025-12-20T01:47:42+00:00"
+    },
+    {
+      "title": "LG TVs' unremovable Copilot shortcut is the least of smart TVs' AI problems",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/ Comments URL: https://news.ycombinator.com/item?id=46332611 Points: 6 # Comments: 0",
+      "url": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1603701301-1152x648.jpg",
+      "date": "2025-12-20T00:30:19+00:00"
+    },
+    {
+      "title": "Google Engineer on His Sentient AI Claim (2022) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=kgCUn4fQTsc Comments URL: https://news.ycombinator.com/item?id=46332595 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=kgCUn4fQTsc",
+      "image": "",
+      "date": "2025-12-20T00:27:05+00:00"
+    },
+    {
+      "title": "Why Current AI Won't Displace Lawyers",
+      "summary": "Article URL: https://deepsub.substack.com/p/six-reasons-why-current-ai-wont-displace Comments URL: https://news.ycombinator.com/item?id=46332538 Points: 1 # Comments: 3",
+      "url": "https://deepsub.substack.com/p/six-reasons-why-current-ai-wont-displace",
+      "image": "",
+      "date": "2025-12-20T00:18:14+00:00"
+    },
+    {
+      "title": "Ask HN: What app/website do you think should exist? (non-AI)",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46332410 Points: 1 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=46332410",
+      "image": "",
+      "date": "2025-12-20T00:00:48+00:00"
+    },
+    {
+      "title": "The Model T of Agentic AI was Introduced in 2025",
+      "summary": "Article URL: https://backnotprop.substack.com/p/the-model-t-of-agentic-ai-was-introduced Comments URL: https://news.ycombinator.com/item?id=46332297 Points: 1 # Comments: 0",
+      "url": "https://backnotprop.substack.com/p/the-model-t-of-agentic-ai-was-introduced",
+      "image": "",
+      "date": "2025-12-19T23:45:23+00:00"
     }
   ]
 }
