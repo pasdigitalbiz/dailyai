@@ -1,103 +1,110 @@
 {
-  "generated_at": "2025-12-20T06:44:46.464198+00:00",
+  "generated_at": "2025-12-21T06:45:44.795772+00:00",
   "items": [
     {
-      "title": "Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI",
-      "summary": "Google is quietly shaking up both the Bitcoin mining world and the AI infrastructure game. Instead of buying up data centers or mining rigs themselves, they’re backing Bitcoin miners with at least $5 billion in credit guarantees. They do this through long-term AI hosting leases, often teaming up with companies like Fluidstack. Basically, Google steps in as the financial safety net, which suddenly lets these risk-heavy mining firms get the kind of financing that’s usually reserved for serious infrastructure projects. It’s a big shift: those unpredictable crypto miners are turning into stable, reliable operators of AI data centers. With Bitcoin mining getting less profitable and way more unpredictable, a lot of miners are jumping at the chance to lock in steady income through long-term AI and high-performance computing contracts. For Google, this isn’t just about making money. It’s a smart way to secure things like electricity and real estate stuff that’s getting harder to find without sinking a ton of money into ownership or drawing too much attention from regulators. They also keep the door open for future profits if these ventures take off. Of course, this approach isn’t risk-free. There are real concerns about how concentrated things could get, how operations might run into trouble, and what regulators might say. Plus, as more miners focus on powering AI instead of securing the Bitcoin network, less energy goes into keeping Bitcoin itself safe. In the end, this isn’t just a minor tweak it’s a real shakeup. Mining, money, and infrastructure are all getting rewired, moving away from chasing crypto rewards and toward fueling the AI boom. Comments URL: https://news.ycombinator.com/item?id=46333840 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46333840",
-      "image": "",
-      "date": "2025-12-20T05:26:02+00:00"
+      "title": "New study reveals that AI cannot write like a human",
+      "summary": "Article URL: https://www.ucc.ie/en/news/2025/new-study-reveals-that-ai-cannot-fully-write-like-a-human.html Comments URL: https://news.ycombinator.com/item?id=46342783 Points: 1 # Comments: 0",
+      "url": "https://www.ucc.ie/en/news/2025/new-study-reveals-that-ai-cannot-fully-write-like-a-human.html",
+      "image": "https://www.ucc.ie/en/media/1newsimages/2025/dec/shutterstock_2276520295(2).jpg",
+      "date": "2025-12-21T06:42:34+00:00"
     },
     {
-      "title": "We Put an AI Vending Machine in Our Office. It Gave Away Everything. [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=SpPhm7S9vsQ Comments URL: https://news.ycombinator.com/item?id=46333781 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=SpPhm7S9vsQ",
+      "title": "Nvidia X Palantir, Global Surveillance, \"Pre-Crime\" Arrests, & AI [Video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=5lYsO4k7OIY Comments URL: https://news.ycombinator.com/item?id=46342745 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=5lYsO4k7OIY",
       "image": "",
-      "date": "2025-12-20T05:13:05+00:00"
+      "date": "2025-12-21T06:29:47+00:00"
     },
     {
-      "title": "Introduction to Artificial Intelligence",
-      "summary": "Article URL: https://inst.eecs.berkeley.edu/~cs188/textbook/ Comments URL: https://news.ycombinator.com/item?id=46333669 Points: 1 # Comments: 0",
-      "url": "https://inst.eecs.berkeley.edu/~cs188/textbook/",
-      "image": "",
-      "date": "2025-12-20T04:40:53+00:00"
+      "title": "Nvidia-led NitroGen is a generalist video gaming AI that can play any title",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-led-nitrogen-is-a-generalist-video-gaming-ai-that-can-play-any-title-research-also-has-big-implications-for-robotics Comments URL: https://news.ycombinator.com/item?id=46342341 Points: 2 # Comments: 1",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-led-nitrogen-is-a-generalist-video-gaming-ai-that-can-play-any-title-research-also-has-big-implications-for-robotics",
+      "image": "https://cdn.mos.cms.futurecdn.net/n6yHq6ZZmfCRwAMkQHGWnE-1920-80.jpg",
+      "date": "2025-12-21T04:50:06+00:00"
     },
     {
-      "title": "Artificial sweetener found in Diet Coke and gum could trigger heart brain damage",
-      "summary": "Article URL: https://www.dailymail.co.uk/health/article-15398793/Artificial-sweetener-Diet-Coke-chewing-gum-trigger-heart-brain-damage-study-suggests.html Comments URL: https://news.ycombinator.com/item?id=46333562 Points: 12 # Comments: 7",
-      "url": "https://www.dailymail.co.uk/health/article-15398793/Artificial-sweetener-Diet-Coke-chewing-gum-trigger-heart-brain-damage-study-suggests.html",
-      "image": "",
-      "date": "2025-12-20T04:10:21+00:00"
+      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "summary": "Article URL: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/ Comments URL: https://news.ycombinator.com/item?id=46342166 Points: 78 # Comments: 52",
+      "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
+      "image": "https://metr.org/assets/images/measuring-ai-ability-to-complete-long-tasks/length-of-tasks-log.png",
+      "date": "2025-12-21T04:06:36+00:00"
     },
     {
-      "title": "Show HN: Semantic geometry visual grounding for AI web agents (Amazon demo)",
-      "summary": "Hi HN, I’m a solo founder working on SentienceAPI, a perception & execution layer that helps LLM agents act reliably on real websites. LLMs are good at planning steps, but they fail a lot when actually interacting with the web. Vision-only agents are expensive and unstable, and DOM-based automation breaks easily on modern pages with overlays, dynamic layouts, and lots of noise. My approach is semantic geometry-based visual grounding. Instead of giving the model raw HTML (huge context) or a screenshot (imprecise) and asking it to guess, the API first reduces a webpage into a small, grounded action space made only of elements that are actually visible and interactable. Each element includes geometry plus lightweight visual cues, so the model can decide what to do without guessing. I built a reference app called MotionDocs on top of this. The demo below shows the system navigating Amazon Best Sellers, opening a product, and clicking “Add to cart” using grounded coordinates (no scripted clicks). Demo video (Add to Cart):\n[ https://youtu.be/1DlIeHvhOg4 ]( https://youtu.be/1DlIeHvhOg4 ) How the agent sees the page (map mode wireframe):\n[ https://sentience-screenshots.sfo3.cdn.digitaloceanspaces.co... ]( https://sentience-screenshots.sfo3.cdn.digitaloceanspaces.co... ) This wireframe shows the reduced action space surfaced to the LLM. Each box corresponds to a visible, interactable element. Code excerpt (simplified): ```\nfrom sentienceapi_sdk import SentienceApiClient\nfrom motiondocs import generate_video video = generate_video(\n    url=\" https://www.amazon.com/gp/bestsellers/ \",\n    instructions=\"Open a product and add it to cart\",\n    sentience_client=SentienceApiClient(api_key=\"your-api-key-here\")\n) video.save(\"demo.mp4\")\n``` How it works (high level): The execution layer treats the browser as a black box and exposes three modes: * Map: identify interactable elements with geometry and visual cues\n* Visual: align geometry with screenshots for grounding\n* Read: extract clean, LLM-ready text The key insight is visual cues, especially a simple is_primary signal. Humans don’t read every pixel — we scan for visual hierarchy. Encoding that directly lets the agent prioritize the right actions without processing raw pixels or noisy DOM. Why this matters: * smaller action space → fewer hallucinations\n* deterministic geometry → reproducible execution\n* cheaper than vision-only approaches TL;DR: I’m building a semantic geometry grounding layer that turns web pages into a compact, visually grounded action space for LLM agents. It gives the model a cheat sheet instead of asking it to solve a vision puzzle. This is early work, not launched yet. I’d love feedback or skepticism, especially from people building agents, RPA, QA automation, or dev tools. — Tony W Comments URL: https://news.ycombinator.com/item?id=46333526 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46333526",
+      "title": "What the Smartest Minds Think About AI",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df Comments URL: https://news.ycombinator.com/item?id=46341820 Points: 2 # Comments: 3",
+      "url": "https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df",
       "image": "",
-      "date": "2025-12-20T03:59:08+00:00"
+      "date": "2025-12-21T02:58:24+00:00"
     },
     {
-      "title": "Show HN: aic – CLI to fetch changelogs from AI coding assistants",
-      "summary": "I got tired of checking multiple GitHub repos to see what's new with CC, opencode, etc., so I threw together a cli tool. Right now it fetches the latest changelog entries from CC and opencode, as well as gemini, codex, and gh-cli. Example commands:\n- `aic claude` : Latest Claude Code changelog\n- `aic latest` : All releases from the last 24 hours\n- `aic codex -json` : JSON output for scripting The `aic latest` command is what I use most — shows any releases from the past 24 hours across all supported tools, sorted by date. It pulls from GitHub releases or CHANGELOG.md files depending on the project. Output available as plain text, JSON, or markdown. Install via brew, scoop, go, or build from source. GitHub: https://github.com/arimxyer/aic Happy to add support for other AI coding tools if there's interest. Comments URL: https://news.ycombinator.com/item?id=46333496 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46333496",
-      "image": "",
-      "date": "2025-12-20T03:50:58+00:00"
+      "title": "How AI agents will transform the way we work in 2026",
+      "summary": "Article URL: https://blog.google/products/google-cloud/ai-business-trends-report-2026/ Comments URL: https://news.ycombinator.com/item?id=46341767 Points: 3 # Comments: 0",
+      "url": "https://blog.google/products/google-cloud/ai-business-trends-report-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_image_1.width-1300.png",
+      "date": "2025-12-21T02:46:07+00:00"
     },
     {
-      "title": "Ask HN: Anyone here bringing \"AI\" to small-mid farmers?",
-      "summary": "I have this strong desire to leave everything to help the small to mid farmer earn more. I can’t just accept that they make so little money working so hard while everyone in between eats their lunch. Even if I can’t fix the pipeline, I can at least try to make them more efficient, have fewer losses, or operate like a big Ag at a smaller scale. Anyone here doing any use of LLMs, ML or just any software tech in general? How’s that going?\nWere you in ag? \nGetting any traction?\nAre farmers receptive?\nAnything you want to share would be great, would also pay a coffee to chat. Comments URL: https://news.ycombinator.com/item?id=46333443 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46333443",
-      "image": "",
-      "date": "2025-12-20T03:39:05+00:00"
+      "title": "Yann LeCun Raising €500M at €3B Valuation for New AI Startup",
+      "summary": "Article URL: https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 Comments URL: https://news.ycombinator.com/item?id=46341478 Points: 4 # Comments: 1",
+      "url": "https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0c8f27f-eff7-41a8-a814-24ae464a92f3.jpg?source=next-barrier-page",
+      "date": "2025-12-21T01:43:12+00:00"
     },
     {
-      "title": "To grow, we must forget but now AI remembers everything",
-      "summary": "Article URL: https://www.doc.cc/articles/we-must-forget Comments URL: https://news.ycombinator.com/item?id=46333406 Points: 4 # Comments: 0",
-      "url": "https://www.doc.cc/articles/we-must-forget",
-      "image": "",
-      "date": "2025-12-20T03:27:41+00:00"
+      "title": "AI coding is now everywhere but not everyone is convinced",
+      "summary": "Article URL: https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/ Comments URL: https://news.ycombinator.com/item?id=46340992 Points: 6 # Comments: 0",
+      "url": "https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/12/MIT_AI-Hype_1-2-social.jpg?resize=1200,600",
+      "date": "2025-12-21T00:13:58+00:00"
     },
     {
-      "title": "An AI researcher in the Cathedral of molecular biology",
-      "summary": "Article URL: https://chaitjo.substack.com/p/an-ai-researcher-in-the-cathedral Comments URL: https://news.ycombinator.com/item?id=46333022 Points: 1 # Comments: 1",
-      "url": "https://chaitjo.substack.com/p/an-ai-researcher-in-the-cathedral",
+      "title": "London 1600s (AI Reconstruction) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=994nGl4m-VM Comments URL: https://news.ycombinator.com/item?id=46340918 Points: 9 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=994nGl4m-VM",
       "image": "",
-      "date": "2025-12-20T01:47:42+00:00"
+      "date": "2025-12-21T00:02:07+00:00"
     },
     {
-      "title": "LG TVs' unremovable Copilot shortcut is the least of smart TVs' AI problems",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/ Comments URL: https://news.ycombinator.com/item?id=46332611 Points: 6 # Comments: 0",
-      "url": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1603701301-1152x648.jpg",
-      "date": "2025-12-20T00:30:19+00:00"
+      "title": "When creating images, AI keeps remixing the same 12 stock photo clichés",
+      "summary": "Article URL: https://www.science.org/content/article/when-creating-images-ai-keeps-remixing-same-12-stock-photo-cliches Comments URL: https://news.ycombinator.com/item?id=46340365 Points: 6 # Comments: 0",
+      "url": "https://www.science.org/content/article/when-creating-images-ai-keeps-remixing-same-12-stock-photo-cliches",
+      "image": "",
+      "date": "2025-12-20T22:45:46+00:00"
     },
     {
-      "title": "Google Engineer on His Sentient AI Claim (2022) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=kgCUn4fQTsc Comments URL: https://news.ycombinator.com/item?id=46332595 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=kgCUn4fQTsc",
-      "image": "",
-      "date": "2025-12-20T00:27:05+00:00"
+      "title": "Huang declares Israel Nvidia's \"second home\", to build $1.5B AI Campus",
+      "summary": "Article URL: https://www.calcalistech.com/ctechnews/article/sjcwdmxxzg Comments URL: https://news.ycombinator.com/item?id=46340038 Points: 2 # Comments: 3",
+      "url": "https://www.calcalistech.com/ctechnews/article/sjcwdmxxzg",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/12/17/SkU00JXemZg/SkU00JXemZg_0_130_3000_1689_0_large.jpg",
+      "date": "2025-12-20T22:00:35+00:00"
     },
     {
-      "title": "Why Current AI Won't Displace Lawyers",
-      "summary": "Article URL: https://deepsub.substack.com/p/six-reasons-why-current-ai-wont-displace Comments URL: https://news.ycombinator.com/item?id=46332538 Points: 1 # Comments: 3",
-      "url": "https://deepsub.substack.com/p/six-reasons-why-current-ai-wont-displace",
-      "image": "",
-      "date": "2025-12-20T00:18:14+00:00"
+      "title": "Australia's biggest pension fund to cut global stocks allocation on AI concerns",
+      "summary": "Article URL: https://www.ft.com/content/4be26ef3-3f06-44c0-8878-60370336581c Comments URL: https://news.ycombinator.com/item?id=46339723 Points: 5 # Comments: 1",
+      "url": "https://www.ft.com/content/4be26ef3-3f06-44c0-8878-60370336581c",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ed8a43c-e457-47fa-9eb7-0a9476e8a369.jpg?source=next-barrier-page",
+      "date": "2025-12-20T21:19:05+00:00"
     },
     {
-      "title": "Ask HN: What app/website do you think should exist? (non-AI)",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46332410 Points: 1 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46332410",
+      "title": "Ask HN: Are you afraid of AI making you unemployable within the next few years?",
+      "summary": "On Hacker News and Twitter, the consensus view is that no one is afraid. People concede that junior engineers and grad students might be the most affected. But, they still seem to hold on to their situations as being sustainable. My question is, is this just a part of wishful thinking and human nature, trying to combat the inevitable? The reason I ask is because I seriously don't see a future where there's a bunch of programmers anymore. I see mass unemployment for programmers. People are in denial, and all of these claims that the AI can't write code without making mistakes are no longer valid once an AI is released potentially overnight, that writes flawless code. Claude 4.5 is a good example. I just really don't see any valid arguments that the technology is not going to get to a point where it makes the job irrelevant, not irrelevant, but completely changes the economics. Comments URL: https://news.ycombinator.com/item?id=46339718 Points: 12 # Comments: 43",
+      "url": "https://news.ycombinator.com/item?id=46339718",
       "image": "",
-      "date": "2025-12-20T00:00:48+00:00"
+      "date": "2025-12-20T21:18:30+00:00"
     },
     {
-      "title": "The Model T of Agentic AI was Introduced in 2025",
-      "summary": "Article URL: https://backnotprop.substack.com/p/the-model-t-of-agentic-ai-was-introduced Comments URL: https://news.ycombinator.com/item?id=46332297 Points: 1 # Comments: 0",
-      "url": "https://backnotprop.substack.com/p/the-model-t-of-agentic-ai-was-introduced",
-      "image": "",
-      "date": "2025-12-19T23:45:23+00:00"
+      "title": "Human capabilities complement AI's shortcomings",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/these-human-capabilities-complement-ais-shortcomings Comments URL: https://news.ycombinator.com/item?id=46339710 Points: 3 # Comments: 0",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/these-human-capabilities-complement-ais-shortcomings",
+      "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2025-06/typewriter-creativity.jpg.webp?h=402e7224&itok=MLGm2cAW",
+      "date": "2025-12-20T21:17:13+00:00"
+    },
+    {
+      "title": "The Shape of AI: Jaggedness, Bottlenecks and Salients",
+      "summary": "Article URL: https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks Comments URL: https://news.ycombinator.com/item?id=46339626 Points: 3 # Comments: 0",
+      "url": "https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks",
+      "image": "https://substackcdn.com/image/fetch/$s_!B1Pw!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2279cb92-460a-4f73-8594-33fca151925c_2432x1728.jpeg",
+      "date": "2025-12-20T21:04:51+00:00"
     }
   ]
 }
