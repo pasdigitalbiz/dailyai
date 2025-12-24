@@ -1,117 +1,82 @@
 {
-  "generated_at": "2025-12-23T06:50:09.856080+00:00",
+  "generated_at": "2025-12-24T06:49:57.358443+00:00",
   "items": [
     {
-      "title": "AI Is Bad UX",
-      "summary": "Article URL: https://buttondown.com/apperceptive/archive/ai-is-bad-ux/ Comments URL: https://news.ycombinator.com/item?id=46363016 Points: 1 # Comments: 0",
-      "url": "https://buttondown.com/apperceptive/archive/ai-is-bad-ux/",
-      "image": "https://assets.buttondown.email/images/48ca3431-56b2-46c8-ad60-75c065a1d776.png?w=960&fit=max",
-      "date": "2025-12-23T06:43:19+00:00"
-    },
-    {
-      "title": "Show HN: We built an AI Humanizer to fix unnatural AI writing",
-      "summary": "Most AI-written text isn’t obviously wrong.\nGrammar is fine. Facts are usually fine.\nWhat gives it away is the tone. We kept seeing the same patterns: sentences with identical rhythm, over-explained transitions, and a kind of “smoothness” that doesn’t match how people actually write. AI detectors try to flag these patterns, but chasing detectors felt like treating the symptom, not the cause. So we built a small AI Humanizer that works at the sentence level. Instead of masking signals or applying prompt tricks, it rewrites text to improve flow, vary structure, and reduce repetition — aiming for writing that simply reads more naturally. The tool doesn’t try to guarantee that text will pass any specific detector. Different detectors behave differently, and that changes all the time. Our goal was narrower: make AI-assisted writing feel intentional and human-readable again. This started as an internal experiment while working on AI detection, and we decided to make it public to see how others approach the same problem. Link: https://dechecker.ai/ai-humanizer Would love feedback, especially from people who write a lot with AI or build NLP tools. Comments URL: https://news.ycombinator.com/item?id=46362880 Points: 1 # Comments: 0",
-      "url": "https://dechecker.ai/ai-humanizer",
-      "image": "https://cdn.dechecker.ai/se/dechecker/public/logo/dechecker-logo.png",
-      "date": "2025-12-23T06:11:09+00:00"
-    },
-    {
-      "title": "The AI History That Explains Fears of a Bubble",
-      "summary": "Article URL: https://time.com/7340901/ai-history-bubble-benchmarks/ Comments URL: https://news.ycombinator.com/item?id=46362774 Points: 2 # Comments: 0",
-      "url": "https://time.com/7340901/ai-history-bubble-benchmarks/",
-      "image": "https://api.time.com/wp-content/uploads/2025/12/computer.jpg?quality=85&w=1024&h=628&crop=1",
-      "date": "2025-12-23T05:47:13+00:00"
-    },
-    {
-      "title": "AI Data Center Gold Rush Driven by 1000's of Newcomers",
-      "summary": "Article URL: https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/ Comments URL: https://news.ycombinator.com/item?id=46362717 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/",
+      "title": "Echo-OS: Building an AI-Native Operating System (Echo_OS_vision.md)",
+      "summary": "Article URL: https://raw.githubusercontent.com/sirspyr0/echo-public/main/docs/ECHO_OS_VISION.md Comments URL: https://news.ycombinator.com/item?id=46373018 Points: 1 # Comments: 2",
+      "url": "https://raw.githubusercontent.com/sirspyr0/echo-public/main/docs/ECHO_OS_VISION.md",
       "image": "",
-      "date": "2025-12-23T05:31:32+00:00"
+      "date": "2025-12-24T06:27:40+00:00"
     },
     {
-      "title": "Measuring the impact of AI on developer productivity at Meta",
-      "summary": "Article URL: https://www.youtube.com/watch?v=1OzxYK2-qsI Comments URL: https://news.ycombinator.com/item?id=46361951 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=1OzxYK2-qsI",
+      "title": "George Hotz: What Happens When AI Is More Valuable Than Humans? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mFE-Frsi6Uw Comments URL: https://news.ycombinator.com/item?id=46372828 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=mFE-Frsi6Uw",
       "image": "",
-      "date": "2025-12-23T03:01:41+00:00"
+      "date": "2025-12-24T05:44:13+00:00"
     },
     {
-      "title": "Teenagers Are Running Their Own AI Companies",
-      "summary": "Article URL: https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3 Comments URL: https://news.ycombinator.com/item?id=46361885 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3",
+      "title": "LSP, Hooks, and Workflow Design: What Differentiates AI Coding Tools",
+      "summary": "Article URL: https://blog.dataengineerthings.org/lsp-hooks-and-workflow-design-what-actually-differentiates-ai-coding-tools-288711fa563b Comments URL: https://news.ycombinator.com/item?id=46372625 Points: 2 # Comments: 1",
+      "url": "https://blog.dataengineerthings.org/lsp-hooks-and-workflow-design-what-actually-differentiates-ai-coding-tools-288711fa563b",
       "image": "",
-      "date": "2025-12-23T02:50:51+00:00"
+      "date": "2025-12-24T05:01:03+00:00"
     },
     {
-      "title": "How I taught an AI to use a computer",
-      "summary": "Article URL: https://blog.jamesmurdza.com/how-i-taught-an-ai-to-use-a-computer Comments URL: https://news.ycombinator.com/item?id=46361883 Points: 2 # Comments: 0",
-      "url": "https://blog.jamesmurdza.com/how-i-taught-an-ai-to-use-a-computer",
+      "title": "Why HTTP-based evals worked better for our AI team than SDK-only setups",
+      "summary": "Article URL: https://www.getmaxim.ai/blog/beyond-the-sdk-why-ai-teams-love-http-endpoint-based-evals/ Comments URL: https://news.ycombinator.com/item?id=46372614 Points: 1 # Comments: 0",
+      "url": "https://www.getmaxim.ai/blog/beyond-the-sdk-why-ai-teams-love-http-endpoint-based-evals/",
+      "image": "https://www.getmaxim.ai/blog/content/images/size/w1200/2025/12/Frame-2147231898.png",
+      "date": "2025-12-24T04:58:06+00:00"
+    },
+    {
+      "title": "They graduated from Stanford. Due to AI, they can't find a job",
+      "summary": "Article URL: https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job Comments URL: https://news.ycombinator.com/item?id=46372289 Points: 2 # Comments: 0",
+      "url": "https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/a43388f/2147483647/strip/true/crop/4308x2262+0+229/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F87%2F14%2F97371a7c47ea96561036b1aa7d7f%2Fap23200653484306.jpg",
+      "date": "2025-12-24T03:58:51+00:00"
+    },
+    {
+      "title": "Evaluating Context Compression for AI Agents",
+      "summary": "Article URL: https://factory.ai/news/evaluating-compression Comments URL: https://news.ycombinator.com/item?id=46372266 Points: 1 # Comments: 0",
+      "url": "https://factory.ai/news/evaluating-compression",
+      "image": "https://factory.ai/api/og?title=Evaluating%20Context%20Compression%20for%20AI%20Agents%20%7C%20Factory.ai",
+      "date": "2025-12-24T03:54:14+00:00"
+    },
+    {
+      "title": "Palisade: Bringing Zero-Trust to the AI Model Supply Chain",
+      "summary": "Article URL: https://highflame.com/blogs/launching-palisade-zero-trust-security-for-the-ai-model-supply-chain Comments URL: https://news.ycombinator.com/item?id=46371718 Points: 2 # Comments: 1",
+      "url": "https://highflame.com/blogs/launching-palisade-zero-trust-security-for-the-ai-model-supply-chain",
+      "image": "https://cdn.prod.website-files.com/6904815d2624294a15ccaff9/6944309c1799b8781fa75369_Palisade.png",
+      "date": "2025-12-24T02:12:48+00:00"
+    },
+    {
+      "title": "Show HN: Dwani.ai – AI for Indian Languages",
+      "summary": "ASR + TTS + Chat + Vision + Docs \nTry demo : https://workshop.dwani.ai Built dwani.ai over the past 11 months. Talk to AI in Indian languages and get response back via Voice and Text. Combining Open weight models to build AI for Indian languages. Github : https://github.com/dwani-ai Setup : https://docs.dwani.ai Comments URL: https://news.ycombinator.com/item?id=46371643 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46371643",
       "image": "",
-      "date": "2025-12-23T02:49:51+00:00"
+      "date": "2025-12-24T01:56:42+00:00"
     },
     {
-      "title": "ByteDance plans $23B AI spending spree to keep pace with US rivals",
-      "summary": "Article URL: https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad Comments URL: https://news.ycombinator.com/item?id=46361795 Points: 3 # Comments: 0",
-      "url": "https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F77417135-a179-4fbb-b7d1-2da5d1344200.jpg?source=next-barrier-page",
-      "date": "2025-12-23T02:37:07+00:00"
+      "title": "2025: The Year Agentic AI Got Real – MCP, Agent Skills, and What Comes Next",
+      "summary": "Article URL: https://subramanya.ai/2025/12/23/2025-the-year-agentic-ai-got-real-and-what-comes-next/ Comments URL: https://news.ycombinator.com/item?id=46371501 Points: 2 # Comments: 0",
+      "url": "https://subramanya.ai/2025/12/23/2025-the-year-agentic-ai-got-real-and-what-comes-next/",
+      "image": "https://subramanya.ai/assets/images/agentic-ai-2025-review.png",
+      "date": "2025-12-24T01:32:39+00:00"
     },
     {
-      "title": "Show HN: AI Financial Advisor App, Get You Plan for Free",
-      "summary": "Article URL: https://apps.apple.com/ma/app/optivault-ai-budgeting/id6740290247 Comments URL: https://news.ycombinator.com/item?id=46361592 Points: 1 # Comments: 2",
-      "url": "https://apps.apple.com/ma/app/optivault-ai-budgeting/id6740290247",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/89/33/39893315-c6fc-bb36-48a3-a58461951034/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/1200x630wa.jpg",
-      "date": "2025-12-23T02:02:02+00:00"
-    },
-    {
-      "title": "Instacart halts AI testing program that raised costs for some shoppers",
-      "summary": "Article URL: https://www.washingtonpost.com/business/2025/12/22/instacart-price-testing-program/ Comments URL: https://news.ycombinator.com/item?id=46361120 Points: 3 # Comments: 2",
-      "url": "https://www.washingtonpost.com/business/2025/12/22/instacart-price-testing-program/",
+      "title": "AI's trillion-dollar opportunity: Context graphs",
+      "summary": "Article URL: https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/ Comments URL: https://news.ycombinator.com/item?id=46371356 Points: 2 # Comments: 0",
+      "url": "https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/",
       "image": "",
-      "date": "2025-12-23T00:47:47+00:00"
+      "date": "2025-12-24T01:09:35+00:00"
     },
     {
-      "title": "Instacart scraps AI pricing tests that made some products more expensive",
-      "summary": "Article URL: https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight Comments URL: https://news.ycombinator.com/item?id=46361025 Points: 3 # Comments: 1",
-      "url": "https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/instacart-logo-green.webp?quality=90&strip=all&crop=0%2C3.4844913539559%2C100%2C93.031017292088&w=1200",
-      "date": "2025-12-23T00:36:36+00:00"
-    },
-    {
-      "title": "How to stop AI agents from littering your codebase with Markdown files",
-      "summary": "Article URL: https://solmaz.io/agent-doc-workflow Comments URL: https://news.ycombinator.com/item?id=46361022 Points: 4 # Comments: 0",
-      "url": "https://solmaz.io/agent-doc-workflow",
-      "image": "",
-      "date": "2025-12-23T00:36:18+00:00"
-    },
-    {
-      "title": "Welcome to the Machine, a guide to building infra software for AI agents",
-      "summary": "Article URL: https://me.0xffff.me/welcome_to_the_machine.html Comments URL: https://news.ycombinator.com/item?id=46360990 Points: 1 # Comments: 0",
-      "url": "https://me.0xffff.me/welcome_to_the_machine.html",
-      "image": "",
-      "date": "2025-12-23T00:31:28+00:00"
-    },
-    {
-      "title": "AI Native Google Drive and One Drive Alternative",
-      "summary": "Article URL: https://www.xda-developers.com/found-best-google-drive-one-drive-alternative/ Comments URL: https://news.ycombinator.com/item?id=46360979 Points: 1 # Comments: 0",
-      "url": "https://www.xda-developers.com/found-best-google-drive-one-drive-alternative/",
-      "image": "",
-      "date": "2025-12-23T00:30:17+00:00"
-    },
-    {
-      "title": "Lumina – a minimal AI reflection app (source code available)",
-      "summary": "I built Lumina, a small AI-powered reflection and journaling app focused on simplicity and privacy. It helps users explore thoughts through structured prompts and summaries rather than social features or gamification. I’m looking to sell the full source code with a commercial license to a solo dev or small team who wants a solid base to build on. Comments URL: https://news.ycombinator.com/item?id=46360921 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46360921",
-      "image": "",
-      "date": "2025-12-23T00:20:54+00:00"
-    },
-    {
-      "title": "Only 3.6% of tech jobs are AI/ML roles (432K tech job postings analyzed)",
-      "summary": "Article URL: https://www.leethub.io/blog/tech-jobs-wrapped-2025 Comments URL: https://news.ycombinator.com/item?id=46360869 Points: 3 # Comments: 0",
-      "url": "https://www.leethub.io/blog/tech-jobs-wrapped-2025",
-      "image": "https://www.leethub.io/og/landing-page.png",
-      "date": "2025-12-23T00:13:36+00:00"
+      "title": "Americans Have Mixed Views of AI – and an Appetite for Regulation",
+      "summary": "Article URL: https://www.searchlightinstitute.org/research/americans-have-mixed-views-of-ai-and-an-appetite-for-regulation/ Comments URL: https://news.ycombinator.com/item?id=46371016 Points: 6 # Comments: 1",
+      "url": "https://www.searchlightinstitute.org/research/americans-have-mixed-views-of-ai-and-an-appetite-for-regulation/",
+      "image": "https://www.searchlightinstitute.org/wp-content/uploads/2025/12/Americans-have-mixed-views-of-AI-–-and-an-appetite-for-regulation-1.jpg",
+      "date": "2025-12-24T00:09:38+00:00"
     }
   ]
 }
