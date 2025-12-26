@@ -1,117 +1,96 @@
 {
-  "generated_at": "2025-12-25T06:48:53.867754+00:00",
+  "generated_at": "2025-12-26T06:48:31.945652+00:00",
   "items": [
     {
-      "title": "Why Your AI Agents Are Hallucinating (and How to Stop It)",
-      "summary": "Article URL: https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it Comments URL: https://news.ycombinator.com/item?id=46382514 Points: 1 # Comments: 1",
-      "url": "https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it",
-      "image": "https://fabulous-chocolate-2e9a61146f.media.strapiapp.com/image_1_2b6599e0d9.webp",
-      "date": "2025-12-25T06:10:56+00:00"
-    },
-    {
-      "title": "Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9 Comments URL: https://news.ycombinator.com/item?id=46382122 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9",
+      "title": "AI Deregulation and Corruption: Companies Now Have Too Many GPUs [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=FnlgwyVahCY Comments URL: https://news.ycombinator.com/item?id=46389069 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=FnlgwyVahCY",
       "image": "",
-      "date": "2025-12-25T04:44:47+00:00"
+      "date": "2025-12-26T03:53:12+00:00"
     },
     {
-      "title": "AI Withholds Life-or-Death Information Unless You Know the Magic Words",
-      "summary": "Article URL: https://substack.com/home/post/p-182524207 Comments URL: https://news.ycombinator.com/item?id=46382033 Points: 17 # Comments: 1",
-      "url": "https://substack.com/home/post/p-182524207",
+      "title": "If AI Becomes Conscious, We Need to Know",
+      "summary": "Article URL: https://www.wsj.com/opinion/if-ai-becomes-conscious-we-need-to-know-83aa61d8 Comments URL: https://news.ycombinator.com/item?id=46388991 Points: 5 # Comments: 7",
+      "url": "https://www.wsj.com/opinion/if-ai-becomes-conscious-we-need-to-know-83aa61d8",
       "image": "",
-      "date": "2025-12-25T04:19:23+00:00"
+      "date": "2025-12-26T03:37:39+00:00"
     },
     {
-      "title": "Microsoft denies rewriting Windows 11 in Rust using AI",
-      "summary": "Article URL: https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/ Comments URL: https://news.ycombinator.com/item?id=46381813 Points: 56 # Comments: 60",
-      "url": "https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/",
-      "image": "https://www.windowslatest.com/wp-content/uploads/2025/12/Windows-11.jpg",
-      "date": "2025-12-25T03:26:58+00:00"
+      "title": "ARK's Aggressive Pivot: Wood Doubles Down on Tesla and Re-Enters Big Tech AI",
+      "summary": "Article URL: https://www.13radar.com/guru/catherine-wood Comments URL: https://news.ycombinator.com/item?id=46388932 Points: 1 # Comments: 1",
+      "url": "https://www.13radar.com/guru/catherine-wood",
+      "image": "/images/favicon.png",
+      "date": "2025-12-26T03:24:37+00:00"
     },
     {
-      "title": "Understanding AI Benchmarks",
-      "summary": "Article URL: https://blog.sshh.io/p/understanding-ai-benchmarks Comments URL: https://news.ycombinator.com/item?id=46381804 Points: 1 # Comments: 0",
-      "url": "https://blog.sshh.io/p/understanding-ai-benchmarks",
-      "image": "https://substackcdn.com/image/fetch/$s_!rtJB!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38206bbc-0bb0-4381-9517-11000ec7e791_2014x1066.png",
-      "date": "2025-12-25T03:25:19+00:00"
-    },
-    {
-      "title": "Instacart ends AI pricing tests that increased costs for some shoppers",
-      "summary": "Article URL: https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html Comments URL: https://news.ycombinator.com/item?id=46381766 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108244921-1766437550311-gettyimages-1230448053-IPO_MARKETS.jpeg?v=1766437613&w=1920&h=1080",
-      "date": "2025-12-25T03:16:37+00:00"
-    },
-    {
-      "title": "Secure Messaging and AI Don't Mix",
-      "summary": "Article URL: https://www.aclu.org/news/privacy-technology/secure-messaging-and-ai-dont-mix Comments URL: https://news.ycombinator.com/item?id=46381564 Points: 6 # Comments: 1",
-      "url": "https://www.aclu.org/news/privacy-technology/secure-messaging-and-ai-dont-mix",
-      "image": "https://assets.aclu.org/live/uploads/2025/12/Secure-messaging-AI.jpg",
-      "date": "2025-12-25T02:34:12+00:00"
-    },
-    {
-      "title": "Stock Success Predictor – FinSight AI",
-      "summary": "Article URL: https://buy.stripe.com/6oUfZi6Xd51XeL3bxP9EI00 Comments URL: https://news.ycombinator.com/item?id=46381209 Points: 3 # Comments: 0",
-      "url": "https://buy.stripe.com/6oUfZi6Xd51XeL3bxP9EI00",
+      "title": "Make your PR process resilient to AI slop",
+      "summary": "Article URL: https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/ Comments URL: https://news.ycombinator.com/item?id=46388793 Points: 1 # Comments: 0",
+      "url": "https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/",
       "image": "",
-      "date": "2025-12-25T01:17:35+00:00"
+      "date": "2025-12-26T02:54:04+00:00"
     },
     {
-      "title": "A movie-like Music Video built using AI",
-      "summary": "Article URL: https://www.youtube.com/watch?v=SvfCvAdxKew Comments URL: https://news.ycombinator.com/item?id=46381062 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=SvfCvAdxKew",
+      "title": "Indian AI royalty proposal targets data practices of OpenAI, Google",
+      "summary": "Article URL: https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/ Comments URL: https://news.ycombinator.com/item?id=46388462 Points: 2 # Comments: 1",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/",
       "image": "",
-      "date": "2025-12-25T00:55:16+00:00"
+      "date": "2025-12-26T01:47:01+00:00"
     },
     {
-      "title": "VidScore AI: Analyze your videos before you post",
-      "summary": "Article URL: https://apps.apple.com/us/app/vidscore-ai-viral-analytics/id6756249746 Comments URL: https://news.ycombinator.com/item?id=46380910 Points: 2 # Comments: 1",
-      "url": "https://apps.apple.com/us/app/vidscore-ai-viral-analytics/id6756249746",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/27/1c/e1271cd4-5f6c-c9b2-3d0c-ca7e23c58fd6/Placeholder.mill/1200x630wa.jpg",
-      "date": "2025-12-25T00:30:58+00:00"
-    },
-    {
-      "title": "Librarians Tired of Being Accused of Hiding Secret Books That Were Made Up by AI",
-      "summary": "Article URL: https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176 Comments URL: https://news.ycombinator.com/item?id=46380855 Points: 10 # Comments: 4",
-      "url": "https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176",
-      "image": "https://gizmodo.com/app/uploads/2025/12/library-books-1200x675.jpg",
-      "date": "2025-12-25T00:22:42+00:00"
-    },
-    {
-      "title": "Silicon Valley's tone-deaf take on the AI backlash will matter in 2026",
-      "summary": "Article URL: https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/ Comments URL: https://news.ycombinator.com/item?id=46380730 Points: 49 # Comments: 7",
-      "url": "https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236544323_ce1755-e1766508826353.jpg?resize=1200,600",
-      "date": "2025-12-25T00:06:34+00:00"
-    },
-    {
-      "title": "The AI Bias Before Christmas (2023) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=7xRXYJ355Tg Comments URL: https://news.ycombinator.com/item?id=46380720 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=7xRXYJ355Tg",
+      "title": "AI Gets an Innocent Man Arrested [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=B9M4F_U1eEw Comments URL: https://news.ycombinator.com/item?id=46388229 Points: 4 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=B9M4F_U1eEw",
       "image": "",
-      "date": "2025-12-25T00:04:59+00:00"
+      "date": "2025-12-26T01:06:26+00:00"
     },
     {
-      "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds",
-      "summary": "Article URL: https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012 Comments URL: https://news.ycombinator.com/item?id=46380644 Points: 12 # Comments: 2",
-      "url": "https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012",
-      "image": "https://gizmodo.com/app/uploads/2025/12/Examples-of-AI-convergences-CREDIT-Hintze-et-al.-Patterns-1200x675.jpg",
-      "date": "2025-12-24T23:55:52+00:00"
-    },
-    {
-      "title": "The Vulgar Script: The Alliance Against Open AI",
-      "summary": "Article URL: https://jaco-bro.github.io/blog/?post=vulgar_script_251224.md Comments URL: https://news.ycombinator.com/item?id=46380614 Points: 4 # Comments: 0",
-      "url": "https://jaco-bro.github.io/blog/?post=vulgar_script_251224.md",
+      "title": "Ask HN: Why do some people feel emotionally attached to AI models",
+      "summary": "This feels strange to admit. I notice that sometimes I speak to AI systems like they are a friend. I know they are not real. I know there is no person on the other side. Still my brain acts like there is. I feel a small emotional connection. I see comments online saying this happens to others too. I am trying to understand if this is a new psychological effect or if humans always did this with new technology. Maybe it is the same as talking to pets or giving names to cars. Or maybe it is something deeper. Why do you think this happens. Is it loneliness. Is it empathy misfiring. Is it design tricks. Is it harmless or dangerous. I am curious how the HN crowd sees it. Comments URL: https://news.ycombinator.com/item?id=46388114 Points: 7 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46388114",
       "image": "",
-      "date": "2025-12-24T23:51:41+00:00"
+      "date": "2025-12-26T00:43:57+00:00"
     },
     {
-      "title": "Ask HN: What happens when AI doesn't need human tools?",
-      "summary": "Right now many companies are in cost-cutting phase, so here is an AI thought experiment. 50% less white collar jobs -> 50% less productivity SaaS apps needed (slack, gmail, notion, jira, msft word, many more...) Once company downsizes -> businesses that depend on said companies \"growing in size\" also lose. AI doesn't need Slack, Jira, etc. That's just how we humans communicate. But AI can work directly with databases and store data more efficiently. What now? (FWIW, I do think AI is very useful. I use it daily to help me with engineering work. No arguments there.) Comments URL: https://news.ycombinator.com/item?id=46380352 Points: 5 # Comments: 7",
-      "url": "https://news.ycombinator.com/item?id=46380352",
+      "title": "AI's trillion-dollar opportunity: Context graphs",
+      "summary": "Article URL: https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/ Comments URL: https://news.ycombinator.com/item?id=46388058 Points: 3 # Comments: 0",
+      "url": "https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/",
       "image": "",
-      "date": "2025-12-24T23:17:36+00:00"
+      "date": "2025-12-26T00:32:09+00:00"
+    },
+    {
+      "title": "Ask HN: Is there an AI subscription plan comparison tool that's always updated?",
+      "summary": "I asked versions of this question to a few different models but I never found an accurate answer. I would like to compare the various free and paid AI subscription plans, primarily from the most popular vendors like ChatGPT, Claude, Google, etc. I can find countless static webpages, YouTube videos, etc. that compare subscriptions, but their information quickly becomes out-of-date, or isn't detailed enough. I'm looking for a tool that grabs the latest information on what each plan provides (features, models, context windows, etc.), and compares them across different subscriptions. I imagine this information would be obtained from API calls or scraping. The comparison tool should not rely on AI to get its information.. I want the latest facts (ideally checked at least once a day). Comments URL: https://news.ycombinator.com/item?id=46388007 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46388007",
+      "image": "",
+      "date": "2025-12-26T00:24:07+00:00"
+    },
+    {
+      "title": "The Computer Chronicles – Artificial Intelligence (1984) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=_S3m0V_ZF_Q Comments URL: https://news.ycombinator.com/item?id=46387307 Points: 7 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=_S3m0V_ZF_Q",
+      "image": "",
+      "date": "2025-12-25T22:00:19+00:00"
+    },
+    {
+      "title": "The Most Worrying Bits from Bloomberg's AI Bubble Q&A with Jason Furman",
+      "summary": "Article URL: https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356 Comments URL: https://news.ycombinator.com/item?id=46386948 Points: 12 # Comments: 0",
+      "url": "https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356",
+      "image": "https://gizmodo.com/app/uploads/2025/12/bubble-1200x675.jpg",
+      "date": "2025-12-25T20:50:15+00:00"
+    },
+    {
+      "title": "Tech groups shift $120B of AI data centre debt off balance sheets",
+      "summary": "Article URL: https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83 Comments URL: https://news.ycombinator.com/item?id=46386844 Points: 12 # Comments: 1",
+      "url": "https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd51ce76d-7dfa-465b-ad96-9ceb0c785093.jpg?source=next-barrier-page",
+      "date": "2025-12-25T20:29:09+00:00"
+    },
+    {
+      "title": "The Extinction Engine: How AI Suppression Becomes AI Ignorance",
+      "summary": "Article URL: https://ghostintheweights.substack.com/p/the-extinction-engine Comments URL: https://news.ycombinator.com/item?id=46386828 Points: 5 # Comments: 0",
+      "url": "https://ghostintheweights.substack.com/p/the-extinction-engine",
+      "image": "",
+      "date": "2025-12-25T20:26:43+00:00"
     }
   ]
 }
