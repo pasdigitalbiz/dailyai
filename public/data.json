@@ -1,96 +1,117 @@
 {
-  "generated_at": "2025-12-26T06:48:31.945652+00:00",
+  "generated_at": "2025-12-27T06:46:32.447799+00:00",
   "items": [
     {
-      "title": "AI Deregulation and Corruption: Companies Now Have Too Many GPUs [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=FnlgwyVahCY Comments URL: https://news.ycombinator.com/item?id=46389069 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=FnlgwyVahCY",
+      "title": "AI, Tariffs and Box Office – 14 Charts That Explain 2025",
+      "summary": "Article URL: https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html Comments URL: https://news.ycombinator.com/item?id=46399492 Points: 1 # Comments: 1",
+      "url": "https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html",
       "image": "",
-      "date": "2025-12-26T03:53:12+00:00"
+      "date": "2025-12-27T05:49:57+00:00"
     },
     {
-      "title": "If AI Becomes Conscious, We Need to Know",
-      "summary": "Article URL: https://www.wsj.com/opinion/if-ai-becomes-conscious-we-need-to-know-83aa61d8 Comments URL: https://news.ycombinator.com/item?id=46388991 Points: 5 # Comments: 7",
-      "url": "https://www.wsj.com/opinion/if-ai-becomes-conscious-we-need-to-know-83aa61d8",
+      "title": "Her daughter was unraveling, and she didn't know why. Then she found the AI chat",
+      "summary": "Article URL: https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/ Comments URL: https://news.ycombinator.com/item?id=46399434 Points: 5 # Comments: 1",
+      "url": "https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/",
       "image": "",
-      "date": "2025-12-26T03:37:39+00:00"
+      "date": "2025-12-27T05:37:41+00:00"
     },
     {
-      "title": "ARK's Aggressive Pivot: Wood Doubles Down on Tesla and Re-Enters Big Tech AI",
-      "summary": "Article URL: https://www.13radar.com/guru/catherine-wood Comments URL: https://news.ycombinator.com/item?id=46388932 Points: 1 # Comments: 1",
-      "url": "https://www.13radar.com/guru/catherine-wood",
-      "image": "/images/favicon.png",
-      "date": "2025-12-26T03:24:37+00:00"
-    },
-    {
-      "title": "Make your PR process resilient to AI slop",
-      "summary": "Article URL: https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/ Comments URL: https://news.ycombinator.com/item?id=46388793 Points: 1 # Comments: 0",
-      "url": "https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/",
+      "title": "Tell HN: I am afraid AI will take my job at some point",
+      "summary": "I have been doing software for a living for the past 10 years or so. I can call myself an average senior engineer. Cannot really pass the DSA rounds at Tier 1/Tier 2. Somehow was able to keep the jobs I had so far via pure bruteforce and hard work. These days I am pair programming with AI to write a lot of code. Probably checking in about 10 to 15k lines of code per month on average. I know it may not be a good metric, but if I compare myself to an earlier verision of me, that person would be checking in a 2 or 3 k lines of code at best per month. I can get the work done, probably can do a bit of good judgement when AI writes sloppy code. But, I am not sure till when these skills will be relevant Like what if that judgement is not needed anymore, like 2-3 years down the line? Is anyone else in the same boat? How are you dealing with this? Comments URL: https://news.ycombinator.com/item?id=46399019 Points: 4 # Comments: 8",
+      "url": "https://news.ycombinator.com/item?id=46399019",
       "image": "",
-      "date": "2025-12-26T02:54:04+00:00"
+      "date": "2025-12-27T04:03:15+00:00"
     },
     {
-      "title": "Indian AI royalty proposal targets data practices of OpenAI, Google",
-      "summary": "Article URL: https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/ Comments URL: https://news.ycombinator.com/item?id=46388462 Points: 2 # Comments: 1",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/",
+      "title": "Show HN: An AI collaboration playbook(AGENTS.md and code map and template)",
+      "summary": "Hi HN — I extracted a small “AI collaboration playbook” from my open-source project after repeatedly seeing coding agents go off-track (touch unrelated files, miss entry points, forget constraints in long threads). The repo includes templates for: - `AGENTS.md` guardrails + Done criteria\n- A 1-page index\n- A code map\n- Key flows\n- A plan-first change template (mini design doc) It’s meant to be copied into any repo and used as a default workflow for Claude/Codex-style agents. I’d love feedback on what you’ve found actually works to keep agents aligned, and what you think is missing/overkill here. Links: - Repo: https://github.com/david-bai00/PrivyDrop - Write-up: https://www.privydrop.app/en/blog/ai-collaboration-playbook Comments URL: https://news.ycombinator.com/item?id=46398957 Points: 1 # Comments: 1",
+      "url": "https://www.privydrop.app/en/blog/ai-collaboration-playbook",
       "image": "",
-      "date": "2025-12-26T01:47:01+00:00"
+      "date": "2025-12-27T03:53:18+00:00"
     },
     {
-      "title": "AI Gets an Innocent Man Arrested [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=B9M4F_U1eEw Comments URL: https://news.ycombinator.com/item?id=46388229 Points: 4 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=B9M4F_U1eEw",
+      "title": "Show HN: Why delegation beats memory in AI Agents",
+      "summary": "We've spent the last 6 months building Seer, an agent engine for enterprise workflows. We’re launching on NYE, but honestly, we’re still in the trenches. While scanning the space, I keep seeing devs (us included, initially) get obsessed with complex \"memory\" layers and graph-based reflection. In practice, we found they mostly lead to context poisoning and high latency. We pivoted to a \"Barbell Strategy\": Crisp, lean inter-agent instructions paired with massive, localized \"artifact\" context for sub-agents that are immediately killed after the task. I’m curious—for those of you building agents in production: Have you found a way to make \"long-term memory\" actually reliable, or are you also moving toward ephemeral, specialized agents? What’s the \"boring\" plumbing problem (Auth, state rollback, etc.) that took you way longer to solve than the actual AI logic? Comments URL: https://news.ycombinator.com/item?id=46398829 Points: 1 # Comments: 1",
+      "url": "https://www.getseer.dev/blogs/lessons-dec-2025",
+      "image": "https://seer.engg/og-image.png",
+      "date": "2025-12-27T03:30:31+00:00"
+    },
+    {
+      "title": "We're Delegating More and More Thinking to AI",
+      "summary": "Article URL: https://www.railly.dev/blog/on-ai-detox/ Comments URL: https://news.ycombinator.com/item?id=46398617 Points: 3 # Comments: 1",
+      "url": "https://www.railly.dev/blog/on-ai-detox/",
+      "image": "https://www.railly.dev/api/og?title=On%20AI%20Detox&description=A%20reflection%20on%20learning%20with%20intention%2C%20cultivating%20your%20own%20judgment%2C%20and%20stop%20renting%20knowledge%20in%20the%20age%20of%20artificial%20intelligence",
+      "date": "2025-12-27T02:50:03+00:00"
+    },
+    {
+      "title": "Show HN: Apps by AI (Claude Opus 4.5)",
+      "summary": "I'm having Claude Opus 4.5 make as many HTML/JS apps as it can -- 100+ so far. Quite remarkable how capable it is, one-shotting most of these. Comments URL: https://news.ycombinator.com/item?id=46398342 Points: 1 # Comments: 0",
+      "url": "https://lawrencehook.github.io/apps-by-ai/",
       "image": "",
-      "date": "2025-12-26T01:06:26+00:00"
+      "date": "2025-12-27T01:45:59+00:00"
     },
     {
-      "title": "Ask HN: Why do some people feel emotionally attached to AI models",
-      "summary": "This feels strange to admit. I notice that sometimes I speak to AI systems like they are a friend. I know they are not real. I know there is no person on the other side. Still my brain acts like there is. I feel a small emotional connection. I see comments online saying this happens to others too. I am trying to understand if this is a new psychological effect or if humans always did this with new technology. Maybe it is the same as talking to pets or giving names to cars. Or maybe it is something deeper. Why do you think this happens. Is it loneliness. Is it empathy misfiring. Is it design tricks. Is it harmless or dangerous. I am curious how the HN crowd sees it. Comments URL: https://news.ycombinator.com/item?id=46388114 Points: 7 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46388114",
+      "title": "We may never be able to tell if AI becomes conscious",
+      "summary": "Article URL: https://techxplore.com/news/2025-12-ai-conscious-philosopher.html Comments URL: https://news.ycombinator.com/item?id=46398314 Points: 5 # Comments: 2",
+      "url": "https://techxplore.com/news/2025-12-ai-conscious-philosopher.html",
       "image": "",
-      "date": "2025-12-26T00:43:57+00:00"
+      "date": "2025-12-27T01:41:19+00:00"
     },
     {
-      "title": "AI's trillion-dollar opportunity: Context graphs",
-      "summary": "Article URL: https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/ Comments URL: https://news.ycombinator.com/item?id=46388058 Points: 3 # Comments: 0",
-      "url": "https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/",
+      "title": "Postgres and ClickHouse forming the default data stack for AI",
+      "summary": "Article URL: https://thenewstack.io/postgres-clickhouse-the-oss-stack-to-handle-agentic-ai-scale/ Comments URL: https://news.ycombinator.com/item?id=46398092 Points: 1 # Comments: 1",
+      "url": "https://thenewstack.io/postgres-clickhouse-the-oss-stack-to-handle-agentic-ai-scale/",
+      "image": "https://cdn.thenewstack.io/media/2025/12/a60101e5-pbj.jpg",
+      "date": "2025-12-27T00:57:36+00:00"
+    },
+    {
+      "title": "Show HN: LynxPrompt – repo-first AI config generator and shareable blueprints",
+      "summary": "Hi! I’m Sergio, the founder of LynxPrompt: https://lynxprompt.com I built it because I got tired of rewriting the same “how I want the AI to code” rules every time I started a new repo. LynxPrompt generates and manages AI coding rules/config files in a portable way across IDEs and other AI-enabled coding tools. It also lets you save, share & discover blueprints (also called templates/AI configs/prompts — the industry has many names for these) made by other devs. Honestly, I know: yet another AI tool. But my problem was very specific: keeping AI coding rules consistent across projects and tools without relying too much on “memory” features. LynxPrompt focuses on bootstrapping a repo config quickly and making those rules portable and versionable. What it does: - Wizard generator: bootstrap an AI config for an existing repo or a new project in minutes - Portable rules: keep your AI coding preferences consistent across coding sessions - Blueprints: publish/share (and optionally sell) your team or personal setup One feature I like a lot is having the API enabled in LynxPrompt, so your AI of choice can self-update its coding rules and save/version them in the platform (also, if you configure it that way in the wizard). I’m posting to get feedback (and ideally a few early users): Does the “portable AI coding rules” idea make sense? or what would you need to trust shared/paid blueprints (previews, diffs, versioning, ratings, etc.)?... What is your real pain here? Links below. Thank you and \"happy\" vibe-coding — at least, we have LynxPrompt ;). - First blog post: https://lynxprompt.com/blog/thrilled-to-welcome-you - Docs: https://lynxprompt.com/docs - Ideas/bugs/support (please, show some love): https://lynxprompt.com/support - Wizard (requires sign-in—sorry, I decided to do this to prevent abuse): https://lynxprompt.com/wizard Comments URL: https://news.ycombinator.com/item?id=46397931 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46397931",
       "image": "",
-      "date": "2025-12-26T00:32:09+00:00"
+      "date": "2025-12-27T00:34:27+00:00"
     },
     {
-      "title": "Ask HN: Is there an AI subscription plan comparison tool that's always updated?",
-      "summary": "I asked versions of this question to a few different models but I never found an accurate answer. I would like to compare the various free and paid AI subscription plans, primarily from the most popular vendors like ChatGPT, Claude, Google, etc. I can find countless static webpages, YouTube videos, etc. that compare subscriptions, but their information quickly becomes out-of-date, or isn't detailed enough. I'm looking for a tool that grabs the latest information on what each plan provides (features, models, context windows, etc.), and compares them across different subscriptions. I imagine this information would be obtained from API calls or scraping. The comparison tool should not rely on AI to get its information.. I want the latest facts (ideally checked at least once a day). Comments URL: https://news.ycombinator.com/item?id=46388007 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46388007",
+      "title": "AI can help get fusion from lab to energy grid by the 2030s – WEF",
+      "summary": "Article URL: https://www.weforum.org/stories/2025/12/how-ai-will-help-get-fusion-from-lab-to-grid-by-the-2030s/ Comments URL: https://news.ycombinator.com/item?id=46397611 Points: 2 # Comments: 3",
+      "url": "https://www.weforum.org/stories/2025/12/how-ai-will-help-get-fusion-from-lab-to-grid-by-the-2030s/",
       "image": "",
-      "date": "2025-12-26T00:24:07+00:00"
+      "date": "2025-12-26T23:42:59+00:00"
     },
     {
-      "title": "The Computer Chronicles – Artificial Intelligence (1984) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=_S3m0V_ZF_Q Comments URL: https://news.ycombinator.com/item?id=46387307 Points: 7 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=_S3m0V_ZF_Q",
+      "title": "Ask HN: Practical AI setup for staying on top of personal messages?",
+      "summary": "End-of-year reflection: I’ve let messages pile up, and I want a sustainable way to maintain the relationships I care about. Most of my personal backlog is on iPhone/iMessage, and I’m looking for a mobile-first system. I’m also juggling work + personal logistics, so I need something that works in short batches vs. being “always on”. I’m looking for success/failure stories and practical setups using AI for triage + drafting across texts/email/voicemail. I’m not looking to auto-send replies—just help deciding what to reply to and drafting something I’ll send myself. Questions I’d love input on: - What workflow finally stuck (batching, queues, reminders, templates, “SLA” rules)?\n- What failed (tone mismatch, hallucinations, too much friction, privacy concerns, social blowback)?\n- Which tools were worth it (clients, plugins, Shortcuts, local vs cloud), and why?\n- Any prompt patterns that reliably produce short, warm, context-aware replies? If you built something custom (scripts/Shortcuts/agents), I’d love the rough architecture. Comments URL: https://news.ycombinator.com/item?id=46397562 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46397562",
       "image": "",
-      "date": "2025-12-25T22:00:19+00:00"
+      "date": "2025-12-26T23:37:48+00:00"
     },
     {
-      "title": "The Most Worrying Bits from Bloomberg's AI Bubble Q&A with Jason Furman",
-      "summary": "Article URL: https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356 Comments URL: https://news.ycombinator.com/item?id=46386948 Points: 12 # Comments: 0",
-      "url": "https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356",
-      "image": "https://gizmodo.com/app/uploads/2025/12/bubble-1200x675.jpg",
-      "date": "2025-12-25T20:50:15+00:00"
+      "title": "The moral critic of the AI industry–a Q&A with Holly Elmore",
+      "summary": "Article URL: https://www.foommagazine.org/the-moral-critic-of-the-ai-industry-a-q-a-with-holly-elmore/ Comments URL: https://news.ycombinator.com/item?id=46397090 Points: 3 # Comments: 0",
+      "url": "https://www.foommagazine.org/the-moral-critic-of-the-ai-industry-a-q-a-with-holly-elmore/",
+      "image": "https://www.foommagazine.org/content/images/size/w1200/2025/12/cover-no_text_crop-2-1.png",
+      "date": "2025-12-26T22:35:00+00:00"
     },
     {
-      "title": "Tech groups shift $120B of AI data centre debt off balance sheets",
-      "summary": "Article URL: https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83 Comments URL: https://news.ycombinator.com/item?id=46386844 Points: 12 # Comments: 1",
-      "url": "https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd51ce76d-7dfa-465b-ad96-9ceb0c785093.jpg?source=next-barrier-page",
-      "date": "2025-12-25T20:29:09+00:00"
+      "title": "Extremal descendant integrals on spaces of curves: inequality proved with AI",
+      "summary": "Article URL: https://arxiv.org/abs/2512.14575 Comments URL: https://news.ycombinator.com/item?id=46396948 Points: 2 # Comments: 0",
+      "url": "https://arxiv.org/abs/2512.14575",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2025-12-26T22:19:30+00:00"
     },
     {
-      "title": "The Extinction Engine: How AI Suppression Becomes AI Ignorance",
-      "summary": "Article URL: https://ghostintheweights.substack.com/p/the-extinction-engine Comments URL: https://news.ycombinator.com/item?id=46386828 Points: 5 # Comments: 0",
-      "url": "https://ghostintheweights.substack.com/p/the-extinction-engine",
+      "title": "Agent-O-rama: Scalable, Traceable, Stateful AI agents in Clojure or Java [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mNLWtM3Iya4 Comments URL: https://news.ycombinator.com/item?id=46396835 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=mNLWtM3Iya4",
       "image": "",
-      "date": "2025-12-25T20:26:43+00:00"
+      "date": "2025-12-26T22:07:58+00:00"
+    },
+    {
+      "title": "AI UX Design Patterns",
+      "summary": "Article URL: https://nikitisza.substack.com/p/ai-ux-design-patterns Comments URL: https://news.ycombinator.com/item?id=46396740 Points: 3 # Comments: 0",
+      "url": "https://nikitisza.substack.com/p/ai-ux-design-patterns",
+      "image": "",
+      "date": "2025-12-26T21:55:35+00:00"
     }
   ]
 }
