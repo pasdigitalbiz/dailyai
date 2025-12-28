@@ -1,117 +1,96 @@
 {
-  "generated_at": "2025-12-27T06:46:32.447799+00:00",
+  "generated_at": "2025-12-28T06:46:53.314443+00:00",
   "items": [
     {
-      "title": "AI, Tariffs and Box Office – 14 Charts That Explain 2025",
-      "summary": "Article URL: https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html Comments URL: https://news.ycombinator.com/item?id=46399492 Points: 1 # Comments: 1",
-      "url": "https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html",
+      "title": "Racist AI fakes are now a business – and a political tool",
+      "summary": "Article URL: https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend Comments URL: https://news.ycombinator.com/item?id=46408958 Points: 1 # Comments: 0",
+      "url": "https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend",
       "image": "",
-      "date": "2025-12-27T05:49:57+00:00"
+      "date": "2025-12-28T06:33:46+00:00"
     },
     {
-      "title": "Her daughter was unraveling, and she didn't know why. Then she found the AI chat",
-      "summary": "Article URL: https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/ Comments URL: https://news.ycombinator.com/item?id=46399434 Points: 5 # Comments: 1",
-      "url": "https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/",
+      "title": "Sam Altman is hiring someone to worry about the dangers of AI",
+      "summary": "Article URL: https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness Comments URL: https://news.ycombinator.com/item?id=46408744 Points: 2 # Comments: 0",
+      "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_1009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2025-12-28T05:36:46+00:00"
+    },
+    {
+      "title": "Show HN: AI slop has flooded the template market",
+      "summary": "I was sourcing e-commerce templates for a client and ran into two bad options: - expensive, locked-down ecosystems like Shopify\n- broken AI-generated junk So I built Estrocom, an e-commerce template with Astro, Tailwind, and TypeScript,\ndesigned to be WCAG AA accessible, SEO-friendly, and mobile-first. Live demo: https://estrocom.netlify.app Source code: https://github.com/VBproDev/estrocom Why it’s worth checking out: - Accessibility: 0 issues detected by Axe and Lighthouse, WCAG AA contrast maintained\n- Performance: Sub-1s load time with strong Lighthouse scores\n- Mobile-first: Works from 360px up to large screens\n- Atomic design: Atoms, molecules, and organisms for scalability\n- Full shopping flow: Cart + product categorization\n- SEO-ready: JSON-LD schema and sitemap support Comments URL: https://news.ycombinator.com/item?id=46408531 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46408531",
       "image": "",
-      "date": "2025-12-27T05:37:41+00:00"
+      "date": "2025-12-28T04:45:43+00:00"
     },
     {
-      "title": "Tell HN: I am afraid AI will take my job at some point",
-      "summary": "I have been doing software for a living for the past 10 years or so. I can call myself an average senior engineer. Cannot really pass the DSA rounds at Tier 1/Tier 2. Somehow was able to keep the jobs I had so far via pure bruteforce and hard work. These days I am pair programming with AI to write a lot of code. Probably checking in about 10 to 15k lines of code per month on average. I know it may not be a good metric, but if I compare myself to an earlier verision of me, that person would be checking in a 2 or 3 k lines of code at best per month. I can get the work done, probably can do a bit of good judgement when AI writes sloppy code. But, I am not sure till when these skills will be relevant Like what if that judgement is not needed anymore, like 2-3 years down the line? Is anyone else in the same boat? How are you dealing with this? Comments URL: https://news.ycombinator.com/item?id=46399019 Points: 4 # Comments: 8",
-      "url": "https://news.ycombinator.com/item?id=46399019",
+      "title": "An AI pioneer says the technology is 'limited' and won't replace humans soon",
+      "summary": "Article URL: https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074 Comments URL: https://news.ycombinator.com/item?id=46408194 Points: 8 # Comments: 4",
+      "url": "https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251126-andrew-ng-ew-330p-9b6d76.jpg",
+      "date": "2025-12-28T03:41:23+00:00"
+    },
+    {
+      "title": "AI skeptic DeSantis: 'We have to reject that with every fiber of our being'",
+      "summary": "Article URL: https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333 Comments URL: https://news.ycombinator.com/item?id=46408159 Points: 6 # Comments: 2",
+      "url": "https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333",
       "image": "",
-      "date": "2025-12-27T04:03:15+00:00"
+      "date": "2025-12-28T03:35:07+00:00"
     },
     {
-      "title": "Show HN: An AI collaboration playbook(AGENTS.md and code map and template)",
-      "summary": "Hi HN — I extracted a small “AI collaboration playbook” from my open-source project after repeatedly seeing coding agents go off-track (touch unrelated files, miss entry points, forget constraints in long threads). The repo includes templates for: - `AGENTS.md` guardrails + Done criteria\n- A 1-page index\n- A code map\n- Key flows\n- A plan-first change template (mini design doc) It’s meant to be copied into any repo and used as a default workflow for Claude/Codex-style agents. I’d love feedback on what you’ve found actually works to keep agents aligned, and what you think is missing/overkill here. Links: - Repo: https://github.com/david-bai00/PrivyDrop - Write-up: https://www.privydrop.app/en/blog/ai-collaboration-playbook Comments URL: https://news.ycombinator.com/item?id=46398957 Points: 1 # Comments: 1",
-      "url": "https://www.privydrop.app/en/blog/ai-collaboration-playbook",
+      "title": "Show HN: A 12KB Deterministic AI Kernel for Robotics (bestbrain-core)",
+      "summary": "Hey HN! I'm tired of the ritual where we assume AI needs a GPU cluster and a prayer to avoid crashing. I built BESTBRAIN Core to prove that intelligence—real, deterministic, safe intelligence—can live in the \"room at the bottom.\" This is a 12KB kernel designed for robotics where failure isn't an option. What it is:\n- 12KB decision kernel (10.7KB Python + 1.8KB JS wrapper)\n- 100% deterministic (same input → same output, always)\n- 0 crashes across 10,260+ tests\n- <1ms latency (edge-deployable)\n- No GPU, no neural nets, no randomness What it's NOT:\n- Not a trajectory planner\n- Not a perception system\n- Not a learning algorithm\n- Those belong in user space, not the kernel Why I built this: Everyone's racing toward bigger models. I went the other direction: smaller, simpler, provable. The robotics industry has this ritual where we throw NumPy (15MB), SciPy (31MB), and TensorFlow at every problem. I asked: \"What if we just... didn't?\" Result: A kernel that fits in L1 cache and makes decisions you can actually audit. Try it now:\ngit clone https://codeberg.org/ishrikantbhosale/bestbrain-core.git cd bestbrain-core && python3 -m http.server 8000\nOpen http://localhost:8000/demo.html in your browser Why local? Codeberg doesn't render HTML directly (security). This setup runs the actual Python kernel, not a hosted simulation. You can inspect the code yourself. Technical receipts: https://codeberg.org/ishrikantbhosale/bestbrain-core/src/bra... Philosophy: https://codeberg.org/ishrikantbhosale/room-at-the-bottom Comments URL: https://news.ycombinator.com/item?id=46408016 Points: 1 # Comments: 2",
+      "url": "https://codeberg.org/ishrikantbhosale/bestbrain-core",
+      "image": "https://codeberg.org/ishrikantbhosale/bestbrain-core/-/summary-card",
+      "date": "2025-12-28T03:09:42+00:00"
+    },
+    {
+      "title": "AI data centers may soon be powered by retired Navy nuclear reactors",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project Comments URL: https://news.ycombinator.com/item?id=46407194 Points: 3 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project",
+      "image": "https://cdn.mos.cms.futurecdn.net/jMPG3YdmjWxPqtWjWNUVEM-1920-80.jpg",
+      "date": "2025-12-28T00:47:45+00:00"
+    },
+    {
+      "title": "Our king, our priest, our feudal lord –how AI is taking us back to the dark ages",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment Comments URL: https://news.ycombinator.com/item?id=46405708 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment",
+      "image": "https://i.guim.co.uk/img/media/c286aefbf8fbc284b63efe447bf403ee219674d4/1669_2166_1874_1499/master/1874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=0d18e83eac0aa3e16f977ac4d8d4e710",
+      "date": "2025-12-27T21:58:00+00:00"
+    },
+    {
+      "title": "Copyly: AI Product Descriptions for Dropshippers",
+      "summary": "Dropshippers struggle with terrible supplier descriptions from generic platforms. We built AI that turns those generic descriptions into high-converting, SEO-optimized copy in seconds. New features: - Supplier URL import - paste any product link, get optimized description\n- Review mining - upload customer reviews, AI extracts winning phrases\n- Competitor analysis - analyze competitor copy, generate better versions\n- Shopify integration - one-click product creation\n- Multilingual support for international markets Results: 31% higher conversion rates, 10x faster listing creation. Free trial: 10 generations, no credit card required. Try: https://copyly.vercel.app/ Discussion: What's your biggest challenge with product descriptions? Comments URL: https://news.ycombinator.com/item?id=46404713 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46404713",
       "image": "",
-      "date": "2025-12-27T03:53:18+00:00"
+      "date": "2025-12-27T19:58:48+00:00"
     },
     {
-      "title": "Show HN: Why delegation beats memory in AI Agents",
-      "summary": "We've spent the last 6 months building Seer, an agent engine for enterprise workflows. We’re launching on NYE, but honestly, we’re still in the trenches. While scanning the space, I keep seeing devs (us included, initially) get obsessed with complex \"memory\" layers and graph-based reflection. In practice, we found they mostly lead to context poisoning and high latency. We pivoted to a \"Barbell Strategy\": Crisp, lean inter-agent instructions paired with massive, localized \"artifact\" context for sub-agents that are immediately killed after the task. I’m curious—for those of you building agents in production: Have you found a way to make \"long-term memory\" actually reliable, or are you also moving toward ephemeral, specialized agents? What’s the \"boring\" plumbing problem (Auth, state rollback, etc.) that took you way longer to solve than the actual AI logic? Comments URL: https://news.ycombinator.com/item?id=46398829 Points: 1 # Comments: 1",
-      "url": "https://www.getseer.dev/blogs/lessons-dec-2025",
-      "image": "https://seer.engg/og-image.png",
-      "date": "2025-12-27T03:30:31+00:00"
-    },
-    {
-      "title": "We're Delegating More and More Thinking to AI",
-      "summary": "Article URL: https://www.railly.dev/blog/on-ai-detox/ Comments URL: https://news.ycombinator.com/item?id=46398617 Points: 3 # Comments: 1",
-      "url": "https://www.railly.dev/blog/on-ai-detox/",
-      "image": "https://www.railly.dev/api/og?title=On%20AI%20Detox&description=A%20reflection%20on%20learning%20with%20intention%2C%20cultivating%20your%20own%20judgment%2C%20and%20stop%20renting%20knowledge%20in%20the%20age%20of%20artificial%20intelligence",
-      "date": "2025-12-27T02:50:03+00:00"
-    },
-    {
-      "title": "Show HN: Apps by AI (Claude Opus 4.5)",
-      "summary": "I'm having Claude Opus 4.5 make as many HTML/JS apps as it can -- 100+ so far. Quite remarkable how capable it is, one-shotting most of these. Comments URL: https://news.ycombinator.com/item?id=46398342 Points: 1 # Comments: 0",
-      "url": "https://lawrencehook.github.io/apps-by-ai/",
+      "title": "Building Production AI Agents",
+      "summary": "Article URL: https://pub.towardsai.net/building-production-grade-ai-agents-in-2025-the-complete-technical-guide-9f02eff84ea2 Comments URL: https://news.ycombinator.com/item?id=46404443 Points: 1 # Comments: 0",
+      "url": "https://pub.towardsai.net/building-production-grade-ai-agents-in-2025-the-complete-technical-guide-9f02eff84ea2",
       "image": "",
-      "date": "2025-12-27T01:45:59+00:00"
+      "date": "2025-12-27T19:30:53+00:00"
     },
     {
-      "title": "We may never be able to tell if AI becomes conscious",
-      "summary": "Article URL: https://techxplore.com/news/2025-12-ai-conscious-philosopher.html Comments URL: https://news.ycombinator.com/item?id=46398314 Points: 5 # Comments: 2",
-      "url": "https://techxplore.com/news/2025-12-ai-conscious-philosopher.html",
+      "title": "Your Team Uses AI. Why Aren't You 10x Faster?",
+      "summary": "Article URL: https://bits.logic.inc/p/my-team-is-using-ai-why-arent-they Comments URL: https://news.ycombinator.com/item?id=46404332 Points: 5 # Comments: 0",
+      "url": "https://bits.logic.inc/p/my-team-is-using-ai-why-arent-they",
+      "image": "https://substackcdn.com/image/fetch/$s_!7Uhn!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F776b2bc8-fd70-4221-859a-71d0f30663ac_2752x1536.png",
+      "date": "2025-12-27T19:18:33+00:00"
+    },
+    {
+      "title": "Collaboration That Built Modern AI: Conversation with Geoff Hinton and Jeff Dean",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ue9MWfvMylE Comments URL: https://news.ycombinator.com/item?id=46404156 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ue9MWfvMylE",
       "image": "",
-      "date": "2025-12-27T01:41:19+00:00"
+      "date": "2025-12-27T18:52:21+00:00"
     },
     {
-      "title": "Postgres and ClickHouse forming the default data stack for AI",
-      "summary": "Article URL: https://thenewstack.io/postgres-clickhouse-the-oss-stack-to-handle-agentic-ai-scale/ Comments URL: https://news.ycombinator.com/item?id=46398092 Points: 1 # Comments: 1",
-      "url": "https://thenewstack.io/postgres-clickhouse-the-oss-stack-to-handle-agentic-ai-scale/",
-      "image": "https://cdn.thenewstack.io/media/2025/12/a60101e5-pbj.jpg",
-      "date": "2025-12-27T00:57:36+00:00"
-    },
-    {
-      "title": "Show HN: LynxPrompt – repo-first AI config generator and shareable blueprints",
-      "summary": "Hi! I’m Sergio, the founder of LynxPrompt: https://lynxprompt.com I built it because I got tired of rewriting the same “how I want the AI to code” rules every time I started a new repo. LynxPrompt generates and manages AI coding rules/config files in a portable way across IDEs and other AI-enabled coding tools. It also lets you save, share & discover blueprints (also called templates/AI configs/prompts — the industry has many names for these) made by other devs. Honestly, I know: yet another AI tool. But my problem was very specific: keeping AI coding rules consistent across projects and tools without relying too much on “memory” features. LynxPrompt focuses on bootstrapping a repo config quickly and making those rules portable and versionable. What it does: - Wizard generator: bootstrap an AI config for an existing repo or a new project in minutes - Portable rules: keep your AI coding preferences consistent across coding sessions - Blueprints: publish/share (and optionally sell) your team or personal setup One feature I like a lot is having the API enabled in LynxPrompt, so your AI of choice can self-update its coding rules and save/version them in the platform (also, if you configure it that way in the wizard). I’m posting to get feedback (and ideally a few early users): Does the “portable AI coding rules” idea make sense? or what would you need to trust shared/paid blueprints (previews, diffs, versioning, ratings, etc.)?... What is your real pain here? Links below. Thank you and \"happy\" vibe-coding — at least, we have LynxPrompt ;). - First blog post: https://lynxprompt.com/blog/thrilled-to-welcome-you - Docs: https://lynxprompt.com/docs - Ideas/bugs/support (please, show some love): https://lynxprompt.com/support - Wizard (requires sign-in—sorry, I decided to do this to prevent abuse): https://lynxprompt.com/wizard Comments URL: https://news.ycombinator.com/item?id=46397931 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46397931",
+      "title": "Ask HN: Best Email AI Assistant?",
+      "summary": "I’m looking for an AI assistant that works with Gmail. My main requirements are that it should remind me of important mails requiring my attention and draft replies. Pricing is almost irrelevant if it can remove the stress, mental load and missed emails that is my current reality. But there’s a lot of options out there. Which do you recommend and why? Comments URL: https://news.ycombinator.com/item?id=46404079 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46404079",
       "image": "",
-      "date": "2025-12-27T00:34:27+00:00"
-    },
-    {
-      "title": "AI can help get fusion from lab to energy grid by the 2030s – WEF",
-      "summary": "Article URL: https://www.weforum.org/stories/2025/12/how-ai-will-help-get-fusion-from-lab-to-grid-by-the-2030s/ Comments URL: https://news.ycombinator.com/item?id=46397611 Points: 2 # Comments: 3",
-      "url": "https://www.weforum.org/stories/2025/12/how-ai-will-help-get-fusion-from-lab-to-grid-by-the-2030s/",
-      "image": "",
-      "date": "2025-12-26T23:42:59+00:00"
-    },
-    {
-      "title": "Ask HN: Practical AI setup for staying on top of personal messages?",
-      "summary": "End-of-year reflection: I’ve let messages pile up, and I want a sustainable way to maintain the relationships I care about. Most of my personal backlog is on iPhone/iMessage, and I’m looking for a mobile-first system. I’m also juggling work + personal logistics, so I need something that works in short batches vs. being “always on”. I’m looking for success/failure stories and practical setups using AI for triage + drafting across texts/email/voicemail. I’m not looking to auto-send replies—just help deciding what to reply to and drafting something I’ll send myself. Questions I’d love input on: - What workflow finally stuck (batching, queues, reminders, templates, “SLA” rules)?\n- What failed (tone mismatch, hallucinations, too much friction, privacy concerns, social blowback)?\n- Which tools were worth it (clients, plugins, Shortcuts, local vs cloud), and why?\n- Any prompt patterns that reliably produce short, warm, context-aware replies? If you built something custom (scripts/Shortcuts/agents), I’d love the rough architecture. Comments URL: https://news.ycombinator.com/item?id=46397562 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46397562",
-      "image": "",
-      "date": "2025-12-26T23:37:48+00:00"
-    },
-    {
-      "title": "The moral critic of the AI industry–a Q&A with Holly Elmore",
-      "summary": "Article URL: https://www.foommagazine.org/the-moral-critic-of-the-ai-industry-a-q-a-with-holly-elmore/ Comments URL: https://news.ycombinator.com/item?id=46397090 Points: 3 # Comments: 0",
-      "url": "https://www.foommagazine.org/the-moral-critic-of-the-ai-industry-a-q-a-with-holly-elmore/",
-      "image": "https://www.foommagazine.org/content/images/size/w1200/2025/12/cover-no_text_crop-2-1.png",
-      "date": "2025-12-26T22:35:00+00:00"
-    },
-    {
-      "title": "Extremal descendant integrals on spaces of curves: inequality proved with AI",
-      "summary": "Article URL: https://arxiv.org/abs/2512.14575 Comments URL: https://news.ycombinator.com/item?id=46396948 Points: 2 # Comments: 0",
-      "url": "https://arxiv.org/abs/2512.14575",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-12-26T22:19:30+00:00"
-    },
-    {
-      "title": "Agent-O-rama: Scalable, Traceable, Stateful AI agents in Clojure or Java [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=mNLWtM3Iya4 Comments URL: https://news.ycombinator.com/item?id=46396835 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=mNLWtM3Iya4",
-      "image": "",
-      "date": "2025-12-26T22:07:58+00:00"
-    },
-    {
-      "title": "AI UX Design Patterns",
-      "summary": "Article URL: https://nikitisza.substack.com/p/ai-ux-design-patterns Comments URL: https://news.ycombinator.com/item?id=46396740 Points: 3 # Comments: 0",
-      "url": "https://nikitisza.substack.com/p/ai-ux-design-patterns",
-      "image": "",
-      "date": "2025-12-26T21:55:35+00:00"
+      "date": "2025-12-27T18:42:21+00:00"
     }
   ]
 }
