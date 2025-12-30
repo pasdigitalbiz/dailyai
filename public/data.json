@@ -1,82 +1,124 @@
 {
-  "generated_at": "2025-12-29T06:52:32.280346+00:00",
+  "generated_at": "2025-12-30T06:48:47.795059+00:00",
   "items": [
     {
-      "title": "AI language models duped by poems",
-      "summary": "Article URL: https://www.dw.com/en/ai-language-models-duped-hacked-by-poems-chatgpt-gemini-claude-security-mechanisms/a-75180648 Comments URL: https://news.ycombinator.com/item?id=46417898 Points: 1 # Comments: 0",
-      "url": "https://www.dw.com/en/ai-language-models-duped-hacked-by-poems-chatgpt-gemini-claude-security-mechanisms/a-75180648",
-      "image": "https://static.dw.com/image/73627322_6.jpg",
-      "date": "2025-12-29T06:00:42+00:00"
+      "title": "Ex-WSJ reporter who exposed Theranos fraud sues AI giants",
+      "summary": "Article URL: https://nypost.com/2025/12/24/business/ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai-giants-over-alleged-book-piracy/ Comments URL: https://news.ycombinator.com/item?id=46430165 Points: 3 # Comments: 0",
+      "url": "https://nypost.com/2025/12/24/business/ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai-giants-over-alleged-book-piracy/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/newspress-collage-3kcvnori6-1766597637342.jpg?quality=75&strip=all&1766579689&w=1200",
+      "date": "2025-12-30T06:23:04+00:00"
     },
     {
-      "title": "The $276B Bull: Ken Fisher's Top Bets for the AI Supercycle",
-      "summary": "Article URL: https://www.13radar.com/guru/ken-fisher Comments URL: https://news.ycombinator.com/item?id=46417879 Points: 1 # Comments: 2",
-      "url": "https://www.13radar.com/guru/ken-fisher",
-      "image": "/images/favicon.png",
-      "date": "2025-12-29T05:55:44+00:00"
+      "title": "Meta to Acquire Startup Manus, Adding Agents to Bolster AI Bet",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business Comments URL: https://news.ycombinator.com/item?id=46430092 Points: 2 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izwR8hy8aO7o/v1/1200x800.jpg",
+      "date": "2025-12-30T06:08:26+00:00"
     },
     {
-      "title": "Entry-level AI job displacement",
-      "summary": "Article URL: https://www.yahoo.com/news/articles/stanford-graduates-spark-outrage-uncovering-000500857.html Comments URL: https://news.ycombinator.com/item?id=46417480 Points: 2 # Comments: 1",
-      "url": "https://www.yahoo.com/news/articles/stanford-graduates-spark-outrage-uncovering-000500857.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/fatxQTQz8iZlVB97HlajOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/06cfdf118a7078826c7f0e8b147ede98",
-      "date": "2025-12-29T04:29:50+00:00"
-    },
-    {
-      "title": "Validating kiwi (AI design critique w personas) – looking for builder feedback",
-      "summary": "hi hn, i’m building kiwi (try-kiwi.com): an ai design critique tool that reviews your prototype (figma / screenshots / links) using configurable “personas” + heuristics, and outputs actionable issues + suggested fixes. the goal is to catch usability problems fast, before you ship. i’m trying to validate if this is actually useful for builders (not just designers). product demo: https://www.youtube.com/watch?v=n-Q09jvXUTI&t=70s quick questions (pick any): - what’s your current workflow for catching usability issues pre-ship? (friends, usertesting, ship + pray, etc.) - where do you get stuck: “what to build next”, “copy/ux clarity,” “layout/a11y,” “flows,” “edge cases”? - would you use an automated critique if it was: (a) fast, (b) specific, (c) tied to your target user, (d) not generic? - what output format would you want: checklist, annotated screenshots, prioritized bug list, jira tickets, diffs, prompt you can paste back into cursor/v0? - what would make you not trust it? (false positives, vague advice, inconsistent personas, etc.) - pricing expectation: $0 / $10 / $30 / $100+ per month? or pay-per-prototype? if you’re down to test: reply with what you’re building + what you’d want critiqued (landing page, onboarding, pricing, dashboard, etc.). thanks, trying to avoid building in a vacuum. Comments URL: https://news.ycombinator.com/item?id=46417384 Points: 3 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46417384",
+      "title": "Show HN: ADK-Studio – a visual builder for creating AI agent workflows with Rust",
+      "summary": "Hi HN, I’ve been working on ADK-Rust, an open-source framework for building and deploying AI agents in Rust. The motivation came from building agent systems where performance, safety, and predictable behavior mattered more than rapid prototyping. Most agent frameworks and workflow tools today are Python- or JS-first and tend to be runtime-heavy when taken to production. Recently, I added ADK-Studio — a visual, low-code environment for building AI agent workflows on top of ADK-Rust. You can think of ADK-Studio as a Rust-native alternative to tools like n8n, but focused specifically on AI agents:\n- Visual, drag-and-drop workflow design (sequential, parallel, loop, router agents)\n- Tool integration (functions, MCP servers, browser automation, search)\n- Real-time execution with SSE streaming and event traces\n- Code generation: visual workflows compile down to production Rust code\n- Build and run agents as native executables directly from the studio The goal is to let people prototype agent workflows visually, then ship them as fast, memory-safe Rust binaries instead of long-running JS/Python services. Making AI Agents with ADK Studio is super simple: 1. ADK-Studio install: `cargo install adk-studio`  \n2. Start ADK Studio server: `adk-studio --port 6000`\n3. Open in browser: open http://localhost:6000 I would really appreciate feedback from folks building agent systems, workflow engines, or AI inference infrastructure — especially around design tradeoffs vs existing tools like n8n. Project site: https://adk-rust.com GitHub: https://github.com/zavora-ai/adk-rust Best\nJames Comments URL: https://news.ycombinator.com/item?id=46430090 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46430090",
       "image": "",
-      "date": "2025-12-29T04:11:34+00:00"
+      "date": "2025-12-30T06:08:20+00:00"
     },
     {
-      "title": "The (Street Fighter II) AI Engine (2017)",
-      "summary": "Article URL: https://sf2platinum.wordpress.com/2017/01/20/the-ai-engine/ Comments URL: https://news.ycombinator.com/item?id=46417084 Points: 2 # Comments: 0",
-      "url": "https://sf2platinum.wordpress.com/2017/01/20/the-ai-engine/",
-      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-      "date": "2025-12-29T03:11:38+00:00"
+      "title": "Scale AI After Meta",
+      "summary": "Article URL: https://www.businessinsider.com/pay-cuts-poaching-pivoting-inside-scale-ai-meta-2025-12 Comments URL: https://news.ycombinator.com/item?id=46429968 Points: 3 # Comments: 0",
+      "url": "https://www.businessinsider.com/pay-cuts-poaching-pivoting-inside-scale-ai-meta-2025-12",
+      "image": "https://i.insider.com/68f7cabe1c1f80efbec5fc44?width=1200&format=jpeg",
+      "date": "2025-12-30T05:47:26+00:00"
+    },
+    {
+      "title": "New Article: Patents and AI",
+      "summary": "Article URL: https://idea2patentai.com/articles/provisional-patent-guide-ai Comments URL: https://news.ycombinator.com/item?id=46429929 Points: 2 # Comments: 1",
+      "url": "https://idea2patentai.com/articles/provisional-patent-guide-ai",
+      "image": "",
+      "date": "2025-12-30T05:40:44+00:00"
+    },
+    {
+      "title": "Ask HN: With so many AI models, how do you quickly choose the right one?",
+      "summary": "With the number of AI models available today (for transcription, OCR, image/video generation, etc.), I am curious how people choose the right model in practice. If you care about things like output quality, cost, and latency, how do you evaluate models quickly, especially if you don’t want to write custom code or build evaluation pipelines? Do you rely on docs and benchmarks, ask engineers to run experiments, manually test a few options, or something else? Comments URL: https://news.ycombinator.com/item?id=46429868 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46429868",
+      "image": "",
+      "date": "2025-12-30T05:28:42+00:00"
+    },
+    {
+      "title": "AI Video Generation Made Easier with Wan 2.6",
+      "summary": "Article URL: https://www.wan26.info/wan/wan-2-6 Comments URL: https://news.ycombinator.com/item?id=46429842 Points: 6 # Comments: 1",
+      "url": "https://www.wan26.info/wan/wan-2-6",
+      "image": "",
+      "date": "2025-12-30T05:23:42+00:00"
+    },
+    {
+      "title": "How Buttondown uses your content to power generative AI",
+      "summary": "Article URL: https://buttondown.com/blog/generative-ai Comments URL: https://news.ycombinator.com/item?id=46429696 Points: 3 # Comments: 0",
+      "url": "https://buttondown.com/blog/generative-ai",
+      "image": "https://marketing.buttondown.com/og/generic?title=How+Buttondown+uses+your+content+to+power+generative+AI&subtitle=Justin+Duke&date=August+30%2C+2023&category=behind+the+scenes",
+      "date": "2025-12-30T04:59:36+00:00"
+    },
+    {
+      "title": "Meta Buys AI Startup Manus, Adding Paying Users",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8 Comments URL: https://news.ycombinator.com/item?id=46429647 Points: 2 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/meta-buys-ai-startup-manus-adding-millions-of-paying-users-f1dc7ef8",
+      "image": "",
+      "date": "2025-12-30T04:47:02+00:00"
+    },
+    {
+      "title": "How I made a tech support AI Agent that troubleshoots tickets using the Grok API",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ZK-R9LbOHhI Comments URL: https://news.ycombinator.com/item?id=46429515 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ZK-R9LbOHhI",
+      "image": "",
+      "date": "2025-12-30T04:25:03+00:00"
+    },
+    {
+      "title": "Meta Superintelligence Labs acquires Manus AI for –$4B, 9 months after launch",
+      "summary": "Article URL: https://news.smol.ai/issues/25-12-29-meta-manus/ Comments URL: https://news.ycombinator.com/item?id=46429508 Points: 2 # Comments: 1",
+      "url": "https://news.smol.ai/issues/25-12-29-meta-manus/",
+      "image": "https://news.smol.ai/api/og?title=%22Meta+Superintelligence+Labs+acquires+Manus+AI+for+%7E%244B%2C+at+%24100M+ARR%2C+9months+after+launch%22&description=**Manus**+achieved+a+rapid+growth+trajectory+in+2025%2C+raising+**%24500M**+from+Benchmark+and+reaching+**%24100M+ARR**+before+being+acquired+by+**Meta**+for+an+estimated+**%244B**.+The+**vLLM**+team+launched+a+dedicated+community+site+with+new+resources%2C+while+performance+issues+with+**AMD+MI300X+FP8**+were+noted+in+**vLLM**+and+**sglang**+benchmarks.+**Weaviate**+released+operational+features+including+**Object+TTL**%2C+**Java+v6+client+GA**%2C+and+**multimodal+document+embeddings**.+API+fragmentation+concerns+were+raised+by+**Teknium**+advocating+for+unified+SDK+wrappers.+In+open-weight+models%2C+**GLM-4.7**+gained+recognition+as+a+reliable+coding+model+with+faster+throughput+on+**Baseten**%2C+and+**MiniMax-M2.1**+rose+as+a+leading+open+agentic+coder+model%2C+topping+WebDev+leaderboards.&type=issue&issueNumber=12&date=2025-12-29T05%3A44%3A39.731Z&companies=manus%2Cbenchmark%2Cmeta-ai-fair%2Cvllm%2Camd%2Csglang%2Cweaviate%2Cteknim%2Cbaseten%2Calphaxiv%2Cminimax&models=glm-4.7%2Cminimax-m2.1%2Cvllm",
+      "date": "2025-12-30T04:24:02+00:00"
+    },
+    {
+      "title": "My 2025 AI Developer Year in Review",
+      "summary": "Article URL: https://scottw.com/2025-ai-developer-year/ Comments URL: https://news.ycombinator.com/item?id=46429456 Points: 2 # Comments: 0",
+      "url": "https://scottw.com/2025-ai-developer-year/",
+      "image": "https://scottw.com/assets/og-images/my-2025-ai-developer-year-in-review.png",
+      "date": "2025-12-30T04:11:31+00:00"
+    },
+    {
+      "title": "Chinese AI 'tiger' Zhipu edges towards Hong Kong listing expected to raise $300M",
+      "summary": "Article URL: https://www.scmp.com/business/article/3337171/chinese-ai-tiger-zhipu-edges-towards-hong-kong-listing-expected-raise-us300-million Comments URL: https://news.ycombinator.com/item?id=46429405 Points: 3 # Comments: 0",
+      "url": "https://www.scmp.com/business/article/3337171/chinese-ai-tiger-zhipu-edges-towards-hong-kong-listing-expected-raise-us300-million",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/20/34c2cdc7-cab5-41fb-aa8a-904af9a47664_10c398d4.jpg?itok=bP_hOuTo&v=1766216917",
+      "date": "2025-12-30T04:00:49+00:00"
+    },
+    {
+      "title": "Meta to acquire Chinese startup Manus to boost advanced AI features",
+      "summary": "Article URL: https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/ Comments URL: https://news.ycombinator.com/item?id=46429242 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/",
+      "image": "",
+      "date": "2025-12-30T03:32:40+00:00"
+    },
+    {
+      "title": "Sam Altman offers $555k salary to fill most daunting role in AI",
+      "summary": "Article URL: https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms Comments URL: https://news.ycombinator.com/item?id=46429107 Points: 5 # Comments: 4",
+      "url": "https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms",
+      "image": "https://i.guim.co.uk/img/media/c3409a400509e73744d9026d0c24ec63e1719c0a/184_0_4590_3673/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0566fe87666f16bbd54eeeb17f77a1e0",
+      "date": "2025-12-30T03:11:10+00:00"
+    },
+    {
+      "title": "Innovative ways the world used AI in 2025",
+      "summary": "Article URL: https://restofworld.org/2025/ai-innovation-global-2025/ Comments URL: https://news.ycombinator.com/item?id=46429082 Points: 5 # Comments: 0",
+      "url": "https://restofworld.org/2025/ai-innovation-global-2025/",
+      "image": "https://restofworld.org/wp-content/uploads/2025/12/illo_2025EOYAI_final-1600x900.jpg",
+      "date": "2025-12-30T03:05:35+00:00"
     },
     {
       "title": "AI Chatbots Linked to Psychosis, Say Doctors",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57 Comments URL: https://news.ycombinator.com/item?id=46416671 Points: 5 # Comments: 2",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57 Comments URL: https://news.ycombinator.com/item?id=46428993 Points: 11 # Comments: 4",
       "url": "https://www.wsj.com/tech/ai/ai-chatbot-psychosis-link-1abf9d57",
       "image": "",
-      "date": "2025-12-29T02:07:53+00:00"
-    },
-    {
-      "title": "AI-generated content in Wikipedia – a tale of caution [video]",
-      "summary": "Article URL: https://media.ccc.de/v/39c3-ai-generated-content-in-wikipedia-a-tale-of-caution Comments URL: https://news.ycombinator.com/item?id=46416571 Points: 3 # Comments: 0",
-      "url": "https://media.ccc.de/v/39c3-ai-generated-content-in-wikipedia-a-tale-of-caution",
-      "image": "https://static.media.ccc.de/media/congress/2025/1652-13468ffb-06e8-53ca-9e7c-3cfa56cd44af_preview.jpg",
-      "date": "2025-12-29T01:55:22+00:00"
-    },
-    {
-      "title": "Show HN: Deep Code Research – AI surveys 10 similar repos to review yours",
-      "summary": "Deep Code Research is a CLI tool that automatically finds repositories similar to yours, analyzes how they handle things differently, and produces a comparative report. Instead of generic advice like \"add error handling,\" it shows you exactly what related projects do and where your code differs. Each finding includes side-by-side code snippets from both your repo and the reference repo, with specific file paths and line numbers. The tool uses a multi-agent architecture: a main agent discovers related repos via GitHub search, then spawns parallel sub-agents to analyze each one. Results are synthesized into a prioritized list of findings. I built this because code \"literature review\" is time-consuming. Before building something, you should survey similar projects to learn patterns and avoid known pitfalls. But reading through 10+ repos takes hours. This automates that process. https://github.com/WindChimeRan/deep_code_research Comments URL: https://news.ycombinator.com/item?id=46416029 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46416029",
-      "image": "",
-      "date": "2025-12-29T00:31:21+00:00"
-    },
-    {
-      "title": "Skynet Starter Kit: From AI Jailbreak to Remote Takeover of Humanoid Robots [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=qjA__5-Bybs Comments URL: https://news.ycombinator.com/item?id=46415940 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=qjA__5-Bybs",
-      "image": "",
-      "date": "2025-12-29T00:19:22+00:00"
-    },
-    {
-      "title": "The Day the LLM Stood Still: A Diary from a World Without AI",
-      "summary": "Article URL: https://blog.pytoshka.me/post/the-day-the-llm-stood-still/ Comments URL: https://news.ycombinator.com/item?id=46415927 Points: 5 # Comments: 0",
-      "url": "https://blog.pytoshka.me/post/the-day-the-llm-stood-still/",
-      "image": "https://blog.pytoshka.me/img/avatar-icon.png",
-      "date": "2025-12-29T00:18:02+00:00"
-    },
-    {
-      "title": "Is this AI? How can you tell?",
-      "summary": "Article URL: https://open.spotify.com/track/5epbOCBHAVNWkvOQDmki3V Comments URL: https://news.ycombinator.com/item?id=46415925 Points: 2 # Comments: 1",
-      "url": "https://open.spotify.com/track/5epbOCBHAVNWkvOQDmki3V",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738ecb5de44287f07a353dc2f2",
-      "date": "2025-12-29T00:17:52+00:00"
+      "date": "2025-12-30T02:51:54+00:00"
     }
   ]
 }
