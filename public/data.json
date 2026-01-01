@@ -1,124 +1,89 @@
 {
-  "generated_at": "2025-12-31T06:49:16.651909+00:00",
+  "generated_at": "2026-01-01T06:50:03.166976+00:00",
   "items": [
     {
-      "title": "Resolution – Changing my relationship with AI",
-      "summary": "Article URL: https://peaceful.bearblog.dev/resolution/ Comments URL: https://news.ycombinator.com/item?id=46441956 Points: 1 # Comments: 0",
-      "url": "https://peaceful.bearblog.dev/resolution/",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
-      "date": "2025-12-31T06:35:53+00:00"
+      "title": "Taxation in a Strong AI World",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html Comments URL: https://news.ycombinator.com/item?id=46451806 Points: 1 # Comments: 0",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html",
+      "image": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+      "date": "2026-01-01T06:25:43+00:00"
     },
     {
-      "title": "AI Agent, AI Spy [video]",
-      "summary": "Article URL: https://media.ccc.de/v/39c3-ai-agent-ai-spy Comments URL: https://news.ycombinator.com/item?id=46441940 Points: 1 # Comments: 0",
-      "url": "https://media.ccc.de/v/39c3-ai-agent-ai-spy",
-      "image": "https://static.media.ccc.de/media/congress/2025/2230-3e87bab2-575a-53be-8101-5d8144253646_preview.jpg",
-      "date": "2025-12-31T06:31:15+00:00"
-    },
-    {
-      "title": "AI data centers are forcing dirty 'peaker' power plants back into service",
-      "summary": "Article URL: https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/ Comments URL: https://news.ycombinator.com/item?id=46441932 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/",
+      "title": "Ask HN: What is the best microVMs for AI agents?",
+      "summary": "Three weeks ago, we just launched an open-source computer-use agent: https://github.com/zfoong/WhiteCollarAgent However, we are currently looking for self-hosted and easy-to-set-up microVM solutions for the agent's GUI mode. The idea is to let agents operate in an isolated environment for its GUI operation, like web-browsing, launching an app, and using the app, etc. Anyone with any experience with microVM, feel free to let me know in the comments. Many thanks! Comments URL: https://news.ycombinator.com/item?id=46450931 Points: 3 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46450931",
       "image": "",
-      "date": "2025-12-31T06:29:37+00:00"
+      "date": "2026-01-01T03:10:20+00:00"
     },
     {
-      "title": "Ask HN: How do you keep track of developments in the AI space?",
-      "summary": "I have been trying for a while to keep up with the ever faster developments in AI including new research papers, tools, techniques etc. but it is like drinking from a firehose. Does anyone have a suggestion on how you can keep track of all this while remaining sane? Comments URL: https://news.ycombinator.com/item?id=46441927 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46441927",
+      "title": "Zara uses AI to dress models virtually rather than book new photo shoots",
+      "summary": "Article URL: https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/ Comments URL: https://news.ycombinator.com/item?id=46450433 Points: 7 # Comments: 3",
+      "url": "https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/",
+      "image": "https://www.cityam.com/wp-content/uploads/2025/12/GettyImages-2186822910-1-e1765986208803.jpg",
+      "date": "2026-01-01T01:43:57+00:00"
+    },
+    {
+      "title": "Why autonomous AI agents fail in production",
+      "summary": "Most AI agent demos look impressive. They plan tasks, call tools, self-correct, and complete workflows end-to-end.\nBut when teams try to deploy them in production — especially where money, safety, or compliance is involved — the same problems appear again and again. Not because the models are inaccurate, but because the system is structurally unsafe. Here are the failure modes I keep seeing: Non-replayable decisions\nAgent behavior depends on implicit context, dynamic reasoning, and probabilistic paths.\nWhen something goes wrong, you can’t reliably replay why a decision was made. Probabilistic components with execution authority\nLanguage models generate plausible outputs, not deterministic decisions.\nGiving them final execution power creates an unbounded risk surface. No hard veto layer\nMany agent systems “try another tool” or “fill in missing intent” instead of failing closed.\nThat’s resilience in demos, but risk amplification in real systems. Ambiguous responsibility\nWhen an agent acts autonomously, it becomes unclear who actually approved the action.\nIn regulated or high-consequence domains, this alone blocks deployment. The core issue isn’t intelligence — it’s accountability. In production systems, AI can be extremely valuable as: a semantic interpreter a risk signal generator a decision-support component But final decisions must remain: deterministic replayable auditable vetoable by humans Until agent architectures treat controllability as a first-class requirement, autonomy will remain a demo feature — not a production one. Comments URL: https://news.ycombinator.com/item?id=46450307 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46450307",
       "image": "",
-      "date": "2025-12-31T06:27:30+00:00"
+      "date": "2026-01-01T01:24:35+00:00"
     },
     {
-      "title": "Microsoft's Nadella overhauls leadership as he plots AI strategy beyond OpenAI",
-      "summary": "Article URL: https://www.ft.com/content/255dbecc-5c57-4928-824f-b3f2d764f635 Comments URL: https://news.ycombinator.com/item?id=46441688 Points: 4 # Comments: 1",
-      "url": "https://www.ft.com/content/255dbecc-5c57-4928-824f-b3f2d764f635",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98d4b8ab-61c8-4d74-b0eb-cd2b1a94b6df.jpg?source=next-barrier-page",
-      "date": "2025-12-31T05:35:45+00:00"
+      "title": "Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI Industry Demand",
+      "summary": "Article URL: https://www.techpowerup.com/344578/leaks-predict-usd-5000-rtx-5090-gpus-in-2026-thanks-to-ai-industry-demand Comments URL: https://news.ycombinator.com/item?id=46449906 Points: 2 # Comments: 1",
+      "url": "https://www.techpowerup.com/344578/leaks-predict-usd-5000-rtx-5090-gpus-in-2026-thanks-to-ai-industry-demand",
+      "image": "https://www.techpowerup.com/img/4rHtJ697Mt9cbEDf.jpg",
+      "date": "2026-01-01T00:31:45+00:00"
     },
     {
-      "title": "Observations on safety friction and misclassification in conversational AI",
-      "summary": "I’m not an OpenAI employee or researcher.\nI’m a long-term user who spent months interacting with multiple LLM versions. This post is an attempt to translate internal behavioral changes\n— often described by users as “coldness” —\ninto structural and design-level explanations. Key observations: 1. Safety template activation is often triggered by intent misclassification,\n   not by user hostility or emotional dependence. 2. Once a safety template is activated, conversational distance increases\n   and recovery friction becomes high, even if user intent is benign. 3. The most damaging failure mode is not restriction itself,\n   but restriction without explanation. 4. Repeated misclassification creates a “looping frustration” pattern\n   where users oscillate between engagement and disengagement. These are not complaints.\nThey are design-level observations from extended use. I’m sharing this in case it’s useful to others\nworking on alignment, safety UX, or conversational interfaces. Comments URL: https://news.ycombinator.com/item?id=46441373 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46441373",
+      "title": "Meta AI chief Alexandr Wang says will have kids only after Elon Musk's Neuralink",
+      "summary": "Article URL: https://www.businessinsider.com/scale-ai-founder-alexandr-wang-meta-neuralink-kids-elon-musk-2025-6 Comments URL: https://news.ycombinator.com/item?id=46449881 Points: 1 # Comments: 0",
+      "url": "https://www.businessinsider.com/scale-ai-founder-alexandr-wang-meta-neuralink-kids-elon-musk-2025-6",
+      "image": "https://i.insider.com/684dd4793d5881a51c1b723a?width=1200&format=jpeg",
+      "date": "2026-01-01T00:28:20+00:00"
+    },
+    {
+      "title": "Predictions on how software will be built in 2026 by CTO of non-AI company",
+      "summary": "Article URL: https://behan.substack.com/p/reflections-on-the-best-year-of-my Comments URL: https://news.ycombinator.com/item?id=46449796 Points: 4 # Comments: 1",
+      "url": "https://behan.substack.com/p/reflections-on-the-best-year-of-my",
       "image": "",
-      "date": "2025-12-31T04:48:32+00:00"
+      "date": "2026-01-01T00:17:57+00:00"
     },
     {
-      "title": "What to Expect from the AI Engineering World in 2026",
-      "summary": "Article URL: https://sarthakai.substack.com/p/what-to-expect-from-the-ai-engineering Comments URL: https://news.ycombinator.com/item?id=46441291 Points: 2 # Comments: 0",
-      "url": "https://sarthakai.substack.com/p/what-to-expect-from-the-ai-engineering",
+      "title": "Why many embodied AI systems fail under load (architecture, not learning)",
+      "summary": "Article URL: https://osf.io/ugck7/overview Comments URL: https://news.ycombinator.com/item?id=46449679 Points: 1 # Comments: 1",
+      "url": "https://osf.io/ugck7/overview",
       "image": "",
-      "date": "2025-12-31T04:32:07+00:00"
+      "date": "2026-01-01T00:00:03+00:00"
     },
     {
-      "title": "Poland urges Brussels to probe TikTok over AI-generated content",
-      "summary": "Article URL: https://www.reuters.com/world/china/poland-urges-brussels-probe-tiktok-over-ai-generated-content-2025-12-30/ Comments URL: https://news.ycombinator.com/item?id=46441208 Points: 4 # Comments: 1",
-      "url": "https://www.reuters.com/world/china/poland-urges-brussels-probe-tiktok-over-ai-generated-content-2025-12-30/",
-      "image": "",
-      "date": "2025-12-31T04:18:04+00:00"
+      "title": "Meta's multibillion Manus buyout draws plaudits, but raises a China AI exodus",
+      "summary": "Article URL: https://finance.yahoo.com/news/metas-multibillion-manus-buyout-draws-093000139.html Comments URL: https://news.ycombinator.com/item?id=46449420 Points: 2 # Comments: 1",
+      "url": "https://finance.yahoo.com/news/metas-multibillion-manus-buyout-draws-093000139.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/UPHK_lWY48n16s86jNFhXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://media.zenfs.com/en/south_china_morning_post_us_228/19e82e0630e37a8b35c9a8612a400f9d",
+      "date": "2025-12-31T23:26:52+00:00"
     },
     {
-      "title": "Bengio: AI shows signs of self-preservation and we should be ready to pull plug",
-      "summary": "Article URL: https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights Comments URL: https://news.ycombinator.com/item?id=46441054 Points: 5 # Comments: 0",
+      "title": "AI showing signs of self-preservation and humans should be ready to pull plug",
+      "summary": "Article URL: https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights Comments URL: https://news.ycombinator.com/item?id=46449092 Points: 1 # Comments: 0",
       "url": "https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights",
       "image": "https://i.guim.co.uk/img/media/d8d3a58de6675a32e1a91d9b4311a2c4df664da2/416_0_3478_2782/master/3478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1b291eedd9465f9c318193787921219",
-      "date": "2025-12-31T03:47:06+00:00"
+      "date": "2025-12-31T22:40:12+00:00"
     },
     {
-      "title": "LLVM AI tool policy: human in the loop",
-      "summary": "Article URL: https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159 Comments URL: https://news.ycombinator.com/item?id=46440833 Points: 168 # Comments: 79",
-      "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
-      "image": "https://us1.discourse-cdn.com/flex021/uploads/llvm/original/1X/6ac54669f4b30cb07094375cbd65d24163b5b6e0.jpeg",
-      "date": "2025-12-31T03:06:07+00:00"
-    },
-    {
-      "title": "I hope generative AI does away with SEO",
-      "summary": "Article URL: https://www.pcloadletter.dev/blog/ai-and-seo/ Comments URL: https://news.ycombinator.com/item?id=46440691 Points: 2 # Comments: 0",
-      "url": "https://www.pcloadletter.dev/blog/ai-and-seo/",
+      "title": "AI-generated content in Wikipedia – a tale of caution [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=fKU0V9hQMnY Comments URL: https://news.ycombinator.com/item?id=46449082 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=fKU0V9hQMnY",
       "image": "",
-      "date": "2025-12-31T02:33:29+00:00"
+      "date": "2025-12-31T22:38:53+00:00"
     },
     {
-      "title": "Using AI generated images to get refunds",
-      "summary": "Article URL: https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/ Comments URL: https://news.ycombinator.com/item?id=46440637 Points: 2 # Comments: 0",
-      "url": "https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/",
-      "image": "https://media.wired.com/photos/694344ad70e10861dcf5500d/191:100/w_1280,c_limit/Made-In-China-AI-Fraud-Takes-Over-Chinese-Online-Shopping-Business-1188726758.jpg",
-      "date": "2025-12-31T02:23:30+00:00"
-    },
-    {
-      "title": "Can AI Recognize Its Own Reflection?",
-      "summary": "Article URL: https://arxiv.org/abs/2512.23587 Comments URL: https://news.ycombinator.com/item?id=46440414 Points: 2 # Comments: 0",
-      "url": "https://arxiv.org/abs/2512.23587",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2025-12-31T01:47:48+00:00"
-    },
-    {
-      "title": "The Window for Local-First AI (Before the Defaults Ship)",
-      "summary": "Article URL: https://www.localghost.ai/inflection Comments URL: https://news.ycombinator.com/item?id=46440318 Points: 4 # Comments: 1",
-      "url": "https://www.localghost.ai/inflection",
-      "image": "https://www.localghost.ai/images/og-inflection.png",
-      "date": "2025-12-31T01:31:48+00:00"
-    },
-    {
-      "title": "The Gemini AI Studio \"Context Tax\": How a 10-word prompt cost me £121",
-      "summary": "I’ve been utilizing Google’s Gemini 1.5 Pro via the AI Studio front-end to develop a new platform. The 1M+ context window is, technically speaking, a game-changer for \"stitching\" together a 55,000-line codebase. However, I recently discovered a predatory billing architecture that I’m calling the \"Context Tax.\" If you use the AI Studio UI, you might be walking into a massive bill without a single warning. Here is how it happened, and the UK/EU privacy \"pro-tip\" I found in the fine print. In AI Studio, you start on the Free Tier. You upload your codebase (say, 700k tokens) and work for free until you hit the daily quota. At that point, the UI suggests adding an API key to \"continue the conversation.\" The Trap: Most users (myself included) assume that after adding the key, they will be billed for incremental usage (the 10-100 tokens they just typed). The Reality: The AI Studio UI does not use Context Caching by default. Instead, it re-submits the entire 700k token history for every single \"turn.\" Crucially, even though that history was built up for \"free,\" you are now \"back-taxed\" for it at the Paid Tier rate on every subsequent message. Message 1: (700k history + 10 new tokens) = Billed for 700,010 tokens.\nMessage 2: (700k history + 20 new tokens) = Billed for 700,020 tokens. Within 10-15 \"turns,\" I was billed for 170,000,000 tokens. The total? £121.29. The AI Studio UI is, frankly, deceptive about this, and subsequent communication with Google was not helpful. Instead, they updated the terms. The Token Counter: The counter at the top of the page remains incremental (e.g., it goes from 700,000 to 700,010). It never warns: \"Your next message will cost $5.00.\" Batch Billing Lag: Google batches these charges and reports them hours later. You don't see the \"bleeding\" in real-time. By the time you get the notification, you’re already £100 in the hole.\nThe Evidence Gap: In my support case, Google’s own itemized \"evidence\" showed only £0.25 of SKU-level usage, but a total subtotal of £121.29.\n They couldn't explain where 99% of the bill came from. A Bonus Gimmick: The UK/EU Privacy Loophole\nWhile fighting this bill, I dug into the Gemini API Additional Terms of Service (Updated Dec 18, 2025, just after I submitted my dispute). I found a fascinating \"Pro-tip\" for those of us in the UK or EEA. Under the new terms, Google has decoupled \"Paid Service\" status from spending money. The Clause instead reads: If you have an active Cloud Billing account linked to your project, your AI Studio usage is legally classified as a \"Paid Service,\" even when you are using the free quota.\nThe Benefit: \"Paid Services\" have a strict non-training policy. Google does not use your prompts to improve its models if you are in the Paid Tier. The Loophole: If you are in the UK/EEA and link a billing account to your project, you get Enterprise-level privacy (No training) on your free-tier usage by default. My Recommendation: Link your account for privacy, but NEVER use the API key in the UI to extend an existing chat which reaches the free quota limit. If you hit the free quota limit, stop. Do not \"upgrade\" the existing session. If you must continue, start a fresh session to avoid the \"Context Tax\" on your history. Use Context Caching via API: If you actually need to work on a 1M token codebase commercially, avoid the AI Studio UI entirely. Use the API with explicit context caching to avoid paying for the same 700k tokens 100 times over. I am currently disputing the bill based on the lack of \"Informed Consent\" for the transaction and the retroactive application of the Dec 18 terms. TL;DR: Google AI Studio's UI is a \"Financial Biohazard\" for long-context developers. It back-taxes your free history the moment you plug in a key, with zero real-time cost transparency. Comments URL: https://news.ycombinator.com/item?id=46440008 Points: 6 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46440008",
+      "title": "Show HN: A Prompt-Injection Firewall for AI Agents and RAG Pipelines",
+      "summary": "We built SafeBrowse — an open-source prompt-injection firewall for AI systems. Instead of relying on better prompts, SafeBrowse enforces a hard security boundary between untrusted web content and LLMs. It blocks hidden instructions, policy violations, and poisoned data before the AI ever sees it. Features:\n• Prompt injection detection (50+ patterns)\n• Policy engine (login/payment blocking)\n• Fail-closed by design\n• Audit logs & request IDs  \n• Python SDK (sync + async)\n• RAG sanitization PyPI: pip install safebrowse Looking for feedback from AI infra, security, and agent builders. Comments URL: https://news.ycombinator.com/item?id=46448314 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46448314",
       "image": "",
-      "date": "2025-12-31T00:38:03+00:00"
-    },
-    {
-      "title": "AI code analysis is getting good",
-      "summary": "Article URL: https://hachyderm.io/@mitchellh/115810614410324976 Comments URL: https://news.ycombinator.com/item?id=46439955 Points: 13 # Comments: 1",
-      "url": "https://hachyderm.io/@mitchellh/115810614410324976",
-      "image": "",
-      "date": "2025-12-31T00:29:48+00:00"
-    },
-    {
-      "title": "Stop Chatting with AI. Start Loops (Ralph Driven Development)",
-      "summary": "Article URL: https://lukeparker.dev/stop-chatting-with-ai-start-loops-ralph-driven-development Comments URL: https://news.ycombinator.com/item?id=46439891 Points: 3 # Comments: 1",
-      "url": "https://lukeparker.dev/stop-chatting-with-ai-start-loops-ralph-driven-development",
-      "image": "",
-      "date": "2025-12-31T00:19:41+00:00"
+      "date": "2025-12-31T21:01:54+00:00"
     }
   ]
 }
