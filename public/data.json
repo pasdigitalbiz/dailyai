@@ -1,89 +1,103 @@
 {
-  "generated_at": "2026-01-01T06:50:03.166976+00:00",
+  "generated_at": "2026-01-02T06:49:45.296445+00:00",
   "items": [
     {
-      "title": "Taxation in a Strong AI World",
-      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html Comments URL: https://news.ycombinator.com/item?id=46451806 Points: 1 # Comments: 0",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html",
-      "image": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
-      "date": "2026-01-01T06:25:43+00:00"
-    },
-    {
-      "title": "Ask HN: What is the best microVMs for AI agents?",
-      "summary": "Three weeks ago, we just launched an open-source computer-use agent: https://github.com/zfoong/WhiteCollarAgent However, we are currently looking for self-hosted and easy-to-set-up microVM solutions for the agent's GUI mode. The idea is to let agents operate in an isolated environment for its GUI operation, like web-browsing, launching an app, and using the app, etc. Anyone with any experience with microVM, feel free to let me know in the comments. Many thanks! Comments URL: https://news.ycombinator.com/item?id=46450931 Points: 3 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46450931",
+      "title": "Baidu's AI Chip Unit Kunlunxin Plans Hong Kong Listing",
+      "summary": "Article URL: https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599 Comments URL: https://news.ycombinator.com/item?id=46462005 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599",
       "image": "",
-      "date": "2026-01-01T03:10:20+00:00"
+      "date": "2026-01-02T06:26:51+00:00"
     },
     {
-      "title": "Zara uses AI to dress models virtually rather than book new photo shoots",
-      "summary": "Article URL: https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/ Comments URL: https://news.ycombinator.com/item?id=46450433 Points: 7 # Comments: 3",
-      "url": "https://www.cityam.com/zara-turns-to-ai-edited-models-amid-shop-closures/",
-      "image": "https://www.cityam.com/wp-content/uploads/2025/12/GettyImages-2186822910-1-e1765986208803.jpg",
-      "date": "2026-01-01T01:43:57+00:00"
-    },
-    {
-      "title": "Why autonomous AI agents fail in production",
-      "summary": "Most AI agent demos look impressive. They plan tasks, call tools, self-correct, and complete workflows end-to-end.\nBut when teams try to deploy them in production — especially where money, safety, or compliance is involved — the same problems appear again and again. Not because the models are inaccurate, but because the system is structurally unsafe. Here are the failure modes I keep seeing: Non-replayable decisions\nAgent behavior depends on implicit context, dynamic reasoning, and probabilistic paths.\nWhen something goes wrong, you can’t reliably replay why a decision was made. Probabilistic components with execution authority\nLanguage models generate plausible outputs, not deterministic decisions.\nGiving them final execution power creates an unbounded risk surface. No hard veto layer\nMany agent systems “try another tool” or “fill in missing intent” instead of failing closed.\nThat’s resilience in demos, but risk amplification in real systems. Ambiguous responsibility\nWhen an agent acts autonomously, it becomes unclear who actually approved the action.\nIn regulated or high-consequence domains, this alone blocks deployment. The core issue isn’t intelligence — it’s accountability. In production systems, AI can be extremely valuable as: a semantic interpreter a risk signal generator a decision-support component But final decisions must remain: deterministic replayable auditable vetoable by humans Until agent architectures treat controllability as a first-class requirement, autonomy will remain a demo feature — not a production one. Comments URL: https://news.ycombinator.com/item?id=46450307 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46450307",
+      "title": "The Ghost in the Machine: How I learned to stop worrying and love the AI",
+      "summary": "Article URL: https://gpt3experiments.substack.com/p/the-ghost-in-the-machine-how-i-learned Comments URL: https://news.ycombinator.com/item?id=46461755 Points: 1 # Comments: 2",
+      "url": "https://gpt3experiments.substack.com/p/the-ghost-in-the-machine-how-i-learned",
       "image": "",
-      "date": "2026-01-01T01:24:35+00:00"
+      "date": "2026-01-02T05:34:57+00:00"
     },
     {
-      "title": "Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI Industry Demand",
-      "summary": "Article URL: https://www.techpowerup.com/344578/leaks-predict-usd-5000-rtx-5090-gpus-in-2026-thanks-to-ai-industry-demand Comments URL: https://news.ycombinator.com/item?id=46449906 Points: 2 # Comments: 1",
-      "url": "https://www.techpowerup.com/344578/leaks-predict-usd-5000-rtx-5090-gpus-in-2026-thanks-to-ai-industry-demand",
-      "image": "https://www.techpowerup.com/img/4rHtJ697Mt9cbEDf.jpg",
-      "date": "2026-01-01T00:31:45+00:00"
-    },
-    {
-      "title": "Meta AI chief Alexandr Wang says will have kids only after Elon Musk's Neuralink",
-      "summary": "Article URL: https://www.businessinsider.com/scale-ai-founder-alexandr-wang-meta-neuralink-kids-elon-musk-2025-6 Comments URL: https://news.ycombinator.com/item?id=46449881 Points: 1 # Comments: 0",
-      "url": "https://www.businessinsider.com/scale-ai-founder-alexandr-wang-meta-neuralink-kids-elon-musk-2025-6",
-      "image": "https://i.insider.com/684dd4793d5881a51c1b723a?width=1200&format=jpeg",
-      "date": "2026-01-01T00:28:20+00:00"
-    },
-    {
-      "title": "Predictions on how software will be built in 2026 by CTO of non-AI company",
-      "summary": "Article URL: https://behan.substack.com/p/reflections-on-the-best-year-of-my Comments URL: https://news.ycombinator.com/item?id=46449796 Points: 4 # Comments: 1",
-      "url": "https://behan.substack.com/p/reflections-on-the-best-year-of-my",
+      "title": "AI and Chatbots with Dr. Richard Wallace [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ENW3PL50yPw Comments URL: https://news.ycombinator.com/item?id=46461689 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ENW3PL50yPw",
       "image": "",
-      "date": "2026-01-01T00:17:57+00:00"
+      "date": "2026-01-02T05:22:24+00:00"
     },
     {
-      "title": "Why many embodied AI systems fail under load (architecture, not learning)",
-      "summary": "Article URL: https://osf.io/ugck7/overview Comments URL: https://news.ycombinator.com/item?id=46449679 Points: 1 # Comments: 1",
-      "url": "https://osf.io/ugck7/overview",
+      "title": "South Korea's Ministry of Science spent taxpayer money on this AI hype video",
+      "summary": "Article URL: https://www.youtube.com/watch?v=g9xQGen_sE0 Comments URL: https://news.ycombinator.com/item?id=46461598 Points: 2 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=g9xQGen_sE0",
       "image": "",
-      "date": "2026-01-01T00:00:03+00:00"
+      "date": "2026-01-02T05:05:54+00:00"
     },
     {
-      "title": "Meta's multibillion Manus buyout draws plaudits, but raises a China AI exodus",
-      "summary": "Article URL: https://finance.yahoo.com/news/metas-multibillion-manus-buyout-draws-093000139.html Comments URL: https://news.ycombinator.com/item?id=46449420 Points: 2 # Comments: 1",
-      "url": "https://finance.yahoo.com/news/metas-multibillion-manus-buyout-draws-093000139.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/UPHK_lWY48n16s86jNFhXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM-/https://media.zenfs.com/en/south_china_morning_post_us_228/19e82e0630e37a8b35c9a8612a400f9d",
-      "date": "2025-12-31T23:26:52+00:00"
+      "title": "Bad sign for AI industry: Bernie Sanders, Ron DeSantis criticize datacenter boom",
+      "summary": "Article URL: https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html Comments URL: https://news.ycombinator.com/item?id=46461582 Points: 5 # Comments: 2",
+      "url": "https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108234669-1764617288677-gettyimages-2229069495-DATA_CENTERS.jpeg?v=1767311019&w=1920&h=1080",
+      "date": "2026-01-02T05:01:43+00:00"
     },
     {
-      "title": "AI showing signs of self-preservation and humans should be ready to pull plug",
-      "summary": "Article URL: https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights Comments URL: https://news.ycombinator.com/item?id=46449092 Points: 1 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights",
-      "image": "https://i.guim.co.uk/img/media/d8d3a58de6675a32e1a91d9b4311a2c4df664da2/416_0_3478_2782/master/3478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1b291eedd9465f9c318193787921219",
-      "date": "2025-12-31T22:40:12+00:00"
-    },
-    {
-      "title": "AI-generated content in Wikipedia – a tale of caution [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=fKU0V9hQMnY Comments URL: https://news.ycombinator.com/item?id=46449082 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=fKU0V9hQMnY",
+      "title": "How to use AI to augment learning without losing critical thinking skills?",
+      "summary": "Lately I have been using AI more in my day to day learning. I typically use it to generate boilerplate code, ask it to explain some concept I’m having trouble grasping in an easier way and fact checking what it says while asking for deeper clarification (why is something done this way, what are others ways it can be done, comparing and contrasting etc. I basically use it as a tutor. I don’t use it to really “do” anything for me. I program most everything by hand and anything that has to do with problem solving I do myself. But I won’t lie and say I’m not scared of becoming reliant on AI. I think the way I’m using it is pretty good. Improve learning while continue to apply knowledge myself. But I’d like to know where I can improve my AI usage and how you guys are using AI in your workflow. It’s giving me a great deal of anxiety when I read articles about how AI will kill critical thinking skills and what not. I don’t want to avoid it. But I don’t want it to make me stupid. Comments URL: https://news.ycombinator.com/item?id=46461356 Points: 3 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=46461356",
       "image": "",
-      "date": "2025-12-31T22:38:53+00:00"
+      "date": "2026-01-02T04:17:27+00:00"
     },
     {
-      "title": "Show HN: A Prompt-Injection Firewall for AI Agents and RAG Pipelines",
-      "summary": "We built SafeBrowse — an open-source prompt-injection firewall for AI systems. Instead of relying on better prompts, SafeBrowse enforces a hard security boundary between untrusted web content and LLMs. It blocks hidden instructions, policy violations, and poisoned data before the AI ever sees it. Features:\n• Prompt injection detection (50+ patterns)\n• Policy engine (login/payment blocking)\n• Fail-closed by design\n• Audit logs & request IDs  \n• Python SDK (sync + async)\n• RAG sanitization PyPI: pip install safebrowse Looking for feedback from AI infra, security, and agent builders. Comments URL: https://news.ycombinator.com/item?id=46448314 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46448314",
+      "title": "AB316: No AI Scapegoating Allowed",
+      "summary": "Article URL: https://shub.club/writings/2026/january/ab316/ Comments URL: https://news.ycombinator.com/item?id=46461347 Points: 6 # Comments: 4",
+      "url": "https://shub.club/writings/2026/january/ab316/",
       "image": "",
-      "date": "2025-12-31T21:01:54+00:00"
+      "date": "2026-01-02T04:15:53+00:00"
+    },
+    {
+      "title": "On biological & artificial consciousness: A case for biological computationalism",
+      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S0149763425005251 Comments URL: https://news.ycombinator.com/item?id=46460977 Points: 7 # Comments: 0",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0149763425005251",
+      "image": "",
+      "date": "2026-01-02T03:08:33+00:00"
+    },
+    {
+      "title": "Show HN: Sentinel Shield – Pure C DMZ for AI Security (23K LOC, <1ms latency)",
+      "summary": "I built a security layer for AI systems in pure C after realizing most AI security tools (Python-based, 50-200ms latency, dozens of dependencies) were adding attack surface rather than reducing it.\nShield: 23K LOC, 0 dependencies, sub-millisecond latency, 194 Cisco-style CLI commands, 20 enterprise protocols, 6 specialized guards.\nPart of SENTINEL (80K LOC AI Security Platform).\nGitHub: https://github.com/DmitrL-dev/AISecurity Comments URL: https://news.ycombinator.com/item?id=46460975 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46460975",
+      "image": "",
+      "date": "2026-01-02T03:08:21+00:00"
+    },
+    {
+      "title": "Ask HN: Which AI productivity tools are you using in 2026?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46460902 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46460902",
+      "image": "",
+      "date": "2026-01-02T02:57:13+00:00"
+    },
+    {
+      "title": "Scalable Oral Exams with an ElevenLabs Voice AI Agent",
+      "summary": "Article URL: https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html Comments URL: https://news.ycombinator.com/item?id=46460602 Points: 2 # Comments: 0",
+      "url": "https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEg5fX5d3GQ2cOHfJpbT5os_5WBQSnb5iLSULS76cNn0LGOFq3RxpjyAu4sGJ2DEFMpo8_mWe9Vum1yzpLbfI82qK-m2yXDFQApP_X01G_fO0xFz-utUW3dHelb8XsqEHP3sgHNjxKAEKnZoCJDZkpJVneeF_ej0T8sq_HGm9YtWeE42I_hWkpfDDB1jbd8=w1200-h630-p-k-no-nu",
+      "date": "2026-01-02T02:10:58+00:00"
+    },
+    {
+      "title": "Learnings from 100K Lines of Rust with AI",
+      "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=46460600 Points: 2 # Comments: 0",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "image": "",
+      "date": "2026-01-02T02:10:37+00:00"
+    },
+    {
+      "title": "Thoughts on the emergence of artificial general intelligence",
+      "summary": "Article URL: https://jesse.id/blog/posts/thoughts-on-the-emergence-of-artificial-general-intelligence Comments URL: https://news.ycombinator.com/item?id=46460533 Points: 2 # Comments: 1",
+      "url": "https://jesse.id/blog/posts/thoughts-on-the-emergence-of-artificial-general-intelligence",
+      "image": "$lib/assets/monitor.webp",
+      "date": "2026-01-02T01:57:33+00:00"
+    },
+    {
+      "title": "AI Futures Model: Dec 2025 Update",
+      "summary": "Article URL: https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update Comments URL: https://news.ycombinator.com/item?id=46460496 Points: 16 # Comments: 1",
+      "url": "https://blog.ai-futures.org/p/ai-futures-model-dec-2025-update",
+      "image": "https://substackcdn.com/image/fetch/$s_!0U8K!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2bf7c4b-33b1-4411-acb4-ffe5c2178fa0_1600x906.png",
+      "date": "2026-01-02T01:51:20+00:00"
     }
   ]
 }
