@@ -1,117 +1,68 @@
 {
-  "generated_at": "2026-01-03T06:46:20.285641+00:00",
+  "generated_at": "2026-01-04T06:47:32.429973+00:00",
   "items": [
     {
-      "title": "I got 500 devs to try my AI app builder in a week (solo founder, no ads)",
-      "summary": "Article URL: https://www.indiehackers.com/post/how-i-got-500-devs-to-try-my-ai-app-builder-in-a-week-solo-founder-no-ads-ziE6XkhduF9WPxGSaZ0v Comments URL: https://news.ycombinator.com/item?id=46473330 Points: 1 # Comments: 0",
-      "url": "https://www.indiehackers.com/post/how-i-got-500-devs-to-try-my-ai-app-builder-in-a-week-solo-founder-no-ads-ziE6XkhduF9WPxGSaZ0v",
-      "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/ziE6XkhduF9WPxGSaZ0v",
-      "date": "2026-01-03T06:29:43+00:00"
+      "title": "India orders Musk's X to fix Grok over 'obscene' AI content",
+      "summary": "Article URL: https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ Comments URL: https://news.ycombinator.com/item?id=46485577 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+      "date": "2026-01-04T06:42:06+00:00"
     },
     {
-      "title": "Tracks vs. Trains: Why the Real Artificial Intelligence Boom Hasn't Started Yet",
-      "summary": "Article URL: https://shawnharris.com/tracks-vs-trains-why-the-real-artificial-intelligence-boom-hasnt-started-yet-insights-for-2026/ Comments URL: https://news.ycombinator.com/item?id=46472742 Points: 2 # Comments: 0",
-      "url": "https://shawnharris.com/tracks-vs-trains-why-the-real-artificial-intelligence-boom-hasnt-started-yet-insights-for-2026/",
-      "image": "https://i0.wp.com/shawnharris.com/wp-content/uploads/2026/01/Gemini-Generated-Image-scaled.png?fit=1200%2C654&ssl=1",
-      "date": "2026-01-03T04:17:02+00:00"
-    },
-    {
-      "title": "The New Moore's Law: Why Optical Computing Could Redefine Scaling for AI",
-      "summary": "Article URL: https://www.allaboutcircuits.com/industry-articles/the-new-moores-law-why-optical-computing-could-redefine-scaling-for-ai/ Comments URL: https://news.ycombinator.com/item?id=46472699 Points: 3 # Comments: 1",
-      "url": "https://www.allaboutcircuits.com/industry-articles/the-new-moores-law-why-optical-computing-could-redefine-scaling-for-ai/",
+      "title": "System Prompts as Governance Artifacts in AI Developer Tools: A Forensic Study",
+      "summary": "Article URL: https://system-prompts-forensics.rmax.ai/paper.html Comments URL: https://news.ycombinator.com/item?id=46485251 Points: 2 # Comments: 0",
+      "url": "https://system-prompts-forensics.rmax.ai/paper.html",
       "image": "",
-      "date": "2026-01-03T04:06:03+00:00"
+      "date": "2026-01-04T05:33:52+00:00"
     },
     {
-      "title": "High-end AirPods Pro 3 adding cameras for Apple Intelligence features and more",
-      "summary": "Article URL: https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/ Comments URL: https://news.ycombinator.com/item?id=46472284 Points: 5 # Comments: 0",
-      "url": "https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "date": "2026-01-03T02:47:13+00:00"
+      "title": "The Ultimate Abstraction: This Ship Is Sinking & How +49 People Can Save AI",
+      "summary": "Article URL: https://theedgeofthings.com/the-ultimate-abstraction-this-ship-is-sinking-how-more-than-49-people-can-save-the-world-part-1/ Comments URL: https://news.ycombinator.com/item?id=46485231 Points: 2 # Comments: 1",
+      "url": "https://theedgeofthings.com/the-ultimate-abstraction-this-ship-is-sinking-how-more-than-49-people-can-save-the-world-part-1/",
+      "image": "https://theedgeofthings.com/content/images/2026/01/PXL_20260102_151550396.jpg",
+      "date": "2026-01-04T05:30:30+00:00"
     },
     {
-      "title": "Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin",
-      "summary": "Hi Hacker News, This is definitely out of my comfort zone. I've never programmed DSP before. But I was able to use Claude code and have it help me build this using CMajor. I just wanted to show you guys because I'm super proud of it. It's a 100% faithful recreation based off of the schematics, patents, and ROMs that were found online. So please watch the video and tell me what you think https://youtu.be/auOlZXI1VxA The reason why I think this is relevant is because I've been a programmer for 25 years and AI scares the shit out of me. I'm not a programmer anymore. I'm something else now. I don't know what it is but it's multi-disciplinary, and it doesn't involve writing code myself--for better or worse! Thanks! Comments URL: https://news.ycombinator.com/item?id=46471648 Points: 7 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46471648",
+      "title": "Is the World Ready for Another Programming Language in 2026, Now AI Writes Code?",
+      "summary": "Article URL: https://raw.githubusercontent.com/jamesd-comelang/come-lang/refs/heads/main/examples/come_demo.co Comments URL: https://news.ycombinator.com/item?id=46484899 Points: 2 # Comments: 1",
+      "url": "https://raw.githubusercontent.com/jamesd-comelang/come-lang/refs/heads/main/examples/come_demo.co",
       "image": "",
-      "date": "2026-01-03T01:08:35+00:00"
+      "date": "2026-01-04T04:26:07+00:00"
     },
     {
-      "title": "Google AI Overviews put people at risk of harm with misleading health advice",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information Comments URL: https://news.ycombinator.com/item?id=46471527 Points: 32 # Comments: 5",
-      "url": "https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information",
-      "image": "https://i.guim.co.uk/img/media/3b66311fb2e902392b06cde7eb5350cc8f51fedb/0_0_4264_3413/master/4264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1324553f4cc6a17a16ec1317aeaf15d7",
-      "date": "2026-01-03T00:53:22+00:00"
-    },
-    {
-      "title": "Erdos problems solved more or less autonomously by AI",
-      "summary": "Article URL: https://mathstodon.xyz/@tao/115788262274999408 Comments URL: https://news.ycombinator.com/item?id=46471488 Points: 3 # Comments: 0",
-      "url": "https://mathstodon.xyz/@tao/115788262274999408",
+      "title": "Steve Jobs predicted AI in 1983 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=yHB_5WmRbho Comments URL: https://news.ycombinator.com/item?id=46484574 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=yHB_5WmRbho",
       "image": "",
-      "date": "2026-01-03T00:48:12+00:00"
+      "date": "2026-01-04T03:28:04+00:00"
     },
     {
-      "title": "Where AI is headed in 2026",
-      "summary": "Article URL: https://foundationcapital.com/where-ai-is-headed-in-2026/ Comments URL: https://news.ycombinator.com/item?id=46471479 Points: 2 # Comments: 0",
-      "url": "https://foundationcapital.com/where-ai-is-headed-in-2026/",
+      "title": "A2UI: Google's declarative UI protocol for AI agents",
+      "summary": "Article URL: https://a2aprotocol.ai/blog/a2ui-guide Comments URL: https://news.ycombinator.com/item?id=46484496 Points: 4 # Comments: 2",
+      "url": "https://a2aprotocol.ai/blog/a2ui-guide",
+      "image": "https://a2aprotocol.ai/a2ui-guide-cover.svg",
+      "date": "2026-01-04T03:17:20+00:00"
+    },
+    {
+      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
+      "summary": "Article URL: https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf Comments URL: https://news.ycombinator.com/item?id=46483811 Points: 30 # Comments: 8",
+      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
       "image": "",
-      "date": "2026-01-03T00:47:25+00:00"
+      "date": "2026-01-04T01:26:39+00:00"
     },
     {
-      "title": "Grok Blames 'Lapses in Safeguards' After AI Chatbot Posts Sexual Images of Kids",
-      "summary": "Article URL: https://www.forbes.com/sites/tylerroush/2026/01/02/grok-blames-lapses-in-safeguards-after-ai-chatbot-posts-sexual-images-of-children/ Comments URL: https://news.ycombinator.com/item?id=46471389 Points: 7 # Comments: 2",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/01/02/grok-blames-lapses-in-safeguards-after-ai-chatbot-posts-sexual-images-of-children/",
+      "title": "Show HN: OpenGrad – Self-directed, AI-facilitated graduate programs",
+      "summary": "I missed the admission deadline for a graduate Philosophy program so I created something to guide me over the next several years.\nStarting with Euthyphro next week. Feel free to join or follow. Comments URL: https://news.ycombinator.com/item?id=46483710 Points: 3 # Comments: 1",
+      "url": "https://realadeel.github.io/opengrad/",
       "image": "",
-      "date": "2026-01-03T00:38:21+00:00"
+      "date": "2026-01-04T01:11:17+00:00"
     },
     {
-      "title": "Spotify Wrapped season, don't outsource your love of music to AI",
-      "summary": "Article URL: https://www.theguardian.com/music/2025/dec/03/spotify-wrapped-ai-create-your-own-playlists Comments URL: https://news.ycombinator.com/item?id=46471322 Points: 3 # Comments: 0",
-      "url": "https://www.theguardian.com/music/2025/dec/03/spotify-wrapped-ai-create-your-own-playlists",
-      "image": "https://i.guim.co.uk/img/media/a141406cd51aa09323456416c51e9af282be840c/858_573_1649_1320/master/1649.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=621e9786b27c4c602f596c3407feeb68",
-      "date": "2026-01-03T00:31:36+00:00"
-    },
-    {
-      "title": "The Agentic Self: Parallels Between AI and Self-Improvement",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html Comments URL: https://news.ycombinator.com/item?id=46470963 Points: 5 # Comments: 0",
-      "url": "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html",
+      "title": "The Agentic Shift (2026): A quantitative analysis of why 95% of AI pilots fail",
+      "summary": "Article URL: https://docsend.com/view/k3dkbsnupfjh7t5w Comments URL: https://news.ycombinator.com/item?id=46482773 Points: 3 # Comments: 0",
+      "url": "https://docsend.com/view/k3dkbsnupfjh7t5w",
       "image": "",
-      "date": "2026-01-02T23:47:59+00:00"
-    },
-    {
-      "title": "Why AI Agents Won't Just \"Do Stuff\" – Permissions Are the Ultimate Barrier",
-      "summary": "Article URL: https://davefriedman.substack.com/p/why-ai-agents-wont-just-do-stuff Comments URL: https://news.ycombinator.com/item?id=46470687 Points: 2 # Comments: 0",
-      "url": "https://davefriedman.substack.com/p/why-ai-agents-wont-just-do-stuff",
-      "image": "",
-      "date": "2026-01-02T23:15:08+00:00"
-    },
-    {
-      "title": "When AI recreates the female voice, it also rewrites who gets heard",
-      "summary": "Article URL: https://theconversation.com/when-ai-recreates-the-female-voice-it-also-rewrites-who-gets-heard-268257 Comments URL: https://news.ycombinator.com/item?id=46470680 Points: 5 # Comments: 1",
-      "url": "https://theconversation.com/when-ai-recreates-the-female-voice-it-also-rewrites-who-gets-heard-268257",
-      "image": "https://images.theconversation.com/files/698180/original/file-20251023-56-59npoq.jpg?ixlib=rb-4.1.0&rect=0%2C84%2C6144%2C3072&q=45&auto=format&w=1356&h=668&fit=crop",
-      "date": "2026-01-02T23:14:32+00:00"
-    },
-    {
-      "title": "California lawmaker wants to ban AI from children's toys",
-      "summary": "Article URL: https://www.fastcompany.com/91468728/california-lawmaker-ban-ai-toys Comments URL: https://news.ycombinator.com/item?id=46470578 Points: 12 # Comments: 0",
-      "url": "https://www.fastcompany.com/91468728/california-lawmaker-ban-ai-toys",
-      "image": "",
-      "date": "2026-01-02T23:02:09+00:00"
-    },
-    {
-      "title": "LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure",
-      "summary": "Article URL: https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1 Comments URL: https://news.ycombinator.com/item?id=46470521 Points: 36 # Comments: 50",
-      "url": "https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1",
-      "image": "https://i.insider.com/6957f19a832e0ef1ead7148f?width=1200&format=jpeg",
-      "date": "2026-01-02T22:54:35+00:00"
-    },
-    {
-      "title": "Ask HN: Is the window for local-first AI closing?",
-      "summary": "I've spent 20 years building backend systems and the last 12 on cloud infrastructure. Now I'm betting the other way. The thesis isn't \"local AI is better.\" It's that the window to build credible alternatives is closing. Apple, Google, Amazon are all watching local inference become viable. Their response will be \"local\" AI that phones home - on-device processing with cloud-mandatory features, privacy marketing with telemetry requirements. Once those defaults ship, it doesn't matter if alternatives exist. Most people never look for options once something convenient is already there. Search, social, mobile, cloud - the pattern repeats. The question I keep asking: does building local-first alternatives matter if they don't win market share? My current answer is yes - the existence of a credible exit changes how platforms behave, even if most users never take it. But I'm also aware this could be cope. The self-hosting crowd has lost every major battle. Email, messaging, social - private options stayed niche every time. Maybe AI is different because the models are finally capable at small sizes. Maybe it isn't. Building something in this space. Curious if others see the same window, or if I'm just rationalizing a preference into a market. Comments URL: https://news.ycombinator.com/item?id=46470451 Points: 3 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46470451",
-      "image": "",
-      "date": "2026-01-02T22:47:19+00:00"
+      "date": "2026-01-03T23:14:03+00:00"
     }
   ]
 }
