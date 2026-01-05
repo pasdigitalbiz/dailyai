@@ -1,68 +1,96 @@
 {
-  "generated_at": "2026-01-04T06:47:32.429973+00:00",
+  "generated_at": "2026-01-05T06:56:02.242552+00:00",
   "items": [
     {
-      "title": "India orders Musk's X to fix Grok over 'obscene' AI content",
-      "summary": "Article URL: https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ Comments URL: https://news.ycombinator.com/item?id=46485577 Points: 1 # Comments: 0",
-      "url": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-      "date": "2026-01-04T06:42:06+00:00"
+      "title": "Securing Agentic AI Fundamentals – No BS Guide – Part 1",
+      "summary": "Article URL: https://www.subhashdasyam.com/2025/12/securing-agentic-ai-architecture.html Comments URL: https://news.ycombinator.com/item?id=46496002 Points: 1 # Comments: 0",
+      "url": "https://www.subhashdasyam.com/2025/12/securing-agentic-ai-architecture.html",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ug5jknh71LvbDYsvhrM6wJXX-Qa_V-JMsp2lwhoNCV7sxZ8W9BIUxYS5j0kE1zmfSykl4NrIxtitBtXT6tZ4UeNfXL1DstplK2FRw0KPhSup6O55VNWanJ-GQB3ki3L9L7lw0PkZsx0ZXT_hI816aD6frlUTLoVmdFIrejHXJCRizmgy_zWd357x26bkVefwb-bdXXxlF7MJQd4pZIK0yNXWBF1SDiWJ_9Pw9nFvzgLxaNGSVedw4-GyTt-cdWrrHAp7DZwqTr2u8Doi5wry6krRQg=w1200-h630-p-k-no-nu",
+      "date": "2026-01-05T06:55:16+00:00"
     },
     {
-      "title": "System Prompts as Governance Artifacts in AI Developer Tools: A Forensic Study",
-      "summary": "Article URL: https://system-prompts-forensics.rmax.ai/paper.html Comments URL: https://news.ycombinator.com/item?id=46485251 Points: 2 # Comments: 0",
-      "url": "https://system-prompts-forensics.rmax.ai/paper.html",
+      "title": "Agentic AI – RAG Agents with MCP: Know and Do",
+      "summary": "Article URL: https://toknow.ai/posts/rag-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=46495758 Points: 1 # Comments: 0",
+      "url": "https://toknow.ai/posts/rag-agents-mcp/",
+      "image": "https://toknow.ai/posts/rag-agents-mcp/image.png",
+      "date": "2026-01-05T06:02:29+00:00"
+    },
+    {
+      "title": "Show HN: Agentu Minimalist Python AI agent framework",
+      "summary": "After building dozens of agents, I kept hitting the same wall. So I built agentu. The core is simple: \n→ >> chains steps sequentially\n→ & runs them in parallel But it's grown into a full stack: - Sessions: stateful conversations with automatic context\n- Evaluation: test your agents before production\n- Observability: real-time dashboard, metrics, tracing\n- Skills: domain expertise that loads on-demand\n- Tool Search: scale to 100s of tools without context bloat\n- MCP Integration: Model Context Protocol support `pip install agentu` https://pypi.org/project/agentu/ Comments URL: https://news.ycombinator.com/item?id=46495628 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46495628",
       "image": "",
-      "date": "2026-01-04T05:33:52+00:00"
+      "date": "2026-01-05T05:30:57+00:00"
     },
     {
-      "title": "The Ultimate Abstraction: This Ship Is Sinking & How +49 People Can Save AI",
-      "summary": "Article URL: https://theedgeofthings.com/the-ultimate-abstraction-this-ship-is-sinking-how-more-than-49-people-can-save-the-world-part-1/ Comments URL: https://news.ycombinator.com/item?id=46485231 Points: 2 # Comments: 1",
-      "url": "https://theedgeofthings.com/the-ultimate-abstraction-this-ship-is-sinking-how-more-than-49-people-can-save-the-world-part-1/",
-      "image": "https://theedgeofthings.com/content/images/2026/01/PXL_20260102_151550396.jpg",
-      "date": "2026-01-04T05:30:30+00:00"
+      "title": "The AI debt boom does not augur well for investors",
+      "summary": "Article URL: https://www.ft.com/content/d36f3392-9a73-476a-9357-8ff311bb04da Comments URL: https://news.ycombinator.com/item?id=46495606 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/d36f3392-9a73-476a-9357-8ff311bb04da",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca3f218-e352-4207-a931-3c07295508e8.jpg?source=next-barrier-page",
+      "date": "2026-01-05T05:25:48+00:00"
     },
     {
-      "title": "Is the World Ready for Another Programming Language in 2026, Now AI Writes Code?",
-      "summary": "Article URL: https://raw.githubusercontent.com/jamesd-comelang/come-lang/refs/heads/main/examples/come_demo.co Comments URL: https://news.ycombinator.com/item?id=46484899 Points: 2 # Comments: 1",
-      "url": "https://raw.githubusercontent.com/jamesd-comelang/come-lang/refs/heads/main/examples/come_demo.co",
+      "title": "Building a Rust-style static analyzer for C++ with AI",
+      "summary": "Article URL: http://mpaxos.com/blog/rusty-cpp.html Comments URL: https://news.ycombinator.com/item?id=46495539 Points: 19 # Comments: 5",
+      "url": "http://mpaxos.com/blog/rusty-cpp.html",
       "image": "",
-      "date": "2026-01-04T04:26:07+00:00"
+      "date": "2026-01-05T05:11:59+00:00"
     },
     {
-      "title": "Steve Jobs predicted AI in 1983 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=yHB_5WmRbho Comments URL: https://news.ycombinator.com/item?id=46484574 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=yHB_5WmRbho",
+      "title": "Show HN: Flakestorm – Chaos engineering for AI agents (local-first, open source)",
+      "summary": "Hi everyone, I’ve been working on an open-source tool called Flakestorm to test the reliability of AI agents before they hit production. Most agent testing today focuses on eval scores or happy-path prompts. In practice, agents tend to fail in more mundane ways: typos, tone shifts, long context, malformed input, or simple prompt injections — especially when running on smaller or local models.\nFlakestorm applies chaos-engineering ideas to agents. Instead of testing one prompt, it takes a “golden prompt”, generates adversarial mutations (semantic variations, noise, injections, encoding edge cases), runs them against your agent, and produces a robustness score plus a detailed HTML report showing what broke. Key points:\nLocal-first (uses Ollama for mutation generation) Tested with Qwen / Gemma / other small models\nWorks against HTTP agents, LangChain chains, or Python callables\nNo cloud or API keys required\nThis started as a way to debug my own agents after seeing them behave unpredictably under real user input. I’m still early and trying to understand how useful this is outside my own workflow. I’d really appreciate feedback on:\nWhether this overlaps with how you test agents today\nFailure modes you’ve seen that aren’t covered\nWhether “chaos testing for agents” is a useful framing, or if this should be thought of differently\nRepo: https://github.com/flakestorm/flakestorm Docs are admittedly long. Thanks for taking a look. Comments URL: https://news.ycombinator.com/item?id=46495434 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46495434",
       "image": "",
-      "date": "2026-01-04T03:28:04+00:00"
+      "date": "2026-01-05T04:48:57+00:00"
     },
     {
-      "title": "A2UI: Google's declarative UI protocol for AI agents",
-      "summary": "Article URL: https://a2aprotocol.ai/blog/a2ui-guide Comments URL: https://news.ycombinator.com/item?id=46484496 Points: 4 # Comments: 2",
-      "url": "https://a2aprotocol.ai/blog/a2ui-guide",
-      "image": "https://a2aprotocol.ai/a2ui-guide-cover.svg",
-      "date": "2026-01-04T03:17:20+00:00"
+      "title": "'Big Short' investor accuses AI hyperscalers of artificially boosting earnings (2025)",
+      "summary": "Article URL: https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html Comments URL: https://news.ycombinator.com/item?id=46495147 Points: 6 # Comments: 2",
+      "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1767176101&w=1920&h=1080",
+      "date": "2026-01-05T03:44:08+00:00"
     },
     {
-      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
-      "summary": "Article URL: https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf Comments URL: https://news.ycombinator.com/item?id=46483811 Points: 30 # Comments: 8",
-      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
+      "title": "Personal notes of things I need to master, as AI writes most of the code now",
+      "summary": "Article URL: https://pradyumnachippigiri.dev/blogs/engineers-future Comments URL: https://news.ycombinator.com/item?id=46495011 Points: 3 # Comments: 0",
+      "url": "https://pradyumnachippigiri.dev/blogs/engineers-future",
+      "image": "https://pradyumnachippigiri.dev/og?title=AI+writes+most+of+the+code%2C+what+now%3F&date=2026-01-03",
+      "date": "2026-01-05T03:24:16+00:00"
+    },
+    {
+      "title": "Meta releases open data to train General AI Co-Scientists",
+      "summary": "Article URL: https://huggingface.co/datasets/facebook/research-plan-gen Comments URL: https://news.ycombinator.com/item?id=46494970 Points: 1 # Comments: 0",
+      "url": "https://huggingface.co/datasets/facebook/research-plan-gen",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/facebook/research-plan-gen.png",
+      "date": "2026-01-05T03:16:17+00:00"
+    },
+    {
+      "title": "Rapid Validation of Product Concepts with AI",
+      "summary": "Article URL: https://luvsheth.com/p/rapid-validation-of-product-concepts Comments URL: https://news.ycombinator.com/item?id=46494881 Points: 1 # Comments: 1",
+      "url": "https://luvsheth.com/p/rapid-validation-of-product-concepts",
+      "image": "https://substackcdn.com/image/fetch/$s_!dz75!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8b4f97-31fe-440c-aab5-d6655c872dfd_992x655.png",
+      "date": "2026-01-05T03:04:21+00:00"
+    },
+    {
+      "title": "They Said AI Would Replace You by Now",
+      "summary": "Article URL: https://www.youtube.com/watch?v=dH_UvWmvny0 Comments URL: https://news.ycombinator.com/item?id=46494822 Points: 6 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=dH_UvWmvny0",
       "image": "",
-      "date": "2026-01-04T01:26:39+00:00"
+      "date": "2026-01-05T02:54:20+00:00"
     },
     {
-      "title": "Show HN: OpenGrad – Self-directed, AI-facilitated graduate programs",
-      "summary": "I missed the admission deadline for a graduate Philosophy program so I created something to guide me over the next several years.\nStarting with Euthyphro next week. Feel free to join or follow. Comments URL: https://news.ycombinator.com/item?id=46483710 Points: 3 # Comments: 1",
-      "url": "https://realadeel.github.io/opengrad/",
-      "image": "",
-      "date": "2026-01-04T01:11:17+00:00"
+      "title": "Wanderly AI Travel App Waitlist",
+      "summary": "Article URL: https://waitlister.me/p/wanderly Comments URL: https://news.ycombinator.com/item?id=46494775 Points: 1 # Comments: 1",
+      "url": "https://waitlister.me/p/wanderly",
+      "image": "https://firebasestorage.googleapis.com/v0/b/waitinglist-app-c24fc.appspot.com/o/public%2FnbPW1TcnAHelWfJqzUOOjDRaE3p1%2Fog-images%2F1767577912928_og_image.png?alt=media",
+      "date": "2026-01-05T02:45:46+00:00"
     },
     {
-      "title": "The Agentic Shift (2026): A quantitative analysis of why 95% of AI pilots fail",
-      "summary": "Article URL: https://docsend.com/view/k3dkbsnupfjh7t5w Comments URL: https://news.ycombinator.com/item?id=46482773 Points: 3 # Comments: 0",
-      "url": "https://docsend.com/view/k3dkbsnupfjh7t5w",
+      "title": "The Intelligent Universe: AI, ET, and the Emerging Mind of the Cosmos",
+      "summary": "Article URL: https://www.setileague.org/reviews/intellig.htm Comments URL: https://news.ycombinator.com/item?id=46494506 Points: 1 # Comments: 0",
+      "url": "https://www.setileague.org/reviews/intellig.htm",
       "image": "",
-      "date": "2026-01-03T23:14:03+00:00"
+      "date": "2026-01-05T01:55:43+00:00"
     }
   ]
 }
