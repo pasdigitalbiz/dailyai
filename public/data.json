@@ -1,96 +1,110 @@
 {
-  "generated_at": "2026-01-05T06:56:02.242552+00:00",
+  "generated_at": "2026-01-06T06:51:11.456338+00:00",
   "items": [
     {
-      "title": "Securing Agentic AI Fundamentals – No BS Guide – Part 1",
-      "summary": "Article URL: https://www.subhashdasyam.com/2025/12/securing-agentic-ai-architecture.html Comments URL: https://news.ycombinator.com/item?id=46496002 Points: 1 # Comments: 0",
-      "url": "https://www.subhashdasyam.com/2025/12/securing-agentic-ai-architecture.html",
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ug5jknh71LvbDYsvhrM6wJXX-Qa_V-JMsp2lwhoNCV7sxZ8W9BIUxYS5j0kE1zmfSykl4NrIxtitBtXT6tZ4UeNfXL1DstplK2FRw0KPhSup6O55VNWanJ-GQB3ki3L9L7lw0PkZsx0ZXT_hI816aD6frlUTLoVmdFIrejHXJCRizmgy_zWd357x26bkVefwb-bdXXxlF7MJQd4pZIK0yNXWBF1SDiWJ_9Pw9nFvzgLxaNGSVedw4-GyTt-cdWrrHAp7DZwqTr2u8Doi5wry6krRQg=w1200-h630-p-k-no-nu",
-      "date": "2026-01-05T06:55:16+00:00"
-    },
-    {
-      "title": "Agentic AI – RAG Agents with MCP: Know and Do",
-      "summary": "Article URL: https://toknow.ai/posts/rag-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=46495758 Points: 1 # Comments: 0",
-      "url": "https://toknow.ai/posts/rag-agents-mcp/",
-      "image": "https://toknow.ai/posts/rag-agents-mcp/image.png",
-      "date": "2026-01-05T06:02:29+00:00"
-    },
-    {
-      "title": "Show HN: Agentu Minimalist Python AI agent framework",
-      "summary": "After building dozens of agents, I kept hitting the same wall. So I built agentu. The core is simple: \n→ >> chains steps sequentially\n→ & runs them in parallel But it's grown into a full stack: - Sessions: stateful conversations with automatic context\n- Evaluation: test your agents before production\n- Observability: real-time dashboard, metrics, tracing\n- Skills: domain expertise that loads on-demand\n- Tool Search: scale to 100s of tools without context bloat\n- MCP Integration: Model Context Protocol support `pip install agentu` https://pypi.org/project/agentu/ Comments URL: https://news.ycombinator.com/item?id=46495628 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46495628",
+      "title": "Nvidia Unveils Faster AI Chips Sooner Than Expected",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-unveils-faster-ai-chips-sooner-than-expected-626154a5 Comments URL: https://news.ycombinator.com/item?id=46509340 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/nvidia-unveils-faster-ai-chips-sooner-than-expected-626154a5",
       "image": "",
-      "date": "2026-01-05T05:30:57+00:00"
+      "date": "2026-01-06T06:28:54+00:00"
     },
     {
-      "title": "The AI debt boom does not augur well for investors",
-      "summary": "Article URL: https://www.ft.com/content/d36f3392-9a73-476a-9357-8ff311bb04da Comments URL: https://news.ycombinator.com/item?id=46495606 Points: 3 # Comments: 1",
-      "url": "https://www.ft.com/content/d36f3392-9a73-476a-9357-8ff311bb04da",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca3f218-e352-4207-a931-3c07295508e8.jpg?source=next-barrier-page",
-      "date": "2026-01-05T05:25:48+00:00"
-    },
-    {
-      "title": "Building a Rust-style static analyzer for C++ with AI",
-      "summary": "Article URL: http://mpaxos.com/blog/rusty-cpp.html Comments URL: https://news.ycombinator.com/item?id=46495539 Points: 19 # Comments: 5",
-      "url": "http://mpaxos.com/blog/rusty-cpp.html",
+      "title": "AI Construction Costs Can Be an Accounting 'Black Box'",
+      "summary": "Article URL: https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09 Comments URL: https://news.ycombinator.com/item?id=46509246 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09",
       "image": "",
-      "date": "2026-01-05T05:11:59+00:00"
+      "date": "2026-01-06T06:08:50+00:00"
     },
     {
-      "title": "Show HN: Flakestorm – Chaos engineering for AI agents (local-first, open source)",
-      "summary": "Hi everyone, I’ve been working on an open-source tool called Flakestorm to test the reliability of AI agents before they hit production. Most agent testing today focuses on eval scores or happy-path prompts. In practice, agents tend to fail in more mundane ways: typos, tone shifts, long context, malformed input, or simple prompt injections — especially when running on smaller or local models.\nFlakestorm applies chaos-engineering ideas to agents. Instead of testing one prompt, it takes a “golden prompt”, generates adversarial mutations (semantic variations, noise, injections, encoding edge cases), runs them against your agent, and produces a robustness score plus a detailed HTML report showing what broke. Key points:\nLocal-first (uses Ollama for mutation generation) Tested with Qwen / Gemma / other small models\nWorks against HTTP agents, LangChain chains, or Python callables\nNo cloud or API keys required\nThis started as a way to debug my own agents after seeing them behave unpredictably under real user input. I’m still early and trying to understand how useful this is outside my own workflow. I’d really appreciate feedback on:\nWhether this overlaps with how you test agents today\nFailure modes you’ve seen that aren’t covered\nWhether “chaos testing for agents” is a useful framing, or if this should be thought of differently\nRepo: https://github.com/flakestorm/flakestorm Docs are admittedly long. Thanks for taking a look. Comments URL: https://news.ycombinator.com/item?id=46495434 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46495434",
+      "title": "How People Actually Use AI (100 Trillion Token Study)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=RaPmhA2uQQM Comments URL: https://news.ycombinator.com/item?id=46509157 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=RaPmhA2uQQM",
       "image": "",
-      "date": "2026-01-05T04:48:57+00:00"
+      "date": "2026-01-06T05:51:03+00:00"
     },
     {
-      "title": "'Big Short' investor accuses AI hyperscalers of artificially boosting earnings (2025)",
-      "summary": "Article URL: https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html Comments URL: https://news.ycombinator.com/item?id=46495147 Points: 6 # Comments: 2",
-      "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1767176101&w=1920&h=1080",
-      "date": "2026-01-05T03:44:08+00:00"
+      "title": "AI from the perspective of a software developer, year-end 2025",
+      "summary": "Article URL: https://www.themotte.org/post/3424/ai-from-the-perspective-of-a Comments URL: https://news.ycombinator.com/item?id=46508962 Points: 1 # Comments: 0",
+      "url": "https://www.themotte.org/post/3424/ai-from-the-perspective-of-a",
+      "image": "https://www.themotte.org/assets/images/TheMotte/site_preview.webp?v=47050fd2",
+      "date": "2026-01-06T05:09:38+00:00"
     },
     {
-      "title": "Personal notes of things I need to master, as AI writes most of the code now",
-      "summary": "Article URL: https://pradyumnachippigiri.dev/blogs/engineers-future Comments URL: https://news.ycombinator.com/item?id=46495011 Points: 3 # Comments: 0",
-      "url": "https://pradyumnachippigiri.dev/blogs/engineers-future",
-      "image": "https://pradyumnachippigiri.dev/og?title=AI+writes+most+of+the+code%2C+what+now%3F&date=2026-01-03",
-      "date": "2026-01-05T03:24:16+00:00"
-    },
-    {
-      "title": "Meta releases open data to train General AI Co-Scientists",
-      "summary": "Article URL: https://huggingface.co/datasets/facebook/research-plan-gen Comments URL: https://news.ycombinator.com/item?id=46494970 Points: 1 # Comments: 0",
-      "url": "https://huggingface.co/datasets/facebook/research-plan-gen",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/facebook/research-plan-gen.png",
-      "date": "2026-01-05T03:16:17+00:00"
-    },
-    {
-      "title": "Rapid Validation of Product Concepts with AI",
-      "summary": "Article URL: https://luvsheth.com/p/rapid-validation-of-product-concepts Comments URL: https://news.ycombinator.com/item?id=46494881 Points: 1 # Comments: 1",
-      "url": "https://luvsheth.com/p/rapid-validation-of-product-concepts",
-      "image": "https://substackcdn.com/image/fetch/$s_!dz75!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8b4f97-31fe-440c-aab5-d6655c872dfd_992x655.png",
-      "date": "2026-01-05T03:04:21+00:00"
-    },
-    {
-      "title": "They Said AI Would Replace You by Now",
-      "summary": "Article URL: https://www.youtube.com/watch?v=dH_UvWmvny0 Comments URL: https://news.ycombinator.com/item?id=46494822 Points: 6 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=dH_UvWmvny0",
+      "title": "Built an AI-powered profit calculator and inventory tracker app for resellers",
+      "summary": "I'm a developer who got into flipping/reselling as a side hustle last year. My biggest frustration was standing in thrift stores trying to figure out if something was worth buying while juggling eBay sold listings, Google searches, and fee calculators. So I built Underpriced.app - an AI reseller app that tells you if something is worth flipping before you buy it. The Problem Researching items takes ~5 minutes per item\nYou waste time and miss deals while researching (someone else grabs it)\nYou buy blindly and hope for the best\nSpreadsheet tracking is tedious The Solution Take a photo or screenshot → AI identifies the item → Get instant analysis:\nProfit potential after all fees\nROI percentage\nDemand level & time to sell\nBest platforms to sell on\nRed flags to watch for\nDeal score (0-100) Tech Stack Frontend: Next.js, React, TailwindCSS\nBackend: Node.js, PostgreSQL\nChrome Extension for browser integration Features I'm Proud Of Works for both online sourcing (screenshots) and in-person (photos)\nBuilt-in flip tracker with analytics & reports\nChrome extension for one-click online deals analysis\nPremium AI tools: flipping strategy, listing generators, deep market research\n15-30 second analysis time Current Status Launched 2 months ago\n10 free analyses to start\nPaid tiers from $2.99/mo\nActive users in flipping community What I'm Working On\nMore accurate valuations for niche items\nMulti-item batch analysis\nMobile app (currently PWA)\nIntegration with inventory management tools Lessons Learned\nAI vision models are incredible but need heavy prompt engineering\nPromoting SaaS is way harder than building it\nThe reselling community is way bigger than I expected\nBalance between speed and accuracy is crucial Try it: underpriced.app Would love feedback from fellow builders: How would you improve the AI prompts for better accuracy?\nWhat's a fair price for this kind of analysis tool?\nShould I focus on depth (better analysis) or breadth (more features)?\nHappy to answer any technical questions about the build! Comments URL: https://news.ycombinator.com/item?id=46508942 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46508942",
       "image": "",
-      "date": "2026-01-05T02:54:20+00:00"
+      "date": "2026-01-06T05:04:57+00:00"
     },
     {
-      "title": "Wanderly AI Travel App Waitlist",
-      "summary": "Article URL: https://waitlister.me/p/wanderly Comments URL: https://news.ycombinator.com/item?id=46494775 Points: 1 # Comments: 1",
-      "url": "https://waitlister.me/p/wanderly",
-      "image": "https://firebasestorage.googleapis.com/v0/b/waitinglist-app-c24fc.appspot.com/o/public%2FnbPW1TcnAHelWfJqzUOOjDRaE3p1%2Fog-images%2F1767577912928_og_image.png?alt=media",
-      "date": "2026-01-05T02:45:46+00:00"
+      "title": "Few Shall Return is now gen-AI free",
+      "summary": "Article URL: https://www.ballardgames.com/tales/gen-ai-go-away/ Comments URL: https://news.ycombinator.com/item?id=46508923 Points: 2 # Comments: 0",
+      "url": "https://www.ballardgames.com/tales/gen-ai-go-away/",
+      "image": "https://ballardgames.com/images/tales/gen-ai-go-away.png",
+      "date": "2026-01-06T05:00:58+00:00"
     },
     {
-      "title": "The Intelligent Universe: AI, ET, and the Emerging Mind of the Cosmos",
-      "summary": "Article URL: https://www.setileague.org/reviews/intellig.htm Comments URL: https://news.ycombinator.com/item?id=46494506 Points: 1 # Comments: 0",
-      "url": "https://www.setileague.org/reviews/intellig.htm",
+      "title": "Using Prediction Markets to Enhance Intelligence Capabilities(2006) [pdf]",
+      "summary": "Article URL: https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf Comments URL: https://news.ycombinator.com/item?id=46508867 Points: 1 # Comments: 0",
+      "url": "https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf",
       "image": "",
-      "date": "2026-01-05T01:55:43+00:00"
+      "date": "2026-01-06T04:50:41+00:00"
+    },
+    {
+      "title": "Amazon Prime AI overviews can't even get the basics right",
+      "summary": "Frasier is one of my favorite shows of all time. I love the characters, the writing, the acting, the whole kit and kaboodle. I've been watching it on Prime and it's been driving me insane how drivel and nonsensical their season and episode AI overviews are. Here is the overview for season eight: In the eighth season of Frasier we meet Daphne and Niles post elopement and dealing with Donny suing Daphne. Meanwhile, Frasier reluctantly becomes 'mentor' to station KACL's young new owner, Silicon Valley billionaire Kenny Daly Niles and Daphne elope in season ten!\nKenny Daly is the lovable station manager, not the new owner! What is going on? Amazon's a billion fucking dollar company. Just pay for IMBD's overviews. Oh, that's right, Amazon owns IMDB because of course they do. I am so sick and tired of this AI slop infecting everything. Comments URL: https://news.ycombinator.com/item?id=46508324 Points: 31 # Comments: 4",
+      "url": "https://news.ycombinator.com/item?id=46508324",
+      "image": "",
+      "date": "2026-01-06T03:12:05+00:00"
+    },
+    {
+      "title": "AI-driven inflation is 2026's most overlooked risk, investors say",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/ Comments URL: https://news.ycombinator.com/item?id=46508310 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/",
+      "image": "",
+      "date": "2026-01-06T03:09:30+00:00"
+    },
+    {
+      "title": "Code Review in the Age of AI",
+      "summary": "Article URL: https://addyo.substack.com/p/code-review-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=46508263 Points: 1 # Comments: 0",
+      "url": "https://addyo.substack.com/p/code-review-in-the-age-of-ai",
+      "image": "",
+      "date": "2026-01-06T03:03:15+00:00"
+    },
+    {
+      "title": "Tracks vs. Trains: Why the Real AI Boom Hasn't Started Yet – Insights for 2026",
+      "summary": "Article URL: https://shawnharris.com/tracks-vs-trains-why-the-real-artificial-intelligence-boom-hasnt-started-yet-insights-for-2026/ Comments URL: https://news.ycombinator.com/item?id=46507932 Points: 3 # Comments: 0",
+      "url": "https://shawnharris.com/tracks-vs-trains-why-the-real-artificial-intelligence-boom-hasnt-started-yet-insights-for-2026/",
+      "image": "https://i0.wp.com/shawnharris.com/wp-content/uploads/2026/01/Gemini-Generated-Image-scaled.png?fit=1200%2C654&ssl=1",
+      "date": "2026-01-06T02:16:01+00:00"
+    },
+    {
+      "title": "Generation AI: fears of social divide unless all children learn computing skills",
+      "summary": "Article URL: https://www.theguardian.com/education/2026/jan/05/generation-ai-fears-of-social-divide-unless-all-children-learn-computing-skills Comments URL: https://news.ycombinator.com/item?id=46507843 Points: 11 # Comments: 0",
+      "url": "https://www.theguardian.com/education/2026/jan/05/generation-ai-fears-of-social-divide-unless-all-children-learn-computing-skills",
+      "image": "https://i.guim.co.uk/img/media/66338578082a146cac512c5e844a9b9eda109707/628_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfec8859e649adbe1a54dfa8c45ce5bb",
+      "date": "2026-01-06T01:57:52+00:00"
+    },
+    {
+      "title": "Debunking the AI food delivery hoax that fooled Reddit",
+      "summary": "Article URL: https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/ Comments URL: https://news.ycombinator.com/item?id=46507710 Points: 8 # Comments: 1",
+      "url": "https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/",
+      "image": "https://www.platformer.news/content/images/size/w1200/2026/01/shutterstock_1873278412.jpg",
+      "date": "2026-01-06T01:37:33+00:00"
+    },
+    {
+      "title": "Ask HN: Do you feel an obvious \"uncanny valley\" when reading AI-generated text?",
+      "summary": "This is something I sense when I read AI-generated text, but I don't actually know the distinct characteristics that my brain is catching on to. It reminds me of the uncanny valley sense I feel when looking at something human-like but not-quite-right. Comments URL: https://news.ycombinator.com/item?id=46507634 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46507634",
+      "image": "",
+      "date": "2026-01-06T01:25:05+00:00"
+    },
+    {
+      "title": "Jaana Dogan reveals how AI built in 1 hour what took a year",
+      "summary": "Article URL: https://mocktestarena.com/jaana-dogan-ai-built-in-one-hour/ Comments URL: https://news.ycombinator.com/item?id=46507294 Points: 1 # Comments: 0",
+      "url": "https://mocktestarena.com/jaana-dogan-ai-built-in-one-hour/",
+      "image": "https://mocktestarena.com/wp-content/uploads/2026/01/Jaana-Dogan.png",
+      "date": "2026-01-06T00:41:09+00:00"
     }
   ]
 }
