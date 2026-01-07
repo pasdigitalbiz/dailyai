@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-01-06T06:51:11.456338+00:00",
+  "generated_at": "2026-01-07T06:50:30.386325+00:00",
   "items": [
     {
-      "title": "Nvidia Unveils Faster AI Chips Sooner Than Expected",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-unveils-faster-ai-chips-sooner-than-expected-626154a5 Comments URL: https://news.ycombinator.com/item?id=46509340 Points: 1 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/nvidia-unveils-faster-ai-chips-sooner-than-expected-626154a5",
-      "image": "",
-      "date": "2026-01-06T06:28:54+00:00"
-    },
-    {
-      "title": "AI Construction Costs Can Be an Accounting 'Black Box'",
-      "summary": "Article URL: https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09 Comments URL: https://news.ycombinator.com/item?id=46509246 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09",
-      "image": "",
-      "date": "2026-01-06T06:08:50+00:00"
-    },
-    {
-      "title": "How People Actually Use AI (100 Trillion Token Study)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=RaPmhA2uQQM Comments URL: https://news.ycombinator.com/item?id=46509157 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=RaPmhA2uQQM",
-      "image": "",
-      "date": "2026-01-06T05:51:03+00:00"
-    },
-    {
-      "title": "AI from the perspective of a software developer, year-end 2025",
-      "summary": "Article URL: https://www.themotte.org/post/3424/ai-from-the-perspective-of-a Comments URL: https://news.ycombinator.com/item?id=46508962 Points: 1 # Comments: 0",
-      "url": "https://www.themotte.org/post/3424/ai-from-the-perspective-of-a",
-      "image": "https://www.themotte.org/assets/images/TheMotte/site_preview.webp?v=47050fd2",
-      "date": "2026-01-06T05:09:38+00:00"
-    },
-    {
-      "title": "Built an AI-powered profit calculator and inventory tracker app for resellers",
-      "summary": "I'm a developer who got into flipping/reselling as a side hustle last year. My biggest frustration was standing in thrift stores trying to figure out if something was worth buying while juggling eBay sold listings, Google searches, and fee calculators. So I built Underpriced.app - an AI reseller app that tells you if something is worth flipping before you buy it. The Problem Researching items takes ~5 minutes per item\nYou waste time and miss deals while researching (someone else grabs it)\nYou buy blindly and hope for the best\nSpreadsheet tracking is tedious The Solution Take a photo or screenshot → AI identifies the item → Get instant analysis:\nProfit potential after all fees\nROI percentage\nDemand level & time to sell\nBest platforms to sell on\nRed flags to watch for\nDeal score (0-100) Tech Stack Frontend: Next.js, React, TailwindCSS\nBackend: Node.js, PostgreSQL\nChrome Extension for browser integration Features I'm Proud Of Works for both online sourcing (screenshots) and in-person (photos)\nBuilt-in flip tracker with analytics & reports\nChrome extension for one-click online deals analysis\nPremium AI tools: flipping strategy, listing generators, deep market research\n15-30 second analysis time Current Status Launched 2 months ago\n10 free analyses to start\nPaid tiers from $2.99/mo\nActive users in flipping community What I'm Working On\nMore accurate valuations for niche items\nMulti-item batch analysis\nMobile app (currently PWA)\nIntegration with inventory management tools Lessons Learned\nAI vision models are incredible but need heavy prompt engineering\nPromoting SaaS is way harder than building it\nThe reselling community is way bigger than I expected\nBalance between speed and accuracy is crucial Try it: underpriced.app Would love feedback from fellow builders: How would you improve the AI prompts for better accuracy?\nWhat's a fair price for this kind of analysis tool?\nShould I focus on depth (better analysis) or breadth (more features)?\nHappy to answer any technical questions about the build! Comments URL: https://news.ycombinator.com/item?id=46508942 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46508942",
-      "image": "",
-      "date": "2026-01-06T05:04:57+00:00"
-    },
-    {
-      "title": "Few Shall Return is now gen-AI free",
-      "summary": "Article URL: https://www.ballardgames.com/tales/gen-ai-go-away/ Comments URL: https://news.ycombinator.com/item?id=46508923 Points: 2 # Comments: 0",
-      "url": "https://www.ballardgames.com/tales/gen-ai-go-away/",
-      "image": "https://ballardgames.com/images/tales/gen-ai-go-away.png",
-      "date": "2026-01-06T05:00:58+00:00"
-    },
-    {
-      "title": "Using Prediction Markets to Enhance Intelligence Capabilities(2006) [pdf]",
-      "summary": "Article URL: https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf Comments URL: https://news.ycombinator.com/item?id=46508867 Points: 1 # Comments: 0",
-      "url": "https://www.cia.gov/resources/csi/static/Prediction-Markets-Enhance-Intel.pdf",
-      "image": "",
-      "date": "2026-01-06T04:50:41+00:00"
-    },
-    {
-      "title": "Amazon Prime AI overviews can't even get the basics right",
-      "summary": "Frasier is one of my favorite shows of all time. I love the characters, the writing, the acting, the whole kit and kaboodle. I've been watching it on Prime and it's been driving me insane how drivel and nonsensical their season and episode AI overviews are. Here is the overview for season eight: In the eighth season of Frasier we meet Daphne and Niles post elopement and dealing with Donny suing Daphne. Meanwhile, Frasier reluctantly becomes 'mentor' to station KACL's young new owner, Silicon Valley billionaire Kenny Daly Niles and Daphne elope in season ten!\nKenny Daly is the lovable station manager, not the new owner! What is going on? Amazon's a billion fucking dollar company. Just pay for IMBD's overviews. Oh, that's right, Amazon owns IMDB because of course they do. I am so sick and tired of this AI slop infecting everything. Comments URL: https://news.ycombinator.com/item?id=46508324 Points: 31 # Comments: 4",
-      "url": "https://news.ycombinator.com/item?id=46508324",
-      "image": "",
-      "date": "2026-01-06T03:12:05+00:00"
-    },
-    {
-      "title": "AI-driven inflation is 2026's most overlooked risk, investors say",
-      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/ Comments URL: https://news.ycombinator.com/item?id=46508310 Points: 3 # Comments: 0",
-      "url": "https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/",
-      "image": "",
-      "date": "2026-01-06T03:09:30+00:00"
-    },
-    {
-      "title": "Code Review in the Age of AI",
-      "summary": "Article URL: https://addyo.substack.com/p/code-review-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=46508263 Points: 1 # Comments: 0",
-      "url": "https://addyo.substack.com/p/code-review-in-the-age-of-ai",
-      "image": "",
-      "date": "2026-01-06T03:03:15+00:00"
-    },
-    {
-      "title": "Tracks vs. Trains: Why the Real AI Boom Hasn't Started Yet – Insights for 2026",
-      "summary": "Article URL: https://shawnharris.com/tracks-vs-trains-why-the-real-artificial-intelligence-boom-hasnt-started-yet-insights-for-2026/ Comments URL: https://news.ycombinator.com/item?id=46507932 Points: 3 # Comments: 0",
-      "url": "https://shawnharris.com/tracks-vs-trains-why-the-real-artificial-intelligence-boom-hasnt-started-yet-insights-for-2026/",
-      "image": "https://i0.wp.com/shawnharris.com/wp-content/uploads/2026/01/Gemini-Generated-Image-scaled.png?fit=1200%2C654&ssl=1",
-      "date": "2026-01-06T02:16:01+00:00"
-    },
-    {
-      "title": "Generation AI: fears of social divide unless all children learn computing skills",
-      "summary": "Article URL: https://www.theguardian.com/education/2026/jan/05/generation-ai-fears-of-social-divide-unless-all-children-learn-computing-skills Comments URL: https://news.ycombinator.com/item?id=46507843 Points: 11 # Comments: 0",
-      "url": "https://www.theguardian.com/education/2026/jan/05/generation-ai-fears-of-social-divide-unless-all-children-learn-computing-skills",
-      "image": "https://i.guim.co.uk/img/media/66338578082a146cac512c5e844a9b9eda109707/628_0_6160_4928/master/6160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfec8859e649adbe1a54dfa8c45ce5bb",
-      "date": "2026-01-06T01:57:52+00:00"
+      "title": "Siemens and Nvidia Expand Partnership to Build the Industrial AI OS",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/siemens-and-nvidia-expand-partnership-industrial-ai-operating-system Comments URL: https://news.ycombinator.com/item?id=46523220 Points: 2 # Comments: 0",
+      "url": "https://nvidianews.nvidia.com/news/siemens-and-nvidia-expand-partnership-industrial-ai-operating-system",
+      "image": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202601/695c57283d6332b423b8543e_siemens-and-nvidia-industrial-manufacturing/siemens-and-nvidia-industrial-manufacturing_16a7d2a8-365b-4c01-ad12-e7cb3fe6a8ea-prv.jpg",
+      "date": "2026-01-07T06:25:07+00:00"
     },
     {
       "title": "Debunking the AI food delivery hoax that fooled Reddit",
-      "summary": "Article URL: https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/ Comments URL: https://news.ycombinator.com/item?id=46507710 Points: 8 # Comments: 1",
+      "summary": "Article URL: https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/ Comments URL: https://news.ycombinator.com/item?id=46523164 Points: 1 # Comments: 0",
       "url": "https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/",
       "image": "https://www.platformer.news/content/images/size/w1200/2026/01/shutterstock_1873278412.jpg",
-      "date": "2026-01-06T01:37:33+00:00"
+      "date": "2026-01-07T06:13:30+00:00"
     },
     {
-      "title": "Ask HN: Do you feel an obvious \"uncanny valley\" when reading AI-generated text?",
-      "summary": "This is something I sense when I read AI-generated text, but I don't actually know the distinct characteristics that my brain is catching on to. It reminds me of the uncanny valley sense I feel when looking at something human-like but not-quite-right. Comments URL: https://news.ycombinator.com/item?id=46507634 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46507634",
+      "title": "Show HN: Agentlearn – Interactive course for AI agent fundamentals",
+      "summary": "https://agentlearn.dev I built agentlearn after noticing that most AI agent tutorials focus on frameworks (LangChain, CrewAI) rather than fundamentals. The result is developers who can copy-paste code but struggle when things break. This is a free, interactive course covering: The Agent Loop - Why loops matter (think vs. act vs. observe)\nContext Engineering - The real skill behind \"prompt engineering\"\nTools & Function Calling - Bridging text generation to real actions\nMemory Systems - Short-term vs. long-term, vector DBs\nProtocols - MCP, A2A, and the emerging standards\nProduction Patterns - Error handling, cost optimization, observability\nEach concept has runnable code sandboxes you can step through. The design is intentionally \"hand-drawn\" to feel less intimidating than typical technical docs. Tech stack: Vanilla JS + Vite, no framework. Why no framework? Because understanding fundamentals means understanding what frameworks abstract away. Once you get the core loop, you can use any framework—or build your own. Feedback welcome! Especially interested in what topics are missing. Comments URL: https://news.ycombinator.com/item?id=46522985 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46522985",
       "image": "",
-      "date": "2026-01-06T01:25:05+00:00"
+      "date": "2026-01-07T05:36:38+00:00"
     },
     {
-      "title": "Jaana Dogan reveals how AI built in 1 hour what took a year",
-      "summary": "Article URL: https://mocktestarena.com/jaana-dogan-ai-built-in-one-hour/ Comments URL: https://news.ycombinator.com/item?id=46507294 Points: 1 # Comments: 0",
-      "url": "https://mocktestarena.com/jaana-dogan-ai-built-in-one-hour/",
-      "image": "https://mocktestarena.com/wp-content/uploads/2026/01/Jaana-Dogan.png",
-      "date": "2026-01-06T00:41:09+00:00"
+      "title": "Resurrecting My Game Dev Time with AI",
+      "summary": "Article URL: https://rsaul.com/resurrecting-my-game-dev-project-with-ai/ Comments URL: https://news.ycombinator.com/item?id=46522872 Points: 1 # Comments: 0",
+      "url": "https://rsaul.com/resurrecting-my-game-dev-project-with-ai/",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "date": "2026-01-07T05:16:24+00:00"
+    },
+    {
+      "title": "LMArena is a cancer on AI",
+      "summary": "Article URL: https://surgehq.ai/blog/lmarena-is-a-plague-on-ai Comments URL: https://news.ycombinator.com/item?id=46522632 Points: 3 # Comments: 0",
+      "url": "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai",
+      "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/69385c394b4cc2e3cad4c7bf_lmarena.jpg",
+      "date": "2026-01-07T04:40:48+00:00"
+    },
+    {
+      "title": "Ask HN: What is your set-up and process for using AI agents in Coding",
+      "summary": "I see lots of posts about using 5-10 agents in coding, and how amazing LLMs are at coding, especially Claude code. I do use both claude and chatgpt (that in vscode and codex), usually start with a planning conversation, then tell them to start and have hold points to test and discuss. Neverythelss, reading some posts I feel like I am not making the most of it and achieving the full capability and throughput. Keen to see some people share details on how they set-up their coding environment and the practical process for handling the agents. Comments URL: https://news.ycombinator.com/item?id=46522578 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46522578",
+      "image": "",
+      "date": "2026-01-07T04:32:17+00:00"
+    },
+    {
+      "title": "When AI writes almost all code, what happens to software engineering?",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what Comments URL: https://news.ycombinator.com/item?id=46522485 Points: 3 # Comments: 0",
+      "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+      "image": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
+      "date": "2026-01-07T04:13:16+00:00"
+    },
+    {
+      "title": "Innovation Cycles in an Age of AI",
+      "summary": "Article URL: https://www.apifirst.tech/p/ai-innovation-cycles Comments URL: https://news.ycombinator.com/item?id=46522444 Points: 2 # Comments: 0",
+      "url": "https://www.apifirst.tech/p/ai-innovation-cycles",
+      "image": "https://substackcdn.com/image/fetch/$s_!AinZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cfec523-c5e3-4af1-b7c8-fb5734050da2_2000x1125.png",
+      "date": "2026-01-07T04:06:14+00:00"
+    },
+    {
+      "title": "AI Is Coming for Your Job. Now What? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=cJfKqKEyw1o Comments URL: https://news.ycombinator.com/item?id=46522176 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=cJfKqKEyw1o",
+      "image": "",
+      "date": "2026-01-07T03:29:19+00:00"
+    },
+    {
+      "title": "Tech AI godfather says Meta's new 29-year-old AI boss is 'inexperienced'",
+      "summary": "Article URL: https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html Comments URL: https://news.ycombinator.com/item?id=46521543 Points: 10 # Comments: 2",
+      "url": "https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108247988-1767609184840-gettyimages-2153566709-FRANCE_VIVATECH.jpeg?v=1767637370&w=1920&h=1080",
+      "date": "2026-01-07T01:52:29+00:00"
+    },
+    {
+      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI",
+      "summary": "Article URL: https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=46521220 Points: 4 # Comments: 3",
+      "url": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/reddit-ipo-v2.jpg?resize=1200,675",
+      "date": "2026-01-07T01:08:42+00:00"
+    },
+    {
+      "title": "World 'may not have time' to prepare for AI safety risks",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher Comments URL: https://news.ycombinator.com/item?id=46521075 Points: 2 # Comments: 1",
+      "url": "https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher",
+      "image": "https://i.guim.co.uk/img/media/ad49e2d1072e6780df7f9214843b32fa7e50ba06/1134_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4aa483e29287afbab4ca3b28505fcb56",
+      "date": "2026-01-07T00:49:42+00:00"
+    },
+    {
+      "title": "AI automation paradox: More work, not less",
+      "summary": "Article URL: https://www.theregister.com/2026/01/06/ai_could_damage_your_health/ Comments URL: https://news.ycombinator.com/item?id=46520887 Points: 3 # Comments: 0",
+      "url": "https://www.theregister.com/2026/01/06/ai_could_damage_your_health/",
+      "image": "https://regmedia.co.uk/2024/11/19/shutterstock_mental_health.jpg",
+      "date": "2026-01-07T00:23:41+00:00"
+    },
+    {
+      "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y5w0k99r1o Comments URL: https://news.ycombinator.com/item?id=46520876 Points: 6 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5w0k99r1o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b41c/live/c0f85350-ea48-11f0-a4c4-1d0f54763880.jpg",
+      "date": "2026-01-07T00:21:54+00:00"
+    },
+    {
+      "title": "AI begins prescribing medications in Utah",
+      "summary": "Article URL: https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122?nid=00000170-c000-da87-af78-e185fa700000&nname=politico-nightly&nrid=0000014e-f0fe-dd93-ad7f-f8ff89540000 Comments URL: https://news.ycombinator.com/item?id=46520783 Points: 6 # Comments: 2",
+      "url": "https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122?nid=00000170-c000-da87-af78-e185fa700000&nname=politico-nightly&nrid=0000014e-f0fe-dd93-ad7f-f8ff89540000",
+      "image": "",
+      "date": "2026-01-07T00:09:52+00:00"
     }
   ]
 }
