@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-01-07T06:50:30.386325+00:00",
+  "generated_at": "2026-01-08T06:50:45.477123+00:00",
   "items": [
     {
-      "title": "Siemens and Nvidia Expand Partnership to Build the Industrial AI OS",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/siemens-and-nvidia-expand-partnership-industrial-ai-operating-system Comments URL: https://news.ycombinator.com/item?id=46523220 Points: 2 # Comments: 0",
-      "url": "https://nvidianews.nvidia.com/news/siemens-and-nvidia-expand-partnership-industrial-ai-operating-system",
-      "image": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202601/695c57283d6332b423b8543e_siemens-and-nvidia-industrial-manufacturing/siemens-and-nvidia-industrial-manufacturing_16a7d2a8-365b-4c01-ad12-e7cb3fe6a8ea-prv.jpg",
-      "date": "2026-01-07T06:25:07+00:00"
+      "title": "AI Misses Nearly One-Third of Breast Cancers, Study Finds",
+      "summary": "Article URL: https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/ Comments URL: https://news.ycombinator.com/item?id=46537983 Points: 1 # Comments: 0",
+      "url": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
+      "image": "https://www.emjreviews.com/wp-content/uploads/2025/12/1pm-radiology.jpg",
+      "date": "2026-01-08T06:43:07+00:00"
     },
     {
-      "title": "Debunking the AI food delivery hoax that fooled Reddit",
-      "summary": "Article URL: https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/ Comments URL: https://news.ycombinator.com/item?id=46523164 Points: 1 # Comments: 0",
-      "url": "https://www.platformer.news/fake-uber-eats-whisleblower-hoax-debunked/",
-      "image": "https://www.platformer.news/content/images/size/w1200/2026/01/shutterstock_1873278412.jpg",
-      "date": "2026-01-07T06:13:30+00:00"
-    },
-    {
-      "title": "Show HN: Agentlearn – Interactive course for AI agent fundamentals",
-      "summary": "https://agentlearn.dev I built agentlearn after noticing that most AI agent tutorials focus on frameworks (LangChain, CrewAI) rather than fundamentals. The result is developers who can copy-paste code but struggle when things break. This is a free, interactive course covering: The Agent Loop - Why loops matter (think vs. act vs. observe)\nContext Engineering - The real skill behind \"prompt engineering\"\nTools & Function Calling - Bridging text generation to real actions\nMemory Systems - Short-term vs. long-term, vector DBs\nProtocols - MCP, A2A, and the emerging standards\nProduction Patterns - Error handling, cost optimization, observability\nEach concept has runnable code sandboxes you can step through. The design is intentionally \"hand-drawn\" to feel less intimidating than typical technical docs. Tech stack: Vanilla JS + Vite, no framework. Why no framework? Because understanding fundamentals means understanding what frameworks abstract away. Once you get the core loop, you can use any framework—or build your own. Feedback welcome! Especially interested in what topics are missing. Comments URL: https://news.ycombinator.com/item?id=46522985 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46522985",
+      "title": "AI Marketing Automation SaaS with Autonomous Agents",
+      "summary": "Article URL: https://flippa.com/12205760-vect-ai-is-an-autonomous-marketing-command-center-where-ai-agents-plan-campaigns-create-visuals-and-run-10-growth-tools-from-one-unified-system Comments URL: https://news.ycombinator.com/item?id=46537948 Points: 2 # Comments: 0",
+      "url": "https://flippa.com/12205760-vect-ai-is-an-autonomous-marketing-command-center-where-ai-agents-plan-campaigns-create-visuals-and-run-10-growth-tools-from-one-unified-system",
       "image": "",
-      "date": "2026-01-07T05:36:38+00:00"
+      "date": "2026-01-08T06:35:33+00:00"
     },
     {
-      "title": "Resurrecting My Game Dev Time with AI",
-      "summary": "Article URL: https://rsaul.com/resurrecting-my-game-dev-project-with-ai/ Comments URL: https://news.ycombinator.com/item?id=46522872 Points: 1 # Comments: 0",
-      "url": "https://rsaul.com/resurrecting-my-game-dev-project-with-ai/",
-      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
-      "date": "2026-01-07T05:16:24+00:00"
-    },
-    {
-      "title": "LMArena is a cancer on AI",
-      "summary": "Article URL: https://surgehq.ai/blog/lmarena-is-a-plague-on-ai Comments URL: https://news.ycombinator.com/item?id=46522632 Points: 3 # Comments: 0",
-      "url": "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai",
-      "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/69385c394b4cc2e3cad4c7bf_lmarena.jpg",
-      "date": "2026-01-07T04:40:48+00:00"
-    },
-    {
-      "title": "Ask HN: What is your set-up and process for using AI agents in Coding",
-      "summary": "I see lots of posts about using 5-10 agents in coding, and how amazing LLMs are at coding, especially Claude code. I do use both claude and chatgpt (that in vscode and codex), usually start with a planning conversation, then tell them to start and have hold points to test and discuss. Neverythelss, reading some posts I feel like I am not making the most of it and achieving the full capability and throughput. Keen to see some people share details on how they set-up their coding environment and the practical process for handling the agents. Comments URL: https://news.ycombinator.com/item?id=46522578 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46522578",
+      "title": "AI product distribution platform to tell where and how to get first 100 users?",
+      "summary": "I have scaled multiple projects and each one had entirely different ways it was scaled. One offered LTD, other got featured in newsletter, one got users from hacker news and other got it from product hunt. So, an AI copilot to stress test ideas based upon competitor's growth performances. Roast, validate, give feedback, anything is good. Comments URL: https://news.ycombinator.com/item?id=46537797 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46537797",
       "image": "",
-      "date": "2026-01-07T04:32:17+00:00"
+      "date": "2026-01-08T06:14:51+00:00"
     },
     {
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what Comments URL: https://news.ycombinator.com/item?id=46522485 Points: 3 # Comments: 0",
-      "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-      "image": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-      "date": "2026-01-07T04:13:16+00:00"
+      "title": "IBM's AI agent Bob easily duped to run malware, researchers show",
+      "summary": "Article URL: https://www.theregister.com/2026/01/07/ibm_bob_vulnerability/ Comments URL: https://news.ycombinator.com/item?id=46537681 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/01/07/ibm_bob_vulnerability/",
+      "image": "https://regmedia.co.uk/2021/06/10/shutterstock_blindfold.jpg",
+      "date": "2026-01-08T05:52:42+00:00"
     },
     {
-      "title": "Innovation Cycles in an Age of AI",
-      "summary": "Article URL: https://www.apifirst.tech/p/ai-innovation-cycles Comments URL: https://news.ycombinator.com/item?id=46522444 Points: 2 # Comments: 0",
-      "url": "https://www.apifirst.tech/p/ai-innovation-cycles",
-      "image": "https://substackcdn.com/image/fetch/$s_!AinZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cfec523-c5e3-4af1-b7c8-fb5734050da2_2000x1125.png",
-      "date": "2026-01-07T04:06:14+00:00"
+      "title": "AI layoffs are looking like corporate fiction that's masking a darker reality",
+      "summary": "Article URL: https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/ Comments URL: https://news.ycombinator.com/item?id=46537607 Points: 7 # Comments: 1",
+      "url": "https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-AB38901.jpg?resize=1200,600",
+      "date": "2026-01-08T05:38:29+00:00"
     },
     {
-      "title": "AI Is Coming for Your Job. Now What? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=cJfKqKEyw1o Comments URL: https://news.ycombinator.com/item?id=46522176 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=cJfKqKEyw1o",
+      "title": "Dell admits consumers don't care about AI PCs",
+      "summary": "Article URL: https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments Comments URL: https://news.ycombinator.com/item?id=46537493 Points: 8 # Comments: 2",
+      "url": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB324_DELL_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-01-08T05:20:49+00:00"
+    },
+    {
+      "title": "Ask HN: Identity crisis as a software engineer because of AI",
+      "summary": "I had to note down my feeling and I wonder if this resonates. Plenty of engineers are struggling with their identity in this new age. Anxiety shows up even among the best of us, and anger isn’t far behind.\n- Andrej Karpathy (https://x.com/karpathy/status/2004607146781278521)\n- Rob Pike (https://itsfoss.com/news/rob-pike-furious/) I know both emotions. I pride myself as a software craftsman, yet I am also the co-founder and CTO of an AI startup that keeps getting run over by paradigm shifts and better-funded startups (story for another day). I now know better the paths to stay out of; what matters more is knowing how to pick myself up and go again in this new age. To get out of that spiral, I had to change what I think my value is. First, our value is not in writing more code. This isn’t new, and good engineers have been saying it for a long time:\nThe best code is no code at all (https://blog.codinghorror.com/the-best-code-is-no-code-at-all/). Code is a liability, not an asset. Every line is a future maintenance burden. Every new feature expands the surface area for bugs. In today’s environment, more code also means more AI context, which leads to degraded performance. Our value lies elsewhere, and John Carmack said it clearly:\n“Coding” was never the source of value, and people shouldn’t get overly attached to it. Problem solving is the core skill. The discipline and precision demanded by traditional programming will remain valuable transferable attributes, but they won’t be a barrier to entry. - https://x.com/ID_AA_Carmack/status/1762110222321975442 So do not be afraid to throw code away. Your discipline and problem-solving skills stay with you. I have thrown away more code in the last 2 years than I ever imagined. More importantly, the goal is to create value for others, and very little of that is pure intelligence. If intelligence were everything, the world would be run by people with 250 IQ. It is not. AI has a narrow kind of intelligence. It works well only when the problem looks like this, as Demis Hassabis notes in his Nobel Lecture:\n1. Massive combinatorial search space\n2. Clear objective function (metric) to optimise against\n3. Either lots of data and/or an accurate and efficient simulator But real work is messy and unique:\n- The person you are helping is not you, and does not share your strengths, weaknesses, or resources\n- The times and context in the training data are different from yours\n- And so on\nWhen those three conditions aren’t true, AI looks smart but still fails at basic, real-world decision-making. Anthropic’s vending-machine experiment shows how much still depends on experience, intuition, and real-world constraints. Linus Torvalds has the same sentiment on intelligence:\nAnd don’t EVER make the mistake that you can design something better than what you get from ruthless massively parallel trial-and-error with a feedback cycle. That’s giving your intelligence much too much credit. Ruthless feedback beats raw intelligence. That is the core of high agency. That feedback loop is what high agency looks like in practice. The fastest path to user value is a short feedback cycle, from information to action, for you, your team, and your AI. Observe the people around you, figure out what they hate doing, learn to do it, and take it off their plate through software. In the long run, the highest net value creator wins. If it is a problem well suited for AI, build data pipelines or design a simulator for it. Let them take care of it and move on to higher value problems. AI gives us, especially software engineers, the ability to make our ideas a reality again and again to generate better ones over time. Be prepared to throw away a lot of code, because the loop—observe, decide, ship, learn—is the value. We’re just getting started. Please share your thoughts! Comments URL: https://news.ycombinator.com/item?id=46537469 Points: 9 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46537469",
       "image": "",
-      "date": "2026-01-07T03:29:19+00:00"
+      "date": "2026-01-08T05:17:36+00:00"
     },
     {
-      "title": "Tech AI godfather says Meta's new 29-year-old AI boss is 'inexperienced'",
-      "summary": "Article URL: https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html Comments URL: https://news.ycombinator.com/item?id=46521543 Points: 10 # Comments: 2",
-      "url": "https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108247988-1767609184840-gettyimages-2153566709-FRANCE_VIVATECH.jpeg?v=1767637370&w=1920&h=1080",
-      "date": "2026-01-07T01:52:29+00:00"
+      "title": "AI pilots a free-flying robot aboard the ISS for the 1st time",
+      "summary": "Article URL: https://scienceclock.com/first-autonomous-ai-robot-flight-iss/ Comments URL: https://news.ycombinator.com/item?id=46537411 Points: 2 # Comments: 0",
+      "url": "https://scienceclock.com/first-autonomous-ai-robot-flight-iss/",
+      "image": "https://scienceclock.com/wp-content/uploads/2026/01/nasa-robot-astrobee-ai-flight-iss-e1767768985711.jpg",
+      "date": "2026-01-08T05:08:36+00:00"
     },
     {
-      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI",
-      "summary": "Article URL: https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=46521220 Points: 4 # Comments: 3",
-      "url": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/reddit-ipo-v2.jpg?resize=1200,675",
-      "date": "2026-01-07T01:08:42+00:00"
-    },
-    {
-      "title": "World 'may not have time' to prepare for AI safety risks",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher Comments URL: https://news.ycombinator.com/item?id=46521075 Points: 2 # Comments: 1",
-      "url": "https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher",
-      "image": "https://i.guim.co.uk/img/media/ad49e2d1072e6780df7f9214843b32fa7e50ba06/1134_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4aa483e29287afbab4ca3b28505fcb56",
-      "date": "2026-01-07T00:49:42+00:00"
-    },
-    {
-      "title": "AI automation paradox: More work, not less",
-      "summary": "Article URL: https://www.theregister.com/2026/01/06/ai_could_damage_your_health/ Comments URL: https://news.ycombinator.com/item?id=46520887 Points: 3 # Comments: 0",
-      "url": "https://www.theregister.com/2026/01/06/ai_could_damage_your_health/",
-      "image": "https://regmedia.co.uk/2024/11/19/shutterstock_mental_health.jpg",
-      "date": "2026-01-07T00:23:41+00:00"
-    },
-    {
-      "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y5w0k99r1o Comments URL: https://news.ycombinator.com/item?id=46520876 Points: 6 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5w0k99r1o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b41c/live/c0f85350-ea48-11f0-a4c4-1d0f54763880.jpg",
-      "date": "2026-01-07T00:21:54+00:00"
-    },
-    {
-      "title": "AI begins prescribing medications in Utah",
-      "summary": "Article URL: https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122?nid=00000170-c000-da87-af78-e185fa700000&nname=politico-nightly&nrid=0000014e-f0fe-dd93-ad7f-f8ff89540000 Comments URL: https://news.ycombinator.com/item?id=46520783 Points: 6 # Comments: 2",
-      "url": "https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122?nid=00000170-c000-da87-af78-e185fa700000&nname=politico-nightly&nrid=0000014e-f0fe-dd93-ad7f-f8ff89540000",
+      "title": "AI Chatbot Startup, Google to Settle Lawsuits over Teen Suicides",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063 Comments URL: https://news.ycombinator.com/item?id=46537399 Points: 1 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063",
       "image": "",
-      "date": "2026-01-07T00:09:52+00:00"
+      "date": "2026-01-08T05:06:46+00:00"
+    },
+    {
+      "title": "Show HN: How I generate animated pixel art with AI and Python",
+      "summary": "Article URL: https://sarthakmishra.com/blog/building-animated-sprite-hero Comments URL: https://news.ycombinator.com/item?id=46537268 Points: 2 # Comments: 1",
+      "url": "https://sarthakmishra.com/blog/building-animated-sprite-hero",
+      "image": "/_astro/building-animated-sprite-hero.DFbC-VAy.png",
+      "date": "2026-01-08T04:42:10+00:00"
+    },
+    {
+      "title": "A field guide to sandboxing AI workloads",
+      "summary": "Article URL: https://www.luiscardoso.dev/blog/sandboxes-for-ai Comments URL: https://news.ycombinator.com/item?id=46537133 Points: 4 # Comments: 0",
+      "url": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
+      "image": "",
+      "date": "2026-01-08T04:16:45+00:00"
+    },
+    {
+      "title": "Show HN: A skill that finds expert methodologies before generating AI skills",
+      "summary": "Article URL: https://jefferyk.notion.site/The-Best-Skills-Aren-t-Written-They-re-Curated-2e2114c258a1805f9282f00437a4595e Comments URL: https://news.ycombinator.com/item?id=46537007 Points: 2 # Comments: 0",
+      "url": "https://jefferyk.notion.site/The-Best-Skills-Aren-t-Written-They-re-Curated-2e2114c258a1805f9282f00437a4595e",
+      "image": "https://www.notion.so/images/meta/default.png",
+      "date": "2026-01-08T03:54:39+00:00"
+    },
+    {
+      "title": "A history of AI in two line paper summaries (part two)",
+      "summary": "Article URL: https://xquant.substack.com/p/what-if-we-simply-a-history-of-ai-20c Comments URL: https://news.ycombinator.com/item?id=46536840 Points: 1 # Comments: 0",
+      "url": "https://xquant.substack.com/p/what-if-we-simply-a-history-of-ai-20c",
+      "image": "",
+      "date": "2026-01-08T03:27:24+00:00"
+    },
+    {
+      "title": "The AI Econ Seminar",
+      "summary": "Article URL: https://cameron.stream/blog/econ-seminar/ Comments URL: https://news.ycombinator.com/item?id=46536718 Points: 2 # Comments: 0",
+      "url": "https://cameron.stream/blog/econ-seminar/",
+      "image": "",
+      "date": "2026-01-08T03:09:09+00:00"
+    },
+    {
+      "title": "AI Is Plastic",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/01/07/ai-is-plastic/ Comments URL: https://news.ycombinator.com/item?id=46536499 Points: 2 # Comments: 0",
+      "url": "https://stephen.bochinski.dev/blog/2026/01/07/ai-is-plastic/",
+      "image": "",
+      "date": "2026-01-08T02:38:09+00:00"
     }
   ]
 }
