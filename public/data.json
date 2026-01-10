@@ -1,68 +1,117 @@
 {
-  "generated_at": "2026-01-09T06:51:08.101005+00:00",
+  "generated_at": "2026-01-10T06:45:57.031275+00:00",
   "items": [
     {
-      "title": "Google is unleashing Gemini AI features on Gmail. Users will have to opt out",
-      "summary": "Article URL: https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html Comments URL: https://news.ycombinator.com/item?id=46550625 Points: 1 # Comments: 1",
-      "url": "https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/106199081-1571858526194gettyimages-887454120.jpeg?v=1767831513&w=1920&h=1080",
-      "date": "2026-01-09T06:13:04+00:00"
+      "title": "A red pixel in the snow: How AI solved the mystery of a missing mountaineer",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer Comments URL: https://news.ycombinator.com/item?id=46563320 Points: 2 # Comments: 0",
+      "url": "https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0msxhrc.jpg",
+      "date": "2026-01-10T06:27:21+00:00"
     },
     {
-      "title": "MiniMax, China's second 'AI tiger' to go public, soars in Hong Kong debut",
-      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/china-ai-firm-minimax-set-surge-hong-kong-debut-2026-01-09/ Comments URL: https://news.ycombinator.com/item?id=46550441 Points: 2 # Comments: 0",
-      "url": "https://www.reuters.com/world/asia-pacific/china-ai-firm-minimax-set-surge-hong-kong-debut-2026-01-09/",
+      "title": "HackLikeMe – AI DevSecOps CLI with 6 specialized agents that think before acting",
+      "summary": "HackLikeMe is a terminal-native AI agent that gives you full access to nmap, tshark, docker, kubectl, terraform + 100+ tools, but with pro-grade reasoning first. Instead of blindly running commands, it pauses to plan, then executes safely on your local machine with full visibility. Built for DevOps engineers, security folks, and fullstack devs who live in the terminal. Key features: 6 purpose-built agents (Coder, FullStack, DevOps, Security, Plan, Monitor) Supports 50+ languages for code gen/refactor/debug Beta pricing: Free Pro access for first 100 users (normally $25/mo) One-command install: npm install -g hacklikeme Example — network recon in one line: text\n$ hacklikeme \"run a network scan on 192.168.1.0/24\"\n[Agent] Using nmap for network discovery...\nStarting Nmap 7.94\nNmap scan report for 192.168.1.1\nPORT    STATE  SERVICE\n22/tcp  open   ssh\n80/tcp  open   http\n443/tcp open   https\nTry it live: https://hacklikeme.com/ (no CC needed for beta) Docs: https://hacklikeme.com/docs\nPricing: https://hacklikeme.com/pricing Comments URL: https://news.ycombinator.com/item?id=46563196 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46563196",
       "image": "",
-      "date": "2026-01-09T05:41:37+00:00"
+      "date": "2026-01-10T06:01:48+00:00"
     },
     {
-      "title": "Remove Person from Photo – AI Object Removal Tool",
-      "summary": "Article URL: https://nanobananaeditor.cc/remove-person-from-photo Comments URL: https://news.ycombinator.com/item?id=46550329 Points: 1 # Comments: 0",
-      "url": "https://nanobananaeditor.cc/remove-person-from-photo",
+      "title": "MIT Non-AI License",
+      "summary": "Don't we have to ask for permission before feeding someone's years of work into an AI? MIT NON-AI License Copyright (c) 2025-2026 NAME Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions: 1. The Software and any derivative works may not be used for the\npurposes of training, fine-tuning, or validating artificial intelligence\nmodels or machine learning algorithms without prior written permission from\nthe copyright holders. 2. The above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE. Comments URL: https://news.ycombinator.com/item?id=46562867 Points: 9 # Comments: 12",
+      "url": "https://news.ycombinator.com/item?id=46562867",
       "image": "",
-      "date": "2026-01-09T05:20:51+00:00"
+      "date": "2026-01-10T04:47:43+00:00"
     },
     {
-      "title": "AI Assisted Physics Extraction from a Simple Seed Prompt",
-      "summary": "Article URL: https://chat.deepseek.com/share/jnv9z2xo3palx4558s Comments URL: https://news.ycombinator.com/item?id=46550245 Points: 1 # Comments: 0",
-      "url": "https://chat.deepseek.com/share/jnv9z2xo3palx4558s",
-      "image": "https://cdn.deepseek.com/images/deepseek-chat-share-open-graph-image-1200x630.jpg",
-      "date": "2026-01-09T05:05:13+00:00"
-    },
-    {
-      "title": "Questions: How AI could optimize the power grid",
-      "summary": "Article URL: https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109 Comments URL: https://news.ycombinator.com/item?id=46550236 Points: 1 # Comments: 0",
-      "url": "https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109",
-      "image": "https://news.mit.edu/sites/default/files/images/202601/MIT_AI-Power-01-press.jpg",
-      "date": "2026-01-09T05:03:28+00:00"
-    },
-    {
-      "title": "ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration",
-      "summary": "Article URL: https://research.nvidia.com/labs/lpr/ToolOrchestra/ Comments URL: https://news.ycombinator.com/item?id=46550050 Points: 3 # Comments: 0",
-      "url": "https://research.nvidia.com/labs/lpr/ToolOrchestra/",
+      "title": "AI Flatters with Fidelity",
+      "summary": "Article URL: https://lucent.substack.com/p/ai-flatters-with-fidelity Comments URL: https://news.ycombinator.com/item?id=46562718 Points: 2 # Comments: 0",
+      "url": "https://lucent.substack.com/p/ai-flatters-with-fidelity",
       "image": "",
-      "date": "2026-01-09T04:30:49+00:00"
+      "date": "2026-01-10T04:21:17+00:00"
     },
     {
-      "title": "Show HN: Open-source multimodal AI that runs in the browser",
-      "summary": "I built an AI assistant that runs completely in your browser using WebGPU. After the initial model download (~200MB-4GB depending on model choice), it works offline. No API keys. No subscriptions. No data leaves your device. Browser-based local AI addresses this: 1. Works offline after first load – Local AI makes possible offline AI use. Resilience – Work continues even during outages. Affordability – No recurring cloud or bandwidth costs. Privacy – Data stays on the device, reducing exposure risks. 2. No paywall or subscription – Removing or reducing paywalls on essential AI tools is crucial. Promoting open-source AI platforms provides powerful tools to everyone at no cost, democratizing access to AI technology. 3. Democratizes creative tools – AI tools have the potential to democratize creative processes, making art and design tasks more accessible to individuals without traditional expertise. AI tools can act as equalizers, providing non-professional users with the means to execute complex projects and bring their visions to life. 4. Privacy for sensitive use cases – AI is an alternative way to empower and democratize the access to creative tools and resources by making it easier for individuals with varying levels of artistic skill or expertise to engage in creative expression. What it does: Text chat – Switch between 10+ models (SmolLM-360M to Llama 3.2 8B)\nVision – Webcam/screen share analyzed by SmolVLM-256M running locally\nVoice – Whisper speech recognition (VAD-powered hands-free mode)\nTTS – Browser-native text-to-speech\nImage generation – SD Turbo via ONNX Runtime (experimental)\nResearch mode – Multi-step research with optional web search\nDeep thinking – Chain of Thought, Tree of Thoughts, Reflexion modes Requirements: Chrome 113+, Edge 113+, Safari 26+\n4GB+ GPU memory for larger models\nOne-time download, then cached/offline Comments URL: https://news.ycombinator.com/item?id=46549796 Points: 1 # Comments: 0",
-      "url": "https://johnjboren.github.io/ai-assistant.html",
+      "title": "Elon Musk's Grok Has Friends in High Places: US Patent Office chief AI officer",
+      "summary": "Article URL: https://jacobin.com/2026/01/grok-hayes-artificial-intelligence-deepfakes Comments URL: https://news.ycombinator.com/item?id=46562674 Points: 2 # Comments: 0",
+      "url": "https://jacobin.com/2026/01/grok-hayes-artificial-intelligence-deepfakes",
+      "image": "https://images.jacobinmag.com/wp-content/uploads/2026/01/09121931/GettyImages-2201507950.jpg",
+      "date": "2026-01-10T04:11:04+00:00"
+    },
+    {
+      "title": "Character.ai and Google agree to settle lawsuits over teen suicides",
+      "summary": "Article URL: https://www.ft.com/content/ac518567-d901-4fae-86a3-eab54b12a81d Comments URL: https://news.ycombinator.com/item?id=46562616 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/ac518567-d901-4fae-86a3-eab54b12a81d",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F501b820b-aa91-435f-9ceb-22f9a4b3772b.jpg?source=next-barrier-page",
+      "date": "2026-01-10T03:58:47+00:00"
+    },
+    {
+      "title": "Demystifying Evals for AI Agents",
+      "summary": "Article URL: https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=46562610 Points: 1 # Comments: 0",
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
+      "date": "2026-01-10T03:57:47+00:00"
+    },
+    {
+      "title": "Lies Screenwriters Tell Themselves About AI",
+      "summary": "Article URL: https://elliotgrove.substack.com/p/7-lies-screenwriters-tell-themselves Comments URL: https://news.ycombinator.com/item?id=46562533 Points: 2 # Comments: 1",
+      "url": "https://elliotgrove.substack.com/p/7-lies-screenwriters-tell-themselves",
       "image": "",
-      "date": "2026-01-09T03:40:40+00:00"
+      "date": "2026-01-10T03:41:29+00:00"
     },
     {
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what Comments URL: https://news.ycombinator.com/item?id=46549757 Points: 4 # Comments: 0",
-      "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-      "image": "https://substackcdn.com/image/fetch/$s_!sLlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77a41b8-2e53-435d-9cf6-8298bd9af3e1_1146x822.png",
-      "date": "2026-01-09T03:32:05+00:00"
+      "title": "Spec-Driven Development with AI",
+      "summary": "Article URL: https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/ Comments URL: https://news.ycombinator.com/item?id=46562474 Points: 3 # Comments: 0",
+      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
+      "image": "https://github.blog/wp-content/uploads/2025/08/wallpaper-generic-image-header.png",
+      "date": "2026-01-10T03:30:20+00:00"
     },
     {
-      "title": "AI images and internet rumors spread confusion about agent involved in shooting",
-      "summary": "Article URL: https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good Comments URL: https://news.ycombinator.com/item?id=46549628 Points: 13 # Comments: 0",
-      "url": "https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1918x1079+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fc4%2F34850fb448868f988327bf340efb%2Fminni-ice-agent-dyptic-3-16x9.jpg",
-      "date": "2026-01-09T03:04:40+00:00"
+      "title": "AI Is Intensifying a 'Collapse' of Trust Online, Experts Say",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472 Comments URL: https://news.ycombinator.com/item?id=46562460 Points: 6 # Comments: 4",
+      "url": "https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260105-nicolas-maduro-vl-1151p-4763f4.jpg",
+      "date": "2026-01-10T03:25:15+00:00"
+    },
+    {
+      "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+      "summary": "Article URL: https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/ Comments URL: https://news.ycombinator.com/item?id=46562341 Points: 1 # Comments: 0",
+      "url": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/01/Unstable-Blowup-cr-Samuel-Velasco-Social.jpg",
+      "date": "2026-01-10T03:03:14+00:00"
+    },
+    {
+      "title": "AI Won't Kill Open Source – It Will Amplify It",
+      "summary": "Article URL: https://petabridge.com/blog/ai-wont-kill-open-source/ Comments URL: https://news.ycombinator.com/item?id=46562167 Points: 1 # Comments: 0",
+      "url": "https://petabridge.com/blog/ai-wont-kill-open-source/",
+      "image": "https://hcti.io/v1/image/133ae5fdb357269cefb4ca0c4b35583207c3cbba0985e4351cd559e6c1a1f3d8",
+      "date": "2026-01-10T02:31:05+00:00"
+    },
+    {
+      "title": "AI as the Engine of Application State",
+      "summary": "Article URL: https://jonwoodlief.com/ai-app-state.html Comments URL: https://news.ycombinator.com/item?id=46562149 Points: 2 # Comments: 1",
+      "url": "https://jonwoodlief.com/ai-app-state.html",
+      "image": "",
+      "date": "2026-01-10T02:25:28+00:00"
+    },
+    {
+      "title": "Show HN: Ollie – Glass-box AI code editor with local models and no subscription",
+      "summary": "Article URL: https://costa-and-associates.com/ollie Comments URL: https://news.ycombinator.com/item?id=46562129 Points: 2 # Comments: 1",
+      "url": "https://costa-and-associates.com/ollie",
+      "image": "",
+      "date": "2026-01-10T02:22:59+00:00"
+    },
+    {
+      "title": "Ask HN: Have AI tools like agents affected your motivation at work?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46562066 Points: 6 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46562066",
+      "image": "",
+      "date": "2026-01-10T02:10:58+00:00"
+    },
+    {
+      "title": "Google AI generating regular expressions = fail",
+      "summary": "Prompt: what is the optimum python regular expression to match the words foo, fooxcale, and fooyscale I meant to say fooxscale, but had a typo.  Turned out to be interesting after all. According to their AI: \"The optimum Python regular expression to match the words foo, fooxcale, and fooyscale as whole words is \\bfoo(?:x|y)?cale\\b|\\bfoo\\b\" That actually matches foocale (wrong), foo, fooxcale and fooycale (wrong), and doesn't match fooyscale as requested. I have to give them credit though: their AI did give me good advice the other day about an SQLite GLOB query that was not using an index in my program but did use it when I typed the query in by hand.  I worked on it for about 30 minutes, then asked.  Turns out that if you use a ? parameter for GLOB, SQLite can't tell whether it starts with a wildcard or not, so never uses the index.  To make it use the index, you have to  string splice the parameter value (after SQL quoting of course) rather that use the ? for parameter substitution.  I was pretty amazed it answered that exactly right and gave me the hint about doing the splice, and warning about injection attacks. I also think it'd be a good idea if SQLite did this test inside the VM program it generates rather than at compile time, generating code to both use the index and not use it and choosing based on the runtime test of the first character.  It confused me severely. Comments URL: https://news.ycombinator.com/item?id=46561875 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46561875",
+      "image": "",
+      "date": "2026-01-10T01:44:58+00:00"
     }
   ]
 }
