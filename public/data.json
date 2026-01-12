@@ -1,110 +1,61 @@
 {
-  "generated_at": "2026-01-11T06:47:48.374017+00:00",
+  "generated_at": "2026-01-12T06:54:20.573423+00:00",
   "items": [
     {
-      "title": "Anthropic: Demystifying Evals for AI Agents",
-      "summary": "Article URL: https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=46573174 Points: 1 # Comments: 0",
+      "title": "Demystifying Evals for AI Agents",
+      "summary": "Article URL: https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=46584981 Points: 1 # Comments: 0",
       "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
-      "date": "2026-01-11T06:34:44+00:00"
+      "date": "2026-01-12T06:51:25+00:00"
     },
     {
-      "title": "Universe Time Machine Using AI God and the Universe Internet",
-      "summary": "Article URL: https://patents.google.com/patent/US20250238653A1/en Comments URL: https://news.ycombinator.com/item?id=46572728 Points: 3 # Comments: 1",
-      "url": "https://patents.google.com/patent/US20250238653A1/en",
+      "title": "AI Can Code (But It Doesn't Care About Quality)",
+      "summary": "Article URL: https://blog.discourse.org/2026/01/ai-can-code-but-it-doesnt-care-about-quality/ Comments URL: https://news.ycombinator.com/item?id=46584921 Points: 1 # Comments: 0",
+      "url": "https://blog.discourse.org/2026/01/ai-can-code-but-it-doesnt-care-about-quality/",
+      "image": "https://blog.discourse.org/content/images/size/w1200/2026/01/Climb-2-2.png",
+      "date": "2026-01-12T06:43:47+00:00"
+    },
+    {
+      "title": "Are the YouTube channel Courts and Crimes's shorts AI-generated deep fakes?",
+      "summary": "Article URL: https://skeptics.stackexchange.com/questions/60423/are-the-youtube-channel-courts-crimess-shorts-ai-generated-deep-fakes Comments URL: https://news.ycombinator.com/item?id=46584555 Points: 2 # Comments: 0",
+      "url": "https://skeptics.stackexchange.com/questions/60423/are-the-youtube-channel-courts-crimess-shorts-ai-generated-deep-fakes",
+      "image": "https://skeptics.stackexchange.com/Content/Sites/skeptics/Img/apple-touch-icon@2.png?v=84eb07e70fd7",
+      "date": "2026-01-12T05:46:59+00:00"
+    },
+    {
+      "title": "Ask HN: Has anyone built payment flows inside AI voice calls?",
+      "summary": "Hey HN, We originally were building vertical voice agents for fitness centers. During customer conversations, the idea of collecting payment during the call (via SMS link, keypad, or voice) would sometimes come up as something that might be useful. We’re trying to understand how people have approached this in practice. If you’ve worked on production voice systems or payments, I had a few questions:\n1) Have you implemented in-call payment flows?\n2) What tradeoffs or issues did you run into (compliance, reliability, etc.)?\n3) Was it something customers actually used, or mostly ignored? We also noticed a YC F24 company (Protegee) explored this space and later pivoted, which makes us curious what lessons people took away from that generation of attempts. Appreciate any real-world experience or pointers. We’re trying to learn from folks who’ve actually shipped this. Comments URL: https://news.ycombinator.com/item?id=46584015 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46584015",
       "image": "",
-      "date": "2026-01-11T04:34:07+00:00"
+      "date": "2026-01-12T04:12:50+00:00"
     },
     {
-      "title": "AI Predicts Disease from One Night of Sleep",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/01/260109023114.htm Comments URL: https://news.ycombinator.com/item?id=46572651 Points: 1 # Comments: 3",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260109023114.htm",
-      "image": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-      "date": "2026-01-11T04:12:42+00:00"
-    },
-    {
-      "title": "AI Consciousness: A Biological Perspective",
-      "summary": "Article URL: https://substack.com/@cocakoala/note/p-184178209 Comments URL: https://news.ycombinator.com/item?id=46572634 Points: 1 # Comments: 1",
-      "url": "https://substack.com/@cocakoala/note/p-184178209",
+      "title": "Ask HN: How to automate aesthetic photo cropping? (CV/AI)",
+      "summary": "Hi everyone, I am a backend developer currently engineering an in-house automation tool for a K-pop merchandise production company (photocards, postcards, etc.). I have built an MVP using Python (FastAPI) + Libvips + InsightFace to automate the process where designers previously had to manually crop thousands of high-resolution photos using Illustrator. While basic face detection and image quality preservation (CMYK conversion, etc.) are successful, I am hitting a bottleneck in automating the \"Designer's Sense (Vibe/Aesthetics).\" [Current Stack & Workflow] Tech Stack: Python 3.11, FastAPI, Libvips (Processing), InsightFace (Landmark Detection). Workflow: Bulk Upload $\\rightarrow$ Landmark Extraction (InsightFace) $\\rightarrow$ Auto-crop based on pre-defined ratios $\\rightarrow$ Human-in-the-loop fine-tuning via Web UI. [The Challenges] Mechanical Logic vs. Aesthetic Crop Simple centering logic fails to capture the \"perfect shot\" for K-pop idols who often have dynamic poses or varying camera angles. Issue: Even if the landmarks are mathematically centered, the resulting headroom is often inconsistent, or the chin is awkwardly cut off. The output lacks visual stability compared to a human designer's work. Need for Reference-Based One-Shot Style Transfer Clients often provide a single \"Guide Image\" and ask, \"Crop the rest of the 5,000 photos with this specific feel.\" (e.g., a tight face-filling close-up vs. a spacious upper-body shot). Goal: Instead of designers manually guessing the ratio, I want the AI to reverse-engineer the composition (face-to-canvas ratio, relative position) from that one sample image and apply it dynamically to the rest of the batch. [Questions] Q1. Direction for Improving Aesthetic Composition Is it more practical to refine Rule-based Heuristics (e.g., fixing eye position to the top 30% with complex conditionals), or should I look into \"Aesthetic Quality Assessment (AQA)\" or \"Saliency Detection\" models to score and select the best crop? As of 2026, what is the most efficient, production-ready approach for this? Q2. One-Shot Composition Transfer Are there any known algorithms or libraries that can extract the \"compositional style\" (relative position of eyes/nose/mouth regarding the canvas frame) from a single reference image and apply it to target images? I am looking for keywords or papers related to \"One-shot learning for layout/composition\" or \"Content-aware cropping based on reference.\" Any keywords, papers, or architectural advice from those who have tackled similar problems in production would be greatly appreciated. Thanks in advance. Comments URL: https://news.ycombinator.com/item?id=46583569 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46583569",
       "image": "",
-      "date": "2026-01-11T04:05:51+00:00"
+      "date": "2026-01-12T03:10:15+00:00"
     },
     {
-      "title": "Nvidia Announces Alpamayo Open-Source AI Models to Accelerate Reasoning-Based AV",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development Comments URL: https://news.ycombinator.com/item?id=46572446 Points: 2 # Comments: 0",
-      "url": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
-      "image": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202601/695aea883d6332a09db8543f_nvidia-alpamayo/nvidia-alpamayo_7d5ba2df-0550-4728-aded-3b4ce35946a5-prv.jpg",
-      "date": "2026-01-11T03:26:48+00:00"
+      "title": "AI models were given four weeks of therapy: the results worried researchers",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-025-04112-2 Comments URL: https://news.ycombinator.com/item?id=46582625 Points: 3 # Comments: 4",
+      "url": "https://www.nature.com/articles/d41586-025-04112-2",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04112-2/d41586-025-04112-2_51921474.jpg",
+      "date": "2026-01-12T01:25:47+00:00"
     },
     {
-      "title": "AI is intensifying a 'collapse' of trust online, experts say",
-      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472 Comments URL: https://news.ycombinator.com/item?id=46572099 Points: 8 # Comments: 2",
-      "url": "https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260105-nicolas-maduro-vl-1151p-4763f4.jpg",
-      "date": "2026-01-11T02:18:16+00:00"
-    },
-    {
-      "title": "Features for no one (AI edition)",
-      "summary": "Article URL: https://www.pcloadletter.dev/blog/ai-features-for-no-one/ Comments URL: https://news.ycombinator.com/item?id=46572021 Points: 1 # Comments: 0",
-      "url": "https://www.pcloadletter.dev/blog/ai-features-for-no-one/",
+      "title": "Ethical Principles in the Creation of Artificial Minds",
+      "summary": "Article URL: https://nickbostrom.com/ethics/aiethics Comments URL: https://news.ycombinator.com/item?id=46581712 Points: 2 # Comments: 0",
+      "url": "https://nickbostrom.com/ethics/aiethics",
       "image": "",
-      "date": "2026-01-11T01:59:17+00:00"
+      "date": "2026-01-11T23:34:53+00:00"
     },
     {
-      "title": "What the AI Wizard taught us about LLM code generation at scale",
-      "summary": "Article URL: https://posthog.com/blog/correct-llm-code-generation Comments URL: https://news.ycombinator.com/item?id=46571941 Points: 1 # Comments: 0",
-      "url": "https://posthog.com/blog/correct-llm-code-generation",
-      "image": "https://d36j3rcgc2qfsv.cloudfront.net/blogcorrect-llm-code-generation.jpeg",
-      "date": "2026-01-11T01:41:56+00:00"
-    },
-    {
-      "title": "Purdue University adds AI learning requirement for incoming students",
-      "summary": "Article URL: https://www.wfyi.org/news/articles/purdue-university-adds-ai-learning-requirement-for-incoming-students Comments URL: https://news.ycombinator.com/item?id=46571899 Points: 3 # Comments: 1",
-      "url": "https://www.wfyi.org/news/articles/purdue-university-adds-ai-learning-requirement-for-incoming-students",
-      "image": "https://www.wfyi.org/files/wfyi/articles/original/purdue-benthorp.jpg",
-      "date": "2026-01-11T01:35:46+00:00"
-    },
-    {
-      "title": "Employees Are Using AI",
-      "summary": "Article URL: https://guardianhealth.dev/blog/employees-already-using-ai/ Comments URL: https://news.ycombinator.com/item?id=46571543 Points: 1 # Comments: 2",
-      "url": "https://guardianhealth.dev/blog/employees-already-using-ai/",
-      "image": "https://guardianhealth.dev/blog/employees-using-ai.jpg",
-      "date": "2026-01-11T00:40:57+00:00"
-    },
-    {
-      "title": "AI Won't Kill Open Source – It Will Amplify It",
-      "summary": "Article URL: https://petabridge.com/blog/ai-wont-kill-open-source/ Comments URL: https://news.ycombinator.com/item?id=46571441 Points: 3 # Comments: 0",
-      "url": "https://petabridge.com/blog/ai-wont-kill-open-source/",
-      "image": "https://hcti.io/v1/image/133ae5fdb357269cefb4ca0c4b35583207c3cbba0985e4351cd559e6c1a1f3d8",
-      "date": "2026-01-11T00:26:16+00:00"
-    },
-    {
-      "title": "Sakana AI Agent Wins AtCoder Heuristic Contest (First AI to Place First)",
-      "summary": "Article URL: https://sakana.ai/ahc058/ Comments URL: https://news.ycombinator.com/item?id=46571404 Points: 1 # Comments: 0",
-      "url": "https://sakana.ai/ahc058/",
-      "image": "https://sakana.ai/assets/home/sakana_rect.png",
-      "date": "2026-01-11T00:21:13+00:00"
-    },
-    {
-      "title": "The Three AI Bets",
-      "summary": "Article URL: https://alearningaday.blog/2026/01/10/the-three-ai-bets/ Comments URL: https://news.ycombinator.com/item?id=46571367 Points: 1 # Comments: 0",
-      "url": "https://alearningaday.blog/2026/01/10/the-three-ai-bets/",
-      "image": "https://alearningaday.blog/wp-content/uploads/2017/05/cropped-alearningadaylogov6.png?w=200",
-      "date": "2026-01-11T00:16:05+00:00"
-    },
-    {
-      "title": "Show HN: GlyphLang – An AI-first programming language",
-      "summary": "While working on a proof of concept project, I kept hitting Claude's token limit 30-60 minutes into their 5-hour sessions. The accumulating context from the codebase was eating through tokens fast. So I built a language designed to be generated by AI rather than written by humans. GlyphLang GlyphLang replaces verbose keywords with symbols that tokenize more efficiently: # Python\n  @app.route('/users/')\n  def get_user(id):\n      user = db.query(\"SELECT * FROM users WHERE id = ?\", id)\n      return jsonify(user)\n\n  # GlyphLang\n  @ GET /users/:id {\n    $ user = db.query(\"SELECT * FROM users WHERE id = ?\", id)\n    > user\n  }\n\n  @ = route, $ = variable, > = return. Initial benchmarks show ~45% fewer tokens than Python, ~63% fewer than Java. In practice, that means more logic fits in context, and sessions stretch longer before hitting limits. The AI maintains a broader view of your codebase throughout. Before anyone asks: no, this isn't APL with extra steps. APL, Perl, and Forth are symbol-heavy but optimized for mathematical notation, human terseness, or machine efficiency. GlyphLang is specifically optimized for how modern LLMs tokenize. It's designed to be generated by AI and reviewed by humans, not the other way around. That said, it's still readable enough to be written or tweaked if the occasion requires. It's still a work in progress, but it's a usable language with a bytecode compiler, JIT, LSP, VS Code extension, PostgreSQL, WebSockets, async/await, generics. Docs: https://glyphlang.dev/docs GitHub: https://github.com/GlyphLang/GlyphLang Comments URL: https://news.ycombinator.com/item?id=46571166 Points: 23 # Comments: 15",
-      "url": "https://news.ycombinator.com/item?id=46571166",
-      "image": "",
-      "date": "2026-01-10T23:46:58+00:00"
-    },
-    {
-      "title": "Ask HN: If AI wins, don't AI companies lose?",
-      "summary": "Let's play it out in the case of software engineers. 100 SWEs all running Claude Code. Okay, company is 10x more productive than before. Now, company cuts 90% of SWEs because AI makes 10 engineers as productive as 100 engineers. Yay, company saves 90% of engineering costs. But now, 10 engineers run Claude Code. And now Claude revenue drops by 10x multiple? So if AI gets good, it will reduce the very engineering headcount that AI companies depend on, right? Comments URL: https://news.ycombinator.com/item?id=46570849 Points: 2 # Comments: 9",
-      "url": "https://news.ycombinator.com/item?id=46570849",
-      "image": "",
-      "date": "2026-01-10T23:02:48+00:00"
+      "title": "Google introduces personalised shopping ads to AI tools",
+      "summary": "Article URL: https://www.ft.com/content/957c7438-b2e0-4605-a276-caa8a7ec363c Comments URL: https://news.ycombinator.com/item?id=46581071 Points: 2 # Comments: 0",
+      "url": "https://www.ft.com/content/957c7438-b2e0-4605-a276-caa8a7ec363c",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2a8fb71-96b1-469f-8433-6622b94675a4.jpg?source=next-barrier-page",
+      "date": "2026-01-11T22:31:09+00:00"
     }
   ]
 }
