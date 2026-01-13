@@ -1,61 +1,96 @@
 {
-  "generated_at": "2026-01-12T06:54:20.573423+00:00",
+  "generated_at": "2026-01-13T06:50:35.595383+00:00",
   "items": [
     {
-      "title": "Demystifying Evals for AI Agents",
-      "summary": "Article URL: https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=46584981 Points: 1 # Comments: 0",
-      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/412be842c5c6bae6b4bcd515c191b0aa5015e05f-2400x1260.png",
-      "date": "2026-01-12T06:51:25+00:00"
-    },
-    {
-      "title": "AI Can Code (But It Doesn't Care About Quality)",
-      "summary": "Article URL: https://blog.discourse.org/2026/01/ai-can-code-but-it-doesnt-care-about-quality/ Comments URL: https://news.ycombinator.com/item?id=46584921 Points: 1 # Comments: 0",
-      "url": "https://blog.discourse.org/2026/01/ai-can-code-but-it-doesnt-care-about-quality/",
-      "image": "https://blog.discourse.org/content/images/size/w1200/2026/01/Climb-2-2.png",
-      "date": "2026-01-12T06:43:47+00:00"
-    },
-    {
-      "title": "Are the YouTube channel Courts and Crimes's shorts AI-generated deep fakes?",
-      "summary": "Article URL: https://skeptics.stackexchange.com/questions/60423/are-the-youtube-channel-courts-crimess-shorts-ai-generated-deep-fakes Comments URL: https://news.ycombinator.com/item?id=46584555 Points: 2 # Comments: 0",
-      "url": "https://skeptics.stackexchange.com/questions/60423/are-the-youtube-channel-courts-crimess-shorts-ai-generated-deep-fakes",
-      "image": "https://skeptics.stackexchange.com/Content/Sites/skeptics/Img/apple-touch-icon@2.png?v=84eb07e70fd7",
-      "date": "2026-01-12T05:46:59+00:00"
-    },
-    {
-      "title": "Ask HN: Has anyone built payment flows inside AI voice calls?",
-      "summary": "Hey HN, We originally were building vertical voice agents for fitness centers. During customer conversations, the idea of collecting payment during the call (via SMS link, keypad, or voice) would sometimes come up as something that might be useful. We’re trying to understand how people have approached this in practice. If you’ve worked on production voice systems or payments, I had a few questions:\n1) Have you implemented in-call payment flows?\n2) What tradeoffs or issues did you run into (compliance, reliability, etc.)?\n3) Was it something customers actually used, or mostly ignored? We also noticed a YC F24 company (Protegee) explored this space and later pivoted, which makes us curious what lessons people took away from that generation of attempts. Appreciate any real-world experience or pointers. We’re trying to learn from folks who’ve actually shipped this. Comments URL: https://news.ycombinator.com/item?id=46584015 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46584015",
+      "title": "The Startup Making Human Embryos with AI-Assisted Robots",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-01-09/conceivable-wants-embryo-making-robots-to-transform-ivf-industry Comments URL: https://news.ycombinator.com/item?id=46597945 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/features/2026-01-09/conceivable-wants-embryo-making-robots-to-transform-ivf-industry",
       "image": "",
-      "date": "2026-01-12T04:12:50+00:00"
+      "date": "2026-01-13T06:47:03+00:00"
     },
     {
-      "title": "Ask HN: How to automate aesthetic photo cropping? (CV/AI)",
-      "summary": "Hi everyone, I am a backend developer currently engineering an in-house automation tool for a K-pop merchandise production company (photocards, postcards, etc.). I have built an MVP using Python (FastAPI) + Libvips + InsightFace to automate the process where designers previously had to manually crop thousands of high-resolution photos using Illustrator. While basic face detection and image quality preservation (CMYK conversion, etc.) are successful, I am hitting a bottleneck in automating the \"Designer's Sense (Vibe/Aesthetics).\" [Current Stack & Workflow] Tech Stack: Python 3.11, FastAPI, Libvips (Processing), InsightFace (Landmark Detection). Workflow: Bulk Upload $\\rightarrow$ Landmark Extraction (InsightFace) $\\rightarrow$ Auto-crop based on pre-defined ratios $\\rightarrow$ Human-in-the-loop fine-tuning via Web UI. [The Challenges] Mechanical Logic vs. Aesthetic Crop Simple centering logic fails to capture the \"perfect shot\" for K-pop idols who often have dynamic poses or varying camera angles. Issue: Even if the landmarks are mathematically centered, the resulting headroom is often inconsistent, or the chin is awkwardly cut off. The output lacks visual stability compared to a human designer's work. Need for Reference-Based One-Shot Style Transfer Clients often provide a single \"Guide Image\" and ask, \"Crop the rest of the 5,000 photos with this specific feel.\" (e.g., a tight face-filling close-up vs. a spacious upper-body shot). Goal: Instead of designers manually guessing the ratio, I want the AI to reverse-engineer the composition (face-to-canvas ratio, relative position) from that one sample image and apply it dynamically to the rest of the batch. [Questions] Q1. Direction for Improving Aesthetic Composition Is it more practical to refine Rule-based Heuristics (e.g., fixing eye position to the top 30% with complex conditionals), or should I look into \"Aesthetic Quality Assessment (AQA)\" or \"Saliency Detection\" models to score and select the best crop? As of 2026, what is the most efficient, production-ready approach for this? Q2. One-Shot Composition Transfer Are there any known algorithms or libraries that can extract the \"compositional style\" (relative position of eyes/nose/mouth regarding the canvas frame) from a single reference image and apply it to target images? I am looking for keywords or papers related to \"One-shot learning for layout/composition\" or \"Content-aware cropping based on reference.\" Any keywords, papers, or architectural advice from those who have tackled similar problems in production would be greatly appreciated. Thanks in advance. Comments URL: https://news.ycombinator.com/item?id=46583569 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46583569",
+      "title": "AI can now 'see' optical illusions. What does it tell us about our own brains?",
+      "summary": "Article URL: https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions Comments URL: https://news.ycombinator.com/item?id=46597794 Points: 2 # Comments: 0",
+      "url": "https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0mt4jj0.jpg",
+      "date": "2026-01-13T06:14:43+00:00"
+    },
+    {
+      "title": "Hippocratic AI Acquires Grove AI",
+      "summary": "Article URL: https://www.fiercehealthcare.com/ai-and-machine-learning/jpm26-hippocratic-ai-acquires-grove-ai-taps-life-sciences-leaders-focus Comments URL: https://news.ycombinator.com/item?id=46597529 Points: 1 # Comments: 0",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/jpm26-hippocratic-ai-acquires-grove-ai-taps-life-sciences-leaders-focus",
+      "image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2227081216.jpg?VersionId=Om9JJqkiMIVo7RGEq43krEc5nmzQCLNR",
+      "date": "2026-01-13T05:19:27+00:00"
+    },
+    {
+      "title": "Ask HN: How can we make use of AI agents with existing GitLab CI/CD pipelines?",
+      "summary": "We currently utilize GitLab CI/CD pipelines to deploy our Kubernetes clusters. I am planning to integrate AI agents to gather cluster-related data and automate the deployment process. I am considering two primary approaches: Replacing GitLab CI/CD with Agentic Workflows: Is this a reliable strategy? With GitLab, we can easily rerun a pipeline from the point of failure after fixing an issue. I am concerned that agentic workflows might lack this granular state management and retry capability. Invoking GitLab CI/CD via Agents: In this scenario, the agent would trigger the GitLab API to start a pipeline or job. However, this seems to add more complexity than simply triggering them manually. How can I implement this efficiently? Ultimately, my goal is to use agents to eliminate manual pre-pipeline preparation and to have them autonomously analyze and fix errors when a pipeline fails. Has anyone successfully implemented AI agents for this purpose? Comments URL: https://news.ycombinator.com/item?id=46597509 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46597509",
       "image": "",
-      "date": "2026-01-12T03:10:15+00:00"
+      "date": "2026-01-13T05:13:47+00:00"
     },
     {
-      "title": "AI models were given four weeks of therapy: the results worried researchers",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-04112-2 Comments URL: https://news.ycombinator.com/item?id=46582625 Points: 3 # Comments: 4",
-      "url": "https://www.nature.com/articles/d41586-025-04112-2",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04112-2/d41586-025-04112-2_51921474.jpg",
-      "date": "2026-01-12T01:25:47+00:00"
-    },
-    {
-      "title": "Ethical Principles in the Creation of Artificial Minds",
-      "summary": "Article URL: https://nickbostrom.com/ethics/aiethics Comments URL: https://news.ycombinator.com/item?id=46581712 Points: 2 # Comments: 0",
-      "url": "https://nickbostrom.com/ethics/aiethics",
+      "title": "Meta unveils 'Meta Compute' initiative to build AI infrastructure",
+      "summary": "Article URL: https://www.reuters.com/technology/meta-build-gigawatt-scale-computing-capacity-under-meta-compute-effort-2026-01-12/ Comments URL: https://news.ycombinator.com/item?id=46597396 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/technology/meta-build-gigawatt-scale-computing-capacity-under-meta-compute-effort-2026-01-12/",
       "image": "",
-      "date": "2026-01-11T23:34:53+00:00"
+      "date": "2026-01-13T04:44:14+00:00"
     },
     {
-      "title": "Google introduces personalised shopping ads to AI tools",
-      "summary": "Article URL: https://www.ft.com/content/957c7438-b2e0-4605-a276-caa8a7ec363c Comments URL: https://news.ycombinator.com/item?id=46581071 Points: 2 # Comments: 0",
-      "url": "https://www.ft.com/content/957c7438-b2e0-4605-a276-caa8a7ec363c",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb2a8fb71-96b1-469f-8433-6622b94675a4.jpg?source=next-barrier-page",
-      "date": "2026-01-11T22:31:09+00:00"
+      "title": "Anthropic Shipped Cowork in 10 Days Using Its Own AI",
+      "summary": "Article URL: https://karozieminski.substack.com/p/claude-cowork-anthropic-product-deep-dive Comments URL: https://news.ycombinator.com/item?id=46597364 Points: 4 # Comments: 0",
+      "url": "https://karozieminski.substack.com/p/claude-cowork-anthropic-product-deep-dive",
+      "image": "",
+      "date": "2026-01-13T04:35:39+00:00"
+    },
+    {
+      "title": "Database Development with AI in 2026",
+      "summary": "Article URL: https://www.brentozar.com/archive/2026/01/database-development-with-ai-in-2026/ Comments URL: https://news.ycombinator.com/item?id=46597332 Points: 3 # Comments: 0",
+      "url": "https://www.brentozar.com/archive/2026/01/database-development-with-ai-in-2026/",
+      "image": "https://www.brentozar.com/wp-content/uploads/2025/12/database-development-with-ai-in-2026-1766442234.png?omgimg",
+      "date": "2026-01-13T04:30:04+00:00"
+    },
+    {
+      "title": "DataOlllo: Private AI Data Analyst",
+      "summary": "Article URL: https://apps.microsoft.com/detail/9nc4vdmwgxd8?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=46597167 Points: 1 # Comments: 1",
+      "url": "https://apps.microsoft.com/detail/9nc4vdmwgxd8?hl=en-US&gl=US",
+      "image": "https://store-images.s-microsoft.com/image/apps.33059.13574910206681255.611f7814-7118-4604-bb60-d38343937028.84d675f6-9e8f-4730-85b1-953ad95c00a8",
+      "date": "2026-01-13T03:53:04+00:00"
+    },
+    {
+      "title": "Ask HN: Only people who work in scientific research, how you benefit from AI",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46597018 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46597018",
+      "image": "",
+      "date": "2026-01-13T03:24:47+00:00"
+    },
+    {
+      "title": "America's Biggest Power Grid Operator Has an AI Problem–Too Many Data Centers",
+      "summary": "Article URL: https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296 Comments URL: https://news.ycombinator.com/item?id=46596912 Points: 6 # Comments: 1",
+      "url": "https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296",
+      "image": "",
+      "date": "2026-01-13T03:05:44+00:00"
+    },
+    {
+      "title": "The Benjamin Button Effect: Software Careers in the Age of AI",
+      "summary": "Article URL: https://softwareguru.substack.com/p/the-benjamin-button-effect-software Comments URL: https://news.ycombinator.com/item?id=46596882 Points: 2 # Comments: 2",
+      "url": "https://softwareguru.substack.com/p/the-benjamin-button-effect-software",
+      "image": "",
+      "date": "2026-01-13T03:00:34+00:00"
+    },
+    {
+      "title": "Ask HN: How are you using AI to self-augment?",
+      "summary": "curious what sorts of stuff people are doing to hack themselves, specifically their mind. any tips or tricks you've found that are working for you? i've just been making little podcasts for myself as a sort of \"audio ankii\". Comments URL: https://news.ycombinator.com/item?id=46596243 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46596243",
+      "image": "",
+      "date": "2026-01-13T01:11:37+00:00"
+    },
+    {
+      "title": "Yes, You Can Use AI in Our Interviews. In Fact, We Insist",
+      "summary": "Article URL: https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/ Comments URL: https://news.ycombinator.com/item?id=46596045 Points: 1 # Comments: 3",
+      "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/",
+      "image": "https://www.canva.dev/_next/static/media/thumbnail.1c7590f6.png",
+      "date": "2026-01-13T00:45:24+00:00"
     }
   ]
 }
