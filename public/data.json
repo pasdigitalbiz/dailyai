@@ -1,96 +1,117 @@
 {
-  "generated_at": "2026-01-13T06:50:35.595383+00:00",
+  "generated_at": "2026-01-14T06:50:57.116090+00:00",
   "items": [
     {
-      "title": "The Startup Making Human Embryos with AI-Assisted Robots",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-01-09/conceivable-wants-embryo-making-robots-to-transform-ivf-industry Comments URL: https://news.ycombinator.com/item?id=46597945 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/features/2026-01-09/conceivable-wants-embryo-making-robots-to-transform-ivf-industry",
+      "title": "The Joy of Not Learning: How AI Saves My Hobby Projects",
+      "summary": "Article URL: https://harichetlur.com/blog/the-joy-of-not-learning-how-ai-saves-my-hobby-projects/ Comments URL: https://news.ycombinator.com/item?id=46613018 Points: 2 # Comments: 1",
+      "url": "https://harichetlur.com/blog/the-joy-of-not-learning-how-ai-saves-my-hobby-projects/",
       "image": "",
-      "date": "2026-01-13T06:47:03+00:00"
+      "date": "2026-01-14T06:31:46+00:00"
     },
     {
-      "title": "AI can now 'see' optical illusions. What does it tell us about our own brains?",
-      "summary": "Article URL: https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions Comments URL: https://news.ycombinator.com/item?id=46597794 Points: 2 # Comments: 0",
-      "url": "https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0mt4jj0.jpg",
-      "date": "2026-01-13T06:14:43+00:00"
-    },
-    {
-      "title": "Hippocratic AI Acquires Grove AI",
-      "summary": "Article URL: https://www.fiercehealthcare.com/ai-and-machine-learning/jpm26-hippocratic-ai-acquires-grove-ai-taps-life-sciences-leaders-focus Comments URL: https://news.ycombinator.com/item?id=46597529 Points: 1 # Comments: 0",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/jpm26-hippocratic-ai-acquires-grove-ai-taps-life-sciences-leaders-focus",
-      "image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2227081216.jpg?VersionId=Om9JJqkiMIVo7RGEq43krEc5nmzQCLNR",
-      "date": "2026-01-13T05:19:27+00:00"
-    },
-    {
-      "title": "Ask HN: How can we make use of AI agents with existing GitLab CI/CD pipelines?",
-      "summary": "We currently utilize GitLab CI/CD pipelines to deploy our Kubernetes clusters. I am planning to integrate AI agents to gather cluster-related data and automate the deployment process. I am considering two primary approaches: Replacing GitLab CI/CD with Agentic Workflows: Is this a reliable strategy? With GitLab, we can easily rerun a pipeline from the point of failure after fixing an issue. I am concerned that agentic workflows might lack this granular state management and retry capability. Invoking GitLab CI/CD via Agents: In this scenario, the agent would trigger the GitLab API to start a pipeline or job. However, this seems to add more complexity than simply triggering them manually. How can I implement this efficiently? Ultimately, my goal is to use agents to eliminate manual pre-pipeline preparation and to have them autonomously analyze and fix errors when a pipeline fails. Has anyone successfully implemented AI agents for this purpose? Comments URL: https://news.ycombinator.com/item?id=46597509 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46597509",
+      "title": "Ask HN: How to find gaps and oppurtunities in the AI era?",
+      "summary": "How to find the gaps and opportunities that can i build and earn some money to do some better? Comments URL: https://news.ycombinator.com/item?id=46612945 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46612945",
       "image": "",
-      "date": "2026-01-13T05:13:47+00:00"
+      "date": "2026-01-14T06:19:29+00:00"
     },
     {
-      "title": "Meta unveils 'Meta Compute' initiative to build AI infrastructure",
-      "summary": "Article URL: https://www.reuters.com/technology/meta-build-gigawatt-scale-computing-capacity-under-meta-compute-effort-2026-01-12/ Comments URL: https://news.ycombinator.com/item?id=46597396 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/technology/meta-build-gigawatt-scale-computing-capacity-under-meta-compute-effort-2026-01-12/",
+      "title": "Incomputable Language: An Essay on AI",
+      "summary": "Article URL: https://www.eruditorumpress.com/blog/on-incomputable-language-an-essay-on-ai Comments URL: https://news.ycombinator.com/item?id=46612899 Points: 1 # Comments: 0",
+      "url": "https://www.eruditorumpress.com/blog/on-incomputable-language-an-essay-on-ai",
+      "image": "https://www.eruditorumpress.com/wp-content/uploads/2025/11/Alan_turing_header.jpg",
+      "date": "2026-01-14T06:10:55+00:00"
+    },
+    {
+      "title": "AI Reliance Logging",
+      "summary": "Article URL: https://zenodo.org/records/18239999 Comments URL: https://news.ycombinator.com/item?id=46612888 Points: 1 # Comments: 1",
+      "url": "https://zenodo.org/records/18239999",
       "image": "",
-      "date": "2026-01-13T04:44:14+00:00"
+      "date": "2026-01-14T06:09:28+00:00"
     },
     {
-      "title": "Anthropic Shipped Cowork in 10 Days Using Its Own AI",
-      "summary": "Article URL: https://karozieminski.substack.com/p/claude-cowork-anthropic-product-deep-dive Comments URL: https://news.ycombinator.com/item?id=46597364 Points: 4 # Comments: 0",
-      "url": "https://karozieminski.substack.com/p/claude-cowork-anthropic-product-deep-dive",
+      "title": "Developer writes script to throw AI out of Windows",
+      "summary": "Article URL: https://www.theregister.com/2026/01/13/script_removes_ai_from_windows/ Comments URL: https://news.ycombinator.com/item?id=46612589 Points: 1 # Comments: 1",
+      "url": "https://www.theregister.com/2026/01/13/script_removes_ai_from_windows/",
+      "image": "https://regmedia.co.uk/2026/01/13/shutterstock_developer_says_no.jpg",
+      "date": "2026-01-14T05:14:08+00:00"
+    },
+    {
+      "title": "Why India's plan to make AI companies pay for training data should go global",
+      "summary": "Article URL: https://restofworld.org/2026/india-ai-data-license-fee/ Comments URL: https://news.ycombinator.com/item?id=46612535 Points: 4 # Comments: 0",
+      "url": "https://restofworld.org/2026/india-ai-data-license-fee/",
+      "image": "https://restofworld.org/wp-content/uploads/2026/01/IndiaBrazil_Payment_sketch-1600x900.jpg",
+      "date": "2026-01-14T05:04:04+00:00"
+    },
+    {
+      "title": "Artificial StupidIntelligence and Airport Sinks",
+      "summary": "Article URL: https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/ Comments URL: https://news.ycombinator.com/item?id=46612498 Points: 1 # Comments: 0",
+      "url": "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/",
       "image": "",
-      "date": "2026-01-13T04:35:39+00:00"
+      "date": "2026-01-14T04:56:21+00:00"
     },
     {
-      "title": "Database Development with AI in 2026",
-      "summary": "Article URL: https://www.brentozar.com/archive/2026/01/database-development-with-ai-in-2026/ Comments URL: https://news.ycombinator.com/item?id=46597332 Points: 3 # Comments: 0",
-      "url": "https://www.brentozar.com/archive/2026/01/database-development-with-ai-in-2026/",
-      "image": "https://www.brentozar.com/wp-content/uploads/2025/12/database-development-with-ai-in-2026-1766442234.png?omgimg",
-      "date": "2026-01-13T04:30:04+00:00"
+      "title": "Building Threat Models with MCP and AI Agents",
+      "summary": "Article URL: https://www.detectionatscale.com/p/threat-modeling-ai-agents-mcp Comments URL: https://news.ycombinator.com/item?id=46612094 Points: 3 # Comments: 0",
+      "url": "https://www.detectionatscale.com/p/threat-modeling-ai-agents-mcp",
+      "image": "https://substackcdn.com/image/fetch/$s_!MXKy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bbe933d-48ed-4edd-93e3-4d7ca5e1ba1d_2400x1350.jpeg",
+      "date": "2026-01-14T03:48:21+00:00"
     },
     {
-      "title": "DataOlllo: Private AI Data Analyst",
-      "summary": "Article URL: https://apps.microsoft.com/detail/9nc4vdmwgxd8?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=46597167 Points: 1 # Comments: 1",
-      "url": "https://apps.microsoft.com/detail/9nc4vdmwgxd8?hl=en-US&gl=US",
-      "image": "https://store-images.s-microsoft.com/image/apps.33059.13574910206681255.611f7814-7118-4604-bb60-d38343937028.84d675f6-9e8f-4730-85b1-953ad95c00a8",
-      "date": "2026-01-13T03:53:04+00:00"
-    },
-    {
-      "title": "Ask HN: Only people who work in scientific research, how you benefit from AI",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46597018 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46597018",
+      "title": "AI will compromise your cybersecurity posture",
+      "summary": "Article URL: https://rys.io/en/181.html Comments URL: https://news.ycombinator.com/item?id=46612001 Points: 24 # Comments: 11",
+      "url": "https://rys.io/en/181.html",
       "image": "",
-      "date": "2026-01-13T03:24:47+00:00"
+      "date": "2026-01-14T03:35:35+00:00"
     },
     {
-      "title": "America's Biggest Power Grid Operator Has an AI Problem–Too Many Data Centers",
-      "summary": "Article URL: https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296 Comments URL: https://news.ycombinator.com/item?id=46596912 Points: 6 # Comments: 1",
-      "url": "https://www.wsj.com/business/energy-oil/power-grid-ai-data-centers-1235f296",
+      "title": "Matthew McConaughey Trademarks Himself to Fight AI Misuse",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9 Comments URL: https://news.ycombinator.com/item?id=46611949 Points: 9 # Comments: 2",
+      "url": "https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9",
       "image": "",
-      "date": "2026-01-13T03:05:44+00:00"
+      "date": "2026-01-14T03:28:00+00:00"
     },
     {
-      "title": "The Benjamin Button Effect: Software Careers in the Age of AI",
-      "summary": "Article URL: https://softwareguru.substack.com/p/the-benjamin-button-effect-software Comments URL: https://news.ycombinator.com/item?id=46596882 Points: 2 # Comments: 2",
-      "url": "https://softwareguru.substack.com/p/the-benjamin-button-effect-software",
+      "title": "Meta cutting ~1500 VR/AR positions to focus on AI",
+      "summary": "Article URL: https://gizmodo.com/meta-reportedly-cutting-about-1500-vr-and-ar-jobs-amid-renewed-push-to-become-an-ai-juggernaut-2000708826 Comments URL: https://news.ycombinator.com/item?id=46611843 Points: 3 # Comments: 3",
+      "url": "https://gizmodo.com/meta-reportedly-cutting-about-1500-vr-and-ar-jobs-amid-renewed-push-to-become-an-ai-juggernaut-2000708826",
+      "image": "https://gizmodo.com/app/uploads/2026/01/meta-quest-1200x675.jpg",
+      "date": "2026-01-14T03:11:17+00:00"
+    },
+    {
+      "title": "Death by AI Gibberish",
+      "summary": "Article URL: https://elocination.substack.com/p/death-by-ai-gibberish Comments URL: https://news.ycombinator.com/item?id=46611779 Points: 4 # Comments: 0",
+      "url": "https://elocination.substack.com/p/death-by-ai-gibberish",
       "image": "",
-      "date": "2026-01-13T03:00:34+00:00"
+      "date": "2026-01-14T03:03:08+00:00"
     },
     {
-      "title": "Ask HN: How are you using AI to self-augment?",
-      "summary": "curious what sorts of stuff people are doing to hack themselves, specifically their mind. any tips or tricks you've found that are working for you? i've just been making little podcasts for myself as a sort of \"audio ankii\". Comments URL: https://news.ycombinator.com/item?id=46596243 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46596243",
+      "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+      "summary": "Article URL: https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/ Comments URL: https://news.ycombinator.com/item?id=46611051 Points: 10 # Comments: 1",
+      "url": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/electronic-privacy-invasion-1152x648.jpg",
+      "date": "2026-01-14T01:11:43+00:00"
+    },
+    {
+      "title": "AI Tools: Image Generation, Video Creation, Website Builders (2026)",
+      "summary": "Article URL: https://curateclick.com/blog/2026-best-ai-tools-websites Comments URL: https://news.ycombinator.com/item?id=46610931 Points: 2 # Comments: 1",
+      "url": "https://curateclick.com/blog/2026-best-ai-tools-websites",
       "image": "",
-      "date": "2026-01-13T01:11:37+00:00"
+      "date": "2026-01-14T00:57:23+00:00"
     },
     {
-      "title": "Yes, You Can Use AI in Our Interviews. In Fact, We Insist",
-      "summary": "Article URL: https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/ Comments URL: https://news.ycombinator.com/item?id=46596045 Points: 1 # Comments: 3",
-      "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/",
-      "image": "https://www.canva.dev/_next/static/media/thumbnail.1c7590f6.png",
-      "date": "2026-01-13T00:45:24+00:00"
+      "title": "StackChan is a cute, community-build, open-source AI desktop robot(Crowdfunding)",
+      "summary": "Article URL: https://www.cnx-software.com/2026/01/13/m5stack-stackchan-is-a-cute-open-source-ai-desktop-robot/ Comments URL: https://news.ycombinator.com/item?id=46610796 Points: 2 # Comments: 0",
+      "url": "https://www.cnx-software.com/2026/01/13/m5stack-stackchan-is-a-cute-open-source-ai-desktop-robot/",
+      "image": "https://www.cnx-software.com/wp-content/uploads/2026/01/M5Stack-Stackchan.jpg",
+      "date": "2026-01-14T00:42:56+00:00"
+    },
+    {
+      "title": "CoreWeave Overhyped AI Computing Capacity After IPO, Suit Says",
+      "summary": "Article URL: https://news.bloomberglaw.com/securities-law/coreweave-overhyped-ai-computing-capacity-after-ipo-suit-says Comments URL: https://news.ycombinator.com/item?id=46610740 Points: 4 # Comments: 0",
+      "url": "https://news.bloomberglaw.com/securities-law/coreweave-overhyped-ai-computing-capacity-after-ipo-suit-says",
+      "image": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e8da59f/2147483647/crop/957x369+0+0/resize/960x370%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F73%2F7f%2F1cba4e124557984f4e903b03526c%2Fblwlegalintel-gavel-002.png",
+      "date": "2026-01-14T00:36:12+00:00"
     }
   ]
 }
