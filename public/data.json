@@ -1,96 +1,110 @@
 {
-  "generated_at": "2026-01-15T06:50:53.987210+00:00",
+  "generated_at": "2026-01-16T06:50:09.119315+00:00",
   "items": [
     {
-      "title": "Open Source AI Impact: Japan's Draft \"Principle-Code\"",
-      "summary": "Article URL: https://discuss.opensource.org/t/open-source-ai-impact-japan-s-draft-principle-code-comments-open-until-jan-26-jst/1354 Comments URL: https://news.ycombinator.com/item?id=46628964 Points: 1 # Comments: 0",
-      "url": "https://discuss.opensource.org/t/open-source-ai-impact-japan-s-draft-principle-code-comments-open-until-jan-26-jst/1354",
-      "image": "https://canada1.discourse-cdn.com/flex011/uploads/opensource2/optimized/1X/24bfb5301ce3a7cb8c860735b8191ae2d59887e8_2_1024x537.jpeg",
-      "date": "2026-01-15T06:49:37+00:00"
-    },
-    {
-      "title": "What If Your AI Never Forgot? The Claude 4 Memory Experiment",
-      "summary": "Article URL: https://www.gptfrontier.com/what-if-your-ai-never-forgot-the-claude-4-memory-experiment/ Comments URL: https://news.ycombinator.com/item?id=46628919 Points: 1 # Comments: 0",
-      "url": "https://www.gptfrontier.com/what-if-your-ai-never-forgot-the-claude-4-memory-experiment/",
-      "image": "https://www.gptfrontier.com/content/images/2025/05/Capture-12-1.PNG",
-      "date": "2026-01-15T06:43:12+00:00"
-    },
-    {
-      "title": "End of AI Amnesia? Understand the Tech Behind Google's \"Titans\" Permanent Mind",
-      "summary": "Article URL: https://www.gptfrontier.com/the-end-of-ai-amnesia-why-googles-titans-are-the-blueprint-for-a-permanent-digital-mind/ Comments URL: https://news.ycombinator.com/item?id=46628847 Points: 2 # Comments: 1",
-      "url": "https://www.gptfrontier.com/the-end-of-ai-amnesia-why-googles-titans-are-the-blueprint-for-a-permanent-digital-mind/",
-      "image": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
-      "date": "2026-01-15T06:33:42+00:00"
-    },
-    {
-      "title": "China's Zhipu Unveils New AI Model Trained on Huawei's Chips",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips Comments URL: https://news.ycombinator.com/item?id=46628511 Points: 3 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips",
+      "title": "Chinese AI Developers Say They Can't Beat America Without Better Chips",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/china-ai-race-us-chips-9e74b957 Comments URL: https://news.ycombinator.com/item?id=46643701 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/china-ai-race-us-chips-9e74b957",
       "image": "",
-      "date": "2026-01-15T05:42:23+00:00"
+      "date": "2026-01-16T06:46:50+00:00"
     },
     {
-      "title": "Here comes the advertising in AI chatbots",
-      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/01/13/advertising-google-ai-mode-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=46628182 Points: 8 # Comments: 2",
-      "url": "https://www.washingtonpost.com/technology/2026/01/13/advertising-google-ai-mode-chatgpt/",
+      "title": "Decoding Academic Papers with AI: A Practical Guide",
+      "summary": "Article URL: https://joshtuddenham.dev/blog/hashmaps/ Comments URL: https://news.ycombinator.com/item?id=46643694 Points: 1 # Comments: 0",
+      "url": "https://joshtuddenham.dev/blog/hashmaps/",
+      "image": "https://joshtuddenham.dev/og-image.jpg",
+      "date": "2026-01-16T06:45:03+00:00"
+    },
+    {
+      "title": "The Executive Assistant Paradox: Why AI Makes This Role Critical, Not Obsolete",
+      "summary": "Article URL: https://vleech.substack.com/p/the-executive-assistant-paradox-why Comments URL: https://news.ycombinator.com/item?id=46643261 Points: 4 # Comments: 0",
+      "url": "https://vleech.substack.com/p/the-executive-assistant-paradox-why",
       "image": "",
-      "date": "2026-01-15T04:50:00+00:00"
+      "date": "2026-01-16T05:22:03+00:00"
     },
     {
-      "title": "Microsoft's spending on Anthropic AI on track to reach $500M",
-      "summary": "Article URL: https://www.msn.com/en-us/money/other/microsoft-s-spending-on-anthropic-ai-on-track-to-reach-500m-report/ar-AA1UcU14 Comments URL: https://news.ycombinator.com/item?id=46627994 Points: 3 # Comments: 1",
-      "url": "https://www.msn.com/en-us/money/other/microsoft-s-spending-on-anthropic-ai-on-track-to-reach-500m-report/ar-AA1UcU14",
+      "title": "AI as a Compression Problem",
+      "summary": "Article URL: https://dkg.fifthhorseman.net/blog/2025-ai-and-compression.html Comments URL: https://news.ycombinator.com/item?id=46643025 Points: 1 # Comments: 0",
+      "url": "https://dkg.fifthhorseman.net/blog/2025-ai-and-compression.html",
       "image": "",
-      "date": "2026-01-15T04:22:48+00:00"
+      "date": "2026-01-16T04:34:17+00:00"
     },
     {
-      "title": "Tell HN: AI could bring back GraphQL from the brink",
-      "summary": "With rest apis, you have to bring in documentation and such into context. With Graphql you just need the endpoint, and an API token. You can then tell the AI to explore the API to accomplish whatever goal you need. Graphql has become really useful for my work in that regard. Comments URL: https://news.ycombinator.com/item?id=46627941 Points: 4 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46627941",
+      "title": "From AI agent prototype to product: Lessons from building AWS DevOps Agent",
+      "summary": "Article URL: https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/ Comments URL: https://news.ycombinator.com/item?id=46642959 Points: 4 # Comments: 1",
+      "url": "https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/",
+      "image": "https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2026/01/14/blog-featured-image.png",
+      "date": "2026-01-16T04:19:15+00:00"
+    },
+    {
+      "title": "Eight Software Markets That AI Will Transform Differently",
+      "summary": "Article URL: https://davegriffith.substack.com/p/eight-software-markets-ai-that-will Comments URL: https://news.ycombinator.com/item?id=46642689 Points: 2 # Comments: 0",
+      "url": "https://davegriffith.substack.com/p/eight-software-markets-ai-that-will",
       "image": "",
-      "date": "2026-01-15T04:15:09+00:00"
+      "date": "2026-01-16T03:33:24+00:00"
     },
     {
-      "title": "Airbnb Taps Meta AI Executive as New Chief Technology Officer",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-01-14/airbnb-taps-meta-ai-executive-as-new-chief-technology-officer Comments URL: https://news.ycombinator.com/item?id=46627882 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-14/airbnb-taps-meta-ai-executive-as-new-chief-technology-officer",
+      "title": "The Great Filter (Or Why High Performance Eludes Most Dev Teams, Even with AI)",
+      "summary": "Article URL: https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/ Comments URL: https://news.ycombinator.com/item?id=46642439 Points: 2 # Comments: 0",
+      "url": "https://codemanship.wordpress.com/2026/01/12/the-great-filter-or-why-high-performance-still-eludes-most-dev-teams-even-with-ai/",
+      "image": "https://i0.wp.com/codemanship.wordpress.com/wp-content/uploads/2026/01/image-2-e1768221341254.png?fit=1200%2C574&ssl=1",
+      "date": "2026-01-16T02:49:26+00:00"
+    },
+    {
+      "title": "Boltz PBC Launches with $28M to Democratize AI Platforms for Drug Discovery",
+      "summary": "Article URL: https://www.genengnews.com/topics/artificial-intelligence/boltz-pbc-launches-with-28m-to-democratize-ai-platforms-for-drug-discovery/ Comments URL: https://news.ycombinator.com/item?id=46642189 Points: 1 # Comments: 0",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/boltz-pbc-launches-with-28m-to-democratize-ai-platforms-for-drug-discovery/",
+      "image": "https://www.genengnews.com/wp-content/uploads/2025/12/GettyImages-2233341375.jpg",
+      "date": "2026-01-16T02:09:47+00:00"
+    },
+    {
+      "title": "Perchance AI Story",
+      "summary": "Article URL: https://www.genstory.app/story-template/perchance-ai-story-generator Comments URL: https://news.ycombinator.com/item?id=46642153 Points: 1 # Comments: 1",
+      "url": "https://www.genstory.app/story-template/perchance-ai-story-generator",
+      "image": "https://www.genstory.app/og-image.png?v=2",
+      "date": "2026-01-16T02:03:38+00:00"
+    },
+    {
+      "title": "Ask HN: AI agents solve all your problems or do you still ask humans for help?",
+      "summary": "For what kind of problems do you still call human help for? Comments URL: https://news.ycombinator.com/item?id=46642117 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46642117",
       "image": "",
-      "date": "2026-01-15T04:07:08+00:00"
+      "date": "2026-01-16T01:58:46+00:00"
     },
     {
-      "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=46627851 Points: 3 # Comments: 3",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "image": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
-      "date": "2026-01-15T04:01:56+00:00"
+      "title": "Wikipedia Inks AI Deals with Microsoft, Meta and Perplexity",
+      "summary": "Article URL: https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 Comments URL: https://news.ycombinator.com/item?id=46641994 Points: 4 # Comments: 1",
+      "url": "https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7",
+      "image": "https://dims.apnews.com/dims4/default/ff2087e/2147483647/strip/true/crop/6941x3904+0+362/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2F3b%2Fd64bb83e6cf265aef7773a41382f%2F9b724d2ec15b4d19b747d2da60b877b6",
+      "date": "2026-01-16T01:41:57+00:00"
     },
     {
-      "title": "AI Voice Elements",
-      "summary": "Article URL: https://vercel.com/changelog/ai-voice-elements Comments URL: https://news.ycombinator.com/item?id=46627795 Points: 3 # Comments: 1",
-      "url": "https://vercel.com/changelog/ai-voice-elements",
-      "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1o6ZpsMGJwI37ugXob9qAh/827dddb253b78fd9ee1f90a92ba9f9ff/Frame_10.png",
-      "date": "2026-01-15T03:49:51+00:00"
-    },
-    {
-      "title": "AI taught me to be a better human",
-      "summary": "Article URL: https://billmei.net/blog/ai-companions Comments URL: https://news.ycombinator.com/item?id=46627334 Points: 2 # Comments: 0",
-      "url": "https://billmei.net/blog/ai-companions",
-      "image": "https://billmei.net/assets/blog/img/ai-companions--main.jpg",
-      "date": "2026-01-15T02:36:38+00:00"
-    },
-    {
-      "title": "Key US Power Grid [PJM] Cuts Demand Outlook on Overstated AI Boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-01-14/biggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom Comments URL: https://news.ycombinator.com/item?id=46627190 Points: 5 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-14/biggest-us-power-grid-cuts-demand-outlook-on-overstated-ai-boom",
+      "title": "The future of AI is voice",
+      "summary": "Article URL: https://realizeai.substack.com/p/the-future-of-ai-is-voice Comments URL: https://news.ycombinator.com/item?id=46641901 Points: 1 # Comments: 0",
+      "url": "https://realizeai.substack.com/p/the-future-of-ai-is-voice",
       "image": "",
-      "date": "2026-01-15T02:20:47+00:00"
+      "date": "2026-01-16T01:27:53+00:00"
     },
     {
-      "title": "Opinion: Why tech leaders can't regulate AI before releasing them?",
-      "summary": "Lately i've been seeing news about people calling out tech leaders for calling out AI haters. In my opinion, this is an easy situation to avoid. If you have the capacity to develop the models, and host them in thousands of square miles of AI datacenters, you should be able to regulate the models from the get go. To be compliant with the current law around the world, our common sense, and the real demand for AI. And that's exactly why Elon's Grok is being blocked in few countries. Comments URL: https://news.ycombinator.com/item?id=46626864 Points: 1 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46626864",
+      "title": "AI chatbot with Vision AI camera",
+      "summary": "Article URL: https://www.seeedstudio.com/SenseCAP-Watcher-XIAOZHI-EN-p-6532.html Comments URL: https://news.ycombinator.com/item?id=46641840 Points: 1 # Comments: 0",
+      "url": "https://www.seeedstudio.com/SenseCAP-Watcher-XIAOZHI-EN-p-6532.html",
+      "image": "https://media-cdn.seeedstudio.com/media/catalog/product/cache/7f7f32ef807b8c2c2215b49801c56084/1/0/100051523.jpg",
+      "date": "2026-01-16T01:17:58+00:00"
+    },
+    {
+      "title": "AI is great for scientists, but perhaps not for science",
+      "summary": "Article URL: https://www.programmablemutter.com/p/ai-is-great-for-scientists-perhaps Comments URL: https://news.ycombinator.com/item?id=46641723 Points: 2 # Comments: 0",
+      "url": "https://www.programmablemutter.com/p/ai-is-great-for-scientists-perhaps",
+      "image": "https://substackcdn.com/image/fetch/$s_!V1az!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60f6f5a3-e7ed-4b1c-b03b-af6de5e14610_1140x808.png",
+      "date": "2026-01-16T01:01:19+00:00"
+    },
+    {
+      "title": "Show HN: Neurop Forge – Making Every AI Action Impossible to Hide (live demo)",
+      "summary": "Article URL: https://neurop-forge.onrender.com/demo/microsoft Comments URL: https://news.ycombinator.com/item?id=46641702 Points: 1 # Comments: 2",
+      "url": "https://neurop-forge.onrender.com/demo/microsoft",
       "image": "",
-      "date": "2026-01-15T01:47:49+00:00"
+      "date": "2026-01-16T00:57:31+00:00"
     }
   ]
 }
