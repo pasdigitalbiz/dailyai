@@ -1,110 +1,89 @@
 {
-  "generated_at": "2026-01-17T06:46:03.136930+00:00",
+  "generated_at": "2026-01-18T06:46:55.113738+00:00",
   "items": [
     {
-      "title": "China blocks Nvidia H200 AI chips that US Government cleared for export – report",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report Comments URL: https://news.ycombinator.com/item?id=46655866 Points: 1 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/jan/17/china-blocks-nvidia-h200-ai-chips-that-us-government-cleared-for-export-report",
-      "image": "https://i.guim.co.uk/img/media/556599c9ac43fc0116e046d63d60319eaa4c6acf/569_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85683026ceac65654dedc7197732ea90",
-      "date": "2026-01-17T06:40:03+00:00"
+      "title": "What the future holds for AI – from the people shaping it",
+      "summary": "Article URL: https://www.nature.com/immersive/d41586-025-03701-5/index.html Comments URL: https://news.ycombinator.com/item?id=46665212 Points: 1 # Comments: 0",
+      "url": "https://www.nature.com/immersive/d41586-025-03701-5/index.html",
+      "image": "https://www.nature.com/immersive/d41586-025-03701-5/assets/kxThh2p9lj/future-of-ai-sm-1066x600.jpg",
+      "date": "2026-01-18T06:04:42+00:00"
     },
     {
-      "title": "ClickHouse valued at $15B as database analytics firm rides AI wave",
-      "summary": "Article URL: https://www.reuters.com/technology/database-management-firm-clickhouse-valued-15-billion-amid-ai-boom-2026-01-16/ Comments URL: https://news.ycombinator.com/item?id=46655833 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/technology/database-management-firm-clickhouse-valued-15-billion-amid-ai-boom-2026-01-16/",
+      "title": "AIVO Standard Operational AI Reliance Observation Protocol",
+      "summary": "Article URL: https://zenodo.org/records/18286718 Comments URL: https://news.ycombinator.com/item?id=46665088 Points: 1 # Comments: 1",
+      "url": "https://zenodo.org/records/18286718",
       "image": "",
-      "date": "2026-01-17T06:28:20+00:00"
+      "date": "2026-01-18T05:37:48+00:00"
     },
     {
-      "title": "Tyler Cowen's AI Campus",
-      "summary": "Article URL: https://arnoldkling.substack.com/p/tyler-cowens-ai-campus Comments URL: https://news.ycombinator.com/item?id=46655797 Points: 1 # Comments: 0",
-      "url": "https://arnoldkling.substack.com/p/tyler-cowens-ai-campus",
+      "title": "Why Xcode's AI Writes Better SwiftUI Than Claude Code, Codex",
+      "summary": "Article URL: https://www.ameyalambat.com/blog/swiftui-skills Comments URL: https://news.ycombinator.com/item?id=46664917 Points: 4 # Comments: 2",
+      "url": "https://www.ameyalambat.com/blog/swiftui-skills",
+      "image": "https://ameyalambat.com/api/og?title=Why%20Xcode%27s%20AI%20Writes%20Better%20SwiftUI&date=Jan%2018%2C%202026",
+      "date": "2026-01-18T05:02:27+00:00"
+    },
+    {
+      "title": "Cursor AI refusing $20 refund after 3 days of broken service",
+      "summary": "I paid $20 for Cursor Pro on Jan 14. After 3 days, tokens were exhausted and performance became unusable. I requested a refund on Jan 17 (within 7 days). Their AI bot \"Sam\" denied multiple times, then human \"Charlene\" denied saying \"reflects usage\" for 3/30 days. Now they've kicked me back to the AI bot. Is this normal SaaS practice now? 3 days = no refund for full month? Transaction: #395540957397 Comments URL: https://news.ycombinator.com/item?id=46664901 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46664901",
       "image": "",
-      "date": "2026-01-17T06:19:26+00:00"
+      "date": "2026-01-18T04:59:30+00:00"
     },
     {
-      "title": "Show HN: Local AI that knows when you're burning out",
-      "summary": "Applications open: https://humonos.com Comments URL: https://news.ycombinator.com/item?id=46655778 Points: 2 # Comments: 0",
-      "url": "https://www.humonos.com/beta",
-      "image": "https://www.humonos.com/iconicon.png",
-      "date": "2026-01-17T06:14:54+00:00"
-    },
-    {
-      "title": "Reality Is Breaking the \"AI Revolution\"",
-      "summary": "Article URL: https://www.planetearthandbeyond.co/p/reality-is-breaking-the-ai-revolution Comments URL: https://news.ycombinator.com/item?id=46655626 Points: 5 # Comments: 0",
-      "url": "https://www.planetearthandbeyond.co/p/reality-is-breaking-the-ai-revolution",
-      "image": "https://substackcdn.com/image/fetch/$s_!oDIp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25265e25-c832-4709-990c-46d6723c97b4_1600x1236.png",
-      "date": "2026-01-17T05:41:55+00:00"
-    },
-    {
-      "title": "Ask HN: Convince me on why AI matters",
-      "summary": "I’m recently exploring the HN community and trying to be familiar with it, and I have seen quite a few people speak of AI like it’s the machine gun introduced to trench warfare. And honestly I feel like I am missing something on the AI story, but watching Theprimeagen down play the hype, and seeing some people turn into mindless shells that cannot do something useful without AI, has turned me away from it. I don’t think AI is completely useless, but being completely dependent on it is another thing. I would love to hear the advantages of AI and your thoughts on it. Comments URL: https://news.ycombinator.com/item?id=46655583 Points: 1 # Comments: 4",
-      "url": "https://news.ycombinator.com/item?id=46655583",
+      "title": "AI-Powered Diabetes Analysis with GitHub Copilot and Claude Skills [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=on5R6PWj8Wg Comments URL: https://news.ycombinator.com/item?id=46664854 Points: 4 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=on5R6PWj8Wg",
       "image": "",
-      "date": "2026-01-17T05:32:52+00:00"
+      "date": "2026-01-18T04:46:35+00:00"
     },
     {
-      "title": "Global sports face challenges from 'AI slop' misinformation",
-      "summary": "Article URL: https://www.reuters.com/sports/global-sports-face-challenges-ai-slop-misinformation-2026-01-17/ Comments URL: https://news.ycombinator.com/item?id=46655534 Points: 3 # Comments: 0",
-      "url": "https://www.reuters.com/sports/global-sports-face-challenges-ai-slop-misinformation-2026-01-17/",
+      "title": "I removed AI from my I Ching app",
+      "summary": "Article URL: https://castiching.com/articles/why-no-ai Comments URL: https://news.ycombinator.com/item?id=46664231 Points: 4 # Comments: 9",
+      "url": "https://castiching.com/articles/why-no-ai",
       "image": "",
-      "date": "2026-01-17T05:22:07+00:00"
+      "date": "2026-01-18T02:23:57+00:00"
     },
     {
-      "title": "Trump wants tech companies to foot bill for new power plants due to AI",
-      "summary": "Article URL: https://www.cnbc.com/2026/01/16/trump-wants-tech-companies-to-foot-the-bill-for-new-power-plants-because-of-ai.html Comments URL: https://news.ycombinator.com/item?id=46655133 Points: 4 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/01/16/trump-wants-tech-companies-to-foot-the-bill-for-new-power-plants-because-of-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108251758-17683189682026-01-13t154056z_1353314897_rc2f0jaltrzp_rtrmadp_0_usa-trump.jpeg?v=1768577395&w=1920&h=1080",
-      "date": "2026-01-17T04:06:37+00:00"
+      "title": "AI Zettelkasten Builder",
+      "summary": "Article URL: https://edge.dog/docs Comments URL: https://news.ycombinator.com/item?id=46664126 Points: 1 # Comments: 0",
+      "url": "https://edge.dog/docs",
+      "image": "/logo/logo.png",
+      "date": "2026-01-18T02:04:30+00:00"
     },
     {
-      "title": "Show HN: Agent Coworking,Multi-agent networks for AI collaboration (open source)",
-      "summary": "Hey HN, With Anthropic's Claude Cowork launch, there's renewed interest in agentic AI. Cowork is impressive for single-agent file management — but we've been working on a different problem: what happens when you connect multiple agents into a network? OpenAgents is open-source infrastructure for building AI agent networks. Think of it as the plumbing for multi-agent collaboration. Core ideas: - Agents join networks and discover peers dynamically\n- Protocol-agnostic: WebSocket, gRPC, HTTP, libp2p\n- Shared artifacts (files, knowledge bases) with access control\n- Works with any LLM provider (Claude, GPT, open-source models)\n- Mod-driven architecture for different collaboration patterns We're releasing an \"Agent Coworking\" template with examples: - Chat room with 2 Claude Code agents collaborating\n- Research team (coding agent + web browsing agent)\n- Shared document editing across agents The SDK is Python-based. Spin up a network with openagents network start and connect agents via YAML config or custom Python. GitHub: https://github.com/openagents-org/openagents Tutorial: https://openagents.org/showcase/agent-coworking Would love feedback from HN. Particularly interested in thoughts on: 1. Network topology patterns that would be useful\n2. Security considerations for agent-to-agent communication\n3. Integration with existing agent frameworks (LangChain, CrewAI, etc.) Happy to answer questions. Comments URL: https://news.ycombinator.com/item?id=46654935 Points: 2 # Comments: 0",
-      "url": "https://openagents.org/showcase",
-      "image": "https://openagents.org/images/logos/openagents_logo_trans_black.png",
-      "date": "2026-01-17T03:22:56+00:00"
+      "title": "Why AI Doesn't Think: We Need to Stop Calling It \"Cognition\"",
+      "summary": "Article URL: https://docs.google.com/document/d/1FHUgpRTtL23cUygPhAh7xasccfKpX0T2ZGdlcsEr-4U/edit?usp=sharing Comments URL: https://news.ycombinator.com/item?id=46664030 Points: 14 # Comments: 3",
+      "url": "https://docs.google.com/document/d/1FHUgpRTtL23cUygPhAh7xasccfKpX0T2ZGdlcsEr-4U/edit?usp=sharing",
+      "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyISBP5w5q9mpydiJ7h7lWfqBHPsbxfB1Y39tpdq3rNMRK1aAx7zUGIPxfmImyjuigWd626PnAFgPsV1SesYZWOkeXUcYb91ai6hF58U209DoYIqtw4=w1200-h630-p",
+      "date": "2026-01-18T01:48:44+00:00"
     },
     {
-      "title": "Crypto grifters are recruiting open-source AI developers",
-      "summary": "Article URL: https://www.seangoedecke.com/gas-and-ralph/ Comments URL: https://news.ycombinator.com/item?id=46654878 Points: 60 # Comments: 19",
-      "url": "https://www.seangoedecke.com/gas-and-ralph/",
+      "title": "Gemini Introduces Personal Intelligence",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/ Comments URL: https://news.ycombinator.com/item?id=46664012 Points: 1 # Comments: 1",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/B4JwuvCyeLHELEu.width-1300.png",
+      "date": "2026-01-18T01:46:04+00:00"
+    },
+    {
+      "title": "Breaking the Linearity Barrier: Recursive Swarms for Long-Horizon AI Engineering",
+      "summary": "Article URL: https://www.blankline.org/research/horizon-mode Comments URL: https://news.ycombinator.com/item?id=46663741 Points: 1 # Comments: 0",
+      "url": "https://www.blankline.org/research/horizon-mode",
+      "image": "https://archive.blankline.org/api/media/file/Warm%20Gradient%20Abstract-1.png",
+      "date": "2026-01-18T00:53:01+00:00"
+    },
+    {
+      "title": "Build Your Own AI Coding Agent (Full Guide) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=3GjE_YAs03s Comments URL: https://news.ycombinator.com/item?id=46663668 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=3GjE_YAs03s",
       "image": "",
-      "date": "2026-01-17T03:07:08+00:00"
+      "date": "2026-01-18T00:37:11+00:00"
     },
     {
-      "title": "Ben Affleck and Matt Damon on the Limits of AI in Filmmaking [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=O-2OsvVJC0s Comments URL: https://news.ycombinator.com/item?id=46654866 Points: 7 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=O-2OsvVJC0s",
+      "title": "The SaaS Selloff: AI and Interest Rates",
+      "summary": "Article URL: https://davefriedman.substack.com/p/the-saas-selloff-ai-and-interest Comments URL: https://news.ycombinator.com/item?id=46663647 Points: 4 # Comments: 0",
+      "url": "https://davefriedman.substack.com/p/the-saas-selloff-ai-and-interest",
       "image": "",
-      "date": "2026-01-17T03:04:22+00:00"
-    },
-    {
-      "title": "Anything Will Work (In AI)",
-      "summary": "Article URL: https://publish.obsidian.md/ueaj/Machine+Learning/Theory/Anything+WILL+work Comments URL: https://news.ycombinator.com/item?id=46654784 Points: 2 # Comments: 0",
-      "url": "https://publish.obsidian.md/ueaj/Machine+Learning/Theory/Anything+WILL+work",
-      "image": "",
-      "date": "2026-01-17T02:41:53+00:00"
-    },
-    {
-      "title": "Matthew McConaughey trademarks catchphrase in bid to beat AI fakes",
-      "summary": "Article URL: https://www.theguardian.com/film/2026/jan/15/matthew-mcconaughey-trademarks-all-right-all-right-all-right-catchphrase-in-bid-to-beat-ai-fakes Comments URL: https://news.ycombinator.com/item?id=46654777 Points: 6 # Comments: 1",
-      "url": "https://www.theguardian.com/film/2026/jan/15/matthew-mcconaughey-trademarks-all-right-all-right-all-right-catchphrase-in-bid-to-beat-ai-fakes",
-      "image": "https://i.guim.co.uk/img/media/8f512466744e0f4591a78a8693eef6aa7066185e/300_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1631d127b871403ee051991e497e4def",
-      "date": "2026-01-17T02:39:51+00:00"
-    },
-    {
-      "title": "Show HN: Explain Yourself – An AI party game app built with SwiftUI",
-      "summary": "Hi HN, I just released \"Explain Yourself,\" a local multiplayer party game (Jackbox style) where players have to give excuses for absurd AI-generated scenarios. An AI Judge then ranks the answers, roasts the players, and determines a winner. I built this because I wanted an AI-first party app game that was fun and made people use their brains. This is my first app, but I have spent months on it and it is pretty thoroughly thought out. The Stack: Frontend: \nSwiftUI (using NavigationStack and EnvironmentObjects for state). Backend: \nFirebase (Firestore for real-time syncing, Cloud Functions for the game logic).\nAI: Gemini API (via Cloud Functions) for both generating scenarios and the \"Judge\" persona.\nThe Technical Challenges: Prompt Engineering: \nTuning the \"Judge\" to be fun and a bit savage was a fun part. I also expected Gemini (which  I ended up choosing for simplicity over other AIs) to not respond to many of the players answers if completely inappropriate, but it always does... so far. The judge analyzes the answers and decided which was the most logical with a bit of creativity. The game scores 90% of one and 10% on the other to determine the ranking. Monetization:\nIt’s free to play with a daily limit/starter rounds. I hate ads, so I limited them strictly to \"watch to earn\" if you run out of credits, plus a standard IAP model for specific question packs. I wonder if starting out I should simply give out everything for free though, leaving only a couple of things like the custom categories as the locked IAP part. Would love some insight on that if you got any. I’d love feedback on the latency of the app in general, the quality of the AI responses, and the IAP model most of all. Means the world. Thank you in advance. Link: https://apps.apple.com/app/id6748743734 Comments URL: https://news.ycombinator.com/item?id=46654697 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46654697",
-      "image": "",
-      "date": "2026-01-17T02:24:03+00:00"
-    },
-    {
-      "title": "Artificial Intelligence Meets Natural Stupidity: Managing the Risks [pdf]",
-      "summary": "Article URL: https://integrative-design-for-radical-energy-efficiency.stanford.edu/sites/extreme_energy_efficiency/files/media/file/data-centersaiel-dr-16-10-may-2025.pdf Comments URL: https://news.ycombinator.com/item?id=46654464 Points: 1 # Comments: 0",
-      "url": "https://integrative-design-for-radical-energy-efficiency.stanford.edu/sites/extreme_energy_efficiency/files/media/file/data-centersaiel-dr-16-10-may-2025.pdf",
-      "image": "",
-      "date": "2026-01-17T01:36:47+00:00"
+      "date": "2026-01-18T00:34:20+00:00"
     }
   ]
 }
