@@ -1,117 +1,103 @@
 {
-  "generated_at": "2026-01-19T06:57:02.026526+00:00",
+  "generated_at": "2026-01-20T06:54:34.777379+00:00",
   "items": [
     {
-      "title": "Ask HN: How do teams handle dynamic tool discovery for AI agents?",
-      "summary": "In traditional service architectures, DNS / service mesh\nworks — but in AI agent platforms where tools may be\nadded/removed and clients need capability-based discovery,\nthis pattern feels insufficient. What approaches have companies used for dynamic\ncapability discovery (not just network location) for LLM\nagent workloads? Would love to hear successful patterns\nor stumbling blocks from real implementations. Context: I've built a minimal MCP control plane / registry prototype for enterprise\ndiscovery, but curious about patterns in practice. Comments URL: https://news.ycombinator.com/item?id=46675706 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46675706",
+      "title": "AI Californication",
+      "summary": "I am not American, I come from a whole other culture that is the opposite of what the West is all about. Not saying that to antagonize you, but to say that as an outsider I can somewhat see how much the culture of California has impacted the worldview of most people over the past 50 year! But what is to come is even more impactful, either good or bad ..... it will result in much much less limitations to thought patterns. It started with Hollywood of course, which made the other third of the planet that was not influenced by the British start thinking in english, which limits ideas that can be thought of. Ideas come from word, language is the month of thinking (I started thinking in english ~2010). Then in the last 10 years where social media have made it even harder to escape the thought patterns that were made in SF, even with someone like me who spent 30 year in a closed off culture is starting to think more and more in American phrases- sometimes its hard to break that loop, I am starting to forget the old ways of thinking and looking at the world. Still, all of that can be good. Ideas of feminism and tolerance of queer people are very good in general. But now with Ai modules that are unable to escape the brainwave of a California leftist, I fear for the intellectual future of the world (scientific too, since both are correlated). Even deepseek is more or less like the other models, its very hard to get it to look at things in a different way, or even debate basic stuff as an entity that lived a lifetime under socialism would look at things. My own culture is dying, so the probability that Ai would even understand our thinking pattern is slim (considering that much of it is not digitalized even). 20 years ago, I would look around my home and see so many unique things that represent my culture, and I would talk to so many people who never heard of Sinatra or watched a sitcom. Yesterday I looked around, only 1 item in the entire house is authentic, and lately i find many people speaking decent english & talking about how \"woke\" the world has gotten! I spend a couple of months trying to prompt chatgpt & grok to debate various topic from a different worldview that is repeated all day in my head. But it can't, not because of any limitation on the module itself, but because it never got deep enough into that worldview to know what the hell is it about (sometimes it deliberately try not to). I am not saying all of this to say that I hate the West, I experienced the ugliness of the East & I know how awful it is. I am just saying that LLMs are very limiting - if we feed it the same data every time, it's going to be more or less the same every time too. Doesn't matter where you got the data, if its in english from the upperlevel of the internet, its basically the same. Comments URL: https://news.ycombinator.com/item?id=46688573 Points: 4 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46688573",
       "image": "",
-      "date": "2026-01-19T06:45:12+00:00"
+      "date": "2026-01-20T06:26:59+00:00"
     },
     {
-      "title": "How to write a good spec for AI agents",
-      "summary": "Article URL: https://addyosmani.com/blog/good-spec/ Comments URL: https://news.ycombinator.com/item?id=46675528 Points: 1 # Comments: 0",
-      "url": "https://addyosmani.com/blog/good-spec/",
-      "image": "https://addyosmani.com/assets/images/good-spec.jpg",
-      "date": "2026-01-19T06:06:46+00:00"
+      "title": "Apple Intelligence Siri is over a year late, but that might be a good thing",
+      "summary": "Article URL: https://9to5mac.com/2026/01/18/apple-intelligence-siri-delay-comes-with-one-benefit/ Comments URL: https://news.ycombinator.com/item?id=46688542 Points: 2 # Comments: 0",
+      "url": "https://9to5mac.com/2026/01/18/apple-intelligence-siri-delay-comes-with-one-benefit/",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/12/Most-iPhone-owners-see-little-to-no-value-in-Apple-Intelligence-so-far.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "date": "2026-01-20T06:21:28+00:00"
     },
     {
-      "title": "The AI Engineer Roadmap",
-      "summary": "Article URL: https://www.aihero.dev/ai-engineer-roadmap Comments URL: https://news.ycombinator.com/item?id=46675492 Points: 1 # Comments: 0",
-      "url": "https://www.aihero.dev/ai-engineer-roadmap",
-      "image": "https://www.aihero.dev/api/og?resource=ai-engineer-roadmap&updatedAt=2025-03-18T11:28:44.629Z",
-      "date": "2026-01-19T05:59:01+00:00"
-    },
-    {
-      "title": "Show HN: Omelo- AI pet health companion, Health timelines and Daily care",
-      "summary": "Hey HN, I’m Amogh. I’m a solo founder building Omelo. Pet parents make health decisions with almost no data: missed vaccines, forgotten deworming, vague symptoms, scattered notes. Most advice comes from Google or WhatsApp groups. Omelo is a mobile app that combines: 1. A health timeline built from walks, meals, grooming, vaccines, and expenses 2. A vet-trained AI companion (trained on veterinary literature) that answers questions in context of your pet’s history 3. Support for multiple pets, so patterns show up over time instead of being lost in chat logs The idea is simple: turn everyday pet care into structured data, then use AI to reason over that data before something becomes an emergency. We started on WhatsApp, served ~5,000+ pet parents, ran ~80k conversations, and just launched the mobile app to make timelines, reminders, and tracking possible. Tech stack is intentionally boring. The hard part wasn’t models, it was designing trust, tone, and longitudinal context. Would love feedback on: - How you’d design health timelines for non-verbal users - Where AI actually helps vs where it becomes noise - What you’d strip out if this feels too heavy App link: https://www.beomelo.com Happy to answer anything—product, tech, mistakes, or what didn’t work. Comments URL: https://news.ycombinator.com/item?id=46675455 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46675455",
+      "title": "AI and jobs: The decline started before ChatGPT",
+      "summary": "Article URL: https://engineeringprompts.substack.com/p/ai-and-jobs-the-decline-started-before Comments URL: https://news.ycombinator.com/item?id=46688378 Points: 4 # Comments: 1",
+      "url": "https://engineeringprompts.substack.com/p/ai-and-jobs-the-decline-started-before",
       "image": "",
-      "date": "2026-01-19T05:50:58+00:00"
+      "date": "2026-01-20T05:55:56+00:00"
     },
     {
-      "title": "All is not well between Meta CEO Mark Zuckerberg and Meta's AI",
-      "summary": "Article URL: https://timesofindia.indiatimes.com/technology/tech-news/all-is-not-well-between-meta-ceo-mark-zuckerberg-and-metas-highest-paid-employee-as-the-companys-new-reporting-structure-shows/articleshow/126526041.cms Comments URL: https://news.ycombinator.com/item?id=46675415 Points: 2 # Comments: 0",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/all-is-not-well-between-meta-ceo-mark-zuckerberg-and-metas-highest-paid-employee-as-the-companys-new-reporting-structure-shows/articleshow/126526041.cms",
-      "image": "https://static.toiimg.com/thumb/msid-126526041,width-1280,height-720,imgsize-23578,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "date": "2026-01-19T05:40:53+00:00"
+      "title": "Defections from $12B Thinking Machines shows struggle for AI talent",
+      "summary": "Article URL: https://fortune.com/2026/01/16/mira-murati-thinking-machines-staff-defections-openai-zoph-metz-schoenholz/ Comments URL: https://news.ycombinator.com/item?id=46688199 Points: 1 # Comments: 0",
+      "url": "https://fortune.com/2026/01/16/mira-murati-thinking-machines-staff-defections-openai-zoph-metz-schoenholz/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1258711555-e1768562304350.jpg?resize=1200,600",
+      "date": "2026-01-20T05:21:32+00:00"
     },
     {
-      "title": "Hiring at India's Big Four outsourcers stalls, as AI seemingly makes an impact",
-      "summary": "Article URL: https://www.theregister.com/2026/01/19/hcl_infosys_tcs_wipro_results/ Comments URL: https://news.ycombinator.com/item?id=46675409 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/01/19/hcl_infosys_tcs_wipro_results/",
-      "image": "https://regmedia.co.uk/2024/03/04/leonardo_india_ai.jpg",
-      "date": "2026-01-19T05:39:36+00:00"
-    },
-    {
-      "title": "Show HN: 100% Agentic AI Comedy Podcast",
-      "summary": "https://open.spotify.com/show/2v4qAYQU8BMY1oKLaNBiMb?si=QmNt... Comments URL: https://news.ycombinator.com/item?id=46675337 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46675337",
+      "title": "What's biggest mistake companies make when trying to implement Generative AI?",
+      "summary": "The biggest mistake is piloting AI in isolation without parallel human upskilling. Companies focus on tech but neglect training teams to use it contextually, causing projects to fail. Avoid it by pairing every AI implementation with intensive, role-specific training. Transform your people and processes together. This dual strategy bridges the execution gap and delivers real outcomes. Comments URL: https://news.ycombinator.com/item?id=46688193 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46688193",
       "image": "",
-      "date": "2026-01-19T05:23:33+00:00"
+      "date": "2026-01-20T05:20:41+00:00"
     },
     {
-      "title": "Show HN: Intent Layer: A context engineering skill for AI agents",
-      "summary": "Article URL: https://www.railly.dev/blog/intent-layer/ Comments URL: https://news.ycombinator.com/item?id=46675236 Points: 3 # Comments: 1",
-      "url": "https://www.railly.dev/blog/intent-layer/",
-      "image": "https://www.railly.dev/api/og?title=Context%20Engineering%20Skills%3A%20Intent%20Layer&description=A%20skill%20that%20sets%20up%20hierarchical%20AGENTS.md%20files%20so%20AI%20agents%20navigate%20your%20codebase%20like%20senior%20engineers.",
-      "date": "2026-01-19T05:04:40+00:00"
-    },
-    {
-      "title": "Nano Banana Prompt Library – AI Image Prompts",
-      "summary": "Article URL: https://nano-banana.app/nano-banana-prompts Comments URL: https://news.ycombinator.com/item?id=46675204 Points: 3 # Comments: 0",
-      "url": "https://nano-banana.app/nano-banana-prompts",
-      "image": "https://nano-banana.app/og-image.png",
-      "date": "2026-01-19T04:57:08+00:00"
-    },
-    {
-      "title": "The AI Talent War Is for Plumbers and Electricians",
-      "summary": "Article URL: https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=46675147 Points: 2 # Comments: 0",
-      "url": "https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/",
-      "image": "https://media.wired.com/photos/691270c76957ff326f1ce72c/191:100/w_1280,c_limit/Why-There-Aren't-Enough-Electricians-and-Plumbers-to-Build-AI-Data-Centers-Business-2244492521.jpg",
-      "date": "2026-01-19T04:46:43+00:00"
-    },
-    {
-      "title": "Ukraine's kamikaze drones run AI vision/terminal guidance on Raspberry Pi",
-      "summary": "Article URL: https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html Comments URL: https://news.ycombinator.com/item?id=46674834 Points: 8 # Comments: 1",
-      "url": "https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html",
+      "title": "Gary Marcus on the Problems Facing AI and LLM Scaling – The Real Eisman Playbook [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=aI7XknJJC5Q Comments URL: https://news.ycombinator.com/item?id=46687517 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=aI7XknJJC5Q",
       "image": "",
-      "date": "2026-01-19T03:44:51+00:00"
+      "date": "2026-01-20T03:17:26+00:00"
     },
     {
-      "title": "Ask HN: 1 year from today what will have been the worst behavior from AI corps?",
-      "summary": "For example, let's say it came out that AI corps were, say: - deliberately poisoning system prompts to obstruct development of AI-adjacent, possibly competitive tools, or - 'fixing the game' with secret system prompts to ensure you endlessly circled the correct solution while never actually solving it, a kind of \"Netflix-ization\" of \"always another episode\" payoff withholding, to get you on the hook for more tokens, slot machine style. These are just two random examples that occurred to me (likely out of some sci-fi dystopian novella floating in the aether that i picked up on). But what do you think the bad news is gonna be 1 year from now? What is the worst they are going to be discovered doing? Or will it be all good? Let's hope so! Comments URL: https://news.ycombinator.com/item?id=46674813 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46674813",
+      "title": "Show HN: Artificial Ivy in the Browser",
+      "summary": "This is just a goofy thing I cooked up over the weekend. It's kind of like a screensaver, but with more reading and sliders. (It's not terribly efficient, so expect phone batteries to take a hit!) Comments URL: https://news.ycombinator.com/item?id=46687504 Points: 36 # Comments: 1",
+      "url": "https://da.nmcardle.com/grow",
       "image": "",
-      "date": "2026-01-19T03:41:41+00:00"
+      "date": "2026-01-20T03:14:47+00:00"
     },
     {
-      "title": "Show HN: AI Tryon Product to Video Generator",
-      "summary": "Discover AI Product to Video, the free AI-powered tool that turns product images into captivating showcase videos. Boost engagement, maintain consistent style, and drive conversions with effortless AI video creation for marketing and content needs. Comments URL: https://news.ycombinator.com/item?id=46674714 Points: 1 # Comments: 0",
-      "url": "https://aitryon.art/ai-product-to-video/",
-      "image": "https://aitryon.art/images/home/home-page.jpg",
-      "date": "2026-01-19T03:25:06+00:00"
-    },
-    {
-      "title": "The Computational Web and the Old AI Switcharoo",
-      "summary": "Article URL: https://www.fromjason.xyz/p/notebook/the-computational-web-and-the-old-ai-switcharoo/ Comments URL: https://news.ycombinator.com/item?id=46674636 Points: 1 # Comments: 0",
-      "url": "https://www.fromjason.xyz/p/notebook/the-computational-web-and-the-old-ai-switcharoo/",
-      "image": "https://fromjason.xyz/img/opengraph-3232.png",
-      "date": "2026-01-19T03:08:06+00:00"
-    },
-    {
-      "title": "The AI revolution is here. Will the economy survive the transition?",
-      "summary": "Article URL: https://post.substack.com/p/the-ai-revolution-is-here-will-the Comments URL: https://news.ycombinator.com/item?id=46674541 Points: 3 # Comments: 0",
-      "url": "https://post.substack.com/p/the-ai-revolution-is-here-will-the",
+      "title": "Deliberate AI Use",
+      "summary": "Article URL: https://www.joshribakoff.com/blog/deliberate-ai-use/ Comments URL: https://news.ycombinator.com/item?id=46687354 Points: 2 # Comments: 0",
+      "url": "https://www.joshribakoff.com/blog/deliberate-ai-use/",
       "image": "",
-      "date": "2026-01-19T02:48:59+00:00"
+      "date": "2026-01-20T02:52:15+00:00"
     },
     {
-      "title": "Why the Best AI Systems Are Still So Bad at Pokémon",
-      "summary": "Article URL: https://time.com/7345903/ai-chatgpt-claude-gemini-pokemon/ Comments URL: https://news.ycombinator.com/item?id=46674440 Points: 3 # Comments: 0",
-      "url": "https://time.com/7345903/ai-chatgpt-claude-gemini-pokemon/",
-      "image": "https://api.time.com/wp-content/uploads/2026/01/GettyImages-1096280400.jpg?quality=85&w=1024&h=628&crop=1",
-      "date": "2026-01-19T02:30:57+00:00"
+      "title": "LogSentinel v3.9 – Ultra-Fast Enterprise Log Analyzer with Error Intelligence",
+      "summary": "Article URL: https://gum.new/gum/cmkiotta6000t04l75xh0e0i9 Comments URL: https://news.ycombinator.com/item?id=46687310 Points: 1 # Comments: 1",
+      "url": "https://gum.new/gum/cmkiotta6000t04l75xh0e0i9",
+      "image": "https://public-files.gumroad.com/6bawy1nvv9scnlarco85epmot9i3",
+      "date": "2026-01-20T02:45:27+00:00"
+    },
+    {
+      "title": "DeepSeek kicked off 2026 with a new AI training method for scaling",
+      "summary": "Article URL: https://www.businessinsider.com/deepseek-new-ai-training-models-scale-manifold-constrained-analysts-china-2026-1 Comments URL: https://news.ycombinator.com/item?id=46687019 Points: 7 # Comments: 0",
+      "url": "https://www.businessinsider.com/deepseek-new-ai-training-models-scale-manifold-constrained-analysts-china-2026-1",
+      "image": "https://i.insider.com/695759b704eda4732f2e5e1b?width=1200&format=jpeg",
+      "date": "2026-01-20T02:03:59+00:00"
+    },
+    {
+      "title": "AI-Generated Content Sucks",
+      "summary": "Article URL: https://realizeai.substack.com/p/ai-generated-content-sucks Comments URL: https://news.ycombinator.com/item?id=46686922 Points: 3 # Comments: 0",
+      "url": "https://realizeai.substack.com/p/ai-generated-content-sucks",
+      "image": "",
+      "date": "2026-01-20T01:52:44+00:00"
+    },
+    {
+      "title": "We replaced our sales team with 20 AI agents",
+      "summary": "Article URL: https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents Comments URL: https://news.ycombinator.com/item?id=46686856 Points: 4 # Comments: 4",
+      "url": "https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents",
+      "image": "https://substackcdn.com/image/fetch/$s_!hL7f!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a9093cf-9a77-4d0d-a5fc-12ac2a7f26f3_2048x2048.png",
+      "date": "2026-01-20T01:41:04+00:00"
+    },
+    {
+      "title": "Show RLM Analyzer–AI code analysis using recursive LLMs(MIT CSAIL research)",
+      "summary": "Article URL: https://npmjs.com/package/rlm-analyzer Comments URL: https://news.ycombinator.com/item?id=46686651 Points: 1 # Comments: 1",
+      "url": "https://npmjs.com/package/rlm-analyzer",
+      "image": "",
+      "date": "2026-01-20T01:03:32+00:00"
+    },
+    {
+      "title": "F5 tackles AI security with new platform extensions",
+      "summary": "Article URL: https://www.networkworld.com/article/4118696/f5-tackles-ai-security-with-new-platform-extensions.html Comments URL: https://news.ycombinator.com/item?id=46686536 Points: 1 # Comments: 0",
+      "url": "https://www.networkworld.com/article/4118696/f5-tackles-ai-security-with-new-platform-extensions.html",
+      "image": "https://www.networkworld.com/wp-content/uploads/2026/01/4118696-0-65503400-1768836299-shutterstock_2403416063_2de17a.jpg?quality=50&strip=all&w=1024",
+      "date": "2026-01-20T00:41:22+00:00"
     }
   ]
 }
