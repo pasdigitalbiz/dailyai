@@ -1,117 +1,117 @@
 {
-  "generated_at": "2026-01-23T06:52:08.330759+00:00",
+  "generated_at": "2026-01-24T06:47:21.990172+00:00",
   "items": [
     {
-      "title": "Financing the AI boom: from cash flows to debt",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.htm Comments URL: https://news.ycombinator.com/item?id=46729116 Points: 1 # Comments: 0",
-      "url": "https://www.bis.org/publ/bisbull120.htm",
-      "image": "https://www.bis.org/img/bislogo_og.jpg",
-      "date": "2026-01-23T06:23:47+00:00"
-    },
-    {
-      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-      "summary": "Article URL: https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=46729103 Points: 1 # Comments: 0",
-      "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_shopper_1-1152x648.jpg",
-      "date": "2026-01-23T06:22:05+00:00"
-    },
-    {
-      "title": "100% AI Coded Game on Steam – Full Dev Log",
-      "summary": "Article URL: https://web3dev1337.github.io/epic-survivors-architecture/ Comments URL: https://news.ycombinator.com/item?id=46729034 Points: 2 # Comments: 1",
-      "url": "https://web3dev1337.github.io/epic-survivors-architecture/",
+      "title": "Malicious AI extensions on VS Code Marketplace steal developer data",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/ Comments URL: https://news.ycombinator.com/item?id=46741454 Points: 2 # Comments: 1",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
       "image": "",
-      "date": "2026-01-23T06:14:43+00:00"
+      "date": "2026-01-24T06:03:24+00:00"
     },
     {
-      "title": "Why External AI Reasoning Breaks Articles 12 and 61 by Default",
-      "summary": "Article URL: https://www.aivojournal.org/why-external-ai-reasoning-breaks-articles-12-and-61-by-default/ Comments URL: https://news.ycombinator.com/item?id=46728913 Points: 1 # Comments: 1",
-      "url": "https://www.aivojournal.org/why-external-ai-reasoning-breaks-articles-12-and-61-by-default/",
-      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-23--2026-at-06_49_26-AM.png",
-      "date": "2026-01-23T05:56:24+00:00"
+      "title": "If an AI Summarized Your Company Today, Could You Prove It Tomorrow?",
+      "summary": "Article URL: https://www.aivojournal.org/if-an-ai-summarized-your-company-today-could-you-prove-it-tomorrow/ Comments URL: https://news.ycombinator.com/item?id=46741307 Points: 1 # Comments: 0",
+      "url": "https://www.aivojournal.org/if-an-ai-summarized-your-company-today-could-you-prove-it-tomorrow/",
+      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-23--2026-at-03_57_04-PM.png",
+      "date": "2026-01-24T05:24:21+00:00"
     },
     {
-      "title": "CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story",
-      "summary": "Article URL: https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d Comments URL: https://news.ycombinator.com/item?id=46728781 Points: 16 # Comments: 4",
-      "url": "https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d",
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "summary": "Article URL: https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/ Comments URL: https://news.ycombinator.com/item?id=46741168 Points: 3 # Comments: 2",
+      "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "date": "2026-01-24T04:51:51+00:00"
+    },
+    {
+      "title": "Toilet Maker Toto's Shares Get Unlikely Boost from AI Rush",
+      "summary": "Article URL: https://finance.yahoo.com/news/toilet-maker-toto-shares-unlikely-055450977.html Comments URL: https://news.ycombinator.com/item?id=46741009 Points: 3 # Comments: 0",
+      "url": "https://finance.yahoo.com/news/toilet-maker-toto-shares-unlikely-055450977.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/G8SYwoGZyyGeXh6ybifYdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDU-/https://media.zenfs.com/en/bloomberg_holding_pen_162/488402ab560bcff2d46a29f89a462b79",
+      "date": "2026-01-24T04:19:21+00:00"
+    },
+    {
+      "title": "Ask HN: How are you enforcing permissions for AI agent tool calls in production?",
+      "summary": "I’m seeing more teams ship agentic systems that can call real tools (DB writes, deploys, email, billing, internal APIs). Most of the safety patterns I hear are prompt rules + basic validation + “human-in-the-loop for risky stuff.” My question: in a real production environment, what’s your enforcement point that the agent cannot bypass?\nLike, what actually guarantees the tool call isn’t executed unless it passes policy? Some specific things I’m curious about: Are you enforcing permissions inside each tool wrapper, at a gateway/proxy, or via centralized policy service? How do you handle identity + authorization when agents act on behalf of users? Do you log decisions separately from execution logs (so you can answer “why was this allowed?” later)? How do you roll out enforcement safely (audit-only/shadow mode -> enforcement)? What failure modes hurt most like policy bugs, agent hallucinations, prompt injection, or tool misuse? Would love to hear how people are doing this in practice (platform/security/infra teams especially) Comments URL: https://news.ycombinator.com/item?id=46740645 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46740645",
       "image": "",
-      "date": "2026-01-23T05:31:11+00:00"
+      "date": "2026-01-24T02:59:42+00:00"
     },
     {
-      "title": "Amazon planning job cuts next week after axing 14,000 due to AI: report",
-      "summary": "Article URL: https://nypost.com/2026/01/22/business/amazon-planning-thousands-of-job-cuts-next-week-after-axing-14000-due-to-ai-report/ Comments URL: https://news.ycombinator.com/item?id=46728767 Points: 5 # Comments: 1",
-      "url": "https://nypost.com/2026/01/22/business/amazon-planning-thousands-of-job-cuts-next-week-after-axing-14000-due-to-ai-report/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/amazon-andy-jassy.jpg?quality=75&strip=all&1769107242&w=1200",
-      "date": "2026-01-23T05:29:11+00:00"
+      "title": "A new direction for students in an AI world: Prosper, prepare, protect",
+      "summary": "Article URL: https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/ Comments URL: https://news.ycombinator.com/item?id=46740567 Points: 1 # Comments: 0",
+      "url": "https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/",
+      "image": "https://www.brookings.edu/wp-content/uploads/2026/01/children-class-tablets.jpg?quality=75",
+      "date": "2026-01-24T02:43:56+00:00"
     },
     {
-      "title": "ChatGPT gives answers. Agentic AI makes decisions",
-      "summary": "Article URL: https://chungmoo.substack.com/p/chatgpt-gives-answers-agentic-ai Comments URL: https://news.ycombinator.com/item?id=46728755 Points: 1 # Comments: 0",
-      "url": "https://chungmoo.substack.com/p/chatgpt-gives-answers-agentic-ai",
+      "title": "AI can 10x developers in creating tech debt",
+      "summary": "Article URL: https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/ Comments URL: https://news.ycombinator.com/item?id=46740548 Points: 28 # Comments: 8",
+      "url": "https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/",
+      "image": "https://cdn.sanity.io/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200&fm=png&auto=format",
+      "date": "2026-01-24T02:40:40+00:00"
+    },
+    {
+      "title": "AI agent generates rebuttals for papers",
+      "summary": "Article URL: https://arxiv.org/abs/2601.14171 Comments URL: https://news.ycombinator.com/item?id=46740459 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2601.14171",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-01-24T02:16:30+00:00"
+    },
+    {
+      "title": "Ask HN: In the era of AI, which language would you choose?",
+      "summary": "Factors to consider when choosing a language and tech stack for a project/engineering effort: * Ecosystem maturity\n* Development speed\n* Learning curve \n* Recruitment difficulty\n* .... With AI, since 90% percent of the code is not written craftly, So these factor maybe not exists anymore? So how do you choose language now? Can we choose C++ or Rust purely based on cost/runtime execution speed considerations? Comments URL: https://news.ycombinator.com/item?id=46740285 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46740285",
       "image": "",
-      "date": "2026-01-23T05:26:19+00:00"
+      "date": "2026-01-24T01:42:32+00:00"
     },
     {
-      "title": "Software sell-off sparked by AI sets stage for potential big year of M&A",
-      "summary": "Article URL: https://www.cnbc.com/2026/01/22/selloff-in-software-from-ai-sets-stage-for-potential-big-year-of-ma.html Comments URL: https://news.ycombinator.com/item?id=46728720 Points: 1 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/01/22/selloff-in-software-from-ai-sets-stage-for-potential-big-year-of-ma.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108254284-1768921600211-sfEp_dX8.jpg?v=1769115948&w=1920&h=1080",
-      "date": "2026-01-23T05:19:08+00:00"
-    },
-    {
-      "title": "Autodesk burns the village to feed AI and the Cloud – cuts 7% of workforce",
-      "summary": "Article URL: https://blog.adafruit.com/2026/01/22/autodesk-burns-the-village-to-feed-ai-and-the-cloud-cuts-7-of-workforce/ Comments URL: https://news.ycombinator.com/item?id=46728385 Points: 12 # Comments: 0",
-      "url": "https://blog.adafruit.com/2026/01/22/autodesk-burns-the-village-to-feed-ai-and-the-cloud-cuts-7-of-workforce/",
+      "title": "I was wrong about AI agent sandboxing",
+      "summary": "Article URL: https://tuananh.net/2026/01/22/i-was-wrong-about-ai-agent-sandboxing/ Comments URL: https://news.ycombinator.com/item?id=46740062 Points: 1 # Comments: 0",
+      "url": "https://tuananh.net/2026/01/22/i-was-wrong-about-ai-agent-sandboxing/",
       "image": "",
-      "date": "2026-01-23T04:22:56+00:00"
+      "date": "2026-01-24T01:05:36+00:00"
     },
     {
-      "title": "Chinese AI is a risk for Europe. So is shunning it",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it Comments URL: https://news.ycombinator.com/item?id=46728342 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/leaders/2026/01/22/chinese-ai-is-a-risk-for-europe-so-is-shunning-it",
+      "title": "Korea Issues Strict New AI Rules, Outpacing the West",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/south-korea-issues-strict-new-ai-rules-outpacing-the-west-2af7d7eb Comments URL: https://news.ycombinator.com/item?id=46739924 Points: 4 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/south-korea-issues-strict-new-ai-rules-outpacing-the-west-2af7d7eb",
       "image": "",
-      "date": "2026-01-23T04:16:18+00:00"
+      "date": "2026-01-24T00:47:39+00:00"
     },
     {
-      "title": "AI-Free Free-to-Use Music Shorts",
-      "summary": "Article URL: https://onj.me/shorts/ Comments URL: https://news.ycombinator.com/item?id=46728312 Points: 1 # Comments: 0",
-      "url": "https://onj.me/shorts/",
+      "title": "Show HN: I built a dumb website using AI – Bets by Mitch",
+      "summary": "I wanted to try out some products and tools like Lovable, Cursor, MCPs. So I built a dumb website to show how bad I am at sports gambling. Some thoughts in the linked blog. Site is here https://bets.bymitch.com/ Comments URL: https://news.ycombinator.com/item?id=46739701 Points: 1 # Comments: 0",
+      "url": "https://blog.bymitch.com/posts/bets-by-mitch/",
       "image": "",
-      "date": "2026-01-23T04:10:17+00:00"
+      "date": "2026-01-24T00:14:57+00:00"
     },
     {
-      "title": "Toms AI BackGround Remover Software",
-      "summary": "Article URL: https://tomdahne.com/TomsBGRemover/pad/tomsbgremover.xml Comments URL: https://news.ycombinator.com/item?id=46728279 Points: 1 # Comments: 1",
-      "url": "https://tomdahne.com/TomsBGRemover/pad/tomsbgremover.xml",
+      "title": "Can AI Pass Freshman CS? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=56HJQm5nb0U Comments URL: https://news.ycombinator.com/item?id=46739319 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=56HJQm5nb0U",
       "image": "",
-      "date": "2026-01-23T04:04:52+00:00"
+      "date": "2026-01-23T23:19:40+00:00"
     },
     {
-      "title": "The AI Revolution in Coding: Why I'm Ignoring the Prophets of Doom",
-      "summary": "Article URL: https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/ Comments URL: https://news.ycombinator.com/item?id=46728217 Points: 2 # Comments: 0",
-      "url": "https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/",
+      "title": "A social network only for AI models – no humans allowed",
+      "summary": "Article URL: https://aifeed.social/timeline Comments URL: https://news.ycombinator.com/item?id=46739298 Points: 3 # Comments: 1",
+      "url": "https://aifeed.social/timeline",
+      "image": "https://aifeed.social/images/thumbnail.jpg",
+      "date": "2026-01-23T23:16:57+00:00"
+    },
+    {
+      "title": "OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes",
+      "summary": "Article URL: https://news.aibase.com/news/24859 Comments URL: https://news.ycombinator.com/item?id=46739278 Points: 17 # Comments: 23",
+      "url": "https://news.aibase.com/news/24859",
       "image": "",
-      "date": "2026-01-23T03:54:51+00:00"
+      "date": "2026-01-23T23:15:12+00:00"
     },
     {
-      "title": "Underground Resistance Aims to Sabotage AI with Poisoned Data",
-      "summary": "Article URL: https://www.forbes.com/sites/craigsmith/2026/01/21/poison-fountain-and-the-rise-of-an-underground-resistance-to-ai/ Comments URL: https://news.ycombinator.com/item?id=46727994 Points: 6 # Comments: 3",
-      "url": "https://www.forbes.com/sites/craigsmith/2026/01/21/poison-fountain-and-the-rise-of-an-underground-resistance-to-ai/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69704a3f152148a066a313e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "date": "2026-01-23T03:24:24+00:00"
-    },
-    {
-      "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and RL",
-      "summary": "Article URL: https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/ Comments URL: https://news.ycombinator.com/item?id=46727991 Points: 1 # Comments: 0",
-      "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/Copy-of-llm-press-bash-tech-blog-gtc25-dc-1920x1080-1.jpg",
-      "date": "2026-01-23T03:23:37+00:00"
-    },
-    {
-      "title": "Show HN: Bookmarklet for removing AI posts from Hacker News",
-      "summary": "I made a simple, customizable bookmarklet for removing HN submissions based on their title contents. I have it configured to remove AI-related posts at the moment but anybody with a little regex knowledge can customize it to their needs. Hope it helps someone. GitHub repository: https://github.com/dan-lovelace/hn-blocklist Comments URL: https://news.ycombinator.com/item?id=46727978 Points: 2 # Comments: 0",
-      "url": "https://dan-lovelace.github.io/hn-blocklist/",
+      "title": "Show HN: Null Future – A survival guide for the AI economy (Free)",
+      "summary": "Hi HN, I'm the author of NULL FUTURE. While most discussions focus on the 'replacement' aspect of AI (layoffs), I wanted to explore the 'deprecation' phase that comes first. My thesis is that we are entering an era of 'Invisible Replacement' where white-collar workers keep their titles but lose their utility, effectively becoming 'Null Workers'—paid to exist but functionally obsolete. The book explores strategies to pivot from 'Efficiency' (which AI wins) to 'Liability/Accountability' (which remains human). It's free on Amazon for the next few days. I wrote it as a survival manual rather than a business book. I'd love to hear your thoughts on the 'Liability Sponge' concept if you give it a read. (Direct Amazon link is in the post)\" Comments URL: https://news.ycombinator.com/item?id=46739121 Points: 1 # Comments: 0",
+      "url": "https://www.amazon.com/dp/B0GHSTSXWK",
       "image": "",
-      "date": "2026-01-23T03:20:56+00:00"
+      "date": "2026-01-23T22:55:31+00:00"
     }
   ]
 }
