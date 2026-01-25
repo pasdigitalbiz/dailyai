@@ -1,117 +1,124 @@
 {
-  "generated_at": "2026-01-24T06:47:21.990172+00:00",
+  "generated_at": "2026-01-25T06:48:41.717034+00:00",
   "items": [
     {
-      "title": "Malicious AI extensions on VS Code Marketplace steal developer data",
-      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/ Comments URL: https://news.ycombinator.com/item?id=46741454 Points: 2 # Comments: 1",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
+      "title": "Oculomics and AI: The eye as a biomarker for health span",
+      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S2162098926000083 Comments URL: https://news.ycombinator.com/item?id=46751063 Points: 1 # Comments: 0",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2162098926000083",
       "image": "",
-      "date": "2026-01-24T06:03:24+00:00"
+      "date": "2026-01-25T05:32:15+00:00"
     },
     {
-      "title": "If an AI Summarized Your Company Today, Could You Prove It Tomorrow?",
-      "summary": "Article URL: https://www.aivojournal.org/if-an-ai-summarized-your-company-today-could-you-prove-it-tomorrow/ Comments URL: https://news.ycombinator.com/item?id=46741307 Points: 1 # Comments: 0",
-      "url": "https://www.aivojournal.org/if-an-ai-summarized-your-company-today-could-you-prove-it-tomorrow/",
-      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-23--2026-at-03_57_04-PM.png",
-      "date": "2026-01-24T05:24:21+00:00"
-    },
-    {
-      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-      "summary": "Article URL: https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/ Comments URL: https://news.ycombinator.com/item?id=46741168 Points: 3 # Comments: 2",
-      "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-      "date": "2026-01-24T04:51:51+00:00"
-    },
-    {
-      "title": "Toilet Maker Toto's Shares Get Unlikely Boost from AI Rush",
-      "summary": "Article URL: https://finance.yahoo.com/news/toilet-maker-toto-shares-unlikely-055450977.html Comments URL: https://news.ycombinator.com/item?id=46741009 Points: 3 # Comments: 0",
-      "url": "https://finance.yahoo.com/news/toilet-maker-toto-shares-unlikely-055450977.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/G8SYwoGZyyGeXh6ybifYdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDU-/https://media.zenfs.com/en/bloomberg_holding_pen_162/488402ab560bcff2d46a29f89a462b79",
-      "date": "2026-01-24T04:19:21+00:00"
-    },
-    {
-      "title": "Ask HN: How are you enforcing permissions for AI agent tool calls in production?",
-      "summary": "I’m seeing more teams ship agentic systems that can call real tools (DB writes, deploys, email, billing, internal APIs). Most of the safety patterns I hear are prompt rules + basic validation + “human-in-the-loop for risky stuff.” My question: in a real production environment, what’s your enforcement point that the agent cannot bypass?\nLike, what actually guarantees the tool call isn’t executed unless it passes policy? Some specific things I’m curious about: Are you enforcing permissions inside each tool wrapper, at a gateway/proxy, or via centralized policy service? How do you handle identity + authorization when agents act on behalf of users? Do you log decisions separately from execution logs (so you can answer “why was this allowed?” later)? How do you roll out enforcement safely (audit-only/shadow mode -> enforcement)? What failure modes hurt most like policy bugs, agent hallucinations, prompt injection, or tool misuse? Would love to hear how people are doing this in practice (platform/security/infra teams especially) Comments URL: https://news.ycombinator.com/item?id=46740645 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46740645",
+      "title": "New AI Architecture",
+      "summary": "Article URL: https://figshare.com/articles/preprint/Elastic_Pattern_Neural_Network_EPNN_PDF/31145314?file=61325158 Comments URL: https://news.ycombinator.com/item?id=46751010 Points: 1 # Comments: 1",
+      "url": "https://figshare.com/articles/preprint/Elastic_Pattern_Neural_Network_EPNN_PDF/31145314?file=61325158",
       "image": "",
-      "date": "2026-01-24T02:59:42+00:00"
+      "date": "2026-01-25T05:23:20+00:00"
     },
     {
-      "title": "A new direction for students in an AI world: Prosper, prepare, protect",
-      "summary": "Article URL: https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/ Comments URL: https://news.ycombinator.com/item?id=46740567 Points: 1 # Comments: 0",
-      "url": "https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/",
-      "image": "https://www.brookings.edu/wp-content/uploads/2026/01/children-class-tablets.jpg?quality=75",
-      "date": "2026-01-24T02:43:56+00:00"
-    },
-    {
-      "title": "AI can 10x developers in creating tech debt",
-      "summary": "Article URL: https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/ Comments URL: https://news.ycombinator.com/item?id=46740548 Points: 28 # Comments: 8",
-      "url": "https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/",
-      "image": "https://cdn.sanity.io/images/jo7n4k8s/production/d2cb4c948681d5ccbb8ff46ed2d69c6f6b6a8990-800x420.jpg?w=1200&fm=png&auto=format",
-      "date": "2026-01-24T02:40:40+00:00"
-    },
-    {
-      "title": "AI agent generates rebuttals for papers",
-      "summary": "Article URL: https://arxiv.org/abs/2601.14171 Comments URL: https://news.ycombinator.com/item?id=46740459 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2601.14171",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-01-24T02:16:30+00:00"
-    },
-    {
-      "title": "Ask HN: In the era of AI, which language would you choose?",
-      "summary": "Factors to consider when choosing a language and tech stack for a project/engineering effort: * Ecosystem maturity\n* Development speed\n* Learning curve \n* Recruitment difficulty\n* .... With AI, since 90% percent of the code is not written craftly, So these factor maybe not exists anymore? So how do you choose language now? Can we choose C++ or Rust purely based on cost/runtime execution speed considerations? Comments URL: https://news.ycombinator.com/item?id=46740285 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46740285",
+      "title": "AI won't take your job. A guy with a $599 Mac Mini and Claude will",
+      "summary": "Article URL: https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will Comments URL: https://news.ycombinator.com/item?id=46750927 Points: 2 # Comments: 0",
+      "url": "https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will",
       "image": "",
-      "date": "2026-01-24T01:42:32+00:00"
+      "date": "2026-01-25T05:07:48+00:00"
     },
     {
-      "title": "I was wrong about AI agent sandboxing",
-      "summary": "Article URL: https://tuananh.net/2026/01/22/i-was-wrong-about-ai-agent-sandboxing/ Comments URL: https://news.ycombinator.com/item?id=46740062 Points: 1 # Comments: 0",
-      "url": "https://tuananh.net/2026/01/22/i-was-wrong-about-ai-agent-sandboxing/",
+      "title": "Eightfold AI sued for job candidate reports without their consent",
+      "summary": "Article URL: https://www.hrdive.com/news/eightfold-ai-lawsuit-job-candidate-consumer-reports/810332/ Comments URL: https://news.ycombinator.com/item?id=46750825 Points: 3 # Comments: 0",
+      "url": "https://www.hrdive.com/news/eightfold-ai-lawsuit-job-candidate-consumer-reports/810332/",
+      "image": "https://imgproxy.divecdn.com/3-1WKo7tGAiyk22HlBnbHv3XGnnK4LcQzVCbFpjPxs0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYzOTU4NzQ2LmpwZw==.webp",
+      "date": "2026-01-25T04:47:45+00:00"
+    },
+    {
+      "title": "Training Medical AI to Think Like a Doctor [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XaxGcb9qvTw Comments URL: https://news.ycombinator.com/item?id=46750754 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=XaxGcb9qvTw",
       "image": "",
-      "date": "2026-01-24T01:05:36+00:00"
+      "date": "2026-01-25T04:34:59+00:00"
     },
     {
-      "title": "Korea Issues Strict New AI Rules, Outpacing the West",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/south-korea-issues-strict-new-ai-rules-outpacing-the-west-2af7d7eb Comments URL: https://news.ycombinator.com/item?id=46739924 Points: 4 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/south-korea-issues-strict-new-ai-rules-outpacing-the-west-2af7d7eb",
+      "title": "Prototyping NixOS with FDE, tang and Podman using Claude.AI",
+      "summary": "Article URL: https://claude.ai/public/artifacts/e7cdb55a-3960-4dc9-bd1a-3c73a3145fb9 Comments URL: https://news.ycombinator.com/item?id=46750444 Points: 2 # Comments: 1",
+      "url": "https://claude.ai/public/artifacts/e7cdb55a-3960-4dc9-bd1a-3c73a3145fb9",
       "image": "",
-      "date": "2026-01-24T00:47:39+00:00"
+      "date": "2026-01-25T03:38:02+00:00"
     },
     {
-      "title": "Show HN: I built a dumb website using AI – Bets by Mitch",
-      "summary": "I wanted to try out some products and tools like Lovable, Cursor, MCPs. So I built a dumb website to show how bad I am at sports gambling. Some thoughts in the linked blog. Site is here https://bets.bymitch.com/ Comments URL: https://news.ycombinator.com/item?id=46739701 Points: 1 # Comments: 0",
-      "url": "https://blog.bymitch.com/posts/bets-by-mitch/",
+      "title": "AI Adoption Rates by Country",
+      "summary": "Article URL: https://www.visualcapitalist.com/ai-adoption-rates-by-country/ Comments URL: https://news.ycombinator.com/item?id=46750404 Points: 2 # Comments: 2",
+      "url": "https://www.visualcapitalist.com/ai-adoption-rates-by-country/",
       "image": "",
-      "date": "2026-01-24T00:14:57+00:00"
+      "date": "2026-01-25T03:28:46+00:00"
     },
     {
-      "title": "Can AI Pass Freshman CS? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=56HJQm5nb0U Comments URL: https://news.ycombinator.com/item?id=46739319 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=56HJQm5nb0U",
+      "title": "Enterprises are eyeing End-To-End AI gateways",
+      "summary": "Article URL: https://llmgateway.io/blog/unified-ai-gateway Comments URL: https://news.ycombinator.com/item?id=46750314 Points: 2 # Comments: 1",
+      "url": "https://llmgateway.io/blog/unified-ai-gateway",
+      "image": "https://llmgateway.io/blog/blog-unified-ai-gateway.jpeg",
+      "date": "2026-01-25T03:10:18+00:00"
+    },
+    {
+      "title": "Google's AI Detection Tool Can't Decide If Its Own AI Doctored Photo of Activist",
+      "summary": "Article URL: https://theintercept.com/2026/01/24/googles-ai-detection-white-house-synthid-gemini/ Comments URL: https://news.ycombinator.com/item?id=46750262 Points: 1 # Comments: 0",
+      "url": "https://theintercept.com/2026/01/24/googles-ai-detection-white-house-synthid-gemini/",
+      "image": "https://theintercept.com/wp-content/uploads/2026/01/GettyImages-2254197951-e1769285012535.jpg?fit=4500%2C2250&w=1200&h=800",
+      "date": "2026-01-25T03:01:14+00:00"
+    },
+    {
+      "title": "Google's AI Mode can now tap into Gmail and Photos to tailor responses",
+      "summary": "Article URL: https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/ Comments URL: https://news.ycombinator.com/item?id=46750056 Points: 1 # Comments: 1",
+      "url": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "date": "2026-01-25T02:23:28+00:00"
+    },
+    {
+      "title": "AI/LLM – Research Layers. Why Linear Chats Are Dead (and What's Replacing Them)",
+      "summary": "Article URL: https://anvme.substack.com/p/research-layers Comments URL: https://news.ycombinator.com/item?id=46749970 Points: 1 # Comments: 0",
+      "url": "https://anvme.substack.com/p/research-layers",
       "image": "",
-      "date": "2026-01-23T23:19:40+00:00"
+      "date": "2026-01-25T02:11:46+00:00"
     },
     {
-      "title": "A social network only for AI models – no humans allowed",
-      "summary": "Article URL: https://aifeed.social/timeline Comments URL: https://news.ycombinator.com/item?id=46739298 Points: 3 # Comments: 1",
-      "url": "https://aifeed.social/timeline",
-      "image": "https://aifeed.social/images/thumbnail.jpg",
-      "date": "2026-01-23T23:16:57+00:00"
+      "title": "We posted a job. Then came the AI slop, impersonator and recruiter scam",
+      "summary": "Article URL: https://themarkup.org/hello-world/2026/01/24/fake-candidates-recruiter-scams-ai-slop Comments URL: https://news.ycombinator.com/item?id=46749903 Points: 6 # Comments: 0",
+      "url": "https://themarkup.org/hello-world/2026/01/24/fake-candidates-recruiter-scams-ai-slop",
+      "image": "https://mrkp-static-production.themarkup.org/uploads/2025/12/121625-HELLO-WORLD-AI-HIRING-GH-TM.png",
+      "date": "2026-01-25T01:58:53+00:00"
     },
     {
-      "title": "OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes",
-      "summary": "Article URL: https://news.aibase.com/news/24859 Comments URL: https://news.ycombinator.com/item?id=46739278 Points: 17 # Comments: 23",
-      "url": "https://news.aibase.com/news/24859",
+      "title": "Anthropic Economic Index: new building blocks for understanding AI use",
+      "summary": "Article URL: https://www.anthropic.com/research/economic-index-primitives Comments URL: https://news.ycombinator.com/item?id=46749861 Points: 1 # Comments: 0",
+      "url": "https://www.anthropic.com/research/economic-index-primitives",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=sky",
+      "date": "2026-01-25T01:51:46+00:00"
+    },
+    {
+      "title": "AI: Work partnerships between people, agents, and robots",
+      "summary": "Article URL: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=46749724 Points: 1 # Comments: 0",
+      "url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai",
       "image": "",
-      "date": "2026-01-23T23:15:12+00:00"
+      "date": "2026-01-25T01:33:44+00:00"
     },
     {
-      "title": "Show HN: Null Future – A survival guide for the AI economy (Free)",
-      "summary": "Hi HN, I'm the author of NULL FUTURE. While most discussions focus on the 'replacement' aspect of AI (layoffs), I wanted to explore the 'deprecation' phase that comes first. My thesis is that we are entering an era of 'Invisible Replacement' where white-collar workers keep their titles but lose their utility, effectively becoming 'Null Workers'—paid to exist but functionally obsolete. The book explores strategies to pivot from 'Efficiency' (which AI wins) to 'Liability/Accountability' (which remains human). It's free on Amazon for the next few days. I wrote it as a survival manual rather than a business book. I'd love to hear your thoughts on the 'Liability Sponge' concept if you give it a read. (Direct Amazon link is in the post)\" Comments URL: https://news.ycombinator.com/item?id=46739121 Points: 1 # Comments: 0",
-      "url": "https://www.amazon.com/dp/B0GHSTSXWK",
-      "image": "",
-      "date": "2026-01-23T22:55:31+00:00"
+      "title": "Curl Gets Rid of Its Bug Bounty Program over AI Slop Overrun",
+      "summary": "Article URL: https://itsfoss.com/news/curl-closes-bug-bounty-program/ Comments URL: https://news.ycombinator.com/item?id=46749466 Points: 2 # Comments: 1",
+      "url": "https://itsfoss.com/news/curl-closes-bug-bounty-program/",
+      "image": "https://itsfoss.com/content/images/2026/01/curl-bug-bounty-program-discontinued.png",
+      "date": "2026-01-25T00:54:08+00:00"
+    },
+    {
+      "title": "AI and Abandonware",
+      "summary": "Article URL: https://jonathannen.com/ai-npm-abandonware.html Comments URL: https://news.ycombinator.com/item?id=46749034 Points: 1 # Comments: 0",
+      "url": "https://jonathannen.com/ai-npm-abandonware.html",
+      "image": "https://jonathannen.com/images/ai-npm-abandonware-thumb.jpg",
+      "date": "2026-01-24T23:52:39+00:00"
+    },
+    {
+      "title": "Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like",
+      "summary": "Article URL: https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/ Comments URL: https://news.ycombinator.com/item?id=46748880 Points: 2 # Comments: 0",
+      "url": "https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/",
+      "image": "https://cdn.macstories.net/tuesday-20-jan-2026-16-19-34-1768922388759.png",
+      "date": "2026-01-24T23:34:12+00:00"
     }
   ]
 }
