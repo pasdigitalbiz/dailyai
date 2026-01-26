@@ -1,124 +1,75 @@
 {
-  "generated_at": "2026-01-25T06:48:41.717034+00:00",
+  "generated_at": "2026-01-26T06:55:18.258448+00:00",
   "items": [
     {
-      "title": "Oculomics and AI: The eye as a biomarker for health span",
-      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S2162098926000083 Comments URL: https://news.ycombinator.com/item?id=46751063 Points: 1 # Comments: 0",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2162098926000083",
+      "title": "The Oracle's Paradox – AI-Created Interactive Fiction",
+      "summary": "Article URL: https://mkrolick.github.io/oracles-paradox/ Comments URL: https://news.ycombinator.com/item?id=46762296 Points: 1 # Comments: 0",
+      "url": "https://mkrolick.github.io/oracles-paradox/",
       "image": "",
-      "date": "2026-01-25T05:32:15+00:00"
+      "date": "2026-01-26T05:56:39+00:00"
     },
     {
-      "title": "New AI Architecture",
-      "summary": "Article URL: https://figshare.com/articles/preprint/Elastic_Pattern_Neural_Network_EPNN_PDF/31145314?file=61325158 Comments URL: https://news.ycombinator.com/item?id=46751010 Points: 1 # Comments: 1",
-      "url": "https://figshare.com/articles/preprint/Elastic_Pattern_Neural_Network_EPNN_PDF/31145314?file=61325158",
+      "title": "What Is an AI/ML Success Architect?",
+      "summary": "Article URL: https://yanirseroussi.com/2026/01/26/what-is-an-ai-ml-success-architect/ Comments URL: https://news.ycombinator.com/item?id=46762295 Points: 1 # Comments: 0",
+      "url": "https://yanirseroussi.com/2026/01/26/what-is-an-ai-ml-success-architect/",
+      "image": "https://yanirseroussi.com/2026/01/26/what-is-an-ai-ml-success-architect/ai-ml-startup-stage-maturity-curve.webp",
+      "date": "2026-01-26T05:56:32+00:00"
+    },
+    {
+      "title": "AI Story Generator with Pictures",
+      "summary": "Article URL: https://www.genstory.app/story-template/image-story-generator Comments URL: https://news.ycombinator.com/item?id=46762213 Points: 1 # Comments: 1",
+      "url": "https://www.genstory.app/story-template/image-story-generator",
+      "image": "https://genstory.app/og-image.png?v=2",
+      "date": "2026-01-26T05:38:56+00:00"
+    },
+    {
+      "title": "Who is hiring Software Engineering Experts for AI research collaborations",
+      "summary": "Article URL: https://work.mercor.com/jobs/list_AAABm4Du-0oSjmvox2ZPZKFs/software-engineering-expert Comments URL: https://news.ycombinator.com/item?id=46762192 Points: 1 # Comments: 1",
+      "url": "https://work.mercor.com/jobs/list_AAABm4Du-0oSjmvox2ZPZKFs/software-engineering-expert",
+      "image": "https://work.mercor.com/og-image-white-bgnd.png",
+      "date": "2026-01-26T05:34:16+00:00"
+    },
+    {
+      "title": "Ask HN: What software / applications can you now build thanks to AI",
+      "summary": "While many are focusing on AI chatbots / {x} AI for B2B,  I am particularly excited about useful technology that can now be built in small teams thanks to AI (hardware telemetry platforms , new encrypted messaging apps, etc) Comments URL: https://news.ycombinator.com/item?id=46762027 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46762027",
       "image": "",
-      "date": "2026-01-25T05:23:20+00:00"
+      "date": "2026-01-26T04:56:30+00:00"
     },
     {
-      "title": "AI won't take your job. A guy with a $599 Mac Mini and Claude will",
-      "summary": "Article URL: https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will Comments URL: https://news.ycombinator.com/item?id=46750927 Points: 2 # Comments: 0",
-      "url": "https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will",
+      "title": "6.1M workers with 86% women, face AI disruption without a safety net",
+      "summary": "Article URL: https://www.cryptopolitan.com/6-1-million-workers-with-86-women-face-ai-disruption-without-a-safety-net/ Comments URL: https://news.ycombinator.com/item?id=46761956 Points: 2 # Comments: 0",
+      "url": "https://www.cryptopolitan.com/6-1-million-workers-with-86-women-face-ai-disruption-without-a-safety-net/",
+      "image": "https://www.cryptopolitan.com/wp-content/uploads/2026/01/AI-usage-soars-2.webp",
+      "date": "2026-01-26T04:43:29+00:00"
+    },
+    {
+      "title": "'Halo' Actor Steve Downes Asks You Not to Remake His Voice with AI",
+      "summary": "Article URL: https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343 Comments URL: https://news.ycombinator.com/item?id=46761823 Points: 1 # Comments: 0",
+      "url": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343",
+      "image": "https://gizmodo.com/app/uploads/2025/10/halo-campaign-evolved-1200x675.jpg",
+      "date": "2026-01-26T04:19:01+00:00"
+    },
+    {
+      "title": "What Is an AI Data Analyst?",
+      "summary": "Article URL: https://www.scoopanalytics.com/ai/ai-data-analyst Comments URL: https://news.ycombinator.com/item?id=46761178 Points: 2 # Comments: 0",
+      "url": "https://www.scoopanalytics.com/ai/ai-data-analyst",
+      "image": "https://cdn.prod.website-files.com/65fdc9041545b81c2e66e5ac/6671a5d03eb1f3f166355698_Group%201437258477.png",
+      "date": "2026-01-26T02:31:55+00:00"
+    },
+    {
+      "title": "AI FOMO",
+      "summary": "Article URL: https://datamethods.substack.com/p/ai-fomo Comments URL: https://news.ycombinator.com/item?id=46760922 Points: 1 # Comments: 1",
+      "url": "https://datamethods.substack.com/p/ai-fomo",
       "image": "",
-      "date": "2026-01-25T05:07:48+00:00"
+      "date": "2026-01-26T02:00:12+00:00"
     },
     {
-      "title": "Eightfold AI sued for job candidate reports without their consent",
-      "summary": "Article URL: https://www.hrdive.com/news/eightfold-ai-lawsuit-job-candidate-consumer-reports/810332/ Comments URL: https://news.ycombinator.com/item?id=46750825 Points: 3 # Comments: 0",
-      "url": "https://www.hrdive.com/news/eightfold-ai-lawsuit-job-candidate-consumer-reports/810332/",
-      "image": "https://imgproxy.divecdn.com/3-1WKo7tGAiyk22HlBnbHv3XGnnK4LcQzVCbFpjPxs0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYzOTU4NzQ2LmpwZw==.webp",
-      "date": "2026-01-25T04:47:45+00:00"
-    },
-    {
-      "title": "Training Medical AI to Think Like a Doctor [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=XaxGcb9qvTw Comments URL: https://news.ycombinator.com/item?id=46750754 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=XaxGcb9qvTw",
-      "image": "",
-      "date": "2026-01-25T04:34:59+00:00"
-    },
-    {
-      "title": "Prototyping NixOS with FDE, tang and Podman using Claude.AI",
-      "summary": "Article URL: https://claude.ai/public/artifacts/e7cdb55a-3960-4dc9-bd1a-3c73a3145fb9 Comments URL: https://news.ycombinator.com/item?id=46750444 Points: 2 # Comments: 1",
-      "url": "https://claude.ai/public/artifacts/e7cdb55a-3960-4dc9-bd1a-3c73a3145fb9",
-      "image": "",
-      "date": "2026-01-25T03:38:02+00:00"
-    },
-    {
-      "title": "AI Adoption Rates by Country",
-      "summary": "Article URL: https://www.visualcapitalist.com/ai-adoption-rates-by-country/ Comments URL: https://news.ycombinator.com/item?id=46750404 Points: 2 # Comments: 2",
-      "url": "https://www.visualcapitalist.com/ai-adoption-rates-by-country/",
-      "image": "",
-      "date": "2026-01-25T03:28:46+00:00"
-    },
-    {
-      "title": "Enterprises are eyeing End-To-End AI gateways",
-      "summary": "Article URL: https://llmgateway.io/blog/unified-ai-gateway Comments URL: https://news.ycombinator.com/item?id=46750314 Points: 2 # Comments: 1",
-      "url": "https://llmgateway.io/blog/unified-ai-gateway",
-      "image": "https://llmgateway.io/blog/blog-unified-ai-gateway.jpeg",
-      "date": "2026-01-25T03:10:18+00:00"
-    },
-    {
-      "title": "Google's AI Detection Tool Can't Decide If Its Own AI Doctored Photo of Activist",
-      "summary": "Article URL: https://theintercept.com/2026/01/24/googles-ai-detection-white-house-synthid-gemini/ Comments URL: https://news.ycombinator.com/item?id=46750262 Points: 1 # Comments: 0",
-      "url": "https://theintercept.com/2026/01/24/googles-ai-detection-white-house-synthid-gemini/",
-      "image": "https://theintercept.com/wp-content/uploads/2026/01/GettyImages-2254197951-e1769285012535.jpg?fit=4500%2C2250&w=1200&h=800",
-      "date": "2026-01-25T03:01:14+00:00"
-    },
-    {
-      "title": "Google's AI Mode can now tap into Gmail and Photos to tailor responses",
-      "summary": "Article URL: https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/ Comments URL: https://news.ycombinator.com/item?id=46750056 Points: 1 # Comments: 1",
-      "url": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-      "date": "2026-01-25T02:23:28+00:00"
-    },
-    {
-      "title": "AI/LLM – Research Layers. Why Linear Chats Are Dead (and What's Replacing Them)",
-      "summary": "Article URL: https://anvme.substack.com/p/research-layers Comments URL: https://news.ycombinator.com/item?id=46749970 Points: 1 # Comments: 0",
-      "url": "https://anvme.substack.com/p/research-layers",
-      "image": "",
-      "date": "2026-01-25T02:11:46+00:00"
-    },
-    {
-      "title": "We posted a job. Then came the AI slop, impersonator and recruiter scam",
-      "summary": "Article URL: https://themarkup.org/hello-world/2026/01/24/fake-candidates-recruiter-scams-ai-slop Comments URL: https://news.ycombinator.com/item?id=46749903 Points: 6 # Comments: 0",
-      "url": "https://themarkup.org/hello-world/2026/01/24/fake-candidates-recruiter-scams-ai-slop",
-      "image": "https://mrkp-static-production.themarkup.org/uploads/2025/12/121625-HELLO-WORLD-AI-HIRING-GH-TM.png",
-      "date": "2026-01-25T01:58:53+00:00"
-    },
-    {
-      "title": "Anthropic Economic Index: new building blocks for understanding AI use",
-      "summary": "Article URL: https://www.anthropic.com/research/economic-index-primitives Comments URL: https://news.ycombinator.com/item?id=46749861 Points: 1 # Comments: 0",
-      "url": "https://www.anthropic.com/research/economic-index-primitives",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=sky",
-      "date": "2026-01-25T01:51:46+00:00"
-    },
-    {
-      "title": "AI: Work partnerships between people, agents, and robots",
-      "summary": "Article URL: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=46749724 Points: 1 # Comments: 0",
-      "url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai",
-      "image": "",
-      "date": "2026-01-25T01:33:44+00:00"
-    },
-    {
-      "title": "Curl Gets Rid of Its Bug Bounty Program over AI Slop Overrun",
-      "summary": "Article URL: https://itsfoss.com/news/curl-closes-bug-bounty-program/ Comments URL: https://news.ycombinator.com/item?id=46749466 Points: 2 # Comments: 1",
-      "url": "https://itsfoss.com/news/curl-closes-bug-bounty-program/",
-      "image": "https://itsfoss.com/content/images/2026/01/curl-bug-bounty-program-discontinued.png",
-      "date": "2026-01-25T00:54:08+00:00"
-    },
-    {
-      "title": "AI and Abandonware",
-      "summary": "Article URL: https://jonathannen.com/ai-npm-abandonware.html Comments URL: https://news.ycombinator.com/item?id=46749034 Points: 1 # Comments: 0",
-      "url": "https://jonathannen.com/ai-npm-abandonware.html",
-      "image": "https://jonathannen.com/images/ai-npm-abandonware-thumb.jpg",
-      "date": "2026-01-24T23:52:39+00:00"
-    },
-    {
-      "title": "Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like",
-      "summary": "Article URL: https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/ Comments URL: https://news.ycombinator.com/item?id=46748880 Points: 2 # Comments: 0",
-      "url": "https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/",
-      "image": "https://cdn.macstories.net/tuesday-20-jan-2026-16-19-34-1768922388759.png",
-      "date": "2026-01-24T23:34:12+00:00"
+      "title": "How Google AI Overviews are putting public health at risk",
+      "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk Comments URL: https://news.ycombinator.com/item?id=46760724 Points: 2 # Comments: 1",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk",
+      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
+      "date": "2026-01-26T01:35:58+00:00"
     }
   ]
 }
