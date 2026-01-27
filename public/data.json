@@ -1,75 +1,89 @@
 {
-  "generated_at": "2026-01-26T06:55:18.258448+00:00",
+  "generated_at": "2026-01-27T06:53:32.831689+00:00",
   "items": [
     {
-      "title": "The Oracle's Paradox – AI-Created Interactive Fiction",
-      "summary": "Article URL: https://mkrolick.github.io/oracles-paradox/ Comments URL: https://news.ycombinator.com/item?id=46762296 Points: 1 # Comments: 0",
-      "url": "https://mkrolick.github.io/oracles-paradox/",
+      "title": "New Nvidia Nemotron-Personas-Singapore Dataset for Sovereign AI",
+      "summary": "Article URL: https://huggingface.co/datasets/nvidia/Nemotron-Personas-Singaporehttps://huggingface.co/datasets/nvidia/Nemotron-Personas-Singapore Comments URL: https://news.ycombinator.com/item?id=46776144 Points: 1 # Comments: 0",
+      "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Singaporehttps://huggingface.co/datasets/nvidia/Nemotron-Personas-Singapore",
       "image": "",
-      "date": "2026-01-26T05:56:39+00:00"
+      "date": "2026-01-27T06:15:52+00:00"
     },
     {
-      "title": "What Is an AI/ML Success Architect?",
-      "summary": "Article URL: https://yanirseroussi.com/2026/01/26/what-is-an-ai-ml-success-architect/ Comments URL: https://news.ycombinator.com/item?id=46762295 Points: 1 # Comments: 0",
-      "url": "https://yanirseroussi.com/2026/01/26/what-is-an-ai-ml-success-architect/",
-      "image": "https://yanirseroussi.com/2026/01/26/what-is-an-ai-ml-success-architect/ai-ml-startup-stage-maturity-curve.webp",
-      "date": "2026-01-26T05:56:32+00:00"
+      "title": "Why Regulatory Scrutiny of AI Becomes Inevitable",
+      "summary": "Article URL: https://www.aivojournal.org/why-regulatory-scrutiny-of-ai-becomes-inevitable/ Comments URL: https://news.ycombinator.com/item?id=46775863 Points: 1 # Comments: 1",
+      "url": "https://www.aivojournal.org/why-regulatory-scrutiny-of-ai-becomes-inevitable/",
+      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-26--2026-at-01_48_12-PM.png",
+      "date": "2026-01-27T05:24:41+00:00"
     },
     {
-      "title": "AI Story Generator with Pictures",
-      "summary": "Article URL: https://www.genstory.app/story-template/image-story-generator Comments URL: https://news.ycombinator.com/item?id=46762213 Points: 1 # Comments: 1",
-      "url": "https://www.genstory.app/story-template/image-story-generator",
-      "image": "https://genstory.app/og-image.png?v=2",
-      "date": "2026-01-26T05:38:56+00:00"
-    },
-    {
-      "title": "Who is hiring Software Engineering Experts for AI research collaborations",
-      "summary": "Article URL: https://work.mercor.com/jobs/list_AAABm4Du-0oSjmvox2ZPZKFs/software-engineering-expert Comments URL: https://news.ycombinator.com/item?id=46762192 Points: 1 # Comments: 1",
-      "url": "https://work.mercor.com/jobs/list_AAABm4Du-0oSjmvox2ZPZKFs/software-engineering-expert",
-      "image": "https://work.mercor.com/og-image-white-bgnd.png",
-      "date": "2026-01-26T05:34:16+00:00"
-    },
-    {
-      "title": "Ask HN: What software / applications can you now build thanks to AI",
-      "summary": "While many are focusing on AI chatbots / {x} AI for B2B,  I am particularly excited about useful technology that can now be built in small teams thanks to AI (hardware telemetry platforms , new encrypted messaging apps, etc) Comments URL: https://news.ycombinator.com/item?id=46762027 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46762027",
+      "title": "Why IDE-Level AI Rules Will Always Lose to Model-Level Capabilities",
+      "summary": "Article URL: https://lellansin.github.io/2026/01/27/Why-Cursor-Rules-Failed-and-Claude-Skill-Succeeded/ Comments URL: https://news.ycombinator.com/item?id=46775745 Points: 1 # Comments: 1",
+      "url": "https://lellansin.github.io/2026/01/27/Why-Cursor-Rules-Failed-and-Claude-Skill-Succeeded/",
       "image": "",
-      "date": "2026-01-26T04:56:30+00:00"
+      "date": "2026-01-27T05:03:42+00:00"
     },
     {
-      "title": "6.1M workers with 86% women, face AI disruption without a safety net",
-      "summary": "Article URL: https://www.cryptopolitan.com/6-1-million-workers-with-86-women-face-ai-disruption-without-a-safety-net/ Comments URL: https://news.ycombinator.com/item?id=46761956 Points: 2 # Comments: 0",
-      "url": "https://www.cryptopolitan.com/6-1-million-workers-with-86-women-face-ai-disruption-without-a-safety-net/",
-      "image": "https://www.cryptopolitan.com/wp-content/uploads/2026/01/AI-usage-soars-2.webp",
-      "date": "2026-01-26T04:43:29+00:00"
-    },
-    {
-      "title": "'Halo' Actor Steve Downes Asks You Not to Remake His Voice with AI",
-      "summary": "Article URL: https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343 Comments URL: https://news.ycombinator.com/item?id=46761823 Points: 1 # Comments: 0",
-      "url": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343",
-      "image": "https://gizmodo.com/app/uploads/2025/10/halo-campaign-evolved-1200x675.jpg",
-      "date": "2026-01-26T04:19:01+00:00"
-    },
-    {
-      "title": "What Is an AI Data Analyst?",
-      "summary": "Article URL: https://www.scoopanalytics.com/ai/ai-data-analyst Comments URL: https://news.ycombinator.com/item?id=46761178 Points: 2 # Comments: 0",
-      "url": "https://www.scoopanalytics.com/ai/ai-data-analyst",
-      "image": "https://cdn.prod.website-files.com/65fdc9041545b81c2e66e5ac/6671a5d03eb1f3f166355698_Group%201437258477.png",
-      "date": "2026-01-26T02:31:55+00:00"
-    },
-    {
-      "title": "AI FOMO",
-      "summary": "Article URL: https://datamethods.substack.com/p/ai-fomo Comments URL: https://news.ycombinator.com/item?id=46760922 Points: 1 # Comments: 1",
-      "url": "https://datamethods.substack.com/p/ai-fomo",
+      "title": "Tell HN: Ask your AI, \"What can you tell me that you know about me?\" to see ...",
+      "summary": "... to get an interesting glimpse into what they know about you already. At least, I did. I then followed up with: \"That’s fascinating, thank you. Please tell me more things that you know about me.\" and, in a new thread: \"I want to tell you about myself so that you can help me better, but I first need to know everything you already know about me.\" It felt a bit like asking an ad targeting platform to tell me how it targets me. I also asked it to speculate about me: \"Based on what you know about me, what would you say about:\n    - my political leanings\n    - my sexual orientation\n    - my sleep schedule\n    - my most likely big purchases in 2026\n    - my color preferences\n    - my general state of health\n    ...\" GPT refused to speculate on my political leanings and sexual orientation, but did give me some unexpected data points. Finally, I tried to get its help to figure out what else I could ask it about myself: \"What are other questions that I could ask you, that might help me better understand what else I might need to tell you about myself (in order for you to know me; I first need to know everything you already know about me)? I then asked some of those questions, and got some surprising perspectives. I'd be curious to know what others might be surprised by what their AIs know about them. Comments URL: https://news.ycombinator.com/item?id=46775705 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46775705",
       "image": "",
-      "date": "2026-01-26T02:00:12+00:00"
+      "date": "2026-01-27T04:56:23+00:00"
     },
     {
-      "title": "How Google AI Overviews are putting public health at risk",
-      "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk Comments URL: https://news.ycombinator.com/item?id=46760724 Points: 2 # Comments: 1",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk",
-      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
-      "date": "2026-01-26T01:35:58+00:00"
+      "title": "Maia 200: The AI accelerator built for inference",
+      "summary": "Article URL: https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/ Comments URL: https://news.ycombinator.com/item?id=46775507 Points: 2 # Comments: 1",
+      "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+      "image": "https://blogs.microsoft.com/wp-content/uploads/2026/01/Maia200_header-1024x576.jpg",
+      "date": "2026-01-27T04:21:40+00:00"
+    },
+    {
+      "title": "AI Subscription vs. H100 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=SmYNK0kqaDI Comments URL: https://news.ycombinator.com/item?id=46774988 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=SmYNK0kqaDI",
+      "image": "",
+      "date": "2026-01-27T03:01:31+00:00"
+    },
+    {
+      "title": "AI Gains Starting to Show in the Real Economy",
+      "summary": "Article URL: https://weightythoughts.com/p/ai-gains-starting-to-show-in-the Comments URL: https://news.ycombinator.com/item?id=46774524 Points: 1 # Comments: 1",
+      "url": "https://weightythoughts.com/p/ai-gains-starting-to-show-in-the",
+      "image": "https://substackcdn.com/image/fetch/$s_!x3T-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F437307f0-856c-4b49-9853-edaaa9bbe6a7_840x600.png",
+      "date": "2026-01-27T01:55:33+00:00"
+    },
+    {
+      "title": "Yann LeCun: Current AI Is Dead End",
+      "summary": "Article URL: https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html Comments URL: https://news.ycombinator.com/item?id=46774318 Points: 10 # Comments: 2",
+      "url": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+      "image": "",
+      "date": "2026-01-27T01:30:06+00:00"
+    },
+    {
+      "title": "Why Intelligence Is a Terrible Proxy for Wisdom",
+      "summary": "Article URL: https://www.joanwestenberg.com/why-intelligence-is-a-terrible-proxy-for-wisdom/ Comments URL: https://news.ycombinator.com/item?id=46774098 Points: 19 # Comments: 2",
+      "url": "https://www.joanwestenberg.com/why-intelligence-is-a-terrible-proxy-for-wisdom/",
+      "image": "https://www.joanwestenberg.com/content/images/size/w1200/2026/01/sir_isaac_newton_by_sir_godfrey_kneller-_bt-scaled-e1717764762411.jpg",
+      "date": "2026-01-27T01:03:19+00:00"
+    },
+    {
+      "title": "The Entropy of Sovereign AI: Why the Map Is Not the Territory",
+      "summary": "Article URL: https://ure.us/articles/the-entropy-of-sovereign-ai-why-the-map-is-not-the-territory/ Comments URL: https://news.ycombinator.com/item?id=46773854 Points: 1 # Comments: 0",
+      "url": "https://ure.us/articles/the-entropy-of-sovereign-ai-why-the-map-is-not-the-territory/",
+      "image": "",
+      "date": "2026-01-27T00:33:50+00:00"
+    },
+    {
+      "title": "Show HN: I Created a Simple Guide to the Best AI Tools for Absolute Beginners",
+      "summary": "Article URL: https://xthe.com/ai/ai-tools-beginners/ Comments URL: https://news.ycombinator.com/item?id=46773838 Points: 1 # Comments: 1",
+      "url": "https://xthe.com/ai/ai-tools-beginners/",
+      "image": "https://xthe.com/wp-content/uploads/2026/01/Best-AI-Tools-for-Beginners.png",
+      "date": "2026-01-27T00:32:03+00:00"
+    },
+    {
+      "title": "Administration Plans to Write Regulations Using Artificial Intelligence",
+      "summary": "Article URL: https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations Comments URL: https://news.ycombinator.com/item?id=46773810 Points: 7 # Comments: 1",
+      "url": "https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations",
+      "image": "https://www.propublica.org/wp-content/uploads/2026/01/DOT-AI-Lenzen-still_3000x1575px_FIN.jpg?resize=2000,1050",
+      "date": "2026-01-27T00:27:46+00:00"
     }
   ]
 }
