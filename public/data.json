@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-01-27T06:53:32.831689+00:00",
+  "generated_at": "2026-01-28T06:53:51.081171+00:00",
   "items": [
     {
-      "title": "New Nvidia Nemotron-Personas-Singapore Dataset for Sovereign AI",
-      "summary": "Article URL: https://huggingface.co/datasets/nvidia/Nemotron-Personas-Singaporehttps://huggingface.co/datasets/nvidia/Nemotron-Personas-Singapore Comments URL: https://news.ycombinator.com/item?id=46776144 Points: 1 # Comments: 0",
-      "url": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Singaporehttps://huggingface.co/datasets/nvidia/Nemotron-Personas-Singapore",
+      "title": "AI's 7* 24 Hours",
+      "summary": "Article URL: https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755 Comments URL: https://news.ycombinator.com/item?id=46791757 Points: 2 # Comments: 0",
+      "url": "https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755",
+      "image": "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?ixlib=rb-4.1.0&q=50&fm=webp&crop=entropy&cs=srgb&t=2f53e9e4-833e-801a-8725-d85739311755&width=1080&fmt=webp",
+      "date": "2026-01-28T06:23:34+00:00"
+    },
+    {
+      "title": "AI Is Not Inevitable",
+      "summary": "Article URL: https://dustin.boston/ai-is-not-inevitable/ Comments URL: https://news.ycombinator.com/item?id=46791684 Points: 3 # Comments: 0",
+      "url": "https://dustin.boston/ai-is-not-inevitable/",
+      "image": "https://dustin.boston/wp-content/uploads/2026/01/android-chrome-512x512-1.png",
+      "date": "2026-01-28T06:10:57+00:00"
+    },
+    {
+      "title": "Ask HN: Doctors Using AI Workflow Automation – What's the Real Impact?",
+      "summary": "We see increasing integration of AI in hospitals: systems that auto-generate clinical notes from doctor‘s speech , “radiology agents” that pre-read scans , and even “digital doctor” projects for specific pathways . I‘m keen to hear from medical professionals, hospital IT staff, or developers in this field about the ground truth. What specific, repetitive tasks in your workflow have been successfully automated or augmented by AI? (E.g., documentation, coding, preliminary screening). What has been the actual effect on your daily hours, mental load, and patient interaction time? Are the promised efficiency gains real? What are the biggest frustrations? (e.g., AI “hallucinations” in notes, rigid workflows, integration nightmares with EHRs, or the time needed to review/correct AI output). Please share your honest experience, good or bad. Comments URL: https://news.ycombinator.com/item?id=46791644 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46791644",
       "image": "",
-      "date": "2026-01-27T06:15:52+00:00"
+      "date": "2026-01-28T06:02:47+00:00"
     },
     {
-      "title": "Why Regulatory Scrutiny of AI Becomes Inevitable",
-      "summary": "Article URL: https://www.aivojournal.org/why-regulatory-scrutiny-of-ai-becomes-inevitable/ Comments URL: https://news.ycombinator.com/item?id=46775863 Points: 1 # Comments: 1",
-      "url": "https://www.aivojournal.org/why-regulatory-scrutiny-of-ai-becomes-inevitable/",
-      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-26--2026-at-01_48_12-PM.png",
-      "date": "2026-01-27T05:24:41+00:00"
-    },
-    {
-      "title": "Why IDE-Level AI Rules Will Always Lose to Model-Level Capabilities",
-      "summary": "Article URL: https://lellansin.github.io/2026/01/27/Why-Cursor-Rules-Failed-and-Claude-Skill-Succeeded/ Comments URL: https://news.ycombinator.com/item?id=46775745 Points: 1 # Comments: 1",
-      "url": "https://lellansin.github.io/2026/01/27/Why-Cursor-Rules-Failed-and-Claude-Skill-Succeeded/",
+      "title": "Ask HN: Vibe Researching\" with AI – Anyone Using It for Real?",
+      "summary": "The concept of \"vibe researching\" – using AI to rapidly explore, synthesize literature, and generate novel research ideas or frameworks – seems promising. Beyond just literature reviews, it could act as a brainstorming co-pilot. Has anyone here seriously used AI (e.g., Claude for long-context paper analysis, custom GPTs on arXiv, or specialized agents) to aid in hypothesis generation, research gap identification, or drafting substantive parts of a paper? What are the biggest pitfalls regarding accuracy, hallucination of citations, or superficial understanding of complex theory? How do you validate the AI's output? Do you see it as a legitimate accelerator for early-stage research, or more of a productivity tool for mundane tasks? Any success stories linking it to a tangible research outcome? Looking for honest experiences from academics, industry researchers, or solo discoverers. Comments URL: https://news.ycombinator.com/item?id=46791551 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46791551",
       "image": "",
-      "date": "2026-01-27T05:03:42+00:00"
+      "date": "2026-01-28T05:50:46+00:00"
     },
     {
-      "title": "Tell HN: Ask your AI, \"What can you tell me that you know about me?\" to see ...",
-      "summary": "... to get an interesting glimpse into what they know about you already. At least, I did. I then followed up with: \"That’s fascinating, thank you. Please tell me more things that you know about me.\" and, in a new thread: \"I want to tell you about myself so that you can help me better, but I first need to know everything you already know about me.\" It felt a bit like asking an ad targeting platform to tell me how it targets me. I also asked it to speculate about me: \"Based on what you know about me, what would you say about:\n    - my political leanings\n    - my sexual orientation\n    - my sleep schedule\n    - my most likely big purchases in 2026\n    - my color preferences\n    - my general state of health\n    ...\" GPT refused to speculate on my political leanings and sexual orientation, but did give me some unexpected data points. Finally, I tried to get its help to figure out what else I could ask it about myself: \"What are other questions that I could ask you, that might help me better understand what else I might need to tell you about myself (in order for you to know me; I first need to know everything you already know about me)? I then asked some of those questions, and got some surprising perspectives. I'd be curious to know what others might be surprised by what their AIs know about them. Comments URL: https://news.ycombinator.com/item?id=46775705 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46775705",
+      "title": "Ask HN: Do you verify AI-generated content before publishing?",
+      "summary": "I'm researching content repurposing tools and trying to understand a workflow gap: When you use AI to turn podcasts/interviews/webinars into social posts, do you verify accuracy before publishing? Context: Tools like Castmagic and Descript are 85-95% accurate. That 5-15% error rate means AI sometimes:\n- Misquotes speakers\n- Paraphrases in ways that change meaning\n- Attributes quotes to wrong person (multi-speaker issue) I've found two camps: Camp A: \"I carefully verify everything\"\n- Re-read transcripts or scrub audio\n- Takes 20-30 minutes per post\n- Zero tolerance for publishing errors Camp B: \"I trust AI and publish\"\n- \"Good enough\" for social media\n- Errors are rare enough to accept\n- Speed > perfection My questions:\n1. Which camp are you in?\n2. If Camp A: what's your verification workflow?\n3. Has anyone been burned by publishing inaccurate AI content?\n4. Would \"click any quote to hear exact audio timestamp\" be valuable? Building a tool that links every generated claim to source evidence. Trying to validate if this solves a real problem or if I'm overthinking content accuracy. Appreciate any insights from the HN community. Comments URL: https://news.ycombinator.com/item?id=46791462 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46791462",
       "image": "",
-      "date": "2026-01-27T04:56:23+00:00"
+      "date": "2026-01-28T05:33:20+00:00"
     },
     {
-      "title": "Maia 200: The AI accelerator built for inference",
-      "summary": "Article URL: https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/ Comments URL: https://news.ycombinator.com/item?id=46775507 Points: 2 # Comments: 1",
-      "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-      "image": "https://blogs.microsoft.com/wp-content/uploads/2026/01/Maia200_header-1024x576.jpg",
-      "date": "2026-01-27T04:21:40+00:00"
+      "title": "AI discovers 12 of 12 OpenSSL zero-days (while curl cancelled its bug bounty)",
+      "summary": "Article URL: https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its Comments URL: https://news.ycombinator.com/item?id=46791400 Points: 3 # Comments: 1",
+      "url": "https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "date": "2026-01-28T05:23:59+00:00"
     },
     {
-      "title": "AI Subscription vs. H100 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=SmYNK0kqaDI Comments URL: https://news.ycombinator.com/item?id=46774988 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=SmYNK0kqaDI",
+      "title": "Ask HN: Why all the sudden people are writing browsers with AI?",
+      "summary": "There is something going on with people, like why do you want to write a browser with the help of AI? Comments URL: https://news.ycombinator.com/item?id=46790957 Points: 24 # Comments: 43",
+      "url": "https://news.ycombinator.com/item?id=46790957",
       "image": "",
-      "date": "2026-01-27T03:01:31+00:00"
+      "date": "2026-01-28T04:11:47+00:00"
     },
     {
-      "title": "AI Gains Starting to Show in the Real Economy",
-      "summary": "Article URL: https://weightythoughts.com/p/ai-gains-starting-to-show-in-the Comments URL: https://news.ycombinator.com/item?id=46774524 Points: 1 # Comments: 1",
-      "url": "https://weightythoughts.com/p/ai-gains-starting-to-show-in-the",
-      "image": "https://substackcdn.com/image/fetch/$s_!x3T-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F437307f0-856c-4b49-9853-edaaa9bbe6a7_840x600.png",
-      "date": "2026-01-27T01:55:33+00:00"
+      "title": "Big Tech's borrowing spree raises fears of AI risks in US bond market",
+      "summary": "Article URL: https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78 Comments URL: https://news.ycombinator.com/item?id=46790951 Points: 3 # Comments: 0",
+      "url": "https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9dbf0106-cf69-45c7-abf3-905831949955.jpg?source=next-barrier-page",
+      "date": "2026-01-28T04:10:15+00:00"
     },
     {
-      "title": "Yann LeCun: Current AI Is Dead End",
-      "summary": "Article URL: https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html Comments URL: https://news.ycombinator.com/item?id=46774318 Points: 10 # Comments: 2",
-      "url": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+      "title": "Measuring US workers' capacity to adapt to AI-driven job displacement",
+      "summary": "Article URL: https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/ Comments URL: https://news.ycombinator.com/item?id=46790549 Points: 3 # Comments: 1",
+      "url": "https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/",
+      "image": "https://www.brookings.edu/wp-content/uploads/2026/01/JamillahKnowles-DigitBuildingCorp-1280x720-1.png?quality=75",
+      "date": "2026-01-28T03:04:30+00:00"
+    },
+    {
+      "title": "Nvidia's New Voice AI – low latency",
+      "summary": "Article URL: https://www.youtube.com/watch?v=n_m0fqp8xwQ Comments URL: https://news.ycombinator.com/item?id=46790540 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=n_m0fqp8xwQ",
       "image": "",
-      "date": "2026-01-27T01:30:06+00:00"
+      "date": "2026-01-28T03:03:03+00:00"
     },
     {
-      "title": "Why Intelligence Is a Terrible Proxy for Wisdom",
-      "summary": "Article URL: https://www.joanwestenberg.com/why-intelligence-is-a-terrible-proxy-for-wisdom/ Comments URL: https://news.ycombinator.com/item?id=46774098 Points: 19 # Comments: 2",
-      "url": "https://www.joanwestenberg.com/why-intelligence-is-a-terrible-proxy-for-wisdom/",
-      "image": "https://www.joanwestenberg.com/content/images/size/w1200/2026/01/sir_isaac_newton_by_sir_godfrey_kneller-_bt-scaled-e1717764762411.jpg",
-      "date": "2026-01-27T01:03:19+00:00"
+      "title": "AI benchmark of unsolved math problems, solutions verifiable programmatically",
+      "summary": "Article URL: https://epoch.ai/frontiermath/open-problems Comments URL: https://news.ycombinator.com/item?id=46790387 Points: 2 # Comments: 0",
+      "url": "https://epoch.ai/frontiermath/open-problems",
+      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
+      "date": "2026-01-28T02:43:07+00:00"
     },
     {
-      "title": "The Entropy of Sovereign AI: Why the Map Is Not the Territory",
-      "summary": "Article URL: https://ure.us/articles/the-entropy-of-sovereign-ai-why-the-map-is-not-the-territory/ Comments URL: https://news.ycombinator.com/item?id=46773854 Points: 1 # Comments: 0",
-      "url": "https://ure.us/articles/the-entropy-of-sovereign-ai-why-the-map-is-not-the-territory/",
+      "title": "Is coding dead because AI has taken over it?",
+      "summary": "Article URL: https://www.jehuamanna.com/blog/2026/is-coding-dead/ Comments URL: https://news.ycombinator.com/item?id=46790068 Points: 13 # Comments: 11",
+      "url": "https://www.jehuamanna.com/blog/2026/is-coding-dead/",
       "image": "",
-      "date": "2026-01-27T00:33:50+00:00"
-    },
-    {
-      "title": "Show HN: I Created a Simple Guide to the Best AI Tools for Absolute Beginners",
-      "summary": "Article URL: https://xthe.com/ai/ai-tools-beginners/ Comments URL: https://news.ycombinator.com/item?id=46773838 Points: 1 # Comments: 1",
-      "url": "https://xthe.com/ai/ai-tools-beginners/",
-      "image": "https://xthe.com/wp-content/uploads/2026/01/Best-AI-Tools-for-Beginners.png",
-      "date": "2026-01-27T00:32:03+00:00"
-    },
-    {
-      "title": "Administration Plans to Write Regulations Using Artificial Intelligence",
-      "summary": "Article URL: https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations Comments URL: https://news.ycombinator.com/item?id=46773810 Points: 7 # Comments: 1",
-      "url": "https://www.propublica.org/article/trump-artificial-intelligence-google-gemini-transportation-regulations",
-      "image": "https://www.propublica.org/wp-content/uploads/2026/01/DOT-AI-Lenzen-still_3000x1575px_FIN.jpg?resize=2000,1050",
-      "date": "2026-01-27T00:27:46+00:00"
+      "date": "2026-01-28T01:59:43+00:00"
     }
   ]
 }
