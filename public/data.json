@@ -1,89 +1,96 @@
 {
-  "generated_at": "2026-01-28T06:53:51.081171+00:00",
+  "generated_at": "2026-01-29T07:05:06.227559+00:00",
   "items": [
     {
-      "title": "AI's 7* 24 Hours",
-      "summary": "Article URL: https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755 Comments URL: https://news.ycombinator.com/item?id=46791757 Points: 2 # Comments: 0",
-      "url": "https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755",
-      "image": "https://images.unsplash.com/photo-1494232410401-ad00d5433cfa?ixlib=rb-4.1.0&q=50&fm=webp&crop=entropy&cs=srgb&t=2f53e9e4-833e-801a-8725-d85739311755&width=1080&fmt=webp",
-      "date": "2026-01-28T06:23:34+00:00"
+      "title": "The State of (AI) Code Developer Survey",
+      "summary": "Article URL: https://www.sonarsource.com/resources/developer-survey-report/ Comments URL: https://news.ycombinator.com/item?id=46806605 Points: 1 # Comments: 0",
+      "url": "https://www.sonarsource.com/resources/developer-survey-report/",
+      "image": "https://assets-eu-01.kc-usercontent.com:443/ef593040-b591-0198-9506-ed88b30bc023/8e69d91e-9d71-453d-a4c7-d25797ae7e1a/sonar-open-graph%402x.png",
+      "date": "2026-01-29T06:37:27+00:00"
     },
     {
-      "title": "AI Is Not Inevitable",
-      "summary": "Article URL: https://dustin.boston/ai-is-not-inevitable/ Comments URL: https://news.ycombinator.com/item?id=46791684 Points: 3 # Comments: 0",
-      "url": "https://dustin.boston/ai-is-not-inevitable/",
-      "image": "https://dustin.boston/wp-content/uploads/2026/01/android-chrome-512x512-1.png",
-      "date": "2026-01-28T06:10:57+00:00"
+      "title": "Why AI-Mediated Decisions Require a Ledger",
+      "summary": "Article URL: https://www.aivojournal.org/reasoning-without-records/ Comments URL: https://news.ycombinator.com/item?id=46806334 Points: 2 # Comments: 1",
+      "url": "https://www.aivojournal.org/reasoning-without-records/",
+      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-29--2026-at-06_52_34-AM.png",
+      "date": "2026-01-29T05:56:45+00:00"
     },
     {
-      "title": "Ask HN: Doctors Using AI Workflow Automation – What's the Real Impact?",
-      "summary": "We see increasing integration of AI in hospitals: systems that auto-generate clinical notes from doctor‘s speech , “radiology agents” that pre-read scans , and even “digital doctor” projects for specific pathways . I‘m keen to hear from medical professionals, hospital IT staff, or developers in this field about the ground truth. What specific, repetitive tasks in your workflow have been successfully automated or augmented by AI? (E.g., documentation, coding, preliminary screening). What has been the actual effect on your daily hours, mental load, and patient interaction time? Are the promised efficiency gains real? What are the biggest frustrations? (e.g., AI “hallucinations” in notes, rigid workflows, integration nightmares with EHRs, or the time needed to review/correct AI output). Please share your honest experience, good or bad. Comments URL: https://news.ycombinator.com/item?id=46791644 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46791644",
+      "title": "AI-Generated Narratives Acquire Authority Without Records",
+      "summary": "Article URL: https://www.aivojournal.org/the-reconstructability-gap/ Comments URL: https://news.ycombinator.com/item?id=46806084 Points: 4 # Comments: 1",
+      "url": "https://www.aivojournal.org/the-reconstructability-gap/",
+      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-29--2026-at-01_34_45-AM.png",
+      "date": "2026-01-29T05:16:24+00:00"
+    },
+    {
+      "title": "Mythology Story Generator – Create Personalized Mythic Tales with AI",
+      "summary": "Article URL: https://www.genstory.app/story-template/mythology-story-generator Comments URL: https://news.ycombinator.com/item?id=46806081 Points: 1 # Comments: 1",
+      "url": "https://www.genstory.app/story-template/mythology-story-generator",
+      "image": "https://genstory.app/og-image.png?v=2",
+      "date": "2026-01-29T05:16:18+00:00"
+    },
+    {
+      "title": "Can AI companies become profitable?",
+      "summary": "Article URL: https://epoch.ai/gradient-updates/can-ai-companies-become-profitable Comments URL: https://news.ycombinator.com/item?id=46805733 Points: 7 # Comments: 3",
+      "url": "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable",
+      "image": "https://epoch.ai/assets/images/thumbnails/gradient-updates.png",
+      "date": "2026-01-29T04:12:46+00:00"
+    },
+    {
+      "title": "AI Prompt to Write in Minimalist Style of Ernest Hemingway",
+      "summary": "Article URL: https://tools.eq4c.com/ai-prompts/ai-prompt-to-write-in-minimalist-style-of-ernest-hemingway/ Comments URL: https://news.ycombinator.com/item?id=46805649 Points: 3 # Comments: 0",
+      "url": "https://tools.eq4c.com/ai-prompts/ai-prompt-to-write-in-minimalist-style-of-ernest-hemingway/",
       "image": "",
-      "date": "2026-01-28T06:02:47+00:00"
+      "date": "2026-01-29T03:56:47+00:00"
     },
     {
-      "title": "Ask HN: Vibe Researching\" with AI – Anyone Using It for Real?",
-      "summary": "The concept of \"vibe researching\" – using AI to rapidly explore, synthesize literature, and generate novel research ideas or frameworks – seems promising. Beyond just literature reviews, it could act as a brainstorming co-pilot. Has anyone here seriously used AI (e.g., Claude for long-context paper analysis, custom GPTs on arXiv, or specialized agents) to aid in hypothesis generation, research gap identification, or drafting substantive parts of a paper? What are the biggest pitfalls regarding accuracy, hallucination of citations, or superficial understanding of complex theory? How do you validate the AI's output? Do you see it as a legitimate accelerator for early-stage research, or more of a productivity tool for mundane tasks? Any success stories linking it to a tangible research outcome? Looking for honest experiences from academics, industry researchers, or solo discoverers. Comments URL: https://news.ycombinator.com/item?id=46791551 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46791551",
+      "title": "Silicon Empires: The Political Economy of AI with Nick Srnicek",
+      "summary": "Article URL: https://thedigradio.com/podcast/silicon-empires-w-nick-srnicek/ Comments URL: https://news.ycombinator.com/item?id=46805211 Points: 2 # Comments: 0",
+      "url": "https://thedigradio.com/podcast/silicon-empires-w-nick-srnicek/",
+      "image": "https://www.thedigradio.com/public/twit.jpg",
+      "date": "2026-01-29T02:59:37+00:00"
+    },
+    {
+      "title": "Show HN: Lexiso – Authorization layer for AI agents that spend money",
+      "summary": "We built Lexiso because I kept running into the same question: when AI agents start making purchases, who decides what they're allowed to spend? Today, if you're building an AI agent that buys things (shopping assistant, procurement bot, subscription manager), you either: - Give it your card and hope for the best\n- Build custom authorization logic yourself\n- Don't let it spend money at all None of these scale. Lexiso is the missing layer. It's an API that sits between your agent and any payment system: 1. Register your agent\n2. Define policies (amount limits, merchant restrictions, time windows)\n3. Call /authorize before any purchase\n4. Get a signed yes/no decision in <300ms\n5. Full audit trail for compliance The response is cryptographically signed, so you can prove later exactly what was authorized and why. Site: https://lexiso.app Live API: https://api.lexiso.app Docs: https://lexiso.app/docs npm: npm install lexiso Looking for feedback from anyone building agents that touch financial workflows. What's broken? What's missing? Would you use this? Technical details:\n- Go backend, PostgreSQL\n- RSA-2048 signatures on all decisions\n- Designed for AP2 compliance (Google's agent payments protocol)\n- No custody, no money movement – authorization only Comments URL: https://news.ycombinator.com/item?id=46804225 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46804225",
       "image": "",
-      "date": "2026-01-28T05:50:46+00:00"
+      "date": "2026-01-29T00:59:16+00:00"
     },
     {
-      "title": "Ask HN: Do you verify AI-generated content before publishing?",
-      "summary": "I'm researching content repurposing tools and trying to understand a workflow gap: When you use AI to turn podcasts/interviews/webinars into social posts, do you verify accuracy before publishing? Context: Tools like Castmagic and Descript are 85-95% accurate. That 5-15% error rate means AI sometimes:\n- Misquotes speakers\n- Paraphrases in ways that change meaning\n- Attributes quotes to wrong person (multi-speaker issue) I've found two camps: Camp A: \"I carefully verify everything\"\n- Re-read transcripts or scrub audio\n- Takes 20-30 minutes per post\n- Zero tolerance for publishing errors Camp B: \"I trust AI and publish\"\n- \"Good enough\" for social media\n- Errors are rare enough to accept\n- Speed > perfection My questions:\n1. Which camp are you in?\n2. If Camp A: what's your verification workflow?\n3. Has anyone been burned by publishing inaccurate AI content?\n4. Would \"click any quote to hear exact audio timestamp\" be valuable? Building a tool that links every generated claim to source evidence. Trying to validate if this solves a real problem or if I'm overthinking content accuracy. Appreciate any insights from the HN community. Comments URL: https://news.ycombinator.com/item?id=46791462 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46791462",
+      "title": "The Artificial Man",
+      "summary": "Article URL: https://jack-bradshaw.com/journal/item/the-artificial-man/ Comments URL: https://news.ycombinator.com/item?id=46804176 Points: 1 # Comments: 0",
+      "url": "https://jack-bradshaw.com/journal/item/the-artificial-man/",
       "image": "",
-      "date": "2026-01-28T05:33:20+00:00"
+      "date": "2026-01-29T00:54:20+00:00"
     },
     {
-      "title": "AI discovers 12 of 12 OpenSSL zero-days (while curl cancelled its bug bounty)",
-      "summary": "Article URL: https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its Comments URL: https://news.ycombinator.com/item?id=46791400 Points: 3 # Comments: 1",
-      "url": "https://www.lesswrong.com/posts/7aJwgbMEiKq5egQbd/ai-found-12-of-12-openssl-zero-days-while-curl-cancelled-its",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "date": "2026-01-28T05:23:59+00:00"
-    },
-    {
-      "title": "Ask HN: Why all the sudden people are writing browsers with AI?",
-      "summary": "There is something going on with people, like why do you want to write a browser with the help of AI? Comments URL: https://news.ycombinator.com/item?id=46790957 Points: 24 # Comments: 43",
-      "url": "https://news.ycombinator.com/item?id=46790957",
+      "title": "The AI Reconstructability Gap v2.o",
+      "summary": "Article URL: https://zenodo.org/records/18408102 Comments URL: https://news.ycombinator.com/item?id=46803885 Points: 1 # Comments: 1",
+      "url": "https://zenodo.org/records/18408102",
       "image": "",
-      "date": "2026-01-28T04:11:47+00:00"
+      "date": "2026-01-29T00:26:05+00:00"
     },
     {
-      "title": "Big Tech's borrowing spree raises fears of AI risks in US bond market",
-      "summary": "Article URL: https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78 Comments URL: https://news.ycombinator.com/item?id=46790951 Points: 3 # Comments: 0",
-      "url": "https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9dbf0106-cf69-45c7-abf3-905831949955.jpg?source=next-barrier-page",
-      "date": "2026-01-28T04:10:15+00:00"
-    },
-    {
-      "title": "Measuring US workers' capacity to adapt to AI-driven job displacement",
-      "summary": "Article URL: https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/ Comments URL: https://news.ycombinator.com/item?id=46790549 Points: 3 # Comments: 1",
-      "url": "https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/",
-      "image": "https://www.brookings.edu/wp-content/uploads/2026/01/JamillahKnowles-DigitBuildingCorp-1280x720-1.png?quality=75",
-      "date": "2026-01-28T03:04:30+00:00"
-    },
-    {
-      "title": "Nvidia's New Voice AI – low latency",
-      "summary": "Article URL: https://www.youtube.com/watch?v=n_m0fqp8xwQ Comments URL: https://news.ycombinator.com/item?id=46790540 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=n_m0fqp8xwQ",
+      "title": "Don't Automate Chaos: The \"100x Rule\" of Factory AI",
+      "summary": "I spent years working at Sysmex (medical devices) and Toyota Group (automotive parts) in Japan. With the current AI boom, I see many companies trying to inject \"Silicon Valley logic\" (move fast and break things) into manufacturing floors. In my experience, this usually leads to what I call the \"PoC Graveyard.\" In the physical world, bugs aren't just Jira tickets—they are injuries, recalls, or broken lines. I argue that before writing any code, we must follow the \"100x Rule\": Non-Standardized Process + AI = 100x Chaos Standardized Process + AI = 100x Profit If you automate a mess, you just get a faster mess. I put together my thoughts on why \"Standardization\" must strictly precede \"Automation,\" along with a 5-step checklist I use to diagnose factory readiness. Comments URL: https://news.ycombinator.com/item?id=46803831 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46803831",
       "image": "",
-      "date": "2026-01-28T03:03:03+00:00"
+      "date": "2026-01-29T00:20:42+00:00"
     },
     {
-      "title": "AI benchmark of unsolved math problems, solutions verifiable programmatically",
-      "summary": "Article URL: https://epoch.ai/frontiermath/open-problems Comments URL: https://news.ycombinator.com/item?id=46790387 Points: 2 # Comments: 0",
-      "url": "https://epoch.ai/frontiermath/open-problems",
-      "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
-      "date": "2026-01-28T02:43:07+00:00"
+      "title": "Bank of America's Struggles with Nvidia AI",
+      "summary": "Article URL: https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1 Comments URL: https://news.ycombinator.com/item?id=46803724 Points: 4 # Comments: 1",
+      "url": "https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1",
+      "image": "https://i.insider.com/6977dccba645d118818802fb?width=1200&format=jpeg",
+      "date": "2026-01-29T00:10:55+00:00"
     },
     {
-      "title": "Is coding dead because AI has taken over it?",
-      "summary": "Article URL: https://www.jehuamanna.com/blog/2026/is-coding-dead/ Comments URL: https://news.ycombinator.com/item?id=46790068 Points: 13 # Comments: 11",
-      "url": "https://www.jehuamanna.com/blog/2026/is-coding-dead/",
+      "title": "Moltbot AI assistant raises concerns over data security",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/ Comments URL: https://news.ycombinator.com/item?id=46803671 Points: 2 # Comments: 0",
+      "url": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
       "image": "",
-      "date": "2026-01-28T01:59:43+00:00"
+      "date": "2026-01-29T00:06:13+00:00"
     }
   ]
 }
