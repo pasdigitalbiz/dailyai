@@ -1,96 +1,103 @@
 {
-  "generated_at": "2026-01-29T07:05:06.227559+00:00",
+  "generated_at": "2026-01-30T07:05:51.546895+00:00",
   "items": [
     {
-      "title": "The State of (AI) Code Developer Survey",
-      "summary": "Article URL: https://www.sonarsource.com/resources/developer-survey-report/ Comments URL: https://news.ycombinator.com/item?id=46806605 Points: 1 # Comments: 0",
-      "url": "https://www.sonarsource.com/resources/developer-survey-report/",
-      "image": "https://assets-eu-01.kc-usercontent.com:443/ef593040-b591-0198-9506-ed88b30bc023/8e69d91e-9d71-453d-a4c7-d25797ae7e1a/sonar-open-graph%402x.png",
-      "date": "2026-01-29T06:37:27+00:00"
+      "title": "Anthropic: AI Coding shows no productivity gains; impairs skill development",
+      "summary": "Article URL: https://arxiv.org/abs/2601.02024 Comments URL: https://news.ycombinator.com/item?id=46821351 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2601.02024",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-01-30T07:04:48+00:00"
     },
     {
-      "title": "Why AI-Mediated Decisions Require a Ledger",
-      "summary": "Article URL: https://www.aivojournal.org/reasoning-without-records/ Comments URL: https://news.ycombinator.com/item?id=46806334 Points: 2 # Comments: 1",
-      "url": "https://www.aivojournal.org/reasoning-without-records/",
-      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-29--2026-at-06_52_34-AM.png",
-      "date": "2026-01-29T05:56:45+00:00"
+      "title": "The preposterous notion of AI automating \"repetitive\" work",
+      "summary": "This is just one of those narratives that people latch onto because it has a nice ring to it. Or maybe it’s because it makes AI sound less threatening and perhaps even palatable. “Don’t worry. AI is going to replace only the repetitive parts of your job.” But if you spend even a minute examining this narrative, then you will realize just how preposterous it is. Humans have already figured out how to automate repetitive physical and digital labor, and we’ve been doing it for decades and even centuries by using machines and computing. Simply put: If it’s repetitive, then you don’t need AI to automate it. In fact, the kinds of task we want AI to automate are precisely those that AREN’T repetitive. That was the whole god damn point of AI. How did we go from the original purpose of AI to claiming that it will do what we’ve already been doing for decades? Where do these narratives come from, and why do people fall for them? Comments URL: https://news.ycombinator.com/item?id=46821097 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46821097",
+      "image": "",
+      "date": "2026-01-30T06:12:14+00:00"
     },
     {
-      "title": "AI-Generated Narratives Acquire Authority Without Records",
-      "summary": "Article URL: https://www.aivojournal.org/the-reconstructability-gap/ Comments URL: https://news.ycombinator.com/item?id=46806084 Points: 4 # Comments: 1",
-      "url": "https://www.aivojournal.org/the-reconstructability-gap/",
-      "image": "https://www.aivojournal.org/content/images/size/w1200/2026/01/ChatGPT-Image-Jan-29--2026-at-01_34_45-AM.png",
-      "date": "2026-01-29T05:16:24+00:00"
+      "title": "A Beans Based AI Workflow",
+      "summary": "Article URL: https://caidan.dev/blog/2026-01-29-a-beans-based-ai-workflow/ Comments URL: https://news.ycombinator.com/item?id=46821014 Points: 2 # Comments: 1",
+      "url": "https://caidan.dev/blog/2026-01-29-a-beans-based-ai-workflow/",
+      "image": "https://caidan.dev/_astro/avatar.B7OQlREk.png?v=1769751563950",
+      "date": "2026-01-30T05:56:38+00:00"
     },
     {
-      "title": "Mythology Story Generator – Create Personalized Mythic Tales with AI",
-      "summary": "Article URL: https://www.genstory.app/story-template/mythology-story-generator Comments URL: https://news.ycombinator.com/item?id=46806081 Points: 1 # Comments: 1",
-      "url": "https://www.genstory.app/story-template/mythology-story-generator",
-      "image": "https://genstory.app/og-image.png?v=2",
-      "date": "2026-01-29T05:16:18+00:00"
+      "title": "Way AI assistance impacts the formation of coding skills",
+      "summary": "Article URL: https://www.anthropic.com/research/AI-assistance-coding-skills Comments URL: https://news.ycombinator.com/item?id=46820924 Points: 3 # Comments: 0",
+      "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Abacus&backgroundColor=sky",
+      "date": "2026-01-30T05:41:23+00:00"
+    },
+    {
+      "title": "Top engineers at Anthropic, OpenAI say AI now writes 100% of their code",
+      "summary": "Article URL: https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/ Comments URL: https://news.ycombinator.com/item?id=46820833 Points: 4 # Comments: 0",
+      "url": "https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2216956965_40536e-e1769705381107.jpg?resize=1200,600",
+      "date": "2026-01-30T05:24:37+00:00"
+    },
+    {
+      "title": "Fact-checking: Tasks that are hard for humans are easy for AI and vice versa?",
+      "summary": "Article URL: https://www.normaltech.ai/p/fact-checking-moravecs-paradox Comments URL: https://news.ycombinator.com/item?id=46820729 Points: 1 # Comments: 0",
+      "url": "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+      "image": "https://substackcdn.com/image/fetch/$s_!ydUI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0502b3-b033-478e-b7f7-d224b2ff51e4_1920x1080.png",
+      "date": "2026-01-30T05:06:22+00:00"
     },
     {
       "title": "Can AI companies become profitable?",
-      "summary": "Article URL: https://epoch.ai/gradient-updates/can-ai-companies-become-profitable Comments URL: https://news.ycombinator.com/item?id=46805733 Points: 7 # Comments: 3",
+      "summary": "Article URL: https://epoch.ai/gradient-updates/can-ai-companies-become-profitable Comments URL: https://news.ycombinator.com/item?id=46820676 Points: 4 # Comments: 0",
       "url": "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable",
       "image": "https://epoch.ai/assets/images/thumbnails/gradient-updates.png",
-      "date": "2026-01-29T04:12:46+00:00"
+      "date": "2026-01-30T04:56:42+00:00"
     },
     {
-      "title": "AI Prompt to Write in Minimalist Style of Ernest Hemingway",
-      "summary": "Article URL: https://tools.eq4c.com/ai-prompts/ai-prompt-to-write-in-minimalist-style-of-ernest-hemingway/ Comments URL: https://news.ycombinator.com/item?id=46805649 Points: 3 # Comments: 0",
-      "url": "https://tools.eq4c.com/ai-prompts/ai-prompt-to-write-in-minimalist-style-of-ernest-hemingway/",
+      "title": "Microsoft sheds $360B in market value as AI spending spooks investors",
+      "summary": "Article URL: https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90 Comments URL: https://news.ycombinator.com/item?id=46820591 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffdf7f8dd-0cfb-4c5d-882f-533289663dae.png?source=next-barrier-page",
+      "date": "2026-01-30T04:42:21+00:00"
+    },
+    {
+      "title": "Can We Build Trustworthy AI?",
+      "summary": "Article URL: https://gizmodo.com/ai-chatgpt-can-we-build-trustworthy-ai-1850405280 Comments URL: https://news.ycombinator.com/item?id=46820499 Points: 1 # Comments: 0",
+      "url": "https://gizmodo.com/ai-chatgpt-can-we-build-trustworthy-ai-1850405280",
+      "image": "https://gizmodo.com/app/uploads/2023/05/11efa2407e133b97ca44867f92405a4b.jpg",
+      "date": "2026-01-30T04:23:38+00:00"
+    },
+    {
+      "title": "The Richard Feynman Iterative Learning Framework AI Prompt",
+      "summary": "Article URL: https://tools.eq4c.com/prompt/ai-prompt-the-richard-feynman-iterative-learning-framework/ Comments URL: https://news.ycombinator.com/item?id=46820478 Points: 2 # Comments: 0",
+      "url": "https://tools.eq4c.com/prompt/ai-prompt-the-richard-feynman-iterative-learning-framework/",
       "image": "",
-      "date": "2026-01-29T03:56:47+00:00"
+      "date": "2026-01-30T04:19:01+00:00"
     },
     {
-      "title": "Silicon Empires: The Political Economy of AI with Nick Srnicek",
-      "summary": "Article URL: https://thedigradio.com/podcast/silicon-empires-w-nick-srnicek/ Comments URL: https://news.ycombinator.com/item?id=46805211 Points: 2 # Comments: 0",
-      "url": "https://thedigradio.com/podcast/silicon-empires-w-nick-srnicek/",
-      "image": "https://www.thedigradio.com/public/twit.jpg",
-      "date": "2026-01-29T02:59:37+00:00"
-    },
-    {
-      "title": "Show HN: Lexiso – Authorization layer for AI agents that spend money",
-      "summary": "We built Lexiso because I kept running into the same question: when AI agents start making purchases, who decides what they're allowed to spend? Today, if you're building an AI agent that buys things (shopping assistant, procurement bot, subscription manager), you either: - Give it your card and hope for the best\n- Build custom authorization logic yourself\n- Don't let it spend money at all None of these scale. Lexiso is the missing layer. It's an API that sits between your agent and any payment system: 1. Register your agent\n2. Define policies (amount limits, merchant restrictions, time windows)\n3. Call /authorize before any purchase\n4. Get a signed yes/no decision in <300ms\n5. Full audit trail for compliance The response is cryptographically signed, so you can prove later exactly what was authorized and why. Site: https://lexiso.app Live API: https://api.lexiso.app Docs: https://lexiso.app/docs npm: npm install lexiso Looking for feedback from anyone building agents that touch financial workflows. What's broken? What's missing? Would you use this? Technical details:\n- Go backend, PostgreSQL\n- RSA-2048 signatures on all decisions\n- Designed for AP2 compliance (Google's agent payments protocol)\n- No custody, no money movement – authorization only Comments URL: https://news.ycombinator.com/item?id=46804225 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46804225",
+      "title": "China's Next AI Shock Is Hardware [YouTube] [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=k_bHtx_e-SU Comments URL: https://news.ycombinator.com/item?id=46820406 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=k_bHtx_e-SU",
       "image": "",
-      "date": "2026-01-29T00:59:16+00:00"
+      "date": "2026-01-30T04:07:18+00:00"
     },
     {
-      "title": "The Artificial Man",
-      "summary": "Article URL: https://jack-bradshaw.com/journal/item/the-artificial-man/ Comments URL: https://news.ycombinator.com/item?id=46804176 Points: 1 # Comments: 0",
-      "url": "https://jack-bradshaw.com/journal/item/the-artificial-man/",
+      "title": "Your Own AI Developer on GitHub",
+      "summary": "Article URL: https://rellfy.com/blog/your-own-ai-developer-on-github/ Comments URL: https://news.ycombinator.com/item?id=46820377 Points: 1 # Comments: 0",
+      "url": "https://rellfy.com/blog/your-own-ai-developer-on-github/",
+      "image": "https://rellfy.com/blog/your-own-ai-developer-on-github/banner.jpg",
+      "date": "2026-01-30T03:59:09+00:00"
+    },
+    {
+      "title": "Medical journal publishes a letter on AI with a fake reference to itself",
+      "summary": "Article URL: https://retractionwatch.com/2026/01/28/medical-journal-publishes-a-paper-on-ai-with-a-fake-reference-to-itself/ Comments URL: https://news.ycombinator.com/item?id=46820357 Points: 1 # Comments: 0",
+      "url": "https://retractionwatch.com/2026/01/28/medical-journal-publishes-a-paper-on-ai-with-a-fake-reference-to-itself/",
+      "image": "https://retractionwatch.com/wp-content/uploads/2026/01/ICM_cover.png",
+      "date": "2026-01-30T03:55:01+00:00"
+    },
+    {
+      "title": "How Replacing Developers with AI Is Going Horribly Wrong [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ts0nH_pSAdM Comments URL: https://news.ycombinator.com/item?id=46820271 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ts0nH_pSAdM",
       "image": "",
-      "date": "2026-01-29T00:54:20+00:00"
-    },
-    {
-      "title": "The AI Reconstructability Gap v2.o",
-      "summary": "Article URL: https://zenodo.org/records/18408102 Comments URL: https://news.ycombinator.com/item?id=46803885 Points: 1 # Comments: 1",
-      "url": "https://zenodo.org/records/18408102",
-      "image": "",
-      "date": "2026-01-29T00:26:05+00:00"
-    },
-    {
-      "title": "Don't Automate Chaos: The \"100x Rule\" of Factory AI",
-      "summary": "I spent years working at Sysmex (medical devices) and Toyota Group (automotive parts) in Japan. With the current AI boom, I see many companies trying to inject \"Silicon Valley logic\" (move fast and break things) into manufacturing floors. In my experience, this usually leads to what I call the \"PoC Graveyard.\" In the physical world, bugs aren't just Jira tickets—they are injuries, recalls, or broken lines. I argue that before writing any code, we must follow the \"100x Rule\": Non-Standardized Process + AI = 100x Chaos Standardized Process + AI = 100x Profit If you automate a mess, you just get a faster mess. I put together my thoughts on why \"Standardization\" must strictly precede \"Automation,\" along with a 5-step checklist I use to diagnose factory readiness. Comments URL: https://news.ycombinator.com/item?id=46803831 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46803831",
-      "image": "",
-      "date": "2026-01-29T00:20:42+00:00"
-    },
-    {
-      "title": "Bank of America's Struggles with Nvidia AI",
-      "summary": "Article URL: https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1 Comments URL: https://news.ycombinator.com/item?id=46803724 Points: 4 # Comments: 1",
-      "url": "https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1",
-      "image": "https://i.insider.com/6977dccba645d118818802fb?width=1200&format=jpeg",
-      "date": "2026-01-29T00:10:55+00:00"
-    },
-    {
-      "title": "Moltbot AI assistant raises concerns over data security",
-      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/ Comments URL: https://news.ycombinator.com/item?id=46803671 Points: 2 # Comments: 0",
-      "url": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
-      "image": "",
-      "date": "2026-01-29T00:06:13+00:00"
+      "date": "2026-01-30T03:38:41+00:00"
     }
   ]
 }
