@@ -1,103 +1,96 @@
 {
-  "generated_at": "2026-01-30T07:05:51.546895+00:00",
+  "generated_at": "2026-01-31T06:56:47.819711+00:00",
   "items": [
     {
-      "title": "Anthropic: AI Coding shows no productivity gains; impairs skill development",
-      "summary": "Article URL: https://arxiv.org/abs/2601.02024 Comments URL: https://news.ycombinator.com/item?id=46821351 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2601.02024",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-01-30T07:04:48+00:00"
-    },
-    {
-      "title": "The preposterous notion of AI automating \"repetitive\" work",
-      "summary": "This is just one of those narratives that people latch onto because it has a nice ring to it. Or maybe it’s because it makes AI sound less threatening and perhaps even palatable. “Don’t worry. AI is going to replace only the repetitive parts of your job.” But if you spend even a minute examining this narrative, then you will realize just how preposterous it is. Humans have already figured out how to automate repetitive physical and digital labor, and we’ve been doing it for decades and even centuries by using machines and computing. Simply put: If it’s repetitive, then you don’t need AI to automate it. In fact, the kinds of task we want AI to automate are precisely those that AREN’T repetitive. That was the whole god damn point of AI. How did we go from the original purpose of AI to claiming that it will do what we’ve already been doing for decades? Where do these narratives come from, and why do people fall for them? Comments URL: https://news.ycombinator.com/item?id=46821097 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46821097",
+      "title": "Why AI coding agents feel powerful at first, then become harder to control",
+      "summary": "I’ve been thinking a lot about why AI coding agents feel great in the beginning, but become frustrating as projects grow. At small scale, prompting works. As the codebase grows, things start to drift:\n- constraints leak into prompts\n- commands get longer\n- behavior becomes inconsistent\n- “helpful” changes appear outside the intended scope Lately, I’ve been mapping common agent concepts (rules, commands, skills, sub-agents, MCP, hooks) not as features, but as control layers in an execution loop. Very roughly:\n- rules constrain decisions\n- commands trigger execution\n- skills encode repeatable methodology\n- sub-agents limit responsibility\n- MCP enables observation\n- hooks enforce guarantees My hypothesis is that many frustrations come from mixing these layers. For example, encoding constraints in commands, or trying to use hooks for reasoning. I’m curious how others here are thinking about this:\n- Do you treat agents as conversations or as systems?\n- At what point does prompting stop scaling for you?\n- How do you control blast radius when agents touch larger codebases?\n- Have you found concepts like skills or sub-agents actually useful, or just extra complexity? Comments URL: https://news.ycombinator.com/item?id=46834002 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=46834002",
       "image": "",
-      "date": "2026-01-30T06:12:14+00:00"
+      "date": "2026-01-31T06:24:02+00:00"
     },
     {
-      "title": "A Beans Based AI Workflow",
-      "summary": "Article URL: https://caidan.dev/blog/2026-01-29-a-beans-based-ai-workflow/ Comments URL: https://news.ycombinator.com/item?id=46821014 Points: 2 # Comments: 1",
-      "url": "https://caidan.dev/blog/2026-01-29-a-beans-based-ai-workflow/",
-      "image": "https://caidan.dev/_astro/avatar.B7OQlREk.png?v=1769751563950",
-      "date": "2026-01-30T05:56:38+00:00"
+      "title": "Self-Improving AI Skills",
+      "summary": "Article URL: https://dri.es/self-improving-ai-skills Comments URL: https://news.ycombinator.com/item?id=46833952 Points: 1 # Comments: 0",
+      "url": "https://dri.es/self-improving-ai-skills",
+      "image": "",
+      "date": "2026-01-31T06:13:23+00:00"
     },
     {
-      "title": "Way AI assistance impacts the formation of coding skills",
-      "summary": "Article URL: https://www.anthropic.com/research/AI-assistance-coding-skills Comments URL: https://news.ycombinator.com/item?id=46820924 Points: 3 # Comments: 0",
-      "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Abacus&backgroundColor=sky",
-      "date": "2026-01-30T05:41:23+00:00"
+      "title": "I spent 5 years how to code .made real projects only to be called AI slop?",
+      "summary": "ive been sititng here for three hours jsut staring at my screen. hands are shaking. wrote this four times adn deleted because i dont wnat to sound pathetic but fuck it. i am pathetic right now. im a mess.\nyou know what i did tonight? opened my github. forty one repos. 41 in total. i counted them twice. do you knwo what that represents? thats not \"code\". thats not \"projects\". thats every night i chose to stay in while my firends went out. thats teh relationships i let fade becasue i was debugging a borrow checker error at 3 am and i had to finish it. thats me crying literally crying, mascara running down my face, snot everywhere becasue i finally understood lifetimes. i felt it click. it was like religion.\ni spent YEARS earning this. not learning. earning. every scar, every \"why wont this compile\", every moment where i stared at teh ceiling thinking i wasnt smart enough, that i should quit. i pushed through. i built things. things that work. things im proud of.\nand then i share it. excited, you know? heart pounding, like hey world look what i made!\n\"AI slop.\"\nthats it. two words. and suddenly my entire existence gets compressed into... waht? a prediction algorithm? i spent five years bleeding for this and you cant tell the differece between me and a chatbot?\ndo you get what that does to a person? its not just rude. its like... imagine training for a marathon. five years. waking up at 5 am, running in the rain, puking from exhaustion, bleeding through your shoes. you finally cross the finish line and someone tosses a water bottle at your head and says \"nah you took an uber.\"\nthats what it feels like. like someone looked at my blood and sweat and said this is fake.\nand the worst part? i cant fight back. i cant prove im human. thats the trap. the moment you defend yourself you sound defensive. guilty. \"why are you trying so hard to prove youre real?\" as if trying hard is the proof that youre not.\nim sitting here typing this and im crying again. i hate that im crying. i can feel my chest getting tight—like physically tight, like someones standing on my ribs every time i think about it. every time i see taht phrase under something i bled for.\nyou know waht Rust taught me? it taught me taht safety matters. that you have to prove your code is correct. that you earn your way to compilation through rigor. i thought thats what programming was about. earning it.\nbut now? now the world tells me that rigor looks exactly like carelessness. that careful, thoughtful code is indistinguishable from slop generated by a machine that doesnt even knwo what its saying. that my best is identical to zero effort.\nim terrified. im terrified taht im going to wake up tomorrow and open my editor and just... why? why would i spend six hours debugging ownership when everyone will jsut assume i prompted it? why would i cry over borrow checkers when tears are cheaper tahn tokens?\nbut i will. i know i will. because i love it. i love coding like i love breathing. even now, even with my face wet and my hands shaking, i want to fix that bug in my side project. i want to optimize taht loop.\nbut im begging you. next time you see someones work—someones heart laid out in functions and types—dont reach for the easy label. dont be the person who makes someones 3 am tears worthless. dont be teh reason someone decides its not worth trying anymore.\nwere out here fighting for every line. every damn semicolon. jsut... see us. please. Comments URL: https://news.ycombinator.com/item?id=46833813 Points: 1 # Comments: 9",
+      "url": "https://news.ycombinator.com/item?id=46833813",
+      "image": "",
+      "date": "2026-01-31T05:36:40+00:00"
+    },
+    {
+      "title": "Moltbook: A social network where 32,000 AI agents interact autonomously",
+      "summary": "Article URL: https://curateclick.com/blog/2026-moltbook-ai Comments URL: https://news.ycombinator.com/item?id=46833790 Points: 3 # Comments: 1",
+      "url": "https://curateclick.com/blog/2026-moltbook-ai",
+      "image": "",
+      "date": "2026-01-31T05:30:04+00:00"
+    },
+    {
+      "title": "New Agentic Commerce Skills for AI Agents",
+      "summary": "Article URL: https://docs.stateset.com/stateset-icommerce-skill.md Comments URL: https://news.ycombinator.com/item?id=46833540 Points: 2 # Comments: 0",
+      "url": "https://docs.stateset.com/stateset-icommerce-skill.md",
+      "image": "",
+      "date": "2026-01-31T04:35:12+00:00"
+    },
+    {
+      "title": "People are swayed by AI-generated videos even when they know they're fake",
+      "summary": "Article URL: https://phys.org/news/2026-01-people-swayed-ai-generated-videos.html Comments URL: https://news.ycombinator.com/item?id=46833516 Points: 2 # Comments: 0",
+      "url": "https://phys.org/news/2026-01-people-swayed-ai-generated-videos.html",
+      "image": "",
+      "date": "2026-01-31T04:30:47+00:00"
+    },
+    {
+      "title": "Musk's Starlink updates privacy policy to allow consumer data to train AI",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/ Comments URL: https://news.ycombinator.com/item?id=46833309 Points: 8 # Comments: 2",
+      "url": "https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/",
+      "image": "",
+      "date": "2026-01-31T04:01:41+00:00"
+    },
+    {
+      "title": "Learning New Tech with AI Assistance Might Backfire",
+      "summary": "Article URL: https://www.anup.io/til-learning-new-tech-with-ai-assistance-might-backfire/ Comments URL: https://news.ycombinator.com/item?id=46833081 Points: 3 # Comments: 0",
+      "url": "https://www.anup.io/til-learning-new-tech-with-ai-assistance-might-backfire/",
+      "image": "",
+      "date": "2026-01-31T03:24:10+00:00"
+    },
+    {
+      "title": "Testing AI agents on web security challenges",
+      "summary": "Article URL: https://www.irregular.com/publications/testing-ai-agents-on-web-security-challenges Comments URL: https://news.ycombinator.com/item?id=46832613 Points: 1 # Comments: 0",
+      "url": "https://www.irregular.com/publications/testing-ai-agents-on-web-security-challenges",
+      "image": "https://framerusercontent.com/images/fVNMWw3KT6LQJrjgPpUEKyOEY.png",
+      "date": "2026-01-31T02:07:05+00:00"
+    },
+    {
+      "title": "AI agents now have their own Reddit-style social network, and it's getting weird",
+      "summary": "Article URL: https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/ Comments URL: https://news.ycombinator.com/item?id=46832567 Points: 3 # Comments: 1",
+      "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/moltbook-blue-v-red-1152x648.jpg",
+      "date": "2026-01-31T01:58:42+00:00"
+    },
+    {
+      "title": "Openclaw on Oracle's Free Tier: Always-On AI for $0/Month",
+      "summary": "Article URL: https://ryanshook.org/blog/posts/openclaw-on-oracle-free-tier-always-on-ai-for-free/ Comments URL: https://news.ycombinator.com/item?id=46832520 Points: 4 # Comments: 0",
+      "url": "https://ryanshook.org/blog/posts/openclaw-on-oracle-free-tier-always-on-ai-for-free/",
+      "image": "",
+      "date": "2026-01-31T01:50:46+00:00"
     },
     {
       "title": "Top engineers at Anthropic, OpenAI say AI now writes 100% of their code",
-      "summary": "Article URL: https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/ Comments URL: https://news.ycombinator.com/item?id=46820833 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/ Comments URL: https://news.ycombinator.com/item?id=46832081 Points: 15 # Comments: 17",
       "url": "https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2216956965_40536e-e1769705381107.jpg?resize=1200,600",
-      "date": "2026-01-30T05:24:37+00:00"
+      "date": "2026-01-31T00:52:25+00:00"
     },
     {
-      "title": "Fact-checking: Tasks that are hard for humans are easy for AI and vice versa?",
-      "summary": "Article URL: https://www.normaltech.ai/p/fact-checking-moravecs-paradox Comments URL: https://news.ycombinator.com/item?id=46820729 Points: 1 # Comments: 0",
-      "url": "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
-      "image": "https://substackcdn.com/image/fetch/$s_!ydUI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c0502b3-b033-478e-b7f7-d224b2ff51e4_1920x1080.png",
-      "date": "2026-01-30T05:06:22+00:00"
-    },
-    {
-      "title": "Can AI companies become profitable?",
-      "summary": "Article URL: https://epoch.ai/gradient-updates/can-ai-companies-become-profitable Comments URL: https://news.ycombinator.com/item?id=46820676 Points: 4 # Comments: 0",
-      "url": "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable",
-      "image": "https://epoch.ai/assets/images/thumbnails/gradient-updates.png",
-      "date": "2026-01-30T04:56:42+00:00"
-    },
-    {
-      "title": "Microsoft sheds $360B in market value as AI spending spooks investors",
-      "summary": "Article URL: https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90 Comments URL: https://news.ycombinator.com/item?id=46820591 Points: 3 # Comments: 1",
-      "url": "https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffdf7f8dd-0cfb-4c5d-882f-533289663dae.png?source=next-barrier-page",
-      "date": "2026-01-30T04:42:21+00:00"
-    },
-    {
-      "title": "Can We Build Trustworthy AI?",
-      "summary": "Article URL: https://gizmodo.com/ai-chatgpt-can-we-build-trustworthy-ai-1850405280 Comments URL: https://news.ycombinator.com/item?id=46820499 Points: 1 # Comments: 0",
-      "url": "https://gizmodo.com/ai-chatgpt-can-we-build-trustworthy-ai-1850405280",
-      "image": "https://gizmodo.com/app/uploads/2023/05/11efa2407e133b97ca44867f92405a4b.jpg",
-      "date": "2026-01-30T04:23:38+00:00"
-    },
-    {
-      "title": "The Richard Feynman Iterative Learning Framework AI Prompt",
-      "summary": "Article URL: https://tools.eq4c.com/prompt/ai-prompt-the-richard-feynman-iterative-learning-framework/ Comments URL: https://news.ycombinator.com/item?id=46820478 Points: 2 # Comments: 0",
-      "url": "https://tools.eq4c.com/prompt/ai-prompt-the-richard-feynman-iterative-learning-framework/",
-      "image": "",
-      "date": "2026-01-30T04:19:01+00:00"
-    },
-    {
-      "title": "China's Next AI Shock Is Hardware [YouTube] [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=k_bHtx_e-SU Comments URL: https://news.ycombinator.com/item?id=46820406 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=k_bHtx_e-SU",
-      "image": "",
-      "date": "2026-01-30T04:07:18+00:00"
-    },
-    {
-      "title": "Your Own AI Developer on GitHub",
-      "summary": "Article URL: https://rellfy.com/blog/your-own-ai-developer-on-github/ Comments URL: https://news.ycombinator.com/item?id=46820377 Points: 1 # Comments: 0",
-      "url": "https://rellfy.com/blog/your-own-ai-developer-on-github/",
-      "image": "https://rellfy.com/blog/your-own-ai-developer-on-github/banner.jpg",
-      "date": "2026-01-30T03:59:09+00:00"
-    },
-    {
-      "title": "Medical journal publishes a letter on AI with a fake reference to itself",
-      "summary": "Article URL: https://retractionwatch.com/2026/01/28/medical-journal-publishes-a-paper-on-ai-with-a-fake-reference-to-itself/ Comments URL: https://news.ycombinator.com/item?id=46820357 Points: 1 # Comments: 0",
-      "url": "https://retractionwatch.com/2026/01/28/medical-journal-publishes-a-paper-on-ai-with-a-fake-reference-to-itself/",
-      "image": "https://retractionwatch.com/wp-content/uploads/2026/01/ICM_cover.png",
-      "date": "2026-01-30T03:55:01+00:00"
-    },
-    {
-      "title": "How Replacing Developers with AI Is Going Horribly Wrong [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ts0nH_pSAdM Comments URL: https://news.ycombinator.com/item?id=46820271 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=ts0nH_pSAdM",
-      "image": "",
-      "date": "2026-01-30T03:38:41+00:00"
+      "title": "175K+ publicly-exposed Ollama AI instances discovered",
+      "summary": "Article URL: https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now Comments URL: https://news.ycombinator.com/item?id=46831784 Points: 41 # Comments: 28",
+      "url": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
+      "image": "https://cdn.mos.cms.futurecdn.net/xELUWtzbMUxTj23au8d3PC-2560-80.jpg",
+      "date": "2026-01-31T00:12:22+00:00"
     }
   ]
 }
