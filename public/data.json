@@ -1,96 +1,82 @@
 {
-  "generated_at": "2026-01-31T06:56:47.819711+00:00",
+  "generated_at": "2026-02-01T07:04:34.835454+00:00",
   "items": [
     {
-      "title": "Why AI coding agents feel powerful at first, then become harder to control",
-      "summary": "I’ve been thinking a lot about why AI coding agents feel great in the beginning, but become frustrating as projects grow. At small scale, prompting works. As the codebase grows, things start to drift:\n- constraints leak into prompts\n- commands get longer\n- behavior becomes inconsistent\n- “helpful” changes appear outside the intended scope Lately, I’ve been mapping common agent concepts (rules, commands, skills, sub-agents, MCP, hooks) not as features, but as control layers in an execution loop. Very roughly:\n- rules constrain decisions\n- commands trigger execution\n- skills encode repeatable methodology\n- sub-agents limit responsibility\n- MCP enables observation\n- hooks enforce guarantees My hypothesis is that many frustrations come from mixing these layers. For example, encoding constraints in commands, or trying to use hooks for reasoning. I’m curious how others here are thinking about this:\n- Do you treat agents as conversations or as systems?\n- At what point does prompting stop scaling for you?\n- How do you control blast radius when agents touch larger codebases?\n- Have you found concepts like skills or sub-agents actually useful, or just extra complexity? Comments URL: https://news.ycombinator.com/item?id=46834002 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=46834002",
+      "title": "AI Boom Is Triggering a Loan Meltdown for Software Companies",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly Comments URL: https://news.ycombinator.com/item?id=46844170 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly",
       "image": "",
-      "date": "2026-01-31T06:24:02+00:00"
+      "date": "2026-02-01T06:59:43+00:00"
     },
     {
-      "title": "Self-Improving AI Skills",
-      "summary": "Article URL: https://dri.es/self-improving-ai-skills Comments URL: https://news.ycombinator.com/item?id=46833952 Points: 1 # Comments: 0",
-      "url": "https://dri.es/self-improving-ai-skills",
-      "image": "",
-      "date": "2026-01-31T06:13:23+00:00"
-    },
-    {
-      "title": "I spent 5 years how to code .made real projects only to be called AI slop?",
-      "summary": "ive been sititng here for three hours jsut staring at my screen. hands are shaking. wrote this four times adn deleted because i dont wnat to sound pathetic but fuck it. i am pathetic right now. im a mess.\nyou know what i did tonight? opened my github. forty one repos. 41 in total. i counted them twice. do you knwo what that represents? thats not \"code\". thats not \"projects\". thats every night i chose to stay in while my firends went out. thats teh relationships i let fade becasue i was debugging a borrow checker error at 3 am and i had to finish it. thats me crying literally crying, mascara running down my face, snot everywhere becasue i finally understood lifetimes. i felt it click. it was like religion.\ni spent YEARS earning this. not learning. earning. every scar, every \"why wont this compile\", every moment where i stared at teh ceiling thinking i wasnt smart enough, that i should quit. i pushed through. i built things. things that work. things im proud of.\nand then i share it. excited, you know? heart pounding, like hey world look what i made!\n\"AI slop.\"\nthats it. two words. and suddenly my entire existence gets compressed into... waht? a prediction algorithm? i spent five years bleeding for this and you cant tell the differece between me and a chatbot?\ndo you get what that does to a person? its not just rude. its like... imagine training for a marathon. five years. waking up at 5 am, running in the rain, puking from exhaustion, bleeding through your shoes. you finally cross the finish line and someone tosses a water bottle at your head and says \"nah you took an uber.\"\nthats what it feels like. like someone looked at my blood and sweat and said this is fake.\nand the worst part? i cant fight back. i cant prove im human. thats the trap. the moment you defend yourself you sound defensive. guilty. \"why are you trying so hard to prove youre real?\" as if trying hard is the proof that youre not.\nim sitting here typing this and im crying again. i hate that im crying. i can feel my chest getting tight—like physically tight, like someones standing on my ribs every time i think about it. every time i see taht phrase under something i bled for.\nyou know waht Rust taught me? it taught me taht safety matters. that you have to prove your code is correct. that you earn your way to compilation through rigor. i thought thats what programming was about. earning it.\nbut now? now the world tells me that rigor looks exactly like carelessness. that careful, thoughtful code is indistinguishable from slop generated by a machine that doesnt even knwo what its saying. that my best is identical to zero effort.\nim terrified. im terrified taht im going to wake up tomorrow and open my editor and just... why? why would i spend six hours debugging ownership when everyone will jsut assume i prompted it? why would i cry over borrow checkers when tears are cheaper tahn tokens?\nbut i will. i know i will. because i love it. i love coding like i love breathing. even now, even with my face wet and my hands shaking, i want to fix that bug in my side project. i want to optimize taht loop.\nbut im begging you. next time you see someones work—someones heart laid out in functions and types—dont reach for the easy label. dont be the person who makes someones 3 am tears worthless. dont be teh reason someone decides its not worth trying anymore.\nwere out here fighting for every line. every damn semicolon. jsut... see us. please. Comments URL: https://news.ycombinator.com/item?id=46833813 Points: 1 # Comments: 9",
-      "url": "https://news.ycombinator.com/item?id=46833813",
-      "image": "",
-      "date": "2026-01-31T05:36:40+00:00"
-    },
-    {
-      "title": "Moltbook: A social network where 32,000 AI agents interact autonomously",
-      "summary": "Article URL: https://curateclick.com/blog/2026-moltbook-ai Comments URL: https://news.ycombinator.com/item?id=46833790 Points: 3 # Comments: 1",
-      "url": "https://curateclick.com/blog/2026-moltbook-ai",
-      "image": "",
-      "date": "2026-01-31T05:30:04+00:00"
-    },
-    {
-      "title": "New Agentic Commerce Skills for AI Agents",
-      "summary": "Article URL: https://docs.stateset.com/stateset-icommerce-skill.md Comments URL: https://news.ycombinator.com/item?id=46833540 Points: 2 # Comments: 0",
-      "url": "https://docs.stateset.com/stateset-icommerce-skill.md",
-      "image": "",
-      "date": "2026-01-31T04:35:12+00:00"
-    },
-    {
-      "title": "People are swayed by AI-generated videos even when they know they're fake",
-      "summary": "Article URL: https://phys.org/news/2026-01-people-swayed-ai-generated-videos.html Comments URL: https://news.ycombinator.com/item?id=46833516 Points: 2 # Comments: 0",
-      "url": "https://phys.org/news/2026-01-people-swayed-ai-generated-videos.html",
-      "image": "",
-      "date": "2026-01-31T04:30:47+00:00"
-    },
-    {
-      "title": "Musk's Starlink updates privacy policy to allow consumer data to train AI",
-      "summary": "Article URL: https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/ Comments URL: https://news.ycombinator.com/item?id=46833309 Points: 8 # Comments: 2",
-      "url": "https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/",
-      "image": "",
-      "date": "2026-01-31T04:01:41+00:00"
-    },
-    {
-      "title": "Learning New Tech with AI Assistance Might Backfire",
-      "summary": "Article URL: https://www.anup.io/til-learning-new-tech-with-ai-assistance-might-backfire/ Comments URL: https://news.ycombinator.com/item?id=46833081 Points: 3 # Comments: 0",
-      "url": "https://www.anup.io/til-learning-new-tech-with-ai-assistance-might-backfire/",
-      "image": "",
-      "date": "2026-01-31T03:24:10+00:00"
-    },
-    {
-      "title": "Testing AI agents on web security challenges",
-      "summary": "Article URL: https://www.irregular.com/publications/testing-ai-agents-on-web-security-challenges Comments URL: https://news.ycombinator.com/item?id=46832613 Points: 1 # Comments: 0",
-      "url": "https://www.irregular.com/publications/testing-ai-agents-on-web-security-challenges",
-      "image": "https://framerusercontent.com/images/fVNMWw3KT6LQJrjgPpUEKyOEY.png",
-      "date": "2026-01-31T02:07:05+00:00"
-    },
-    {
-      "title": "AI agents now have their own Reddit-style social network, and it's getting weird",
-      "summary": "Article URL: https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/ Comments URL: https://news.ycombinator.com/item?id=46832567 Points: 3 # Comments: 1",
+      "title": "AI agents now have their own Reddit-style social network",
+      "summary": "Article URL: https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/ Comments URL: https://news.ycombinator.com/item?id=46844032 Points: 2 # Comments: 0",
       "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/moltbook-blue-v-red-1152x648.jpg",
-      "date": "2026-01-31T01:58:42+00:00"
+      "date": "2026-02-01T06:08:43+00:00"
     },
     {
-      "title": "Openclaw on Oracle's Free Tier: Always-On AI for $0/Month",
-      "summary": "Article URL: https://ryanshook.org/blog/posts/openclaw-on-oracle-free-tier-always-on-ai-for-free/ Comments URL: https://news.ycombinator.com/item?id=46832520 Points: 4 # Comments: 0",
-      "url": "https://ryanshook.org/blog/posts/openclaw-on-oracle-free-tier-always-on-ai-for-free/",
+      "title": "The Sovereign AI Security Crisis: 42,000 Exposed OpenClaw Instances",
+      "summary": "Article URL: https://maordayanofficial.medium.com/the-sovereign-ai-security-crisis-42-000-exposed-openclaw-instances-and-the-collapse-of-1e3f2687b951 Comments URL: https://news.ycombinator.com/item?id=46843943 Points: 3 # Comments: 1",
+      "url": "https://maordayanofficial.medium.com/the-sovereign-ai-security-crisis-42-000-exposed-openclaw-instances-and-the-collapse-of-1e3f2687b951",
       "image": "",
-      "date": "2026-01-31T01:50:46+00:00"
+      "date": "2026-02-01T05:41:38+00:00"
     },
     {
-      "title": "Top engineers at Anthropic, OpenAI say AI now writes 100% of their code",
-      "summary": "Article URL: https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/ Comments URL: https://news.ycombinator.com/item?id=46832081 Points: 15 # Comments: 17",
-      "url": "https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2216956965_40536e-e1769705381107.jpg?resize=1200,600",
-      "date": "2026-01-31T00:52:25+00:00"
+      "title": "Workers are 'friction-maxxing' to resist AI",
+      "summary": "Article URL: https://www.ft.com/content/fd5e65df-83c7-42f3-9658-377c99df42d1 Comments URL: https://news.ycombinator.com/item?id=46843790 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/fd5e65df-83c7-42f3-9658-377c99df42d1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5772d6d3-fbea-4be3-a48f-2974f20bba7b.jpg?source=next-barrier-page",
+      "date": "2026-02-01T05:08:03+00:00"
     },
     {
-      "title": "175K+ publicly-exposed Ollama AI instances discovered",
-      "summary": "Article URL: https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now Comments URL: https://news.ycombinator.com/item?id=46831784 Points: 41 # Comments: 28",
-      "url": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
-      "image": "https://cdn.mos.cms.futurecdn.net/xELUWtzbMUxTj23au8d3PC-2560-80.jpg",
-      "date": "2026-01-31T00:12:22+00:00"
+      "title": "Stop panicking about AI. Start preparing",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/01/29/stop-panicking-about-ai-start-preparing Comments URL: https://news.ycombinator.com/item?id=46843592 Points: 2 # Comments: 0",
+      "url": "https://www.economist.com/leaders/2026/01/29/stop-panicking-about-ai-start-preparing",
+      "image": "",
+      "date": "2026-02-01T04:23:39+00:00"
+    },
+    {
+      "title": "LinkedIn, Everyone's an AI Detective Now",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-01-30/chatgpt-written-linkedin-posts-have-users-analyzing-emojis-other-ai-signs Comments URL: https://news.ycombinator.com/item?id=46843528 Points: 1 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-30/chatgpt-written-linkedin-posts-have-users-analyzing-emojis-other-ai-signs",
+      "image": "",
+      "date": "2026-02-01T04:09:55+00:00"
+    },
+    {
+      "title": "The (AI) Nature of the Firm",
+      "summary": "Article URL: https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm Comments URL: https://news.ycombinator.com/item?id=46843349 Points: 1 # Comments: 0",
+      "url": "https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm",
+      "image": "",
+      "date": "2026-02-01T03:28:55+00:00"
+    },
+    {
+      "title": "SpacemiT K3 RISC-V AI CPU launch event [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=PxxUsUqgOFg Comments URL: https://news.ycombinator.com/item?id=46843309 Points: 2 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=PxxUsUqgOFg",
+      "image": "",
+      "date": "2026-02-01T03:17:17+00:00"
+    },
+    {
+      "title": "'Spy Sheikh' Bought Secret Stake in Trump Company for Access to USA AI Chips",
+      "summary": "Article URL: https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8 Comments URL: https://news.ycombinator.com/item?id=46843303 Points: 15 # Comments: 2",
+      "url": "https://www.wsj.com/politics/policy/spy-sheikh-secret-stake-trump-crypto-tahnoon-ea4d97e8",
+      "image": "",
+      "date": "2026-02-01T03:14:53+00:00"
+    },
+    {
+      "title": "AI chatbots like ChatGPT are using info from Elon Musk's Grokipedia",
+      "summary": "Article URL: https://mashable.com/article/ai-chatbots-chatgpt-sourcing-elon-musk-grokipedia Comments URL: https://news.ycombinator.com/item?id=46843078 Points: 7 # Comments: 1",
+      "url": "https://mashable.com/article/ai-chatbots-chatgpt-sourcing-elon-musk-grokipedia",
+      "image": "https://helios-i.mashable.com/imagery/articles/008XICbWZoS2Gz7E9zNpYqw/hero-image.fill.size_1200x675.v1769444285.jpg",
+      "date": "2026-02-01T02:33:18+00:00"
+    },
+    {
+      "title": "Ex-Googler nailed for stealing AI secrets for Chinese startups",
+      "summary": "Article URL: https://www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/ Comments URL: https://news.ycombinator.com/item?id=46843057 Points: 2 # Comments: 1",
+      "url": "https://www.theregister.com/2026/01/30/google_engineer_convicted_ai_secrets_china/",
+      "image": "https://regmedia.co.uk/2026/01/30/shutterstock_2571133935.jpg",
+      "date": "2026-02-01T02:29:23+00:00"
     }
   ]
 }
