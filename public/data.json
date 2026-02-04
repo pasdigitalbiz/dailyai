@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-02-03T07:09:07.509354+00:00",
+  "generated_at": "2026-02-04T07:09:06.391835+00:00",
   "items": [
     {
-      "title": "Best AI Detectors in 2026",
-      "summary": "Article URL: https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026 Comments URL: https://news.ycombinator.com/item?id=46867398 Points: 1 # Comments: 0",
-      "url": "https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026",
+      "title": "Oracle to raise $50B as AI debt piles up",
+      "summary": "Article URL: https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D Comments URL: https://news.ycombinator.com/item?id=46882467 Points: 1 # Comments: 0",
+      "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D",
       "image": "",
-      "date": "2026-02-03T06:46:30+00:00"
+      "date": "2026-02-04T07:04:27+00:00"
     },
     {
-      "title": "How does AI impact skill formation?",
-      "summary": "Article URL: https://www.seangoedecke.com/how-does-ai-impact-skill-formation/ Comments URL: https://news.ycombinator.com/item?id=46867305 Points: 1 # Comments: 0",
-      "url": "https://www.seangoedecke.com/how-does-ai-impact-skill-formation/",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
-      "date": "2026-02-03T06:32:18+00:00"
-    },
-    {
-      "title": "Ask HN: Have you been fired because of AI?",
-      "summary": "Wanted to gather some stories about people who were fired because of AI. Not a generic \"reorg\", what they say in the press release, but honestly, because of AI. Proves? Comments URL: https://news.ycombinator.com/item?id=46867190 Points: 4 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46867190",
+      "title": "Show HN: DeepInsight HITL AI research with collaboration and podcast generation",
+      "summary": "Hey HN, I built DeepInsight after getting frustrated with how AI research tools treat the research process as a black box. The Problem\n  - Current tools (ChatGPT, Perplexity, Gemini Deep Research) ask 3-4 clarifying questions, then generate a report you have to manually fix. The human is only involved at the very beginning. The Solution\n  - Multiple human-in-the-loop checkpoints throughout the research process. You guide the AI at critical decision points, or switch to auto-approve with scheduling when you trust it. Key features - Live collaboration on reports (Google Docs-style)\n  - Version control with side-by-side comparison\n  - Export: HTML, PDF, DOCX, Markdown, PowerPoint slides\n  - Multi-speaker podcast generation → publish to Spotify/Apple\n  - Generate FAQs, flashcards, blog posts from reports\n  - Chain research from completed reports\n  - BYOC (bring your own context/documents)\n  - MCP integration, REST APIs, webhooks\n  - Team workspaces with sharing controls\n  - Prebuilt industry-specific assistants The Core insight\n  - research quality improves dramatically when humans can intervene at the right moments, not just at the start. Looking for feedback, especially from researchers, analysts, and content creators. https://deepinsight.neuralstratlabs.com/ Comments URL: https://news.ycombinator.com/item?id=46882118 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46882118",
       "image": "",
-      "date": "2026-02-03T06:14:23+00:00"
+      "date": "2026-02-04T06:13:40+00:00"
     },
     {
-      "title": "Poll: Are you for AI or against AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46866688 Points: 3 # Comments: 8",
-      "url": "https://news.ycombinator.com/item?id=46866688",
+      "title": "If you tell AI not to do something, it's more likely to do it",
+      "summary": "Article URL: https://www.unite.ai/if-you-tell-ai-not-to-do-something-its-more-likely-to-do-it/ Comments URL: https://news.ycombinator.com/item?id=46882052 Points: 1 # Comments: 0",
+      "url": "https://www.unite.ai/if-you-tell-ai-not-to-do-something-its-more-likely-to-do-it/",
+      "image": "https://www.unite.ai/wp-content/uploads/2026/02/robot-prohibition-MAIN.jpg",
+      "date": "2026-02-04T06:06:37+00:00"
+    },
+    {
+      "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+      "summary": "Article URL: https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/ Comments URL: https://news.ycombinator.com/item?id=46881723 Points: 2 # Comments: 1",
+      "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/investor_CRV_01.jpg?resize=1200,1069",
+      "date": "2026-02-04T05:08:07+00:00"
+    },
+    {
+      "title": "AI Data Centers Will Break America (Like 2008)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NFP_Dwddcag Comments URL: https://news.ycombinator.com/item?id=46881645 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=NFP_Dwddcag",
       "image": "",
-      "date": "2026-02-03T04:55:36+00:00"
+      "date": "2026-02-04T04:58:37+00:00"
     },
     {
-      "title": "Ask HN: Request limits vs. token limits for AI-powered apps?",
-      "summary": "Currently, I’m working on a web app for managing documents, databases, and whiteboards—the typical app that aims to be like Notion. However, right now I’m facing the dilemma of creating a plan with AI usage limits, since the idea is to make it more agentic: able to edit and query context across an entire workspace and move it into a document, for example, maybe draw something on a whiteboard, etc. Still, I have the feeling that consumption could easily get out of hand. I plan to use DeepSeek for AI chat, but use Gemini 3 Flash for agentic usage and editing because it’s more intelligent. Lately, I’ve seen how many core AI apps have shifted their pricing models from per-request pricing to a fixed usage limit, but I’m unsure whether that’s frowned upon, creates a less pleasant user experience, or maybe even gives the feeling that you’re not getting what you paid for. So I’d like to hear some opinions on what decision I should make. Comments URL: https://news.ycombinator.com/item?id=46866473 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46866473",
+      "title": "Xcode 26.3 Lets AI Agents from Anthropic and OpenAI Build Apps Autonomously",
+      "summary": "Article URL: https://www.macrumors.com/2026/02/03/xcode-26-3-agentic-coding/ Comments URL: https://news.ycombinator.com/item?id=46881544 Points: 2 # Comments: 0",
+      "url": "https://www.macrumors.com/2026/02/03/xcode-26-3-agentic-coding/",
+      "image": "https://images.macrumors.com/t/Q2jHpGs5awrHi9vhQ9hCpeCIipo=/2500x/article-new/2026/02/macOS-26-Xcode.jpg",
+      "date": "2026-02-04T04:42:55+00:00"
+    },
+    {
+      "title": "The Computer Chronicles – Artificial Intelligence (1984)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=_S3m0V_ZF_Q Comments URL: https://news.ycombinator.com/item?id=46881249 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=_S3m0V_ZF_Q",
       "image": "",
-      "date": "2026-02-03T04:24:20+00:00"
+      "date": "2026-02-04T03:52:07+00:00"
     },
     {
-      "title": "The Recent 0-Days in Node.js and React Were Found by an AI",
-      "summary": "Article URL: https://winfunc.com/blog/recent-0-days-in-nodejs-and-react-were-found-by-an-ai Comments URL: https://news.ycombinator.com/item?id=46866345 Points: 2 # Comments: 0",
-      "url": "https://winfunc.com/blog/recent-0-days-in-nodejs-and-react-were-found-by-an-ai",
-      "image": "https://winfunc.com/blog/recent-0-days-in-nodejs-and-react-were-found-by-an-ai/opengraph-image?d32e9bdd7ccaab4f",
-      "date": "2026-02-03T04:04:42+00:00"
+      "title": "Adobe Animate is shutting down as company focuses on AI",
+      "summary": "Article URL: https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/ Comments URL: https://news.ycombinator.com/item?id=46880748 Points: 1 # Comments: 1",
+      "url": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-95799630.jpg?resize=1200,800",
+      "date": "2026-02-04T02:38:31+00:00"
     },
     {
-      "title": "AI After Drug Development",
-      "summary": "Article URL: https://asteriskmag.substack.com/p/ai-after-drug-development Comments URL: https://news.ycombinator.com/item?id=46866194 Points: 1 # Comments: 0",
-      "url": "https://asteriskmag.substack.com/p/ai-after-drug-development",
+      "title": "Ask HN: How do you integrate design into your AI coding workflows?",
+      "summary": "I’m using AI tools heavily for coding, but I’m still figuring out the best way to incorporate product/UX design without it feeling bolted on. For those using AI in your dev workflow, how do you integrate design thinking, UI iteration, and usability checks? Do you use specific tools, prompts, or checkpoints? Would love to hear concrete workflows that have worked well. Comments URL: https://news.ycombinator.com/item?id=46880662 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46880662",
       "image": "",
-      "date": "2026-02-03T03:43:43+00:00"
+      "date": "2026-02-04T02:25:48+00:00"
     },
     {
-      "title": "Why AI Swarms Cannot Build Architecture",
-      "summary": "Article URL: https://jsulmont.github.io/swarms-ai/ Comments URL: https://news.ycombinator.com/item?id=46866184 Points: 2 # Comments: 1",
-      "url": "https://jsulmont.github.io/swarms-ai/",
+      "title": "Docker Sandboxes lets you run AI coding agents in isolated environments",
+      "summary": "Article URL: https://docs.docker.com/ai/sandboxes Comments URL: https://news.ycombinator.com/item?id=46880600 Points: 1 # Comments: 0",
+      "url": "https://docs.docker.com/ai/sandboxes",
+      "image": "https://docs.docker.com/images/thumbnail.webp",
+      "date": "2026-02-04T02:18:36+00:00"
+    },
+    {
+      "title": "Wall Street ends sharply down as traders fret about AI disruption",
+      "summary": "Article URL: https://www.reuters.com/business/sp-nasdaq-futures-edge-up-earnings-deluge-takes-center-stage-2026-02-03/ Comments URL: https://news.ycombinator.com/item?id=46879856 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/business/sp-nasdaq-futures-edge-up-earnings-deluge-takes-center-stage-2026-02-03/",
       "image": "",
-      "date": "2026-02-03T03:42:19+00:00"
-    },
-    {
-      "title": "Ask HN: Anyone else struggle with how to learn coding in the AI era?",
-      "summary": "I'm someone who got into building/programming in early 2025, when vibe coding tools became more usable. Since then, I'd like to think that I have developed a lot as a programmer, but I still have this deep sense of imposter syndrome / worry that AI is too much of a crutch and I'm not really learning. I have shipped a few projects, I always review AI-suggested code, do daily coding practice without AI, watch youtube videos, etc. but still don't know if I'm striking the right balance or whether I can really call myself a programmer. I often see people say that the solution is to just fully learn to code without AI, (i.e, go \"cold turkey\"), which may be the best, but I wonder if the optimal path is somewhere in between given that AI is clearlly changing the game here in terms of what it means to be a programmer. I'm curious how you have all handled this balancing act in the past few years. More concretely, what strategies do you use to both be efficient and able to ship / move quickly while ensuring you are also taking the time to really process and understand and learn what you are doing? Comments URL: https://news.ycombinator.com/item?id=46866165 Points: 25 # Comments: 27",
-      "url": "https://news.ycombinator.com/item?id=46866165",
-      "image": "",
-      "date": "2026-02-03T03:39:12+00:00"
-    },
-    {
-      "title": "Six Facts about the Recent Employment Effects of AI (Nov. 2025, Pdf)",
-      "summary": "Article URL: https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf Comments URL: https://news.ycombinator.com/item?id=46865732 Points: 2 # Comments: 2",
-      "url": "https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf",
-      "image": "",
-      "date": "2026-02-03T02:39:31+00:00"
-    },
-    {
-      "title": "Show HN: One Ego, Any Model – A Chrome Extension for Portable AI Context",
-      "summary": "Hi HN, Models are getting better, but workflows are getting fragmented.\nI don’t think the future is one dominant AI model — it’s multiple specialized ones. Context Wallet is a small Chrome extension that treats user context as something you own,\nnot something trapped inside a single provider. You create context cards (role, tone, project state) and switch them across AI chat pages.\nEverything is local-first by default. Comments URL: https://news.ycombinator.com/item?id=46865648 Points: 1 # Comments: 1",
-      "url": "https://chromewebstore.google.com/detail/context-wallet/cipkkclgneblkoifncgjncaapiamcjho",
-      "image": "https://lh3.googleusercontent.com/NBGsKuFrb83py0FbEBhLuZgkJcgJ2pFwySJvoaij2fiN7KhuLqKxRTQdCZHo2x6eIyOGYRAtCD7eIfJCZgHh5toamQ=s128-rj-sc0x00ffffff",
-      "date": "2026-02-03T02:30:16+00:00"
+      "date": "2026-02-04T00:55:10+00:00"
     }
   ]
 }
