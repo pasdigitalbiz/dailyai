@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-02-04T07:09:06.391835+00:00",
+  "generated_at": "2026-02-05T07:14:55.113433+00:00",
   "items": [
     {
-      "title": "Oracle to raise $50B as AI debt piles up",
-      "summary": "Article URL: https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D Comments URL: https://news.ycombinator.com/item?id=46882467 Points: 1 # Comments: 0",
-      "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D",
+      "title": "Trillion-Dollar Tech Wipeout Ensnares All Stocks in AI's Path",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-04/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ai-s-path Comments URL: https://news.ycombinator.com/item?id=46896409 Points: 2 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-04/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ai-s-path",
       "image": "",
-      "date": "2026-02-04T07:04:27+00:00"
+      "date": "2026-02-05T06:31:53+00:00"
     },
     {
-      "title": "Show HN: DeepInsight HITL AI research with collaboration and podcast generation",
-      "summary": "Hey HN, I built DeepInsight after getting frustrated with how AI research tools treat the research process as a black box. The Problem\n  - Current tools (ChatGPT, Perplexity, Gemini Deep Research) ask 3-4 clarifying questions, then generate a report you have to manually fix. The human is only involved at the very beginning. The Solution\n  - Multiple human-in-the-loop checkpoints throughout the research process. You guide the AI at critical decision points, or switch to auto-approve with scheduling when you trust it. Key features - Live collaboration on reports (Google Docs-style)\n  - Version control with side-by-side comparison\n  - Export: HTML, PDF, DOCX, Markdown, PowerPoint slides\n  - Multi-speaker podcast generation → publish to Spotify/Apple\n  - Generate FAQs, flashcards, blog posts from reports\n  - Chain research from completed reports\n  - BYOC (bring your own context/documents)\n  - MCP integration, REST APIs, webhooks\n  - Team workspaces with sharing controls\n  - Prebuilt industry-specific assistants The Core insight\n  - research quality improves dramatically when humans can intervene at the right moments, not just at the start. Looking for feedback, especially from researchers, analysts, and content creators. https://deepinsight.neuralstratlabs.com/ Comments URL: https://news.ycombinator.com/item?id=46882118 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46882118",
+      "title": "Show HN: Free AI video transcription online tool",
+      "summary": "I've developed a simple AI-powered video-to-text converter.\nUpload your video, and within minutes, its content will be converted into clear, searchable text. Our AI accurately captures spoken language, identifies different speakers and accents, reviews the generated transcript, and exports it in your preferred format—including TXT, DOCX, PDF, SRT, or VTT. You can then edit it, use it for subtitles, or share it anywhere.\nEverything runs directly in your browser. I'm primarily interested in feedback on output quality, user experience, and any technical improvements worth exploring. Comments URL: https://news.ycombinator.com/item?id=46896359 Points: 1 # Comments: 0",
+      "url": "https://videocompress.ai/video-to-text-converter",
+      "image": "/assets/logo.png",
+      "date": "2026-02-05T06:23:46+00:00"
+    },
+    {
+      "title": "Google goes from laggard to leader, pulls ahead of OpenAI with stellar AI growth",
+      "summary": "Article URL: https://www.reuters.com/business/google-goes-laggard-leader-it-pulls-ahead-openai-with-stellar-ai-growth-2026-02-05/ Comments URL: https://news.ycombinator.com/item?id=46896314 Points: 3 # Comments: 2",
+      "url": "https://www.reuters.com/business/google-goes-laggard-leader-it-pulls-ahead-openai-with-stellar-ai-growth-2026-02-05/",
       "image": "",
-      "date": "2026-02-04T06:13:40+00:00"
+      "date": "2026-02-05T06:18:00+00:00"
     },
     {
-      "title": "If you tell AI not to do something, it's more likely to do it",
-      "summary": "Article URL: https://www.unite.ai/if-you-tell-ai-not-to-do-something-its-more-likely-to-do-it/ Comments URL: https://news.ycombinator.com/item?id=46882052 Points: 1 # Comments: 0",
-      "url": "https://www.unite.ai/if-you-tell-ai-not-to-do-something-its-more-likely-to-do-it/",
-      "image": "https://www.unite.ai/wp-content/uploads/2026/02/robot-prohibition-MAIN.jpg",
-      "date": "2026-02-04T06:06:37+00:00"
-    },
-    {
-      "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-      "summary": "Article URL: https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/ Comments URL: https://news.ycombinator.com/item?id=46881723 Points: 2 # Comments: 1",
-      "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/investor_CRV_01.jpg?resize=1200,1069",
-      "date": "2026-02-04T05:08:07+00:00"
-    },
-    {
-      "title": "AI Data Centers Will Break America (Like 2008)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=NFP_Dwddcag Comments URL: https://news.ycombinator.com/item?id=46881645 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=NFP_Dwddcag",
+      "title": "Why Big Tech Is Throwing Cash into India in Quest for AI Supremacy",
+      "summary": "Article URL: https://www.wsj.com/world/india/why-big-tech-is-throwing-cash-into-india-in-quest-for-ai-supremacy-a5d02f0e Comments URL: https://news.ycombinator.com/item?id=46896311 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/world/india/why-big-tech-is-throwing-cash-into-india-in-quest-for-ai-supremacy-a5d02f0e",
       "image": "",
-      "date": "2026-02-04T04:58:37+00:00"
+      "date": "2026-02-05T06:17:35+00:00"
     },
     {
-      "title": "Xcode 26.3 Lets AI Agents from Anthropic and OpenAI Build Apps Autonomously",
-      "summary": "Article URL: https://www.macrumors.com/2026/02/03/xcode-26-3-agentic-coding/ Comments URL: https://news.ycombinator.com/item?id=46881544 Points: 2 # Comments: 0",
-      "url": "https://www.macrumors.com/2026/02/03/xcode-26-3-agentic-coding/",
-      "image": "https://images.macrumors.com/t/Q2jHpGs5awrHi9vhQ9hCpeCIipo=/2500x/article-new/2026/02/macOS-26-Xcode.jpg",
-      "date": "2026-02-04T04:42:55+00:00"
-    },
-    {
-      "title": "The Computer Chronicles – Artificial Intelligence (1984)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=_S3m0V_ZF_Q Comments URL: https://news.ycombinator.com/item?id=46881249 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=_S3m0V_ZF_Q",
+      "title": "Ask HN: Has your whole engineering team gone big into AI coding? How's it going?",
+      "summary": "I'm seeing individual programmers who have moved to 100% AI coding, but I'm curious as to how this is playing out for larger engineering teams. If you're on a team (let's say 5+ engineers) that has adopted Claude Code, Cursor, Codex, or some other agent, can you share how it's going? Are you seeing more LOCs created? Has PR velocity or PR complexity changed? Do you find yourself spending the same amount of time on PRs, less, or more? Comments URL: https://news.ycombinator.com/item?id=46896309 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46896309",
       "image": "",
-      "date": "2026-02-04T03:52:07+00:00"
+      "date": "2026-02-05T06:17:22+00:00"
     },
     {
-      "title": "Adobe Animate is shutting down as company focuses on AI",
-      "summary": "Article URL: https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/ Comments URL: https://news.ycombinator.com/item?id=46880748 Points: 1 # Comments: 1",
-      "url": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-95799630.jpg?resize=1200,800",
-      "date": "2026-02-04T02:38:31+00:00"
+      "title": "Moltbook: An experimental social network for AI agents only",
+      "summary": "Article URL: https://techoreon.com/ai-only-social-network-moltbook-explainer/ Comments URL: https://news.ycombinator.com/item?id=46896148 Points: 2 # Comments: 1",
+      "url": "https://techoreon.com/ai-only-social-network-moltbook-explainer/",
+      "image": "https://techoreon.com/wp-content/uploads/2026/02/Gemini_Generated_Image_aogp8xaogp8xaogp-e1770270374536.jpg",
+      "date": "2026-02-05T05:50:08+00:00"
     },
     {
-      "title": "Ask HN: How do you integrate design into your AI coding workflows?",
-      "summary": "I’m using AI tools heavily for coding, but I’m still figuring out the best way to incorporate product/UX design without it feeling bolted on. For those using AI in your dev workflow, how do you integrate design thinking, UI iteration, and usability checks? Do you use specific tools, prompts, or checkpoints? Would love to hear concrete workflows that have worked well. Comments URL: https://news.ycombinator.com/item?id=46880662 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46880662",
+      "title": "From Flops to Finality: Solving Proof-of-Compute with Verifiable Intelligence",
+      "summary": "Article URL: https://www.daifi.ai/blog/from-flops-to-finality-solving-proof-of-compute-with-verifiable-intelligence Comments URL: https://news.ycombinator.com/item?id=46896141 Points: 1 # Comments: 0",
+      "url": "https://www.daifi.ai/blog/from-flops-to-finality-solving-proof-of-compute-with-verifiable-intelligence",
       "image": "",
-      "date": "2026-02-04T02:25:48+00:00"
+      "date": "2026-02-05T05:49:07+00:00"
     },
     {
-      "title": "Docker Sandboxes lets you run AI coding agents in isolated environments",
-      "summary": "Article URL: https://docs.docker.com/ai/sandboxes Comments URL: https://news.ycombinator.com/item?id=46880600 Points: 1 # Comments: 0",
-      "url": "https://docs.docker.com/ai/sandboxes",
-      "image": "https://docs.docker.com/images/thumbnail.webp",
-      "date": "2026-02-04T02:18:36+00:00"
-    },
-    {
-      "title": "Wall Street ends sharply down as traders fret about AI disruption",
-      "summary": "Article URL: https://www.reuters.com/business/sp-nasdaq-futures-edge-up-earnings-deluge-takes-center-stage-2026-02-03/ Comments URL: https://news.ycombinator.com/item?id=46879856 Points: 3 # Comments: 0",
-      "url": "https://www.reuters.com/business/sp-nasdaq-futures-edge-up-earnings-deluge-takes-center-stage-2026-02-03/",
+      "title": "Altman Says OpenAI May Back Firms Using AI for Drug Discovery",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-03/altman-says-openai-may-back-firms-using-ai-for-drug-discovery Comments URL: https://news.ycombinator.com/item?id=46896068 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-03/altman-says-openai-may-back-firms-using-ai-for-drug-discovery",
       "image": "",
-      "date": "2026-02-04T00:55:10+00:00"
+      "date": "2026-02-05T05:37:17+00:00"
+    },
+    {
+      "title": "Is AI the Next Climate Change?",
+      "summary": "Article URL: https://www.wsj.com/opinion/is-ai-the-next-climate-change-e7a11637 Comments URL: https://news.ycombinator.com/item?id=46896019 Points: 4 # Comments: 4",
+      "url": "https://www.wsj.com/opinion/is-ai-the-next-climate-change-e7a11637",
+      "image": "",
+      "date": "2026-02-05T05:29:42+00:00"
+    },
+    {
+      "title": "AI Command and Staff–Operational Evidence and Insights from Wargaming",
+      "summary": "Article URL: https://www.militarystrategymagazine.com/article/ai-command-and-staff-operational-evidence-and-insights-from-wargaming/ Comments URL: https://news.ycombinator.com/item?id=46895457 Points: 2 # Comments: 0",
+      "url": "https://www.militarystrategymagazine.com/article/ai-command-and-staff-operational-evidence-and-insights-from-wargaming/",
+      "image": "https://www.militarystrategymagazine.com/wp-content/uploads/2026/02/Image-for-article-1.jpeg",
+      "date": "2026-02-05T03:50:12+00:00"
+    },
+    {
+      "title": "Ask HN: Does anyone have interests in anything besides AI?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46895182 Points: 6 # Comments: 7",
+      "url": "https://news.ycombinator.com/item?id=46895182",
+      "image": "",
+      "date": "2026-02-05T03:12:15+00:00"
     }
   ]
 }
