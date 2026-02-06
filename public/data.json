@@ -1,82 +1,68 @@
 {
-  "generated_at": "2026-02-05T07:14:55.113433+00:00",
+  "generated_at": "2026-02-06T07:11:30.519487+00:00",
   "items": [
     {
-      "title": "Trillion-Dollar Tech Wipeout Ensnares All Stocks in AI's Path",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-04/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ai-s-path Comments URL: https://news.ycombinator.com/item?id=46896409 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-04/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ai-s-path",
+      "title": "AI Development Company",
+      "summary": "An AI development company helps businesses turn data into smarter decisions through intelligent, scalable solutions. From machine learning models to conversational chatbots and predictive analytics, these companies design AI systems tailored to real-world challenges. By combining technical expertise with industry insight, an AI development company accelerates digital transformation, improves efficiency, and drives innovation. Whether you’re a startup or an enterprise, partnering with the right AI experts can unlock automation, accuracy, and long-term competitive advantage in today’s data-driven market. Comments URL: https://news.ycombinator.com/item?id=46909998 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46909998",
       "image": "",
-      "date": "2026-02-05T06:31:53+00:00"
+      "date": "2026-02-06T07:09:25+00:00"
     },
     {
-      "title": "Show HN: Free AI video transcription online tool",
-      "summary": "I've developed a simple AI-powered video-to-text converter.\nUpload your video, and within minutes, its content will be converted into clear, searchable text. Our AI accurately captures spoken language, identifies different speakers and accents, reviews the generated transcript, and exports it in your preferred format—including TXT, DOCX, PDF, SRT, or VTT. You can then edit it, use it for subtitles, or share it anywhere.\nEverything runs directly in your browser. I'm primarily interested in feedback on output quality, user experience, and any technical improvements worth exploring. Comments URL: https://news.ycombinator.com/item?id=46896359 Points: 1 # Comments: 0",
-      "url": "https://videocompress.ai/video-to-text-converter",
-      "image": "/assets/logo.png",
-      "date": "2026-02-05T06:23:46+00:00"
+      "title": "AI fears pummel software stocks",
+      "summary": "Article URL: https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html Comments URL: https://news.ycombinator.com/item?id=46909955 Points: 1 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108262333-1770354220264-gettyimages-2249955795-raa-anthropi251207_npz6E.jpeg?v=1770354262&w=1920&h=1080",
+      "date": "2026-02-06T07:00:36+00:00"
     },
     {
-      "title": "Google goes from laggard to leader, pulls ahead of OpenAI with stellar AI growth",
-      "summary": "Article URL: https://www.reuters.com/business/google-goes-laggard-leader-it-pulls-ahead-openai-with-stellar-ai-growth-2026-02-05/ Comments URL: https://news.ycombinator.com/item?id=46896314 Points: 3 # Comments: 2",
-      "url": "https://www.reuters.com/business/google-goes-laggard-leader-it-pulls-ahead-openai-with-stellar-ai-growth-2026-02-05/",
+      "title": "Show HN: Hive Agent – Embed Claude Code-like AI agents in your app",
+      "summary": "Hey HN, I've been building with Claude Code daily and kept thinking: what if I could give my users the same experience — an AI agent that explores context, plans, executes tools, and builds things — but embedded natively in my own application? So I built *Hive Agent*, an open-source TypeScript framework that reproduces the core Claude Code architecture as a library you can integrate into any app. *What it does:* - *Workspace system* — Give the agent any context via a virtual filesystem. Feed it your user's data, project files, API responses — whatever your app needs. The agent reads, writes, and searches through it using bash-like commands.\n- *Built-in Explore & Plan agents* — Just like Claude Code, Hive auto-spawns sub-agents to investigate workspace data before acting and to design step-by-step plans for complex tasks.\n- *Sub-agent orchestration* — Spawn specialized agents with different models (Claude, OpenAI), different tools, and structured I/O. A research agent can use GPT-4, while the main agent uses Claude.\n- *Custom tools* — Define any tool your app needs. API calls, database queries, browser automation, document generation — the agent calls them as needed.\n- *Stateless & serverless-ready* — No persistent state. Works in Firebase Functions, Vercel, AWS Lambda. Pass history in, get history out.\n- *Execution tracing & cost tracking* — Full hierarchical traces with per-model token usage and cost breakdown.\n- *Interactive mode* — Agent can pause and ask clarifying questions, just like Claude Code does. *What you can build with it:* - AI coding assistants scoped to your platform\n- Document generators that understand your users' context\n- Project scaffolding tools\n- Support agents with access to your internal APIs\n- Any workflow where an AI needs to explore data, plan, and act *Quick example:* ```typescript\nimport { Hive, ClaudeProvider } from '@alexnetrebskii/hive-agent' const agent = new Hive({\n  systemPrompt: 'You are a project generator...',\n  tools: [myApiTool, myDbTool],\n  llm: new ClaudeProvider({ apiKey: process.env.ANTHROPIC_API_KEY }),\n  workspace: new Workspace({\n    paths: { 'user/requirements.json': { value: userReqs } }\n  })\n}) const result = await agent.run('Create a new project based on my requirements')\n``` The agent will explore the workspace, plan the approach, create files, call your tools — all autonomously. *Links:* - GitHub: https://github.com/anetrebskii/hive-agent - Install: `pnpm add @alexnetrebskii/hive-agent`\n- MIT licensed I'd love feedback from anyone building agent-powered features. What tools or patterns would you want built-in? Try it out and let me know what breaks. Comments URL: https://news.ycombinator.com/item?id=46909873 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46909873",
       "image": "",
-      "date": "2026-02-05T06:18:00+00:00"
+      "date": "2026-02-06T06:47:53+00:00"
     },
     {
-      "title": "Why Big Tech Is Throwing Cash into India in Quest for AI Supremacy",
-      "summary": "Article URL: https://www.wsj.com/world/india/why-big-tech-is-throwing-cash-into-india-in-quest-for-ai-supremacy-a5d02f0e Comments URL: https://news.ycombinator.com/item?id=46896311 Points: 1 # Comments: 0",
-      "url": "https://www.wsj.com/world/india/why-big-tech-is-throwing-cash-into-india-in-quest-for-ai-supremacy-a5d02f0e",
+      "title": "Beat AI in Incident Diagnosis Competition – $225 in Prizes, This Saturday",
+      "summary": "Article URL: https://incidentfox.slack.com/join/shared_invite/zt-3ojlxvs46-xuEJEplqBHPlymxtzQi8KQ?nojsmode=1 Comments URL: https://news.ycombinator.com/item?id=46909823 Points: 1 # Comments: 1",
+      "url": "https://incidentfox.slack.com/join/shared_invite/zt-3ojlxvs46-xuEJEplqBHPlymxtzQi8KQ?nojsmode=1",
       "image": "",
-      "date": "2026-02-05T06:17:35+00:00"
+      "date": "2026-02-06T06:38:56+00:00"
     },
     {
-      "title": "Ask HN: Has your whole engineering team gone big into AI coding? How's it going?",
-      "summary": "I'm seeing individual programmers who have moved to 100% AI coding, but I'm curious as to how this is playing out for larger engineering teams. If you're on a team (let's say 5+ engineers) that has adopted Claude Code, Cursor, Codex, or some other agent, can you share how it's going? Are you seeing more LOCs created? Has PR velocity or PR complexity changed? Do you find yourself spending the same amount of time on PRs, less, or more? Comments URL: https://news.ycombinator.com/item?id=46896309 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46896309",
+      "title": "How exposed are software stocks to AI tools? We put vibe-coding to the test",
+      "summary": "Article URL: https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html Comments URL: https://news.ycombinator.com/item?id=46909576 Points: 1 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108184664-1754999709333-gettyimages-2214520187-img_1248.jpeg?v=1754999753&w=1920&h=1080",
+      "date": "2026-02-06T05:50:11+00:00"
+    },
+    {
+      "title": "What can still be a reasonable AI bear thesis?",
+      "summary": "Article URL: https://metacriticcapital.substack.com/p/what-can-still-be-a-reasonable-ai Comments URL: https://news.ycombinator.com/item?id=46909557 Points: 1 # Comments: 1",
+      "url": "https://metacriticcapital.substack.com/p/what-can-still-be-a-reasonable-ai",
       "image": "",
-      "date": "2026-02-05T06:17:22+00:00"
+      "date": "2026-02-06T05:46:32+00:00"
     },
     {
-      "title": "Moltbook: An experimental social network for AI agents only",
-      "summary": "Article URL: https://techoreon.com/ai-only-social-network-moltbook-explainer/ Comments URL: https://news.ycombinator.com/item?id=46896148 Points: 2 # Comments: 1",
-      "url": "https://techoreon.com/ai-only-social-network-moltbook-explainer/",
-      "image": "https://techoreon.com/wp-content/uploads/2026/02/Gemini_Generated_Image_aogp8xaogp8xaogp-e1770270374536.jpg",
-      "date": "2026-02-05T05:50:08+00:00"
+      "title": "Open-Source Software in the Age of AI",
+      "summary": "Article URL: https://essays.johnloeber.com/p/31-open-source-software-in-the-age Comments URL: https://news.ycombinator.com/item?id=46909460 Points: 2 # Comments: 0",
+      "url": "https://essays.johnloeber.com/p/31-open-source-software-in-the-age",
+      "image": "https://substackcdn.com/image/fetch/$s_!3urS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd48b76a-5f81-4eb9-afea-6ae6b4a569c3_1536x1024.png",
+      "date": "2026-02-06T05:28:08+00:00"
     },
     {
-      "title": "From Flops to Finality: Solving Proof-of-Compute with Verifiable Intelligence",
-      "summary": "Article URL: https://www.daifi.ai/blog/from-flops-to-finality-solving-proof-of-compute-with-verifiable-intelligence Comments URL: https://news.ycombinator.com/item?id=46896141 Points: 1 # Comments: 0",
-      "url": "https://www.daifi.ai/blog/from-flops-to-finality-solving-proof-of-compute-with-verifiable-intelligence",
+      "title": "Ask HN: 10 months since the Llama-4 release: what happened to Meta AI?",
+      "summary": "I understand Llama 4 was a disappointment, but what's happened at Meta since then? Their API is still waitlist-only 10 months on. Comments URL: https://news.ycombinator.com/item?id=46909060 Points: 11 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=46909060",
       "image": "",
-      "date": "2026-02-05T05:49:07+00:00"
+      "date": "2026-02-06T04:18:13+00:00"
     },
     {
-      "title": "Altman Says OpenAI May Back Firms Using AI for Drug Discovery",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-03/altman-says-openai-may-back-firms-using-ai-for-drug-discovery Comments URL: https://news.ycombinator.com/item?id=46896068 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-03/altman-says-openai-may-back-firms-using-ai-for-drug-discovery",
-      "image": "",
-      "date": "2026-02-05T05:37:17+00:00"
-    },
-    {
-      "title": "Is AI the Next Climate Change?",
-      "summary": "Article URL: https://www.wsj.com/opinion/is-ai-the-next-climate-change-e7a11637 Comments URL: https://news.ycombinator.com/item?id=46896019 Points: 4 # Comments: 4",
-      "url": "https://www.wsj.com/opinion/is-ai-the-next-climate-change-e7a11637",
-      "image": "",
-      "date": "2026-02-05T05:29:42+00:00"
-    },
-    {
-      "title": "AI Command and Staff–Operational Evidence and Insights from Wargaming",
-      "summary": "Article URL: https://www.militarystrategymagazine.com/article/ai-command-and-staff-operational-evidence-and-insights-from-wargaming/ Comments URL: https://news.ycombinator.com/item?id=46895457 Points: 2 # Comments: 0",
-      "url": "https://www.militarystrategymagazine.com/article/ai-command-and-staff-operational-evidence-and-insights-from-wargaming/",
-      "image": "https://www.militarystrategymagazine.com/wp-content/uploads/2026/02/Image-for-article-1.jpeg",
-      "date": "2026-02-05T03:50:12+00:00"
-    },
-    {
-      "title": "Ask HN: Does anyone have interests in anything besides AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46895182 Points: 6 # Comments: 7",
-      "url": "https://news.ycombinator.com/item?id=46895182",
-      "image": "",
-      "date": "2026-02-05T03:12:15+00:00"
+      "title": "Study: Meta AI model can reproduce almost half of Harry Potter book",
+      "summary": "Article URL: https://arstechnica.com/features/2025/06/study-metas-llama-3-1-can-recall-42-percent-of-the-first-harry-potter-book/ Comments URL: https://news.ycombinator.com/item?id=46908767 Points: 1 # Comments: 0",
+      "url": "https://arstechnica.com/features/2025/06/study-metas-llama-3-1-can-recall-42-percent-of-the-first-harry-potter-book/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2173576600-1152x648.jpg",
+      "date": "2026-02-06T03:34:15+00:00"
     }
   ]
 }
