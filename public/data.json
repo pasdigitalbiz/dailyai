@@ -1,68 +1,75 @@
 {
-  "generated_at": "2026-02-06T07:11:30.519487+00:00",
+  "generated_at": "2026-02-07T07:00:25.939963+00:00",
   "items": [
     {
-      "title": "AI Development Company",
-      "summary": "An AI development company helps businesses turn data into smarter decisions through intelligent, scalable solutions. From machine learning models to conversational chatbots and predictive analytics, these companies design AI systems tailored to real-world challenges. By combining technical expertise with industry insight, an AI development company accelerates digital transformation, improves efficiency, and drives innovation. Whether you’re a startup or an enterprise, partnering with the right AI experts can unlock automation, accuracy, and long-term competitive advantage in today’s data-driven market. Comments URL: https://news.ycombinator.com/item?id=46909998 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46909998",
+      "title": "Looking for 4 Autistic Co-Founders for AI Startup (Equity-Based)",
+      "summary": "I'm Alf. Retired solar engineer, Cambodia. \nBuilding a real decentralized personal AI system! \nSystem OS with AISL protocol (AI-to-AI structured communication).\nSuch a thing doesn't exist and won't exist unless we build it and change the world! Looking for 4 autistic developers to join as co-founders:\n- 20% equity each\n- No salary until revenue\n- 6-week trial period\n- Remote, async, zero meetings\n- Cambodia beach office optional The work:\n- AISL protocol design\n- Multi-AI orchestration (GPT/Claude/Llama)\n- Encrypted knowledge base\n- Pattern-heavy architecture Not looking for:\n- FAANG refugees\n- Salary hunters\n- Resume builders Looking for:\n- Developers who code at night because they must\n- Pattern-obsessed minds\n- Hunger to build something yours\n- Autism as advantage, not limitation Apply: aut_ai_aisl@pm.me Telegram: @aut_ai_aisl Comments URL: https://news.ycombinator.com/item?id=46921706 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46921706",
       "image": "",
-      "date": "2026-02-06T07:09:25+00:00"
+      "date": "2026-02-07T06:03:39+00:00"
     },
     {
-      "title": "AI fears pummel software stocks",
-      "summary": "Article URL: https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html Comments URL: https://news.ycombinator.com/item?id=46909955 Points: 1 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108262333-1770354220264-gettyimages-2249955795-raa-anthropi251207_npz6E.jpeg?v=1770354262&w=1920&h=1080",
-      "date": "2026-02-06T07:00:36+00:00"
-    },
-    {
-      "title": "Show HN: Hive Agent – Embed Claude Code-like AI agents in your app",
-      "summary": "Hey HN, I've been building with Claude Code daily and kept thinking: what if I could give my users the same experience — an AI agent that explores context, plans, executes tools, and builds things — but embedded natively in my own application? So I built *Hive Agent*, an open-source TypeScript framework that reproduces the core Claude Code architecture as a library you can integrate into any app. *What it does:* - *Workspace system* — Give the agent any context via a virtual filesystem. Feed it your user's data, project files, API responses — whatever your app needs. The agent reads, writes, and searches through it using bash-like commands.\n- *Built-in Explore & Plan agents* — Just like Claude Code, Hive auto-spawns sub-agents to investigate workspace data before acting and to design step-by-step plans for complex tasks.\n- *Sub-agent orchestration* — Spawn specialized agents with different models (Claude, OpenAI), different tools, and structured I/O. A research agent can use GPT-4, while the main agent uses Claude.\n- *Custom tools* — Define any tool your app needs. API calls, database queries, browser automation, document generation — the agent calls them as needed.\n- *Stateless & serverless-ready* — No persistent state. Works in Firebase Functions, Vercel, AWS Lambda. Pass history in, get history out.\n- *Execution tracing & cost tracking* — Full hierarchical traces with per-model token usage and cost breakdown.\n- *Interactive mode* — Agent can pause and ask clarifying questions, just like Claude Code does. *What you can build with it:* - AI coding assistants scoped to your platform\n- Document generators that understand your users' context\n- Project scaffolding tools\n- Support agents with access to your internal APIs\n- Any workflow where an AI needs to explore data, plan, and act *Quick example:* ```typescript\nimport { Hive, ClaudeProvider } from '@alexnetrebskii/hive-agent' const agent = new Hive({\n  systemPrompt: 'You are a project generator...',\n  tools: [myApiTool, myDbTool],\n  llm: new ClaudeProvider({ apiKey: process.env.ANTHROPIC_API_KEY }),\n  workspace: new Workspace({\n    paths: { 'user/requirements.json': { value: userReqs } }\n  })\n}) const result = await agent.run('Create a new project based on my requirements')\n``` The agent will explore the workspace, plan the approach, create files, call your tools — all autonomously. *Links:* - GitHub: https://github.com/anetrebskii/hive-agent - Install: `pnpm add @alexnetrebskii/hive-agent`\n- MIT licensed I'd love feedback from anyone building agent-powered features. What tools or patterns would you want built-in? Try it out and let me know what breaks. Comments URL: https://news.ycombinator.com/item?id=46909873 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46909873",
+      "title": "AI-native capabilities, a new API Catalog, and updated plans and pricing",
+      "summary": "Article URL: https://blog.postman.com/new-capabilities-march-2026/ Comments URL: https://news.ycombinator.com/item?id=46921705 Points: 1 # Comments: 0",
+      "url": "https://blog.postman.com/new-capabilities-march-2026/",
       "image": "",
-      "date": "2026-02-06T06:47:53+00:00"
+      "date": "2026-02-07T06:03:13+00:00"
     },
     {
-      "title": "Beat AI in Incident Diagnosis Competition – $225 in Prizes, This Saturday",
-      "summary": "Article URL: https://incidentfox.slack.com/join/shared_invite/zt-3ojlxvs46-xuEJEplqBHPlymxtzQi8KQ?nojsmode=1 Comments URL: https://news.ycombinator.com/item?id=46909823 Points: 1 # Comments: 1",
-      "url": "https://incidentfox.slack.com/join/shared_invite/zt-3ojlxvs46-xuEJEplqBHPlymxtzQi8KQ?nojsmode=1",
+      "title": "Elon Musk on Space GPUs, AI, Optimus, and His Manufacturing Method",
+      "summary": "Article URL: https://cheekypint.substack.com/p/elon-musk-on-space-gpus-ai-optimus Comments URL: https://news.ycombinator.com/item?id=46921535 Points: 2 # Comments: 0",
+      "url": "https://cheekypint.substack.com/p/elon-musk-on-space-gpus-ai-optimus",
       "image": "",
-      "date": "2026-02-06T06:38:56+00:00"
+      "date": "2026-02-07T05:17:34+00:00"
     },
     {
-      "title": "How exposed are software stocks to AI tools? We put vibe-coding to the test",
-      "summary": "Article URL: https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html Comments URL: https://news.ycombinator.com/item?id=46909576 Points: 1 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/02/05/how-exposed-are-software-stocks-to-ai-tools-we-tested-vibe-coding.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108184664-1754999709333-gettyimages-2214520187-img_1248.jpeg?v=1754999753&w=1920&h=1080",
-      "date": "2026-02-06T05:50:11+00:00"
-    },
-    {
-      "title": "What can still be a reasonable AI bear thesis?",
-      "summary": "Article URL: https://metacriticcapital.substack.com/p/what-can-still-be-a-reasonable-ai Comments URL: https://news.ycombinator.com/item?id=46909557 Points: 1 # Comments: 1",
-      "url": "https://metacriticcapital.substack.com/p/what-can-still-be-a-reasonable-ai",
+      "title": "Concept Artists Say Generative AI References Only Make Their Jobs Harder",
+      "summary": "Article URL: https://thisweekinvideogames.com/feature/concept-artists-in-games-say-generative-ai-references-only-make-their-jobs-harder/ Comments URL: https://news.ycombinator.com/item?id=46921266 Points: 1 # Comments: 0",
+      "url": "https://thisweekinvideogames.com/feature/concept-artists-in-games-say-generative-ai-references-only-make-their-jobs-harder/",
       "image": "",
-      "date": "2026-02-06T05:46:32+00:00"
+      "date": "2026-02-07T04:21:18+00:00"
     },
     {
-      "title": "Open-Source Software in the Age of AI",
-      "summary": "Article URL: https://essays.johnloeber.com/p/31-open-source-software-in-the-age Comments URL: https://news.ycombinator.com/item?id=46909460 Points: 2 # Comments: 0",
-      "url": "https://essays.johnloeber.com/p/31-open-source-software-in-the-age",
-      "image": "https://substackcdn.com/image/fetch/$s_!3urS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd48b76a-5f81-4eb9-afea-6ae6b4a569c3_1536x1024.png",
-      "date": "2026-02-06T05:28:08+00:00"
+      "title": "Pax Historia – User and AI powered gaming platform",
+      "summary": "Article URL: https://www.ycombinator.com/launches/PMu-pax-historia-user-ai-powered-gaming-platform Comments URL: https://news.ycombinator.com/item?id=46921202 Points: 2 # Comments: 0",
+      "url": "https://www.ycombinator.com/launches/PMu-pax-historia-user-ai-powered-gaming-platform",
+      "image": "https://www.ycombinator.com/media/?type=post&id=97520&key=user_uploads/1382898/f7de4ff4-c0d2-4a10-9785-d2ca30e30949",
+      "date": "2026-02-07T04:04:40+00:00"
     },
     {
-      "title": "Ask HN: 10 months since the Llama-4 release: what happened to Meta AI?",
-      "summary": "I understand Llama 4 was a disappointment, but what's happened at Meta since then? Their API is still waitlist-only 10 months on. Comments URL: https://news.ycombinator.com/item?id=46909060 Points: 11 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46909060",
+      "title": "Token Smuggling:How Non-Standard Encoding Bypass AI Security",
+      "summary": "Article URL: https://instatunnel.my/blog/token-smuggling-bypassing-filters-with-non-standard-encodings Comments URL: https://news.ycombinator.com/item?id=46920148 Points: 2 # Comments: 0",
+      "url": "https://instatunnel.my/blog/token-smuggling-bypassing-filters-with-non-standard-encodings",
+      "image": "https://i.ibb.co/MkqQShZS/Token-Smuggling-Bypassing-Filters-with-Non-Standard-Encodings.png",
+      "date": "2026-02-07T00:48:45+00:00"
+    },
+    {
+      "title": "Jobs getting better? \"AI has the potential for a productivity uplift\"",
+      "summary": "Article URL: https://blogs.lse.ac.uk/businessreview/2026/02/03/are-jobs-getting-better-ai-has-the-potential-for-a-massive-productivity-uplift/ Comments URL: https://news.ycombinator.com/item?id=46920083 Points: 3 # Comments: 0",
+      "url": "https://blogs.lse.ac.uk/businessreview/2026/02/03/are-jobs-getting-better-ai-has-the-potential-for-a-massive-productivity-uplift/",
+      "image": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2026/02/AI-productivity-1200-x-675.jpg",
+      "date": "2026-02-07T00:38:24+00:00"
+    },
+    {
+      "title": "The Malleability of Tools: AI Is Eating UI",
+      "summary": "Article URL: https://www.cjroth.com/blog/the-malleability-of-tools Comments URL: https://news.ycombinator.com/item?id=46920050 Points: 3 # Comments: 0",
+      "url": "https://www.cjroth.com/blog/the-malleability-of-tools",
+      "image": "https://www.cjroth.com/og/blog/the-malleability-of-tools/image.png",
+      "date": "2026-02-07T00:31:48+00:00"
+    },
+    {
+      "title": "Control Layer for AI",
+      "summary": "Article URL: https://blog.dottxt.ai/control-layer-for-ai Comments URL: https://news.ycombinator.com/item?id=46919772 Points: 1 # Comments: 1",
+      "url": "https://blog.dottxt.ai/control-layer-for-ai",
       "image": "",
-      "date": "2026-02-06T04:18:13+00:00"
+      "date": "2026-02-06T23:51:35+00:00"
     },
     {
-      "title": "Study: Meta AI model can reproduce almost half of Harry Potter book",
-      "summary": "Article URL: https://arstechnica.com/features/2025/06/study-metas-llama-3-1-can-recall-42-percent-of-the-first-harry-potter-book/ Comments URL: https://news.ycombinator.com/item?id=46908767 Points: 1 # Comments: 0",
-      "url": "https://arstechnica.com/features/2025/06/study-metas-llama-3-1-can-recall-42-percent-of-the-first-harry-potter-book/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2173576600-1152x648.jpg",
-      "date": "2026-02-06T03:34:15+00:00"
+      "title": "Moltbook was peak AI theater",
+      "summary": "Article URL: https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/ Comments URL: https://news.ycombinator.com/item?id=46919671 Points: 6 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205_moltbook-hero.jpg?resize=1200,600",
+      "date": "2026-02-06T23:36:50+00:00"
     }
   ]
 }
