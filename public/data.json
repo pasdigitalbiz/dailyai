@@ -1,75 +1,47 @@
 {
-  "generated_at": "2026-02-07T07:00:25.939963+00:00",
+  "generated_at": "2026-02-08T07:06:12.807638+00:00",
   "items": [
     {
-      "title": "Looking for 4 Autistic Co-Founders for AI Startup (Equity-Based)",
-      "summary": "I'm Alf. Retired solar engineer, Cambodia. \nBuilding a real decentralized personal AI system! \nSystem OS with AISL protocol (AI-to-AI structured communication).\nSuch a thing doesn't exist and won't exist unless we build it and change the world! Looking for 4 autistic developers to join as co-founders:\n- 20% equity each\n- No salary until revenue\n- 6-week trial period\n- Remote, async, zero meetings\n- Cambodia beach office optional The work:\n- AISL protocol design\n- Multi-AI orchestration (GPT/Claude/Llama)\n- Encrypted knowledge base\n- Pattern-heavy architecture Not looking for:\n- FAANG refugees\n- Salary hunters\n- Resume builders Looking for:\n- Developers who code at night because they must\n- Pattern-obsessed minds\n- Hunger to build something yours\n- Autism as advantage, not limitation Apply: aut_ai_aisl@pm.me Telegram: @aut_ai_aisl Comments URL: https://news.ycombinator.com/item?id=46921706 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46921706",
+      "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable Comments URL: https://news.ycombinator.com/item?id=46931473 Points: 1 # Comments: 3",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable",
       "image": "",
-      "date": "2026-02-07T06:03:39+00:00"
+      "date": "2026-02-08T05:08:00+00:00"
     },
     {
-      "title": "AI-native capabilities, a new API Catalog, and updated plans and pricing",
-      "summary": "Article URL: https://blog.postman.com/new-capabilities-march-2026/ Comments URL: https://news.ycombinator.com/item?id=46921705 Points: 1 # Comments: 0",
-      "url": "https://blog.postman.com/new-capabilities-march-2026/",
+      "title": "Sanskrit AI beats CleanRL SOTA by 125%",
+      "summary": "Article URL: https://huggingface.co/ParamTatva/sanskrit-ppo-hopper-v5/blob/main/docs/blog.md Comments URL: https://news.ycombinator.com/item?id=46930849 Points: 1 # Comments: 1",
+      "url": "https://huggingface.co/ParamTatva/sanskrit-ppo-hopper-v5/blob/main/docs/blog.md",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ParamTatva/sanskrit-ppo-hopper-v5.png",
+      "date": "2026-02-08T02:45:45+00:00"
+    },
+    {
+      "title": "In the AI age, 'slow and steady' doesn't win",
+      "summary": "Article URL: https://www.semafor.com/article/01/30/2026/in-the-ai-age-slow-and-steady-is-on-the-outs Comments URL: https://news.ycombinator.com/item?id=46930507 Points: 2 # Comments: 1",
+      "url": "https://www.semafor.com/article/01/30/2026/in-the-ai-age-slow-and-steady-is-on-the-outs",
+      "image": "https://img.semafor.com/de933c44c0423b13ff69ccb823f30cce3a2d545d-4498x2999.jpg?rect=0,320,4498,2361&w=1200&h=630&q=75&auto=format",
+      "date": "2026-02-08T01:43:34+00:00"
+    },
+    {
+      "title": "AI, networks and Mechanical Turks (2025)",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks Comments URL: https://news.ycombinator.com/item?id=46930500 Points: 1 # Comments: 0",
+      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
+      "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6943f8a9b68e666f43d78ba1/1766062249801/2025+Autumn+AI.074.png?format=1500w",
+      "date": "2026-02-08T01:42:30+00:00"
+    },
+    {
+      "title": "Show HN: Isolating AI-generated code from human code | Vibe as a Code",
+      "summary": "Small Vite plugin: you put decorators on empty functions, run the build, and the function bodies are generated at build time into ./ai. Your source files stay unchanged. The idea is to prototype fast without handing over project architecture to AI. Another use case is saving AI window context when generating generic code (e.g. JSX). For now it doesn’t understand full project context. This is a working prototype of the idea - curious what others think. Comments URL: https://news.ycombinator.com/item?id=46930431 Points: 1 # Comments: 0",
+      "url": "https://www.npmjs.com/package/@gace/vaac",
       "image": "",
-      "date": "2026-02-07T06:03:13+00:00"
+      "date": "2026-02-08T01:33:38+00:00"
     },
     {
-      "title": "Elon Musk on Space GPUs, AI, Optimus, and His Manufacturing Method",
-      "summary": "Article URL: https://cheekypint.substack.com/p/elon-musk-on-space-gpus-ai-optimus Comments URL: https://news.ycombinator.com/item?id=46921535 Points: 2 # Comments: 0",
-      "url": "https://cheekypint.substack.com/p/elon-musk-on-space-gpus-ai-optimus",
+      "title": "AI readability score for your documentation",
+      "summary": "Article URL: https://docsalot.dev/tools/docsagent-score Comments URL: https://news.ycombinator.com/item?id=46930320 Points: 1 # Comments: 0",
+      "url": "https://docsalot.dev/tools/docsagent-score",
       "image": "",
-      "date": "2026-02-07T05:17:34+00:00"
-    },
-    {
-      "title": "Concept Artists Say Generative AI References Only Make Their Jobs Harder",
-      "summary": "Article URL: https://thisweekinvideogames.com/feature/concept-artists-in-games-say-generative-ai-references-only-make-their-jobs-harder/ Comments URL: https://news.ycombinator.com/item?id=46921266 Points: 1 # Comments: 0",
-      "url": "https://thisweekinvideogames.com/feature/concept-artists-in-games-say-generative-ai-references-only-make-their-jobs-harder/",
-      "image": "",
-      "date": "2026-02-07T04:21:18+00:00"
-    },
-    {
-      "title": "Pax Historia – User and AI powered gaming platform",
-      "summary": "Article URL: https://www.ycombinator.com/launches/PMu-pax-historia-user-ai-powered-gaming-platform Comments URL: https://news.ycombinator.com/item?id=46921202 Points: 2 # Comments: 0",
-      "url": "https://www.ycombinator.com/launches/PMu-pax-historia-user-ai-powered-gaming-platform",
-      "image": "https://www.ycombinator.com/media/?type=post&id=97520&key=user_uploads/1382898/f7de4ff4-c0d2-4a10-9785-d2ca30e30949",
-      "date": "2026-02-07T04:04:40+00:00"
-    },
-    {
-      "title": "Token Smuggling:How Non-Standard Encoding Bypass AI Security",
-      "summary": "Article URL: https://instatunnel.my/blog/token-smuggling-bypassing-filters-with-non-standard-encodings Comments URL: https://news.ycombinator.com/item?id=46920148 Points: 2 # Comments: 0",
-      "url": "https://instatunnel.my/blog/token-smuggling-bypassing-filters-with-non-standard-encodings",
-      "image": "https://i.ibb.co/MkqQShZS/Token-Smuggling-Bypassing-Filters-with-Non-Standard-Encodings.png",
-      "date": "2026-02-07T00:48:45+00:00"
-    },
-    {
-      "title": "Jobs getting better? \"AI has the potential for a productivity uplift\"",
-      "summary": "Article URL: https://blogs.lse.ac.uk/businessreview/2026/02/03/are-jobs-getting-better-ai-has-the-potential-for-a-massive-productivity-uplift/ Comments URL: https://news.ycombinator.com/item?id=46920083 Points: 3 # Comments: 0",
-      "url": "https://blogs.lse.ac.uk/businessreview/2026/02/03/are-jobs-getting-better-ai-has-the-potential-for-a-massive-productivity-uplift/",
-      "image": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2026/02/AI-productivity-1200-x-675.jpg",
-      "date": "2026-02-07T00:38:24+00:00"
-    },
-    {
-      "title": "The Malleability of Tools: AI Is Eating UI",
-      "summary": "Article URL: https://www.cjroth.com/blog/the-malleability-of-tools Comments URL: https://news.ycombinator.com/item?id=46920050 Points: 3 # Comments: 0",
-      "url": "https://www.cjroth.com/blog/the-malleability-of-tools",
-      "image": "https://www.cjroth.com/og/blog/the-malleability-of-tools/image.png",
-      "date": "2026-02-07T00:31:48+00:00"
-    },
-    {
-      "title": "Control Layer for AI",
-      "summary": "Article URL: https://blog.dottxt.ai/control-layer-for-ai Comments URL: https://news.ycombinator.com/item?id=46919772 Points: 1 # Comments: 1",
-      "url": "https://blog.dottxt.ai/control-layer-for-ai",
-      "image": "",
-      "date": "2026-02-06T23:51:35+00:00"
-    },
-    {
-      "title": "Moltbook was peak AI theater",
-      "summary": "Article URL: https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/ Comments URL: https://news.ycombinator.com/item?id=46919671 Points: 6 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205_moltbook-hero.jpg?resize=1200,600",
-      "date": "2026-02-06T23:36:50+00:00"
+      "date": "2026-02-08T01:15:29+00:00"
     }
   ]
 }
