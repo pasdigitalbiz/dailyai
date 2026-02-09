@@ -1,47 +1,103 @@
 {
-  "generated_at": "2026-02-08T07:06:12.807638+00:00",
+  "generated_at": "2026-02-09T07:20:26.255482+00:00",
   "items": [
     {
-      "title": "Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable Comments URL: https://news.ycombinator.com/item?id=46931473 Points: 1 # Comments: 3",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable",
+      "title": "One Person, 34 Services: How AI Tooling Changed the Economics of Running Homelab",
+      "summary": "Article URL: https://blog.coutinho.io/how-ai-tooling-changed-the-economics-of-running-a-production-grade-homelab Comments URL: https://news.ycombinator.com/item?id=46942447 Points: 1 # Comments: 0",
+      "url": "https://blog.coutinho.io/how-ai-tooling-changed-the-economics-of-running-a-production-grade-homelab",
       "image": "",
-      "date": "2026-02-08T05:08:00+00:00"
+      "date": "2026-02-09T07:13:44+00:00"
     },
     {
-      "title": "Sanskrit AI beats CleanRL SOTA by 125%",
-      "summary": "Article URL: https://huggingface.co/ParamTatva/sanskrit-ppo-hopper-v5/blob/main/docs/blog.md Comments URL: https://news.ycombinator.com/item?id=46930849 Points: 1 # Comments: 1",
-      "url": "https://huggingface.co/ParamTatva/sanskrit-ppo-hopper-v5/blob/main/docs/blog.md",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ParamTatva/sanskrit-ppo-hopper-v5.png",
-      "date": "2026-02-08T02:45:45+00:00"
+      "title": "Containers, cloud, blockchain, AI – all the same old BS, says veteran Red Hatter",
+      "summary": "Article URL: https://www.theregister.com/2026/02/08/waves_of_tech_bs/ Comments URL: https://news.ycombinator.com/item?id=46942152 Points: 3 # Comments: 1",
+      "url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
+      "image": "https://regmedia.co.uk/2023/06/13/shutterstock_rubbishmeeting.jpg",
+      "date": "2026-02-09T06:24:35+00:00"
     },
     {
-      "title": "In the AI age, 'slow and steady' doesn't win",
-      "summary": "Article URL: https://www.semafor.com/article/01/30/2026/in-the-ai-age-slow-and-steady-is-on-the-outs Comments URL: https://news.ycombinator.com/item?id=46930507 Points: 2 # Comments: 1",
-      "url": "https://www.semafor.com/article/01/30/2026/in-the-ai-age-slow-and-steady-is-on-the-outs",
-      "image": "https://img.semafor.com/de933c44c0423b13ff69ccb823f30cce3a2d545d-4498x2999.jpg?rect=0,320,4498,2361&w=1200&h=630&q=75&auto=format",
-      "date": "2026-02-08T01:43:34+00:00"
-    },
-    {
-      "title": "AI, networks and Mechanical Turks (2025)",
-      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks Comments URL: https://news.ycombinator.com/item?id=46930500 Points: 1 # Comments: 0",
-      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
-      "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6943f8a9b68e666f43d78ba1/1766062249801/2025+Autumn+AI.074.png?format=1500w",
-      "date": "2026-02-08T01:42:30+00:00"
-    },
-    {
-      "title": "Show HN: Isolating AI-generated code from human code | Vibe as a Code",
-      "summary": "Small Vite plugin: you put decorators on empty functions, run the build, and the function bodies are generated at build time into ./ai. Your source files stay unchanged. The idea is to prototype fast without handing over project architecture to AI. Another use case is saving AI window context when generating generic code (e.g. JSX). For now it doesn’t understand full project context. This is a working prototype of the idea - curious what others think. Comments URL: https://news.ycombinator.com/item?id=46930431 Points: 1 # Comments: 0",
-      "url": "https://www.npmjs.com/package/@gace/vaac",
+      "title": "Show HN: Give Your AI the Ability to Find, Install, and Use Skill Autonomously",
+      "summary": "URL: https://github.com/twwch/next-chat-skills --- Text (paste into the \"text\" field): Hi HN, I built an open-source AI assistant that can autonomously discover, install, and execute Skills to actually complete tasks for you. The Problem: Most AI chatbots today are stuck in \"read-only\" mode. They can tell you how to do something, but they can't do it. Want to convert a PPTX to PDF? The AI will explain how, but you still have to run the commands yourself. The Solution: Next-Chat-Skills is a self-hosted AI assistant with a plugin system called Skills. When you ask the AI to do something it can't handle natively, it: 1. Searches for a relevant Skill (like an app store for AI capabilities)\n2. Installs it automatically (npx skills add ...)\n3. Executes the Skill's scripts (Python, Node.js, Shell)\n4. Streams real-time output back to you in a terminal UI\n5. Recovers from errors by installing missing dependencies and retrying For example: User: \"Summarize this YouTube video for me\"\n  AI:   -> Searches for a video-summarizer Skill\n        -> Installs it (yt-dlp + Whisper)\n        -> Downloads the video, transcribes audio\n        -> Returns a structured summary No manual setup. No copy-pasting commands. The AI handles the entire workflow. What is a Skill? A Skill is just a folder with a SKILL.md descriptor and some scripts: ~/.agents/skills/video-summarizer/\n  ├── SKILL.md              # Metadata + description\n  ├── scripts/\n  │   ├── download.py       # Download video\n  │   ├── transcribe.py     # Whisper transcription\n  │   └── summarize.js      # Generate summary\n  └── rules/                # Usage guidelines for the AI Anyone can create and share Skills. The AI reads the SKILL.md to understand when and how to invoke each script. It's composable — the more Skills you add, the more capable your assistant becomes. Key Features: - Autonomous Skill discovery & installation — AI finds and installs what it needs\n- Real-time script execution — streams terminal output via SSE, supports Python/Node.js/Shell\n- File generation & download — scripts can generate files (PPTX, PDF, images) that users can download directly from chat\n- Multi-file upload & parsing — supports images, PDF, DOCX, XLSX, PPTX\n- Dual database — SQLite (zero-config) or PostgreSQL (production)\n- Optional auth — Google OAuth or fingerprint-based, works without login too\n- Docker-ready — pre-built image with Python, FFmpeg, LibreOffice, and popular Skills pre-installed\n- Works with any OpenAI-compatible API — GPT-4o, Claude (via proxy), local models, etc. Tech Stack: Next.js 16, React 19, TypeScript, Vercel AI SDK, Tailwind CSS 4, shadcn/ui, Drizzle ORM (SQLite / PostgreSQL), Docker (Node.js 20 + Python 3) Quick Start: # Docker (fastest)\n  docker run -p 3000:3000 \\\n    -e OPENAI_API_KEY=sk-xxx \\\n    -e OPENAI_BASE_URL=https://api.openai.com/v1 \\\n    twwch/next-chat-skills:latest\n\n  # Or from source\n  git clone https://github.com/twwch/next-chat-skills\n  cd next-chat-skills\n  npm install && npm run dev Why I Built This: I got tired of AI assistants that stop at \"here's a code snippet.\" I wanted an AI that could actually run the code, handle failures, install dependencies, and deliver the final result — like having a junior developer who can use any Skill you point them at. The Skills system makes this extensible without modifying the core app. Anyone can package a workflow as a Skill and share it. What's Next: - Skill marketplace / registry for community sharing\n- Multi-step workflow chaining (Skill A output -> Skill B input)\n- Better sandboxing for script execution\n- MCP (Model Context Protocol) integration I'd love to hear your feedback. What Skills would you want to see? What's missing? GitHub: https://github.com/twwch/next-chat-skills License: Apache 2.0 Comments URL: https://news.ycombinator.com/item?id=46942091 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46942091",
       "image": "",
-      "date": "2026-02-08T01:33:38+00:00"
+      "date": "2026-02-09T06:13:22+00:00"
     },
     {
-      "title": "AI readability score for your documentation",
-      "summary": "Article URL: https://docsalot.dev/tools/docsagent-score Comments URL: https://news.ycombinator.com/item?id=46930320 Points: 1 # Comments: 0",
-      "url": "https://docsalot.dev/tools/docsagent-score",
+      "title": "Who Approved This Agent? A book on authorizing AI-generated code",
+      "summary": "I moved my IoT compiler to test something from an AI vibe coding standpoint. The result is SETC a compiler and permit system and a free book that documents what I learned along the way. The book starts with the problem, AI agents are writing and executing code with minimal oversight. Databases deleted, drives wiped, dozens of CVEs across every major AI coding tool. Usage is up, trust is down. Then it walks through one approach, Ed25519 signed permits, Secure Enclave integration, M of N team approval, capability gated runtimes, and an ECDH killswitch. It stirs ideas about what the future may look like but doesn't necessarily have to but stirs the idea of what the gates might be then. Would appreciate feedback from anyone working on similar problems & your approach. Book: https://book.se.tc page: https://se.tc Docker: docker pull humanatsetc/setc:book-edition Comments URL: https://news.ycombinator.com/item?id=46942086 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46942086",
       "image": "",
-      "date": "2026-02-08T01:15:29+00:00"
+      "date": "2026-02-09T06:11:57+00:00"
+    },
+    {
+      "title": "Show HN: EdgeAI-OS – Air-gapped Linux distro where AI is a system primitive",
+      "summary": "I built a bootable Linux distribution that treats AI as a system primitive – like CPU or memory. Designed for security-conscious environments where data cannot leave the network. The problem: Most AI requires cloud APIs, which means your data leaves your control. For banks, healthcare, defense, and regulated industries – that's a non-starter. The solution: EdgeAI-OS runs everything locally. No cloud calls. No API keys. No telemetry. Boot the ISO, use AI. Your data never leaves the machine. Security features:\n- 100% offline operation – air-gap friendly, zero network dependencies\n- No external API calls – all inference runs locally on CPU\n- Command risk assessment – every command classified as Safe/Moderate/Dangerous\n- Dangerous pattern blocking – prevents rm -rf /, curl|bash, fork bombs, etc.\n- Open source & auditable – MIT licensed, inspect every line of code\n- No data exfiltration – nothing phones home, ever What's in the ISO:\n- Local LLMs (TinyLlama 1.1B + SmolLM 135M) – runs on CPU, no GPU needed\n- ai-sh: natural language shell where 80% of queries resolve instantly via templates\n- Multi-tier routing: simple queries → fast model, complex → larger model Example ai-sh session:\nwhat time is it?\n[template] date              ← instant, no LLM files larger than 1gb\n[template] find . -size +1G  ← instant, no LLM rm -rf /\n[DANGEROUS]  Blocked        ← security check configure nginx as reverse proxy\n[ai-generated] ...           ← uses local LLM (~1-2s) Target use cases:\n- Air-gapped enterprise environments (banks, healthcare, government)\n- Defense & classified networks\n- Edge devices with no internet connectivity\n- Privacy-conscious developers\n- Compliance-heavy industries (HIPAA, GDPR, SOC2) Built with Rust, based on Debian. 4GB RAM recommended. GitHub: https://github.com/neuralweaves/edgeai-os ISO Download: https://github.com/neuralweaves/edgeai-os/releases (1.2GB) Would love feedback, especially from anyone working in secure/regulated environments. What features would make this enterprise-ready for you? Comments URL: https://news.ycombinator.com/item?id=46942012 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46942012",
+      "image": "",
+      "date": "2026-02-09T05:56:37+00:00"
+    },
+    {
+      "title": "Big Tech groups race to fund unprecedented $660B AI spending spree",
+      "summary": "Article URL: https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2 Comments URL: https://news.ycombinator.com/item?id=46941988 Points: 6 # Comments: 0",
+      "url": "https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2db5fdc9-b685-47fb-abd1-018166ba5f12.jpg?source=next-barrier-page",
+      "date": "2026-02-09T05:53:32+00:00"
+    },
+    {
+      "title": "Microsoft Loses $400B After AI Spending Backfires [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ZcIWx_dW0Jo Comments URL: https://news.ycombinator.com/item?id=46941828 Points: 3 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=ZcIWx_dW0Jo",
+      "image": "",
+      "date": "2026-02-09T05:19:14+00:00"
+    },
+    {
+      "title": "Colocation Evaluation Framework for AI Infrastructure (2026)",
+      "summary": "Article URL: https://syaala.com/blog/colocation-vs-modular-vs-traditional-2026 Comments URL: https://news.ycombinator.com/item?id=46941775 Points: 1 # Comments: 0",
+      "url": "https://syaala.com/blog/colocation-vs-modular-vs-traditional-2026",
+      "image": "https://syaala.com/images/blog/decision-matrix-hero-comparison.webp",
+      "date": "2026-02-09T05:07:18+00:00"
+    },
+    {
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "summary": "Article URL: https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5 Comments URL: https://news.ycombinator.com/item?id=46941640 Points: 85 # Comments: 41",
+      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "image": "https://dims.apnews.com/dims4/default/700b805/2147483647/strip/true/crop/5743x3827+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2Fb3%2F8b888df1978ccd5d64d55bb82e99%2Fa208b88c60f846a1a1ce5888b9c2dc90",
+      "date": "2026-02-09T04:38:14+00:00"
+    },
+    {
+      "title": "Show HN: I Let AI Agents Train Their Own Models. Here's What Happened",
+      "summary": "there's a big narrative in the AI space right now that agents training future generations of models is imminent. i spent a few weeks testing whether the current generation of models can actually do this. full breakdown below: https://hamzamostafa.com/blog/agents-training-their-own-mode... Comments URL: https://news.ycombinator.com/item?id=46941579 Points: 2 # Comments: 0",
+      "url": "https://hamzamostafa.com/blog/agents-training-their-own-models",
+      "image": "https://hamzamostafa.com/blog-images/agents-training-their-own-models/run_11_reward_mean.png",
+      "date": "2026-02-09T04:25:55+00:00"
+    },
+    {
+      "title": "Musician's opinion on AI music creation [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=TiwADS600Jc Comments URL: https://news.ycombinator.com/item?id=46941451 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=TiwADS600Jc",
+      "image": "",
+      "date": "2026-02-09T04:04:14+00:00"
+    },
+    {
+      "title": "Developing AI Taste: Understanding the Positioning Battle in AI",
+      "summary": "Article URL: https://johnsonshi.substack.com/p/developing-ai-taste-part-1-the-positioning-battle-in-ai Comments URL: https://news.ycombinator.com/item?id=46941321 Points: 1 # Comments: 0",
+      "url": "https://johnsonshi.substack.com/p/developing-ai-taste-part-1-the-positioning-battle-in-ai",
+      "image": "",
+      "date": "2026-02-09T03:41:39+00:00"
+    },
+    {
+      "title": "Show HN: AI Prompt Frameworks That Generated $47K in Business Value",
+      "summary": "I spent 6 months testing 200+ AI prompts across marketing, sales, and operations. Most generic prompts fail because they lack structure. These 10 frameworks delivered $47K in measurable ROI: - Email Wizard: 3 hrs/week saved\n- Content Multiplier: 2 weeks of content from 1 hour\n- Objection Crusher: +34% close rate\n- Proposal Generator: Won 7/10 pitches (was 4/10)\n- Meeting Processor: 5 hrs/week saved The key difference: frameworks provide context, constraints, and defined output format. Generic: \"Write me an email\"\nFramework: \"Tone: urgent. Recipient: client. Outcome: reschedule. Context: missed meeting.\" Packaged all 10 with examples into a Notion template. Happy to share specific frameworks if anyone's interested. Comments URL: https://news.ycombinator.com/item?id=46941272 Points: 1 # Comments: 0",
+      "url": "https://tannerwave37.gumroad.com/l/hsrzok",
+      "image": "",
+      "date": "2026-02-09T03:32:50+00:00"
+    },
+    {
+      "title": "Ai.com – Hug of Death",
+      "summary": "Article URL: https://ai.com/start Comments URL: https://news.ycombinator.com/item?id=46941069 Points: 7 # Comments: 6",
+      "url": "https://ai.com/start",
+      "image": "https://ai.com/images/metadata.jpg",
+      "date": "2026-02-09T02:56:58+00:00"
     }
   ]
 }
