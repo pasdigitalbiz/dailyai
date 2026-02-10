@@ -1,103 +1,61 @@
 {
-  "generated_at": "2026-02-09T07:20:26.255482+00:00",
+  "generated_at": "2026-02-10T07:21:09.586424+00:00",
   "items": [
     {
-      "title": "One Person, 34 Services: How AI Tooling Changed the Economics of Running Homelab",
-      "summary": "Article URL: https://blog.coutinho.io/how-ai-tooling-changed-the-economics-of-running-a-production-grade-homelab Comments URL: https://news.ycombinator.com/item?id=46942447 Points: 1 # Comments: 0",
-      "url": "https://blog.coutinho.io/how-ai-tooling-changed-the-economics-of-running-a-production-grade-homelab",
+      "title": "AI Coding Is a Framework–Use It Like a Library",
+      "summary": "Article URL: https://www.piglei.com/articles/en-ai-coding-is-a-framework/ Comments URL: https://news.ycombinator.com/item?id=46956223 Points: 2 # Comments: 0",
+      "url": "https://www.piglei.com/articles/en-ai-coding-is-a-framework/",
       "image": "",
-      "date": "2026-02-09T07:13:44+00:00"
+      "date": "2026-02-10T06:55:22+00:00"
     },
     {
-      "title": "Containers, cloud, blockchain, AI – all the same old BS, says veteran Red Hatter",
-      "summary": "Article URL: https://www.theregister.com/2026/02/08/waves_of_tech_bs/ Comments URL: https://news.ycombinator.com/item?id=46942152 Points: 3 # Comments: 1",
-      "url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
-      "image": "https://regmedia.co.uk/2023/06/13/shutterstock_rubbishmeeting.jpg",
-      "date": "2026-02-09T06:24:35+00:00"
+      "title": "Are we in an AI Bubble? A researched thesis detailing both sides.",
+      "summary": "Article URL: https://www.cjroth.com/blog/2026-02-10-are-we-in-an-ai-bubble Comments URL: https://news.ycombinator.com/item?id=46956059 Points: 2 # Comments: 0",
+      "url": "https://www.cjroth.com/blog/2026-02-10-are-we-in-an-ai-bubble",
+      "image": "https://www.cjroth.com/og/blog/2026-02-10-are-we-in-an-ai-bubble/image.png",
+      "date": "2026-02-10T06:26:47+00:00"
     },
     {
-      "title": "Show HN: Give Your AI the Ability to Find, Install, and Use Skill Autonomously",
-      "summary": "URL: https://github.com/twwch/next-chat-skills --- Text (paste into the \"text\" field): Hi HN, I built an open-source AI assistant that can autonomously discover, install, and execute Skills to actually complete tasks for you. The Problem: Most AI chatbots today are stuck in \"read-only\" mode. They can tell you how to do something, but they can't do it. Want to convert a PPTX to PDF? The AI will explain how, but you still have to run the commands yourself. The Solution: Next-Chat-Skills is a self-hosted AI assistant with a plugin system called Skills. When you ask the AI to do something it can't handle natively, it: 1. Searches for a relevant Skill (like an app store for AI capabilities)\n2. Installs it automatically (npx skills add ...)\n3. Executes the Skill's scripts (Python, Node.js, Shell)\n4. Streams real-time output back to you in a terminal UI\n5. Recovers from errors by installing missing dependencies and retrying For example: User: \"Summarize this YouTube video for me\"\n  AI:   -> Searches for a video-summarizer Skill\n        -> Installs it (yt-dlp + Whisper)\n        -> Downloads the video, transcribes audio\n        -> Returns a structured summary No manual setup. No copy-pasting commands. The AI handles the entire workflow. What is a Skill? A Skill is just a folder with a SKILL.md descriptor and some scripts: ~/.agents/skills/video-summarizer/\n  ├── SKILL.md              # Metadata + description\n  ├── scripts/\n  │   ├── download.py       # Download video\n  │   ├── transcribe.py     # Whisper transcription\n  │   └── summarize.js      # Generate summary\n  └── rules/                # Usage guidelines for the AI Anyone can create and share Skills. The AI reads the SKILL.md to understand when and how to invoke each script. It's composable — the more Skills you add, the more capable your assistant becomes. Key Features: - Autonomous Skill discovery & installation — AI finds and installs what it needs\n- Real-time script execution — streams terminal output via SSE, supports Python/Node.js/Shell\n- File generation & download — scripts can generate files (PPTX, PDF, images) that users can download directly from chat\n- Multi-file upload & parsing — supports images, PDF, DOCX, XLSX, PPTX\n- Dual database — SQLite (zero-config) or PostgreSQL (production)\n- Optional auth — Google OAuth or fingerprint-based, works without login too\n- Docker-ready — pre-built image with Python, FFmpeg, LibreOffice, and popular Skills pre-installed\n- Works with any OpenAI-compatible API — GPT-4o, Claude (via proxy), local models, etc. Tech Stack: Next.js 16, React 19, TypeScript, Vercel AI SDK, Tailwind CSS 4, shadcn/ui, Drizzle ORM (SQLite / PostgreSQL), Docker (Node.js 20 + Python 3) Quick Start: # Docker (fastest)\n  docker run -p 3000:3000 \\\n    -e OPENAI_API_KEY=sk-xxx \\\n    -e OPENAI_BASE_URL=https://api.openai.com/v1 \\\n    twwch/next-chat-skills:latest\n\n  # Or from source\n  git clone https://github.com/twwch/next-chat-skills\n  cd next-chat-skills\n  npm install && npm run dev Why I Built This: I got tired of AI assistants that stop at \"here's a code snippet.\" I wanted an AI that could actually run the code, handle failures, install dependencies, and deliver the final result — like having a junior developer who can use any Skill you point them at. The Skills system makes this extensible without modifying the core app. Anyone can package a workflow as a Skill and share it. What's Next: - Skill marketplace / registry for community sharing\n- Multi-step workflow chaining (Skill A output -> Skill B input)\n- Better sandboxing for script execution\n- MCP (Model Context Protocol) integration I'd love to hear your feedback. What Skills would you want to see? What's missing? GitHub: https://github.com/twwch/next-chat-skills License: Apache 2.0 Comments URL: https://news.ycombinator.com/item?id=46942091 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46942091",
+      "title": "Ask HN: How much did you spend on AI last month?",
+      "summary": "Show us your receipts!\nI think it would be enlightening to know what it costs to use these toys - er - tools. Whatever you are building. If you are using AI, tell us what it cost you. I have spent $0 on AI. Comments URL: https://news.ycombinator.com/item?id=46956019 Points: 1 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=46956019",
       "image": "",
-      "date": "2026-02-09T06:13:22+00:00"
+      "date": "2026-02-10T06:19:09+00:00"
     },
     {
-      "title": "Who Approved This Agent? A book on authorizing AI-generated code",
-      "summary": "I moved my IoT compiler to test something from an AI vibe coding standpoint. The result is SETC a compiler and permit system and a free book that documents what I learned along the way. The book starts with the problem, AI agents are writing and executing code with minimal oversight. Databases deleted, drives wiped, dozens of CVEs across every major AI coding tool. Usage is up, trust is down. Then it walks through one approach, Ed25519 signed permits, Secure Enclave integration, M of N team approval, capability gated runtimes, and an ECDH killswitch. It stirs ideas about what the future may look like but doesn't necessarily have to but stirs the idea of what the gates might be then. Would appreciate feedback from anyone working on similar problems & your approach. Book: https://book.se.tc page: https://se.tc Docker: docker pull humanatsetc/setc:book-edition Comments URL: https://news.ycombinator.com/item?id=46942086 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46942086",
+      "title": "Why Every Business Must Engage with AI – and How to Do It Right",
+      "summary": "Title: Why every business should engage with AI (the real question is how deep) AI is no longer an experimental technology. It’s becoming a baseline capability for modern businesses. The real question most teams should be asking is not “should we use AI?” but “how deeply should we engage with it?” I’ve talked to many founders, CTOs, and operators over the past couple of years. The hesitation around AI usually comes from two places: Teams that haven’t really tried AI and feel comfortable sticking with existing workflows. Teams that rushed into AI, spent money, got disappointing results, and walked away. Both often conclude: “AI isn’t for us.” That conclusion is understandable — but increasingly risky. Many organizations still rely on manual or semi-manual processes: document handling, internal knowledge search, reporting, customer support triage. Everything appears to “work,” but it’s slow, hard to scale, and dependent on headcount rather than leverage. AI isn’t magic, but it is a force multiplier. Ignoring it means accepting structural inefficiency while competitors gradually improve speed, quality, and decision-making. One misconception I see a lot: that engaging with AI means building custom models or hiring a large ML team. In practice, AI today is closer to what spreadsheets or search once were — general-purpose tools that most teams can benefit from without deep specialization. Instead of treating AI adoption as a yes/no decision, it’s more useful to think in levels. Level 1: AI literacy\nEvery company should be here. This is about enabling people, not systems: using tools like ChatGPT for research, drafting, summarization, and analysis; teaching teams how to verify outputs; and setting clear rules around sensitive data. Low risk, high return. Level 2: AI-assisted workflows\nHere AI becomes part of everyday processes without replacing humans. Examples include internal AI assistants over documentation, AI-supported customer support, content generation, or analytics help. This is where many teams see the best ROI with relatively low complexity. Level 3: AI-driven systems\nAt this level, AI is embedded into products or core operations: RAG systems, agent workflows, forecasting, personalization. This requires clean data, evaluation, and operational discipline. Many failures happen here not because AI doesn’t work, but because teams skip the earlier foundations. The biggest risk isn’t “doing AI wrong.” It’s not building AI fluency at all while the rest of the market moves forward. Once AI systems are in production, new problems appear: cost control, reliability, hallucinations, latency, silent regressions. At that point, AI stops being a demo and becomes infrastructure. For teams already dealing with production AI systems, we’ve been thinking a lot about observability and reliability in this space. Some of that work is shared here:\nhttps://optyxstack.com/ai Curious how others on HN think about the “depth” question when it comes to AI adoption. Comments URL: https://news.ycombinator.com/item?id=46955823 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46955823",
       "image": "",
-      "date": "2026-02-09T06:11:57+00:00"
+      "date": "2026-02-10T05:43:25+00:00"
     },
     {
-      "title": "Show HN: EdgeAI-OS – Air-gapped Linux distro where AI is a system primitive",
-      "summary": "I built a bootable Linux distribution that treats AI as a system primitive – like CPU or memory. Designed for security-conscious environments where data cannot leave the network. The problem: Most AI requires cloud APIs, which means your data leaves your control. For banks, healthcare, defense, and regulated industries – that's a non-starter. The solution: EdgeAI-OS runs everything locally. No cloud calls. No API keys. No telemetry. Boot the ISO, use AI. Your data never leaves the machine. Security features:\n- 100% offline operation – air-gap friendly, zero network dependencies\n- No external API calls – all inference runs locally on CPU\n- Command risk assessment – every command classified as Safe/Moderate/Dangerous\n- Dangerous pattern blocking – prevents rm -rf /, curl|bash, fork bombs, etc.\n- Open source & auditable – MIT licensed, inspect every line of code\n- No data exfiltration – nothing phones home, ever What's in the ISO:\n- Local LLMs (TinyLlama 1.1B + SmolLM 135M) – runs on CPU, no GPU needed\n- ai-sh: natural language shell where 80% of queries resolve instantly via templates\n- Multi-tier routing: simple queries → fast model, complex → larger model Example ai-sh session:\nwhat time is it?\n[template] date              ← instant, no LLM files larger than 1gb\n[template] find . -size +1G  ← instant, no LLM rm -rf /\n[DANGEROUS]  Blocked        ← security check configure nginx as reverse proxy\n[ai-generated] ...           ← uses local LLM (~1-2s) Target use cases:\n- Air-gapped enterprise environments (banks, healthcare, government)\n- Defense & classified networks\n- Edge devices with no internet connectivity\n- Privacy-conscious developers\n- Compliance-heavy industries (HIPAA, GDPR, SOC2) Built with Rust, based on Debian. 4GB RAM recommended. GitHub: https://github.com/neuralweaves/edgeai-os ISO Download: https://github.com/neuralweaves/edgeai-os/releases (1.2GB) Would love feedback, especially from anyone working in secure/regulated environments. What features would make this enterprise-ready for you? Comments URL: https://news.ycombinator.com/item?id=46942012 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46942012",
+      "title": "GenAI Go SDK for AI",
+      "summary": "Article URL: https://50984e11.maruel-ca.pages.dev/post/genai-v0.1.0/ Comments URL: https://news.ycombinator.com/item?id=46955737 Points: 1 # Comments: 0",
+      "url": "https://50984e11.maruel-ca.pages.dev/post/genai-v0.1.0/",
+      "image": "https://50984e11.maruel-ca.pages.dev/post/genai-v0.1.0/img/lie.webp",
+      "date": "2026-02-10T05:25:11+00:00"
+    },
+    {
+      "title": "We chose a pipeline over speech-to-speech for evaluative voice AI",
+      "summary": "Article URL: https://productfit.substack.com/p/why-speech-to-speech-apis-fail-when Comments URL: https://news.ycombinator.com/item?id=46955710 Points: 2 # Comments: 0",
+      "url": "https://productfit.substack.com/p/why-speech-to-speech-apis-fail-when",
       "image": "",
-      "date": "2026-02-09T05:56:37+00:00"
+      "date": "2026-02-10T05:20:24+00:00"
     },
     {
-      "title": "Big Tech groups race to fund unprecedented $660B AI spending spree",
-      "summary": "Article URL: https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2 Comments URL: https://news.ycombinator.com/item?id=46941988 Points: 6 # Comments: 0",
-      "url": "https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2db5fdc9-b685-47fb-abd1-018166ba5f12.jpg?source=next-barrier-page",
-      "date": "2026-02-09T05:53:32+00:00"
-    },
-    {
-      "title": "Microsoft Loses $400B After AI Spending Backfires [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ZcIWx_dW0Jo Comments URL: https://news.ycombinator.com/item?id=46941828 Points: 3 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=ZcIWx_dW0Jo",
+      "title": "AI Doesn't Reduce Work–It Intensifies It",
+      "summary": "Article URL: https://simonwillison.net/2026/Feb/9/ai-intensifies-work/ Comments URL: https://news.ycombinator.com/item?id=46955703 Points: 4 # Comments: 0",
+      "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
       "image": "",
-      "date": "2026-02-09T05:19:14+00:00"
+      "date": "2026-02-10T05:19:00+00:00"
     },
     {
-      "title": "Colocation Evaluation Framework for AI Infrastructure (2026)",
-      "summary": "Article URL: https://syaala.com/blog/colocation-vs-modular-vs-traditional-2026 Comments URL: https://news.ycombinator.com/item?id=46941775 Points: 1 # Comments: 0",
-      "url": "https://syaala.com/blog/colocation-vs-modular-vs-traditional-2026",
-      "image": "https://syaala.com/images/blog/decision-matrix-hero-comparison.webp",
-      "date": "2026-02-09T05:07:18+00:00"
-    },
-    {
-      "title": "TSMC to make advanced AI semiconductors in Japan",
-      "summary": "Article URL: https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5 Comments URL: https://news.ycombinator.com/item?id=46941640 Points: 85 # Comments: 41",
-      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
-      "image": "https://dims.apnews.com/dims4/default/700b805/2147483647/strip/true/crop/5743x3827+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2Fb3%2F8b888df1978ccd5d64d55bb82e99%2Fa208b88c60f846a1a1ce5888b9c2dc90",
-      "date": "2026-02-09T04:38:14+00:00"
-    },
-    {
-      "title": "Show HN: I Let AI Agents Train Their Own Models. Here's What Happened",
-      "summary": "there's a big narrative in the AI space right now that agents training future generations of models is imminent. i spent a few weeks testing whether the current generation of models can actually do this. full breakdown below: https://hamzamostafa.com/blog/agents-training-their-own-mode... Comments URL: https://news.ycombinator.com/item?id=46941579 Points: 2 # Comments: 0",
-      "url": "https://hamzamostafa.com/blog/agents-training-their-own-models",
-      "image": "https://hamzamostafa.com/blog-images/agents-training-their-own-models/run_11_reward_mean.png",
-      "date": "2026-02-09T04:25:55+00:00"
-    },
-    {
-      "title": "Musician's opinion on AI music creation [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=TiwADS600Jc Comments URL: https://news.ycombinator.com/item?id=46941451 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=TiwADS600Jc",
+      "title": "AI Agents That Execute Business Workflows (Claude Code for ERP)",
+      "summary": "TL;DR: Built an ERP where AI agents execute workflows like procurement and invoice processing. Uses Cases (workspaces) and Tasks (sessions) like Claude Code. Agent completes one task, automatically triggers the next. Mac app live, looking for early users. Mac App: https://apps.apple.com/be/app/swiftly-ai-native-erp/id6755155607?mt=12 TestFlight: https://testflight.apple.com/join/aYc16FmA THE PROBLEM After 8 years implementing ERPs across Europe, I kept seeing the same issue: ERP systems store data but can't execute processes. Employees still manually click through forms for invoicing, procurement, onboarding. WHAT WE BUILT AI agents that execute multi-step business workflows autonomously. Example: Vendor Procurement Case: \"Source Steel Pipes - Q1 2026\"\n  \n  Task 1: Research Suppliers → finds 3 vendors\n  Task 2: Compare Pricing → creates comparison\n  Task 3: Negotiate → drafts proposal, waits for approval\n  Task 4: Create PO → auto-triggered after approval Each task has specific instructions. Status changes trigger next tasks. You approve key decisions. Everything is auditable. HOW IT'S DIFFERENT Workflow engines (Zapier): Rigid rules that break\nRPA tools: Brittle scripts\nAI chatbots: Just answer questions Swiftly: End-to-end execution with approval gates WHAT'S INCLUDED Full ERP/CRM underneath: AP/AR, Projects, Time Tracking, Contracts, Inventory, Customer Management. The AI workflow layer sits on top. Tech: SwiftUI apps, Swift/Vapor backend, PostgreSQL, Anthropic Claude. We are looking to expand to all 8 major AI providers:\nAnthropic, OpenAI, Google Gemini, Perplexity, xAI Grok, Cohere, Mistral, DeepSeek WHAT WE NEED We have our first paying customer. Looking for: - Early users willing to define 2-3 workflows with us\n- Feedback on the Case/Task system\n- SMEs (1-10 employees) in service businesses 7-day free trial. €10/seat/month after. Links: Production: https://apps.apple.com/be/app/swiftly-ai-native-erp/id6755155607?mt=12 Beta: https://testflight.apple.com/join/aYc16FmA Question: What business workflow would you want an AI agent to execute end-to-end? Comments URL: https://news.ycombinator.com/item?id=46955034 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46955034",
       "image": "",
-      "date": "2026-02-09T04:04:14+00:00"
-    },
-    {
-      "title": "Developing AI Taste: Understanding the Positioning Battle in AI",
-      "summary": "Article URL: https://johnsonshi.substack.com/p/developing-ai-taste-part-1-the-positioning-battle-in-ai Comments URL: https://news.ycombinator.com/item?id=46941321 Points: 1 # Comments: 0",
-      "url": "https://johnsonshi.substack.com/p/developing-ai-taste-part-1-the-positioning-battle-in-ai",
-      "image": "",
-      "date": "2026-02-09T03:41:39+00:00"
-    },
-    {
-      "title": "Show HN: AI Prompt Frameworks That Generated $47K in Business Value",
-      "summary": "I spent 6 months testing 200+ AI prompts across marketing, sales, and operations. Most generic prompts fail because they lack structure. These 10 frameworks delivered $47K in measurable ROI: - Email Wizard: 3 hrs/week saved\n- Content Multiplier: 2 weeks of content from 1 hour\n- Objection Crusher: +34% close rate\n- Proposal Generator: Won 7/10 pitches (was 4/10)\n- Meeting Processor: 5 hrs/week saved The key difference: frameworks provide context, constraints, and defined output format. Generic: \"Write me an email\"\nFramework: \"Tone: urgent. Recipient: client. Outcome: reschedule. Context: missed meeting.\" Packaged all 10 with examples into a Notion template. Happy to share specific frameworks if anyone's interested. Comments URL: https://news.ycombinator.com/item?id=46941272 Points: 1 # Comments: 0",
-      "url": "https://tannerwave37.gumroad.com/l/hsrzok",
-      "image": "",
-      "date": "2026-02-09T03:32:50+00:00"
-    },
-    {
-      "title": "Ai.com – Hug of Death",
-      "summary": "Article URL: https://ai.com/start Comments URL: https://news.ycombinator.com/item?id=46941069 Points: 7 # Comments: 6",
-      "url": "https://ai.com/start",
-      "image": "https://ai.com/images/metadata.jpg",
-      "date": "2026-02-09T02:56:58+00:00"
+      "date": "2026-02-10T03:35:39+00:00"
     }
   ]
 }
