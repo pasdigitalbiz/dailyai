@@ -1,61 +1,103 @@
 {
-  "generated_at": "2026-02-10T07:21:09.586424+00:00",
+  "generated_at": "2026-02-11T07:17:55.926206+00:00",
   "items": [
     {
-      "title": "AI Coding Is a Framework–Use It Like a Library",
-      "summary": "Article URL: https://www.piglei.com/articles/en-ai-coding-is-a-framework/ Comments URL: https://news.ycombinator.com/item?id=46956223 Points: 2 # Comments: 0",
-      "url": "https://www.piglei.com/articles/en-ai-coding-is-a-framework/",
+      "title": "When will we see Factorio with AI agents?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46971792 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46971792",
       "image": "",
-      "date": "2026-02-10T06:55:22+00:00"
+      "date": "2026-02-11T07:00:16+00:00"
     },
     {
-      "title": "Are we in an AI Bubble? A researched thesis detailing both sides.",
-      "summary": "Article URL: https://www.cjroth.com/blog/2026-02-10-are-we-in-an-ai-bubble Comments URL: https://news.ycombinator.com/item?id=46956059 Points: 2 # Comments: 0",
-      "url": "https://www.cjroth.com/blog/2026-02-10-are-we-in-an-ai-bubble",
-      "image": "https://www.cjroth.com/og/blog/2026-02-10-are-we-in-an-ai-bubble/image.png",
-      "date": "2026-02-10T06:26:47+00:00"
-    },
-    {
-      "title": "Ask HN: How much did you spend on AI last month?",
-      "summary": "Show us your receipts!\nI think it would be enlightening to know what it costs to use these toys - er - tools. Whatever you are building. If you are using AI, tell us what it cost you. I have spent $0 on AI. Comments URL: https://news.ycombinator.com/item?id=46956019 Points: 1 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=46956019",
+      "title": "Ask HN: What is your AI assisted dev workflow",
+      "summary": "Curious on: 1. What information gets attached with pull requests / merge requests such that humans get to manage the volumes of code that AI generates? 2. What is the dev workflow in your company/personal projects? 3. What IDE+model combo is working for you? 4. What is your hack/tricks for managing large complex codebases when working with AI or are you finding utility only in small focussed repos? Comments URL: https://news.ycombinator.com/item?id=46971761 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46971761",
       "image": "",
-      "date": "2026-02-10T06:19:09+00:00"
+      "date": "2026-02-11T06:57:07+00:00"
     },
     {
-      "title": "Why Every Business Must Engage with AI – and How to Do It Right",
-      "summary": "Title: Why every business should engage with AI (the real question is how deep) AI is no longer an experimental technology. It’s becoming a baseline capability for modern businesses. The real question most teams should be asking is not “should we use AI?” but “how deeply should we engage with it?” I’ve talked to many founders, CTOs, and operators over the past couple of years. The hesitation around AI usually comes from two places: Teams that haven’t really tried AI and feel comfortable sticking with existing workflows. Teams that rushed into AI, spent money, got disappointing results, and walked away. Both often conclude: “AI isn’t for us.” That conclusion is understandable — but increasingly risky. Many organizations still rely on manual or semi-manual processes: document handling, internal knowledge search, reporting, customer support triage. Everything appears to “work,” but it’s slow, hard to scale, and dependent on headcount rather than leverage. AI isn’t magic, but it is a force multiplier. Ignoring it means accepting structural inefficiency while competitors gradually improve speed, quality, and decision-making. One misconception I see a lot: that engaging with AI means building custom models or hiring a large ML team. In practice, AI today is closer to what spreadsheets or search once were — general-purpose tools that most teams can benefit from without deep specialization. Instead of treating AI adoption as a yes/no decision, it’s more useful to think in levels. Level 1: AI literacy\nEvery company should be here. This is about enabling people, not systems: using tools like ChatGPT for research, drafting, summarization, and analysis; teaching teams how to verify outputs; and setting clear rules around sensitive data. Low risk, high return. Level 2: AI-assisted workflows\nHere AI becomes part of everyday processes without replacing humans. Examples include internal AI assistants over documentation, AI-supported customer support, content generation, or analytics help. This is where many teams see the best ROI with relatively low complexity. Level 3: AI-driven systems\nAt this level, AI is embedded into products or core operations: RAG systems, agent workflows, forecasting, personalization. This requires clean data, evaluation, and operational discipline. Many failures happen here not because AI doesn’t work, but because teams skip the earlier foundations. The biggest risk isn’t “doing AI wrong.” It’s not building AI fluency at all while the rest of the market moves forward. Once AI systems are in production, new problems appear: cost control, reliability, hallucinations, latency, silent regressions. At that point, AI stops being a demo and becomes infrastructure. For teams already dealing with production AI systems, we’ve been thinking a lot about observability and reliability in this space. Some of that work is shared here:\nhttps://optyxstack.com/ai Curious how others on HN think about the “depth” question when it comes to AI adoption. Comments URL: https://news.ycombinator.com/item?id=46955823 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46955823",
+      "title": "Show HN: GHOSTYPE – AI voice input that learns your writing style",
+      "summary": "Hello HN, I’m the creator of GHOSTYPE. I built this because I wanted a voice input workflow that didn't feel like talking to a chatbot. I wanted something that felt like a \"neural extension\" of my keyboard. It’s a macOS-native app that sits between your voice and your active window. Here is what it actually does: The Core Input Workflow: Push-to-Talk & Smart Send: Hold a global shortcut to speak. It detects the active app to determine the correct send method (e.g., Cmd+Enter for Slack vs Enter for Discord). Inline Editing: You can format while speaking. Need a line break, a specific spelling, or a bulleted list? You just say it, and it handles the formatting inside the sentence before outputting. \"Call Ghost\": Post-processing commands (translate, polish, expand) are available immediately after speaking, before the text is typed out. The Experimental Stuff (WIP): 1. Ghost Twin (Style Transfer): I call this a \"Virtual Personality Engine\" (a bit pretentious, I know). It analyzes your local writing history to build a style vector. It learns your tone—whether professional for emails or casual for Discord—so the output sounds like you, not a generic LLM. Side note: I'm currently building the training UI to look like a retro CRT terminal because I miss that aesthetic. 2. Ghost Morph (Custom Skills): Trigger custom macros with a modifier key. For example, turn a raw voice thought directly into a formatted Twitter thread or a Jira ticket structure. Privacy & Architecture: Local-First: I’m an indie dev and literally cannot afford the server costs to store user typing data. E2E Encrypted: Your \"Ghost Twin\" profile and skills are synced across devices via E2E encryption. Data stays on your machine. Constraints: macOS Only: I don't own a Windows PC, so I can't build for it yet. (If any Windows devs want to port this, let me know). It's currently in pre-launch. I threw up a landing page at if you want to follow the progress. https://ghostype.one Happy to answer questions about the local-first architecture or the style transfer logic! Comments URL: https://news.ycombinator.com/item?id=46971643 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46971643",
       "image": "",
-      "date": "2026-02-10T05:43:25+00:00"
+      "date": "2026-02-11T06:35:56+00:00"
     },
     {
-      "title": "GenAI Go SDK for AI",
-      "summary": "Article URL: https://50984e11.maruel-ca.pages.dev/post/genai-v0.1.0/ Comments URL: https://news.ycombinator.com/item?id=46955737 Points: 1 # Comments: 0",
-      "url": "https://50984e11.maruel-ca.pages.dev/post/genai-v0.1.0/",
-      "image": "https://50984e11.maruel-ca.pages.dev/post/genai-v0.1.0/img/lie.webp",
-      "date": "2026-02-10T05:25:11+00:00"
-    },
-    {
-      "title": "We chose a pipeline over speech-to-speech for evaluative voice AI",
-      "summary": "Article URL: https://productfit.substack.com/p/why-speech-to-speech-apis-fail-when Comments URL: https://news.ycombinator.com/item?id=46955710 Points: 2 # Comments: 0",
-      "url": "https://productfit.substack.com/p/why-speech-to-speech-apis-fail-when",
+      "title": "Artificial Intelligence (1984)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=_S3m0V_ZF_Q Comments URL: https://news.ycombinator.com/item?id=46971537 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=_S3m0V_ZF_Q",
       "image": "",
-      "date": "2026-02-10T05:20:24+00:00"
+      "date": "2026-02-11T06:18:12+00:00"
     },
     {
-      "title": "AI Doesn't Reduce Work–It Intensifies It",
-      "summary": "Article URL: https://simonwillison.net/2026/Feb/9/ai-intensifies-work/ Comments URL: https://news.ycombinator.com/item?id=46955703 Points: 4 # Comments: 0",
-      "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
-      "image": "",
-      "date": "2026-02-10T05:19:00+00:00"
+      "title": "Exponential Code, Network Effects in AI, & the Return of Apprenticeships",
+      "summary": "Article URL: https://www.implications.com/p/exponential-code-network-effects Comments URL: https://news.ycombinator.com/item?id=46971019 Points: 1 # Comments: 0",
+      "url": "https://www.implications.com/p/exponential-code-network-effects",
+      "image": "https://substackcdn.com/image/fetch/$s_!47zr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2f3ad9c-904f-460c-86b5-837b31d3cd24_1376x768.jpeg",
+      "date": "2026-02-11T04:56:11+00:00"
     },
     {
-      "title": "AI Agents That Execute Business Workflows (Claude Code for ERP)",
-      "summary": "TL;DR: Built an ERP where AI agents execute workflows like procurement and invoice processing. Uses Cases (workspaces) and Tasks (sessions) like Claude Code. Agent completes one task, automatically triggers the next. Mac app live, looking for early users. Mac App: https://apps.apple.com/be/app/swiftly-ai-native-erp/id6755155607?mt=12 TestFlight: https://testflight.apple.com/join/aYc16FmA THE PROBLEM After 8 years implementing ERPs across Europe, I kept seeing the same issue: ERP systems store data but can't execute processes. Employees still manually click through forms for invoicing, procurement, onboarding. WHAT WE BUILT AI agents that execute multi-step business workflows autonomously. Example: Vendor Procurement Case: \"Source Steel Pipes - Q1 2026\"\n  \n  Task 1: Research Suppliers → finds 3 vendors\n  Task 2: Compare Pricing → creates comparison\n  Task 3: Negotiate → drafts proposal, waits for approval\n  Task 4: Create PO → auto-triggered after approval Each task has specific instructions. Status changes trigger next tasks. You approve key decisions. Everything is auditable. HOW IT'S DIFFERENT Workflow engines (Zapier): Rigid rules that break\nRPA tools: Brittle scripts\nAI chatbots: Just answer questions Swiftly: End-to-end execution with approval gates WHAT'S INCLUDED Full ERP/CRM underneath: AP/AR, Projects, Time Tracking, Contracts, Inventory, Customer Management. The AI workflow layer sits on top. Tech: SwiftUI apps, Swift/Vapor backend, PostgreSQL, Anthropic Claude. We are looking to expand to all 8 major AI providers:\nAnthropic, OpenAI, Google Gemini, Perplexity, xAI Grok, Cohere, Mistral, DeepSeek WHAT WE NEED We have our first paying customer. Looking for: - Early users willing to define 2-3 workflows with us\n- Feedback on the Case/Task system\n- SMEs (1-10 employees) in service businesses 7-day free trial. €10/seat/month after. Links: Production: https://apps.apple.com/be/app/swiftly-ai-native-erp/id6755155607?mt=12 Beta: https://testflight.apple.com/join/aYc16FmA Question: What business workflow would you want an AI agent to execute end-to-end? Comments URL: https://news.ycombinator.com/item?id=46955034 Points: 3 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46955034",
+      "title": "Vibrant Frog Collab – AI-Powered Writing Assistant",
+      "summary": "Article URL: https://frogteam.ai/VibrantFrog/default.html Comments URL: https://news.ycombinator.com/item?id=46970946 Points: 1 # Comments: 0",
+      "url": "https://frogteam.ai/VibrantFrog/default.html",
       "image": "",
-      "date": "2026-02-10T03:35:39+00:00"
+      "date": "2026-02-11T04:44:41+00:00"
+    },
+    {
+      "title": "Show HN: Track and analyze AI coding tool usage across your team",
+      "summary": "100% open-source and free to use. Comments URL: https://news.ycombinator.com/item?id=46970926 Points: 1 # Comments: 0",
+      "url": "https://trackr-bay.vercel.app/welcome",
+      "image": "",
+      "date": "2026-02-11T04:41:40+00:00"
+    },
+    {
+      "title": "AI-Driven Low-Fi Prototyping with Balsamiq Cloud",
+      "summary": "Article URL: https://balsamiq.com/blog/low-fidelity-prototyping/ Comments URL: https://news.ycombinator.com/item?id=46970801 Points: 1 # Comments: 0",
+      "url": "https://balsamiq.com/blog/low-fidelity-prototyping/",
+      "image": "https://thumbs.balsamiq.com/t_blog_low-fidelity-prototyping.png",
+      "date": "2026-02-11T04:24:19+00:00"
+    },
+    {
+      "title": "It's Time to Rage Against the AI Music Machine",
+      "summary": "Article URL: https://time.com/7338205/rage-against-ai-generated-music/ Comments URL: https://news.ycombinator.com/item?id=46970694 Points: 2 # Comments: 3",
+      "url": "https://time.com/7338205/rage-against-ai-generated-music/",
+      "image": "https://api.time.com/wp-content/uploads/2025/12/AI-generated-music.jpg?quality=85&w=1200&h=628&crop=1",
+      "date": "2026-02-11T04:05:25+00:00"
+    },
+    {
+      "title": "AI is now a magic decompiler",
+      "summary": "Article URL: https://stephenjayakar.com/posts/magic-decomp/ Comments URL: https://news.ycombinator.com/item?id=46970686 Points: 2 # Comments: 0",
+      "url": "https://stephenjayakar.com/posts/magic-decomp/",
+      "image": "",
+      "date": "2026-02-11T04:03:58+00:00"
+    },
+    {
+      "title": "AI Can Work on VMs",
+      "summary": "Article URL: https://www.fluid.sh/blog/how-fluid-reads-source-vms-safely Comments URL: https://news.ycombinator.com/item?id=46970645 Points: 1 # Comments: 0",
+      "url": "https://www.fluid.sh/blog/how-fluid-reads-source-vms-safely",
+      "image": "",
+      "date": "2026-02-11T03:59:08+00:00"
+    },
+    {
+      "title": "Why Smart Lawyers Are Building AI Tools Instead of Buying Them",
+      "summary": "Article URL: https://natlawreview.com/article/why-smart-lawyers-are-building-ai-tools-instead-buying-them Comments URL: https://news.ycombinator.com/item?id=46970568 Points: 2 # Comments: 0",
+      "url": "https://natlawreview.com/article/why-smart-lawyers-are-building-ai-tools-instead-buying-them",
+      "image": "",
+      "date": "2026-02-11T03:50:44+00:00"
+    },
+    {
+      "title": "Confer: Making end-to-end encrypted AI chat feel like logging in",
+      "summary": "Article URL: https://confer.to/blog/2025/12/passkey-encryption/ Comments URL: https://news.ycombinator.com/item?id=46970465 Points: 1 # Comments: 0",
+      "url": "https://confer.to/blog/2025/12/passkey-encryption/",
+      "image": "https://confer.to/blog/assets/images/og-image.png",
+      "date": "2026-02-11T03:35:14+00:00"
+    },
+    {
+      "title": "Tell HN: AI is not a slippery slope, it's a waterslide",
+      "summary": "I found myself increasingly outsourcing the details to the AI. I forgot the details, deliberately I think. I wanted the AI to know them. Why? Because that's where the compute is. So that's where the knowledge has to live. Me re-telling it to the AI every time it misses something it didn't know, is inefficient. It takes me X time to type it, and maybe log(X) to voice type it. But then there's the inevitable back and forth, the slight misunderstandings, the corrections, etc. I realized and found myself naturally sliding down towards, just letting the AI own all the data and knowledge. Becuase it should. That's the one that has to compute with it, so why should I know about it. People think AI is a slippery slope by outsourcing our thinking. I don't think it's a slippery slope - it's a waterslide. It's just inevitable. It's gravity, taking over rapidly. Because there's no force nor incentive pushing the water back up hill. AI should own all the data. As weird as that feels, that's how it should be. I don't know another way right now. Thoughts? Comments URL: https://news.ycombinator.com/item?id=46970134 Points: 4 # Comments: 7",
+      "url": "https://news.ycombinator.com/item?id=46970134",
+      "image": "",
+      "date": "2026-02-11T02:49:59+00:00"
     }
   ]
 }
