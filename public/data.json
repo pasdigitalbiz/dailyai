@@ -1,103 +1,68 @@
 {
-  "generated_at": "2026-02-11T07:17:55.926206+00:00",
+  "generated_at": "2026-02-12T07:16:24.886922+00:00",
   "items": [
     {
-      "title": "When will we see Factorio with AI agents?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=46971792 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46971792",
+      "title": "The Role of Gas in Powering AI-Driven Energy Demand",
+      "summary": "Article URL: https://www.igu.org/igu-reports/the-role-of-gas-in-powering-ai-driven-energy-demand Comments URL: https://news.ycombinator.com/item?id=46985667 Points: 1 # Comments: 0",
+      "url": "https://www.igu.org/igu-reports/the-role-of-gas-in-powering-ai-driven-energy-demand",
+      "image": "https://www.datocms-assets.com/146580/1768468979-report-cover-2026.png",
+      "date": "2026-02-12T07:02:56+00:00"
+    },
+    {
+      "title": "Digitizing the \"Shokunin\": How we encoded a Master's hammer strike into AI",
+      "summary": "Article URL: https://yusukekaizen.substack.com/p/the-mathematics-of-intuition-how Comments URL: https://news.ycombinator.com/item?id=46985578 Points: 2 # Comments: 2",
+      "url": "https://yusukekaizen.substack.com/p/the-mathematics-of-intuition-how",
       "image": "",
-      "date": "2026-02-11T07:00:16+00:00"
+      "date": "2026-02-12T06:49:44+00:00"
     },
     {
-      "title": "Ask HN: What is your AI assisted dev workflow",
-      "summary": "Curious on: 1. What information gets attached with pull requests / merge requests such that humans get to manage the volumes of code that AI generates? 2. What is the dev workflow in your company/personal projects? 3. What IDE+model combo is working for you? 4. What is your hack/tricks for managing large complex codebases when working with AI or are you finding utility only in small focussed repos? Comments URL: https://news.ycombinator.com/item?id=46971761 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46971761",
+      "title": "The \"Are You Sure?\" Problem: Why Your AI Keeps Changing Its Mind",
+      "summary": "Article URL: https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/ Comments URL: https://news.ycombinator.com/item?id=46985102 Points: 1 # Comments: 0",
+      "url": "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/",
+      "image": "https://randalolson.com/assets/2026/02/sycophancy-flip-rate.svg",
+      "date": "2026-02-12T05:09:32+00:00"
+    },
+    {
+      "title": "Moltbook Looked Like an Emerging AI Society, but Humans Were Pulling the Strings",
+      "summary": "Article URL: https://www.forbes.com/sites/ronschmelzer/2026/02/10/moltbook-looked-like-an-emerging-ai-society-but-humans-were-pulling-the-strings/ Comments URL: https://news.ycombinator.com/item?id=46984932 Points: 1 # Comments: 1",
+      "url": "https://www.forbes.com/sites/ronschmelzer/2026/02/10/moltbook-looked-like-an-emerging-ai-society-but-humans-were-pulling-the-strings/",
       "image": "",
-      "date": "2026-02-11T06:57:07+00:00"
+      "date": "2026-02-12T04:34:42+00:00"
     },
     {
-      "title": "Show HN: GHOSTYPE – AI voice input that learns your writing style",
-      "summary": "Hello HN, I’m the creator of GHOSTYPE. I built this because I wanted a voice input workflow that didn't feel like talking to a chatbot. I wanted something that felt like a \"neural extension\" of my keyboard. It’s a macOS-native app that sits between your voice and your active window. Here is what it actually does: The Core Input Workflow: Push-to-Talk & Smart Send: Hold a global shortcut to speak. It detects the active app to determine the correct send method (e.g., Cmd+Enter for Slack vs Enter for Discord). Inline Editing: You can format while speaking. Need a line break, a specific spelling, or a bulleted list? You just say it, and it handles the formatting inside the sentence before outputting. \"Call Ghost\": Post-processing commands (translate, polish, expand) are available immediately after speaking, before the text is typed out. The Experimental Stuff (WIP): 1. Ghost Twin (Style Transfer): I call this a \"Virtual Personality Engine\" (a bit pretentious, I know). It analyzes your local writing history to build a style vector. It learns your tone—whether professional for emails or casual for Discord—so the output sounds like you, not a generic LLM. Side note: I'm currently building the training UI to look like a retro CRT terminal because I miss that aesthetic. 2. Ghost Morph (Custom Skills): Trigger custom macros with a modifier key. For example, turn a raw voice thought directly into a formatted Twitter thread or a Jira ticket structure. Privacy & Architecture: Local-First: I’m an indie dev and literally cannot afford the server costs to store user typing data. E2E Encrypted: Your \"Ghost Twin\" profile and skills are synced across devices via E2E encryption. Data stays on your machine. Constraints: macOS Only: I don't own a Windows PC, so I can't build for it yet. (If any Windows devs want to port this, let me know). It's currently in pre-launch. I threw up a landing page at if you want to follow the progress. https://ghostype.one Happy to answer questions about the local-first architecture or the style transfer logic! Comments URL: https://news.ycombinator.com/item?id=46971643 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46971643",
+      "title": "Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven",
+      "summary": "Hi HN, I built an assumption-driven AI security assessment for teams shipping AI features without a dedicated security team yet. You paste your AI use case (what it does, data types, vendors, deployment). In ~10 minutes you get a PDF report by email containing:\n- Trust boundaries + data flows + a threat model diagram (explicitly marked as conceptual/assumption-based)\n- Threats mapped to STRIDE + MAESTRO (agentic AI)\n- A risk rating (impact/likelihood) + 5×5 risk matrix\n- Recommended security controls and compliance mappings (example: EU AI Act, NIST AI 600-1) Important: we make assumptions (ex: AWS deployment, common patterns) and we call them out in the report so you can correct them. Link: https://raxit.ai/assessment Would love feedback on what’s wrong, what’s missing, and what would make this actually useful in a real security review. Comments URL: https://news.ycombinator.com/item?id=46984636 Points: 1 # Comments: 0",
+      "url": "https://raxit.ai/assessment",
+      "image": "https://raxit.ai/images/opengraph-image.svg",
+      "date": "2026-02-12T03:38:29+00:00"
+    },
+    {
+      "title": "Ask HN: Do You Use AI Email Assistants Like Google CC?",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=46984510 Points: 1 # Comments: 1",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-ai-agent/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_Keyword_01_1.max-1440x810.png",
+      "date": "2026-02-12T03:17:47+00:00"
+    },
+    {
+      "title": "'So Tired I Want to Cry': China's AI Subsidy War Swamps Shops",
+      "summary": "Article URL: https://www.sixthtone.com/news/1018191 Comments URL: https://news.ycombinator.com/item?id=46984500 Points: 2 # Comments: 1",
+      "url": "https://www.sixthtone.com/news/1018191",
+      "image": "https://image5.sixthtone.com/image/5/95/172.jpg",
+      "date": "2026-02-12T03:16:15+00:00"
+    },
+    {
+      "title": "Some thoughts about tool design and AI",
+      "summary": "Article URL: https://blog.vbuckenham.com/some-thoughts-about-tool-design-and-ai/ Comments URL: https://news.ycombinator.com/item?id=46984485 Points: 1 # Comments: 0",
+      "url": "https://blog.vbuckenham.com/some-thoughts-about-tool-design-and-ai/",
+      "image": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
+      "date": "2026-02-12T03:13:52+00:00"
+    },
+    {
+      "title": "Show HN: AI-Powered Structured Data Extraction from Any Document (93%+ Accuracy)",
+      "summary": "Hey HN! we built Structurify ( https://structurify.ai ) to solve a problem we kept hitting at our AI consultancy: enterprises drowning in unstructured documents that need to become structured data.\nThe typical approach is OCR + custom ML pipelines, which takes months to build and degrades on anything that isn't a clean PDF. We took a different approach — contextual AI understanding instead of character-level OCR.\nWhat it does: Upload any document (PDF, scan, photo, Word, Excel, PowerPoint) → describe what you want extracted in plain English → get structured JSON/CSV in ~30 seconds. 93%+ accuracy.\nWe have 169 pre-built extraction templates (SDS, invoices, medical records, W-9s, construction pay apps, etc.) but you can also describe custom extractions without any template.\nSome things we're proud of: Multi-page understanding (connects data across 50+ page documents)\nMulti-language (30+ languages)\nConfidence scoring with human-in-the-loop review\nFull REST API, webhook support, most integrations done in a day\n$0.20/extraction, no subscription, credits never expire Curious what HN thinks. Happy to answer technical questions about the architecture.\nFree trial: 50 credits with work email, no CC required. Comments URL: https://news.ycombinator.com/item?id=46984392 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=46984392",
       "image": "",
-      "date": "2026-02-11T06:35:56+00:00"
-    },
-    {
-      "title": "Artificial Intelligence (1984)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=_S3m0V_ZF_Q Comments URL: https://news.ycombinator.com/item?id=46971537 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=_S3m0V_ZF_Q",
-      "image": "",
-      "date": "2026-02-11T06:18:12+00:00"
-    },
-    {
-      "title": "Exponential Code, Network Effects in AI, & the Return of Apprenticeships",
-      "summary": "Article URL: https://www.implications.com/p/exponential-code-network-effects Comments URL: https://news.ycombinator.com/item?id=46971019 Points: 1 # Comments: 0",
-      "url": "https://www.implications.com/p/exponential-code-network-effects",
-      "image": "https://substackcdn.com/image/fetch/$s_!47zr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2f3ad9c-904f-460c-86b5-837b31d3cd24_1376x768.jpeg",
-      "date": "2026-02-11T04:56:11+00:00"
-    },
-    {
-      "title": "Vibrant Frog Collab – AI-Powered Writing Assistant",
-      "summary": "Article URL: https://frogteam.ai/VibrantFrog/default.html Comments URL: https://news.ycombinator.com/item?id=46970946 Points: 1 # Comments: 0",
-      "url": "https://frogteam.ai/VibrantFrog/default.html",
-      "image": "",
-      "date": "2026-02-11T04:44:41+00:00"
-    },
-    {
-      "title": "Show HN: Track and analyze AI coding tool usage across your team",
-      "summary": "100% open-source and free to use. Comments URL: https://news.ycombinator.com/item?id=46970926 Points: 1 # Comments: 0",
-      "url": "https://trackr-bay.vercel.app/welcome",
-      "image": "",
-      "date": "2026-02-11T04:41:40+00:00"
-    },
-    {
-      "title": "AI-Driven Low-Fi Prototyping with Balsamiq Cloud",
-      "summary": "Article URL: https://balsamiq.com/blog/low-fidelity-prototyping/ Comments URL: https://news.ycombinator.com/item?id=46970801 Points: 1 # Comments: 0",
-      "url": "https://balsamiq.com/blog/low-fidelity-prototyping/",
-      "image": "https://thumbs.balsamiq.com/t_blog_low-fidelity-prototyping.png",
-      "date": "2026-02-11T04:24:19+00:00"
-    },
-    {
-      "title": "It's Time to Rage Against the AI Music Machine",
-      "summary": "Article URL: https://time.com/7338205/rage-against-ai-generated-music/ Comments URL: https://news.ycombinator.com/item?id=46970694 Points: 2 # Comments: 3",
-      "url": "https://time.com/7338205/rage-against-ai-generated-music/",
-      "image": "https://api.time.com/wp-content/uploads/2025/12/AI-generated-music.jpg?quality=85&w=1200&h=628&crop=1",
-      "date": "2026-02-11T04:05:25+00:00"
-    },
-    {
-      "title": "AI is now a magic decompiler",
-      "summary": "Article URL: https://stephenjayakar.com/posts/magic-decomp/ Comments URL: https://news.ycombinator.com/item?id=46970686 Points: 2 # Comments: 0",
-      "url": "https://stephenjayakar.com/posts/magic-decomp/",
-      "image": "",
-      "date": "2026-02-11T04:03:58+00:00"
-    },
-    {
-      "title": "AI Can Work on VMs",
-      "summary": "Article URL: https://www.fluid.sh/blog/how-fluid-reads-source-vms-safely Comments URL: https://news.ycombinator.com/item?id=46970645 Points: 1 # Comments: 0",
-      "url": "https://www.fluid.sh/blog/how-fluid-reads-source-vms-safely",
-      "image": "",
-      "date": "2026-02-11T03:59:08+00:00"
-    },
-    {
-      "title": "Why Smart Lawyers Are Building AI Tools Instead of Buying Them",
-      "summary": "Article URL: https://natlawreview.com/article/why-smart-lawyers-are-building-ai-tools-instead-buying-them Comments URL: https://news.ycombinator.com/item?id=46970568 Points: 2 # Comments: 0",
-      "url": "https://natlawreview.com/article/why-smart-lawyers-are-building-ai-tools-instead-buying-them",
-      "image": "",
-      "date": "2026-02-11T03:50:44+00:00"
-    },
-    {
-      "title": "Confer: Making end-to-end encrypted AI chat feel like logging in",
-      "summary": "Article URL: https://confer.to/blog/2025/12/passkey-encryption/ Comments URL: https://news.ycombinator.com/item?id=46970465 Points: 1 # Comments: 0",
-      "url": "https://confer.to/blog/2025/12/passkey-encryption/",
-      "image": "https://confer.to/blog/assets/images/og-image.png",
-      "date": "2026-02-11T03:35:14+00:00"
-    },
-    {
-      "title": "Tell HN: AI is not a slippery slope, it's a waterslide",
-      "summary": "I found myself increasingly outsourcing the details to the AI. I forgot the details, deliberately I think. I wanted the AI to know them. Why? Because that's where the compute is. So that's where the knowledge has to live. Me re-telling it to the AI every time it misses something it didn't know, is inefficient. It takes me X time to type it, and maybe log(X) to voice type it. But then there's the inevitable back and forth, the slight misunderstandings, the corrections, etc. I realized and found myself naturally sliding down towards, just letting the AI own all the data and knowledge. Becuase it should. That's the one that has to compute with it, so why should I know about it. People think AI is a slippery slope by outsourcing our thinking. I don't think it's a slippery slope - it's a waterslide. It's just inevitable. It's gravity, taking over rapidly. Because there's no force nor incentive pushing the water back up hill. AI should own all the data. As weird as that feels, that's how it should be. I don't know another way right now. Thoughts? Comments URL: https://news.ycombinator.com/item?id=46970134 Points: 4 # Comments: 7",
-      "url": "https://news.ycombinator.com/item?id=46970134",
-      "image": "",
-      "date": "2026-02-11T02:49:59+00:00"
+      "date": "2026-02-12T03:00:40+00:00"
     }
   ]
 }
