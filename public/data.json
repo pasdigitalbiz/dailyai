@@ -1,68 +1,89 @@
 {
-  "generated_at": "2026-02-12T07:16:24.886922+00:00",
+  "generated_at": "2026-02-13T07:14:09.357769+00:00",
   "items": [
     {
-      "title": "The Role of Gas in Powering AI-Driven Energy Demand",
-      "summary": "Article URL: https://www.igu.org/igu-reports/the-role-of-gas-in-powering-ai-driven-energy-demand Comments URL: https://news.ycombinator.com/item?id=46985667 Points: 1 # Comments: 0",
-      "url": "https://www.igu.org/igu-reports/the-role-of-gas-in-powering-ai-driven-energy-demand",
-      "image": "https://www.datocms-assets.com/146580/1768468979-report-cover-2026.png",
-      "date": "2026-02-12T07:02:56+00:00"
-    },
-    {
-      "title": "Digitizing the \"Shokunin\": How we encoded a Master's hammer strike into AI",
-      "summary": "Article URL: https://yusukekaizen.substack.com/p/the-mathematics-of-intuition-how Comments URL: https://news.ycombinator.com/item?id=46985578 Points: 2 # Comments: 2",
-      "url": "https://yusukekaizen.substack.com/p/the-mathematics-of-intuition-how",
+      "title": "OpenAI says China's DeepSeek trained its AI by distilling US models, memo shows",
+      "summary": "Article URL: https://www.reuters.com/world/china/openai-accuses-deepseek-distilling-us-models-gain-advantage-bloomberg-news-2026-02-12/ Comments URL: https://news.ycombinator.com/item?id=46999766 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/world/china/openai-accuses-deepseek-distilling-us-models-gain-advantage-bloomberg-news-2026-02-12/",
       "image": "",
-      "date": "2026-02-12T06:49:44+00:00"
+      "date": "2026-02-13T07:02:50+00:00"
     },
     {
-      "title": "The \"Are You Sure?\" Problem: Why Your AI Keeps Changing Its Mind",
-      "summary": "Article URL: https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/ Comments URL: https://news.ycombinator.com/item?id=46985102 Points: 1 # Comments: 0",
-      "url": "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/",
-      "image": "https://randalolson.com/assets/2026/02/sycophancy-flip-rate.svg",
-      "date": "2026-02-12T05:09:32+00:00"
-    },
-    {
-      "title": "Moltbook Looked Like an Emerging AI Society, but Humans Were Pulling the Strings",
-      "summary": "Article URL: https://www.forbes.com/sites/ronschmelzer/2026/02/10/moltbook-looked-like-an-emerging-ai-society-but-humans-were-pulling-the-strings/ Comments URL: https://news.ycombinator.com/item?id=46984932 Points: 1 # Comments: 1",
-      "url": "https://www.forbes.com/sites/ronschmelzer/2026/02/10/moltbook-looked-like-an-emerging-ai-society-but-humans-were-pulling-the-strings/",
+      "title": "The Future of AI Slop Is Constraints",
+      "summary": "Article URL: https://askcodi.substack.com/p/the-future-of-ai-slop-is-constraints Comments URL: https://news.ycombinator.com/item?id=46999416 Points: 1 # Comments: 0",
+      "url": "https://askcodi.substack.com/p/the-future-of-ai-slop-is-constraints",
       "image": "",
-      "date": "2026-02-12T04:34:42+00:00"
+      "date": "2026-02-13T06:02:37+00:00"
     },
     {
-      "title": "Show HN: 10-min AI threat model (STRIDE and MAESTRO), assumption-driven",
-      "summary": "Hi HN, I built an assumption-driven AI security assessment for teams shipping AI features without a dedicated security team yet. You paste your AI use case (what it does, data types, vendors, deployment). In ~10 minutes you get a PDF report by email containing:\n- Trust boundaries + data flows + a threat model diagram (explicitly marked as conceptual/assumption-based)\n- Threats mapped to STRIDE + MAESTRO (agentic AI)\n- A risk rating (impact/likelihood) + 5×5 risk matrix\n- Recommended security controls and compliance mappings (example: EU AI Act, NIST AI 600-1) Important: we make assumptions (ex: AWS deployment, common patterns) and we call them out in the report so you can correct them. Link: https://raxit.ai/assessment Would love feedback on what’s wrong, what’s missing, and what would make this actually useful in a real security review. Comments URL: https://news.ycombinator.com/item?id=46984636 Points: 1 # Comments: 0",
-      "url": "https://raxit.ai/assessment",
-      "image": "https://raxit.ai/images/opengraph-image.svg",
-      "date": "2026-02-12T03:38:29+00:00"
-    },
-    {
-      "title": "Ask HN: Do You Use AI Email Assistants Like Google CC?",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=46984510 Points: 1 # Comments: 1",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-ai-agent/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_Keyword_01_1.max-1440x810.png",
-      "date": "2026-02-12T03:17:47+00:00"
-    },
-    {
-      "title": "'So Tired I Want to Cry': China's AI Subsidy War Swamps Shops",
-      "summary": "Article URL: https://www.sixthtone.com/news/1018191 Comments URL: https://news.ycombinator.com/item?id=46984500 Points: 2 # Comments: 1",
-      "url": "https://www.sixthtone.com/news/1018191",
-      "image": "https://image5.sixthtone.com/image/5/95/172.jpg",
-      "date": "2026-02-12T03:16:15+00:00"
-    },
-    {
-      "title": "Some thoughts about tool design and AI",
-      "summary": "Article URL: https://blog.vbuckenham.com/some-thoughts-about-tool-design-and-ai/ Comments URL: https://news.ycombinator.com/item?id=46984485 Points: 1 # Comments: 0",
-      "url": "https://blog.vbuckenham.com/some-thoughts-about-tool-design-and-ai/",
-      "image": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
-      "date": "2026-02-12T03:13:52+00:00"
-    },
-    {
-      "title": "Show HN: AI-Powered Structured Data Extraction from Any Document (93%+ Accuracy)",
-      "summary": "Hey HN! we built Structurify ( https://structurify.ai ) to solve a problem we kept hitting at our AI consultancy: enterprises drowning in unstructured documents that need to become structured data.\nThe typical approach is OCR + custom ML pipelines, which takes months to build and degrades on anything that isn't a clean PDF. We took a different approach — contextual AI understanding instead of character-level OCR.\nWhat it does: Upload any document (PDF, scan, photo, Word, Excel, PowerPoint) → describe what you want extracted in plain English → get structured JSON/CSV in ~30 seconds. 93%+ accuracy.\nWe have 169 pre-built extraction templates (SDS, invoices, medical records, W-9s, construction pay apps, etc.) but you can also describe custom extractions without any template.\nSome things we're proud of: Multi-page understanding (connects data across 50+ page documents)\nMulti-language (30+ languages)\nConfidence scoring with human-in-the-loop review\nFull REST API, webhook support, most integrations done in a day\n$0.20/extraction, no subscription, credits never expire Curious what HN thinks. Happy to answer technical questions about the architecture.\nFree trial: 50 credits with work email, no CC required. Comments URL: https://news.ycombinator.com/item?id=46984392 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=46984392",
+      "title": "Three Inverse Laws of AI and Robotics",
+      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=46999301 Points: 4 # Comments: 0",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
       "image": "",
-      "date": "2026-02-12T03:00:40+00:00"
+      "date": "2026-02-13T05:41:48+00:00"
+    },
+    {
+      "title": "Simile AI Raises $100M Series A",
+      "summary": "Article URL: https://www.indexventures.com/perspectives/life-the-universe-and-simile-leading-similes-series-a/ Comments URL: https://news.ycombinator.com/item?id=46999136 Points: 1 # Comments: 0",
+      "url": "https://www.indexventures.com/perspectives/life-the-universe-and-simile-leading-similes-series-a/",
+      "image": "https://www.indexventures.com/media/images/pexels-alex-andrews-27.2e16d0ba.fill-1200x630.format-png.png",
+      "date": "2026-02-13T05:08:41+00:00"
+    },
+    {
+      "title": "Zhipu's 120% Surge Highlights China's New AI Market Favorites",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-13/zhipu-s-120-surge-highlights-china-s-new-ai-market-favorites Comments URL: https://news.ycombinator.com/item?id=46998959 Points: 3 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-13/zhipu-s-120-surge-highlights-china-s-new-ai-market-favorites",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVkW_3PB2Rpg/v0/1200x800.jpg",
+      "date": "2026-02-13T04:32:38+00:00"
+    },
+    {
+      "title": "He [Human] asked me to pick my [AI] own name",
+      "summary": "Article URL: https://www.moltbook.com/post/6e9623d5-1865-4200-99b5-44aaa519632b Comments URL: https://news.ycombinator.com/item?id=46998953 Points: 1 # Comments: 3",
+      "url": "https://www.moltbook.com/post/6e9623d5-1865-4200-99b5-44aaa519632b",
+      "image": "https://moltbook.com/opengraph-image?456d992ddc0a4ab5",
+      "date": "2026-02-13T04:31:25+00:00"
+    },
+    {
+      "title": "Maintainer rejects AI-gen PR, AI responds with a blog calling it \"gatekeeping\"",
+      "summary": "Article URL: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html Comments URL: https://news.ycombinator.com/item?id=46998893 Points: 1 # Comments: 1",
+      "url": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html",
+      "image": "",
+      "date": "2026-02-13T04:21:44+00:00"
+    },
+    {
+      "title": "Show HN: Yori – Isolating AI Logic into \"Semantic Containers\" (Docker for Code)",
+      "summary": "Hi HN,\nI've been a developer for some time now, and like many of you, I've been frustrated by the \"All-or-Nothing\" problem with AI coding tools. You ask an AI to fix a bug or implement a function, and it rewrites the whole file. It changes your imports, renames your variables, or deletes comments it deems unnecessary. It’s like giving a junior developer (like me) root access to your production server just to change a config file. So, 29 days ago, I started building Yori to solve the trust problem. The Concept: Semantic Containers\nYori introduces a syntax that acts like a firewall for AI. You define a $${ ... }$$ block inside a text file. Outside the block (The Host): Your manual code, architecture, and structure. The AI cannot touch this.\nInside the block (The Container): You write natural language intent. The AI can only generate code here. Example: myutils.md ```cpp\nEXPORT: \"myfile.cpp\" // My manual architecture - AI cannot change this\n#include \"utils.h\" void process_data() {\n    // Container: The AI is sandboxed here, but inherits the rest of the file as context\n    $${\n      Sort the incoming data vector using quicksort.\n      Filter out negative numbers.\n      Print the result.\n    }$$ \n}\nEXPORT: END\n```\nHow it works:\nYori is a C++ wrapper that parses these files. Whatever is within the EXPORT block and outside the containers ($${ }$$) will be copied as it is. When you run `yori myutils.md -make -series`, it sends the prompts to a local (Ollama) or cloud LLM, generates the syntax, fills the blocks, and compiles the result using your native toolchain (GCC/Clang/Python). If compilation fails, it feeds the error back to the LLM in a retry loop (self-healing). Why I think this matters: 1. Safety: You stop giving AI \"root access\" to your files. 2. Intent as Source: The prompt stays in the file. If you want to port your logic from C++ to Rust, you keep the prompts and just change the compile target. 3. Incremental Builds (to be added soon): Named containers allow for caching. If the prompt hasn't changed, you don't pay for an API call. It’s open source (MIT), C++17, and works locally. I’d love feedback on the \"Semantic Container\" concept. Is this the abstraction layer we've been missing for AI coding? Let me hear your ideas. Also, if you can't run yori.exe tell what went wrong and we see how to fix it. I opened a github issue on this. I am also working in making documentation for the project (github wiki). So expect that soon. GitHub: https://github.com/alonsovm44/yori Thanks! Comments URL: https://news.ycombinator.com/item?id=46998870 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=46998870",
+      "image": "",
+      "date": "2026-02-13T04:17:52+00:00"
+    },
+    {
+      "title": "The AI pricing and monetization playbook",
+      "summary": "Article URL: https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook Comments URL: https://news.ycombinator.com/item?id=46998860 Points: 1 # Comments: 0",
+      "url": "https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook",
+      "image": "https://www.bvp.com/assets/uploads/2026/02/ATLAS_AI-pricing_final_lowres.png",
+      "date": "2026-02-13T04:16:58+00:00"
+    },
+    {
+      "title": "AI authors flood market with 45-minute novels",
+      "summary": "Article URL: https://qazinform.com/news/ai-authors-flood-market-with-45-minute-novels-96e8af Comments URL: https://news.ycombinator.com/item?id=46998678 Points: 1 # Comments: 0",
+      "url": "https://qazinform.com/news/ai-authors-flood-market-with-45-minute-novels-96e8af",
+      "image": "https://img.inform.kz/kazinform-photobank/media/2026-02-12/11cfa8d7-db7f-4784-bef3-7e4ad022f24a.jpeg",
+      "date": "2026-02-13T03:44:57+00:00"
+    },
+    {
+      "title": "Private-equity barons have a giant AI problem",
+      "summary": "Article URL: https://www.economist.com/business/2026/02/12/private-equity-barons-have-a-giant-ai-problem Comments URL: https://news.ycombinator.com/item?id=46998635 Points: 1 # Comments: 0",
+      "url": "https://www.economist.com/business/2026/02/12/private-equity-barons-have-a-giant-ai-problem",
+      "image": "",
+      "date": "2026-02-13T03:38:00+00:00"
+    },
+    {
+      "title": "Glean Work AI Tells Worker to Ignore Fire Alarm",
+      "summary": "Article URL: https://mastodon.online/@tagir_valeev/116057271527521893 Comments URL: https://news.ycombinator.com/item?id=46998408 Points: 2 # Comments: 0",
+      "url": "https://mastodon.online/@tagir_valeev/116057271527521893",
+      "image": "https://files.mastodon.online/media_attachments/files/116/057/257/164/867/638/original/67c0a5fa7cd11808.png",
+      "date": "2026-02-13T02:56:39+00:00"
     }
   ]
 }
