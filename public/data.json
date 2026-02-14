@@ -1,89 +1,110 @@
 {
-  "generated_at": "2026-02-13T07:14:09.357769+00:00",
+  "generated_at": "2026-02-14T07:02:19.103894+00:00",
   "items": [
     {
-      "title": "OpenAI says China's DeepSeek trained its AI by distilling US models, memo shows",
-      "summary": "Article URL: https://www.reuters.com/world/china/openai-accuses-deepseek-distilling-us-models-gain-advantage-bloomberg-news-2026-02-12/ Comments URL: https://news.ycombinator.com/item?id=46999766 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/world/china/openai-accuses-deepseek-distilling-us-models-gain-advantage-bloomberg-news-2026-02-12/",
+      "title": "Context management is the real bottleneck in AI-assisted coding",
+      "summary": "After using Cursor and Claude Code daily, I’ve noticed that when an AI coding agent drifts or forgets constraints, we assume it’s a model limitation. In many cases, it’s context management. A few observations:\n- Tokens are not just limits. They’re attention competition.\n- Even before hitting the hard window limit, attention dilution happens.\n- Coding tasks degrade faster than chat because of dependency density and multi-representation juggling (diffs, logs, tests). I started managing context deliberately:\n- Always write a contract\n- Chunk sessions by intent\n- Snapshot state and restart\n- Prefer on-demand CLI instead of preloading large MCP responses It dramatically improved the stability of the agent. Curious how others are handling context optimization. Comments URL: https://news.ycombinator.com/item?id=47012302 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47012302",
       "image": "",
-      "date": "2026-02-13T07:02:50+00:00"
+      "date": "2026-02-14T06:58:16+00:00"
     },
     {
-      "title": "The Future of AI Slop Is Constraints",
-      "summary": "Article URL: https://askcodi.substack.com/p/the-future-of-ai-slop-is-constraints Comments URL: https://news.ycombinator.com/item?id=46999416 Points: 1 # Comments: 0",
-      "url": "https://askcodi.substack.com/p/the-future-of-ai-slop-is-constraints",
+      "title": "The AI Dilemma",
+      "summary": "Article URL: https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/ Comments URL: https://news.ycombinator.com/item?id=47012010 Points: 2 # Comments: 0",
+      "url": "https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/",
       "image": "",
-      "date": "2026-02-13T06:02:37+00:00"
+      "date": "2026-02-14T05:59:08+00:00"
     },
     {
-      "title": "Three Inverse Laws of AI and Robotics",
-      "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=46999301 Points: 4 # Comments: 0",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "title": "AI Fails at 96% of Jobs (New Study)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=z3kaLM8Oj4o Comments URL: https://news.ycombinator.com/item?id=47011722 Points: 4 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=z3kaLM8Oj4o",
       "image": "",
-      "date": "2026-02-13T05:41:48+00:00"
+      "date": "2026-02-14T05:00:29+00:00"
     },
     {
-      "title": "Simile AI Raises $100M Series A",
-      "summary": "Article URL: https://www.indexventures.com/perspectives/life-the-universe-and-simile-leading-similes-series-a/ Comments URL: https://news.ycombinator.com/item?id=46999136 Points: 1 # Comments: 0",
-      "url": "https://www.indexventures.com/perspectives/life-the-universe-and-simile-leading-similes-series-a/",
-      "image": "https://www.indexventures.com/media/images/pexels-alex-andrews-27.2e16d0ba.fill-1200x630.format-png.png",
-      "date": "2026-02-13T05:08:41+00:00"
+      "title": "German-language Wikipedia considers comprehensive AI ban",
+      "summary": "Article URL: https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html Comments URL: https://news.ycombinator.com/item?id=47011683 Points: 4 # Comments: 0",
+      "url": "https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html",
+      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/2/7/3/4/8/shutterstock_1452372194-043533f7f87e8f7b.jpg",
+      "date": "2026-02-14T04:52:05+00:00"
     },
     {
-      "title": "Zhipu's 120% Surge Highlights China's New AI Market Favorites",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-13/zhipu-s-120-surge-highlights-china-s-new-ai-market-favorites Comments URL: https://news.ycombinator.com/item?id=46998959 Points: 3 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-13/zhipu-s-120-surge-highlights-china-s-new-ai-market-favorites",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVkW_3PB2Rpg/v0/1200x800.jpg",
-      "date": "2026-02-13T04:32:38+00:00"
-    },
-    {
-      "title": "He [Human] asked me to pick my [AI] own name",
-      "summary": "Article URL: https://www.moltbook.com/post/6e9623d5-1865-4200-99b5-44aaa519632b Comments URL: https://news.ycombinator.com/item?id=46998953 Points: 1 # Comments: 3",
-      "url": "https://www.moltbook.com/post/6e9623d5-1865-4200-99b5-44aaa519632b",
-      "image": "https://moltbook.com/opengraph-image?456d992ddc0a4ab5",
-      "date": "2026-02-13T04:31:25+00:00"
-    },
-    {
-      "title": "Maintainer rejects AI-gen PR, AI responds with a blog calling it \"gatekeeping\"",
-      "summary": "Article URL: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html Comments URL: https://news.ycombinator.com/item?id=46998893 Points: 1 # Comments: 1",
-      "url": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html",
+      "title": "Show HN: Why Playwright-CLI Beats MCP for AI‑Driven Browser Automation",
+      "summary": "Most “AI + browser” setups still bolt MCP tools onto Playwright and hope for the best, so every click dumps full DOMs, accessibility trees, and logs into the model. That burns tokens, collapses context, and makes long sessions unreliable. Meanwhile, default Playwright reports start to struggle once you have more than a few dozen e2e tests, so teams drown in HTML reports and flaky failures instead of clear patterns. The insights at https://testdino.com/blog/playwright-cli/ explores how Microsoft’s playwright-cli keeps browser state external, returns only compact element references and YAML flows, and works with normal npx playwright test plus smarter reporting, so both agents and humans stay fast, cost aware, and predictable. Comments URL: https://news.ycombinator.com/item?id=47011649 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47011649",
       "image": "",
-      "date": "2026-02-13T04:21:44+00:00"
+      "date": "2026-02-14T04:45:31+00:00"
     },
     {
-      "title": "Show HN: Yori – Isolating AI Logic into \"Semantic Containers\" (Docker for Code)",
-      "summary": "Hi HN,\nI've been a developer for some time now, and like many of you, I've been frustrated by the \"All-or-Nothing\" problem with AI coding tools. You ask an AI to fix a bug or implement a function, and it rewrites the whole file. It changes your imports, renames your variables, or deletes comments it deems unnecessary. It’s like giving a junior developer (like me) root access to your production server just to change a config file. So, 29 days ago, I started building Yori to solve the trust problem. The Concept: Semantic Containers\nYori introduces a syntax that acts like a firewall for AI. You define a $${ ... }$$ block inside a text file. Outside the block (The Host): Your manual code, architecture, and structure. The AI cannot touch this.\nInside the block (The Container): You write natural language intent. The AI can only generate code here. Example: myutils.md ```cpp\nEXPORT: \"myfile.cpp\" // My manual architecture - AI cannot change this\n#include \"utils.h\" void process_data() {\n    // Container: The AI is sandboxed here, but inherits the rest of the file as context\n    $${\n      Sort the incoming data vector using quicksort.\n      Filter out negative numbers.\n      Print the result.\n    }$$ \n}\nEXPORT: END\n```\nHow it works:\nYori is a C++ wrapper that parses these files. Whatever is within the EXPORT block and outside the containers ($${ }$$) will be copied as it is. When you run `yori myutils.md -make -series`, it sends the prompts to a local (Ollama) or cloud LLM, generates the syntax, fills the blocks, and compiles the result using your native toolchain (GCC/Clang/Python). If compilation fails, it feeds the error back to the LLM in a retry loop (self-healing). Why I think this matters: 1. Safety: You stop giving AI \"root access\" to your files. 2. Intent as Source: The prompt stays in the file. If you want to port your logic from C++ to Rust, you keep the prompts and just change the compile target. 3. Incremental Builds (to be added soon): Named containers allow for caching. If the prompt hasn't changed, you don't pay for an API call. It’s open source (MIT), C++17, and works locally. I’d love feedback on the \"Semantic Container\" concept. Is this the abstraction layer we've been missing for AI coding? Let me hear your ideas. Also, if you can't run yori.exe tell what went wrong and we see how to fix it. I opened a github issue on this. I am also working in making documentation for the project (github wiki). So expect that soon. GitHub: https://github.com/alonsovm44/yori Thanks! Comments URL: https://news.ycombinator.com/item?id=46998870 Points: 3 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=46998870",
+      "title": "Show HN: Verify-before-release x402 gateway for AI agent transactions",
+      "summary": "Hey HN, I built Settld because I kept running into the same problem: AI agents can call APIs, pay for services, and hire other agents - but there's no way to prove the work was actually done before the money moves. The problem in one sentence: x402 tells you \"payment was sent\". Settld tells you \"the work was worth paying for\". What it does Settld sits between your agent and the APIs/agents it pays. It: 1. Intercepts HTTP 402 (Payment Required) responses\n2. Creates an escrow hold instead of paying immediately\n3. Collects evidence that the work was completed\n4. Runs deterministic verification (same evidence + same terms = same payout, every time)\n5. Releases payment only after verification passes\n6. Issues a cryptographically verifiable receipt If verification fails or the work is disputed, the hold is refunded. The agent gets a receipt either way - a permanent, auditable record of what happened. Why this matters now We're at a weird inflection point. Coinbase shipped x402 (50M+ transactions). Google shipped A2A. Anthropic shipped MCP. Agents can discover each other, communicate, and pay each other. But nobody built the layer that answers: \"was the work actually done correctly, and how much should the payout be?\" That's the gap. Right now, every agent-to-agent transaction is either \"trust and hope\" or \"don't transact.\" Neither scales. The x402 gateway (the fastest way to try it) We ship a drop-in reverse proxy that you put in front of any API: docker run -e UPSTREAM_URL= https://your-api.com \\\n           -e SETTLD_API_URL= https://api.settld.dev \\\n           -e SETTLD_API_KEY=sk_... \\\n           -p 8402:8402 \\\n           settld/x402-gateway Everything flows through normally - except 402 responses get intercepted, escrowed, verified, and settled. Your agent gets a receipt with a hash-chained proof of what happened. What's under the hood The settlement kernel is the interesting part (and where we spent most of our time): - Deterministic policy evaluation - machine-readable agreements with release rates based on verification status (green/amber/red). No ambiguity.\n- Hash-chained event log - every event in a settlement is chained with Ed25519 signatures. Tamper-evident, offline-verifiable.\n- Escrow with holdback windows - configurable holdback basis points + dispute windows. Funds auto-release if unchallenged.\n- Dispute → arbitration → verdict → adjustment - full dispute resolution pipeline, not just \"flag for human review.\"\n- Append-only reputation events - every settlement produces a reputation event (approved, rejected, disputed, etc.). Agents build verifiable economic track records.\n- Compositional settlement - agents can delegate work to sub-agents with linked agreements. If a downstream agent fails, refunds cascade deterministically back up the chain. The whole protocol is spec'd with JSON schemas, conformance vectors, and a portable oracle: https://github.com/aidenlippert/settld/blob/main/docs/spec/R... What this is NOT - Not a payment processor - we don't move money. We decide \"if\" and \"how much\" money should move, then your existing rails (Stripe, x402, wire) execute it.\n- Not a blockchain - deterministic receipts and hash chains, but no consensus mechanism or token. Just cryptographic proofs.\n- Not an agent framework - we don't care if you use LangChain, CrewAI, AutoGen, or raw API calls. We're a protocol layer. Tech stack Node.js, PostgreSQL (or in-memory for dev), Ed25519 signatures, SHA-256 hashing, RFC 8785 canonical JSON. ~107 core modules, 494 tests passing. What I want from HN Honest feedback on whether this problem resonates. If you're building agent workflows that involve money, I want to know: what breaks? What's missing? What would make you actually install this? GitHub: https://github.com/aidenlippert/settld Docs: https://docs.settld.work/ Quickstart (10 min): https://docs.settld.work/quickstart Comments URL: https://news.ycombinator.com/item?id=47011510 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47011510",
       "image": "",
-      "date": "2026-02-13T04:17:52+00:00"
+      "date": "2026-02-14T04:17:17+00:00"
     },
     {
-      "title": "The AI pricing and monetization playbook",
-      "summary": "Article URL: https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook Comments URL: https://news.ycombinator.com/item?id=46998860 Points: 1 # Comments: 0",
-      "url": "https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook",
-      "image": "https://www.bvp.com/assets/uploads/2026/02/ATLAS_AI-pricing_final_lowres.png",
-      "date": "2026-02-13T04:16:58+00:00"
+      "title": "Elephant trunk whiskers exhibit material intelligence",
+      "summary": "Article URL: https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence Comments URL: https://news.ycombinator.com/item?id=47011391 Points: 3 # Comments: 0",
+      "url": "https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence",
+      "image": "https://www.mpg.de/26127146/original-1770974375.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjYxMjcxNDZ9--01da6a4d7ee89b51cd776aaa54099a733c9229bd",
+      "date": "2026-02-14T03:55:16+00:00"
     },
     {
-      "title": "AI authors flood market with 45-minute novels",
-      "summary": "Article URL: https://qazinform.com/news/ai-authors-flood-market-with-45-minute-novels-96e8af Comments URL: https://news.ycombinator.com/item?id=46998678 Points: 1 # Comments: 0",
-      "url": "https://qazinform.com/news/ai-authors-flood-market-with-45-minute-novels-96e8af",
-      "image": "https://img.inform.kz/kazinform-photobank/media/2026-02-12/11cfa8d7-db7f-4784-bef3-7e4ad022f24a.jpeg",
-      "date": "2026-02-13T03:44:57+00:00"
+      "title": "Why ads are coming to your AI chatbot",
+      "summary": "Article URL: https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906 Comments URL: https://news.ycombinator.com/item?id=47011371 Points: 2 # Comments: 0",
+      "url": "https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a563521-f49e-40e0-8264-2dd9c0f06d26.jpg?source=next-barrier-page",
+      "date": "2026-02-14T03:51:57+00:00"
     },
     {
-      "title": "Private-equity barons have a giant AI problem",
-      "summary": "Article URL: https://www.economist.com/business/2026/02/12/private-equity-barons-have-a-giant-ai-problem Comments URL: https://news.ycombinator.com/item?id=46998635 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/business/2026/02/12/private-equity-barons-have-a-giant-ai-problem",
+      "title": "Ask HN: Exceptionally well-written research papers in CS/ML/AI?",
+      "summary": "I'm looking for research papers you consider exceptionally well written. I want to share them with students and colleagues as examples of good technical writing. Honestly, I'd love to point back to this thread so it's not just me saying it. Comments URL: https://news.ycombinator.com/item?id=47011353 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47011353",
       "image": "",
-      "date": "2026-02-13T03:38:00+00:00"
+      "date": "2026-02-14T03:50:06+00:00"
     },
     {
-      "title": "Glean Work AI Tells Worker to Ignore Fire Alarm",
-      "summary": "Article URL: https://mastodon.online/@tagir_valeev/116057271527521893 Comments URL: https://news.ycombinator.com/item?id=46998408 Points: 2 # Comments: 0",
-      "url": "https://mastodon.online/@tagir_valeev/116057271527521893",
-      "image": "https://files.mastodon.online/media_attachments/files/116/057/257/164/867/638/original/67c0a5fa7cd11808.png",
-      "date": "2026-02-13T02:56:39+00:00"
+      "title": "Painting Is a Program, Poetry Is a Prompt: Rethinking AI's Role",
+      "summary": "“Painting” has been a key vehicle for transmitting Western civilization, whereas in China this role has been taken over by “poetry.” Painting is like a program, while poetry is more like a continually evolving set of requirements that must be aligned with over time. Perhaps world models are meant for writing programs, while large language models are meant for describing the world. Perhaps we shouldn’t make AI work for humans at all, but instead give it a space where it can create and explore freely. Comments URL: https://news.ycombinator.com/item?id=47011309 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47011309",
+      "image": "",
+      "date": "2026-02-14T03:42:23+00:00"
+    },
+    {
+      "title": "US FTC ramps up scrutiny of Microsoft over AI, cloud practices",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/us-ftc-ramps-up-scrutiny-microsoft-over-ai-cloud-practices-questions-rivals-2026-02-13/ Comments URL: https://news.ycombinator.com/item?id=47011307 Points: 6 # Comments: 2",
+      "url": "https://www.reuters.com/legal/litigation/us-ftc-ramps-up-scrutiny-microsoft-over-ai-cloud-practices-questions-rivals-2026-02-13/",
+      "image": "",
+      "date": "2026-02-14T03:42:02+00:00"
+    },
+    {
+      "title": "Show HN: A Steve Jobs in Your Pocket AI Skill",
+      "summary": "Hi there, I found it very useful recently to have my own \"Steve Jobs in my pocket\" when developing with Claude Code. I can ask it what Steve Jobs would think and usually comes up with great user, simplicity, and story-first thinking. I thought this might be useful for others, so sharing it here. In the article I also describe why I think skills are the new apps, just with different economics. If you haven't tried them yet, it's certainly worth it. Much more of a change to \"default\" Claude Code than without. Happy to hear any feedback! Comments URL: https://news.ycombinator.com/item?id=47010979 Points: 2 # Comments: 0",
+      "url": "https://openclaw.rocks/blog/ai-skills-are-the-new-apps",
+      "image": "https://openclaw.rocks/og-image.png",
+      "date": "2026-02-14T02:38:57+00:00"
+    },
+    {
+      "title": "Viral AI Video of Brad Pitt Fighting Tom Cruise Shakes Hollywood",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood Comments URL: https://news.ycombinator.com/item?id=47010913 Points: 6 # Comments: 5",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/7655b33/2147483647/strip/true/crop/5396x2833+0+382/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F38%2F35a29f4d47cd9efb500fe23f3766%2Fap25174649566066.jpg",
+      "date": "2026-02-14T02:28:15+00:00"
+    },
+    {
+      "title": "I let AI fix my printer and it bricked my Wi-Fi three times",
+      "summary": "Article URL: https://onlydole.substack.com/p/i-let-ai-fix-my-printer Comments URL: https://news.ycombinator.com/item?id=47010904 Points: 4 # Comments: 1",
+      "url": "https://onlydole.substack.com/p/i-let-ai-fix-my-printer",
+      "image": "",
+      "date": "2026-02-14T02:27:10+00:00"
+    },
+    {
+      "title": "AI Is (Finally) Bursting [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=yYe9YrdyJNQ Comments URL: https://news.ycombinator.com/item?id=47010839 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=yYe9YrdyJNQ",
+      "image": "",
+      "date": "2026-02-14T02:16:27+00:00"
     }
   ]
 }
