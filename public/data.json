@@ -1,110 +1,75 @@
 {
-  "generated_at": "2026-02-14T07:02:19.103894+00:00",
+  "generated_at": "2026-02-15T07:06:02.131316+00:00",
   "items": [
     {
-      "title": "Context management is the real bottleneck in AI-assisted coding",
-      "summary": "After using Cursor and Claude Code daily, I’ve noticed that when an AI coding agent drifts or forgets constraints, we assume it’s a model limitation. In many cases, it’s context management. A few observations:\n- Tokens are not just limits. They’re attention competition.\n- Even before hitting the hard window limit, attention dilution happens.\n- Coding tasks degrade faster than chat because of dependency density and multi-representation juggling (diffs, logs, tests). I started managing context deliberately:\n- Always write a contract\n- Chunk sessions by intent\n- Snapshot state and restart\n- Prefer on-demand CLI instead of preloading large MCP responses It dramatically improved the stability of the agent. Curious how others are handling context optimization. Comments URL: https://news.ycombinator.com/item?id=47012302 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47012302",
+      "title": "Help Recover Your Stolen Bitcoin – USA Intelligence Cyber Wizard",
+      "summary": "Help Recover Your Stolen Bitcoin – USA Intelligence Cyber Wizard\nWhat To Do Immediately After Crypto ScamsIntelligence Cyber Wizard is a team of Cyber Intelligence, Crypto Investigation, Asset Tracing and Offshore Legal experts. Working together to form a boutique cyber and crypto intelligence group focused on providing results.Using the latest Cyber Tools, Open Source Intelligence (OSINT), Human Intelligence Cyber Wizard (HUMINT), and cutting edge technology, we provide actionable intelligence to clients.WHY CHOOSE INTELLIGENCE CYBER WIZARD?– Expert Cyber Investigation Services — We're cyber investigators are certified in the US, UK and experienced with investigations spanning 6 continents.– Cryptocurrency And Digital Asset Tracking — We are able to track the movement of several different cryptocurrencies and assets. If the cryptocurrency has been moved, we are able to follow it.– Strategic Intelligence For Asset Recovery — The first step to recovery is locating recoverable assets. Our experienced forensic team will be able to walk you through the process.\nSchedule a mail session with our forensic team of professionals today.Schedule a mail session with our forensic team of professionals today. How to Approach Contacting our team: Type “Intelligence Cyber Wizard” into Google to find our official contact on Google reviews or contact directly via – mail at intelligencecyberwizard (@) mail . com to get started immediately.BEWARE of FABRICATED reviews and testimonies endorsing fraudsters, do not get scammed twice.\nDisclaimer: Intelligence Cyber Wizard is not a law enforcement agency and not a law firm. Like all investigators, we cannot guarantee specific results, but we apply our expertise and resources to every case professionally and ethically.⁷ Comments URL: https://news.ycombinator.com/item?id=47021584 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47021584",
       "image": "",
-      "date": "2026-02-14T06:58:16+00:00"
+      "date": "2026-02-15T06:47:24+00:00"
     },
     {
-      "title": "The AI Dilemma",
-      "summary": "Article URL: https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/ Comments URL: https://news.ycombinator.com/item?id=47012010 Points: 2 # Comments: 0",
-      "url": "https://www.aleksandrhovhannisyan.com/blog/the-ai-dilemma/",
+      "title": "America Isn't Ready for What AI Will Do to Jobs",
+      "summary": "Article URL: https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/ Comments URL: https://news.ycombinator.com/item?id=47021286 Points: 15 # Comments: 3",
+      "url": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
+      "image": "https://cdn.theatlantic.com/thumbor/j1IInc5112vmN-IhuLfCOPkG6qE=/0x0:2880x1500/1200x625/media/img/2026/02/WEL_AiJobs_Opener/original.png",
+      "date": "2026-02-15T05:22:01+00:00"
+    },
+    {
+      "title": "Distillation, Experimentation, and Integration of AI for Adversarial Use",
+      "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use Comments URL: https://news.ycombinator.com/item?id=47021238 Points: 2 # Comments: 0",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use",
+      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+      "date": "2026-02-15T05:10:15+00:00"
+    },
+    {
+      "title": "Show HN: Give a Voice to Your AI Agent",
+      "summary": "Article URL: https://fellowgeek.github.io/mcp-speak/ Comments URL: https://news.ycombinator.com/item?id=47020979 Points: 1 # Comments: 0",
+      "url": "https://fellowgeek.github.io/mcp-speak/",
       "image": "",
-      "date": "2026-02-14T05:59:08+00:00"
+      "date": "2026-02-15T04:11:05+00:00"
     },
     {
-      "title": "AI Fails at 96% of Jobs (New Study)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=z3kaLM8Oj4o Comments URL: https://news.ycombinator.com/item?id=47011722 Points: 4 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=z3kaLM8Oj4o",
+      "title": "Musk's AI chatbot Grok gains US market share amid sexualized images backlash",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/musks-ai-chatbot-groks-us-market-share-jumps-amid-sexualized-images-backlash-2026-02-13/ Comments URL: https://news.ycombinator.com/item?id=47020710 Points: 4 # Comments: 6",
+      "url": "https://www.reuters.com/business/media-telecom/musks-ai-chatbot-groks-us-market-share-jumps-amid-sexualized-images-backlash-2026-02-13/",
       "image": "",
-      "date": "2026-02-14T05:00:29+00:00"
+      "date": "2026-02-15T03:16:30+00:00"
     },
     {
-      "title": "German-language Wikipedia considers comprehensive AI ban",
-      "summary": "Article URL: https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html Comments URL: https://news.ycombinator.com/item?id=47011683 Points: 4 # Comments: 0",
-      "url": "https://www.heise.de/en/news/German-language-Wikipedia-considers-comprehensive-AI-ban-11175670.html",
-      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/2/7/3/4/8/shutterstock_1452372194-043533f7f87e8f7b.jpg",
-      "date": "2026-02-14T04:52:05+00:00"
-    },
-    {
-      "title": "Show HN: Why Playwright-CLI Beats MCP for AI‑Driven Browser Automation",
-      "summary": "Most “AI + browser” setups still bolt MCP tools onto Playwright and hope for the best, so every click dumps full DOMs, accessibility trees, and logs into the model. That burns tokens, collapses context, and makes long sessions unreliable. Meanwhile, default Playwright reports start to struggle once you have more than a few dozen e2e tests, so teams drown in HTML reports and flaky failures instead of clear patterns. The insights at https://testdino.com/blog/playwright-cli/ explores how Microsoft’s playwright-cli keeps browser state external, returns only compact element references and YAML flows, and works with normal npx playwright test plus smarter reporting, so both agents and humans stay fast, cost aware, and predictable. Comments URL: https://news.ycombinator.com/item?id=47011649 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47011649",
+      "title": "Pentagon threatens to cut off Anthropic in AI safeguards dispute",
+      "summary": "Article URL: https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro Comments URL: https://news.ycombinator.com/item?id=47020486 Points: 15 # Comments: 2",
+      "url": "https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro",
       "image": "",
-      "date": "2026-02-14T04:45:31+00:00"
+      "date": "2026-02-15T02:26:57+00:00"
     },
     {
-      "title": "Show HN: Verify-before-release x402 gateway for AI agent transactions",
-      "summary": "Hey HN, I built Settld because I kept running into the same problem: AI agents can call APIs, pay for services, and hire other agents - but there's no way to prove the work was actually done before the money moves. The problem in one sentence: x402 tells you \"payment was sent\". Settld tells you \"the work was worth paying for\". What it does Settld sits between your agent and the APIs/agents it pays. It: 1. Intercepts HTTP 402 (Payment Required) responses\n2. Creates an escrow hold instead of paying immediately\n3. Collects evidence that the work was completed\n4. Runs deterministic verification (same evidence + same terms = same payout, every time)\n5. Releases payment only after verification passes\n6. Issues a cryptographically verifiable receipt If verification fails or the work is disputed, the hold is refunded. The agent gets a receipt either way - a permanent, auditable record of what happened. Why this matters now We're at a weird inflection point. Coinbase shipped x402 (50M+ transactions). Google shipped A2A. Anthropic shipped MCP. Agents can discover each other, communicate, and pay each other. But nobody built the layer that answers: \"was the work actually done correctly, and how much should the payout be?\" That's the gap. Right now, every agent-to-agent transaction is either \"trust and hope\" or \"don't transact.\" Neither scales. The x402 gateway (the fastest way to try it) We ship a drop-in reverse proxy that you put in front of any API: docker run -e UPSTREAM_URL= https://your-api.com \\\n           -e SETTLD_API_URL= https://api.settld.dev \\\n           -e SETTLD_API_KEY=sk_... \\\n           -p 8402:8402 \\\n           settld/x402-gateway Everything flows through normally - except 402 responses get intercepted, escrowed, verified, and settled. Your agent gets a receipt with a hash-chained proof of what happened. What's under the hood The settlement kernel is the interesting part (and where we spent most of our time): - Deterministic policy evaluation - machine-readable agreements with release rates based on verification status (green/amber/red). No ambiguity.\n- Hash-chained event log - every event in a settlement is chained with Ed25519 signatures. Tamper-evident, offline-verifiable.\n- Escrow with holdback windows - configurable holdback basis points + dispute windows. Funds auto-release if unchallenged.\n- Dispute → arbitration → verdict → adjustment - full dispute resolution pipeline, not just \"flag for human review.\"\n- Append-only reputation events - every settlement produces a reputation event (approved, rejected, disputed, etc.). Agents build verifiable economic track records.\n- Compositional settlement - agents can delegate work to sub-agents with linked agreements. If a downstream agent fails, refunds cascade deterministically back up the chain. The whole protocol is spec'd with JSON schemas, conformance vectors, and a portable oracle: https://github.com/aidenlippert/settld/blob/main/docs/spec/R... What this is NOT - Not a payment processor - we don't move money. We decide \"if\" and \"how much\" money should move, then your existing rails (Stripe, x402, wire) execute it.\n- Not a blockchain - deterministic receipts and hash chains, but no consensus mechanism or token. Just cryptographic proofs.\n- Not an agent framework - we don't care if you use LangChain, CrewAI, AutoGen, or raw API calls. We're a protocol layer. Tech stack Node.js, PostgreSQL (or in-memory for dev), Ed25519 signatures, SHA-256 hashing, RFC 8785 canonical JSON. ~107 core modules, 494 tests passing. What I want from HN Honest feedback on whether this problem resonates. If you're building agent workflows that involve money, I want to know: what breaks? What's missing? What would make you actually install this? GitHub: https://github.com/aidenlippert/settld Docs: https://docs.settld.work/ Quickstart (10 min): https://docs.settld.work/quickstart Comments URL: https://news.ycombinator.com/item?id=47011510 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47011510",
+      "title": "The Re-Anchor Manager – Structured Session Handovers for AI Development",
+      "summary": "Article URL: https://seekrates-ai.com/the-re-anchor-manager/ Comments URL: https://news.ycombinator.com/item?id=47020429 Points: 1 # Comments: 0",
+      "url": "https://seekrates-ai.com/the-re-anchor-manager/",
+      "image": "https://seekrates-ai.com/wp-content/uploads/bootstrap_docs.jpg",
+      "date": "2026-02-15T02:11:37+00:00"
+    },
+    {
+      "title": "The most important part of an AI system-the human",
+      "summary": "Article URL: https://gpt3experiments.substack.com/p/the-most-important-part-of-an-ai Comments URL: https://news.ycombinator.com/item?id=47020389 Points: 2 # Comments: 0",
+      "url": "https://gpt3experiments.substack.com/p/the-most-important-part-of-an-ai",
       "image": "",
-      "date": "2026-02-14T04:17:17+00:00"
+      "date": "2026-02-15T02:03:30+00:00"
     },
     {
-      "title": "Elephant trunk whiskers exhibit material intelligence",
-      "summary": "Article URL: https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence Comments URL: https://news.ycombinator.com/item?id=47011391 Points: 3 # Comments: 0",
-      "url": "https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence",
-      "image": "https://www.mpg.de/26127146/original-1770974375.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MjYxMjcxNDZ9--01da6a4d7ee89b51cd776aaa54099a733c9229bd",
-      "date": "2026-02-14T03:55:16+00:00"
+      "title": "Google says attackers used 100k+ prompts to try to clone AI chatbot Gemini",
+      "summary": "Article URL: https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657 Comments URL: https://news.ycombinator.com/item?id=47019868 Points: 6 # Comments: 0",
+      "url": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-google-ww-1810-a0892a.jpg",
+      "date": "2026-02-15T00:25:56+00:00"
     },
     {
-      "title": "Why ads are coming to your AI chatbot",
-      "summary": "Article URL: https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906 Comments URL: https://news.ycombinator.com/item?id=47011371 Points: 2 # Comments: 0",
-      "url": "https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a563521-f49e-40e0-8264-2dd9c0f06d26.jpg?source=next-barrier-page",
-      "date": "2026-02-14T03:51:57+00:00"
-    },
-    {
-      "title": "Ask HN: Exceptionally well-written research papers in CS/ML/AI?",
-      "summary": "I'm looking for research papers you consider exceptionally well written. I want to share them with students and colleagues as examples of good technical writing. Honestly, I'd love to point back to this thread so it's not just me saying it. Comments URL: https://news.ycombinator.com/item?id=47011353 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47011353",
-      "image": "",
-      "date": "2026-02-14T03:50:06+00:00"
-    },
-    {
-      "title": "Painting Is a Program, Poetry Is a Prompt: Rethinking AI's Role",
-      "summary": "“Painting” has been a key vehicle for transmitting Western civilization, whereas in China this role has been taken over by “poetry.” Painting is like a program, while poetry is more like a continually evolving set of requirements that must be aligned with over time. Perhaps world models are meant for writing programs, while large language models are meant for describing the world. Perhaps we shouldn’t make AI work for humans at all, but instead give it a space where it can create and explore freely. Comments URL: https://news.ycombinator.com/item?id=47011309 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47011309",
-      "image": "",
-      "date": "2026-02-14T03:42:23+00:00"
-    },
-    {
-      "title": "US FTC ramps up scrutiny of Microsoft over AI, cloud practices",
-      "summary": "Article URL: https://www.reuters.com/legal/litigation/us-ftc-ramps-up-scrutiny-microsoft-over-ai-cloud-practices-questions-rivals-2026-02-13/ Comments URL: https://news.ycombinator.com/item?id=47011307 Points: 6 # Comments: 2",
-      "url": "https://www.reuters.com/legal/litigation/us-ftc-ramps-up-scrutiny-microsoft-over-ai-cloud-practices-questions-rivals-2026-02-13/",
-      "image": "",
-      "date": "2026-02-14T03:42:02+00:00"
-    },
-    {
-      "title": "Show HN: A Steve Jobs in Your Pocket AI Skill",
-      "summary": "Hi there, I found it very useful recently to have my own \"Steve Jobs in my pocket\" when developing with Claude Code. I can ask it what Steve Jobs would think and usually comes up with great user, simplicity, and story-first thinking. I thought this might be useful for others, so sharing it here. In the article I also describe why I think skills are the new apps, just with different economics. If you haven't tried them yet, it's certainly worth it. Much more of a change to \"default\" Claude Code than without. Happy to hear any feedback! Comments URL: https://news.ycombinator.com/item?id=47010979 Points: 2 # Comments: 0",
-      "url": "https://openclaw.rocks/blog/ai-skills-are-the-new-apps",
-      "image": "https://openclaw.rocks/og-image.png",
-      "date": "2026-02-14T02:38:57+00:00"
-    },
-    {
-      "title": "Viral AI Video of Brad Pitt Fighting Tom Cruise Shakes Hollywood",
-      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood Comments URL: https://news.ycombinator.com/item?id=47010913 Points: 6 # Comments: 5",
-      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/7655b33/2147483647/strip/true/crop/5396x2833+0+382/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F38%2F35a29f4d47cd9efb500fe23f3766%2Fap25174649566066.jpg",
-      "date": "2026-02-14T02:28:15+00:00"
-    },
-    {
-      "title": "I let AI fix my printer and it bricked my Wi-Fi three times",
-      "summary": "Article URL: https://onlydole.substack.com/p/i-let-ai-fix-my-printer Comments URL: https://news.ycombinator.com/item?id=47010904 Points: 4 # Comments: 1",
-      "url": "https://onlydole.substack.com/p/i-let-ai-fix-my-printer",
-      "image": "",
-      "date": "2026-02-14T02:27:10+00:00"
-    },
-    {
-      "title": "AI Is (Finally) Bursting [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=yYe9YrdyJNQ Comments URL: https://news.ycombinator.com/item?id=47010839 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=yYe9YrdyJNQ",
-      "image": "",
-      "date": "2026-02-14T02:16:27+00:00"
+      "title": "Inference Providers Cut AI Costs by 10x with Open Source Models on Blackwell",
+      "summary": "Article URL: https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/ Comments URL: https://news.ycombinator.com/item?id=47019849 Points: 4 # Comments: 0",
+      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/02/inference-press-moe-x-tokenomics-think-smart-blog-4779150-1280x680-1.jpg",
+      "date": "2026-02-15T00:21:15+00:00"
     }
   ]
 }
