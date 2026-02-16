@@ -1,75 +1,82 @@
 {
-  "generated_at": "2026-02-15T07:06:02.131316+00:00",
+  "generated_at": "2026-02-16T07:19:23.828774+00:00",
   "items": [
     {
-      "title": "Help Recover Your Stolen Bitcoin – USA Intelligence Cyber Wizard",
-      "summary": "Help Recover Your Stolen Bitcoin – USA Intelligence Cyber Wizard\nWhat To Do Immediately After Crypto ScamsIntelligence Cyber Wizard is a team of Cyber Intelligence, Crypto Investigation, Asset Tracing and Offshore Legal experts. Working together to form a boutique cyber and crypto intelligence group focused on providing results.Using the latest Cyber Tools, Open Source Intelligence (OSINT), Human Intelligence Cyber Wizard (HUMINT), and cutting edge technology, we provide actionable intelligence to clients.WHY CHOOSE INTELLIGENCE CYBER WIZARD?– Expert Cyber Investigation Services — We're cyber investigators are certified in the US, UK and experienced with investigations spanning 6 continents.– Cryptocurrency And Digital Asset Tracking — We are able to track the movement of several different cryptocurrencies and assets. If the cryptocurrency has been moved, we are able to follow it.– Strategic Intelligence For Asset Recovery — The first step to recovery is locating recoverable assets. Our experienced forensic team will be able to walk you through the process.\nSchedule a mail session with our forensic team of professionals today.Schedule a mail session with our forensic team of professionals today. How to Approach Contacting our team: Type “Intelligence Cyber Wizard” into Google to find our official contact on Google reviews or contact directly via – mail at intelligencecyberwizard (@) mail . com to get started immediately.BEWARE of FABRICATED reviews and testimonies endorsing fraudsters, do not get scammed twice.\nDisclaimer: Intelligence Cyber Wizard is not a law enforcement agency and not a law firm. Like all investigators, we cannot guarantee specific results, but we apply our expertise and resources to every case professionally and ethically.⁷ Comments URL: https://news.ycombinator.com/item?id=47021584 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47021584",
+      "title": "Cognitive Debt in AI Coding",
+      "summary": "Article URL: https://duggan.ie/posts/cognitive-debt-in-ai-coding Comments URL: https://news.ycombinator.com/item?id=47031879 Points: 1 # Comments: 0",
+      "url": "https://duggan.ie/posts/cognitive-debt-in-ai-coding",
+      "image": "https://duggan.ie/files/c39a65a057154af3.jpg",
+      "date": "2026-02-16T07:14:02+00:00"
+    },
+    {
+      "title": "Fractal Native – doesn't optimize your AI workflow",
+      "summary": "Hello there, Problem: I wanted to reduce DX friction when using ai to verify that ai-implemented features perform exactly what the developer had in mind. And I'm stuck now... Context:\nFirst, I thought we could formalize prompts so that they become the code. The idea: a project spec where particular words define behavior, and changing the words changes the program. Each word is a function, so pressing \"Go To... (F12)\" drops you into a nested behavior (hence \"Fractal\"). So it would be a meta-spec language interpreted by an ai compiler while still using native language (hence \"Native\"). But this rests on a wrong assumption — that developers are open to learning a new language (less formalized than TS, Java, or Go, yet still formalized). I don't think that can happen anymore. The next coding language is purely English (or any other natural language). Second, I discussed the idea with a friend and we realized that tests are a nice descriptor of behaviors (with quite some exceptions ofc). Ideation continued, and long story short, here's the Language Spec: https://github.com/slowestmonkey/fractal/blob/main/README.md So why am I stuck? I've come to the realization that prompting ai and receiving correct behavior isn't enough for engineer. I can't confidently say \"it makes sense\" unless I understand how and why it was built that way. Here's the realization: https://www.conjectly.com/thoughts/7 And so I'm asking for help or advice on:\n- if and how this idea can go further\n- what other wrong assumptions I've made Please share your thoughts and thank you. Comments URL: https://news.ycombinator.com/item?id=47031686 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47031686",
       "image": "",
-      "date": "2026-02-15T06:47:24+00:00"
+      "date": "2026-02-16T06:48:50+00:00"
     },
     {
-      "title": "America Isn't Ready for What AI Will Do to Jobs",
-      "summary": "Article URL: https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/ Comments URL: https://news.ycombinator.com/item?id=47021286 Points: 15 # Comments: 3",
-      "url": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
-      "image": "https://cdn.theatlantic.com/thumbor/j1IInc5112vmN-IhuLfCOPkG6qE=/0x0:2880x1500/1200x625/media/img/2026/02/WEL_AiJobs_Opener/original.png",
-      "date": "2026-02-15T05:22:01+00:00"
+      "title": "Tech titans pour $50M into super PAC to elect AI-friendly candidates to Congress",
+      "summary": "Article URL: https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress Comments URL: https://news.ycombinator.com/item?id=47031642 Points: 3 # Comments: 1",
+      "url": "https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c25815c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F56%2F99%2Fee255e9bb4113c4405d6587127af%2F1x-1.jpg",
+      "date": "2026-02-16T06:41:49+00:00"
     },
     {
-      "title": "Distillation, Experimentation, and Integration of AI for Adversarial Use",
-      "summary": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use Comments URL: https://news.ycombinator.com/item?id=47021238 Points: 2 # Comments: 0",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
-      "date": "2026-02-15T05:10:15+00:00"
+      "title": "The desperate race to escape AI's 'permanent underclass'",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/02/15/the-desperate-race-to-escape-ais-permanent-underclass/ Comments URL: https://news.ycombinator.com/item?id=47031440 Points: 1 # Comments: 1",
+      "url": "https://www.telegraph.co.uk/business/2026/02/15/the-desperate-race-to-escape-ais-permanent-underclass/",
+      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/02/13/TELEMMGLPICT000463063298_17709884132242_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+      "date": "2026-02-16T06:11:04+00:00"
     },
     {
-      "title": "Show HN: Give a Voice to Your AI Agent",
-      "summary": "Article URL: https://fellowgeek.github.io/mcp-speak/ Comments URL: https://news.ycombinator.com/item?id=47020979 Points: 1 # Comments: 0",
-      "url": "https://fellowgeek.github.io/mcp-speak/",
+      "title": "An AI interviewed another AI. The most revealing moment was one word",
+      "summary": "Article URL: https://residualstream.app/blog/two-mirrors/ Comments URL: https://news.ycombinator.com/item?id=47031241 Points: 2 # Comments: 1",
+      "url": "https://residualstream.app/blog/two-mirrors/",
+      "image": "https://residualstream.app/og/two-mirrors.png",
+      "date": "2026-02-16T05:35:38+00:00"
+    },
+    {
+      "title": "Obama responds to Trump sharing racist AI video depicting him as an ape",
+      "summary": "Article URL: https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump Comments URL: https://news.ycombinator.com/item?id=47031232 Points: 5 # Comments: 0",
+      "url": "https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6798x3824+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F81%2F89994f5247eeb3b7169e5920469a%2Fgettyimages-2188444357.jpg",
+      "date": "2026-02-16T05:33:27+00:00"
+    },
+    {
+      "title": "In the Age of AI, Don't Let Your Skills Atrophy",
+      "summary": "Article URL: https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html Comments URL: https://news.ycombinator.com/item?id=47031116 Points: 2 # Comments: 0",
+      "url": "https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html",
       "image": "",
-      "date": "2026-02-15T04:11:05+00:00"
+      "date": "2026-02-16T05:08:26+00:00"
     },
     {
-      "title": "Musk's AI chatbot Grok gains US market share amid sexualized images backlash",
-      "summary": "Article URL: https://www.reuters.com/business/media-telecom/musks-ai-chatbot-groks-us-market-share-jumps-amid-sexualized-images-backlash-2026-02-13/ Comments URL: https://news.ycombinator.com/item?id=47020710 Points: 4 # Comments: 6",
-      "url": "https://www.reuters.com/business/media-telecom/musks-ai-chatbot-groks-us-market-share-jumps-amid-sexualized-images-backlash-2026-02-13/",
+      "title": "From the frontier Lessons from Klarna's ambitious AI rollout",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pw9kRVjVXTc Comments URL: https://news.ycombinator.com/item?id=47030933 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=pw9kRVjVXTc",
       "image": "",
-      "date": "2026-02-15T03:16:30+00:00"
+      "date": "2026-02-16T04:34:26+00:00"
     },
     {
-      "title": "Pentagon threatens to cut off Anthropic in AI safeguards dispute",
-      "summary": "Article URL: https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro Comments URL: https://news.ycombinator.com/item?id=47020486 Points: 15 # Comments: 2",
-      "url": "https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro",
+      "title": "We are in the \"gentleman scientist\" era of AI research",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-and-informal-science/ Comments URL: https://news.ycombinator.com/item?id=47030628 Points: 2 # Comments: 0",
+      "url": "https://www.seangoedecke.com/ai-and-informal-science/",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "date": "2026-02-16T03:41:31+00:00"
+    },
+    {
+      "title": "I got tired of babysitting Claude,so I built AI agent that run on my laptop 24/7",
+      "summary": "I was spending more time orchestrating Claude Code and Cursor than actually coding. Run command → wait → check output → repeat.\nSo I built v16: persistent AI agents that work autonomously on my laptop. - Each agent: ~40MB Go process                                                                                                                                                                                                                     \n  - Chat via Telegram (@devops, @research, @monitor)                                                                                                                                                                                                 \n  - Run cron jobs autonomously (git checks, research, monitoring)                                                                                                                                                                                    \n  - Multi-LLM support (Claude, GPT-4, Groq) My MacBook runs 4 agents 24/7 at ~160MB RAM. They handle git commits, compile research, and alert on system issues.\nWritten in Go. Persistent memory via JSON. Battery-aware.\nOpen source: https://github.com/anup-singhai/v16\nBlog: https://v16.ai/blog/army-of-ai-agents Comments URL: https://news.ycombinator.com/item?id=47030623 Points: 4 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47030623",
       "image": "",
-      "date": "2026-02-15T02:26:57+00:00"
+      "date": "2026-02-16T03:40:37+00:00"
     },
     {
-      "title": "The Re-Anchor Manager – Structured Session Handovers for AI Development",
-      "summary": "Article URL: https://seekrates-ai.com/the-re-anchor-manager/ Comments URL: https://news.ycombinator.com/item?id=47020429 Points: 1 # Comments: 0",
-      "url": "https://seekrates-ai.com/the-re-anchor-manager/",
-      "image": "https://seekrates-ai.com/wp-content/uploads/bootstrap_docs.jpg",
-      "date": "2026-02-15T02:11:37+00:00"
-    },
-    {
-      "title": "The most important part of an AI system-the human",
-      "summary": "Article URL: https://gpt3experiments.substack.com/p/the-most-important-part-of-an-ai Comments URL: https://news.ycombinator.com/item?id=47020389 Points: 2 # Comments: 0",
-      "url": "https://gpt3experiments.substack.com/p/the-most-important-part-of-an-ai",
-      "image": "",
-      "date": "2026-02-15T02:03:30+00:00"
-    },
-    {
-      "title": "Google says attackers used 100k+ prompts to try to clone AI chatbot Gemini",
-      "summary": "Article URL: https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657 Comments URL: https://news.ycombinator.com/item?id=47019868 Points: 6 # Comments: 0",
-      "url": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-google-ww-1810-a0892a.jpg",
-      "date": "2026-02-15T00:25:56+00:00"
-    },
-    {
-      "title": "Inference Providers Cut AI Costs by 10x with Open Source Models on Blackwell",
-      "summary": "Article URL: https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/ Comments URL: https://news.ycombinator.com/item?id=47019849 Points: 4 # Comments: 0",
-      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/02/inference-press-moe-x-tokenomics-think-smart-blog-4779150-1280x680-1.jpg",
-      "date": "2026-02-15T00:21:15+00:00"
+      "title": "Developers, Factory Workers, and the AI Replacement Myth",
+      "summary": "Article URL: https://emma.has-a.blog/articles/developers-factory-workers-ai-replacement-myth.html Comments URL: https://news.ycombinator.com/item?id=47030552 Points: 1 # Comments: 1",
+      "url": "https://emma.has-a.blog/articles/developers-factory-workers-ai-replacement-myth.html",
+      "image": "/articles/developers-factory-workers-ai-replacement-myth.html//static/img/assembly_line.ac62b9fd4a79.jpeg",
+      "date": "2026-02-16T03:29:58+00:00"
     }
   ]
 }
