@@ -1,82 +1,110 @@
 {
-  "generated_at": "2026-02-16T07:19:23.828774+00:00",
+  "generated_at": "2026-02-17T07:14:27.579068+00:00",
   "items": [
     {
-      "title": "Cognitive Debt in AI Coding",
-      "summary": "Article URL: https://duggan.ie/posts/cognitive-debt-in-ai-coding Comments URL: https://news.ycombinator.com/item?id=47031879 Points: 1 # Comments: 0",
-      "url": "https://duggan.ie/posts/cognitive-debt-in-ai-coding",
-      "image": "https://duggan.ie/files/c39a65a057154af3.jpg",
-      "date": "2026-02-16T07:14:02+00:00"
-    },
-    {
-      "title": "Fractal Native – doesn't optimize your AI workflow",
-      "summary": "Hello there, Problem: I wanted to reduce DX friction when using ai to verify that ai-implemented features perform exactly what the developer had in mind. And I'm stuck now... Context:\nFirst, I thought we could formalize prompts so that they become the code. The idea: a project spec where particular words define behavior, and changing the words changes the program. Each word is a function, so pressing \"Go To... (F12)\" drops you into a nested behavior (hence \"Fractal\"). So it would be a meta-spec language interpreted by an ai compiler while still using native language (hence \"Native\"). But this rests on a wrong assumption — that developers are open to learning a new language (less formalized than TS, Java, or Go, yet still formalized). I don't think that can happen anymore. The next coding language is purely English (or any other natural language). Second, I discussed the idea with a friend and we realized that tests are a nice descriptor of behaviors (with quite some exceptions ofc). Ideation continued, and long story short, here's the Language Spec: https://github.com/slowestmonkey/fractal/blob/main/README.md So why am I stuck? I've come to the realization that prompting ai and receiving correct behavior isn't enough for engineer. I can't confidently say \"it makes sense\" unless I understand how and why it was built that way. Here's the realization: https://www.conjectly.com/thoughts/7 And so I'm asking for help or advice on:\n- if and how this idea can go further\n- what other wrong assumptions I've made Please share your thoughts and thank you. Comments URL: https://news.ycombinator.com/item?id=47031686 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47031686",
+      "title": "An economist explains why he's still 'bullish on America' – AI and all",
+      "summary": "Article URL: https://www.washingtonpost.com/podcasts/impromptu/an-economist-explains-why-hes-still-bullish-on-america--ai-and-all/ Comments URL: https://news.ycombinator.com/item?id=47044331 Points: 1 # Comments: 0",
+      "url": "https://www.washingtonpost.com/podcasts/impromptu/an-economist-explains-why-hes-still-bullish-on-america--ai-and-all/",
       "image": "",
-      "date": "2026-02-16T06:48:50+00:00"
+      "date": "2026-02-17T06:27:34+00:00"
     },
     {
-      "title": "Tech titans pour $50M into super PAC to elect AI-friendly candidates to Congress",
-      "summary": "Article URL: https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress Comments URL: https://news.ycombinator.com/item?id=47031642 Points: 3 # Comments: 1",
-      "url": "https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/c25815c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F56%2F99%2Fee255e9bb4113c4405d6587127af%2F1x-1.jpg",
-      "date": "2026-02-16T06:41:49+00:00"
+      "title": "Fujitsu AI-Driven Software Development Platform",
+      "summary": "Article URL: https://global.fujitsu/en-global/pr/news/2026/02/17-01 Comments URL: https://news.ycombinator.com/item?id=47044280 Points: 1 # Comments: 1",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/02/17-01",
+      "image": "https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/2026/02/17-01/news-20260217-01th.png?rev=06c466bd8ac14732a2ff3eff27b55e3b",
+      "date": "2026-02-17T06:15:14+00:00"
     },
     {
-      "title": "The desperate race to escape AI's 'permanent underclass'",
-      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/02/15/the-desperate-race-to-escape-ais-permanent-underclass/ Comments URL: https://news.ycombinator.com/item?id=47031440 Points: 1 # Comments: 1",
-      "url": "https://www.telegraph.co.uk/business/2026/02/15/the-desperate-race-to-escape-ais-permanent-underclass/",
-      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/02/13/TELEMMGLPICT000463063298_17709884132242_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-      "date": "2026-02-16T06:11:04+00:00"
+      "title": "The AI productivity take-off is finally visible (Erik Brynjolfsson)",
+      "summary": "Article URL: https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5 Comments URL: https://news.ycombinator.com/item?id=47044174 Points: 2 # Comments: 0",
+      "url": "https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13d292ac-f0ce-479d-a54b-a938b2224940.jpg?source=next-barrier-page",
+      "date": "2026-02-17T05:53:00+00:00"
     },
     {
-      "title": "An AI interviewed another AI. The most revealing moment was one word",
-      "summary": "Article URL: https://residualstream.app/blog/two-mirrors/ Comments URL: https://news.ycombinator.com/item?id=47031241 Points: 2 # Comments: 1",
-      "url": "https://residualstream.app/blog/two-mirrors/",
-      "image": "https://residualstream.app/og/two-mirrors.png",
-      "date": "2026-02-16T05:35:38+00:00"
+      "title": "AI Agents and the Rise of Judgment-Powered Software",
+      "summary": "Article URL: https://www.digitvibe.com/ai-agents-and-the-rise-of-judgment-powered-software/ Comments URL: https://news.ycombinator.com/item?id=47044161 Points: 2 # Comments: 0",
+      "url": "https://www.digitvibe.com/ai-agents-and-the-rise-of-judgment-powered-software/",
+      "image": "https://www.digitvibe.com/content/images/size/w1200/2026/02/Cyborg-Eve-with-Apple-ChatGPT-Image-Jan-21--2026--11_39_33-PM.png",
+      "date": "2026-02-17T05:50:45+00:00"
     },
     {
-      "title": "Obama responds to Trump sharing racist AI video depicting him as an ape",
-      "summary": "Article URL: https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump Comments URL: https://news.ycombinator.com/item?id=47031232 Points: 5 # Comments: 0",
-      "url": "https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6798x3824+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F81%2F89994f5247eeb3b7169e5920469a%2Fgettyimages-2188444357.jpg",
-      "date": "2026-02-16T05:33:27+00:00"
-    },
-    {
-      "title": "In the Age of AI, Don't Let Your Skills Atrophy",
-      "summary": "Article URL: https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html Comments URL: https://news.ycombinator.com/item?id=47031116 Points: 2 # Comments: 0",
-      "url": "https://www.cyberdemon.org/2023/03/29/age-of-ai-skill-atrophy.html",
+      "title": "My first blog post: On the Conversational AI Audio Pipeline",
+      "summary": "Article URL: https://www.wallacecorp.ai/content Comments URL: https://news.ycombinator.com/item?id=47044157 Points: 2 # Comments: 3",
+      "url": "https://www.wallacecorp.ai/content",
       "image": "",
-      "date": "2026-02-16T05:08:26+00:00"
+      "date": "2026-02-17T05:49:52+00:00"
     },
     {
-      "title": "From the frontier Lessons from Klarna's ambitious AI rollout",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pw9kRVjVXTc Comments URL: https://news.ycombinator.com/item?id=47030933 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=pw9kRVjVXTc",
+      "title": "The AI Trilemma",
+      "summary": "Article URL: https://www.foreignaffairs.com/united-states/ai-trilemma Comments URL: https://news.ycombinator.com/item?id=47044058 Points: 4 # Comments: 1",
+      "url": "https://www.foreignaffairs.com/united-states/ai-trilemma",
+      "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/02/12/2026-02-04T134546Z_986983091_RC2YEJAIE0NK_RTRMADP_3_GERMANY-TELEKOM-DATA-CENTRE.JPG?itok=xQyPztSP",
+      "date": "2026-02-17T05:34:53+00:00"
+    },
+    {
+      "title": "Show HN: AI ID Photo – Generate passport/ID photos from selfies",
+      "summary": "Article URL: https://apps.apple.com/kr/app/%EB%AC%B4%EB%A3%8C-%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84-%EC%83%9D%EC%84%B1%EA%B8%B0/id6757347352 Comments URL: https://news.ycombinator.com/item?id=47044048 Points: 1 # Comments: 5",
+      "url": "https://apps.apple.com/kr/app/%EB%AC%B4%EB%A3%8C-%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84-%EC%83%9D%EC%84%B1%EA%B8%B0/id6757347352",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/02/b9/b002b914-8d29-a019-7786-9258fc006a4c/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-02-17T05:34:07+00:00"
+    },
+    {
+      "title": "Hunterizer: Hunting layer intelligence for season,zone and land-status awareness",
+      "summary": "Article URL: https://hunterizer.com/apps/seasons/ Comments URL: https://news.ycombinator.com/item?id=47044020 Points: 1 # Comments: 1",
+      "url": "https://hunterizer.com/apps/seasons/",
+      "image": "https://hunterizer.com/wp-content/uploads/2025/05/Season-App-Header-1.png",
+      "date": "2026-02-17T05:30:05+00:00"
+    },
+    {
+      "title": "FutureEval: Measuring the Forecasting Accuracy of AI",
+      "summary": "Article URL: https://www.metaculus.com/futureeval/ Comments URL: https://news.ycombinator.com/item?id=47043966 Points: 1 # Comments: 0",
+      "url": "https://www.metaculus.com/futureeval/",
       "image": "",
-      "date": "2026-02-16T04:34:26+00:00"
+      "date": "2026-02-17T05:18:27+00:00"
     },
     {
-      "title": "We are in the \"gentleman scientist\" era of AI research",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-and-informal-science/ Comments URL: https://news.ycombinator.com/item?id=47030628 Points: 2 # Comments: 0",
-      "url": "https://www.seangoedecke.com/ai-and-informal-science/",
-      "image": "https://www.seangoedecke.com/og-image.jpg",
-      "date": "2026-02-16T03:41:31+00:00"
+      "title": "Unity says its AI tech will be able to prompt full casual games into existence",
+      "summary": "Article URL: https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence- Comments URL: https://news.ycombinator.com/item?id=47043940 Points: 3 # Comments: 1",
+      "url": "https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence-",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt416000ed89b80720/69934f2aeac83e0008690b71/Unity_AI_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+      "date": "2026-02-17T05:14:54+00:00"
     },
     {
-      "title": "I got tired of babysitting Claude,so I built AI agent that run on my laptop 24/7",
-      "summary": "I was spending more time orchestrating Claude Code and Cursor than actually coding. Run command → wait → check output → repeat.\nSo I built v16: persistent AI agents that work autonomously on my laptop. - Each agent: ~40MB Go process                                                                                                                                                                                                                     \n  - Chat via Telegram (@devops, @research, @monitor)                                                                                                                                                                                                 \n  - Run cron jobs autonomously (git checks, research, monitoring)                                                                                                                                                                                    \n  - Multi-LLM support (Claude, GPT-4, Groq) My MacBook runs 4 agents 24/7 at ~160MB RAM. They handle git commits, compile research, and alert on system issues.\nWritten in Go. Persistent memory via JSON. Battery-aware.\nOpen source: https://github.com/anup-singhai/v16\nBlog: https://v16.ai/blog/army-of-ai-agents Comments URL: https://news.ycombinator.com/item?id=47030623 Points: 4 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47030623",
+      "title": "Microsoft posts a bad AI remake of the Git flow diagram",
+      "summary": "Microsoft learning site (look under “Git flow”: https://learn.microsoft.com/en-us/training/modules/introduction-to-github/3-components-of-github-flow Original: https://nvie.com/posts/a-successful-git-branching-model/ Comments URL: https://news.ycombinator.com/item?id=47043915 Points: 1 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47043915",
       "image": "",
-      "date": "2026-02-16T03:40:37+00:00"
+      "date": "2026-02-17T05:11:52+00:00"
     },
     {
-      "title": "Developers, Factory Workers, and the AI Replacement Myth",
-      "summary": "Article URL: https://emma.has-a.blog/articles/developers-factory-workers-ai-replacement-myth.html Comments URL: https://news.ycombinator.com/item?id=47030552 Points: 1 # Comments: 1",
-      "url": "https://emma.has-a.blog/articles/developers-factory-workers-ai-replacement-myth.html",
-      "image": "/articles/developers-factory-workers-ai-replacement-myth.html//static/img/assembly_line.ac62b9fd4a79.jpeg",
-      "date": "2026-02-16T03:29:58+00:00"
+      "title": "The tech bros might show more humility in Delhi – will they make AI any safer?",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cr5l6gnen72o Comments URL: https://news.ycombinator.com/item?id=47043885 Points: 1 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/cr5l6gnen72o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
+      "date": "2026-02-17T05:04:42+00:00"
+    },
+    {
+      "title": "A Startling Play About AI Authoritarianism",
+      "summary": "Article URL: https://www.nytimes.com/2026/02/16/opinion/play-ai-authoritarianism.html Comments URL: https://news.ycombinator.com/item?id=47043801 Points: 1 # Comments: 0",
+      "url": "https://www.nytimes.com/2026/02/16/opinion/play-ai-authoritarianism.html",
+      "image": "",
+      "date": "2026-02-17T04:47:04+00:00"
+    },
+    {
+      "title": "Poll: Are you writing the majority of your code by hand or with an AI agent?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47043735 Points: 2 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=47043735",
+      "image": "",
+      "date": "2026-02-17T04:33:20+00:00"
+    },
+    {
+      "title": "Will Chinese 'involution' do to robots and AI what it's done to EVs?",
+      "summary": "Article URL: https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0 Comments URL: https://news.ycombinator.com/item?id=47043684 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd0a61b2-2db8-4a5e-a3b1-f08b6f783626.jpg?source=next-barrier-page",
+      "date": "2026-02-17T04:21:58+00:00"
     }
   ]
 }
