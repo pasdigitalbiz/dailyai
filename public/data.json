@@ -1,110 +1,75 @@
 {
-  "generated_at": "2026-02-17T07:14:27.579068+00:00",
+  "generated_at": "2026-02-18T07:15:25.380205+00:00",
   "items": [
     {
-      "title": "An economist explains why he's still 'bullish on America' – AI and all",
-      "summary": "Article URL: https://www.washingtonpost.com/podcasts/impromptu/an-economist-explains-why-hes-still-bullish-on-america--ai-and-all/ Comments URL: https://news.ycombinator.com/item?id=47044331 Points: 1 # Comments: 0",
-      "url": "https://www.washingtonpost.com/podcasts/impromptu/an-economist-explains-why-hes-still-bullish-on-america--ai-and-all/",
+      "title": "The AI War Is Over. Google Won",
+      "summary": "Article URL: https://www.youtube.com/watch?v=hcE0NPYlo1w Comments URL: https://news.ycombinator.com/item?id=47057539 Points: 2 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=hcE0NPYlo1w",
       "image": "",
-      "date": "2026-02-17T06:27:34+00:00"
+      "date": "2026-02-18T05:31:42+00:00"
     },
     {
-      "title": "Fujitsu AI-Driven Software Development Platform",
-      "summary": "Article URL: https://global.fujitsu/en-global/pr/news/2026/02/17-01 Comments URL: https://news.ycombinator.com/item?id=47044280 Points: 1 # Comments: 1",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/02/17-01",
-      "image": "https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/2026/02/17-01/news-20260217-01th.png?rev=06c466bd8ac14732a2ff3eff27b55e3b",
-      "date": "2026-02-17T06:15:14+00:00"
+      "title": "AI Story Generator with Pictures",
+      "summary": "Article URL: https://www.genstory.app/ai-story-generator Comments URL: https://news.ycombinator.com/item?id=47057298 Points: 1 # Comments: 1",
+      "url": "https://www.genstory.app/ai-story-generator",
+      "image": "https://genstory.app/og-image.png?v=2",
+      "date": "2026-02-18T04:51:26+00:00"
     },
     {
-      "title": "The AI productivity take-off is finally visible (Erik Brynjolfsson)",
-      "summary": "Article URL: https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5 Comments URL: https://news.ycombinator.com/item?id=47044174 Points: 2 # Comments: 0",
-      "url": "https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13d292ac-f0ce-479d-a54b-a938b2224940.jpg?source=next-barrier-page",
-      "date": "2026-02-17T05:53:00+00:00"
-    },
-    {
-      "title": "AI Agents and the Rise of Judgment-Powered Software",
-      "summary": "Article URL: https://www.digitvibe.com/ai-agents-and-the-rise-of-judgment-powered-software/ Comments URL: https://news.ycombinator.com/item?id=47044161 Points: 2 # Comments: 0",
-      "url": "https://www.digitvibe.com/ai-agents-and-the-rise-of-judgment-powered-software/",
-      "image": "https://www.digitvibe.com/content/images/size/w1200/2026/02/Cyborg-Eve-with-Apple-ChatGPT-Image-Jan-21--2026--11_39_33-PM.png",
-      "date": "2026-02-17T05:50:45+00:00"
-    },
-    {
-      "title": "My first blog post: On the Conversational AI Audio Pipeline",
-      "summary": "Article URL: https://www.wallacecorp.ai/content Comments URL: https://news.ycombinator.com/item?id=47044157 Points: 2 # Comments: 3",
-      "url": "https://www.wallacecorp.ai/content",
+      "title": "Ask HN: Is the definition of AI that it can fool people?",
+      "summary": "Is AI still defined by the Turing Test? Doesn't the Turing Test determine only if a machine can fool people into thinking it is intelligent? If fooling people is the defining characteristic of AI, am I a fool to think that AI can produce work of concrete (non-foolish) value? Comments URL: https://news.ycombinator.com/item?id=47057219 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47057219",
       "image": "",
-      "date": "2026-02-17T05:49:52+00:00"
+      "date": "2026-02-18T04:37:26+00:00"
     },
     {
-      "title": "The AI Trilemma",
-      "summary": "Article URL: https://www.foreignaffairs.com/united-states/ai-trilemma Comments URL: https://news.ycombinator.com/item?id=47044058 Points: 4 # Comments: 1",
-      "url": "https://www.foreignaffairs.com/united-states/ai-trilemma",
-      "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/02/12/2026-02-04T134546Z_986983091_RC2YEJAIE0NK_RTRMADP_3_GERMANY-TELEKOM-DATA-CENTRE.JPG?itok=xQyPztSP",
-      "date": "2026-02-17T05:34:53+00:00"
+      "title": "If AI Agents Do the Work, Who Pays for the Seat?",
+      "summary": "Article URL: https://www.linkedin.com/pulse/ai-agents-do-work-who-pays-seat-c-max-magee-eygwe Comments URL: https://news.ycombinator.com/item?id=47057154 Points: 2 # Comments: 0",
+      "url": "https://www.linkedin.com/pulse/ai-agents-do-work-who-pays-seat-c-max-magee-eygwe",
+      "image": "https://media.licdn.com/dms/image/v2/D4E12AQHS_wM3bH7AUg/article-cover_image-shrink_720_1280/B4EZxtXHSkJoAI-/0/1771361305415?e=2147483647&v=beta&t=PGJnIMFLGpQYoVfSzESiARhZJjCV678DSjLxQYXBhmk",
+      "date": "2026-02-18T04:26:11+00:00"
     },
     {
-      "title": "Show HN: AI ID Photo – Generate passport/ID photos from selfies",
-      "summary": "Article URL: https://apps.apple.com/kr/app/%EB%AC%B4%EB%A3%8C-%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84-%EC%83%9D%EC%84%B1%EA%B8%B0/id6757347352 Comments URL: https://news.ycombinator.com/item?id=47044048 Points: 1 # Comments: 5",
-      "url": "https://apps.apple.com/kr/app/%EB%AC%B4%EB%A3%8C-%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84-%EC%83%9D%EC%84%B1%EA%B8%B0/id6757347352",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/02/b9/b002b914-8d29-a019-7786-9258fc006a4c/Placeholder.mill/1200x630wa.jpg",
-      "date": "2026-02-17T05:34:07+00:00"
+      "title": "Stop building generic AI chatbots: 45% of support leaders are ahead",
+      "summary": "Article URL: https://ideatolaunch.co/blog/why-the-world-doesn-t-need-another-generic-ai-chatbot-and-how-to-build-one-peopl-mlpqrtft Comments URL: https://news.ycombinator.com/item?id=47056929 Points: 2 # Comments: 0",
+      "url": "https://ideatolaunch.co/blog/why-the-world-doesn-t-need-another-generic-ai-chatbot-and-how-to-build-one-peopl-mlpqrtft",
+      "image": "https://ideatolaunch.co/og-home.png",
+      "date": "2026-02-18T03:50:16+00:00"
     },
     {
-      "title": "Hunterizer: Hunting layer intelligence for season,zone and land-status awareness",
-      "summary": "Article URL: https://hunterizer.com/apps/seasons/ Comments URL: https://news.ycombinator.com/item?id=47044020 Points: 1 # Comments: 1",
-      "url": "https://hunterizer.com/apps/seasons/",
-      "image": "https://hunterizer.com/wp-content/uploads/2025/05/Season-App-Header-1.png",
-      "date": "2026-02-17T05:30:05+00:00"
-    },
-    {
-      "title": "FutureEval: Measuring the Forecasting Accuracy of AI",
-      "summary": "Article URL: https://www.metaculus.com/futureeval/ Comments URL: https://news.ycombinator.com/item?id=47043966 Points: 1 # Comments: 0",
-      "url": "https://www.metaculus.com/futureeval/",
+      "title": "Show HN: AI pentester – verified exploits, $999/assessment",
+      "summary": "I spent 20 years in security, most recently leading 100+ engineers at AWS building pentesting infrastructure across thousands of services. The same problem everywhere: pentests take weeks, cost $15-50k, and the results are stale before they ship. I built Cipher to fix that. It's an AI agent that reasons like an attacker — maps the target, finds vulnerabilities, chains them into exploits, and proves they're real. Every finding ships with a reproducible Python script. If the script doesn't break your system, we don't report it. How it works: Cipher defines security invariants (\"User A can't access User B's data\"), then multiple agents attack in parallel to violate them. A separate judge agent tries to disprove every finding — if it can't reproduce the exploit 3 times, the finding dies. You never see it. $999 per assessment. Results in ~2 hours. Unlimited retesting. Honest limitations: complex multi-step auth flows (SSO with MFA) still need manual setup like providing JWT credentials. We're working on it. I'll run Cipher free for the first 15 HN readers who want to try it. Drop your email or sign up at https://apxlabs.ai/ . Happy to answer any questions about the approach. Comments URL: https://news.ycombinator.com/item?id=47056759 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47056759",
       "image": "",
-      "date": "2026-02-17T05:18:27+00:00"
+      "date": "2026-02-18T03:23:08+00:00"
     },
     {
-      "title": "Unity says its AI tech will be able to prompt full casual games into existence",
-      "summary": "Article URL: https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence- Comments URL: https://news.ycombinator.com/item?id=47043940 Points: 3 # Comments: 1",
-      "url": "https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence-",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt416000ed89b80720/69934f2aeac83e0008690b71/Unity_AI_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-      "date": "2026-02-17T05:14:54+00:00"
+      "title": "Show HN: Rot – Financial Intelligence MCP Server",
+      "summary": "Built an MCP server that turns Reddit sentiment into options signals. 185k LOC, 9-stage AI pipeline, now live with 90 users on just day 1. Wall Street pays millions for retail sentiment data. It's free on Reddit. I realized: instead of another dashboard, just expose it as an MCP tool. Users ask Claude \"what's unusual in options right now\" and get structured signals instantly. Results: 9,000 GitHub clones in 5 days, 52% win rate on 50 live trades (backtest was 58.8% on 129 trades—classic overfitting), 18.4% visitor→signup conversion. https://web-production-71423.up.railway.app/mcp-server Comments URL: https://news.ycombinator.com/item?id=47056745 Points: 2 # Comments: 0",
+      "url": "https://web-production-71423.up.railway.app/mcp-server",
+      "image": "http://web-production-71423.up.railway.app/og-image.svg",
+      "date": "2026-02-18T03:21:10+00:00"
     },
     {
-      "title": "Microsoft posts a bad AI remake of the Git flow diagram",
-      "summary": "Microsoft learning site (look under “Git flow”: https://learn.microsoft.com/en-us/training/modules/introduction-to-github/3-components-of-github-flow Original: https://nvie.com/posts/a-successful-git-branching-model/ Comments URL: https://news.ycombinator.com/item?id=47043915 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47043915",
+      "title": "A Guide to Which AI to Use in the Agentic Era",
+      "summary": "Article URL: https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the Comments URL: https://news.ycombinator.com/item?id=47056400 Points: 3 # Comments: 0",
+      "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+      "image": "https://substackcdn.com/image/fetch/$s_!O-pO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png",
+      "date": "2026-02-18T02:27:12+00:00"
+    },
+    {
+      "title": "The government wants AI doctors",
+      "summary": "Article URL: https://www.empirical.health/blog/the-government-wants-ai-doctors/ Comments URL: https://news.ycombinator.com/item?id=47056132 Points: 1 # Comments: 2",
+      "url": "https://www.empirical.health/blog/the-government-wants-ai-doctors/",
+      "image": "https://empirical.health/_astro/access-payments.DYIbc2X_.png",
+      "date": "2026-02-18T01:57:53+00:00"
+    },
+    {
+      "title": "The financialisation of AI is just beginning",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning Comments URL: https://news.ycombinator.com/item?id=47056097 Points: 3 # Comments: 1",
+      "url": "https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning",
       "image": "",
-      "date": "2026-02-17T05:11:52+00:00"
-    },
-    {
-      "title": "The tech bros might show more humility in Delhi – will they make AI any safer?",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cr5l6gnen72o Comments URL: https://news.ycombinator.com/item?id=47043885 Points: 1 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/cr5l6gnen72o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
-      "date": "2026-02-17T05:04:42+00:00"
-    },
-    {
-      "title": "A Startling Play About AI Authoritarianism",
-      "summary": "Article URL: https://www.nytimes.com/2026/02/16/opinion/play-ai-authoritarianism.html Comments URL: https://news.ycombinator.com/item?id=47043801 Points: 1 # Comments: 0",
-      "url": "https://www.nytimes.com/2026/02/16/opinion/play-ai-authoritarianism.html",
-      "image": "",
-      "date": "2026-02-17T04:47:04+00:00"
-    },
-    {
-      "title": "Poll: Are you writing the majority of your code by hand or with an AI agent?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47043735 Points: 2 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=47043735",
-      "image": "",
-      "date": "2026-02-17T04:33:20+00:00"
-    },
-    {
-      "title": "Will Chinese 'involution' do to robots and AI what it's done to EVs?",
-      "summary": "Article URL: https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0 Comments URL: https://news.ycombinator.com/item?id=47043684 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd0a61b2-2db8-4a5e-a3b1-f08b6f783626.jpg?source=next-barrier-page",
-      "date": "2026-02-17T04:21:58+00:00"
+      "date": "2026-02-18T01:52:35+00:00"
     }
   ]
 }
