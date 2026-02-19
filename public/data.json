@@ -1,75 +1,68 @@
 {
-  "generated_at": "2026-02-18T07:15:25.380205+00:00",
+  "generated_at": "2026-02-19T07:15:03.567131+00:00",
   "items": [
     {
-      "title": "The AI War Is Over. Google Won",
-      "summary": "Article URL: https://www.youtube.com/watch?v=hcE0NPYlo1w Comments URL: https://news.ycombinator.com/item?id=47057539 Points: 2 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=hcE0NPYlo1w",
+      "title": "Does open source have an AI slop problem? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=5uLHMdsjXBQ Comments URL: https://news.ycombinator.com/item?id=47070862 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=5uLHMdsjXBQ",
       "image": "",
-      "date": "2026-02-18T05:31:42+00:00"
+      "date": "2026-02-19T07:14:20+00:00"
     },
     {
-      "title": "AI Story Generator with Pictures",
-      "summary": "Article URL: https://www.genstory.app/ai-story-generator Comments URL: https://news.ycombinator.com/item?id=47057298 Points: 1 # Comments: 1",
-      "url": "https://www.genstory.app/ai-story-generator",
-      "image": "https://genstory.app/og-image.png?v=2",
-      "date": "2026-02-18T04:51:26+00:00"
-    },
-    {
-      "title": "Ask HN: Is the definition of AI that it can fool people?",
-      "summary": "Is AI still defined by the Turing Test? Doesn't the Turing Test determine only if a machine can fool people into thinking it is intelligent? If fooling people is the defining characteristic of AI, am I a fool to think that AI can produce work of concrete (non-foolish) value? Comments URL: https://news.ycombinator.com/item?id=47057219 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47057219",
+      "title": "Sayou – Open-source Dropbox for AI agents",
+      "summary": "success of openclaw is incredible, and I really loved playing with it, but of course the problem is the security risk running on my desktop. okay for personal use for fun, not at all for professional use. Once agents run in the cloud (and they will — you're not giving your marketing manager a terminal), they need somewhere to read and write. Right now there's nothing. Your company's knowledge is locked in Notion, Slack, Google Drive, and the agent can see none of it unless someone copy-pastes it into the chat window every single time. sayou is basically Dropbox for agents. It syncs your SaaS tools into a single workspace of versioned Markdown files, and any agent connects to it over MCP. Multiple agents share the same workspace. one does research and writes findings, another picks them up to draft a report, a third sends it over email. The human just makes decisions. Why files and not a database? Honestly we tried a database first. It sucked. Agents don't think in rows. When you ask an agent to research competitor pricing, the natural output is a document with sections and citations, not 15 entries in a table. Markdown with YAML frontmatter turned out to be the sweet spot — you get structured metadata for querying and rich content that both agents and humans can actually read. I also built a benchmark, Structured Agent Memory Benchmark(SAMB) to test how different memory systems like mem0 and zep compare to sayou in a real world scenario of agents running tasks. If you are writing code, stuff like \"why did we choose bcrypt over Argon2?\" and \"what changed between the first and second architecture review?\" — the kind of things you'd actually need an agent to recall. Results against Mem0 and Zep:\n\n  sayou    67.0%   (files + FTS5)\n  Mem0     18.5%   (embeddings)\n  Zep      14.2%   (knowledge graph)\n\n  3.6x. The biggest gap was on decision reasoning — 68% vs 8%. Turns out embedding similarity is great for vibes-based retrieval but terrible when you need a specific paragraph from a specific document. Files with full-text search let agents grep, read sections, and follow references. Simple and it works. Honestly it is my first time building a benchmark so i would love other engineers to try sayou as their agent memory system, but also try to compare sayou fairly for agent task completions. \nIf you're building agents that need to persist and share knowledge, please take a look at sayou's opensource project at  https://github.com/pixell-global/sayou Comments URL: https://news.ycombinator.com/item?id=47070584 Points: 6 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47070584",
       "image": "",
-      "date": "2026-02-18T04:37:26+00:00"
+      "date": "2026-02-19T06:31:51+00:00"
     },
     {
-      "title": "If AI Agents Do the Work, Who Pays for the Seat?",
-      "summary": "Article URL: https://www.linkedin.com/pulse/ai-agents-do-work-who-pays-seat-c-max-magee-eygwe Comments URL: https://news.ycombinator.com/item?id=47057154 Points: 2 # Comments: 0",
-      "url": "https://www.linkedin.com/pulse/ai-agents-do-work-who-pays-seat-c-max-magee-eygwe",
-      "image": "https://media.licdn.com/dms/image/v2/D4E12AQHS_wM3bH7AUg/article-cover_image-shrink_720_1280/B4EZxtXHSkJoAI-/0/1771361305415?e=2147483647&v=beta&t=PGJnIMFLGpQYoVfSzESiARhZJjCV678DSjLxQYXBhmk",
-      "date": "2026-02-18T04:26:11+00:00"
+      "title": "Security audit of OpenClaw and other similar open source AI Agents",
+      "summary": "Article URL: https://www.prismor.dev/blog/openclaw-ai-agents-security-audit Comments URL: https://news.ycombinator.com/item?id=47070200 Points: 5 # Comments: 1",
+      "url": "https://www.prismor.dev/blog/openclaw-ai-agents-security-audit",
+      "image": "https://prismor.dev/blog/og",
+      "date": "2026-02-19T05:18:24+00:00"
     },
     {
-      "title": "Stop building generic AI chatbots: 45% of support leaders are ahead",
-      "summary": "Article URL: https://ideatolaunch.co/blog/why-the-world-doesn-t-need-another-generic-ai-chatbot-and-how-to-build-one-peopl-mlpqrtft Comments URL: https://news.ycombinator.com/item?id=47056929 Points: 2 # Comments: 0",
-      "url": "https://ideatolaunch.co/blog/why-the-world-doesn-t-need-another-generic-ai-chatbot-and-how-to-build-one-peopl-mlpqrtft",
-      "image": "https://ideatolaunch.co/og-home.png",
-      "date": "2026-02-18T03:50:16+00:00"
+      "title": "Building an Elite AI Engineering Culture in 2026",
+      "summary": "Article URL: https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture Comments URL: https://news.ycombinator.com/item?id=47070173 Points: 2 # Comments: 3",
+      "url": "https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture",
+      "image": "https://www.cjroth.com/og/blog/2026-02-18-building-an-elite-engineering-culture/image.png",
+      "date": "2026-02-19T05:13:45+00:00"
     },
     {
-      "title": "Show HN: AI pentester – verified exploits, $999/assessment",
-      "summary": "I spent 20 years in security, most recently leading 100+ engineers at AWS building pentesting infrastructure across thousands of services. The same problem everywhere: pentests take weeks, cost $15-50k, and the results are stale before they ship. I built Cipher to fix that. It's an AI agent that reasons like an attacker — maps the target, finds vulnerabilities, chains them into exploits, and proves they're real. Every finding ships with a reproducible Python script. If the script doesn't break your system, we don't report it. How it works: Cipher defines security invariants (\"User A can't access User B's data\"), then multiple agents attack in parallel to violate them. A separate judge agent tries to disprove every finding — if it can't reproduce the exploit 3 times, the finding dies. You never see it. $999 per assessment. Results in ~2 hours. Unlimited retesting. Honest limitations: complex multi-step auth flows (SSO with MFA) still need manual setup like providing JWT credentials. We're working on it. I'll run Cipher free for the first 15 HN readers who want to try it. Drop your email or sign up at https://apxlabs.ai/ . Happy to answer any questions about the approach. Comments URL: https://news.ycombinator.com/item?id=47056759 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47056759",
+      "title": "AI Agents Are Taking America by Storm",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/02/post-chatbot-claude-code-ai-agents/686029/ Comments URL: https://news.ycombinator.com/item?id=47070157 Points: 1 # Comments: 0",
+      "url": "https://www.theatlantic.com/technology/2026/02/post-chatbot-claude-code-ai-agents/686029/",
+      "image": "https://cdn.theatlantic.com/thumbor/IxeMG0MdNK1basuzvfxKQ2ZFCwQ=/0x43:2000x1085/1200x625/media/img/mt/2026/02/2026_2_12_Shroff_Post_chatbot_final/original.png",
+      "date": "2026-02-19T05:10:34+00:00"
+    },
+    {
+      "title": "Upstart Sarvam Unveils AI Model Customized for India Market",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-18/upstart-sarvam-unveils-ai-model-customized-for-india-market Comments URL: https://news.ycombinator.com/item?id=47069988 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-18/upstart-sarvam-unveils-ai-model-customized-for-india-market",
       "image": "",
-      "date": "2026-02-18T03:23:08+00:00"
+      "date": "2026-02-19T04:38:27+00:00"
     },
     {
-      "title": "Show HN: Rot – Financial Intelligence MCP Server",
-      "summary": "Built an MCP server that turns Reddit sentiment into options signals. 185k LOC, 9-stage AI pipeline, now live with 90 users on just day 1. Wall Street pays millions for retail sentiment data. It's free on Reddit. I realized: instead of another dashboard, just expose it as an MCP tool. Users ask Claude \"what's unusual in options right now\" and get structured signals instantly. Results: 9,000 GitHub clones in 5 days, 52% win rate on 50 live trades (backtest was 58.8% on 129 trades—classic overfitting), 18.4% visitor→signup conversion. https://web-production-71423.up.railway.app/mcp-server Comments URL: https://news.ycombinator.com/item?id=47056745 Points: 2 # Comments: 0",
-      "url": "https://web-production-71423.up.railway.app/mcp-server",
-      "image": "http://web-production-71423.up.railway.app/og-image.svg",
-      "date": "2026-02-18T03:21:10+00:00"
+      "title": "Is Python Still the King of AI in 2026?",
+      "summary": "Article URL: https://codebitdaily.blogspot.com/2026/02/why-python-is-king-ai-2026.html Comments URL: https://news.ycombinator.com/item?id=47069973 Points: 2 # Comments: 3",
+      "url": "https://codebitdaily.blogspot.com/2026/02/why-python-is-king-ai-2026.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6kAAKWBq6XazNIDcpLGXCPX0pb-62LYQ3TMuY453LjHrAUj4_uy3Q6so1jY_B5kEFyILEPdgPH2CVl8od8b-u8Zhk5jujgawJUbd9pgGAlP9ZNolEfBUl_uduId4_zioLJLpr46RxzrElcyZMuYARD4yp3M_1p8IvnBlnagax47hYsJu_fwQyjCUsIXbM/w1200-h630-p-k-no-nu/Programming%20coding%20background.jpeg",
+      "date": "2026-02-19T04:36:20+00:00"
     },
     {
-      "title": "A Guide to Which AI to Use in the Agentic Era",
-      "summary": "Article URL: https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the Comments URL: https://news.ycombinator.com/item?id=47056400 Points: 3 # Comments: 0",
-      "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
-      "image": "https://substackcdn.com/image/fetch/$s_!O-pO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png",
-      "date": "2026-02-18T02:27:12+00:00"
+      "title": "I hacked ChatGPT and Google's AI – and it only took 20 minutes",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes Comments URL: https://news.ycombinator.com/item?id=47069544 Points: 4 # Comments: 0",
+      "url": "https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0n1q1yt.jpg",
+      "date": "2026-02-19T03:28:16+00:00"
     },
     {
-      "title": "The government wants AI doctors",
-      "summary": "Article URL: https://www.empirical.health/blog/the-government-wants-ai-doctors/ Comments URL: https://news.ycombinator.com/item?id=47056132 Points: 1 # Comments: 2",
-      "url": "https://www.empirical.health/blog/the-government-wants-ai-doctors/",
-      "image": "https://empirical.health/_astro/access-payments.DYIbc2X_.png",
-      "date": "2026-02-18T01:57:53+00:00"
-    },
-    {
-      "title": "The financialisation of AI is just beginning",
-      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning Comments URL: https://news.ycombinator.com/item?id=47056097 Points: 3 # Comments: 1",
-      "url": "https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning",
+      "title": "Theres no mainstream AI coding tool?",
+      "summary": "ik theres a few yc companies doing this but are they any good before I try them out? Comments URL: https://news.ycombinator.com/item?id=47069362 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47069362",
       "image": "",
-      "date": "2026-02-18T01:52:35+00:00"
+      "date": "2026-02-19T03:00:44+00:00"
     }
   ]
 }
