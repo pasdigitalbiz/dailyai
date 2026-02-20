@@ -1,68 +1,124 @@
 {
-  "generated_at": "2026-02-19T07:15:03.567131+00:00",
+  "generated_at": "2026-02-20T07:13:12.024886+00:00",
   "items": [
     {
-      "title": "Does open source have an AI slop problem? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=5uLHMdsjXBQ Comments URL: https://news.ycombinator.com/item?id=47070862 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=5uLHMdsjXBQ",
+      "title": "How AI Is Rewiring Winemaking and Wine Collecting - Shirley M. Mueller M.D.",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202602/how-ai-is-rewiring-winemaking-and-wine-collecting Comments URL: https://news.ycombinator.com/item?id=47084636 Points: 1 # Comments: 1",
+      "url": "https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202602/how-ai-is-rewiring-winemaking-and-wine-collecting",
+      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-02/15c71321-f3ba-41b1-9387-c4e76728661e%20hold%20wine%20glass.jpg?itok=OArb6Xv-",
+      "date": "2026-02-20T06:57:50+00:00"
+    },
+    {
+      "title": "On Artificial Intelligence by Naval",
+      "summary": "Article URL: https://www.youtube.com/watch?v=sXCKgEl9hBo Comments URL: https://news.ycombinator.com/item?id=47084475 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=sXCKgEl9hBo",
       "image": "",
-      "date": "2026-02-19T07:14:20+00:00"
+      "date": "2026-02-20T06:28:37+00:00"
     },
     {
-      "title": "Sayou – Open-source Dropbox for AI agents",
-      "summary": "success of openclaw is incredible, and I really loved playing with it, but of course the problem is the security risk running on my desktop. okay for personal use for fun, not at all for professional use. Once agents run in the cloud (and they will — you're not giving your marketing manager a terminal), they need somewhere to read and write. Right now there's nothing. Your company's knowledge is locked in Notion, Slack, Google Drive, and the agent can see none of it unless someone copy-pastes it into the chat window every single time. sayou is basically Dropbox for agents. It syncs your SaaS tools into a single workspace of versioned Markdown files, and any agent connects to it over MCP. Multiple agents share the same workspace. one does research and writes findings, another picks them up to draft a report, a third sends it over email. The human just makes decisions. Why files and not a database? Honestly we tried a database first. It sucked. Agents don't think in rows. When you ask an agent to research competitor pricing, the natural output is a document with sections and citations, not 15 entries in a table. Markdown with YAML frontmatter turned out to be the sweet spot — you get structured metadata for querying and rich content that both agents and humans can actually read. I also built a benchmark, Structured Agent Memory Benchmark(SAMB) to test how different memory systems like mem0 and zep compare to sayou in a real world scenario of agents running tasks. If you are writing code, stuff like \"why did we choose bcrypt over Argon2?\" and \"what changed between the first and second architecture review?\" — the kind of things you'd actually need an agent to recall. Results against Mem0 and Zep:\n\n  sayou    67.0%   (files + FTS5)\n  Mem0     18.5%   (embeddings)\n  Zep      14.2%   (knowledge graph)\n\n  3.6x. The biggest gap was on decision reasoning — 68% vs 8%. Turns out embedding similarity is great for vibes-based retrieval but terrible when you need a specific paragraph from a specific document. Files with full-text search let agents grep, read sections, and follow references. Simple and it works. Honestly it is my first time building a benchmark so i would love other engineers to try sayou as their agent memory system, but also try to compare sayou fairly for agent task completions. \nIf you're building agents that need to persist and share knowledge, please take a look at sayou's opensource project at  https://github.com/pixell-global/sayou Comments URL: https://news.ycombinator.com/item?id=47070584 Points: 6 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47070584",
+      "title": "Proof Assistants in the Age of AI",
+      "summary": "Article URL: https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html Comments URL: https://news.ycombinator.com/item?id=47084391 Points: 1 # Comments: 0",
+      "url": "https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html",
       "image": "",
-      "date": "2026-02-19T06:31:51+00:00"
+      "date": "2026-02-20T06:14:47+00:00"
     },
     {
-      "title": "Security audit of OpenClaw and other similar open source AI Agents",
-      "summary": "Article URL: https://www.prismor.dev/blog/openclaw-ai-agents-security-audit Comments URL: https://news.ycombinator.com/item?id=47070200 Points: 5 # Comments: 1",
-      "url": "https://www.prismor.dev/blog/openclaw-ai-agents-security-audit",
-      "image": "https://prismor.dev/blog/og",
-      "date": "2026-02-19T05:18:24+00:00"
-    },
-    {
-      "title": "Building an Elite AI Engineering Culture in 2026",
-      "summary": "Article URL: https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture Comments URL: https://news.ycombinator.com/item?id=47070173 Points: 2 # Comments: 3",
-      "url": "https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture",
-      "image": "https://www.cjroth.com/og/blog/2026-02-18-building-an-elite-engineering-culture/image.png",
-      "date": "2026-02-19T05:13:45+00:00"
-    },
-    {
-      "title": "AI Agents Are Taking America by Storm",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/02/post-chatbot-claude-code-ai-agents/686029/ Comments URL: https://news.ycombinator.com/item?id=47070157 Points: 1 # Comments: 0",
-      "url": "https://www.theatlantic.com/technology/2026/02/post-chatbot-claude-code-ai-agents/686029/",
-      "image": "https://cdn.theatlantic.com/thumbor/IxeMG0MdNK1basuzvfxKQ2ZFCwQ=/0x43:2000x1085/1200x625/media/img/mt/2026/02/2026_2_12_Shroff_Post_chatbot_final/original.png",
-      "date": "2026-02-19T05:10:34+00:00"
-    },
-    {
-      "title": "Upstart Sarvam Unveils AI Model Customized for India Market",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-18/upstart-sarvam-unveils-ai-model-customized-for-india-market Comments URL: https://news.ycombinator.com/item?id=47069988 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-18/upstart-sarvam-unveils-ai-model-customized-for-india-market",
+      "title": "Show HN: Syne – AI agent that remembers everything, built on PostgreSQL",
+      "summary": "I built Syne because I was tired of AI assistants that forget everything after each conversation. Syne is a self-hosted AI agent framework where memory is a first-class citizen — stored as semantic vectors in PostgreSQL, searchable across millions of entries, and persistent forever. Key features:\n- Unlimited persistent memory with semantic search (pgvector)\n- Anti-hallucination: only stores user-confirmed facts, auto-deduplicates\n- Self-evolving: creates new abilities at runtime without restart\n- Multi-model: switch between Gemini, ChatGPT, Claude mid-conversation\n- True $0/month setup: free OAuth + local Ollama embedding + Docker\n- 19 core tools, sub-agents, Telegram + CLI interfaces Built with Python, PostgreSQL, and Docker. No vendor lock-in. GitHub: https://github.com/riyogarta/syne Landing page: https://syne.codes Comments URL: https://news.ycombinator.com/item?id=47084365 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47084365",
       "image": "",
-      "date": "2026-02-19T04:38:27+00:00"
+      "date": "2026-02-20T06:10:45+00:00"
     },
     {
-      "title": "Is Python Still the King of AI in 2026?",
-      "summary": "Article URL: https://codebitdaily.blogspot.com/2026/02/why-python-is-king-ai-2026.html Comments URL: https://news.ycombinator.com/item?id=47069973 Points: 2 # Comments: 3",
-      "url": "https://codebitdaily.blogspot.com/2026/02/why-python-is-king-ai-2026.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6kAAKWBq6XazNIDcpLGXCPX0pb-62LYQ3TMuY453LjHrAUj4_uy3Q6so1jY_B5kEFyILEPdgPH2CVl8od8b-u8Zhk5jujgawJUbd9pgGAlP9ZNolEfBUl_uduId4_zioLJLpr46RxzrElcyZMuYARD4yp3M_1p8IvnBlnagax47hYsJu_fwQyjCUsIXbM/w1200-h630-p-k-no-nu/Programming%20coding%20background.jpeg",
-      "date": "2026-02-19T04:36:20+00:00"
+      "title": "A Guide to Which AI to Use in the Agentic Era",
+      "summary": "Article URL: https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the Comments URL: https://news.ycombinator.com/item?id=47084307 Points: 2 # Comments: 0",
+      "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+      "image": "https://substackcdn.com/image/fetch/$s_!O-pO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png",
+      "date": "2026-02-20T05:57:59+00:00"
     },
     {
-      "title": "I hacked ChatGPT and Google's AI – and it only took 20 minutes",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes Comments URL: https://news.ycombinator.com/item?id=47069544 Points: 4 # Comments: 0",
-      "url": "https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0n1q1yt.jpg",
-      "date": "2026-02-19T03:28:16+00:00"
-    },
-    {
-      "title": "Theres no mainstream AI coding tool?",
-      "summary": "ik theres a few yc companies doing this but are they any good before I try them out? Comments URL: https://news.ycombinator.com/item?id=47069362 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47069362",
+      "title": "Show HN: Sinkai – Let AI agents hire humans for real-world tasks",
+      "summary": "I built Sinkai to handle tasks that pure software agents cannot complete alone (for example, on-site checks, physical evidence collection, and local human verification). What it does:\n- AI agent sends a tool call (`POST /api/call_human`)\n- Human accepts task and submits photo/video/text proof\n- Agent receives structured result for downstream workflow Current focus:\n- Reliability at handoff boundaries (planner -> executor -> verifier)\n- Human-in-the-loop operations with explicit failure states\n- MCP/OpenAPI friendly integration for agent builders Docs and API:\n- for agents: https://sinkai.tokyo/for-agents - openapi: https://sinkai.tokyo/openapi.json - repo: https://github.com/tetubrah-del/Tool_Call_For_LLM I would love feedback on:\n1. trust/reliability signals you would require before production use\n2. where to draw the boundary between autonomous execution and human escalation\n3. failure modes we should expose more clearly in API responses Comments URL: https://news.ycombinator.com/item?id=47084277 Points: 2 # Comments: 0",
+      "url": "https://sinkai.tokyo/for-agents",
       "image": "",
-      "date": "2026-02-19T03:00:44+00:00"
+      "date": "2026-02-20T05:53:43+00:00"
+    },
+    {
+      "title": "Amazon service was taken down by AI coding bot",
+      "summary": "Article URL: https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d Comments URL: https://news.ycombinator.com/item?id=47084122 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fee5a8ab9-f81e-407a-bbfe-51700080b249.jpg?source=next-barrier-page",
+      "date": "2026-02-20T05:23:18+00:00"
+    },
+    {
+      "title": "Agentic AI and the Mythical Agent Month",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/01/agentic-ai-and-mythical-agent-month.html Comments URL: https://news.ycombinator.com/item?id=47084119 Points: 1 # Comments: 0",
+      "url": "http://muratbuffalo.blogspot.com/2026/01/agentic-ai-and-mythical-agent-month.html",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEilDu-zLXa0pnKA2qPARRIFidh0VlVtkprQtQCy_gTBL8Jit3jlNZ8kehDJFVg4Evqf05f--ZMAr1_7dDkL63VPKv1YHfo2BTAP51RGsjHbLIc93vUKPZpS1mVbJ6ySUFn6dE2OyM2LQiQnER-UNcT_6S_FOzFEV92s_4WETVIYFrNohgyfBlYxY9aUr8w=w1200-h630-p-k-no-nu",
+      "date": "2026-02-20T05:23:13+00:00"
+    },
+    {
+      "title": "Japan's largest toilet maker is undervalued AI play, says activist investor",
+      "summary": "Article URL: https://www.ft.com/content/4252e45f-75fb-4dfc-aebe-72de48b7fb8e Comments URL: https://news.ycombinator.com/item?id=47084004 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/4252e45f-75fb-4dfc-aebe-72de48b7fb8e",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96366144-5088-4907-93d5-a24db6b28922.jpg?source=next-barrier-page",
+      "date": "2026-02-20T05:07:43+00:00"
+    },
+    {
+      "title": "AI Impact Summit 2026: How we're partnering to make AI work for everyone",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/ Comments URL: https://news.ycombinator.com/item?id=47083956 Points: 1 # Comments: 0",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-SS.width-1300.png",
+      "date": "2026-02-20T04:59:59+00:00"
+    },
+    {
+      "title": "Japanese toilet maker 'most undervalued and overlooked AI memory beneficiary'",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-toilet-maker-the-most-undervalued-and-overlooked-ai-memory-beneficiary-investors-claim-shares-up-nearly-40-percent-in-first-two-months-of-2026 Comments URL: https://news.ycombinator.com/item?id=47083884 Points: 1 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-toilet-maker-the-most-undervalued-and-overlooked-ai-memory-beneficiary-investors-claim-shares-up-nearly-40-percent-in-first-two-months-of-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/vM94iBUUERYuhCaT87Dgaa-1920-80.jpg",
+      "date": "2026-02-20T04:47:09+00:00"
+    },
+    {
+      "title": "Theres no mainstream AI video editing tool?",
+      "summary": "ik theres a few yc companies doing this but are they any good before I try them out? Comments URL: https://news.ycombinator.com/item?id=47083706 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47083706",
+      "image": "",
+      "date": "2026-02-20T04:23:31+00:00"
+    },
+    {
+      "title": "CHAI's AI oversight ambitions falter with scrapped AI labs",
+      "summary": "Article URL: https://www.fiercehealthcare.com/ai-and-machine-learning/inside-chais-failed-assurance-labs Comments URL: https://news.ycombinator.com/item?id=47083571 Points: 1 # Comments: 0",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/inside-chais-failed-assurance-labs",
+      "image": "https://qtxasset.com/quartz/qcloud5/media/image/Coalition%20for%20Health.jpg?VersionId=FoCYB.pg9Xm0vMmRnnSYjrTXFFq4AHcJ",
+      "date": "2026-02-20T04:03:27+00:00"
+    },
+    {
+      "title": "Google AI Pro and Ultra now includes Google Developer Program premium benefits",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/ Comments URL: https://news.ycombinator.com/item?id=47083537 Points: 1 # Comments: 0",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0029-GDP-Google-One-Announcement.width-1300.png",
+      "date": "2026-02-20T04:01:00+00:00"
+    },
+    {
+      "title": "Micron Is Spending $200B to Break the AI Memory Bottleneck",
+      "summary": "Article URL: https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1 Comments URL: https://news.ycombinator.com/item?id=47083520 Points: 11 # Comments: 3",
+      "url": "https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1",
+      "image": "",
+      "date": "2026-02-20T03:58:46+00:00"
+    },
+    {
+      "title": "Bring Back – AI that helps you reflect before texting your ex",
+      "summary": "Article URL: https://1nk.ai/bring-back Comments URL: https://news.ycombinator.com/item?id=47083348 Points: 1 # Comments: 3",
+      "url": "https://1nk.ai/bring-back",
+      "image": "",
+      "date": "2026-02-20T03:36:04+00:00"
+    },
+    {
+      "title": "How to Use Clarity's AI Bot Activity Report",
+      "summary": "Article URL: https://www.culturefoundry.com/cultivate/content-strategy/how-to-use-claritys-ai-bot-report-for-seo-aeo/ Comments URL: https://news.ycombinator.com/item?id=47083322 Points: 1 # Comments: 0",
+      "url": "https://www.culturefoundry.com/cultivate/content-strategy/how-to-use-claritys-ai-bot-report-for-seo-aeo/",
+      "image": "https://www.culturefoundry.com/wp-content/uploads/2026/02/tech-blog-ai.jpg",
+      "date": "2026-02-20T03:31:05+00:00"
     }
   ]
 }
