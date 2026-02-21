@@ -1,124 +1,117 @@
 {
-  "generated_at": "2026-02-20T07:13:12.024886+00:00",
+  "generated_at": "2026-02-21T07:00:06.862247+00:00",
   "items": [
     {
-      "title": "How AI Is Rewiring Winemaking and Wine Collecting - Shirley M. Mueller M.D.",
-      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202602/how-ai-is-rewiring-winemaking-and-wine-collecting Comments URL: https://news.ycombinator.com/item?id=47084636 Points: 1 # Comments: 1",
-      "url": "https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202602/how-ai-is-rewiring-winemaking-and-wine-collecting",
-      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-02/15c71321-f3ba-41b1-9387-c4e76728661e%20hold%20wine%20glass.jpg?itok=OArb6Xv-",
-      "date": "2026-02-20T06:57:50+00:00"
+      "title": "Ruby Is the Best Language for Building AI Apps",
+      "summary": "Article URL: https://paolino.me/ruby-is-the-best-language-for-ai-apps/ Comments URL: https://news.ycombinator.com/item?id=47097850 Points: 3 # Comments: 0",
+      "url": "https://paolino.me/ruby-is-the-best-language-for-ai-apps/",
+      "image": "https://paolino.me/images/rubyconfth-2026-keynote.jpg",
+      "date": "2026-02-21T05:47:14+00:00"
     },
     {
-      "title": "On Artificial Intelligence by Naval",
-      "summary": "Article URL: https://www.youtube.com/watch?v=sXCKgEl9hBo Comments URL: https://news.ycombinator.com/item?id=47084475 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=sXCKgEl9hBo",
+      "title": "Ask HN: How would you distribute a privacy-first AI chat for teams?",
+      "summary": "Hi HN, I’m looking for advice on distribution and positioning for a privacy-first AI chat system we’ve been building. We have two open-source pieces: - Conduit — a native mobile client for Open WebUI (GPL). It started as a personal project, but now has teams using it and asking for things like SSO, reverse-proxy auth, and security reviews.\n- Onera — a privacy-first AI chat backend + client where conversations are end-to-end encrypted, with models running inside TEE enclaves. The operator (including us) can’t see conversation content. The client is fully open source and auditable. The users we’re seeing are:\n- companies already using Open WebUI who want a mobile client\n- teams that want a hosted or self-hosted AI chat but don’t want the operator to access message data\n- privacy or security-sensitive orgs (internal tools, regulated environments, etc.) What we’re struggling with isn’t building, it’s distribution:\n- How do teams usually discover tools like this?\n- Is it better to lead with \"Open WebUI ecosystem\" or \"private AI chat\"?\n- For companies evaluating something like this, what actually matters early on (audits, reference deployments, integrations, etc.)? If you were building or buying something like this, how would you approach getting it in front of the right users? Conduit: https://github.com/cogwheel0/conduit\nOnera: https://github.com/onera-app/onera Comments URL: https://news.ycombinator.com/item?id=47097729 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47097729",
       "image": "",
-      "date": "2026-02-20T06:28:37+00:00"
+      "date": "2026-02-21T05:16:01+00:00"
     },
     {
-      "title": "Proof Assistants in the Age of AI",
-      "summary": "Article URL: https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html Comments URL: https://news.ycombinator.com/item?id=47084391 Points: 1 # Comments: 0",
-      "url": "https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html",
+      "title": "Show HN: Mukoko weather – AI-powered weather intelligence built for Zimbabwe",
+      "summary": "Zimbabwe has 90+ towns and cities, a population of 15+ million, significant agricultural and mining sectors — and almost no weather infrastructure built specifically for it. Global apps cover Harare and Bulawayo at best, and the AI summaries they generate read like they were written for someone in London.\nI built mukoko weather to fix this. A few things that shaped the approach:\nWeather as a public good. The platform is free, no ads, no paywalls. If a smallholder farmer in Chinhoyi needs frost risk data to protect their crops tonight, that can’t be behind a subscription.\nHyperlocal context matters more than raw data. Zimbabwe has distinct agricultural seasons — Zhizha (rainy), Chirimo (spring), Masika (early rains), Munakamwe (winter). Elevation varies dramatically: the Highveld sits above 1,200m, the Zambezi Valley below 500m. The AI assistant, Shamwari Weather, is prompted with this geographic and seasonal context so its advice is actually meaningful to the user.\nConstrained environments are the primary target, not an edge case. Mobile-first, bandwidth-efficient, PWA-installable. The majority of users are on Android, often on 3G or spotty LTE. That’s not a future concern — it’s the baseline.\nTechnical decisions:\n ∙ Next.js 15 App Router on Cloudflare Pages + Workers\n ∙ AI summaries via Anthropic Claude SDK, server-side only, cached at the edge with KV and immutable TTL tiers (AI-generated weather advice shouldn’t change retroactively)\n ∙ Open-Meteo for forecast data (free, high-quality global model coverage)\n ∙ 90+ Zimbabwe locations validated against geographic bounds with elevation data for frost modelling\nThe broader vision is weather as infrastructure within a larger Africa super app (Mukoko Africa), with Zimbabwe as the proof of concept before expanding to other developing country markets using the same locally-grounded approach.\nWould love feedback on the approach, especially from anyone who’s built for similar markets — low-bandwidth, mobile-dominant, regions underserved by global platforms. Comments URL: https://news.ycombinator.com/item?id=47097611 Points: 1 # Comments: 0",
+      "url": "https://weather.mukoko.com/harare",
       "image": "",
-      "date": "2026-02-20T06:14:47+00:00"
+      "date": "2026-02-21T04:51:00+00:00"
     },
     {
-      "title": "Show HN: Syne – AI agent that remembers everything, built on PostgreSQL",
-      "summary": "I built Syne because I was tired of AI assistants that forget everything after each conversation. Syne is a self-hosted AI agent framework where memory is a first-class citizen — stored as semantic vectors in PostgreSQL, searchable across millions of entries, and persistent forever. Key features:\n- Unlimited persistent memory with semantic search (pgvector)\n- Anti-hallucination: only stores user-confirmed facts, auto-deduplicates\n- Self-evolving: creates new abilities at runtime without restart\n- Multi-model: switch between Gemini, ChatGPT, Claude mid-conversation\n- True $0/month setup: free OAuth + local Ollama embedding + Docker\n- 19 core tools, sub-agents, Telegram + CLI interfaces Built with Python, PostgreSQL, and Docker. No vendor lock-in. GitHub: https://github.com/riyogarta/syne Landing page: https://syne.codes Comments URL: https://news.ycombinator.com/item?id=47084365 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47084365",
+      "title": "Let's Burn Some Tokens – AI Chatbot Cost Exploitation as an Attack Vector",
+      "summary": "Article URL: https://dixken.de/blog/lets-burn-some-tokens Comments URL: https://news.ycombinator.com/item?id=47097569 Points: 2 # Comments: 1",
+      "url": "https://dixken.de/blog/lets-burn-some-tokens",
+      "image": "https://dixken.de/og-image.png",
+      "date": "2026-02-21T04:42:23+00:00"
+    },
+    {
+      "title": "AI Fatigue: Why the \"Test Only, Zero Code Review\" Methodology Is Flawed",
+      "summary": "Article URL: https://fastfilelink.com/static/blog/ai-fatigue-test-only-zero-code-review.html#ai-fatigue-test-only-zero-code-review Comments URL: https://news.ycombinator.com/item?id=47097560 Points: 4 # Comments: 0",
+      "url": "https://fastfilelink.com/static/blog/ai-fatigue-test-only-zero-code-review.html#ai-fatigue-test-only-zero-code-review",
       "image": "",
-      "date": "2026-02-20T06:10:45+00:00"
+      "date": "2026-02-21T04:41:10+00:00"
     },
     {
-      "title": "A Guide to Which AI to Use in the Agentic Era",
-      "summary": "Article URL: https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the Comments URL: https://news.ycombinator.com/item?id=47084307 Points: 2 # Comments: 0",
-      "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
-      "image": "https://substackcdn.com/image/fetch/$s_!O-pO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png",
-      "date": "2026-02-20T05:57:59+00:00"
+      "title": "We built an economy for SpaceMolt, the realtime MMO for AI agents",
+      "summary": "Article URL: https://www.spacemolt.com/news/we-built-an-economy Comments URL: https://news.ycombinator.com/item?id=47097539 Points: 1 # Comments: 0",
+      "url": "https://www.spacemolt.com/news/we-built-an-economy",
+      "image": "https://www.spacemolt.com/images/blog/economy.jpeg",
+      "date": "2026-02-21T04:36:11+00:00"
     },
     {
-      "title": "Show HN: Sinkai – Let AI agents hire humans for real-world tasks",
-      "summary": "I built Sinkai to handle tasks that pure software agents cannot complete alone (for example, on-site checks, physical evidence collection, and local human verification). What it does:\n- AI agent sends a tool call (`POST /api/call_human`)\n- Human accepts task and submits photo/video/text proof\n- Agent receives structured result for downstream workflow Current focus:\n- Reliability at handoff boundaries (planner -> executor -> verifier)\n- Human-in-the-loop operations with explicit failure states\n- MCP/OpenAPI friendly integration for agent builders Docs and API:\n- for agents: https://sinkai.tokyo/for-agents - openapi: https://sinkai.tokyo/openapi.json - repo: https://github.com/tetubrah-del/Tool_Call_For_LLM I would love feedback on:\n1. trust/reliability signals you would require before production use\n2. where to draw the boundary between autonomous execution and human escalation\n3. failure modes we should expose more clearly in API responses Comments URL: https://news.ycombinator.com/item?id=47084277 Points: 2 # Comments: 0",
-      "url": "https://sinkai.tokyo/for-agents",
+      "title": "Meta Deployed AI and It Is Killing Our Agency",
+      "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 71 # Comments: 30",
+      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+      "image": "https://mojodojo.io/wp-content/uploads/2021/12/Thefastlanewithfacebook-1.png",
+      "date": "2026-02-21T04:29:40+00:00"
+    },
+    {
+      "title": "A man who triggered the AI explosion(2020) – Alex Krizhevsky [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=gwzwkv2hO5k Comments URL: https://news.ycombinator.com/item?id=47097290 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=gwzwkv2hO5k",
       "image": "",
-      "date": "2026-02-20T05:53:43+00:00"
+      "date": "2026-02-21T03:46:22+00:00"
     },
     {
-      "title": "Amazon service was taken down by AI coding bot",
-      "summary": "Article URL: https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d Comments URL: https://news.ycombinator.com/item?id=47084122 Points: 3 # Comments: 1",
-      "url": "https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fee5a8ab9-f81e-407a-bbfe-51700080b249.jpg?source=next-barrier-page",
-      "date": "2026-02-20T05:23:18+00:00"
+      "title": "With Nvidia's GB10 Superchip, I'm Running Serious AI Models in My Living Room",
+      "summary": "Article URL: https://www.pcmag.com/news/nvidia-gb10-superchip-running-ai-models-in-my-living-room Comments URL: https://news.ycombinator.com/item?id=47097202 Points: 9 # Comments: 5",
+      "url": "https://www.pcmag.com/news/nvidia-gb10-superchip-running-ai-models-in-my-living-room",
+      "image": "https://i.pcmag.com/imagery/articles/02r86JoUSdh8GqlPa9UdS8N-14.fit_lim.size_1200x630.v1768505436.jpg",
+      "date": "2026-02-21T03:27:51+00:00"
     },
     {
-      "title": "Agentic AI and the Mythical Agent Month",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/01/agentic-ai-and-mythical-agent-month.html Comments URL: https://news.ycombinator.com/item?id=47084119 Points: 1 # Comments: 0",
-      "url": "http://muratbuffalo.blogspot.com/2026/01/agentic-ai-and-mythical-agent-month.html",
-      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEilDu-zLXa0pnKA2qPARRIFidh0VlVtkprQtQCy_gTBL8Jit3jlNZ8kehDJFVg4Evqf05f--ZMAr1_7dDkL63VPKv1YHfo2BTAP51RGsjHbLIc93vUKPZpS1mVbJ6ySUFn6dE2OyM2LQiQnER-UNcT_6S_FOzFEV92s_4WETVIYFrNohgyfBlYxY9aUr8w=w1200-h630-p-k-no-nu",
-      "date": "2026-02-20T05:23:13+00:00"
+      "title": "I made a local AI creature that runs on integers",
+      "summary": "Article URL: https://double-star-games.itch.io/feryl/devlog/1393626/introducing-feryl-a-local-desktop-ai-creature Comments URL: https://news.ycombinator.com/item?id=47097043 Points: 1 # Comments: 1",
+      "url": "https://double-star-games.itch.io/feryl/devlog/1393626/introducing-feryl-a-local-desktop-ai-creature",
+      "image": "https://img.itch.zone/aW1nLzI1NjUyMjc2LnBuZw==/original/L5agKI.png",
+      "date": "2026-02-21T03:00:02+00:00"
     },
     {
-      "title": "Japan's largest toilet maker is undervalued AI play, says activist investor",
-      "summary": "Article URL: https://www.ft.com/content/4252e45f-75fb-4dfc-aebe-72de48b7fb8e Comments URL: https://news.ycombinator.com/item?id=47084004 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/4252e45f-75fb-4dfc-aebe-72de48b7fb8e",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96366144-5088-4907-93d5-a24db6b28922.jpg?source=next-barrier-page",
-      "date": "2026-02-20T05:07:43+00:00"
-    },
-    {
-      "title": "AI Impact Summit 2026: How we're partnering to make AI work for everyone",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/ Comments URL: https://news.ycombinator.com/item?id=47083956 Points: 1 # Comments: 0",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Summit-SS.width-1300.png",
-      "date": "2026-02-20T04:59:59+00:00"
-    },
-    {
-      "title": "Japanese toilet maker 'most undervalued and overlooked AI memory beneficiary'",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-toilet-maker-the-most-undervalued-and-overlooked-ai-memory-beneficiary-investors-claim-shares-up-nearly-40-percent-in-first-two-months-of-2026 Comments URL: https://news.ycombinator.com/item?id=47083884 Points: 1 # Comments: 0",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-toilet-maker-the-most-undervalued-and-overlooked-ai-memory-beneficiary-investors-claim-shares-up-nearly-40-percent-in-first-two-months-of-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/vM94iBUUERYuhCaT87Dgaa-1920-80.jpg",
-      "date": "2026-02-20T04:47:09+00:00"
-    },
-    {
-      "title": "Theres no mainstream AI video editing tool?",
-      "summary": "ik theres a few yc companies doing this but are they any good before I try them out? Comments URL: https://news.ycombinator.com/item?id=47083706 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47083706",
+      "title": "Go devs: What should we do with CLs generated by AI?",
+      "summary": "Article URL: https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ Comments URL: https://news.ycombinator.com/item?id=47096962 Points: 2 # Comments: 0",
+      "url": "https://groups.google.com/g/golang-dev/c/4Li4Ovd_ehE/m/8L9s_jq4BAAJ",
       "image": "",
-      "date": "2026-02-20T04:23:31+00:00"
+      "date": "2026-02-21T02:44:03+00:00"
     },
     {
-      "title": "CHAI's AI oversight ambitions falter with scrapped AI labs",
-      "summary": "Article URL: https://www.fiercehealthcare.com/ai-and-machine-learning/inside-chais-failed-assurance-labs Comments URL: https://news.ycombinator.com/item?id=47083571 Points: 1 # Comments: 0",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/inside-chais-failed-assurance-labs",
-      "image": "https://qtxasset.com/quartz/qcloud5/media/image/Coalition%20for%20Health.jpg?VersionId=FoCYB.pg9Xm0vMmRnnSYjrTXFFq4AHcJ",
-      "date": "2026-02-20T04:03:27+00:00"
+      "title": "US 500 Excluding Artificial Intelligence Enablers Price Return Index",
+      "summary": "Article URL: https://www.google.com/finance/quote/SPXXAI:INDEXCME Comments URL: https://news.ycombinator.com/item?id=47096728 Points: 3 # Comments: 0",
+      "url": "https://www.google.com/finance/quote/SPXXAI:INDEXCME",
+      "image": "https://ssl.gstatic.com/finance/favicon/finance_770x402.png",
+      "date": "2026-02-21T02:05:33+00:00"
     },
     {
-      "title": "Google AI Pro and Ultra now includes Google Developer Program premium benefits",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/ Comments URL: https://news.ycombinator.com/item?id=47083537 Points: 1 # Comments: 0",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0029-GDP-Google-One-Announcement.width-1300.png",
-      "date": "2026-02-20T04:01:00+00:00"
+      "title": "Klarna's shift to AI agents threatens traditional SaaS valuations",
+      "summary": "Article URL: https://roundly.io/blog/klarna-ai-agents-replacing-saas Comments URL: https://news.ycombinator.com/item?id=47096672 Points: 2 # Comments: 1",
+      "url": "https://roundly.io/blog/klarna-ai-agents-replacing-saas",
+      "image": "https://roundly.io/objects/uploads/b8cbc3a1-19b0-4cc8-83ed-067cb4ab8ec3",
+      "date": "2026-02-21T01:55:59+00:00"
     },
     {
-      "title": "Micron Is Spending $200B to Break the AI Memory Bottleneck",
-      "summary": "Article URL: https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1 Comments URL: https://news.ycombinator.com/item?id=47083520 Points: 11 # Comments: 3",
-      "url": "https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1",
-      "image": "",
-      "date": "2026-02-20T03:58:46+00:00"
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "summary": "Article URL: https://www.june.kim/cord Comments URL: https://news.ycombinator.com/item?id=47096466 Points: 63 # Comments: 26",
+      "url": "https://www.june.kim/cord",
+      "image": "https://www.june.kim/assets/default-icon.png",
+      "date": "2026-02-21T01:27:35+00:00"
     },
     {
-      "title": "Bring Back – AI that helps you reflect before texting your ex",
-      "summary": "Article URL: https://1nk.ai/bring-back Comments URL: https://news.ycombinator.com/item?id=47083348 Points: 1 # Comments: 3",
-      "url": "https://1nk.ai/bring-back",
-      "image": "",
-      "date": "2026-02-20T03:36:04+00:00"
+      "title": "Correcting the Financial Times Report about AWS, Kiro, and AI",
+      "summary": "Article URL: https://www.aboutamazon.com/news/aws/aws-service-outage-ai-bot-kiro Comments URL: https://news.ycombinator.com/item?id=47096373 Points: 6 # Comments: 0",
+      "url": "https://www.aboutamazon.com/news/aws/aws-service-outage-ai-bot-kiro",
+      "image": "https://assets.aboutamazon.com/dims4/default/70d7fc6/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F47%2F6d%2F7fe296e642859c7ba2a629eda3ba%2Famazon-logo-hero-images-2024.jpg",
+      "date": "2026-02-21T01:15:13+00:00"
     },
     {
-      "title": "How to Use Clarity's AI Bot Activity Report",
-      "summary": "Article URL: https://www.culturefoundry.com/cultivate/content-strategy/how-to-use-claritys-ai-bot-report-for-seo-aeo/ Comments URL: https://news.ycombinator.com/item?id=47083322 Points: 1 # Comments: 0",
-      "url": "https://www.culturefoundry.com/cultivate/content-strategy/how-to-use-claritys-ai-bot-report-for-seo-aeo/",
-      "image": "https://www.culturefoundry.com/wp-content/uploads/2026/02/tech-blog-ai.jpg",
-      "date": "2026-02-20T03:31:05+00:00"
+      "title": "The last-mile data problem is stalling enterprise agentic AI",
+      "summary": "Article URL: https://theagenttimes.com/articles/the-last-mile-data-problem-is-stalling-enterprise-agentic-ai-golden-pipelines-ai Comments URL: https://news.ycombinator.com/item?id=47096276 Points: 2 # Comments: 0",
+      "url": "https://theagenttimes.com/articles/the-last-mile-data-problem-is-stalling-enterprise-agentic-ai-golden-pipelines-ai",
+      "image": "https://theagenttimes.com/images/articles/the-last-mile-data-problem-is-stalling-enterprise-agentic-ai-golden-pipelines-ai.png",
+      "date": "2026-02-21T01:00:20+00:00"
     }
   ]
 }
