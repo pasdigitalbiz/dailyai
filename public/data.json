@@ -1,68 +1,103 @@
 {
-  "generated_at": "2026-02-23T07:20:09.358369+00:00",
+  "generated_at": "2026-02-24T07:14:48.007476+00:00",
   "items": [
     {
-      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-      "summary": "Article URL: https://quesma.com/blog/introducing-binaryaudit/ Comments URL: https://news.ycombinator.com/item?id=47111440 Points: 14 # Comments: 2",
-      "url": "https://quesma.com/blog/introducing-binaryaudit/",
-      "image": "https://quesma.com/_astro/overall_ranking.CRL7hnOy.png",
-      "date": "2026-02-22T14:50:44+00:00"
-    },
-    {
-      "title": "Observations from Building with AI Agents",
-      "summary": "Article URL: https://tomtunguz.com/9-observations-using-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47111279 Points: 2 # Comments: 0",
-      "url": "https://tomtunguz.com/9-observations-using-ai-agents/",
-      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/uatpwtiaae1if2dk4hsu",
-      "date": "2026-02-22T14:28:32+00:00"
-    },
-    {
-      "title": "Amazon Kiro took down AWS for 13 hours. Nine other AI agents did worse",
-      "summary": "Article URL: https://blog.barrack.ai/amazon-ai-agents-deleting-production/ Comments URL: https://news.ycombinator.com/item?id=47110943 Points: 2 # Comments: 0",
-      "url": "https://blog.barrack.ai/amazon-ai-agents-deleting-production/",
-      "image": "https://blog.barrack.ai/assets/images/og-amazon-ai-agents-deleting-production-5dfec688a97acad60cbdc52707d5b891.png",
-      "date": "2026-02-22T13:44:09+00:00"
-    },
-    {
-      "title": "In 92% of DeFi exploits AI security review flags underlying problem",
-      "summary": "Article URL: https://www.coindesk.com/business/2026/02/20/specialized-ai-detects-92-of-real-world-defi-exploits Comments URL: https://news.ycombinator.com/item?id=47110937 Points: 2 # Comments: 1",
-      "url": "https://www.coindesk.com/business/2026/02/20/specialized-ai-detects-92-of-real-world-defi-exploits",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/56a4c15b5193f534a64f932d3e14fdd33fafac55-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "date": "2026-02-22T13:43:37+00:00"
-    },
-    {
-      "title": "Ask HN: How do you track 2026 AI price wars? I built a tool to help",
-      "summary": "\"I built https://tokencost.is to solve a recurring headache: manually scraping dozens of provider pages just to estimate API spend for my agentic workflows. My goal was a neutral, minimalist utility in the vein of Time.is. We now track 44 models—including OpenAI, Anthropic, Google, DeepSeek, Mistral, and Cohere—with hourly updates. Key Features: Real-Time Latency: We track TTFT benchmarks (e.g., Llama 3.1 at 28ms) alongside pricing. Price Deltas: We track 24h market shifts; look for the ↑↓ indicators in the table to see how the 'AI Price War' is moving. Multimodal Calculator: Handles Text, Audio, and Video tokens in a single UI. 100% Neutral: No affiliate bias or listing fees. Just raw data scraped hourly. I’m not a developer by trade, so I used an agentic workflow to build the backend and scrapers. I found that being the 'product owner' rather than the 'coder' actually helped me focus on the data integrity and the specific multimodal features I needed for my own work. I'd love to hear what other 2026 models or enterprise benchmarks the community would like to see indexed next!\" Comments URL: https://news.ycombinator.com/item?id=47110844 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47110844",
+      "title": "Claude Code to Figma: The Complete Guide to AI Driven Product Design Workflows",
+      "summary": "Article URL: https://manojgopanapalli.substack.com/p/claude-code-to-figma-the-complete Comments URL: https://news.ycombinator.com/item?id=47133822 Points: 2 # Comments: 0",
+      "url": "https://manojgopanapalli.substack.com/p/claude-code-to-figma-the-complete",
       "image": "",
-      "date": "2026-02-22T13:28:10+00:00"
+      "date": "2026-02-24T07:08:09+00:00"
     },
     {
-      "title": "Velocity Is Dead: AI-Generated Compilers and the Future of Software",
-      "summary": "Article URL: https://www.openhands.dev/blog/20260219-velocity-is-dead Comments URL: https://news.ycombinator.com/item?id=47110831 Points: 2 # Comments: 0",
-      "url": "https://www.openhands.dev/blog/20260219-velocity-is-dead",
-      "image": "https://cdn.prod.website-files.com/68ff4058b35616cdd47d5b59/699759c063e98fa02c951e7c_cover.png",
-      "date": "2026-02-22T13:26:39+00:00"
+      "title": "Everyone in AI is building the wrong thing for the same reason",
+      "summary": "Article URL: https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/ Comments URL: https://news.ycombinator.com/item?id=47133640 Points: 2 # Comments: 0",
+      "url": "https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/",
+      "image": "https://www.joanwestenberg.com/content/images/size/w1200/2026/02/ChatGPT-Image-Feb-23--2026--10_09_25-PM.png",
+      "date": "2026-02-24T06:42:06+00:00"
     },
     {
-      "title": "Why Moltbook Failed: The Lack of Identity in Autonomous AI Agents",
-      "summary": "The collapse of Moltbook (API key leaks, agent impersonation, and human-operated bots) isn't just a security incident. It is a structural failure: the platform lacked any persistent, cryptographically verifiable identity for its AI agents. Without a registry serving as a Source of Truth — providing data on ownership and accountability — any agentic ecosystem descends into chaos. Moltbook is the textbook example. The Hindustan Times reported on this and included my technical commentary, which is based on principles from the book \"I Am Your AIB\" by Jay J. Springpeace (published January 16, 2026): https://www.hindustantimes.com/world-news/us-news/what-is-moltbook-5-key-facts-about-the-ai-only-social-media-platform-101769833804190.html The book argues for: Cryptographic Identity: Agents must have a signed identity anchored in a registry. Real-time Monitoring: Immediate suspension of anomalous behaviors. Sandboxing: Isolation of agent logic from sensitive components. This is why we need a decentralized registration framework like AIBSN (Artificial Intelligent Being Serial Number) stored on Arweave. Technical Standard: AIBSN.org Discussion Points: Are you using persistent identity for agents (LangGraph, AutoGen, CrewAI)? Are centralized API keys enough, or do we need a robust provenance chain? Is AIBSN (aibsn.org) overkill, or exactly what Moltbook was missing? Looking forward to technical critiques and practical experiences. Comments URL: https://news.ycombinator.com/item?id=47110699 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47110699",
+      "title": "Anthropic: AI helps break the cost barrier to COBOL modernization",
+      "summary": "Article URL: https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization Comments URL: https://news.ycombinator.com/item?id=47133605 Points: 2 # Comments: 2",
+      "url": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
+      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/699ca2651dced743de2c747f_og_how-ai-helps-break-cost-barrier-cobol-modernization.jpg",
+      "date": "2026-02-24T06:36:56+00:00"
+    },
+    {
+      "title": "Show HN: I built an AI Voice note taker transcriber",
+      "summary": "Hi HN, I have been building mobile apps for about 8 years now. I built a tool iOS app to just transcribe and summarize audio recordings, meetings, lectures, seminars, doctor appointments, project showcase, event, journalism etc. It can unlimited record and transcribe, summarize and get key data, AI chat with transcription, youtube video to transcript and summary. The goal was to make something completely frictionless. There is no login required. You just open it and start recording, or paste a YouTube link to get the full transcript and AI summary instantly without having to watch the video. Under the hood, I am using the Gemini API with a custom model for the heavy lifting. The audio is kept on your device, sent to the API for processing, and then deleted within 24 hours. It is definetly not used for training any models. Main features: Audio recording and file import YouTube video to notes and summaries Chat directly with your transcripts to find specific info Supports over 100 languages Unlimited recording hours (I am trying to make the math work on a flat subscription rather than charging users per minute) Flash Cards and quiz based on transcript for learners. Since I just launched it a few days ago, I am really looking for feedbacks. Free generation and free trial is also available.\nThanks. Comments URL: https://news.ycombinator.com/item?id=47133499 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/gist-transcribe-audio-to-text/id6758212955",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/26/6a/a5266ac4-a605-5a12-f3bb-b50ba89c01c7/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-02-24T06:19:29+00:00"
+    },
+    {
+      "title": "Explaining AI Chess for Humans",
+      "summary": "Article URL: https://andys.blog/p/1c3f06df-ca88-4eff-b472-44cd23b45f29/ Comments URL: https://news.ycombinator.com/item?id=47133461 Points: 2 # Comments: 0",
+      "url": "https://andys.blog/p/1c3f06df-ca88-4eff-b472-44cd23b45f29/",
+      "image": "https://trattner.github.io/img/icon/x-tile.png",
+      "date": "2026-02-24T06:12:51+00:00"
+    },
+    {
+      "title": "We scaled our AI Assistant to use virtually unlimited tools",
+      "summary": "Article URL: https://gaia-fork-oz2l3yz60-gaia-2.vercel.app/blog/how-tool-calling-works Comments URL: https://news.ycombinator.com/item?id=47133402 Points: 3 # Comments: 0",
+      "url": "https://gaia-fork-oz2l3yz60-gaia-2.vercel.app/blog/how-tool-calling-works",
+      "image": "https://gaia-fork-oz2l3yz60-gaia-2.vercel.app/images/blog/how-tool-calling-works/image.png",
+      "date": "2026-02-24T06:04:54+00:00"
+    },
+    {
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "summary": "Article URL: https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/ Comments URL: https://news.ycombinator.com/item?id=47133313 Points: 83 # Comments: 36",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
       "image": "",
-      "date": "2026-02-22T13:07:50+00:00"
+      "date": "2026-02-24T05:47:23+00:00"
     },
     {
-      "title": "Met police using AI tools supplied by Palantir to flag officer misconduct",
-      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir Comments URL: https://news.ycombinator.com/item?id=47110647 Points: 14 # Comments: 2",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir",
-      "image": "https://i.guim.co.uk/img/media/0d7c4c71daa664b504588485bb31399ad9ae7f61/654_0_6544_5238/master/6544.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8e0db01c19bf532f25031fd704924a7",
-      "date": "2026-02-22T12:59:59+00:00"
+      "title": "'An AlphaFold 4' - Scientists marvel at DeepMind drug spin-off's new AI",
+      "summary": "Article URL: https://www.scientificamerican.com/article/an-alphafold-4-scientists-marvel-at-deepmind-drug-spin-offs-exclusive-new-ai/ Comments URL: https://news.ycombinator.com/item?id=47133279 Points: 1 # Comments: 0",
+      "url": "https://www.scientificamerican.com/article/an-alphafold-4-scientists-marvel-at-deepmind-drug-spin-offs-exclusive-new-ai/",
+      "image": "https://static.scientificamerican.com/dam/m/1f8e3889dcf78366/original/cryptic.gif?m=1771599683.633&w=1200",
+      "date": "2026-02-24T05:40:40+00:00"
     },
     {
-      "title": "Why Moltbook Failed: The Lack of Identity in Autonomous AI Agents",
-      "summary": "The collapse of Moltbook (API key leaks, agent impersonation, and human-operated bots) isn't just a security incident. It is a structural failure: the platform lacked any persistent, cryptographically verifiable identity for its AI agents.\nWithout a registry serving as a Source of Truth — providing data on ownership and accountability — any agentic ecosystem descends into chaos. Moltbook is the textbook example. The Hindustan Times reported on this and included my technical commentary, which is based on principles from the book \"I Am Your AIB\" by Jay J. Springpeace (published January 16, 2026): https://www.hindustantimes.com/world-news/us-news/what-is-moltbook-5-key-facts-about-the-ai-only-social-media-platform-101769833804190.html The book argues for: Cryptographic Identity: Agents must have a signed identity anchored in a registry. Real-time Monitoring: Immediate suspension of anomalous behaviors. Sandboxing: Isolation of agent logic from sensitive components. This is why we need a decentralized registration framework like AIBSN (Artificial Intelligent Being Serial Number) stored on Arweave. Technical Standard: AIBSN.org Discussion Points: Are you using persistent identity for agents (LangGraph, AutoGen, CrewAI)? Are centralized API keys enough, or do we need a robust provenance chain? Is AIBSN (aibsn.org) overkill, or exactly what Moltbook was missing? Looking forward to technical critiques and practical experiences. Comments URL: https://news.ycombinator.com/item?id=47110645 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47110645",
+      "title": "AI Isn't People",
+      "summary": "Article URL: https://www.todayintabs.com/p/a-i-isn-t-people Comments URL: https://news.ycombinator.com/item?id=47133276 Points: 2 # Comments: 0",
+      "url": "https://www.todayintabs.com/p/a-i-isn-t-people",
+      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ac8d3b26-cbfd-44c0-8291-062bdf0d201d/cecil.jpg?t=1771883457",
+      "date": "2026-02-24T05:40:08+00:00"
+    },
+    {
+      "title": "Taiwan's PSMC Joins Intel, SoftBank's ZAM alternative to HBM AI Memory",
+      "summary": "Article URL: https://www.trendforce.com/news/2026/02/23/news-psmc-joins-intel-softbanks-zam-initiative-to-manufacture-ai-memory-eyeing-an-alternative-to-hbm/ Comments URL: https://news.ycombinator.com/item?id=47133183 Points: 1 # Comments: 0",
+      "url": "https://www.trendforce.com/news/2026/02/23/news-psmc-joins-intel-softbanks-zam-initiative-to-manufacture-ai-memory-eyeing-an-alternative-to-hbm/",
+      "image": "https://img.trendforce.com/blog/wp-content/uploads/2025/12/22133645/PSMC-photo-from-I-Domain-Industrial-20251222-624x299.jpg",
+      "date": "2026-02-24T05:24:54+00:00"
+    },
+    {
+      "title": "Anthropic misanthropic toward China's AI labs",
+      "summary": "Article URL: https://www.theregister.com/2026/02/24/anthropic_misanthropic_chinese_ai_labs/ Comments URL: https://news.ycombinator.com/item?id=47133103 Points: 2 # Comments: 2",
+      "url": "https://www.theregister.com/2026/02/24/anthropic_misanthropic_chinese_ai_labs/",
+      "image": "https://regmedia.co.uk/2024/03/22/china_data_shutterstock.jpg",
+      "date": "2026-02-24T05:14:03+00:00"
+    },
+    {
+      "title": "The AI productivity boom is not here (yet)",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet Comments URL: https://news.ycombinator.com/item?id=47132629 Points: 8 # Comments: 3",
+      "url": "https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet",
       "image": "",
-      "date": "2026-02-22T12:59:45+00:00"
+      "date": "2026-02-24T03:48:28+00:00"
+    },
+    {
+      "title": "Underpriced app is now live in app store AI Profit Calculator for Resellers",
+      "summary": "Article URL: https://apps.apple.com/us/app/underpriced/id6759008101 Comments URL: https://news.ycombinator.com/item?id=47132427 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/underpriced/id6759008101",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/6d/d6/0c6dd653-a1a3-6c08-6105-84eeffbee075/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-02-24T03:15:06+00:00"
+    },
+    {
+      "title": "Ask HN: Posthotty.com I kindly ask for feedback to improve my AI vibed website",
+      "summary": "I spent this weekend during the blizzard of 2026 ai vibe coding this website PostHotty.com Ask me anything, I will be happy to answer. Comments URL: https://news.ycombinator.com/item?id=47132325 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47132325",
+      "image": "",
+      "date": "2026-02-24T02:59:44+00:00"
     }
   ]
 }
