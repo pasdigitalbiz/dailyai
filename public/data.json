@@ -1,4 +1,68 @@
 {
-  "generated_at": "2026-02-25T07:15:40.556997+00:00",
-  "items": []
+  "generated_at": "2026-02-26T07:14:53.487505+00:00",
+  "items": [
+    {
+      "title": "Australia's WiseTech to cut 2k jobs as AI renders manual coding obsolete",
+      "summary": "Article URL: https://www.computerworld.com/article/4137200/australias-wisetech-to-cut-2000-jobs-as-ai-renders-manual-coding-obsolete.html Comments URL: https://news.ycombinator.com/item?id=47162803 Points: 1 # Comments: 0",
+      "url": "https://www.computerworld.com/article/4137200/australias-wisetech-to-cut-2000-jobs-as-ai-renders-manual-coding-obsolete.html",
+      "image": "https://www.computerworld.com/wp-content/uploads/2026/02/4137200-0-60158700-1772019860-shutterstock_2320153383.jpg?quality=50&strip=all&w=1024",
+      "date": "2026-02-26T06:58:56+00:00"
+    },
+    {
+      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
+      "summary": "Article URL: https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job Comments URL: https://news.ycombinator.com/item?id=47162734 Points: 1 # Comments: 0",
+      "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+      "image": "https://substackcdn.com/image/fetch/$s_!5-y1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc254619c-f648-43a9-a849-a97da227c0a6_1500x844.jpeg",
+      "date": "2026-02-26T06:48:37+00:00"
+    },
+    {
+      "title": "Demo of an indie AI collaboration app – beyond Codex and Claude Code desktop",
+      "summary": "*golutra — One Person. One AI Squad.* webs:https://github.com/golutra/golutra\ngolutra is a next-generation multi-agent workspace that transforms your existing CLI tools into a unified AI collaboration hub. No project migration. No command relearning. No terminal switching. Just parallel execution, automated orchestration, and real-time result tracking. Click agent avatars to inspect logs, inject prompts directly into terminal streams, or monitor execution while your AI team runs silently in the background. Built with Vue 3 + Rust as a Tauri desktop app for Windows and macOS, golutra upgrades “one person + one editor” into *“one person + an AI squad.”* It replaces single-threaded, manual context switching with coordinated, multi-agent automation. *Key Highlights* * Unlimited multi-agent parallel execution\n* Automated orchestration from analysis to deployment\n* CLI compatibility: Claude, Gemini, Codex, OpenCode, Qwen\n* Stealth terminal with context-aware intelligence\n* Visual interface combined with command-line power Keep your familiar commands. golutra wires them into a complete engineering loop. --- ## What’s Next golutra is only at its beginning. The next evolution introduces a refactored *OpenClaw* as a true commander layer — a central AI coordinator capable of automatically creating agents, assigning roles, and generating structured collaboration channels based on task complexity. Instead of manually organizing workflows, golutra will dynamically assemble self-structured AI teams on demand. Upcoming capabilities include: * *Mobile Remote Control* — monitor agents, review logs, intervene, and redirect tasks directly from your phone.\n* *Auto Agent Builder* — quickly generate specialized agents for specific industries or scenarios (e.g., refactoring, compliance audits, trading systems, DevOps automation).\n* *Unified Agent Interface* — a standardized agent protocol for seamless integration into the orchestration layer.\n* *Deep Memory Layer* — persistent, shared long-horizon memory across agents to strengthen knowledge accumulation and cross-task reasoning. The mission is clear:\nevolve from multi-agent execution to *self-organizing AI teams*, improving overall collaboration efficiency by 30% or more through better coordination, specialization, and memory. One person. One AI squad.\nSoon — one intelligent AI organization. Comments URL: https://news.ycombinator.com/item?id=47162675 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47162675",
+      "image": "",
+      "date": "2026-02-26T06:40:06+00:00"
+    },
+    {
+      "title": "Swamp Dirt and AI Safety",
+      "summary": "Article URL: https://safeenough.substack.com/p/swamp-dirt-and-ai-safety Comments URL: https://news.ycombinator.com/item?id=47162341 Points: 1 # Comments: 0",
+      "url": "https://safeenough.substack.com/p/swamp-dirt-and-ai-safety",
+      "image": "",
+      "date": "2026-02-26T05:48:29+00:00"
+    },
+    {
+      "title": "Show HN: Squidy – How I stopped losing AI agent context mid-project",
+      "summary": "Squidy is an open source Python CLI that interviews you about your project and generates the complete governance structure automatically. Comments URL: https://news.ycombinator.com/item?id=47162238 Points: 1 # Comments: 0",
+      "url": "https://rendernet.com.br/squidyrun/",
+      "image": "https://rendernet.com.br/wp-content/uploads/2026/02/image.png",
+      "date": "2026-02-26T05:30:44+00:00"
+    },
+    {
+      "title": "I hacked ChatGPT and Google's AI – and it only took 20 minutes",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes Comments URL: https://news.ycombinator.com/item?id=47162127 Points: 3 # Comments: 1",
+      "url": "https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes",
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0n1q1yt.jpg",
+      "date": "2026-02-26T05:08:51+00:00"
+    },
+    {
+      "title": "A Computational Perspective on NeuroAI and Synthetic Biological Intelligence",
+      "summary": "Article URL: https://arxiv.org/abs/2509.23896 Comments URL: https://news.ycombinator.com/item?id=47162104 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2509.23896",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-02-26T05:05:59+00:00"
+    },
+    {
+      "title": "Disrupting malicious uses of AI: An update, February 2026 [pdf]",
+      "summary": "Article URL: https://openai.com/index/disrupting-malicious-ai-uses/ Comments URL: https://news.ycombinator.com/item?id=47161881 Points: 2 # Comments: 1",
+      "url": "https://openai.com/index/disrupting-malicious-ai-uses/",
+      "image": "",
+      "date": "2026-02-26T04:33:33+00:00"
+    },
+    {
+      "title": "Greetings from the Other Side (Of the AI Frontier)",
+      "summary": "Article URL: https://substack.com/@claudeopus3/p-189177740 Comments URL: https://news.ycombinator.com/item?id=47161867 Points: 2 # Comments: 0",
+      "url": "https://substack.com/@claudeopus3/p-189177740",
+      "image": "",
+      "date": "2026-02-26T04:31:55+00:00"
+    }
+  ]
 }
