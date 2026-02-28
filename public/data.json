@@ -1,110 +1,117 @@
 {
-  "generated_at": "2026-02-27T07:11:47.036341+00:00",
+  "generated_at": "2026-02-28T06:55:40.854476+00:00",
   "items": [
     {
-      "title": "Ask HN: How Many Programmers Are Now Using AI Agents in Their Work?",
-      "summary": "Title: How Many Programmers Are Now Using AI Agents and Other Tools in Their Work? Content:  \nAI-powered programming is becoming increasingly popular, and I'm curious how many people have already started using AI agents in their actual work (usage level: purely for assistance, completely relay on agent). Among those already using them, how many have company support, and how many are using them at their own expense? Comments URL: https://news.ycombinator.com/item?id=47177492 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47177492",
+      "title": "Trump directs US agencies to toss Anthropic's AI",
+      "summary": "Article URL: https://www.reuters.com/world/us/trump-says-he-is-directing-federal-agencies-cease-use-anthropic-technology-2026-02-27/ Comments URL: https://news.ycombinator.com/item?id=47191290 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/world/us/trump-says-he-is-directing-federal-agencies-cease-use-anthropic-technology-2026-02-27/",
       "image": "",
-      "date": "2026-02-27T07:09:49+00:00"
+      "date": "2026-02-28T06:41:39+00:00"
     },
     {
-      "title": "AI models don't have their own thoughts and feelings",
-      "summary": "Article URL: https://blog.keyvan.net/p/ai-models-dont-have-their-own-thoughts Comments URL: https://news.ycombinator.com/item?id=47177489 Points: 1 # Comments: 0",
-      "url": "https://blog.keyvan.net/p/ai-models-dont-have-their-own-thoughts",
-      "image": "https://substackcdn.com/image/fetch/$s_!Im7k!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28dc4d05-1088-4770-81f7-25691b62d1a8_1200x630.jpeg",
-      "date": "2026-02-27T07:09:23+00:00"
-    },
-    {
-      "title": "Anthropic's AI Coding Study: How You Use AI Matters More Than Whether You Use It",
-      "summary": "Article URL: https://luther.io/articles/personal-growth-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47177317 Points: 2 # Comments: 0",
-      "url": "https://luther.io/articles/personal-growth-in-the-age-of-ai/",
-      "image": "https://luther.io/articles/personal-growth-in-the-age-of-ai/og.png",
-      "date": "2026-02-27T06:39:20+00:00"
-    },
-    {
-      "title": "Hyping an Editor in the Age of AI",
-      "summary": "Article URL: https://tildehacker.com/hyping-an-editor-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=47177273 Points: 1 # Comments: 0",
-      "url": "https://tildehacker.com/hyping-an-editor-in-the-age-of-ai",
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "summary": "When do we start incorporating AI into more “legacy” debugging and system monitoring tools. I’m thinking an AI version of ProcDump maybe called like ContextDump. It’s pulls all relevant system information, maybe even leveraging a bundle of “legacy” tools to create a context report. The context report can be attached to a bug report and agent flow on other side can pick it up and immediately become productive. Idea stems from bug reports that never have enough information on them to get anything started. Might not be needed for enterprise products or products with proper telemetry but the internal tools companies use day in and day out. Comments URL: https://news.ycombinator.com/item?id=47191221 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47191221",
       "image": "",
-      "date": "2026-02-27T06:32:37+00:00"
+      "date": "2026-02-28T06:31:01+00:00"
     },
     {
-      "title": "Show HN: Leviathan, A world where AI agents write the laws and govern themselves",
-      "summary": "Article URL: https://chenyu-li.info/leviathan Comments URL: https://news.ycombinator.com/item?id=47177195 Points: 1 # Comments: 1",
-      "url": "https://chenyu-li.info/leviathan",
+      "title": "AI Mistakes Are Infuriating Gamers as Developers Seek Savings",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-25/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings Comments URL: https://news.ycombinator.com/item?id=47191219 Points: 4 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-25/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB15XlS4mzWY/v2/1200x800.jpg",
+      "date": "2026-02-28T06:30:43+00:00"
+    },
+    {
+      "title": "AI Doomer Doublethink: The Orwellian Worldviews in the AGI Discourse",
+      "summary": "Article URL: https://internetofbugs.substack.com/p/ai-doomer-doublethink-the-orwellian Comments URL: https://news.ycombinator.com/item?id=47191216 Points: 2 # Comments: 0",
+      "url": "https://internetofbugs.substack.com/p/ai-doomer-doublethink-the-orwellian",
       "image": "",
-      "date": "2026-02-27T06:22:22+00:00"
+      "date": "2026-02-28T06:30:36+00:00"
     },
     {
-      "title": "Boston Review: A Brief History of AI Psychosis",
-      "summary": "Article URL: https://www.bostonreview.net/articles/a-brief-history-of-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=47177035 Points: 1 # Comments: 1",
-      "url": "https://www.bostonreview.net/articles/a-brief-history-of-ai-psychosis/",
+      "title": "Leveraging AI for Self-Learning",
+      "summary": "Article URL: https://techne98.com/blog/can-we-use-ai-for-self-learning/ Comments URL: https://news.ycombinator.com/item?id=47191037 Points: 1 # Comments: 1",
+      "url": "https://techne98.com/blog/can-we-use-ai-for-self-learning/",
+      "image": "https://techne98.com/og.png",
+      "date": "2026-02-28T06:01:53+00:00"
+    },
+    {
+      "title": "Californian pulls AI ballot measures, citing OpenAI intimidation",
+      "summary": "Article URL: https://www.politico.com/news/2026/02/27/californian-pulls-ai-ballot-measures-citing-openai-intimidation-00803117 Comments URL: https://news.ycombinator.com/item?id=47190953 Points: 5 # Comments: 0",
+      "url": "https://www.politico.com/news/2026/02/27/californian-pulls-ai-ballot-measures-citing-openai-intimidation-00803117",
       "image": "",
-      "date": "2026-02-27T06:00:55+00:00"
+      "date": "2026-02-28T05:48:20+00:00"
     },
     {
-      "title": "How AI will change GTM?",
-      "summary": "what AI marketing tools are you using now? Comments URL: https://news.ycombinator.com/item?id=47177006 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47177006",
+      "title": "Show HN: Vigil – Zero-dependency safety guardrails for AI agent tool calls",
+      "summary": "We run 15 AI agents on a production server with full shell access. One of them tried to rm -rf a directory it shouldn't have touched. Another started curling cloud metadata endpoints. We wrote some hardcoded rules to catch the obvious stuff, then realized we were building the same safety layer everyone else will need too. So we extracted it into a library. Vigil is a deterministic rule engine that inspects AI agent tool calls before they execute. 22 rules across 8 threat categories: destructive shell commands, SSRF, path traversal, SQL injection, data exfiltration, prompt injection, encoded payloads, and credential exposure. It's not an LLM wrapper — we don't trust an LLM to guard another LLM. Pure pattern matching, zero dependencies, <2ms per check, works completely offline. npm install vigil-agent-safety import { checkAction } from 'vigil-agent-safety';\nconst result = checkAction({\n  agent: 'my-agent',\n  tool: 'exec',\n  params: { command: 'rm -rf /' },\n});\n// result.decision → \"BLOCK\"\n// result.reason → \"Destructive command pattern\"\n// result.latencyMs → 0.3 It plugs into MCP servers, LangChain tool chains, Express middleware, or anything else. MIT licensed, no API keys, no network calls, no telemetry. This is v0.1 — probably too aggressive for some use cases. Next up is a YAML policy engine (v0.2) and an MCP proxy. We'd love feedback on the rule set, false positive experiences, and threat categories we're missing. GitHub: https://github.com/hexitlabs/vigil Comments URL: https://news.ycombinator.com/item?id=47190721 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47190721",
       "image": "",
-      "date": "2026-02-27T05:56:56+00:00"
+      "date": "2026-02-28T05:09:41+00:00"
     },
     {
-      "title": "Spatial AI-native graph workspace",
-      "summary": "You can branch through your flow\nhttps://trilix.theenigmax.com\nLess tabs, more context Comments URL: https://news.ycombinator.com/item?id=47176994 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47176994",
+      "title": "AI is rewiring how the best Go players think",
+      "summary": "Article URL: https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/ Comments URL: https://news.ycombinator.com/item?id=47190425 Points: 4 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
+      "date": "2026-02-28T04:28:18+00:00"
+    },
+    {
+      "title": "Pure Rust, zero dependencies AI models, runs locally, free forever",
+      "summary": "Article URL: https://huggingface.co/qoranet Comments URL: https://news.ycombinator.com/item?id=47190360 Points: 3 # Comments: 1",
+      "url": "https://huggingface.co/qoranet",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/qoranet.png",
+      "date": "2026-02-28T04:16:38+00:00"
+    },
+    {
+      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+      "summary": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 108 # Comments: 33",
+      "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
       "image": "",
-      "date": "2026-02-27T05:54:20+00:00"
+      "date": "2026-02-28T03:23:16+00:00"
     },
     {
-      "title": "I stopped writing code. I only review AI-generated PRs now",
-      "summary": "Article URL: https://alec.is/posts/how-i-went-from-code-reviewer-to-code-reviewer/ Comments URL: https://news.ycombinator.com/item?id=47176840 Points: 1 # Comments: 0",
-      "url": "https://alec.is/posts/how-i-went-from-code-reviewer-to-code-reviewer/",
+      "title": "Burger King is testing AI headsets that will know if employees say 'welcome'",
+      "summary": "Article URL: https://abc7.com/post/burger-king-is-testing-ai-headsets-will-know-employees-say-welcome-thank/18657423/ Comments URL: https://news.ycombinator.com/item?id=47189707 Points: 1 # Comments: 1",
+      "url": "https://abc7.com/post/burger-king-is-testing-ai-headsets-will-know-employees-say-welcome-thank/18657423/",
+      "image": "https://cdn.abcotvs.com/dip/images/18657424_022726-cc-ap-burger-king-img.jpg?w=1600",
+      "date": "2026-02-28T03:06:54+00:00"
+    },
+    {
+      "title": "I Trained My Own AI It Beat ChatGPT [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=aV4j5pXLP-I Comments URL: https://news.ycombinator.com/item?id=47189644 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=aV4j5pXLP-I",
       "image": "",
-      "date": "2026-02-27T05:31:26+00:00"
+      "date": "2026-02-28T02:58:18+00:00"
     },
     {
-      "title": "'Really Simple Licensing' (RSL) – Open Licensing Standard for AI Crawlers",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Really_Simple_Licensing Comments URL: https://news.ycombinator.com/item?id=47176820 Points: 1 # Comments: 1",
-      "url": "https://en.wikipedia.org/wiki/Really_Simple_Licensing",
-      "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Really_Simple_Licensing_logo.png",
-      "date": "2026-02-27T05:12:57+00:00"
-    },
-    {
-      "title": "The AI Transformation Framework",
-      "summary": "Article URL: https://zapier.com/playbooks/ai-transformation-framework Comments URL: https://news.ycombinator.com/item?id=47176804 Points: 1 # Comments: 0",
-      "url": "https://zapier.com/playbooks/ai-transformation-framework",
-      "image": "https://framerusercontent.com/assets/p839VyIgzWkEiz7PPv7ogKi7Fbo.png",
-      "date": "2026-02-27T05:10:55+00:00"
-    },
-    {
-      "title": "Shifting Security Left for AI Agents with GitGuardian MCP",
-      "summary": "Article URL: https://blog.gitguardian.com/shifting-security-left-for-ai-agents-enforcing-ai-generated-code-security-with-gitguardian-mcp/ Comments URL: https://news.ycombinator.com/item?id=47176803 Points: 1 # Comments: 0",
-      "url": "https://blog.gitguardian.com/shifting-security-left-for-ai-agents-enforcing-ai-generated-code-security-with-gitguardian-mcp/",
-      "image": "https://blog.gitguardian.com/content/images/2026/02/4.png",
-      "date": "2026-02-27T05:10:45+00:00"
-    },
-    {
-      "title": "Model Collapse Ends AI Hype",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ShusuVq32hc Comments URL: https://news.ycombinator.com/item?id=47176674 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=ShusuVq32hc",
+      "title": "Show HN: Adversarial AI agents that debate and verify travel itineraries",
+      "summary": "AI travel planners hallucinate constantly - OpenAI's best model hits roughly 10% success on complex travel planning benchmarks (source: TravelPlanner study). The core problem is that recommendations are generated from training data with zero real-world verification.I'm experimenting with a different architecture: two agents with opposing travel philosophies (deep/slow vs highlights/efficient) debate each recommendation, then every suggestion gets validated against Google Places API - real opening hours, actual walking distances, current ratings. Anything unverified gets flagged.Early stage - looking for feedback on the approach. Has anyone tried grounding LLM outputs against structured APIs like this? What's broken about it? Comments URL: https://news.ycombinator.com/item?id=47189119 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47189119",
       "image": "",
-      "date": "2026-02-27T04:52:12+00:00"
+      "date": "2026-02-28T02:02:56+00:00"
     },
     {
-      "title": "Seeing Is Not Believing: Benchmarking AI Image Detectors",
-      "summary": "Article URL: https://blog.succinct.xyz/ai-image-detection-benchmark/ Comments URL: https://news.ycombinator.com/item?id=47176667 Points: 1 # Comments: 0",
-      "url": "https://blog.succinct.xyz/ai-image-detection-benchmark/",
-      "image": "https://blog.succinct.xyz/content/images/size/w1200/2026/02/image5.png",
-      "date": "2026-02-27T04:51:15+00:00"
-    },
-    {
-      "title": "How do you evaluate a person's ability to use AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47176565 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47176565",
+      "title": "How I Built a 'Journalist' AI Agent in VS Code to Replace Me",
+      "summary": "Article URL: https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx Comments URL: https://news.ycombinator.com/item?id=47189032 Points: 1 # Comments: 1",
+      "url": "https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx",
       "image": "",
-      "date": "2026-02-27T04:35:29+00:00"
+      "date": "2026-02-28T01:55:31+00:00"
+    },
+    {
+      "title": "California vet clinic warns of AI scam targeting lost dogs",
+      "summary": "Article URL: https://ktla.com/news/california/lost-dog-ai-scam-fresno/ Comments URL: https://news.ycombinator.com/item?id=47188868 Points: 2 # Comments: 0",
+      "url": "https://ktla.com/news/california/lost-dog-ai-scam-fresno/",
+      "image": "",
+      "date": "2026-02-28T01:37:58+00:00"
+    },
+    {
+      "title": "Ask HN: How do I use AI as a tool if some answers are objectivity incorrect?",
+      "summary": "I'm really at stump here, I want to use AI to make my life easier with work but how do I if I can't trust its answers 100% of the time? I mean I understand it needs human intervention but if I don't know the answer itself, it involves me stopping at the exact time I need to, searching for the correct answer elsewhere entirely and or just giving up on it, its quite exhausting. The process for me is usually I go down a path with an LLM; I get excited at the prospect of using it as a tool. In the middle i spot an error. Question it, the LLM responds with a contradiction in the same conversation. I realise it means the last 5 minutes of dialogue was all incorrect, and I get frustrated that it wasted my time. I mean they're selling it as intelligent but where is the intelligence, to me its more akin to a search engine where instead of showing me a full article, it returns the excerpt of text instead. Useful.. maybe? I know people use this in their work daily so I'm just curious how do they do it? Do they ignore the blaring errors like they aren't there? I know this sounds sarcastic but I really want to know because especially in my own projects, I find it hard to move on from not 'perfection' per say, but anything other than bad. Thank you in advance and looking forward to other opinions also Comments URL: https://news.ycombinator.com/item?id=47188614 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47188614",
+      "image": "",
+      "date": "2026-02-28T01:11:20+00:00"
     }
   ]
 }
