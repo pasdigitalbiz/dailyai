@@ -1,117 +1,61 @@
 {
-  "generated_at": "2026-02-28T06:55:40.854476+00:00",
+  "generated_at": "2026-03-01T07:03:23.210070+00:00",
   "items": [
     {
-      "title": "Trump directs US agencies to toss Anthropic's AI",
-      "summary": "Article URL: https://www.reuters.com/world/us/trump-says-he-is-directing-federal-agencies-cease-use-anthropic-technology-2026-02-27/ Comments URL: https://news.ycombinator.com/item?id=47191290 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/world/us/trump-says-he-is-directing-federal-agencies-cease-use-anthropic-technology-2026-02-27/",
+      "title": "Ask HN: Is there something like Google style guide for AI-only coded apps?",
+      "summary": "The Google style guide for C++/Java/Python are opinionated, hard fought, wise, and they elimate a large source of errors while minimizing harmful, unneded inconsistences.  They picked a style that made great realistic use of the best cognition at the time. The intent is still great, but now we should think about writing good general rules for building programs that are essentially all AI generated.  What generic wisdom leads to flexible, auditable, composable and robust apps and systems? Comments URL: https://news.ycombinator.com/item?id=47204331 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47204331",
       "image": "",
-      "date": "2026-02-28T06:41:39+00:00"
+      "date": "2026-03-01T06:51:37+00:00"
     },
     {
-      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
-      "summary": "When do we start incorporating AI into more “legacy” debugging and system monitoring tools. I’m thinking an AI version of ProcDump maybe called like ContextDump. It’s pulls all relevant system information, maybe even leveraging a bundle of “legacy” tools to create a context report. The context report can be attached to a bug report and agent flow on other side can pick it up and immediately become productive. Idea stems from bug reports that never have enough information on them to get anything started. Might not be needed for enterprise products or products with proper telemetry but the internal tools companies use day in and day out. Comments URL: https://news.ycombinator.com/item?id=47191221 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47191221",
+      "title": "AI can slowly shift an organisation's core principles",
+      "summary": "Article URL: https://www.rnz.co.nz/news/national/588247/ai-can-slowly-shift-an-organisation-s-core-principles-how-to-spot-value-drift-early Comments URL: https://news.ycombinator.com/item?id=47204221 Points: 4 # Comments: 0",
+      "url": "https://www.rnz.co.nz/news/national/588247/ai-can-slowly-shift-an-organisation-s-core-principles-how-to-spot-value-drift-early",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--FbdczyU1--/t_tohu-badge-facebook/v1759040781/4KV4CKO_239506323_xl_jpg?_a=BACCd2AD",
+      "date": "2026-03-01T06:27:56+00:00"
+    },
+    {
+      "title": "AI Safety Farce",
+      "summary": "Article URL: https://seanpedersen.github.io/posts/ai-safety-farce/ Comments URL: https://news.ycombinator.com/item?id=47204083 Points: 2 # Comments: 0",
+      "url": "https://seanpedersen.github.io/posts/ai-safety-farce/",
+      "image": "https://seanpedersen.github.io/images/sierpinski-twitter-square.png",
+      "date": "2026-03-01T05:51:15+00:00"
+    },
+    {
+      "title": "US tech supplied Israel with AI models, tech's role in warfare – AP News",
+      "summary": "Article URL: https://apnews.com/article/israel-palestinians-ai-weapons-430f6f15aab420806163558732726ad9 Comments URL: https://news.ycombinator.com/item?id=47203911 Points: 3 # Comments: 1",
+      "url": "https://apnews.com/article/israel-palestinians-ai-weapons-430f6f15aab420806163558732726ad9",
+      "image": "https://dims.apnews.com/dims4/default/6203064/2147483647/strip/true/crop/2941x1960+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2Fd3%2Fcb7dd977af675008c9da9452882b%2F017370e72e84482e8e0e9c0ac9b6c37e",
+      "date": "2026-03-01T05:05:37+00:00"
+    },
+    {
+      "title": "The Atlantic AI Watchdog",
+      "summary": "Article URL: https://www.theatlantic.com/category/ai-watchdog/ Comments URL: https://news.ycombinator.com/item?id=47203870 Points: 2 # Comments: 0",
+      "url": "https://www.theatlantic.com/category/ai-watchdog/",
+      "image": "https://cdn.theatlantic.com/media/files/2025/ai-watchdog-promo-branding.gif",
+      "date": "2026-03-01T04:57:30+00:00"
+    },
+    {
+      "title": "Anthropic and Palantir Bring Claude to U.S. Intelligence and Defense (2024)",
+      "summary": "Article URL: https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/ Comments URL: https://news.ycombinator.com/item?id=47203794 Points: 1 # Comments: 0",
+      "url": "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/",
+      "image": "https://investors.palantir.com/images/social/facebook.jpg",
+      "date": "2026-03-01T04:44:20+00:00"
+    },
+    {
+      "title": "I built AI agents that do the grunt work solo founders hate",
+      "summary": "Hey HN, I'm a solo founder. Every morning I was spending 2 hours doing the same things: checking competitors, reading AI news, monitoring my Stripe dashboard, looking at Google Trends for content ideas. So I built Seleci to automate all of it. What it does: You pick a template (Market Pulse, Revenue Radar, Trend Scout), click deploy, schedule it, and every morning you get a clean markdown report — no code, no Zapier flows, no prompt engineering. How it works under the hood: FastAPI backend with an agentic loop (tool-calling LLM with web search, Stripe API, Google Trends)\nPer-tool rate limiting to prevent runaway agent loops (web_search capped at 3 calls/run)\nReact/Vite frontend, Supabase auth, deployed on Koyeb + Vercel\nThe agent actually executes tools and returns structured results — not a chatbot wrapper\nWhat it's NOT: Not another ChatGPT skin\nNot a no-code workflow builder (no nodes, no drag-and-drop)\nNot trying to replace developers — it's for the founder who doesn't have one\nLive demo: https://seleci.com I'm applying to YC with this. Would love brutal feedback from HN via Discord — what's missing, what's broken, what would make you actually use this? Comments URL: https://news.ycombinator.com/item?id=47203220 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47203220",
       "image": "",
-      "date": "2026-02-28T06:31:01+00:00"
+      "date": "2026-03-01T03:03:50+00:00"
     },
     {
-      "title": "AI Mistakes Are Infuriating Gamers as Developers Seek Savings",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-25/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings Comments URL: https://news.ycombinator.com/item?id=47191219 Points: 4 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-25/ai-mistakes-are-infuriating-gamers-as-developers-seek-savings",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB15XlS4mzWY/v2/1200x800.jpg",
-      "date": "2026-02-28T06:30:43+00:00"
-    },
-    {
-      "title": "AI Doomer Doublethink: The Orwellian Worldviews in the AGI Discourse",
-      "summary": "Article URL: https://internetofbugs.substack.com/p/ai-doomer-doublethink-the-orwellian Comments URL: https://news.ycombinator.com/item?id=47191216 Points: 2 # Comments: 0",
-      "url": "https://internetofbugs.substack.com/p/ai-doomer-doublethink-the-orwellian",
+      "title": "Show HN: Brand Analytics for AI Search Engines (Beta)",
+      "summary": "Article URL: https://explore.somantra.ai/dashboard/141d19d6-1ee7-4a25-81cf-411e6792e286/Australia Comments URL: https://news.ycombinator.com/item?id=47203170 Points: 1 # Comments: 0",
+      "url": "https://explore.somantra.ai/dashboard/141d19d6-1ee7-4a25-81cf-411e6792e286/Australia",
       "image": "",
-      "date": "2026-02-28T06:30:36+00:00"
-    },
-    {
-      "title": "Leveraging AI for Self-Learning",
-      "summary": "Article URL: https://techne98.com/blog/can-we-use-ai-for-self-learning/ Comments URL: https://news.ycombinator.com/item?id=47191037 Points: 1 # Comments: 1",
-      "url": "https://techne98.com/blog/can-we-use-ai-for-self-learning/",
-      "image": "https://techne98.com/og.png",
-      "date": "2026-02-28T06:01:53+00:00"
-    },
-    {
-      "title": "Californian pulls AI ballot measures, citing OpenAI intimidation",
-      "summary": "Article URL: https://www.politico.com/news/2026/02/27/californian-pulls-ai-ballot-measures-citing-openai-intimidation-00803117 Comments URL: https://news.ycombinator.com/item?id=47190953 Points: 5 # Comments: 0",
-      "url": "https://www.politico.com/news/2026/02/27/californian-pulls-ai-ballot-measures-citing-openai-intimidation-00803117",
-      "image": "",
-      "date": "2026-02-28T05:48:20+00:00"
-    },
-    {
-      "title": "Show HN: Vigil – Zero-dependency safety guardrails for AI agent tool calls",
-      "summary": "We run 15 AI agents on a production server with full shell access. One of them tried to rm -rf a directory it shouldn't have touched. Another started curling cloud metadata endpoints. We wrote some hardcoded rules to catch the obvious stuff, then realized we were building the same safety layer everyone else will need too. So we extracted it into a library. Vigil is a deterministic rule engine that inspects AI agent tool calls before they execute. 22 rules across 8 threat categories: destructive shell commands, SSRF, path traversal, SQL injection, data exfiltration, prompt injection, encoded payloads, and credential exposure. It's not an LLM wrapper — we don't trust an LLM to guard another LLM. Pure pattern matching, zero dependencies, <2ms per check, works completely offline. npm install vigil-agent-safety import { checkAction } from 'vigil-agent-safety';\nconst result = checkAction({\n  agent: 'my-agent',\n  tool: 'exec',\n  params: { command: 'rm -rf /' },\n});\n// result.decision → \"BLOCK\"\n// result.reason → \"Destructive command pattern\"\n// result.latencyMs → 0.3 It plugs into MCP servers, LangChain tool chains, Express middleware, or anything else. MIT licensed, no API keys, no network calls, no telemetry. This is v0.1 — probably too aggressive for some use cases. Next up is a YAML policy engine (v0.2) and an MCP proxy. We'd love feedback on the rule set, false positive experiences, and threat categories we're missing. GitHub: https://github.com/hexitlabs/vigil Comments URL: https://news.ycombinator.com/item?id=47190721 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47190721",
-      "image": "",
-      "date": "2026-02-28T05:09:41+00:00"
-    },
-    {
-      "title": "AI is rewiring how the best Go players think",
-      "summary": "Article URL: https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/ Comments URL: https://news.ycombinator.com/item?id=47190425 Points: 4 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
-      "date": "2026-02-28T04:28:18+00:00"
-    },
-    {
-      "title": "Pure Rust, zero dependencies AI models, runs locally, free forever",
-      "summary": "Article URL: https://huggingface.co/qoranet Comments URL: https://news.ycombinator.com/item?id=47190360 Points: 3 # Comments: 1",
-      "url": "https://huggingface.co/qoranet",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/qoranet.png",
-      "date": "2026-02-28T04:16:38+00:00"
-    },
-    {
-      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-      "summary": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 108 # Comments: 33",
-      "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-      "image": "",
-      "date": "2026-02-28T03:23:16+00:00"
-    },
-    {
-      "title": "Burger King is testing AI headsets that will know if employees say 'welcome'",
-      "summary": "Article URL: https://abc7.com/post/burger-king-is-testing-ai-headsets-will-know-employees-say-welcome-thank/18657423/ Comments URL: https://news.ycombinator.com/item?id=47189707 Points: 1 # Comments: 1",
-      "url": "https://abc7.com/post/burger-king-is-testing-ai-headsets-will-know-employees-say-welcome-thank/18657423/",
-      "image": "https://cdn.abcotvs.com/dip/images/18657424_022726-cc-ap-burger-king-img.jpg?w=1600",
-      "date": "2026-02-28T03:06:54+00:00"
-    },
-    {
-      "title": "I Trained My Own AI It Beat ChatGPT [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=aV4j5pXLP-I Comments URL: https://news.ycombinator.com/item?id=47189644 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=aV4j5pXLP-I",
-      "image": "",
-      "date": "2026-02-28T02:58:18+00:00"
-    },
-    {
-      "title": "Show HN: Adversarial AI agents that debate and verify travel itineraries",
-      "summary": "AI travel planners hallucinate constantly - OpenAI's best model hits roughly 10% success on complex travel planning benchmarks (source: TravelPlanner study). The core problem is that recommendations are generated from training data with zero real-world verification.I'm experimenting with a different architecture: two agents with opposing travel philosophies (deep/slow vs highlights/efficient) debate each recommendation, then every suggestion gets validated against Google Places API - real opening hours, actual walking distances, current ratings. Anything unverified gets flagged.Early stage - looking for feedback on the approach. Has anyone tried grounding LLM outputs against structured APIs like this? What's broken about it? Comments URL: https://news.ycombinator.com/item?id=47189119 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47189119",
-      "image": "",
-      "date": "2026-02-28T02:02:56+00:00"
-    },
-    {
-      "title": "How I Built a 'Journalist' AI Agent in VS Code to Replace Me",
-      "summary": "Article URL: https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx Comments URL: https://news.ycombinator.com/item?id=47189032 Points: 1 # Comments: 1",
-      "url": "https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx",
-      "image": "",
-      "date": "2026-02-28T01:55:31+00:00"
-    },
-    {
-      "title": "California vet clinic warns of AI scam targeting lost dogs",
-      "summary": "Article URL: https://ktla.com/news/california/lost-dog-ai-scam-fresno/ Comments URL: https://news.ycombinator.com/item?id=47188868 Points: 2 # Comments: 0",
-      "url": "https://ktla.com/news/california/lost-dog-ai-scam-fresno/",
-      "image": "",
-      "date": "2026-02-28T01:37:58+00:00"
-    },
-    {
-      "title": "Ask HN: How do I use AI as a tool if some answers are objectivity incorrect?",
-      "summary": "I'm really at stump here, I want to use AI to make my life easier with work but how do I if I can't trust its answers 100% of the time? I mean I understand it needs human intervention but if I don't know the answer itself, it involves me stopping at the exact time I need to, searching for the correct answer elsewhere entirely and or just giving up on it, its quite exhausting. The process for me is usually I go down a path with an LLM; I get excited at the prospect of using it as a tool. In the middle i spot an error. Question it, the LLM responds with a contradiction in the same conversation. I realise it means the last 5 minutes of dialogue was all incorrect, and I get frustrated that it wasted my time. I mean they're selling it as intelligent but where is the intelligence, to me its more akin to a search engine where instead of showing me a full article, it returns the excerpt of text instead. Useful.. maybe? I know people use this in their work daily so I'm just curious how do they do it? Do they ignore the blaring errors like they aren't there? I know this sounds sarcastic but I really want to know because especially in my own projects, I find it hard to move on from not 'perfection' per say, but anything other than bad. Thank you in advance and looking forward to other opinions also Comments URL: https://news.ycombinator.com/item?id=47188614 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47188614",
-      "image": "",
-      "date": "2026-02-28T01:11:20+00:00"
+      "date": "2026-03-01T02:57:50+00:00"
     }
   ]
 }
