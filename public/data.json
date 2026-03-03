@@ -1,4 +1,47 @@
 {
-  "generated_at": "2026-03-02T07:14:57.319975+00:00",
-  "items": []
+  "generated_at": "2026-03-03T07:09:28.207875+00:00",
+  "items": [
+    {
+      "title": "Building AI agent for our own company",
+      "summary": "Article URL: https://blog.leanmcp.com/blog/llms-getting-leanmcp-wrong Comments URL: https://news.ycombinator.com/item?id=47229100 Points: 1 # Comments: 0",
+      "url": "https://blog.leanmcp.com/blog/llms-getting-leanmcp-wrong",
+      "image": "https://blog.leanmcp.com/images/covers/22.png",
+      "date": "2026-03-03T07:03:33+00:00"
+    },
+    {
+      "title": "Underrated Reasons to Dislike AI",
+      "summary": "Article URL: https://www.autodidacts.io/underrated-reasons-to-dislike-ai/ Comments URL: https://news.ycombinator.com/item?id=47228474 Points: 1 # Comments: 0",
+      "url": "https://www.autodidacts.io/underrated-reasons-to-dislike-ai/",
+      "image": "https://www.autodidacts.io/content/images/size/w1200/2025/12/Screenshot-2025-11-27-at-13-43-18-The-Autodidacts.png",
+      "date": "2026-03-03T05:28:11+00:00"
+    },
+    {
+      "title": "DexCode – AI Slide Creation Environment for Developers",
+      "summary": "Article URL: https://co-r-e.github.io/dexcode-lp/ Comments URL: https://news.ycombinator.com/item?id=47228196 Points: 2 # Comments: 1",
+      "url": "https://co-r-e.github.io/dexcode-lp/",
+      "image": "https://co-r-e.github.io/dexcode-lp/assets/og-image.png?v=2",
+      "date": "2026-03-03T04:48:18+00:00"
+    },
+    {
+      "title": "Show HN: Starcraft2 replay rendering engine and AI coach",
+      "summary": "Starcraft2 is an old game, but it's always lacked a way to visualize game replays outside of the game itself. I built a replay rendering engine from scratch using the replay files and Claude Code. The replay files contain sampled position coordinates and commands that the player inputs. So I built an isometric view using the map and overlayed unit icons over the map, then interpolated the positions that units move in over time. I also extracted additional metrics from the game data as well - some are derived on top of other metrics. Finally, I pass all this context into a LLM for it to critique gameplay and offer strengths and improvements per player. It's not perfect, but a good starting point to iterate and improve Let me know what you think! Comments URL: https://news.ycombinator.com/item?id=47227902 Points: 4 # Comments: 0",
+      "url": "https://www.starcraft2.ai/en/replay/72228e2b-569e-440d-9fcc-93e4a1f5a4b9",
+      "image": "https://www.starcraft2.ai/images/maps/Mothership_LE.webp",
+      "date": "2026-03-03T04:09:00+00:00"
+    },
+    {
+      "title": "Elevated Errors in Claude.ai",
+      "summary": "Article URL: https://status.claude.com/incidents/yf48hzysrvl5 Comments URL: https://news.ycombinator.com/item?id=47227647 Points: 80 # Comments: 54",
+      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "date": "2026-03-03T03:31:07+00:00"
+    },
+    {
+      "title": "Cisco Donates Project CodeGuard to Coalition for Secure AI",
+      "summary": "Article URL: https://www.oasis-open.org/2026/02/09/cisco-donates-project-codeguard-to-coalition-for-secure-ai/ Comments URL: https://news.ycombinator.com/item?id=47227527 Points: 2 # Comments: 0",
+      "url": "https://www.oasis-open.org/2026/02/09/cisco-donates-project-codeguard-to-coalition-for-secure-ai/",
+      "image": "https://www.oasis-open.org/wp-content/uploads/2026/02/Project-CodeGuard-Press-Release-Graphic-560x415-2.png",
+      "date": "2026-03-03T03:13:43+00:00"
+    }
+  ]
 }
