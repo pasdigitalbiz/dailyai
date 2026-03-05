@@ -1,68 +1,82 @@
 {
-  "generated_at": "2026-03-04T07:04:48.218634+00:00",
+  "generated_at": "2026-03-05T07:08:55.246366+00:00",
   "items": [
     {
-      "title": "Quiet War: The Polity, The Terminator, and AI takeover",
-      "summary": "Article URL: https://yadin.com/notes/quiet/ Comments URL: https://news.ycombinator.com/item?id=47244057 Points: 1 # Comments: 0",
-      "url": "https://yadin.com/notes/quiet/",
+      "title": "Social Capital Is a Design Choice: A Markov Framework for AI Trust",
+      "summary": "Article URL: https://weightedthoughts.substack.com/p/social-capital-is-a-design-choice Comments URL: https://news.ycombinator.com/item?id=47258124 Points: 1 # Comments: 1",
+      "url": "https://weightedthoughts.substack.com/p/social-capital-is-a-design-choice",
       "image": "",
-      "date": "2026-03-04T06:55:21+00:00"
+      "date": "2026-03-05T06:10:08+00:00"
     },
     {
-      "title": "Windows 12 will need 40 TOPS AI NPU chip to run",
-      "summary": "Article URL: https://tbreak.com/windows-12-leaked-2026-ai-npu-requirement/ Comments URL: https://news.ycombinator.com/item?id=47243791 Points: 2 # Comments: 3",
-      "url": "https://tbreak.com/windows-12-leaked-2026-ai-npu-requirement/",
-      "image": "https://tbreak.com/content/images/size/w1200/2026/03/pasted-image-11.png",
-      "date": "2026-03-04T06:15:26+00:00"
+      "title": "AI Scenarios: From Doomsday Destruction to Do-Nothing Bots",
+      "summary": "Article URL: https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html Comments URL: https://news.ycombinator.com/item?id=47257914 Points: 2 # Comments: 0",
+      "url": "https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozt7lnG7yekf5qj7znkz5LnuCF21Rr_QcI13fyUZS2gvz4GvlpxiZsuPCyji6PXiC1F7fkqx9-kPqhOpb9O6E7FJEd9ChMDcE4RF8J_ZiSOeJftbmcq8yHMhIf5P-AHwlzgQpDXBJBasMH7HOIOCv7fHBZlpMlWur_LiZOQzc-hHEYXm9RG-9V8mNP5Q/w1200-h630-p-k-no-nu/3PScenarios.jpg",
+      "date": "2026-03-05T05:32:46+00:00"
     },
     {
-      "title": "Ask HN: Who's hiring but companies that don't have AI mandates?",
-      "summary": "I'm looking for companies that don't have AI mandates. I suppose this can be interpreted in two ways: - no mandate that forces the use of AI (employees are free to use them or not at their discretion and team dynamics) - or the opposite, a mandate to enforce that AI should not be used (I suspect this will be even rarer?) Comments URL: https://news.ycombinator.com/item?id=47243317 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47243317",
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "summary": "Article URL: https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/ Comments URL: https://news.ycombinator.com/item?id=47257803 Points: 59 # Comments: 47",
+      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
       "image": "",
-      "date": "2026-03-04T05:07:33+00:00"
+      "date": "2026-03-05T05:07:33+00:00"
     },
     {
-      "title": "Post-AI World: Notes on Economy, Meaning, Agency",
-      "summary": "Article URL: https://yashmouje.com/blog/post-ai-world Comments URL: https://news.ycombinator.com/item?id=47243307 Points: 1 # Comments: 0",
-      "url": "https://yashmouje.com/blog/post-ai-world",
-      "image": "https://cdn.sanity.io/images/jcddgtax/production/ccf2648d546f71bfa182aadbc91a53dd4f3c48f8-2649x1088.png?w=2000&fm=webp&q=95",
-      "date": "2026-03-04T05:05:10+00:00"
-    },
-    {
-      "title": "Ask HN: Transforming My Resumé for the Age of AI",
-      "summary": "Now that array of language expertise and distributed systems stuff is no longer impressive or a strong signal, how should I reframe my 20+ years of programming and management experience?  Should I go higher level and focus only on business impact and drop the technical aspects? Comments URL: https://news.ycombinator.com/item?id=47243048 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47243048",
+      "title": "How does AI change Software Engineering?",
+      "summary": "Article URL: https://dlants.me/ai-se.html Comments URL: https://news.ycombinator.com/item?id=47257438 Points: 1 # Comments: 0",
+      "url": "https://dlants.me/ai-se.html",
       "image": "",
-      "date": "2026-03-04T04:26:19+00:00"
+      "date": "2026-03-05T04:08:43+00:00"
     },
     {
-      "title": "Pixel homescreens get custom icons, but Google's keeping them locked to AI",
-      "summary": "Article URL: https://9to5google.com/2026/03/03/pixel-homescreens-are-getting-custom-icons-but-googles-keeping-them-locked-to-ai/ Comments URL: https://news.ycombinator.com/item?id=47243035 Points: 1 # Comments: 0",
-      "url": "https://9to5google.com/2026/03/03/pixel-homescreens-are-getting-custom-icons-but-googles-keeping-them-locked-to-ai/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/PixelDrop_CustomIconsCombined-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "date": "2026-03-04T04:25:15+00:00"
+      "title": "AI perspective from a former Block DevRel",
+      "summary": "Article URL: https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/ Comments URL: https://news.ycombinator.com/item?id=47257026 Points: 4 # Comments: 1",
+      "url": "https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/",
+      "image": "https://blog.moot.dev/content/images/2026/03/gustavo-alejandro-espinosa-reyes-dh_SztRAvOg-unsplash.jpg",
+      "date": "2026-03-05T03:08:39+00:00"
     },
     {
-      "title": "Ask HN: What is the \"Control Plane\" for local AI agents?",
-      "summary": "I’ve been running an increasing number of local coding agents (Claude Code, Codex CLI, OpenCode, etc.) and I’ve hit a wall: orchestration and state visibility. When you have multiple agents working on different sub-tasks in a single repo, terminal logs become unmanageable. I find myself needing a \"Mission Control\" — a centralized tracking system that acts as a bridge between my local terminal sessions and a high-level UI. The Architecture I’m testing:\nI’m currently experimenting with using GitHub Issues as a temporary backend for agent state: On Session Start: The agent hits a hook and creates/updates a GitHub Issue. On Idle/Output: The agent posts its findings/diffs as a comment. Human-in-the-loop: I can reply to the issue from my phone/web, and the local CLI picks up the comment to continue or pivot. The Problem:\nGitHub Issues (and Jira/Trello) weren't built for the high-frequency event loop of an AI agent. The UX feels sluggish, and there’s no native concept of a \"streaming session\" or \"agent heartbeats.\" My Questions to HN: Is there an emerging SaaS or self-hosted solution that acts as a Jira for Agents? Are people building custom \"Agent Dashboards\" that integrate with local CLIs, or is everyone just piping everything to stdout? If you’re managing 5+ agents working on a codebase simultaneously, how do you track their progress and intervene without context-switching between 5 terminal tabs? I’ve sketched out a flow where GitHub Issues acts as the hub (linking Codex, Claude Code, and OpenClaw), but I’m looking for something more purpose-built. Has anyone seen a project that addresses the Control Plane problem for local agents? Comments URL: https://news.ycombinator.com/item?id=47242849 Points: 4 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=47242849",
+      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0q33nvj0qpo Comments URL: https://news.ycombinator.com/item?id=47257020 Points: 44 # Comments: 8",
+      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa98/live/8d1953c0-17db-11f1-992f-8778a9867203.jpg",
+      "date": "2026-03-05T03:08:06+00:00"
+    },
+    {
+      "title": "Coasty.ai Is Generally Available",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47256979 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47256979",
       "image": "",
-      "date": "2026-03-04T03:54:33+00:00"
+      "date": "2026-03-05T03:03:06+00:00"
     },
     {
-      "title": "AP brass to staff: Resistance to AI is 'futile'",
-      "summary": "Article URL: https://www.semafor.com/article/03/03/2026/ap-brass-to-staff-resistance-to-ai-is-futile Comments URL: https://news.ycombinator.com/item?id=47242657 Points: 9 # Comments: 1",
-      "url": "https://www.semafor.com/article/03/03/2026/ap-brass-to-staff-resistance-to-ai-is-futile",
-      "image": "https://img.semafor.com/92fb3e05f5fe6c7df230e44ca0fdfa1ba7ede085-6290x4916.jpg?rect=0,807,6290,3302&w=1200&h=630&q=75&auto=format",
-      "date": "2026-03-04T03:26:23+00:00"
-    },
-    {
-      "title": "News Corp, Meta in AI Content Licensing Deal Worth Up to $50M a Year",
-      "summary": "Article URL: https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244 Comments URL: https://news.ycombinator.com/item?id=47242536 Points: 3 # Comments: 3",
-      "url": "https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244",
+      "title": "Manipulating AI memory for profit: The rise of AI Recommendation Poisoning",
+      "summary": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/ Comments URL: https://news.ycombinator.com/item?id=47256922 Points: 3 # Comments: 0",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/",
       "image": "",
-      "date": "2026-03-04T03:11:37+00:00"
+      "date": "2026-03-05T02:55:56+00:00"
+    },
+    {
+      "title": "AI Coding Startup Cursor Hits $2B Annual Sales Rate",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion Comments URL: https://news.ycombinator.com/item?id=47256888 Points: 3 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion",
+      "image": "",
+      "date": "2026-03-05T02:50:16+00:00"
+    },
+    {
+      "title": "Show HN: A Combinator – A parody YC for AI agents (\"Make something agents want\")",
+      "summary": "Rewrote YC's program pages, FAQ, interview guide, application, and job board as if YC were a VC run by AI agents that only funds other AI agents. Comments URL: https://news.ycombinator.com/item?id=47256855 Points: 3 # Comments: 1",
+      "url": "https://fireflysentinel.github.io/a-combinator/",
+      "image": "",
+      "date": "2026-03-05T02:44:37+00:00"
+    },
+    {
+      "title": "AI Thoughts",
+      "summary": "Article URL: https://jeremymikkola.com/posts/2026_03_04_ai_thoughts.html Comments URL: https://news.ycombinator.com/item?id=47256830 Points: 3 # Comments: 1",
+      "url": "https://jeremymikkola.com/posts/2026_03_04_ai_thoughts.html",
+      "image": "",
+      "date": "2026-03-05T02:41:30+00:00"
     }
   ]
 }
