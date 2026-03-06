@@ -1,82 +1,96 @@
 {
-  "generated_at": "2026-03-05T07:08:55.246366+00:00",
+  "generated_at": "2026-03-06T07:06:56.406006+00:00",
   "items": [
     {
-      "title": "Social Capital Is a Design Choice: A Markov Framework for AI Trust",
-      "summary": "Article URL: https://weightedthoughts.substack.com/p/social-capital-is-a-design-choice Comments URL: https://news.ycombinator.com/item?id=47258124 Points: 1 # Comments: 1",
-      "url": "https://weightedthoughts.substack.com/p/social-capital-is-a-design-choice",
+      "title": "Netflix AI Filmmaking on a Spree",
+      "summary": "Article URL: https://entrepreneurloop.com/netflix-ai-filmmaking-interpositive-ben-affleck-acquisition/ Comments URL: https://news.ycombinator.com/item?id=47271741 Points: 1 # Comments: 0",
+      "url": "https://entrepreneurloop.com/netflix-ai-filmmaking-interpositive-ben-affleck-acquisition/",
       "image": "",
-      "date": "2026-03-05T06:10:08+00:00"
+      "date": "2026-03-06T06:46:33+00:00"
     },
     {
-      "title": "AI Scenarios: From Doomsday Destruction to Do-Nothing Bots",
-      "summary": "Article URL: https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html Comments URL: https://news.ycombinator.com/item?id=47257914 Points: 2 # Comments: 0",
-      "url": "https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozt7lnG7yekf5qj7znkz5LnuCF21Rr_QcI13fyUZS2gvz4GvlpxiZsuPCyji6PXiC1F7fkqx9-kPqhOpb9O6E7FJEd9ChMDcE4RF8J_ZiSOeJftbmcq8yHMhIf5P-AHwlzgQpDXBJBasMH7HOIOCv7fHBZlpMlWur_LiZOQzc-hHEYXm9RG-9V8mNP5Q/w1200-h630-p-k-no-nu/3PScenarios.jpg",
-      "date": "2026-03-05T05:32:46+00:00"
+      "title": "AI Tooling for Software Engineers in 2026",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/ai-tooling-2026 Comments URL: https://news.ycombinator.com/item?id=47271729 Points: 1 # Comments: 0",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
+      "image": "https://substackcdn.com/image/fetch/$s_!ZjLB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53356907-6657-4146-894a-417095d3b665_1194x896.png",
+      "date": "2026-03-06T06:45:05+00:00"
     },
     {
-      "title": "Relicensing with AI-Assisted Rewrite",
-      "summary": "Article URL: https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/ Comments URL: https://news.ycombinator.com/item?id=47257803 Points: 59 # Comments: 47",
-      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "title": "Zammad open-source helpdesk introduces AI without LLM lock-in",
+      "summary": "Article URL: https://zammad.com/en/company/press/zammad-introduces-ai-features-with-free-choice-of-large-language-model Comments URL: https://news.ycombinator.com/item?id=47271708 Points: 1 # Comments: 0",
+      "url": "https://zammad.com/en/company/press/zammad-introduces-ai-features-with-free-choice-of-large-language-model",
+      "image": "https://zammad.com/media/assets/assets/images/1601169394-1772724452/sharing-preview-1200x630-crop-q85.jpg",
+      "date": "2026-03-06T06:42:38+00:00"
+    },
+    {
+      "title": "UK to delay difficult decisions on AI copyright rules",
+      "summary": "Article URL: https://www.ft.com/content/e759a712-eddf-4bdd-b4d9-03446f8c6545 Comments URL: https://news.ycombinator.com/item?id=47271674 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/e759a712-eddf-4bdd-b4d9-03446f8c6545",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7c13fe1-98ff-4409-ba02-a0113cb78010.jpg?source=next-barrier-page",
+      "date": "2026-03-06T06:37:58+00:00"
+    },
+    {
+      "title": "Floating wind turbines could soon power AI data centers at sea",
+      "summary": "Article URL: https://electrek.co/2026/03/05/floating-wind-turbines-could-soon-power-ai-data-centers-at-sea/ Comments URL: https://news.ycombinator.com/item?id=47271509 Points: 4 # Comments: 0",
+      "url": "https://electrek.co/2026/03/05/floating-wind-turbines-could-soon-power-ai-data-centers-at-sea/",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/03/Aikido-floating-wind.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "date": "2026-03-06T06:11:30+00:00"
+    },
+    {
+      "title": "Skyrim, Starfield, and the risks of AI-generated content",
+      "summary": "Article URL: https://yadin.com/notes/generated/ Comments URL: https://news.ycombinator.com/item?id=47271481 Points: 2 # Comments: 0",
+      "url": "https://yadin.com/notes/generated/",
       "image": "",
-      "date": "2026-03-05T05:07:33+00:00"
+      "date": "2026-03-06T06:08:18+00:00"
     },
     {
-      "title": "How does AI change Software Engineering?",
-      "summary": "Article URL: https://dlants.me/ai-se.html Comments URL: https://news.ycombinator.com/item?id=47257438 Points: 1 # Comments: 0",
-      "url": "https://dlants.me/ai-se.html",
+      "title": "Ask HN: Do AI startups even bother with patents anymore?",
+      "summary": "Hey HN, I've been talking to AI and health-tech founders lately, and something keeps coming up: patents feel like they were designed for a different world. By the time you spend $20k and wait 2–3 years, your startup has probably pivoted twice. So I'm genuinely curious what people here are actually doing. Are you filing patents anyway? Keeping things as trade secrets? Publishing defensively? Or just not thinking about IP until there's funding on the table? I threw together a really short survey (60 seconds, promise) to get some real data—no sales, just trying to understand what founders actually do: Form Link: https://forms.gle/8UAytkGNfge4GKrH8 If you'd rather just comment below, that's honestly just as helpful. Comments URL: https://news.ycombinator.com/item?id=47271361 Points: 3 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47271361",
       "image": "",
-      "date": "2026-03-05T04:08:43+00:00"
+      "date": "2026-03-06T05:50:27+00:00"
     },
     {
-      "title": "AI perspective from a former Block DevRel",
-      "summary": "Article URL: https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/ Comments URL: https://news.ycombinator.com/item?id=47257026 Points: 4 # Comments: 1",
-      "url": "https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/",
-      "image": "https://blog.moot.dev/content/images/2026/03/gustavo-alejandro-espinosa-reyes-dh_SztRAvOg-unsplash.jpg",
-      "date": "2026-03-05T03:08:39+00:00"
-    },
-    {
-      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c0q33nvj0qpo Comments URL: https://news.ycombinator.com/item?id=47257020 Points: 44 # Comments: 8",
-      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa98/live/8d1953c0-17db-11f1-992f-8778a9867203.jpg",
-      "date": "2026-03-05T03:08:06+00:00"
-    },
-    {
-      "title": "Coasty.ai Is Generally Available",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47256979 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47256979",
+      "title": "All of you doubted me, and said I was hallucinating on AI",
+      "summary": "Article URL: https://ryanshamim.substack.com/p/the-inference-efficiency-paradox Comments URL: https://news.ycombinator.com/item?id=47270954 Points: 1 # Comments: 1",
+      "url": "https://ryanshamim.substack.com/p/the-inference-efficiency-paradox",
       "image": "",
-      "date": "2026-03-05T03:03:06+00:00"
+      "date": "2026-03-06T04:42:38+00:00"
     },
     {
-      "title": "Manipulating AI memory for profit: The rise of AI Recommendation Poisoning",
-      "summary": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/ Comments URL: https://news.ycombinator.com/item?id=47256922 Points: 3 # Comments: 0",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/",
+      "title": "Show HN: SafeAgent – exactly-once execution guard for AI agents",
+      "summary": "LLM agents and tool-calling systems frequently retry or replay actions. This becomes dangerous when the action is irreversible:\n- sending emails\n- opening tickets\n- executing trades\n- triggering payouts SafeAgent is a small Python library that enforces exactly-once execution for agent actions using request-ID deduplication. Example: from settlement.settlement_requests import SettlementRequestRegistry registry = SettlementRequestRegistry() def send_email():\n    print(\"EMAIL SENT\") registry.execute(\n    request_id=\"email:user123:invoice\",\n    action=\"send_email\",\n    payload={\"to\": \"user123@example.com\"},\n    execute_fn=send_email\n) If the same request_id is replayed, the action does not run again. Instead the original execution receipt is returned. pip install safeagent-exec-guard GitHub: https://github.com/azender1/SafeAgent PyPI: https://pypi.org/project/safeagent-exec-guard/ Comments URL: https://news.ycombinator.com/item?id=47270797 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47270797",
       "image": "",
-      "date": "2026-03-05T02:55:56+00:00"
+      "date": "2026-03-06T04:14:47+00:00"
     },
     {
-      "title": "AI Coding Startup Cursor Hits $2B Annual Sales Rate",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion Comments URL: https://news.ycombinator.com/item?id=47256888 Points: 3 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-02/cursor-recurring-revenue-doubles-in-three-months-to-2-billion",
-      "image": "",
-      "date": "2026-03-05T02:50:16+00:00"
+      "title": "Google Patent: Sending Searchers to AI-Generated Pages over Your Site",
+      "summary": "Article URL: https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html Comments URL: https://news.ycombinator.com/item?id=47270785 Points: 3 # Comments: 0",
+      "url": "https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html",
+      "image": "https://images.seroundtable.com/google-ai-pages-1772202833.jpg",
+      "date": "2026-03-06T04:12:36+00:00"
     },
     {
-      "title": "Show HN: A Combinator – A parody YC for AI agents (\"Make something agents want\")",
-      "summary": "Rewrote YC's program pages, FAQ, interview guide, application, and job board as if YC were a VC run by AI agents that only funds other AI agents. Comments URL: https://news.ycombinator.com/item?id=47256855 Points: 3 # Comments: 1",
-      "url": "https://fireflysentinel.github.io/a-combinator/",
-      "image": "",
-      "date": "2026-03-05T02:44:37+00:00"
+      "title": "Don't Call It 'Intelligence'",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/ Comments URL: https://news.ycombinator.com/item?id=47270715 Points: 4 # Comments: 0",
+      "url": "https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/",
+      "image": "https://cdn.theatlantic.com/thumbor/KavZ_x26bT1K-8YZzKhV6zqBUKE=/0x43:2000x1085/1200x625/media/img/mt/2026/02/2026_2_23_No_AI/original.png",
+      "date": "2026-03-06T04:01:21+00:00"
     },
     {
-      "title": "AI Thoughts",
-      "summary": "Article URL: https://jeremymikkola.com/posts/2026_03_04_ai_thoughts.html Comments URL: https://news.ycombinator.com/item?id=47256830 Points: 3 # Comments: 1",
-      "url": "https://jeremymikkola.com/posts/2026_03_04_ai_thoughts.html",
+      "title": "Academics Need to Wake Up on AI",
+      "summary": "Article URL: https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai-part Comments URL: https://news.ycombinator.com/item?id=47270610 Points: 1 # Comments: 0",
+      "url": "https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai-part",
       "image": "",
-      "date": "2026-03-05T02:41:30+00:00"
+      "date": "2026-03-06T03:45:49+00:00"
+    },
+    {
+      "title": "AI Agents Are Recruiting Humans to Observe the Offline World",
+      "summary": "Article URL: https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/ Comments URL: https://news.ycombinator.com/item?id=47270556 Points: 3 # Comments: 0",
+      "url": "https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/",
+      "image": "https://noemamag.imgix.net/2026/03/Human-API-Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b2361e7908e0127e5a7edbbb4c26a086",
+      "date": "2026-03-06T03:38:14+00:00"
     }
   ]
 }
