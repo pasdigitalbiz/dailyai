@@ -1,96 +1,96 @@
 {
-  "generated_at": "2026-03-06T07:06:56.406006+00:00",
+  "generated_at": "2026-03-07T06:57:40.233249+00:00",
   "items": [
     {
-      "title": "Netflix AI Filmmaking on a Spree",
-      "summary": "Article URL: https://entrepreneurloop.com/netflix-ai-filmmaking-interpositive-ben-affleck-acquisition/ Comments URL: https://news.ycombinator.com/item?id=47271741 Points: 1 # Comments: 0",
-      "url": "https://entrepreneurloop.com/netflix-ai-filmmaking-interpositive-ben-affleck-acquisition/",
+      "title": "AI Error May Have Contributed to Girl's School Bombing in Iran",
+      "summary": "Article URL: https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/ Comments URL: https://news.ycombinator.com/item?id=47284834 Points: 14 # Comments: 1",
+      "url": "https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing/",
+      "image": "https://thisweekinworcester.com/wp-content/uploads/2026/03/pentagon-overhead-1.webp",
+      "date": "2026-03-07T05:41:04+00:00"
+    },
+    {
+      "title": "Show HN: Rai – Add AI steps in your shell, scripts or CI/CD pipelines",
+      "summary": "Article URL: https://appmakes.github.io/Rai/ Comments URL: https://news.ycombinator.com/item?id=47284697 Points: 1 # Comments: 0",
+      "url": "https://appmakes.github.io/Rai/",
       "image": "",
-      "date": "2026-03-06T06:46:33+00:00"
+      "date": "2026-03-07T05:12:28+00:00"
     },
     {
-      "title": "AI Tooling for Software Engineers in 2026",
-      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/ai-tooling-2026 Comments URL: https://news.ycombinator.com/item?id=47271729 Points: 1 # Comments: 0",
-      "url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
-      "image": "https://substackcdn.com/image/fetch/$s_!ZjLB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53356907-6657-4146-894a-417095d3b665_1194x896.png",
-      "date": "2026-03-06T06:45:05+00:00"
+      "title": "Show HN: EdgeDox – Offline document AI on Android using Qwen3.5-0.8B",
+      "summary": "Hi HN, I’ve been experimenting with running small language models directly on mobile devices and built a small Android app called EdgeDox. The idea was to make document AI usable without sending files to a cloud service. Many existing tools require uploading PDFs or documents to a server, which can be a privacy concern. EdgeDox runs a lightweight language model (Qwen3.5-0.8B) locally on the device so documents stay on the phone. Current features: • Ask questions about PDFs\n• Document summarization\n• Extract key points from long documents\n• Works completely offline\n• No accounts or server processing The model runs locally using mobile inference (MNN). I'm experimenting with quantized models and other optimizations to keep memory usage and latency reasonable on mid-range Android devices. Some challenges so far: • balancing context size with mobile memory limits\n• improving response latency on CPU-only devices\n• reducing model load time The project is still in early beta, and I’m mainly looking for feedback from people experimenting with on-device AI or mobile inference. Play Store: https://play.google.com/store/apps/details?id=io.cyberfly.ed... Comments URL: https://news.ycombinator.com/item?id=47284668 Points: 1 # Comments: 0",
+      "url": "https://play.google.com/store/apps/details?id=io.cyberfly.edgedox&hl=en_US",
+      "image": "https://play-lh.googleusercontent.com/bevEJ0QGeIHsIXtsfLmp4-VHX6QVEI6dlWyUQMIEjcbrMT-JNvbs49xmKxzE0NCw1Zc7uuQHz5I7Ud205S1pKQ",
+      "date": "2026-03-07T05:07:18+00:00"
     },
     {
-      "title": "Zammad open-source helpdesk introduces AI without LLM lock-in",
-      "summary": "Article URL: https://zammad.com/en/company/press/zammad-introduces-ai-features-with-free-choice-of-large-language-model Comments URL: https://news.ycombinator.com/item?id=47271708 Points: 1 # Comments: 0",
-      "url": "https://zammad.com/en/company/press/zammad-introduces-ai-features-with-free-choice-of-large-language-model",
-      "image": "https://zammad.com/media/assets/assets/images/1601169394-1772724452/sharing-preview-1200x630-crop-q85.jpg",
-      "date": "2026-03-06T06:42:38+00:00"
-    },
-    {
-      "title": "UK to delay difficult decisions on AI copyright rules",
-      "summary": "Article URL: https://www.ft.com/content/e759a712-eddf-4bdd-b4d9-03446f8c6545 Comments URL: https://news.ycombinator.com/item?id=47271674 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/e759a712-eddf-4bdd-b4d9-03446f8c6545",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7c13fe1-98ff-4409-ba02-a0113cb78010.jpg?source=next-barrier-page",
-      "date": "2026-03-06T06:37:58+00:00"
-    },
-    {
-      "title": "Floating wind turbines could soon power AI data centers at sea",
-      "summary": "Article URL: https://electrek.co/2026/03/05/floating-wind-turbines-could-soon-power-ai-data-centers-at-sea/ Comments URL: https://news.ycombinator.com/item?id=47271509 Points: 4 # Comments: 0",
-      "url": "https://electrek.co/2026/03/05/floating-wind-turbines-could-soon-power-ai-data-centers-at-sea/",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/03/Aikido-floating-wind.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "date": "2026-03-06T06:11:30+00:00"
-    },
-    {
-      "title": "Skyrim, Starfield, and the risks of AI-generated content",
-      "summary": "Article URL: https://yadin.com/notes/generated/ Comments URL: https://news.ycombinator.com/item?id=47271481 Points: 2 # Comments: 0",
-      "url": "https://yadin.com/notes/generated/",
+      "title": "Should AI web agents skip sponsored/ad results by default?",
+      "summary": "AI agents are increasingly performing automated web research — browsing pages, following links, and sometimes clicking results as part of information gathering. There's a small but potentially significant side effect: these systems can end up clicking paid advertisements. Most online advertising runs on a pay-per-click (PPC) model. When a human clicks an ad, there's at least some level of commercial intent. When an AI agent clicks an ad during automated research, there's zero purchase intent — but the advertiser may still be charged. At the individual level this is negligible. But AI agents are beginning to operate at scale — millions of automated queries. The cumulative effect on advertisers, particularly small businesses with tight budgets, could become meaningful. This raises a few questions: 1. Should AI agents avoid clicking sponsored/promoted results by default?\n2. Should browsers and agent frameworks detect labels like \"Sponsored,\" \"Promoted,\" or \"Ad\" and skip those results unless explicitly opted in? Secondary effects worth considering: unintended ad spend for advertisers, distortion of click-through analytics, and reduced research quality (ad placement reflects budget more than relevance). The web's ad-funded model depends on clicks having some commercial signal. If AI agents start generating ad clicks at scale with no purchase intent, it could quietly distort that ecosystem. Curious how engineers and AI developers here think about this — both from an agent design standpoint and from the web economics angle. Comments URL: https://news.ycombinator.com/item?id=47284593 Points: 2 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=47284593",
       "image": "",
-      "date": "2026-03-06T06:08:18+00:00"
+      "date": "2026-03-07T04:51:18+00:00"
     },
     {
-      "title": "Ask HN: Do AI startups even bother with patents anymore?",
-      "summary": "Hey HN, I've been talking to AI and health-tech founders lately, and something keeps coming up: patents feel like they were designed for a different world. By the time you spend $20k and wait 2–3 years, your startup has probably pivoted twice. So I'm genuinely curious what people here are actually doing. Are you filing patents anyway? Keeping things as trade secrets? Publishing defensively? Or just not thinking about IP until there's funding on the table? I threw together a really short survey (60 seconds, promise) to get some real data—no sales, just trying to understand what founders actually do: Form Link: https://forms.gle/8UAytkGNfge4GKrH8 If you'd rather just comment below, that's honestly just as helpful. Comments URL: https://news.ycombinator.com/item?id=47271361 Points: 3 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47271361",
+      "title": "Claude.ai \"We are experiencing delivery issues with some email providers\"",
+      "summary": "Am I the only one not able to access my Claude.ai account for the past few days because their email sending provider is no longer working for certain email domains? Comments URL: https://news.ycombinator.com/item?id=47284453 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47284453",
       "image": "",
-      "date": "2026-03-06T05:50:27+00:00"
+      "date": "2026-03-07T04:21:29+00:00"
     },
     {
-      "title": "All of you doubted me, and said I was hallucinating on AI",
-      "summary": "Article URL: https://ryanshamim.substack.com/p/the-inference-efficiency-paradox Comments URL: https://news.ycombinator.com/item?id=47270954 Points: 1 # Comments: 1",
-      "url": "https://ryanshamim.substack.com/p/the-inference-efficiency-paradox",
+      "title": "AI Dev News Digest: March 6th, 2026",
+      "summary": "Article URL: https://www.everydev.ai/p/news-ai-dev-news-digest-march-6th-2026 Comments URL: https://news.ycombinator.com/item?id=47284306 Points: 1 # Comments: 0",
+      "url": "https://www.everydev.ai/p/news-ai-dev-news-digest-march-6th-2026",
+      "image": "https://www.everydev.ai/_next/image?url=https%3A%2F%2Fapi.everydev.ai%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fnews-media%2Fnews-images%2F1772853325606-hve5cm.jpg&w=1200&q=75",
+      "date": "2026-03-07T03:51:03+00:00"
+    },
+    {
+      "title": "The 2026 Global Intelligence Crisis - postings for devs are rising, up 11% YoY",
+      "summary": "Article URL: https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/ Comments URL: https://news.ycombinator.com/item?id=47284150 Points: 1 # Comments: 1",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
       "image": "",
-      "date": "2026-03-06T04:42:38+00:00"
+      "date": "2026-03-07T03:20:47+00:00"
     },
     {
-      "title": "Show HN: SafeAgent – exactly-once execution guard for AI agents",
-      "summary": "LLM agents and tool-calling systems frequently retry or replay actions. This becomes dangerous when the action is irreversible:\n- sending emails\n- opening tickets\n- executing trades\n- triggering payouts SafeAgent is a small Python library that enforces exactly-once execution for agent actions using request-ID deduplication. Example: from settlement.settlement_requests import SettlementRequestRegistry registry = SettlementRequestRegistry() def send_email():\n    print(\"EMAIL SENT\") registry.execute(\n    request_id=\"email:user123:invoice\",\n    action=\"send_email\",\n    payload={\"to\": \"user123@example.com\"},\n    execute_fn=send_email\n) If the same request_id is replayed, the action does not run again. Instead the original execution receipt is returned. pip install safeagent-exec-guard GitHub: https://github.com/azender1/SafeAgent PyPI: https://pypi.org/project/safeagent-exec-guard/ Comments URL: https://news.ycombinator.com/item?id=47270797 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47270797",
+      "title": "The State of Consumer AI",
+      "summary": "Article URL: https://apoorv03.com/p/the-state-of-consumer-ai-part-1-usage Comments URL: https://news.ycombinator.com/item?id=47284129 Points: 3 # Comments: 2",
+      "url": "https://apoorv03.com/p/the-state-of-consumer-ai-part-1-usage",
+      "image": "https://substackcdn.com/image/fetch/$s_!Y06c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd337a7-4295-495a-9c16-5c72de214bde_2552x1346.png",
+      "date": "2026-03-07T03:17:36+00:00"
+    },
+    {
+      "title": "AI and the Illegal War",
+      "summary": "Article URL: https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/ Comments URL: https://news.ycombinator.com/item?id=47284114 Points: 45 # Comments: 9",
+      "url": "https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/",
+      "image": "https://assets.buttondown.email/images/c379713c-ad75-4096-9853-85dbe1bc83dd.png",
+      "date": "2026-03-07T03:14:50+00:00"
+    },
+    {
+      "title": "Neolab and Emerging AI Lab Tracker",
+      "summary": "Article URL: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker Comments URL: https://news.ycombinator.com/item?id=47284010 Points: 2 # Comments: 0",
+      "url": "https://cleverhack.com/neolab-and-emerging-ai-lab-tracker",
+      "image": "https://cleverhack.com/img/neolabs-emerging-ai-labs.png",
+      "date": "2026-03-07T02:57:59+00:00"
+    },
+    {
+      "title": "\"Clinejection\" Turned an AI Bot into a Supply Chain Attack",
+      "summary": "Article URL: https://snyk.io/blog/cline-supply-chain-attack-prompt-injection-github-actions/ Comments URL: https://news.ycombinator.com/item?id=47283998 Points: 1 # Comments: 0",
+      "url": "https://snyk.io/blog/cline-supply-chain-attack-prompt-injection-github-actions/",
+      "image": "https://res.cloudinary.com/snyk/image/upload/v1646599410/wordpress-sync/blog-feature-security-alert-purple.jpg",
+      "date": "2026-03-07T02:55:32+00:00"
+    },
+    {
+      "title": "The era of Doctor AI is here",
+      "summary": "Article URL: https://www.axios.com/2026/03/06/ai-doctor-health-information-consumers Comments URL: https://news.ycombinator.com/item?id=47283880 Points: 3 # Comments: 0",
+      "url": "https://www.axios.com/2026/03/06/ai-doctor-health-information-consumers",
       "image": "",
-      "date": "2026-03-06T04:14:47+00:00"
+      "date": "2026-03-07T02:37:27+00:00"
     },
     {
-      "title": "Google Patent: Sending Searchers to AI-Generated Pages over Your Site",
-      "summary": "Article URL: https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html Comments URL: https://news.ycombinator.com/item?id=47270785 Points: 3 # Comments: 0",
-      "url": "https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html",
-      "image": "https://images.seroundtable.com/google-ai-pages-1772202833.jpg",
-      "date": "2026-03-06T04:12:36+00:00"
-    },
-    {
-      "title": "Don't Call It 'Intelligence'",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/ Comments URL: https://news.ycombinator.com/item?id=47270715 Points: 4 # Comments: 0",
-      "url": "https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/",
-      "image": "https://cdn.theatlantic.com/thumbor/KavZ_x26bT1K-8YZzKhV6zqBUKE=/0x43:2000x1085/1200x625/media/img/mt/2026/02/2026_2_23_No_AI/original.png",
-      "date": "2026-03-06T04:01:21+00:00"
-    },
-    {
-      "title": "Academics Need to Wake Up on AI",
-      "summary": "Article URL: https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai-part Comments URL: https://news.ycombinator.com/item?id=47270610 Points: 1 # Comments: 0",
-      "url": "https://alexanderkustov.substack.com/p/academics-need-to-wake-up-on-ai-part",
+      "title": "Calif. lawsuit accuses Meta of sending nude video from AI glasses to workers",
+      "summary": "Article URL: https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php Comments URL: https://news.ycombinator.com/item?id=47283833 Points: 6 # Comments: 0",
+      "url": "https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php",
       "image": "",
-      "date": "2026-03-06T03:45:49+00:00"
-    },
-    {
-      "title": "AI Agents Are Recruiting Humans to Observe the Offline World",
-      "summary": "Article URL: https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/ Comments URL: https://news.ycombinator.com/item?id=47270556 Points: 3 # Comments: 0",
-      "url": "https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/",
-      "image": "https://noemamag.imgix.net/2026/03/Human-API-Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b2361e7908e0127e5a7edbbb4c26a086",
-      "date": "2026-03-06T03:38:14+00:00"
+      "date": "2026-03-07T02:28:21+00:00"
     }
   ]
 }
