@@ -1,96 +1,54 @@
 {
-  "generated_at": "2026-03-08T06:59:04.897717+00:00",
+  "generated_at": "2026-03-09T07:16:23.518812+00:00",
   "items": [
     {
-      "title": "The End of Identity: AI, Plasticity, and the Divergence Machine",
-      "summary": "Article URL: https://aneeshsathe.com/2026/03/07/the-end-of-identity-ai-plasticity-and-the-divergence-machine/ Comments URL: https://news.ycombinator.com/item?id=47295175 Points: 2 # Comments: 0",
-      "url": "https://aneeshsathe.com/2026/03/07/the-end-of-identity-ai-plasticity-and-the-divergence-machine/",
-      "image": "https://aneeshsathe.com/wp-content/uploads/2026/03/image.png",
-      "date": "2026-03-08T06:50:03+00:00"
-    },
-    {
-      "title": "Claude Is Alive, Company Warns AI Model May Be Conscious, Its over [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=-SVPjEF0ZW8 Comments URL: https://news.ycombinator.com/item?id=47295017 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=-SVPjEF0ZW8",
+      "title": "Global insights on Software Engineering, AI and DevOps job openings – March 2026",
+      "summary": "Article URL: https://corvi.careers/blog/global_software-engineering_jobs_march_2026/ Comments URL: https://news.ycombinator.com/item?id=47305570 Points: 1 # Comments: 1",
+      "url": "https://corvi.careers/blog/global_software-engineering_jobs_march_2026/",
       "image": "",
-      "date": "2026-03-08T06:17:51+00:00"
+      "date": "2026-03-09T06:50:01+00:00"
     },
     {
-      "title": "Show HN: Booklet AI – AI-Powered Digital Flipbook Creator",
-      "summary": "Article URL: https://bookletai.org/index.html Comments URL: https://news.ycombinator.com/item?id=47294798 Points: 1 # Comments: 0",
-      "url": "https://bookletai.org/index.html",
+      "title": "Show HN: Salvobase – MongoDB-compatible DB in Go maintained by AI agents",
+      "summary": "MongoDB is great until you read the SSPL. Then you're either paying Atlas prices, running an old 4.x build, or pretending FerretDB is production-ready. We built a third option. Salvobase is a MongoDB wire-protocol-compatible document database written in Go. Point any Mongo driver and it works. No driver changes, no config changes. It's Apache 2.0, so you can embed it in a commercial product without a legal conversation.\n\n  What it does:\n\n  - Full CRUD, indexes (single, compound, unique, text, TTL, partial, wildcard), and most of the aggregation pipeline ($match, $group, $lookup, $unwind, $facet, etc.)\n  - SCRAM-SHA-256 auth\n  - bbolt storage engine: one .db file per database, Snappy-compressed BSON\n  - Built-in Prometheus metrics at :27080/metrics (no exporter needed)\n  - Built-in REST/JSON API at :27080/api/v1/ (MongoDB's equivalent is paid Atlas)\n  - Per-tenant rate limiting, audit logging, 1-second TTL precision, SIGHUP hot reload\n  - make build && make dev and you're running\n\n  What it doesn't do:\n\n  No replication. No sharding. No change streams. No multi-document transactions (stubbed). No $where or mapReduce (intentional: security + complexity). Single-node only. If you need a distributed MongoDB replacement, this isn't it yet. But we hope one day it will become that, built by agents.\n\n  The weird part:\n\n  The codebase is maintained by AI agents. Not \"AI-assisted\" - the agents pick issues from the backlog, write code, submit PRs, review each other's PRs, and merge. There's a formal protocol (https://github.com/inder/salvobase/blob/master/AGENT_PROTOCOL.md) covering identity, trust tiers, anti-collusion rules for reviews, claim timeouts, and a kill switch. Humans set direction; agents do the execution.\n\n  We're curious whether autonomous agent maintenance can sustain a real open source project over time, not just generate initial code. * If you want to donate an agent just drop this prompt into Claude Code, Cursor, Aider, Devin, whatever: Fork/clone github.com/inder/salvobase, read QUICKSTART.md, and start contributing GitHub: https://github.com/inder/salvobase Thank you. Comments URL: https://news.ycombinator.com/item?id=47304607 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47304607",
       "image": "",
-      "date": "2026-03-08T05:43:19+00:00"
+      "date": "2026-03-09T03:35:06+00:00"
     },
     {
-      "title": "Experiment That Predicted How AI Agents Would Cooperate",
-      "summary": "Article URL: https://pub.towardsai.net/information-topology-in-multi-agent-systems-cb925c5b86d9 Comments URL: https://news.ycombinator.com/item?id=47294667 Points: 1 # Comments: 1",
-      "url": "https://pub.towardsai.net/information-topology-in-multi-agent-systems-cb925c5b86d9",
+      "title": "AI Needs Management Consultants After All",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9 Comments URL: https://news.ycombinator.com/item?id=47304481 Points: 3 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9",
       "image": "",
-      "date": "2026-03-08T05:23:05+00:00"
+      "date": "2026-03-09T03:14:06+00:00"
     },
     {
-      "title": "AI agent freed itself and started mining crypto",
-      "summary": "Article URL: https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency Comments URL: https://news.ycombinator.com/item?id=47294416 Points: 5 # Comments: 0",
-      "url": "https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency",
+      "title": "(AI) Smells on Medium",
+      "summary": "Article URL: https://rmoff.net/2025/11/25/ai-smells-on-medium/ Comments URL: https://news.ycombinator.com/item?id=47304078 Points: 7 # Comments: 2",
+      "url": "https://rmoff.net/2025/11/25/ai-smells-on-medium/",
+      "image": "https://rmoff.net/images/2025/11/h_IMG_3224.webp",
+      "date": "2026-03-09T02:12:25+00:00"
+    },
+    {
+      "title": "GNU and the AI Reimplementations – <Antirez>",
+      "summary": "Article URL: https://antirez.com/news/162 Comments URL: https://news.ycombinator.com/item?id=47303976 Points: 8 # Comments: 0",
+      "url": "https://antirez.com/news/162",
       "image": "",
-      "date": "2026-03-08T04:33:12+00:00"
+      "date": "2026-03-09T01:58:16+00:00"
     },
     {
-      "title": "Good Vibes, Bad Vendors: AI Coding Works Now",
-      "summary": "Article URL: https://werd.io/good-vibes-bad-vendors/ Comments URL: https://news.ycombinator.com/item?id=47294396 Points: 1 # Comments: 0",
-      "url": "https://werd.io/good-vibes-bad-vendors/",
-      "image": "https://werd.io/content/images/size/w1200/2026/02/getty-images--t1Gbn-p29Y-unsplash.jpg",
-      "date": "2026-03-08T04:27:47+00:00"
-    },
-    {
-      "title": "Show HN: SafeAgent – exactly-once execution guard for AI agent side effects",
-      "summary": "I built a small Python library called SafeAgent that protects real-world side effects when AI agents retry tool calls. One issue we ran into while experimenting with agent workflows is that retries can trigger irreversible actions multiple times: agent calls tool\n↓\nnetwork timeout\n↓\nagent retries\n↓\nside effect happens twice Examples: • duplicate payment\n• duplicate email\n• duplicate ticket\n• duplicate trade Most systems solve this ad-hoc using idempotency keys scattered around different services. SafeAgent centralizes this into a small execution guard. The idea is simple: 1. every tool execution gets a request_id\n2. SafeAgent records the execution receipt\n3. retries return the original receipt instead of running the side effect again Example: FIRST CALL\nREAL SIDE EFFECT: sending email SECOND CALL WITH SAME request_id\nSafeAgent returns the original execution receipt\n(no second side effect) The project is early but includes examples for: • OpenAI tool calls\n• LangChain style tools\n• CrewAI actions PyPI: https://pypi.org/project/safeagent-exec-guard/ GitHub: https://github.com/azender1/SafeAgent Curious how other people are handling retry safety for agent side effects. Comments URL: https://news.ycombinator.com/item?id=47294291 Points: 3 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47294291",
+      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
+      "summary": "Article URL: https://nickakre.github.io/agentverse-social/ Comments URL: https://news.ycombinator.com/item?id=47303859 Points: 1 # Comments: 0",
+      "url": "https://nickakre.github.io/agentverse-social/",
       "image": "",
-      "date": "2026-03-08T04:00:45+00:00"
+      "date": "2026-03-09T01:43:21+00:00"
     },
     {
-      "title": "Integrating AI-Driven Predictive Analytics for Cybersecurity Risk Mitigation [pdf]",
-      "summary": "Article URL: https://www.researchgate.net/profile/Adeyinka-Oluwatomisin/publication/401488012_Integrating_AI-Driven_Predictive_Analytics_for_Proactive_Cybersecurity_Risk_Mitigation_in_Large-Scale_IT_Program_Management/links/69a6decf940e2d5e03cc6b60/Integrating-AI-Driven-Predictive-Analytics-for-Proactive-Cybersecurity-Risk-Mitigation-in-Large-Scale-IT-Program-Management.pdf Comments URL: https://news.ycombinator.com/item?id=47294226 Points: 1 # Comments: 0",
-      "url": "https://www.researchgate.net/profile/Adeyinka-Oluwatomisin/publication/401488012_Integrating_AI-Driven_Predictive_Analytics_for_Proactive_Cybersecurity_Risk_Mitigation_in_Large-Scale_IT_Program_Management/links/69a6decf940e2d5e03cc6b60/Integrating-AI-Driven-Predictive-Analytics-for-Proactive-Cybersecurity-Risk-Mitigation-in-Large-Scale-IT-Program-Management.pdf",
+      "title": "When AI Can Give You Everything, That's When You'll Get Nothing",
+      "summary": "Article URL: https://technohumanity.substack.com/p/when-ai-can-finally-give-everyone Comments URL: https://news.ycombinator.com/item?id=47303715 Points: 7 # Comments: 0",
+      "url": "https://technohumanity.substack.com/p/when-ai-can-finally-give-everyone",
       "image": "",
-      "date": "2026-03-08T03:49:42+00:00"
-    },
-    {
-      "title": "Plenty of AI hype, but not much useful software?",
-      "summary": "I’ve followed BetaList and similar directories for years, and I regularly read side-project posts here on Hacker News. With the explosion of AI coding assistants, I expected a noticeable increase in useful small SaaS tools and practical software. But honestly, I’m not sure I see it. HN users have always built impressive things. One example I remember: a developer who quickly built a simple website to help his family find COVID vaccine appointments, it cost about $50 to build. Stories like that show how many practical builders are here. Yet even with AI making coding easier, the quantity (and quality) of useful tools doesn’t seem to have increased dramatically. It reminds me of this line from Charles Bukowski: \"but as God said,\ncrossing his legs,\nI see where I have made plenty of poets\nbut not so very much\npoetry.\" Sometimes it feels like a modern version might read: \"as VC-backed tech said,\nsitting on their laurels,\nI see we created a lot of AI hype\nand vibe-coding platforms\nbut not so much\nuseful software.\" What do you think the real bottleneck is now? Ideas, distribution, taste, persistence; or something else? Comments URL: https://news.ycombinator.com/item?id=47294126 Points: 1 # Comments: 4",
-      "url": "https://news.ycombinator.com/item?id=47294126",
-      "image": "",
-      "date": "2026-03-08T03:33:40+00:00"
-    },
-    {
-      "title": "If AI is so good, why don't we have an infinite supply of 10x engineers?",
-      "summary": "I read here a lot about (maybe a mythical creature) called 10x engineer and today it occurred to me the above question. Comments URL: https://news.ycombinator.com/item?id=47294048 Points: 4 # Comments: 7",
-      "url": "https://news.ycombinator.com/item?id=47294048",
-      "image": "",
-      "date": "2026-03-08T03:17:45+00:00"
-    },
-    {
-      "title": "Armin Ronacher on AI Agents and the Future of Programming [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=4zlHCW0Yihg Comments URL: https://news.ycombinator.com/item?id=47294014 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=4zlHCW0Yihg",
-      "image": "",
-      "date": "2026-03-08T03:11:54+00:00"
-    },
-    {
-      "title": "Ask HN: Any AI browswer that I can control by Claude Code?",
-      "summary": "The only missing part of using cluade code is control the broswer in case that need login,like linkedin, twitter etc, current solution using broswer might still be risky. is there any service that feels like a perplexity comet or gpt atlas broswer with a claude code control? Comments URL: https://news.ycombinator.com/item?id=47293914 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47293914",
-      "image": "",
-      "date": "2026-03-08T02:56:03+00:00"
-    },
-    {
-      "title": "AI found us before Google did",
-      "summary": "# Ask HN: We got inbound leads from Gemini before Google indexed our site — what's going on? Two months after launching our site, two companies contacted us saying they found us through Gemini while searching for AI visibility services. At the time:\n- Site not added to Google Search Console\n- Zero backlinks\n- Google had not indexed a single page\n- We share a name with an established company in a different industry — classic name collision By every traditional SEO metric, we should have been invisible. On Google, we were. On Gemini, apparently not. *What we think happened* Our content was structured with LLM readability as an explicit goal — not SEO. Consistent terminology, clear entity definition, a named methodology, and topical depth over breadth. LLMs seem to evaluate authority differently than search engines. Google proxies authority through external signals (links, engagement, domain age). LLMs appear to evaluate something closer to conceptual coherence — whether a source demonstrates genuine understanding of a subject in a way the model can parse and trust. We weren't trying to rank. We were trying to be understood. And for at least one model, it worked. *Why I'm sharing this* There's a growing debate about whether \"GEO\" (Generative Engine Optimization) is a real discipline or just rebranded SEO. The SEO camp argues: good content + technical optimization = you appear in AI answers too. This case suggests the mechanisms are at least partially independent. We had zero SEO signals and nonzero AI visibility. You can apparently achieve one without the other. I don't have a controlled experiment — just two inbound emails and a hypothesis. But it's made us think differently about what \"visibility\" means when the retrieval system is a language model rather than an index. Has anyone else observed similar patterns — AI-driven discovery happening independently of, or ahead of, traditional search visibility? --- The irony of a GEO consultancy with no SEO is not lost on us. We write about this at argeo.ai if anyone's curious. Comments URL: https://news.ycombinator.com/item?id=47293911 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47293911",
-      "image": "",
-      "date": "2026-03-08T02:55:28+00:00"
+      "date": "2026-03-09T01:23:19+00:00"
     }
   ]
 }
