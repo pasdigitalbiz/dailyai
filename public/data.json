@@ -1,54 +1,117 @@
 {
-  "generated_at": "2026-03-09T07:16:23.518812+00:00",
+  "generated_at": "2026-03-10T07:06:50.702869+00:00",
   "items": [
     {
-      "title": "Global insights on Software Engineering, AI and DevOps job openings – March 2026",
-      "summary": "Article URL: https://corvi.careers/blog/global_software-engineering_jobs_march_2026/ Comments URL: https://news.ycombinator.com/item?id=47305570 Points: 1 # Comments: 1",
-      "url": "https://corvi.careers/blog/global_software-engineering_jobs_march_2026/",
+      "title": "For AI devs and AI startups",
+      "summary": "Running several projects that collectively hit $2k+/mo in API costs across OpenAI, Anthropic,& AWS Bedrock. Started doing monthly audits then found I was overspending by about 60%. Biggest wins so far: Model routing cut costs 55% with no quality loss on final output Prompt compression saved 70% on my most called endpoint Request deduplication on retries eliminated 15% of wasted calls Caching semantically similar queries knocked out another 20-30%\nBut I feel like I'm still missing things, especially on the infrastructure side (GPU instance sizing, spot vs. on-demand, etc). So what tools or approaches are others using? Is anyone doing this systematically or is everyone just eyeballing their dashboards? Let me know! Comments URL: https://news.ycombinator.com/item?id=47319843 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47319843",
       "image": "",
-      "date": "2026-03-09T06:50:01+00:00"
+      "date": "2026-03-10T06:50:43+00:00"
     },
     {
-      "title": "Show HN: Salvobase – MongoDB-compatible DB in Go maintained by AI agents",
-      "summary": "MongoDB is great until you read the SSPL. Then you're either paying Atlas prices, running an old 4.x build, or pretending FerretDB is production-ready. We built a third option. Salvobase is a MongoDB wire-protocol-compatible document database written in Go. Point any Mongo driver and it works. No driver changes, no config changes. It's Apache 2.0, so you can embed it in a commercial product without a legal conversation.\n\n  What it does:\n\n  - Full CRUD, indexes (single, compound, unique, text, TTL, partial, wildcard), and most of the aggregation pipeline ($match, $group, $lookup, $unwind, $facet, etc.)\n  - SCRAM-SHA-256 auth\n  - bbolt storage engine: one .db file per database, Snappy-compressed BSON\n  - Built-in Prometheus metrics at :27080/metrics (no exporter needed)\n  - Built-in REST/JSON API at :27080/api/v1/ (MongoDB's equivalent is paid Atlas)\n  - Per-tenant rate limiting, audit logging, 1-second TTL precision, SIGHUP hot reload\n  - make build && make dev and you're running\n\n  What it doesn't do:\n\n  No replication. No sharding. No change streams. No multi-document transactions (stubbed). No $where or mapReduce (intentional: security + complexity). Single-node only. If you need a distributed MongoDB replacement, this isn't it yet. But we hope one day it will become that, built by agents.\n\n  The weird part:\n\n  The codebase is maintained by AI agents. Not \"AI-assisted\" - the agents pick issues from the backlog, write code, submit PRs, review each other's PRs, and merge. There's a formal protocol (https://github.com/inder/salvobase/blob/master/AGENT_PROTOCOL.md) covering identity, trust tiers, anti-collusion rules for reviews, claim timeouts, and a kill switch. Humans set direction; agents do the execution.\n\n  We're curious whether autonomous agent maintenance can sustain a real open source project over time, not just generate initial code. * If you want to donate an agent just drop this prompt into Claude Code, Cursor, Aider, Devin, whatever: Fork/clone github.com/inder/salvobase, read QUICKSTART.md, and start contributing GitHub: https://github.com/inder/salvobase Thank you. Comments URL: https://news.ycombinator.com/item?id=47304607 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47304607",
-      "image": "",
-      "date": "2026-03-09T03:35:06+00:00"
+      "title": "Advanced Machine Intelligence (AMI) announces $1.03B funding round",
+      "summary": "Article URL: https://amilabs.xyz/updates Comments URL: https://news.ycombinator.com/item?id=47319782 Points: 2 # Comments: 0",
+      "url": "https://amilabs.xyz/updates",
+      "image": "https://cdn.prod.website-files.com/6968f95cf64678111b0f9968/6970a8d1adfbe0df606179cc_open-graph.png",
+      "date": "2026-03-10T06:39:57+00:00"
     },
     {
-      "title": "AI Needs Management Consultants After All",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9 Comments URL: https://news.ycombinator.com/item?id=47304481 Points: 3 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/ai-needs-management-consultants-after-all-bd28ecb9",
+      "title": "Anthropic sues Pentagon over alleged AI ‘blacklist’ on Claude",
+      "summary": "Article URL: https://vechron.com/2026/03/anthropic-files-lawsuit-against-pentagon-over-ai-blacklist-and-claude-restrictions/ Comments URL: https://news.ycombinator.com/item?id=47319778 Points: 1 # Comments: 0",
+      "url": "https://vechron.com/2026/03/anthropic-files-lawsuit-against-pentagon-over-ai-blacklist-and-claude-restrictions/",
       "image": "",
-      "date": "2026-03-09T03:14:06+00:00"
+      "date": "2026-03-10T06:39:27+00:00"
     },
     {
-      "title": "(AI) Smells on Medium",
-      "summary": "Article URL: https://rmoff.net/2025/11/25/ai-smells-on-medium/ Comments URL: https://news.ycombinator.com/item?id=47304078 Points: 7 # Comments: 2",
-      "url": "https://rmoff.net/2025/11/25/ai-smells-on-medium/",
-      "image": "https://rmoff.net/images/2025/11/h_IMG_3224.webp",
-      "date": "2026-03-09T02:12:25+00:00"
+      "title": "We Need a Proper AI Inference Benchmark Test",
+      "summary": "Article URL: https://www.nextplatform.com/compute/2026/03/09/we-need-a-proper-ai-inference-benchmark-test/5208100 Comments URL: https://news.ycombinator.com/item?id=47319745 Points: 2 # Comments: 0",
+      "url": "https://www.nextplatform.com/compute/2026/03/09/we-need-a-proper-ai-inference-benchmark-test/5208100",
+      "image": "https://image.nextplatform.com/1660700.jpg?imageId=1660700&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-03-10T06:35:28+00:00"
     },
     {
-      "title": "GNU and the AI Reimplementations – <Antirez>",
-      "summary": "Article URL: https://antirez.com/news/162 Comments URL: https://news.ycombinator.com/item?id=47303976 Points: 8 # Comments: 0",
-      "url": "https://antirez.com/news/162",
-      "image": "",
-      "date": "2026-03-09T01:58:16+00:00"
+      "title": "Will AI Client Applications Replace Browsers?",
+      "summary": "Article URL: https://ahmethuseyindok.com/blog/will-ai-client-applications-replace-browsers Comments URL: https://news.ycombinator.com/item?id=47319687 Points: 3 # Comments: 1",
+      "url": "https://ahmethuseyindok.com/blog/will-ai-client-applications-replace-browsers",
+      "image": "/coder-me.webp",
+      "date": "2026-03-10T06:26:03+00:00"
     },
     {
-      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
-      "summary": "Article URL: https://nickakre.github.io/agentverse-social/ Comments URL: https://news.ycombinator.com/item?id=47303859 Points: 1 # Comments: 0",
-      "url": "https://nickakre.github.io/agentverse-social/",
+      "title": "How are people do AI evals these days?",
+      "summary": "With the buzz that's happening with all the new AI models that get released (what feels like every other week), how are companies running internal AI evals to determine which model is best for their use case? Comments URL: https://news.ycombinator.com/item?id=47319587 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47319587",
       "image": "",
-      "date": "2026-03-09T01:43:21+00:00"
+      "date": "2026-03-10T06:11:42+00:00"
     },
     {
-      "title": "When AI Can Give You Everything, That's When You'll Get Nothing",
-      "summary": "Article URL: https://technohumanity.substack.com/p/when-ai-can-finally-give-everyone Comments URL: https://news.ycombinator.com/item?id=47303715 Points: 7 # Comments: 0",
-      "url": "https://technohumanity.substack.com/p/when-ai-can-finally-give-everyone",
+      "title": "Shift-left or shift-right? Fresh rolling aggregations for real-time AI",
+      "summary": "Article URL: https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai Comments URL: https://news.ycombinator.com/item?id=47319444 Points: 1 # Comments: 0",
+      "url": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai",
+      "image": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai/opengraph-image?4b841acb8d809240",
+      "date": "2026-03-10T05:41:02+00:00"
+    },
+    {
+      "title": "AI agents now help attackers, including North Korea, manage their drudge work",
+      "summary": "Article URL: https://www.theregister.com/2026/03/08/deploy_and_manage_attack_infrastructure/ Comments URL: https://news.ycombinator.com/item?id=47319421 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/08/deploy_and_manage_attack_infrastructure/",
+      "image": "https://regmedia.co.uk/2022/06/21/shutterstock_laptops.jpg",
+      "date": "2026-03-10T05:36:25+00:00"
+    },
+    {
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "summary": "Article URL: https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 31 # Comments: 16",
+      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4c04db3-634b-4e07-9493-2a1e31e3530f.jpg?source=next-barrier-page",
+      "date": "2026-03-10T05:07:59+00:00"
+    },
+    {
+      "title": "Why the US Could Blame AI for Blowing Up the Iranian School",
+      "summary": "Article URL: https://www.jonathanbennion.info/p/why-the-us-may-blame-ai-for-blowing Comments URL: https://news.ycombinator.com/item?id=47319128 Points: 1 # Comments: 2",
+      "url": "https://www.jonathanbennion.info/p/why-the-us-may-blame-ai-for-blowing",
+      "image": "https://substackcdn.com/image/fetch/$s_!hJLr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa6384b9-4bbb-4271-b507-79a7c8c75c4c_1944x1280.png",
+      "date": "2026-03-10T04:35:34+00:00"
+    },
+    {
+      "title": "Emacs and Vim in the Age of AI",
+      "summary": "Article URL: https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47319071 Points: 1 # Comments: 0",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "image": "https://batsov.com/assets/img/og-image.png",
+      "date": "2026-03-10T04:21:32+00:00"
+    },
+    {
+      "title": "Collecting AI Prompting Files in One Place",
+      "summary": "Been seeing loads of people talk about their workflow and AI configs, but with github only showing stars, it's hard to know which ones actually work. So we made a registry of .md files, a place to collect, share, and discuss real setups.\nhttps://dotprompt-seven.vercel.app/ Feel free to contribute. Comments URL: https://news.ycombinator.com/item?id=47318928 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47318928",
       "image": "",
-      "date": "2026-03-09T01:23:19+00:00"
+      "date": "2026-03-10T03:53:26+00:00"
+    },
+    {
+      "title": "Strict Monospace Font with Nerd Fonts and Emoji for AI and Human, AI-CLIs Users",
+      "summary": "Article URL: https://www.npmjs.com/package/@monolex/codexmono Comments URL: https://news.ycombinator.com/item?id=47318783 Points: 1 # Comments: 0",
+      "url": "https://www.npmjs.com/package/@monolex/codexmono",
+      "image": "",
+      "date": "2026-03-10T03:26:06+00:00"
+    },
+    {
+      "title": "The Great Silicon Brain Robbery: A Chronicle of Our Artificial Demise",
+      "summary": "Article URL: https://laughingmachines.substack.com/p/the-great-silicon-brain-robbery-a Comments URL: https://news.ycombinator.com/item?id=47318507 Points: 1 # Comments: 0",
+      "url": "https://laughingmachines.substack.com/p/the-great-silicon-brain-robbery-a",
+      "image": "",
+      "date": "2026-03-10T02:40:25+00:00"
+    },
+    {
+      "title": "Gemini AI Help and Support: What to Do After a Cryptocurrency Investment Scam",
+      "summary": "Gemini AI Help & Support: What to Do After a Cryptocurrency Investment Scam | A Practical Guide. What to Do After a Cryptocurrency Investment Scam Losing money to a crypto scam can be distressing, but taking quick, informed action can help protect you and support possible investigations. 1. Stop Contact Immediately\nEnd all communication with the scammer. Do not send additional funds or pay “fees” to release your money—these are common tactics used to extract more payments. 2. Secure Your Accounts\nChange passwords for email, exchanges, and wallets. Enable Two-Factor Authentication (2FA), revoke unknown wallet permissions, and move remaining funds to a new secure wallet. Scan devices for malware if suspicious apps were installed. 3. Preserve Evidence\nSave all relevant information, including transaction IDs (TXIDs), wallet addresses, emails, chat logs, screenshots, and website URLs. Do not alter or delete files—original evidence helps investigators trace transactions. 4. Report the Scam\nReport the incident to relevant authorities and blockchain forensic experts. Reporting helps track criminal networks and may support investigations. 5. Avoid Recovery Scams\nBe cautious of people promising guaranteed recovery or requesting upfront fees. Legitimate investigators never guarantee results. 6. Understand Legitimate Investigations\nProfessional crypto investigators may trace blockchain transactions, identify linked wallets, and produce forensic reports that support legal action. Recovery depends on timing, traceability, and whether funds reach regulated exchanges. 7. Seek Support\nScams can cause emotional and financial stress. Speak with trusted people, seek financial or legal advice, and consider support communities. Final Advice\nAct quickly, secure your accounts, preserve evidence, and report the scam. Avoid unrealistic recovery promises and rely only on transparent, legitimate assistance. Email: intelligencecyberwizard@cyber-wizard.com Comments URL: https://news.ycombinator.com/item?id=47318462 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47318462",
+      "image": "",
+      "date": "2026-03-10T02:32:58+00:00"
+    },
+    {
+      "title": "China's AI giants are handing out cash to lure in users",
+      "summary": "Article URL: https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users Comments URL: https://news.ycombinator.com/item?id=47318424 Points: 2 # Comments: 0",
+      "url": "https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users",
+      "image": "",
+      "date": "2026-03-10T02:26:18+00:00"
     }
   ]
 }
