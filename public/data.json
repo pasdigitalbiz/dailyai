@@ -1,117 +1,103 @@
 {
-  "generated_at": "2026-03-10T07:06:50.702869+00:00",
+  "generated_at": "2026-03-11T07:10:12.439759+00:00",
   "items": [
     {
-      "title": "For AI devs and AI startups",
-      "summary": "Running several projects that collectively hit $2k+/mo in API costs across OpenAI, Anthropic,& AWS Bedrock. Started doing monthly audits then found I was overspending by about 60%. Biggest wins so far: Model routing cut costs 55% with no quality loss on final output Prompt compression saved 70% on my most called endpoint Request deduplication on retries eliminated 15% of wasted calls Caching semantically similar queries knocked out another 20-30%\nBut I feel like I'm still missing things, especially on the infrastructure side (GPU instance sizing, spot vs. on-demand, etc). So what tools or approaches are others using? Is anyone doing this systematically or is everyone just eyeballing their dashboards? Let me know! Comments URL: https://news.ycombinator.com/item?id=47319843 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47319843",
+      "title": "Ask HN: How are people forecasting AI API costs for agent workflows?",
+      "summary": "I’ve been experimenting with agent-based features and one thing that surprised me is how hard it is to estimate API costs. A single user action can trigger anywhere from a few to dozens of LLM calls (tool use, retries, reasoning steps), and with token-based pricing the cost can vary a lot. How are builders here planning for this when pricing their SaaS? Are you just padding margins, limiting usage, or building internal cost tracking?\nAlso curious, would a service that offers predictable pricing for AI APIs (like a fixed subscription cost) actually be useful for people building agentic workflows? Comments URL: https://news.ycombinator.com/item?id=47332177 Points: 3 # Comments: 6",
+      "url": "https://news.ycombinator.com/item?id=47332177",
       "image": "",
-      "date": "2026-03-10T06:50:43+00:00"
+      "date": "2026-03-11T06:06:35+00:00"
     },
     {
-      "title": "Advanced Machine Intelligence (AMI) announces $1.03B funding round",
-      "summary": "Article URL: https://amilabs.xyz/updates Comments URL: https://news.ycombinator.com/item?id=47319782 Points: 2 # Comments: 0",
-      "url": "https://amilabs.xyz/updates",
-      "image": "https://cdn.prod.website-files.com/6968f95cf64678111b0f9968/6970a8d1adfbe0df606179cc_open-graph.png",
-      "date": "2026-03-10T06:39:57+00:00"
+      "title": "AI detects case of breast cancer that slipped past doctors",
+      "summary": "Article URL: https://www.thetimes.com/uk/healthcare/article/breast-cancer-detection-ai-nhs-zb9qcljr3 Comments URL: https://news.ycombinator.com/item?id=47332126 Points: 2 # Comments: 0",
+      "url": "https://www.thetimes.com/uk/healthcare/article/breast-cancer-detection-ai-nhs-zb9qcljr3",
+      "image": "https://www.thetimes.com/imageserver/image/%2Fca0dca30-3b4b-4115-ad7d-57a0f30a7caa.jpg?crop=7952%2C4473%2C0%2C416&resize=1200",
+      "date": "2026-03-11T05:55:08+00:00"
     },
     {
-      "title": "Anthropic sues Pentagon over alleged AI ‘blacklist’ on Claude",
-      "summary": "Article URL: https://vechron.com/2026/03/anthropic-files-lawsuit-against-pentagon-over-ai-blacklist-and-claude-restrictions/ Comments URL: https://news.ycombinator.com/item?id=47319778 Points: 1 # Comments: 0",
-      "url": "https://vechron.com/2026/03/anthropic-files-lawsuit-against-pentagon-over-ai-blacklist-and-claude-restrictions/",
+      "title": "OWASP Top Agents and AI Vulnerabilities",
+      "summary": "Article URL: https://blog.alexewerlof.com/p/owasp-top-10-ai-llm-agents Comments URL: https://news.ycombinator.com/item?id=47331967 Points: 1 # Comments: 0",
+      "url": "https://blog.alexewerlof.com/p/owasp-top-10-ai-llm-agents",
+      "image": "https://substackcdn.com/image/fetch/$s_!9nK0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6492d86b-05b8-4433-a021-77338657a064_1142x738.png",
+      "date": "2026-03-11T05:21:09+00:00"
+    },
+    {
+      "title": "AI Aadhaar OCR API for Fast Aadhaar Data Extraction",
+      "summary": "The Aadhaar OCR API is an AI-powered solution designed to automate Aadhaar Card Data Extraction from scanned images, PDFs, and mobile uploads. It helps businesses instantly capture important details such as Aadhaar number, name, address, and date of birth with high accuracy. Using advanced AI Aadhaar Document Processing, the API converts unstructured Aadhaar card images into structured digital data that can easily integrate with verification systems or onboarding platforms. This technology reduces manual data entry, improves processing speed, and supports secure identity verification workflows for fintech, banking, and digital service providers. We built an AI-powered Aadhaar OCR API that can extract data from Aadhaar cards instantly for KYC automation. https://azapi.ai/services/ocr/aadhaar-ocr-api/ Comments URL: https://news.ycombinator.com/item?id=47331930 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47331930",
       "image": "",
-      "date": "2026-03-10T06:39:27+00:00"
+      "date": "2026-03-11T05:12:05+00:00"
     },
     {
-      "title": "We Need a Proper AI Inference Benchmark Test",
-      "summary": "Article URL: https://www.nextplatform.com/compute/2026/03/09/we-need-a-proper-ai-inference-benchmark-test/5208100 Comments URL: https://news.ycombinator.com/item?id=47319745 Points: 2 # Comments: 0",
-      "url": "https://www.nextplatform.com/compute/2026/03/09/we-need-a-proper-ai-inference-benchmark-test/5208100",
-      "image": "https://image.nextplatform.com/1660700.jpg?imageId=1660700&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-03-10T06:35:28+00:00"
-    },
-    {
-      "title": "Will AI Client Applications Replace Browsers?",
-      "summary": "Article URL: https://ahmethuseyindok.com/blog/will-ai-client-applications-replace-browsers Comments URL: https://news.ycombinator.com/item?id=47319687 Points: 3 # Comments: 1",
-      "url": "https://ahmethuseyindok.com/blog/will-ai-client-applications-replace-browsers",
-      "image": "/coder-me.webp",
-      "date": "2026-03-10T06:26:03+00:00"
-    },
-    {
-      "title": "How are people do AI evals these days?",
-      "summary": "With the buzz that's happening with all the new AI models that get released (what feels like every other week), how are companies running internal AI evals to determine which model is best for their use case? Comments URL: https://news.ycombinator.com/item?id=47319587 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47319587",
+      "title": "Neuromorphic sphere topology Hebbian learning as a path to grounded intelligence",
+      "summary": "I've been working on a hypothesis and want to get feedback from people who know more than I do.\nThe hypothesis\nIntelligence might be a phase transition at scale, not an algorithmic problem.\nFly: 100k neurons — no generalization\nMouse: 70M — basic associative learning\nHuman: 86B — abstract reasoning\nThis doesn't look like a smooth curve. It looks like thresholds. If that's true, then no amount of architectural cleverness crosses it — only scale + grounding does.\nThe grounding problem\nLLMs learn statistical distributions over text. \"Apple\" = token pattern. In biological systems \"apple\" = weight, texture, smell, hunger. Concepts without physical roots have a ceiling we're already approaching.\nThe architecture\nSphere topology: recurrent graph, no fixed signal direction, no enforced hierarchy\nHebbian learning only — no backprop\nDopamine-modulated consolidation with sleep/wake cycle\nSingle network: language + vision + motor through shared weights\nLateral inhibition + capacitor adaptation for stability — pure analog, already in Loihi\nGrounded in physical simulation, not text\nPrediction doesn't need to be engineered. Hebbian learning + physical grounding + continuous input should produce anticipation as an emergent property — same way it works biologically.\nWhy now\nAll components exist in current neuromorphic hardware. Full human scale = ~10,750 Loihi 3 chips, ~$150-200M. Below this threshold it probably won't work — that's the hypothesis, not a bug.\nThis needs real funding. But the architecture is ready to be attempted.\nWhat I'm looking for\nHas anyone attempted sphere topology on neuromorphic hardware? Is there prior work on Hebbian-only learning at this scale? Where does this obviously break? Comments URL: https://news.ycombinator.com/item?id=47331897 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47331897",
       "image": "",
-      "date": "2026-03-10T06:11:42+00:00"
+      "date": "2026-03-11T05:04:17+00:00"
     },
     {
-      "title": "Shift-left or shift-right? Fresh rolling aggregations for real-time AI",
-      "summary": "Article URL: https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai Comments URL: https://news.ycombinator.com/item?id=47319444 Points: 1 # Comments: 0",
-      "url": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai",
-      "image": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai/opengraph-image?4b841acb8d809240",
-      "date": "2026-03-10T05:41:02+00:00"
+      "title": "Are You Comfortable Putting Your Name on This? (AI-Assisted Development)",
+      "summary": "Article URL: https://vibe2value.com/are-you-comfortable-putting-your-name-on-this/ Comments URL: https://news.ycombinator.com/item?id=47331838 Points: 1 # Comments: 1",
+      "url": "https://vibe2value.com/are-you-comfortable-putting-your-name-on-this/",
+      "image": "https://vibe2value.com/content/images/size/w1200/2026/01/v2v-wide.jpg",
+      "date": "2026-03-11T04:51:12+00:00"
     },
     {
-      "title": "AI agents now help attackers, including North Korea, manage their drudge work",
-      "summary": "Article URL: https://www.theregister.com/2026/03/08/deploy_and_manage_attack_infrastructure/ Comments URL: https://news.ycombinator.com/item?id=47319421 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/2026/03/08/deploy_and_manage_attack_infrastructure/",
-      "image": "https://regmedia.co.uk/2022/06/21/shutterstock_laptops.jpg",
-      "date": "2026-03-10T05:36:25+00:00"
-    },
-    {
-      "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "Article URL: https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 31 # Comments: 16",
-      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4c04db3-634b-4e07-9493-2a1e31e3530f.jpg?source=next-barrier-page",
-      "date": "2026-03-10T05:07:59+00:00"
-    },
-    {
-      "title": "Why the US Could Blame AI for Blowing Up the Iranian School",
-      "summary": "Article URL: https://www.jonathanbennion.info/p/why-the-us-may-blame-ai-for-blowing Comments URL: https://news.ycombinator.com/item?id=47319128 Points: 1 # Comments: 2",
-      "url": "https://www.jonathanbennion.info/p/why-the-us-may-blame-ai-for-blowing",
-      "image": "https://substackcdn.com/image/fetch/$s_!hJLr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa6384b9-4bbb-4271-b507-79a7c8c75c4c_1944x1280.png",
-      "date": "2026-03-10T04:35:34+00:00"
-    },
-    {
-      "title": "Emacs and Vim in the Age of AI",
-      "summary": "Article URL: https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47319071 Points: 1 # Comments: 0",
-      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-      "image": "https://batsov.com/assets/img/og-image.png",
-      "date": "2026-03-10T04:21:32+00:00"
-    },
-    {
-      "title": "Collecting AI Prompting Files in One Place",
-      "summary": "Been seeing loads of people talk about their workflow and AI configs, but with github only showing stars, it's hard to know which ones actually work. So we made a registry of .md files, a place to collect, share, and discuss real setups.\nhttps://dotprompt-seven.vercel.app/ Feel free to contribute. Comments URL: https://news.ycombinator.com/item?id=47318928 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47318928",
+      "title": "We Built a 100K-Line Enterprise App Using AI – Here's Why Vibe-Coding Couldn't",
+      "summary": "Article URL: https://medium.com/towards-artificial-intelligence/we-built-a-100k-line-enterprise-app-using-ai-heres-why-vibe-coding-couldn-t-4f1220d08203 Comments URL: https://news.ycombinator.com/item?id=47331836 Points: 1 # Comments: 1",
+      "url": "https://medium.com/towards-artificial-intelligence/we-built-a-100k-line-enterprise-app-using-ai-heres-why-vibe-coding-couldn-t-4f1220d08203",
       "image": "",
-      "date": "2026-03-10T03:53:26+00:00"
+      "date": "2026-03-11T04:51:08+00:00"
     },
     {
-      "title": "Strict Monospace Font with Nerd Fonts and Emoji for AI and Human, AI-CLIs Users",
-      "summary": "Article URL: https://www.npmjs.com/package/@monolex/codexmono Comments URL: https://news.ycombinator.com/item?id=47318783 Points: 1 # Comments: 0",
-      "url": "https://www.npmjs.com/package/@monolex/codexmono",
+      "title": "Separating AI agent reasoning from execution, crypto binding execution",
+      "summary": "Good discussion here:\nhttps://www.reddit.com/r/openclaw/comments/1rnyrzi/ Thoughts? Comments URL: https://news.ycombinator.com/item?id=47331806 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47331806",
       "image": "",
-      "date": "2026-03-10T03:26:06+00:00"
+      "date": "2026-03-11T04:43:32+00:00"
     },
     {
-      "title": "The Great Silicon Brain Robbery: A Chronicle of Our Artificial Demise",
-      "summary": "Article URL: https://laughingmachines.substack.com/p/the-great-silicon-brain-robbery-a Comments URL: https://news.ycombinator.com/item?id=47318507 Points: 1 # Comments: 0",
-      "url": "https://laughingmachines.substack.com/p/the-great-silicon-brain-robbery-a",
-      "image": "",
-      "date": "2026-03-10T02:40:25+00:00"
+      "title": "A Mysterious Signal Transfixes Radio Sleuths and Intelligence Experts",
+      "summary": "Article URL: https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html Comments URL: https://news.ycombinator.com/item?id=47331713 Points: 4 # Comments: 0",
+      "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
+      "image": "https://gdb.rferl.org/139f7feb-eea0-4e7f-33af-08de3be37656_w1200_h630.jpg",
+      "date": "2026-03-11T04:18:37+00:00"
     },
     {
-      "title": "Gemini AI Help and Support: What to Do After a Cryptocurrency Investment Scam",
-      "summary": "Gemini AI Help & Support: What to Do After a Cryptocurrency Investment Scam | A Practical Guide. What to Do After a Cryptocurrency Investment Scam Losing money to a crypto scam can be distressing, but taking quick, informed action can help protect you and support possible investigations. 1. Stop Contact Immediately\nEnd all communication with the scammer. Do not send additional funds or pay “fees” to release your money—these are common tactics used to extract more payments. 2. Secure Your Accounts\nChange passwords for email, exchanges, and wallets. Enable Two-Factor Authentication (2FA), revoke unknown wallet permissions, and move remaining funds to a new secure wallet. Scan devices for malware if suspicious apps were installed. 3. Preserve Evidence\nSave all relevant information, including transaction IDs (TXIDs), wallet addresses, emails, chat logs, screenshots, and website URLs. Do not alter or delete files—original evidence helps investigators trace transactions. 4. Report the Scam\nReport the incident to relevant authorities and blockchain forensic experts. Reporting helps track criminal networks and may support investigations. 5. Avoid Recovery Scams\nBe cautious of people promising guaranteed recovery or requesting upfront fees. Legitimate investigators never guarantee results. 6. Understand Legitimate Investigations\nProfessional crypto investigators may trace blockchain transactions, identify linked wallets, and produce forensic reports that support legal action. Recovery depends on timing, traceability, and whether funds reach regulated exchanges. 7. Seek Support\nScams can cause emotional and financial stress. Speak with trusted people, seek financial or legal advice, and consider support communities. Final Advice\nAct quickly, secure your accounts, preserve evidence, and report the scam. Avoid unrealistic recovery promises and rely only on transparent, legitimate assistance. Email: intelligencecyberwizard@cyber-wizard.com Comments URL: https://news.ycombinator.com/item?id=47318462 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47318462",
-      "image": "",
-      "date": "2026-03-10T02:32:58+00:00"
+      "title": "Microsoft uses plagiarized AI slop flowchart to explain how GitHub works",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/ Comments URL: https://news.ycombinator.com/item?id=47331657 Points: 7 # Comments: 3",
+      "url": "https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/",
+      "image": "https://cdn.mos.cms.futurecdn.net/r2U9HDRi2pTFApjQKEBsRR-1187-80.png",
+      "date": "2026-03-11T04:08:27+00:00"
     },
     {
-      "title": "China's AI giants are handing out cash to lure in users",
-      "summary": "Article URL: https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users Comments URL: https://news.ycombinator.com/item?id=47318424 Points: 2 # Comments: 0",
-      "url": "https://www.economist.com/business/2026/03/09/chinas-ai-giants-are-handing-out-cash-to-lure-in-users",
+      "title": "How the \"godfathers of AI\" have shaped our mission",
+      "summary": "Article URL: https://ctsmyth.substack.com/p/standing-with-giants Comments URL: https://news.ycombinator.com/item?id=47331581 Points: 1 # Comments: 1",
+      "url": "https://ctsmyth.substack.com/p/standing-with-giants",
       "image": "",
-      "date": "2026-03-10T02:26:18+00:00"
+      "date": "2026-03-11T03:53:41+00:00"
+    },
+    {
+      "title": "Jensen Huang: AI is a five layer cake",
+      "summary": "Article URL: https://blogs.nvidia.com/blog/ai-5-layer-cake/ Comments URL: https://news.ycombinator.com/item?id=47331497 Points: 4 # Comments: 0",
+      "url": "https://blogs.nvidia.com/blog/ai-5-layer-cake/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/02/5-layer-cake-hero-tablet-static.jpg",
+      "date": "2026-03-11T03:36:02+00:00"
+    },
+    {
+      "title": "The Global Vulnerability Intelligence Platform with Olle E. Johansson",
+      "summary": "Article URL: https://opensourcesecurity.io/2026/2026-02-GVIP-olle-johansson/ Comments URL: https://news.ycombinator.com/item?id=47331485 Points: 1 # Comments: 0",
+      "url": "https://opensourcesecurity.io/2026/2026-02-GVIP-olle-johansson/",
+      "image": "https://opensourcesecurity.io/images/wide-gvip.png",
+      "date": "2026-03-11T03:32:33+00:00"
+    },
+    {
+      "title": "Eric Schmidt: China Could Dominate the Physical AI Future",
+      "summary": "Article URL: https://time.com/7382151/china-dominates-the-physical-ai-race/ Comments URL: https://news.ycombinator.com/item?id=47331256 Points: 7 # Comments: 1",
+      "url": "https://time.com/7382151/china-dominates-the-physical-ai-race/",
+      "image": "https://api.time.com/wp-content/uploads/2026/03/China-Robots-Lunar-New-Year.jpg?quality=85&w=1024&h=628&crop=1",
+      "date": "2026-03-11T02:48:53+00:00"
     }
   ]
 }
