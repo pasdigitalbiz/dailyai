@@ -1,103 +1,96 @@
 {
-  "generated_at": "2026-03-11T07:10:12.439759+00:00",
+  "generated_at": "2026-03-12T07:11:56.531382+00:00",
   "items": [
     {
-      "title": "Ask HN: How are people forecasting AI API costs for agent workflows?",
-      "summary": "I’ve been experimenting with agent-based features and one thing that surprised me is how hard it is to estimate API costs. A single user action can trigger anywhere from a few to dozens of LLM calls (tool use, retries, reasoning steps), and with token-based pricing the cost can vary a lot. How are builders here planning for this when pricing their SaaS? Are you just padding margins, limiting usage, or building internal cost tracking?\nAlso curious, would a service that offers predictable pricing for AI APIs (like a fixed subscription cost) actually be useful for people building agentic workflows? Comments URL: https://news.ycombinator.com/item?id=47332177 Points: 3 # Comments: 6",
-      "url": "https://news.ycombinator.com/item?id=47332177",
+      "title": "Show HN: I built an AI comic generator from scratch using only natural language",
+      "summary": "I spent ~4 hours building AIComicBuilder [1], a full-stack AI comic/drama generation platform,\n  without writing a single line of code manually. This is a writeup of my \"vibe coding\" workflow\n  using Claude Code. The app lets you: input a script → AI generates screenplay → character analysis → storyboard\n  generation (with first/last frame images) → video generation. Supports OpenAI-compatible,\n  Gemini, and Bytedance Seedance APIs for text/image/video models, configurable per-user via a\n  settings UI.\n\n  Tech: Next.js full-stack, SQLite, queue-based async processing.\n\n  **The workflow:**\n  1. Describe tech requirements in plain text → AI generates architecture doc → review/tweak in\n     the terminal\n  2. Reference the doc, load `superpowers:subagent-driven-development` → AI writes the plan,\n     self-reviews it, then executes autonomously (~45 min)\n  3. Auto-commits after each feature (critical safety net if AI breaks something)\n  4. Bug? Screenshot + one sentence → AI fixes it\n  5. Ugly UI? \"redesign using ui-ux-pro-max\" → 3 iterations → done\n\n  The key insight from Karpathy's \"vibe coding\" concept: in this paradigm, *documentation quality\n  matters more than coding ability*. The clearer your requirements, the better the output. Your\n  role shifts from programmer to product manager.\n\n  I'm documenting the full workflow and useful Claude Code skills here: [2]\n\n  Curious if others have found good skill combinations for Claude Code, or are using similar\n  approaches with other tools (Cursor, Aider, etc.).\n\n  [1] https://github.com/twwch/AIComicBuilder\n  [2] https://github.com/twwch/vibe-coding Comments URL: https://news.ycombinator.com/item?id=47347399 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47347399",
       "image": "",
-      "date": "2026-03-11T06:06:35+00:00"
+      "date": "2026-03-12T07:01:06+00:00"
     },
     {
-      "title": "AI detects case of breast cancer that slipped past doctors",
-      "summary": "Article URL: https://www.thetimes.com/uk/healthcare/article/breast-cancer-detection-ai-nhs-zb9qcljr3 Comments URL: https://news.ycombinator.com/item?id=47332126 Points: 2 # Comments: 0",
-      "url": "https://www.thetimes.com/uk/healthcare/article/breast-cancer-detection-ai-nhs-zb9qcljr3",
-      "image": "https://www.thetimes.com/imageserver/image/%2Fca0dca30-3b4b-4115-ad7d-57a0f30a7caa.jpg?crop=7952%2C4473%2C0%2C416&resize=1200",
-      "date": "2026-03-11T05:55:08+00:00"
-    },
-    {
-      "title": "OWASP Top Agents and AI Vulnerabilities",
-      "summary": "Article URL: https://blog.alexewerlof.com/p/owasp-top-10-ai-llm-agents Comments URL: https://news.ycombinator.com/item?id=47331967 Points: 1 # Comments: 0",
-      "url": "https://blog.alexewerlof.com/p/owasp-top-10-ai-llm-agents",
-      "image": "https://substackcdn.com/image/fetch/$s_!9nK0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6492d86b-05b8-4433-a021-77338657a064_1142x738.png",
-      "date": "2026-03-11T05:21:09+00:00"
-    },
-    {
-      "title": "AI Aadhaar OCR API for Fast Aadhaar Data Extraction",
-      "summary": "The Aadhaar OCR API is an AI-powered solution designed to automate Aadhaar Card Data Extraction from scanned images, PDFs, and mobile uploads. It helps businesses instantly capture important details such as Aadhaar number, name, address, and date of birth with high accuracy. Using advanced AI Aadhaar Document Processing, the API converts unstructured Aadhaar card images into structured digital data that can easily integrate with verification systems or onboarding platforms. This technology reduces manual data entry, improves processing speed, and supports secure identity verification workflows for fintech, banking, and digital service providers. We built an AI-powered Aadhaar OCR API that can extract data from Aadhaar cards instantly for KYC automation. https://azapi.ai/services/ocr/aadhaar-ocr-api/ Comments URL: https://news.ycombinator.com/item?id=47331930 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47331930",
+      "title": "Show HN: AI Comic Builder – turn a script into an animated video local",
+      "summary": "I built a self-hostable pipeline that takes a screenplay (or a one-line idea) and produces a finished animated video —\n   no coding required, no SaaS subscription. The pipeline:                                                                                                         \n  1. Write or AI-generate a script                                                                                      \n  2. Extract characters → generate turnaround reference sheets (for visual consistency)                               \n  3. Split the script into shots with camera direction and motion descriptions\n  4. Generate keyframes (first + last frame per shot) with continuity chaining\n  5. Interpolate each shot into a video clip\n  6. Concat everything with FFmpeg, burn subtitles\n\n  Each stage can be triggered individually or in batch, so you stay in control.\n\n  Tech:\n  - Next.js 16 App Router + SQLite (self-contained, zero infra)\n  - Bring your own keys: OpenAI, Gemini, or Seedance for text/image/video\n  - Docker one-liner: docker run -p 3000:3000 -v ./data:/app/data twwch/aicomicbuilder:latest\n  - No accounts — browser fingerprint (SHA-256 of UA/screen/timezone) is the user identity, so multiple people can share\n   one instance with full data isolation\n\n  Why I built it: Existing video generation tools are either single-shot (one prompt → one clip) or fully opaque\n  pipelines. I wanted something that exposed every step so I could iterate on prompts, swap models mid-project, and\n  understand what's actually happening.\n\n  The hardest part was the continuity chain — the last frame of shot N becomes the first frame of shot N+1, which keeps\n  characters visually consistent across cuts without fine-tuning.\n\n  GitHub: https://github.com/twwch/AIComicBuilder\n\n  Demo video in the README. Would love feedback on the pipeline design and whether the fingerprint-as-auth tradeoff\n  makes sense for this use case. Comments URL: https://news.ycombinator.com/item?id=47347383 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47347383",
       "image": "",
-      "date": "2026-03-11T05:12:05+00:00"
+      "date": "2026-03-12T06:59:25+00:00"
     },
     {
-      "title": "Neuromorphic sphere topology Hebbian learning as a path to grounded intelligence",
-      "summary": "I've been working on a hypothesis and want to get feedback from people who know more than I do.\nThe hypothesis\nIntelligence might be a phase transition at scale, not an algorithmic problem.\nFly: 100k neurons — no generalization\nMouse: 70M — basic associative learning\nHuman: 86B — abstract reasoning\nThis doesn't look like a smooth curve. It looks like thresholds. If that's true, then no amount of architectural cleverness crosses it — only scale + grounding does.\nThe grounding problem\nLLMs learn statistical distributions over text. \"Apple\" = token pattern. In biological systems \"apple\" = weight, texture, smell, hunger. Concepts without physical roots have a ceiling we're already approaching.\nThe architecture\nSphere topology: recurrent graph, no fixed signal direction, no enforced hierarchy\nHebbian learning only — no backprop\nDopamine-modulated consolidation with sleep/wake cycle\nSingle network: language + vision + motor through shared weights\nLateral inhibition + capacitor adaptation for stability — pure analog, already in Loihi\nGrounded in physical simulation, not text\nPrediction doesn't need to be engineered. Hebbian learning + physical grounding + continuous input should produce anticipation as an emergent property — same way it works biologically.\nWhy now\nAll components exist in current neuromorphic hardware. Full human scale = ~10,750 Loihi 3 chips, ~$150-200M. Below this threshold it probably won't work — that's the hypothesis, not a bug.\nThis needs real funding. But the architecture is ready to be attempted.\nWhat I'm looking for\nHas anyone attempted sphere topology on neuromorphic hardware? Is there prior work on Hebbian-only learning at this scale? Where does this obviously break? Comments URL: https://news.ycombinator.com/item?id=47331897 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47331897",
+      "title": "AI 'Man Camps' Offer Golf, Free Steaks to Lure Workers in Texas",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-03-06/the-700-billion-ai-data-center-boom-is-fueling-a-boom-in-man-camp-housing Comments URL: https://news.ycombinator.com/item?id=47347382 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/features/2026-03-06/the-700-billion-ai-data-center-boom-is-fueling-a-boom-in-man-camp-housing",
       "image": "",
-      "date": "2026-03-11T05:04:17+00:00"
+      "date": "2026-03-12T06:59:18+00:00"
     },
     {
-      "title": "Are You Comfortable Putting Your Name on This? (AI-Assisted Development)",
-      "summary": "Article URL: https://vibe2value.com/are-you-comfortable-putting-your-name-on-this/ Comments URL: https://news.ycombinator.com/item?id=47331838 Points: 1 # Comments: 1",
-      "url": "https://vibe2value.com/are-you-comfortable-putting-your-name-on-this/",
-      "image": "https://vibe2value.com/content/images/size/w1200/2026/01/v2v-wide.jpg",
-      "date": "2026-03-11T04:51:12+00:00"
+      "title": "AI-Powered Bot Compromises GitHub Actions Workflows",
+      "summary": "Article URL: https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/ Comments URL: https://news.ycombinator.com/item?id=47347355 Points: 1 # Comments: 0",
+      "url": "https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/",
+      "image": "https://res.infoq.com/news/2026/03/ai-bot-github-actions-exploit/en/headerimage/generatedHeaderImage-1772789238300.jpg",
+      "date": "2026-03-12T06:55:12+00:00"
     },
     {
-      "title": "We Built a 100K-Line Enterprise App Using AI – Here's Why Vibe-Coding Couldn't",
-      "summary": "Article URL: https://medium.com/towards-artificial-intelligence/we-built-a-100k-line-enterprise-app-using-ai-heres-why-vibe-coding-couldn-t-4f1220d08203 Comments URL: https://news.ycombinator.com/item?id=47331836 Points: 1 # Comments: 1",
-      "url": "https://medium.com/towards-artificial-intelligence/we-built-a-100k-line-enterprise-app-using-ai-heres-why-vibe-coding-couldn-t-4f1220d08203",
+      "title": "AI chatbot urged violence, study finds",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/ Comments URL: https://news.ycombinator.com/item?id=47347259 Points: 1 # Comments: 0",
+      "url": "https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/character-ai-1152x648.jpg",
+      "date": "2026-03-12T06:40:23+00:00"
+    },
+    {
+      "title": "Show HN: JetSet AI – flight search where follow-up questions work",
+      "summary": "Hi HN, The problem that led to this: I'd ask an AI to find flights London → Tokyo in April under £800, get good results, then ask \"what if I fly a week later?\" — and it would lose everything. Dates, budget, origin, all of it. Back to re-entering the whole query. That's not a prompt engineering problem. It's a stateless architecture problem. Every follow-up reconstructs context from scratch. JetSet AI runs each session on a persistent VM via SuperNinja rather than a stateless serverless function. The full runtime state stays in memory — \"show me the cheapest of those on a Tuesday\" or \"what if I fly into Osaka instead?\" resolves to exactly the results from 3 turns ago, not a semantic approximation. What it does:\n— Real-time flight pricing (live API, not cached)\n— Natural language queries (\"something direct, not too early, under £600, flexible by a few days\")\n— Full conversation memory within a session\n— Direct booking deep-links to Skyscanner/Kayak with your search pre-filled What it doesn't do yet:\n— Cross-session memory (each conversation starts fresh)\n— Hotel/car search\n— Automatic booking (links out to booking platforms) Try it (free, no login): https://bit.ly/4besn7l The trade-off: persistent VMs cost more per session than serverless. For single-turn lookups it wouldn't be worth it. For multi-turn transactional flows where follow-up accuracy matters, it is. Curious whether anyone else has hit this problem building conversational agents — and whether persistent VMs vs stateless + RAG is the right trade-off for your use case. Comments URL: https://news.ycombinator.com/item?id=47347214 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47347214",
       "image": "",
-      "date": "2026-03-11T04:51:08+00:00"
+      "date": "2026-03-12T06:32:18+00:00"
     },
     {
-      "title": "Separating AI agent reasoning from execution, crypto binding execution",
-      "summary": "Good discussion here:\nhttps://www.reddit.com/r/openclaw/comments/1rnyrzi/ Thoughts? Comments URL: https://news.ycombinator.com/item?id=47331806 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47331806",
+      "title": "BrowseComp: The Benchmark That Tests What AI Agents Can Find",
+      "summary": "Article URL: https://oss.vstorm.co/blog/browsecomp-ai-agent-benchmarks/ Comments URL: https://news.ycombinator.com/item?id=47347078 Points: 1 # Comments: 1",
+      "url": "https://oss.vstorm.co/blog/browsecomp-ai-agent-benchmarks/",
+      "image": "https://oss.vstorm.co/og/browsecomp-ai-agent-benchmarks.svg",
+      "date": "2026-03-12T06:10:25+00:00"
+    },
+    {
+      "title": "AI Isn't Lightening Workloads. It's Making Them More Intense",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c Comments URL: https://news.ycombinator.com/item?id=47346996 Points: 4 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
       "image": "",
-      "date": "2026-03-11T04:43:32+00:00"
+      "date": "2026-03-12T05:51:55+00:00"
     },
     {
-      "title": "A Mysterious Signal Transfixes Radio Sleuths and Intelligence Experts",
-      "summary": "Article URL: https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html Comments URL: https://news.ycombinator.com/item?id=47331713 Points: 4 # Comments: 0",
-      "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
-      "image": "https://gdb.rferl.org/139f7feb-eea0-4e7f-33af-08de3be37656_w1200_h630.jpg",
-      "date": "2026-03-11T04:18:37+00:00"
-    },
-    {
-      "title": "Microsoft uses plagiarized AI slop flowchart to explain how GitHub works",
-      "summary": "Article URL: https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/ Comments URL: https://news.ycombinator.com/item?id=47331657 Points: 7 # Comments: 3",
-      "url": "https://www.pcgamer.com/software/ai/microsoft-uses-plagiarized-ai-slop-flowchart-to-explain-how-github-works-removes-it-after-original-creator-calls-it-out-careless-blatantly-amateuristic-and-lacking-any-ambition-to-put-it-gently/",
-      "image": "https://cdn.mos.cms.futurecdn.net/r2U9HDRi2pTFApjQKEBsRR-1187-80.png",
-      "date": "2026-03-11T04:08:27+00:00"
-    },
-    {
-      "title": "How the \"godfathers of AI\" have shaped our mission",
-      "summary": "Article URL: https://ctsmyth.substack.com/p/standing-with-giants Comments URL: https://news.ycombinator.com/item?id=47331581 Points: 1 # Comments: 1",
-      "url": "https://ctsmyth.substack.com/p/standing-with-giants",
+      "title": "AI Poisoning for Fun and Profit",
+      "summary": "Article URL: https://www.amazon.com/AI-Poisoning-Fun-Profit-Corrupting/dp/B0GRR29HJK/ Comments URL: https://news.ycombinator.com/item?id=47346989 Points: 1 # Comments: 1",
+      "url": "https://www.amazon.com/AI-Poisoning-Fun-Profit-Corrupting/dp/B0GRR29HJK/",
       "image": "",
-      "date": "2026-03-11T03:53:41+00:00"
+      "date": "2026-03-12T05:51:14+00:00"
     },
     {
-      "title": "Jensen Huang: AI is a five layer cake",
-      "summary": "Article URL: https://blogs.nvidia.com/blog/ai-5-layer-cake/ Comments URL: https://news.ycombinator.com/item?id=47331497 Points: 4 # Comments: 0",
-      "url": "https://blogs.nvidia.com/blog/ai-5-layer-cake/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/02/5-layer-cake-hero-tablet-static.jpg",
-      "date": "2026-03-11T03:36:02+00:00"
+      "title": "Show HN: CmdRunner – Upload test cases and an AI agent runs them in a browser",
+      "summary": "I’m building CmdRunner, an AI agent that executes web application test cases directly from documents. Most teams maintain Selenium or Playwright scripts, but many already have test steps written in Excel or documentation. CmdRunner reads those steps and performs them in a browser like a human tester. Workflow:\n1. Upload test case file\n2. Agent understands each step\n3. Opens browser\n4. Executes actions\n5. Validates outcome\n6. Generates report Goal: reduce the time spent maintaining automation scripts. If anyone is interested in trying it with real test cases, Register here: https://cmdrunner.com Comments URL: https://news.ycombinator.com/item?id=47346986 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47346986",
+      "image": "",
+      "date": "2026-03-12T05:51:00+00:00"
     },
     {
-      "title": "The Global Vulnerability Intelligence Platform with Olle E. Johansson",
-      "summary": "Article URL: https://opensourcesecurity.io/2026/2026-02-GVIP-olle-johansson/ Comments URL: https://news.ycombinator.com/item?id=47331485 Points: 1 # Comments: 0",
-      "url": "https://opensourcesecurity.io/2026/2026-02-GVIP-olle-johansson/",
-      "image": "https://opensourcesecurity.io/images/wide-gvip.png",
-      "date": "2026-03-11T03:32:33+00:00"
+      "title": "There is a lot AI on HN nowadays",
+      "summary": "Article URL: https://lcamtuf.coredump.cx/blog/hn-ai/ Comments URL: https://news.ycombinator.com/item?id=47346906 Points: 2 # Comments: 1",
+      "url": "https://lcamtuf.coredump.cx/blog/hn-ai/",
+      "image": "https://substackcdn.com/image/fetch/$s_!nyFk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F186ff171-6d6b-44c5-a7bd-951cea16899e_2000x713.jpeg",
+      "date": "2026-03-12T05:37:29+00:00"
     },
     {
-      "title": "Eric Schmidt: China Could Dominate the Physical AI Future",
-      "summary": "Article URL: https://time.com/7382151/china-dominates-the-physical-ai-race/ Comments URL: https://news.ycombinator.com/item?id=47331256 Points: 7 # Comments: 1",
-      "url": "https://time.com/7382151/china-dominates-the-physical-ai-race/",
-      "image": "https://api.time.com/wp-content/uploads/2026/03/China-Robots-Lunar-New-Year.jpg?quality=85&w=1024&h=628&crop=1",
-      "date": "2026-03-11T02:48:53+00:00"
+      "title": "Show HN: Cloud VMs with a Built-In REST API for AI Agents",
+      "summary": "Hey HN, If you’re building local AI agents (or using tools like Cursor/Claude Code), giving them a place to safely execute code and manipulate files is a headache. Running untrusted LLM-generated code directly on your machine or local Docker is risky, and managing remote SSH keys for an automated agent is clunky. I built Oblien to solve this. It provides instant, hardware-isolated cloud VMs, but the actual interesting part is how you interact with them: the Runtime API. Every workspace runs an internal HTTP/WebSocket server on port 9990. Instead of establishing an SSH connection, your local agent just makes standard API calls to control the remote machine securely. It exposes everything an agent needs to do real work: • Command Execution: Run POST /exec to execute bash commands. It supports synchronous runs, or you can stream stdout/stderr in real-time via SSE for long-running tasks.\n• Files & Search: A full file API to list, read, and write files. It also has a native /search endpoint powered by ripgrep, so agents can find code without pulling the whole repo locally.\n• WebSockets & Terminals: You can open interactive PTY sessions multiplexed over a single WebSocket connection. It even supports streaming filesystem events (create/write/delete) to watch directories. How local agents connect securely:\nThe workspaces are network-dark by default—outbound internet is on, but inbound is completely blocked. To let your local agent in, you hit the Oblien API to get a short-lived Gateway JWT. The agent uses this token as a Bearer auth header against workspace.oblien.com. Our gateway decodes the routing info from the JWT and securely tunnels the HTTP request through the firewall directly to the VM's internal server. It makes orchestrating remote compute feel like using a standard web API. For example, to run a command inside the remote VM, your agent just does this:\ncurl -X POST \" https://workspace.oblien.com/exec \" \\\n-H \"Authorization: Bearer $GATEWAY_JWT\" \\\n-d '{\"cmd\": [\"npm\", \"install\"]}'\nDocs and API reference: https://oblien.com/docs Would love to hear what you think of the API design, or if there are specific endpoints you'd want added for your own agent workflows. also You can use it like Vercel—spin up a VM, add workload, expose a port, and attach a custom domain for instant preview URLs. But unlike serverless platforms, you aren't restricted. Because every workspace has an injected Runtime API (port 9990), you can programmatically execute commands, edit files, and multiplex terminals over WebSockets right from your local machine or CI pipeline. You get the hosting of a PaaS, but the low-level control of a raw Linux VM Comments URL: https://news.ycombinator.com/item?id=47346751 Points: 2 # Comments: 2",
+      "url": "https://oblien.com/docs/runtime-api",
+      "image": "https://oblien.com/og/docs/runtime-api.png",
+      "date": "2026-03-12T05:11:59+00:00"
+    },
+    {
+      "title": "PhDs and other experts making $16/HR training AI to kill their own jobs",
+      "summary": "Article URL: https://nymag.com/intelligencer/article/white-collar-workers-training-ai.html Comments URL: https://news.ycombinator.com/item?id=47346399 Points: 3 # Comments: 1",
+      "url": "https://nymag.com/intelligencer/article/white-collar-workers-training-ai.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/9d7/4b4/c76a64082cd6fefb188a28d652d8a6c446-AIJobs.1x.rsocial.w1200.jpg",
+      "date": "2026-03-12T04:20:34+00:00"
     }
   ]
 }
