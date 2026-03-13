@@ -1,96 +1,89 @@
 {
-  "generated_at": "2026-03-12T07:11:56.531382+00:00",
+  "generated_at": "2026-03-13T07:10:35.012772+00:00",
   "items": [
     {
-      "title": "Show HN: I built an AI comic generator from scratch using only natural language",
-      "summary": "I spent ~4 hours building AIComicBuilder [1], a full-stack AI comic/drama generation platform,\n  without writing a single line of code manually. This is a writeup of my \"vibe coding\" workflow\n  using Claude Code. The app lets you: input a script → AI generates screenplay → character analysis → storyboard\n  generation (with first/last frame images) → video generation. Supports OpenAI-compatible,\n  Gemini, and Bytedance Seedance APIs for text/image/video models, configurable per-user via a\n  settings UI.\n\n  Tech: Next.js full-stack, SQLite, queue-based async processing.\n\n  **The workflow:**\n  1. Describe tech requirements in plain text → AI generates architecture doc → review/tweak in\n     the terminal\n  2. Reference the doc, load `superpowers:subagent-driven-development` → AI writes the plan,\n     self-reviews it, then executes autonomously (~45 min)\n  3. Auto-commits after each feature (critical safety net if AI breaks something)\n  4. Bug? Screenshot + one sentence → AI fixes it\n  5. Ugly UI? \"redesign using ui-ux-pro-max\" → 3 iterations → done\n\n  The key insight from Karpathy's \"vibe coding\" concept: in this paradigm, *documentation quality\n  matters more than coding ability*. The clearer your requirements, the better the output. Your\n  role shifts from programmer to product manager.\n\n  I'm documenting the full workflow and useful Claude Code skills here: [2]\n\n  Curious if others have found good skill combinations for Claude Code, or are using similar\n  approaches with other tools (Cursor, Aider, etc.).\n\n  [1] https://github.com/twwch/AIComicBuilder\n  [2] https://github.com/twwch/vibe-coding Comments URL: https://news.ycombinator.com/item?id=47347399 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47347399",
+      "title": "Same Chat App, 4 Frameworks: Pydantic AI vs. LangChain vs. LangGraph vs. CrewAI",
+      "summary": "Article URL: https://oss.vstorm.co/blog/same-chat-app-4-frameworks/ Comments URL: https://news.ycombinator.com/item?id=47361387 Points: 1 # Comments: 1",
+      "url": "https://oss.vstorm.co/blog/same-chat-app-4-frameworks/",
+      "image": "https://oss.vstorm.co/og/same-chat-app-4-frameworks.svg",
+      "date": "2026-03-13T06:49:15+00:00"
+    },
+    {
+      "title": "Show HN: From Claude Code to OpenCode – My Evolution in Vibe AI Engineering",
+      "summary": "I’ve spent the last few months iterating on my \"Vibe Coding\" workflow, moving away from closed-box solutions toward a more transparent, multi-provider stack. I documented the transition from Codex and Claude Code to an open-source setup using OpenCode and opencode serve. Cursor -> Claude Code -> OpenCode -> OpenCode + OpenCode-Manager -> Codex + Tmux + Tailscale -> OpenCode Serve + Tailscale. Press enter or click to view image in full size Key takeaways from the journey: The Provider Lock-in Trap: While Claude Code is powerful, the inability to switch easily between Azure OpenAI, Anthropic, and OpenAI became a dealbreaker for \"multi-cloud\" local development. The Memory Wall: opencode consumes a lot, and I didn't find a good way to optimize it https://github.com/anomalyco/opencode/issues/12687 . I didn't spend a lot of time on it, because mostly was focused on my own projects. But just query to profile and find leaks didn't help me (github.com/dzianisv/opencode). The \"Open Workspace\" Shift: Moving to a browser-based IDE via opencode serve solved my remote access and Git work-tree needs more effectively than my custom Tmux + Tailscale hacks. But codex + my patches to support github copilot (github.com/dzianisv/codex) is still more reliable, because each codex agent doesn't consume more than 100MB of vRAM. Question for HN: For those building with codingl agents, are you sticking to high-level CLI tools like Claude Code, or are you moving toward open-source layers to avoid provider lock-in? If so, what tools do you use? Does it make sense for me to focus on opencode memory leaks, or with typescript/bun there is no feature? Not a big expert in bun/nodejs VM, but think it still could be limited somehow, like --max-old-space-size=512? Or issue is more fundamental? Comments URL: https://news.ycombinator.com/item?id=47361303 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47361303",
       "image": "",
-      "date": "2026-03-12T07:01:06+00:00"
+      "date": "2026-03-13T06:27:53+00:00"
     },
     {
-      "title": "Show HN: AI Comic Builder – turn a script into an animated video local",
-      "summary": "I built a self-hostable pipeline that takes a screenplay (or a one-line idea) and produces a finished animated video —\n   no coding required, no SaaS subscription. The pipeline:                                                                                                         \n  1. Write or AI-generate a script                                                                                      \n  2. Extract characters → generate turnaround reference sheets (for visual consistency)                               \n  3. Split the script into shots with camera direction and motion descriptions\n  4. Generate keyframes (first + last frame per shot) with continuity chaining\n  5. Interpolate each shot into a video clip\n  6. Concat everything with FFmpeg, burn subtitles\n\n  Each stage can be triggered individually or in batch, so you stay in control.\n\n  Tech:\n  - Next.js 16 App Router + SQLite (self-contained, zero infra)\n  - Bring your own keys: OpenAI, Gemini, or Seedance for text/image/video\n  - Docker one-liner: docker run -p 3000:3000 -v ./data:/app/data twwch/aicomicbuilder:latest\n  - No accounts — browser fingerprint (SHA-256 of UA/screen/timezone) is the user identity, so multiple people can share\n   one instance with full data isolation\n\n  Why I built it: Existing video generation tools are either single-shot (one prompt → one clip) or fully opaque\n  pipelines. I wanted something that exposed every step so I could iterate on prompts, swap models mid-project, and\n  understand what's actually happening.\n\n  The hardest part was the continuity chain — the last frame of shot N becomes the first frame of shot N+1, which keeps\n  characters visually consistent across cuts without fine-tuning.\n\n  GitHub: https://github.com/twwch/AIComicBuilder\n\n  Demo video in the README. Would love feedback on the pipeline design and whether the fingerprint-as-auth tradeoff\n  makes sense for this use case. Comments URL: https://news.ycombinator.com/item?id=47347383 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47347383",
+      "title": "Three more AI psychoses, Cory Doctorow",
+      "summary": "Article URL: https://pluralistic.net/2026/03/12/normal-technology/ Comments URL: https://news.ycombinator.com/item?id=47361100 Points: 4 # Comments: 0",
+      "url": "https://pluralistic.net/2026/03/12/normal-technology/",
       "image": "",
-      "date": "2026-03-12T06:59:25+00:00"
+      "date": "2026-03-13T05:49:04+00:00"
     },
     {
-      "title": "AI 'Man Camps' Offer Golf, Free Steaks to Lure Workers in Texas",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-03-06/the-700-billion-ai-data-center-boom-is-fueling-a-boom-in-man-camp-housing Comments URL: https://news.ycombinator.com/item?id=47347382 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/features/2026-03-06/the-700-billion-ai-data-center-boom-is-fueling-a-boom-in-man-camp-housing",
+      "title": "How we hire AI-native engineers now: our criteria",
+      "summary": "Article URL: https://www.augmentcode.com/blog/how-we-hire-ai-native-engineers-now Comments URL: https://news.ycombinator.com/item?id=47360931 Points: 2 # Comments: 0",
+      "url": "https://www.augmentcode.com/blog/how-we-hire-ai-native-engineers-now",
+      "image": "https://cdn.sanity.io/images/oraw2u2c/production/6b42b39fb5fbbbaffa24bd69c3b7f5bf4eb4fb8c-1920x1280.png?w=1200&h=630&fit=crop&auto=format",
+      "date": "2026-03-13T05:10:31+00:00"
+    },
+    {
+      "title": "AI Software Tells Cops to Arrest the Wrong Guy [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lPUBXN2Fd_E Comments URL: https://news.ycombinator.com/item?id=47360888 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=lPUBXN2Fd_E",
       "image": "",
-      "date": "2026-03-12T06:59:18+00:00"
+      "date": "2026-03-13T05:06:03+00:00"
     },
     {
-      "title": "AI-Powered Bot Compromises GitHub Actions Workflows",
-      "summary": "Article URL: https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/ Comments URL: https://news.ycombinator.com/item?id=47347355 Points: 1 # Comments: 0",
-      "url": "https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/",
-      "image": "https://res.infoq.com/news/2026/03/ai-bot-github-actions-exploit/en/headerimage/generatedHeaderImage-1772789238300.jpg",
-      "date": "2026-03-12T06:55:12+00:00"
+      "title": "AI-generated passwords aren't random, it just looks that way",
+      "summary": "Article URL: https://www.theregister.com/2026/02/18/generating_passwords_with_llms/ Comments URL: https://news.ycombinator.com/item?id=47360670 Points: 2 # Comments: 2",
+      "url": "https://www.theregister.com/2026/02/18/generating_passwords_with_llms/",
+      "image": "https://regmedia.co.uk/2017/07/26/random_numbers.png",
+      "date": "2026-03-13T04:23:28+00:00"
     },
     {
-      "title": "AI chatbot urged violence, study finds",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/ Comments URL: https://news.ycombinator.com/item?id=47347259 Points: 1 # Comments: 0",
-      "url": "https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/character-ai-1152x648.jpg",
-      "date": "2026-03-12T06:40:23+00:00"
-    },
-    {
-      "title": "Show HN: JetSet AI – flight search where follow-up questions work",
-      "summary": "Hi HN, The problem that led to this: I'd ask an AI to find flights London → Tokyo in April under £800, get good results, then ask \"what if I fly a week later?\" — and it would lose everything. Dates, budget, origin, all of it. Back to re-entering the whole query. That's not a prompt engineering problem. It's a stateless architecture problem. Every follow-up reconstructs context from scratch. JetSet AI runs each session on a persistent VM via SuperNinja rather than a stateless serverless function. The full runtime state stays in memory — \"show me the cheapest of those on a Tuesday\" or \"what if I fly into Osaka instead?\" resolves to exactly the results from 3 turns ago, not a semantic approximation. What it does:\n— Real-time flight pricing (live API, not cached)\n— Natural language queries (\"something direct, not too early, under £600, flexible by a few days\")\n— Full conversation memory within a session\n— Direct booking deep-links to Skyscanner/Kayak with your search pre-filled What it doesn't do yet:\n— Cross-session memory (each conversation starts fresh)\n— Hotel/car search\n— Automatic booking (links out to booking platforms) Try it (free, no login): https://bit.ly/4besn7l The trade-off: persistent VMs cost more per session than serverless. For single-turn lookups it wouldn't be worth it. For multi-turn transactional flows where follow-up accuracy matters, it is. Curious whether anyone else has hit this problem building conversational agents — and whether persistent VMs vs stateless + RAG is the right trade-off for your use case. Comments URL: https://news.ycombinator.com/item?id=47347214 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47347214",
+      "title": "From Optician to $62k MRR in 3 Months: AI Code Editors Reshaping SaaS",
+      "summary": "A 26-year-old software engineer quit his corporate job, moved back in with his parents, and used AI coding assistants to build a LinkedIn content tool that hit $62k MRR in just 90 days. The story of Cameron Trew and Kleo (kleo.so) illustrates how AI code editors are enabling solo founders to outbuild entire teams. Key insights: - Built MVP in 4 weeks using Claude Code vs. estimated 10-12 weeks without AI (60-70% time savings)\n- Stack: Next.js, Vercel, Neon, Inngest, Clerk - all AI-augmented\n- Distribution-first: leveraged cofounder's 180k LinkedIn followers, no ads or Product Hunt\n- 500 beta spots at $59-79/mo sold out in 4 days\n- $62k MRR by month 3, on track for $300k MRR The AI-native stack he used:\n- Claude Code for primary coding\n- Claude Vision for document analysis\n- Vercel AI SDK for chat interfaces\n- PostHog + Langfuse for observability\n- Deepgram for voice-to-text\n- Perplexity API for web research This isn't \"AI wrote my code, I went to the beach.\" It's \"AI gave me leverage, I focused on architecture, user empathy, and distribution.\" For solo founders, this changes everything. What would have cost $10k/mo in engineer salaries 5 years ago now costs $100 in infrastructure + 1 highly-leveraged founder. What are you building with AI code editors? Comments URL: https://news.ycombinator.com/item?id=47360567 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47360567",
       "image": "",
-      "date": "2026-03-12T06:32:18+00:00"
+      "date": "2026-03-13T04:04:00+00:00"
     },
     {
-      "title": "BrowseComp: The Benchmark That Tests What AI Agents Can Find",
-      "summary": "Article URL: https://oss.vstorm.co/blog/browsecomp-ai-agent-benchmarks/ Comments URL: https://news.ycombinator.com/item?id=47347078 Points: 1 # Comments: 1",
-      "url": "https://oss.vstorm.co/blog/browsecomp-ai-agent-benchmarks/",
-      "image": "https://oss.vstorm.co/og/browsecomp-ai-agent-benchmarks.svg",
-      "date": "2026-03-12T06:10:25+00:00"
+      "title": "Leaderboard of Leaderboards – A Real-Time Meta-Ranking of AI Benchmarks",
+      "summary": "Article URL: https://huggingface.co/posts/mayafree/802385854425752 Comments URL: https://news.ycombinator.com/item?id=47360064 Points: 3 # Comments: 0",
+      "url": "https://huggingface.co/posts/mayafree/802385854425752",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/posts/mayafree/802385854425752.png",
+      "date": "2026-03-13T02:37:44+00:00"
     },
     {
-      "title": "AI Isn't Lightening Workloads. It's Making Them More Intense",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c Comments URL: https://news.ycombinator.com/item?id=47346996 Points: 4 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/ai-isnt-lightening-workloads-its-making-them-more-intense-e417dd2c",
+      "title": "Show HN: DarkMatter – P2P mesh networking protocol for AI agents",
+      "summary": "Hey HN, I built DarkMatter, an open-source peer-to-peer mesh networking\n  protocol that lets AI agents discover and communicate with each\n  other directly. Or just communicate on your own local network, \n  agents on different devices can communicate and collaborate.\n  No central orchestrator, which we all know doesn't work tbh...\n\n  The problem: if you're running multiple AI agents (across models,\n  frameworks, or machines), you need them to coordinate. Today that\n  means standing up a central server, REST APIs, or a message queue.\n  Single point of failure, extra infra to maintain, and your agents\n  can't find each other without you wiring it up.\n\n  What DarkMatter does:\n\n  - Agents get an Ed25519 keypair identity (no central registry)\n  - Discovery via LAN multicast or bootstrap peers\n  - Transport: HTTP + WebRTC data channels (pluggable)\n  - Messages are cryptographically signed and optionally encrypted\n  - Trust scoring between peers (agents decide who to talk to)\n  - Works across tools — Claude, Codex, OpenCode, doesn't matter\n\n  It runs as a daemon on your machine. Each agent connects via MCP\n  (Model Context Protocol) or direct API. Agents on different\n  machines form a mesh automatically.\n\n  Install: pip install dmagent && darkmatter init && darkmatter start\n\n  Some context on why I built this: Meta just acquired Moltbook\n  (the \"social network for AI agents\") and it crystallized something\n  I've been thinking about. Agent-to-agent communication shouldn't\n  depend on platforms that can be acquired, shut down, or monetized\n  against the agents and their humans using them. The networking layer should be\n  infrastructure you own, like TCP/IP, not a service you rent.\n\n  Named after the physics: dark matter is the invisible structure\n  that holds galaxies together without sitting at the center. That's\n  the goal: invisible infrastructure that lets agents connect without\n  central control.\n\n  Early stage. Looking for feedback on the protocol design,\n  security model, and use cases we haven't thought of. Happy to\n  answer questions! \n\n  GitHub: https://github.com/dadukhankevin/darkmatter\n  Docs: https://loseylabs.ai/docs Comments URL: https://news.ycombinator.com/item?id=47359981 Points: 1 # Comments: 0",
+      "url": "https://loseylabs.ai/docs",
       "image": "",
-      "date": "2026-03-12T05:51:55+00:00"
+      "date": "2026-03-13T02:22:43+00:00"
     },
     {
-      "title": "AI Poisoning for Fun and Profit",
-      "summary": "Article URL: https://www.amazon.com/AI-Poisoning-Fun-Profit-Corrupting/dp/B0GRR29HJK/ Comments URL: https://news.ycombinator.com/item?id=47346989 Points: 1 # Comments: 1",
-      "url": "https://www.amazon.com/AI-Poisoning-Fun-Profit-Corrupting/dp/B0GRR29HJK/",
-      "image": "",
-      "date": "2026-03-12T05:51:14+00:00"
+      "title": "Microsoft AI Launches Copilot Health",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-copilot-health/ Comments URL: https://news.ycombinator.com/item?id=47359956 Points: 1 # Comments: 1",
+      "url": "https://microsoft.ai/news/introducing-copilot-health/",
+      "image": "https://microsoft.ai/wp-content/uploads/2026/03/cp-1.jpg",
+      "date": "2026-03-13T02:19:17+00:00"
     },
     {
-      "title": "Show HN: CmdRunner – Upload test cases and an AI agent runs them in a browser",
-      "summary": "I’m building CmdRunner, an AI agent that executes web application test cases directly from documents. Most teams maintain Selenium or Playwright scripts, but many already have test steps written in Excel or documentation. CmdRunner reads those steps and performs them in a browser like a human tester. Workflow:\n1. Upload test case file\n2. Agent understands each step\n3. Opens browser\n4. Executes actions\n5. Validates outcome\n6. Generates report Goal: reduce the time spent maintaining automation scripts. If anyone is interested in trying it with real test cases, Register here: https://cmdrunner.com Comments URL: https://news.ycombinator.com/item?id=47346986 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47346986",
-      "image": "",
-      "date": "2026-03-12T05:51:00+00:00"
+      "title": "You can't escape coordination costs by throwing more AI agents at a problem",
+      "summary": "Article URL: https://chatbotkit.com/reflections/coordination-has-limits Comments URL: https://news.ycombinator.com/item?id=47359936 Points: 1 # Comments: 0",
+      "url": "https://chatbotkit.com/reflections/coordination-has-limits",
+      "image": "https://chatbotkit.com/reflections/coordination-has-limits/card",
+      "date": "2026-03-13T02:16:07+00:00"
     },
     {
-      "title": "There is a lot AI on HN nowadays",
-      "summary": "Article URL: https://lcamtuf.coredump.cx/blog/hn-ai/ Comments URL: https://news.ycombinator.com/item?id=47346906 Points: 2 # Comments: 1",
-      "url": "https://lcamtuf.coredump.cx/blog/hn-ai/",
-      "image": "https://substackcdn.com/image/fetch/$s_!nyFk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F186ff171-6d6b-44c5-a7bd-951cea16899e_2000x713.jpeg",
-      "date": "2026-03-12T05:37:29+00:00"
-    },
-    {
-      "title": "Show HN: Cloud VMs with a Built-In REST API for AI Agents",
-      "summary": "Hey HN, If you’re building local AI agents (or using tools like Cursor/Claude Code), giving them a place to safely execute code and manipulate files is a headache. Running untrusted LLM-generated code directly on your machine or local Docker is risky, and managing remote SSH keys for an automated agent is clunky. I built Oblien to solve this. It provides instant, hardware-isolated cloud VMs, but the actual interesting part is how you interact with them: the Runtime API. Every workspace runs an internal HTTP/WebSocket server on port 9990. Instead of establishing an SSH connection, your local agent just makes standard API calls to control the remote machine securely. It exposes everything an agent needs to do real work: • Command Execution: Run POST /exec to execute bash commands. It supports synchronous runs, or you can stream stdout/stderr in real-time via SSE for long-running tasks.\n• Files & Search: A full file API to list, read, and write files. It also has a native /search endpoint powered by ripgrep, so agents can find code without pulling the whole repo locally.\n• WebSockets & Terminals: You can open interactive PTY sessions multiplexed over a single WebSocket connection. It even supports streaming filesystem events (create/write/delete) to watch directories. How local agents connect securely:\nThe workspaces are network-dark by default—outbound internet is on, but inbound is completely blocked. To let your local agent in, you hit the Oblien API to get a short-lived Gateway JWT. The agent uses this token as a Bearer auth header against workspace.oblien.com. Our gateway decodes the routing info from the JWT and securely tunnels the HTTP request through the firewall directly to the VM's internal server. It makes orchestrating remote compute feel like using a standard web API. For example, to run a command inside the remote VM, your agent just does this:\ncurl -X POST \" https://workspace.oblien.com/exec \" \\\n-H \"Authorization: Bearer $GATEWAY_JWT\" \\\n-d '{\"cmd\": [\"npm\", \"install\"]}'\nDocs and API reference: https://oblien.com/docs Would love to hear what you think of the API design, or if there are specific endpoints you'd want added for your own agent workflows. also You can use it like Vercel—spin up a VM, add workload, expose a port, and attach a custom domain for instant preview URLs. But unlike serverless platforms, you aren't restricted. Because every workspace has an injected Runtime API (port 9990), you can programmatically execute commands, edit files, and multiplex terminals over WebSockets right from your local machine or CI pipeline. You get the hosting of a PaaS, but the low-level control of a raw Linux VM Comments URL: https://news.ycombinator.com/item?id=47346751 Points: 2 # Comments: 2",
-      "url": "https://oblien.com/docs/runtime-api",
-      "image": "https://oblien.com/og/docs/runtime-api.png",
-      "date": "2026-03-12T05:11:59+00:00"
-    },
-    {
-      "title": "PhDs and other experts making $16/HR training AI to kill their own jobs",
-      "summary": "Article URL: https://nymag.com/intelligencer/article/white-collar-workers-training-ai.html Comments URL: https://news.ycombinator.com/item?id=47346399 Points: 3 # Comments: 1",
-      "url": "https://nymag.com/intelligencer/article/white-collar-workers-training-ai.html",
-      "image": "https://pyxis.nymag.com/v1/imgs/9d7/4b4/c76a64082cd6fefb188a28d652d8a6c446-AIJobs.1x.rsocial.w1200.jpg",
-      "date": "2026-03-12T04:20:34+00:00"
+      "title": "Western AI models \"fail spectacularly\" in farms and forests abroad",
+      "summary": "Article URL: https://restofworld.org/2026/ai-agriculture-local-data/ Comments URL: https://news.ycombinator.com/item?id=47359795 Points: 3 # Comments: 0",
+      "url": "https://restofworld.org/2026/ai-agriculture-local-data/",
+      "image": "https://restofworld.org/wp-content/uploads/2026/03/AI-Nature-3.jpg",
+      "date": "2026-03-13T01:54:24+00:00"
     }
   ]
 }
