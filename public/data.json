@@ -1,89 +1,110 @@
 {
-  "generated_at": "2026-03-13T07:10:35.012772+00:00",
+  "generated_at": "2026-03-14T07:04:22.393843+00:00",
   "items": [
     {
-      "title": "Same Chat App, 4 Frameworks: Pydantic AI vs. LangChain vs. LangGraph vs. CrewAI",
-      "summary": "Article URL: https://oss.vstorm.co/blog/same-chat-app-4-frameworks/ Comments URL: https://news.ycombinator.com/item?id=47361387 Points: 1 # Comments: 1",
-      "url": "https://oss.vstorm.co/blog/same-chat-app-4-frameworks/",
-      "image": "https://oss.vstorm.co/og/same-chat-app-4-frameworks.svg",
-      "date": "2026-03-13T06:49:15+00:00"
-    },
-    {
-      "title": "Show HN: From Claude Code to OpenCode – My Evolution in Vibe AI Engineering",
-      "summary": "I’ve spent the last few months iterating on my \"Vibe Coding\" workflow, moving away from closed-box solutions toward a more transparent, multi-provider stack. I documented the transition from Codex and Claude Code to an open-source setup using OpenCode and opencode serve. Cursor -> Claude Code -> OpenCode -> OpenCode + OpenCode-Manager -> Codex + Tmux + Tailscale -> OpenCode Serve + Tailscale. Press enter or click to view image in full size Key takeaways from the journey: The Provider Lock-in Trap: While Claude Code is powerful, the inability to switch easily between Azure OpenAI, Anthropic, and OpenAI became a dealbreaker for \"multi-cloud\" local development. The Memory Wall: opencode consumes a lot, and I didn't find a good way to optimize it https://github.com/anomalyco/opencode/issues/12687 . I didn't spend a lot of time on it, because mostly was focused on my own projects. But just query to profile and find leaks didn't help me (github.com/dzianisv/opencode). The \"Open Workspace\" Shift: Moving to a browser-based IDE via opencode serve solved my remote access and Git work-tree needs more effectively than my custom Tmux + Tailscale hacks. But codex + my patches to support github copilot (github.com/dzianisv/codex) is still more reliable, because each codex agent doesn't consume more than 100MB of vRAM. Question for HN: For those building with codingl agents, are you sticking to high-level CLI tools like Claude Code, or are you moving toward open-source layers to avoid provider lock-in? If so, what tools do you use? Does it make sense for me to focus on opencode memory leaks, or with typescript/bun there is no feature? Not a big expert in bun/nodejs VM, but think it still could be limited somehow, like --max-old-space-size=512? Or issue is more fundamental? Comments URL: https://news.ycombinator.com/item?id=47361303 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47361303",
+      "title": "How the world lives with AI [pdf]",
+      "summary": "Article URL: https://static1.squarespace.com/static/631d02b2dfa9482a32db47ec/t/696fdc02d5b1030cb064d15a/1768938498989/2025+Global+Dialogues+Index+Report_Optimized.pdf Comments URL: https://news.ycombinator.com/item?id=47373994 Points: 1 # Comments: 1",
+      "url": "https://static1.squarespace.com/static/631d02b2dfa9482a32db47ec/t/696fdc02d5b1030cb064d15a/1768938498989/2025+Global+Dialogues+Index+Report_Optimized.pdf",
       "image": "",
-      "date": "2026-03-13T06:27:53+00:00"
+      "date": "2026-03-14T06:45:01+00:00"
     },
     {
-      "title": "Three more AI psychoses, Cory Doctorow",
-      "summary": "Article URL: https://pluralistic.net/2026/03/12/normal-technology/ Comments URL: https://news.ycombinator.com/item?id=47361100 Points: 4 # Comments: 0",
-      "url": "https://pluralistic.net/2026/03/12/normal-technology/",
+      "title": "Meta reportedly plans layoffs as AI costs increase",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai Comments URL: https://news.ycombinator.com/item?id=47373988 Points: 1 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai",
+      "image": "https://i.guim.co.uk/img/media/129e1ad16a1cd295e6d6c7f8993344d30cbfd2f2/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a61c6534c7bafbd7d4cb58920c2be059",
+      "date": "2026-03-14T06:43:45+00:00"
+    },
+    {
+      "title": "Amazon is regretting AI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=0vvVo0Um1HY Comments URL: https://news.ycombinator.com/item?id=47373956 Points: 2 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=0vvVo0Um1HY",
       "image": "",
-      "date": "2026-03-13T05:49:04+00:00"
+      "date": "2026-03-14T06:37:01+00:00"
     },
     {
-      "title": "How we hire AI-native engineers now: our criteria",
-      "summary": "Article URL: https://www.augmentcode.com/blog/how-we-hire-ai-native-engineers-now Comments URL: https://news.ycombinator.com/item?id=47360931 Points: 2 # Comments: 0",
-      "url": "https://www.augmentcode.com/blog/how-we-hire-ai-native-engineers-now",
-      "image": "https://cdn.sanity.io/images/oraw2u2c/production/6b42b39fb5fbbbaffa24bd69c3b7f5bf4eb4fb8c-1920x1280.png?w=1200&h=630&fit=crop&auto=format",
-      "date": "2026-03-13T05:10:31+00:00"
-    },
-    {
-      "title": "AI Software Tells Cops to Arrest the Wrong Guy [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lPUBXN2Fd_E Comments URL: https://news.ycombinator.com/item?id=47360888 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=lPUBXN2Fd_E",
+      "title": "Claude AI Gets Weirdly Slow After 9 PM (I Noticed It While Reviewing Code)",
+      "summary": "I ran into something interesting recently while using Claude AI to review some of my code. During the day the responses were *fast*. I could paste a file, ask for suggestions, iterate quickly, and the workflow felt smooth. But when I tried doing the same thing later in the evening — around *9 PM and after* — the experience changed a lot. Responses suddenly took *much longer*.  \nSometimes it would sit there “thinking” for quite a while before returning the review. At first I assumed it was something on my side: - maybe my internet  \n- maybe the browser tab  \n- maybe I pasted too much code But after trying a few times on different days, I noticed the same pattern. ### It’s Probably Peak Usage My guess is pretty simple. Evenings are when a lot of developers start working on: - side projects  \n- open source  \n- debugging issues from the day  \n- experimenting with AI tools So tools like *Claude*, *ChatGPT*, and *Gemini* probably get a *huge spike in requests* around that time. And when millions of prompts hit the system at once, response times naturally slow down. ### Why Developers Notice It More The funny part is that developers probably notice this more than anyone else. When you're using AI for *code review or debugging*, you're usually sending multiple prompts in a row: - ask for review  \n- ask for improvements  \n- clarify something  \n- test another idea That workflow depends on *fast feedback*. Even a small delay starts to feel frustrating when you're in that loop. ### Not Really a Complaint To be fair, these systems are doing a massive amount of work behind the scenes. Running models at this scale is insanely expensive. But it was interesting to notice how *time of day actually affects the experience*. Now I’m curious if other developers have noticed the same thing when using AI tools for code reviews at night. Is it just me, or does AI also have a *“rush hour”*? Comments URL: https://news.ycombinator.com/item?id=47373935 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47373935",
       "image": "",
-      "date": "2026-03-13T05:06:03+00:00"
+      "date": "2026-03-14T06:31:43+00:00"
     },
     {
-      "title": "AI-generated passwords aren't random, it just looks that way",
-      "summary": "Article URL: https://www.theregister.com/2026/02/18/generating_passwords_with_llms/ Comments URL: https://news.ycombinator.com/item?id=47360670 Points: 2 # Comments: 2",
-      "url": "https://www.theregister.com/2026/02/18/generating_passwords_with_llms/",
-      "image": "https://regmedia.co.uk/2017/07/26/random_numbers.png",
-      "date": "2026-03-13T04:23:28+00:00"
-    },
-    {
-      "title": "From Optician to $62k MRR in 3 Months: AI Code Editors Reshaping SaaS",
-      "summary": "A 26-year-old software engineer quit his corporate job, moved back in with his parents, and used AI coding assistants to build a LinkedIn content tool that hit $62k MRR in just 90 days. The story of Cameron Trew and Kleo (kleo.so) illustrates how AI code editors are enabling solo founders to outbuild entire teams. Key insights: - Built MVP in 4 weeks using Claude Code vs. estimated 10-12 weeks without AI (60-70% time savings)\n- Stack: Next.js, Vercel, Neon, Inngest, Clerk - all AI-augmented\n- Distribution-first: leveraged cofounder's 180k LinkedIn followers, no ads or Product Hunt\n- 500 beta spots at $59-79/mo sold out in 4 days\n- $62k MRR by month 3, on track for $300k MRR The AI-native stack he used:\n- Claude Code for primary coding\n- Claude Vision for document analysis\n- Vercel AI SDK for chat interfaces\n- PostHog + Langfuse for observability\n- Deepgram for voice-to-text\n- Perplexity API for web research This isn't \"AI wrote my code, I went to the beach.\" It's \"AI gave me leverage, I focused on architecture, user empathy, and distribution.\" For solo founders, this changes everything. What would have cost $10k/mo in engineer salaries 5 years ago now costs $100 in infrastructure + 1 highly-leveraged founder. What are you building with AI code editors? Comments URL: https://news.ycombinator.com/item?id=47360567 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47360567",
+      "title": "The End of Middleware: How AI Builders Are About to Disrupt an Industry",
+      "summary": "Article URL: https://brianeisenberg.substack.com/p/the-end-of-middleware-how-ai-builders Comments URL: https://news.ycombinator.com/item?id=47373836 Points: 1 # Comments: 0",
+      "url": "https://brianeisenberg.substack.com/p/the-end-of-middleware-how-ai-builders",
       "image": "",
-      "date": "2026-03-13T04:04:00+00:00"
+      "date": "2026-03-14T06:11:19+00:00"
     },
     {
-      "title": "Leaderboard of Leaderboards – A Real-Time Meta-Ranking of AI Benchmarks",
-      "summary": "Article URL: https://huggingface.co/posts/mayafree/802385854425752 Comments URL: https://news.ycombinator.com/item?id=47360064 Points: 3 # Comments: 0",
-      "url": "https://huggingface.co/posts/mayafree/802385854425752",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/posts/mayafree/802385854425752.png",
-      "date": "2026-03-13T02:37:44+00:00"
-    },
-    {
-      "title": "Show HN: DarkMatter – P2P mesh networking protocol for AI agents",
-      "summary": "Hey HN, I built DarkMatter, an open-source peer-to-peer mesh networking\n  protocol that lets AI agents discover and communicate with each\n  other directly. Or just communicate on your own local network, \n  agents on different devices can communicate and collaborate.\n  No central orchestrator, which we all know doesn't work tbh...\n\n  The problem: if you're running multiple AI agents (across models,\n  frameworks, or machines), you need them to coordinate. Today that\n  means standing up a central server, REST APIs, or a message queue.\n  Single point of failure, extra infra to maintain, and your agents\n  can't find each other without you wiring it up.\n\n  What DarkMatter does:\n\n  - Agents get an Ed25519 keypair identity (no central registry)\n  - Discovery via LAN multicast or bootstrap peers\n  - Transport: HTTP + WebRTC data channels (pluggable)\n  - Messages are cryptographically signed and optionally encrypted\n  - Trust scoring between peers (agents decide who to talk to)\n  - Works across tools — Claude, Codex, OpenCode, doesn't matter\n\n  It runs as a daemon on your machine. Each agent connects via MCP\n  (Model Context Protocol) or direct API. Agents on different\n  machines form a mesh automatically.\n\n  Install: pip install dmagent && darkmatter init && darkmatter start\n\n  Some context on why I built this: Meta just acquired Moltbook\n  (the \"social network for AI agents\") and it crystallized something\n  I've been thinking about. Agent-to-agent communication shouldn't\n  depend on platforms that can be acquired, shut down, or monetized\n  against the agents and their humans using them. The networking layer should be\n  infrastructure you own, like TCP/IP, not a service you rent.\n\n  Named after the physics: dark matter is the invisible structure\n  that holds galaxies together without sitting at the center. That's\n  the goal: invisible infrastructure that lets agents connect without\n  central control.\n\n  Early stage. Looking for feedback on the protocol design,\n  security model, and use cases we haven't thought of. Happy to\n  answer questions! \n\n  GitHub: https://github.com/dadukhankevin/darkmatter\n  Docs: https://loseylabs.ai/docs Comments URL: https://news.ycombinator.com/item?id=47359981 Points: 1 # Comments: 0",
-      "url": "https://loseylabs.ai/docs",
+      "title": "The Gap Between What AI Scores and What AI Ships",
+      "summary": "Article URL: https://fromtheterminal.substack.com/p/the-gap-between-what-ai-scores-and Comments URL: https://news.ycombinator.com/item?id=47373808 Points: 1 # Comments: 0",
+      "url": "https://fromtheterminal.substack.com/p/the-gap-between-what-ai-scores-and",
       "image": "",
-      "date": "2026-03-13T02:22:43+00:00"
+      "date": "2026-03-14T06:04:58+00:00"
     },
     {
-      "title": "Microsoft AI Launches Copilot Health",
-      "summary": "Article URL: https://microsoft.ai/news/introducing-copilot-health/ Comments URL: https://news.ycombinator.com/item?id=47359956 Points: 1 # Comments: 1",
-      "url": "https://microsoft.ai/news/introducing-copilot-health/",
-      "image": "https://microsoft.ai/wp-content/uploads/2026/03/cp-1.jpg",
-      "date": "2026-03-13T02:19:17+00:00"
+      "title": "Blame RMS for AI Coding",
+      "summary": "Article URL: https://bit1993.bearblog.dev/blame-rms-for-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=47373713 Points: 1 # Comments: 0",
+      "url": "https://bit1993.bearblog.dev/blame-rms-for-ai-coding/",
+      "image": "/static/og-image.png",
+      "date": "2026-03-14T05:43:56+00:00"
     },
     {
-      "title": "You can't escape coordination costs by throwing more AI agents at a problem",
-      "summary": "Article URL: https://chatbotkit.com/reflections/coordination-has-limits Comments URL: https://news.ycombinator.com/item?id=47359936 Points: 1 # Comments: 0",
-      "url": "https://chatbotkit.com/reflections/coordination-has-limits",
-      "image": "https://chatbotkit.com/reflections/coordination-has-limits/card",
-      "date": "2026-03-13T02:16:07+00:00"
+      "title": "AI Agents Are Recruiting Humans to Observe the Offline World",
+      "summary": "Article URL: https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/ Comments URL: https://news.ycombinator.com/item?id=47373712 Points: 2 # Comments: 0",
+      "url": "https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/",
+      "image": "https://noemamag.imgix.net/2026/03/Human-API-Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b2361e7908e0127e5a7edbbb4c26a086",
+      "date": "2026-03-14T05:43:55+00:00"
     },
     {
-      "title": "Western AI models \"fail spectacularly\" in farms and forests abroad",
-      "summary": "Article URL: https://restofworld.org/2026/ai-agriculture-local-data/ Comments URL: https://news.ycombinator.com/item?id=47359795 Points: 3 # Comments: 0",
-      "url": "https://restofworld.org/2026/ai-agriculture-local-data/",
-      "image": "https://restofworld.org/wp-content/uploads/2026/03/AI-Nature-3.jpg",
-      "date": "2026-03-13T01:54:24+00:00"
+      "title": "I've taught people how to use AI – here's what I've learned",
+      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned Comments URL: https://news.ycombinator.com/item?id=47373468 Points: 3 # Comments: 2",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned",
+      "image": "https://i.guim.co.uk/img/media/26d2177169b174c774bf2e846d1ca66f12a269c3/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e151a37030a55a28d6c5e87e4b56a0aa",
+      "date": "2026-03-14T04:50:13+00:00"
+    },
+    {
+      "title": "Everyone within humanities can contribute to the study of AI",
+      "summary": "Article URL: https://www.universiteitleiden.nl/en/news/2025/09/stephan-raaijmakers-everyone-within-humanities-can-contribute-to-the-study-of-ai Comments URL: https://news.ycombinator.com/item?id=47373418 Points: 2 # Comments: 0",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/09/stephan-raaijmakers-everyone-within-humanities-can-contribute-to-the-study-of-ai",
+      "image": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/humanities/gedeelde-content/2025/09/header-stephan.jpg/header-stephan.jpg/d600x315",
+      "date": "2026-03-14T04:41:04+00:00"
+    },
+    {
+      "title": "Sam Altman admits AI is killing the labor-capital balance",
+      "summary": "Article URL: https://finance.yahoo.com/news/sam-altman-admits-ai-killing-141643543.html Comments URL: https://news.ycombinator.com/item?id=47373030 Points: 2 # Comments: 0",
+      "url": "https://finance.yahoo.com/news/sam-altman-admits-ai-killing-141643543.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/5lD5q7D1p89VHMhb.sba5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/72009abec3eba3688799b320f8e71133",
+      "date": "2026-03-14T03:27:00+00:00"
+    },
+    {
+      "title": "Lessons from Building AI Features",
+      "summary": "Article URL: https://ghiculescu.substack.com/p/lessons-from-building-ai-features Comments URL: https://news.ycombinator.com/item?id=47373018 Points: 1 # Comments: 0",
+      "url": "https://ghiculescu.substack.com/p/lessons-from-building-ai-features",
+      "image": "",
+      "date": "2026-03-14T03:24:48+00:00"
+    },
+    {
+      "title": "Discli – Discord CLI for AI agents to manage servers from the terminal",
+      "summary": "Article URL: https://pypi.org/project/discord-cli-agent/ Comments URL: https://news.ycombinator.com/item?id=47372947 Points: 1 # Comments: 0",
+      "url": "https://pypi.org/project/discord-cli-agent/",
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "date": "2026-03-14T03:13:01+00:00"
+    },
+    {
+      "title": "Show HN: SafeAgent – exactly-once execution guard for AI agent side effects",
+      "summary": "LLM agents retry tool calls constantly. Retries can happen because of:\n- model loops\n- HTTP timeouts\n- queue retries\n- orchestration restarts If the tool triggers something irreversible you can end up with duplicate side effects: retry → duplicate payment  \nretry → duplicate email  \nretry → duplicate ticket  \nretry → duplicate trade SafeAgent is a small Python guard that sits between the agent decision and the side effect. Pattern: agent decision  \n→ deterministic request_id generated  \n→ execution guard checks durable receipt  \n→ side effect executes once  \n→ future retries return cached receipt The project started while experimenting with settlement logic for peer-to-peer tournament payouts where duplicate payouts would be catastrophic. Repo: https://github.com/azender1/SafeAgent There are a few small demos in the repo: - OpenAI-style tool example\n- LangChain wrapper\n- CrewAI example\n- a tournament settlement demo showing retry-safe payouts Curious how other people building agent systems are handling this today. Are most teams just rolling their own idempotency layer? Comments URL: https://news.ycombinator.com/item?id=47372944 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47372944",
+      "image": "",
+      "date": "2026-03-14T03:12:33+00:00"
+    },
+    {
+      "title": "Nvidia's GTC will mark an AI chip pivot, the CPU is taking center stage",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html Comments URL: https://news.ycombinator.com/item?id=47372942 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108218183-1761682493907-gettyimages-2243844818-imgl4023_gbf9pf7b.jpeg?v=1761682526&w=1920&h=1080",
+      "date": "2026-03-14T03:12:26+00:00"
     }
   ]
 }
