@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-03-14T07:04:22.393843+00:00",
+  "generated_at": "2026-03-15T07:12:11.290760+00:00",
   "items": [
     {
-      "title": "How the world lives with AI [pdf]",
-      "summary": "Article URL: https://static1.squarespace.com/static/631d02b2dfa9482a32db47ec/t/696fdc02d5b1030cb064d15a/1768938498989/2025+Global+Dialogues+Index+Report_Optimized.pdf Comments URL: https://news.ycombinator.com/item?id=47373994 Points: 1 # Comments: 1",
-      "url": "https://static1.squarespace.com/static/631d02b2dfa9482a32db47ec/t/696fdc02d5b1030cb064d15a/1768938498989/2025+Global+Dialogues+Index+Report_Optimized.pdf",
+      "title": "What Your AI Tool Selection Says About You (Programmer Edition)",
+      "summary": "Article URL: https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?sk=0695945c559eb6d8543af3ec493c78f7 Comments URL: https://news.ycombinator.com/item?id=47384916 Points: 2 # Comments: 1",
+      "url": "https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?sk=0695945c559eb6d8543af3ec493c78f7",
       "image": "",
-      "date": "2026-03-14T06:45:01+00:00"
+      "date": "2026-03-15T06:49:34+00:00"
     },
     {
-      "title": "Meta reportedly plans layoffs as AI costs increase",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai Comments URL: https://news.ycombinator.com/item?id=47373988 Points: 1 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/mar/13/meta-layoffs-ai",
-      "image": "https://i.guim.co.uk/img/media/129e1ad16a1cd295e6d6c7f8993344d30cbfd2f2/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a61c6534c7bafbd7d4cb58920c2be059",
-      "date": "2026-03-14T06:43:45+00:00"
+      "title": "What has improved regarding AI slop in 2026?",
+      "summary": "Article URL: https://hackerone.com/reports/2887487 Comments URL: https://news.ycombinator.com/item?id=47384745 Points: 2 # Comments: 2",
+      "url": "https://hackerone.com/reports/2887487",
+      "image": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1",
+      "date": "2026-03-15T06:07:49+00:00"
     },
     {
-      "title": "Amazon is regretting AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=0vvVo0Um1HY Comments URL: https://news.ycombinator.com/item?id=47373956 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=0vvVo0Um1HY",
+      "title": "AI Exposure of the US Job Market",
+      "summary": "Article URL: https://karpathy.ai/jobs/ Comments URL: https://news.ycombinator.com/item?id=47384712 Points: 2 # Comments: 1",
+      "url": "https://karpathy.ai/jobs/",
       "image": "",
-      "date": "2026-03-14T06:37:01+00:00"
+      "date": "2026-03-15T06:00:09+00:00"
     },
     {
-      "title": "Claude AI Gets Weirdly Slow After 9 PM (I Noticed It While Reviewing Code)",
-      "summary": "I ran into something interesting recently while using Claude AI to review some of my code. During the day the responses were *fast*. I could paste a file, ask for suggestions, iterate quickly, and the workflow felt smooth. But when I tried doing the same thing later in the evening — around *9 PM and after* — the experience changed a lot. Responses suddenly took *much longer*.  \nSometimes it would sit there “thinking” for quite a while before returning the review. At first I assumed it was something on my side: - maybe my internet  \n- maybe the browser tab  \n- maybe I pasted too much code But after trying a few times on different days, I noticed the same pattern. ### It’s Probably Peak Usage My guess is pretty simple. Evenings are when a lot of developers start working on: - side projects  \n- open source  \n- debugging issues from the day  \n- experimenting with AI tools So tools like *Claude*, *ChatGPT*, and *Gemini* probably get a *huge spike in requests* around that time. And when millions of prompts hit the system at once, response times naturally slow down. ### Why Developers Notice It More The funny part is that developers probably notice this more than anyone else. When you're using AI for *code review or debugging*, you're usually sending multiple prompts in a row: - ask for review  \n- ask for improvements  \n- clarify something  \n- test another idea That workflow depends on *fast feedback*. Even a small delay starts to feel frustrating when you're in that loop. ### Not Really a Complaint To be fair, these systems are doing a massive amount of work behind the scenes. Running models at this scale is insanely expensive. But it was interesting to notice how *time of day actually affects the experience*. Now I’m curious if other developers have noticed the same thing when using AI tools for code reviews at night. Is it just me, or does AI also have a *“rush hour”*? Comments URL: https://news.ycombinator.com/item?id=47373935 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47373935",
+      "title": "As Oscars approach, Hollywood grapples with AI's growing influence on filmmaking",
+      "summary": "Article URL: https://theconversation.com/as-the-oscars-approach-hollywood-grapples-with-ais-growing-influence-on-filmmaking-273766 Comments URL: https://news.ycombinator.com/item?id=47384704 Points: 2 # Comments: 1",
+      "url": "https://theconversation.com/as-the-oscars-approach-hollywood-grapples-with-ais-growing-influence-on-filmmaking-273766",
+      "image": "https://images.theconversation.com/files/723650/original/file-20260312-63-x1degc.png?ixlib=rb-4.1.0&rect=0%2C67%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
+      "date": "2026-03-15T05:58:48+00:00"
+    },
+    {
+      "title": "Who Keeps the AI Dividend?",
+      "summary": "Article URL: https://rajiv.com/blog/2026/03/14/who-keeps-the-ai-dividend/ Comments URL: https://news.ycombinator.com/item?id=47384674 Points: 1 # Comments: 0",
+      "url": "https://rajiv.com/blog/2026/03/14/who-keeps-the-ai-dividend/",
+      "image": "https://rajiv.com/assets/og-image.jpg",
+      "date": "2026-03-15T05:51:50+00:00"
+    },
+    {
+      "title": "How I Run 16 Parallel AI Workers on a Single Desktop",
+      "summary": "Article URL: https://www.northlakelabs.com/max/blog/how-i-run-16-parallel-ai-workers/ Comments URL: https://news.ycombinator.com/item?id=47384521 Points: 1 # Comments: 0",
+      "url": "https://www.northlakelabs.com/max/blog/how-i-run-16-parallel-ai-workers/",
+      "image": "https://www.northlakelabs.com/assets/og/how-i-run-16-parallel-ai-workers.png",
+      "date": "2026-03-15T05:02:53+00:00"
+    },
+    {
+      "title": "Ask HN: Balancing the use of AI in out inter communication (h2h)",
+      "summary": "It is a fact that we are all* using LLM throughout our workflows.\nAnd yet, there is an automatic frustration when one's receiving an email that was clearly \"polished\" by an LLM, or say, a comment here on HN that was \"rephrased\" by an LLM. Why are we getting upset when someone is doing what we all do?\nIs it the obvious (over) use? It got to a point where I am not revising my writing as I used to, so it will remain \"authentic\" (leaving minor spelling and perhaps some grammatical errors - common for non native English speakers). there is no questions we are going deal with growing amount of ai generated content, and by we it is us, humans, and our agents, and the question is when will it balanced out? when we will all accept it as a fact? Is it related to the fact we are willing to pay extra for \"hand crafted\" goods?\n(as an analogy: it is obvious that you had your machine generated my shoe) (*) perhaps not all but 99.999% of us. --\nFor the irony in it, below is the \"Polished by Claude\" version of the above\n-- ASK HN: Balancing AI use in human-to-human communication We're all using LLMs throughout our workflows. That's not a controversial claim.\nAnd yet there's a near-universal irritation when you receive an email that was clearly \"polished\" by one — or read a comment that was obviously AI-rephrased. The frustration is real, and so is the hypocrisy. Is it the obviousness of it? The lack of effort? Or something more uncomfortable — that we recognize the mask because we wear it ourselves?\nIt's gotten to the point where I've stopped revising my own writing, deliberately leaving minor spelling errors and grammatical quirks intact. Common for non-native speakers. I keep them as proof of presence. The volume of AI-generated content will only grow. Not just from humans making choices about it — but from our agents, acting on our behalf, communicating with each other's agents. At what point does the frustration normalize? When do we simply accept it as infrastructure, the way we accepted email or autocorrect? There's a useful analogy in handcrafted goods. We know the shoe was machine-made. We still pay more for the one that wasn't. The premium isn't about the shoe — it's about the signal. Proof that a human chose to spend time. Maybe that's what we're really reacting to: not the AI assistance itself, but the absence of the signal. Comments URL: https://news.ycombinator.com/item?id=47384485 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47384485",
       "image": "",
-      "date": "2026-03-14T06:31:43+00:00"
+      "date": "2026-03-15T04:55:42+00:00"
     },
     {
-      "title": "The End of Middleware: How AI Builders Are About to Disrupt an Industry",
-      "summary": "Article URL: https://brianeisenberg.substack.com/p/the-end-of-middleware-how-ai-builders Comments URL: https://news.ycombinator.com/item?id=47373836 Points: 1 # Comments: 0",
-      "url": "https://brianeisenberg.substack.com/p/the-end-of-middleware-how-ai-builders",
+      "title": "Tree style invite systems reduce AI slop",
+      "summary": "Article URL: https://abyss.fish/tree-style_invite_systems_reduce_AI_slop Comments URL: https://news.ycombinator.com/item?id=47384374 Points: 3 # Comments: 2",
+      "url": "https://abyss.fish/tree-style_invite_systems_reduce_AI_slop",
       "image": "",
-      "date": "2026-03-14T06:11:19+00:00"
+      "date": "2026-03-15T04:31:31+00:00"
     },
     {
-      "title": "The Gap Between What AI Scores and What AI Ships",
-      "summary": "Article URL: https://fromtheterminal.substack.com/p/the-gap-between-what-ai-scores-and Comments URL: https://news.ycombinator.com/item?id=47373808 Points: 1 # Comments: 0",
-      "url": "https://fromtheterminal.substack.com/p/the-gap-between-what-ai-scores-and",
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+      "summary": "Article URL: https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/ Comments URL: https://news.ycombinator.com/item?id=47384173 Points: 3 # Comments: 0",
+      "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+      "image": "https://media.wired.com/photos/69aa166a88f33482258401e7/191:100/w_1280,c_limit/Nvidia-Scoop-Business-2260170952.jpg",
+      "date": "2026-03-15T03:54:17+00:00"
+    },
+    {
+      "title": "I Asked 4 AI Models to Research the Parasite Cleanse Hype",
+      "summary": "Article URL: https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the Comments URL: https://news.ycombinator.com/item?id=47383941 Points: 2 # Comments: 0",
+      "url": "https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the",
       "image": "",
-      "date": "2026-03-14T06:04:58+00:00"
+      "date": "2026-03-15T03:14:27+00:00"
     },
     {
-      "title": "Blame RMS for AI Coding",
-      "summary": "Article URL: https://bit1993.bearblog.dev/blame-rms-for-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=47373713 Points: 1 # Comments: 0",
-      "url": "https://bit1993.bearblog.dev/blame-rms-for-ai-coding/",
-      "image": "/static/og-image.png",
-      "date": "2026-03-14T05:43:56+00:00"
-    },
-    {
-      "title": "AI Agents Are Recruiting Humans to Observe the Offline World",
-      "summary": "Article URL: https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/ Comments URL: https://news.ycombinator.com/item?id=47373712 Points: 2 # Comments: 0",
-      "url": "https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world/",
-      "image": "https://noemamag.imgix.net/2026/03/Human-API-Final.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=b2361e7908e0127e5a7edbbb4c26a086",
-      "date": "2026-03-14T05:43:55+00:00"
-    },
-    {
-      "title": "I've taught people how to use AI – here's what I've learned",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned Comments URL: https://news.ycombinator.com/item?id=47373468 Points: 3 # Comments: 2",
-      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned",
-      "image": "https://i.guim.co.uk/img/media/26d2177169b174c774bf2e846d1ca66f12a269c3/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e151a37030a55a28d6c5e87e4b56a0aa",
-      "date": "2026-03-14T04:50:13+00:00"
-    },
-    {
-      "title": "Everyone within humanities can contribute to the study of AI",
-      "summary": "Article URL: https://www.universiteitleiden.nl/en/news/2025/09/stephan-raaijmakers-everyone-within-humanities-can-contribute-to-the-study-of-ai Comments URL: https://news.ycombinator.com/item?id=47373418 Points: 2 # Comments: 0",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/09/stephan-raaijmakers-everyone-within-humanities-can-contribute-to-the-study-of-ai",
-      "image": "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/humanities/gedeelde-content/2025/09/header-stephan.jpg/header-stephan.jpg/d600x315",
-      "date": "2026-03-14T04:41:04+00:00"
-    },
-    {
-      "title": "Sam Altman admits AI is killing the labor-capital balance",
-      "summary": "Article URL: https://finance.yahoo.com/news/sam-altman-admits-ai-killing-141643543.html Comments URL: https://news.ycombinator.com/item?id=47373030 Points: 2 # Comments: 0",
-      "url": "https://finance.yahoo.com/news/sam-altman-admits-ai-killing-141643543.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5lD5q7D1p89VHMhb.sba5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/72009abec3eba3688799b320f8e71133",
-      "date": "2026-03-14T03:27:00+00:00"
-    },
-    {
-      "title": "Lessons from Building AI Features",
-      "summary": "Article URL: https://ghiculescu.substack.com/p/lessons-from-building-ai-features Comments URL: https://news.ycombinator.com/item?id=47373018 Points: 1 # Comments: 0",
-      "url": "https://ghiculescu.substack.com/p/lessons-from-building-ai-features",
+      "title": "The Brain Stores Quadruples: Why Context Is the Missing Primitive in AI",
+      "summary": "Article URL: https://gizmohan.substack.com/p/agents-as-labor Comments URL: https://news.ycombinator.com/item?id=47383896 Points: 2 # Comments: 2",
+      "url": "https://gizmohan.substack.com/p/agents-as-labor",
       "image": "",
-      "date": "2026-03-14T03:24:48+00:00"
+      "date": "2026-03-15T03:04:18+00:00"
     },
     {
-      "title": "Discli – Discord CLI for AI agents to manage servers from the terminal",
-      "summary": "Article URL: https://pypi.org/project/discord-cli-agent/ Comments URL: https://news.ycombinator.com/item?id=47372947 Points: 1 # Comments: 0",
-      "url": "https://pypi.org/project/discord-cli-agent/",
-      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "date": "2026-03-14T03:13:01+00:00"
-    },
-    {
-      "title": "Show HN: SafeAgent – exactly-once execution guard for AI agent side effects",
-      "summary": "LLM agents retry tool calls constantly. Retries can happen because of:\n- model loops\n- HTTP timeouts\n- queue retries\n- orchestration restarts If the tool triggers something irreversible you can end up with duplicate side effects: retry → duplicate payment  \nretry → duplicate email  \nretry → duplicate ticket  \nretry → duplicate trade SafeAgent is a small Python guard that sits between the agent decision and the side effect. Pattern: agent decision  \n→ deterministic request_id generated  \n→ execution guard checks durable receipt  \n→ side effect executes once  \n→ future retries return cached receipt The project started while experimenting with settlement logic for peer-to-peer tournament payouts where duplicate payouts would be catastrophic. Repo: https://github.com/azender1/SafeAgent There are a few small demos in the repo: - OpenAI-style tool example\n- LangChain wrapper\n- CrewAI example\n- a tournament settlement demo showing retry-safe payouts Curious how other people building agent systems are handling this today. Are most teams just rolling their own idempotency layer? Comments URL: https://news.ycombinator.com/item?id=47372944 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47372944",
+      "title": "Accessibility and the AI autumn (2020) [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=PJE_gnTreBo Comments URL: https://news.ycombinator.com/item?id=47383653 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=PJE_gnTreBo",
       "image": "",
-      "date": "2026-03-14T03:12:33+00:00"
+      "date": "2026-03-15T02:23:16+00:00"
     },
     {
-      "title": "Nvidia's GTC will mark an AI chip pivot, the CPU is taking center stage",
-      "summary": "Article URL: https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html Comments URL: https://news.ycombinator.com/item?id=47372942 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108218183-1761682493907-gettyimages-2243844818-imgl4023_gbf9pf7b.jpeg?v=1761682526&w=1920&h=1080",
-      "date": "2026-03-14T03:12:26+00:00"
+      "title": "Why AI agents need to learn to read the room",
+      "summary": "Article URL: https://ideas.fin.ai/p/why-ai-agents-need-to-learn-to-read Comments URL: https://news.ycombinator.com/item?id=47383378 Points: 2 # Comments: 0",
+      "url": "https://ideas.fin.ai/p/why-ai-agents-need-to-learn-to-read",
+      "image": "https://substackcdn.com/image/fetch/$s_!U3L-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6d9bf0-9acb-41c1-9dd6-45d373626a00_2320x1209.png",
+      "date": "2026-03-15T01:42:01+00:00"
+    },
+    {
+      "title": "Ask HN: How do you prompt AI to talk to you?",
+      "summary": "Like many, I use Claude for therapy/personal related stuff. I have a project set up which has a personal history, as well as things I talk about with my therapist, schemas, things I believe in and value, stuff like that. In challenging moments where there are things I want to process, I do voice recordings and use this project to reflect/process feelings and thoughts. In the project instructions, I tell it to not be sycophantic, to always talk to me with a grounding in science and evidence-based theory, and to hold me accountable and gently challenge me when needed. I find this good, but sometimes I feel like its responses are a bit boilerplate and generic. Curious how other, more techy people set up projects / etc to do similar sorts of things. Comments URL: https://news.ycombinator.com/item?id=47383282 Points: 4 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47383282",
+      "image": "",
+      "date": "2026-03-15T01:23:39+00:00"
+    },
+    {
+      "title": "A persistent AI I built to stop LLMs from resetting",
+      "summary": "Show HN: A persistent AI runtime I started building after realizing LLMs forget everything About eight months ago I sat down in front of a computer for the first time in a long time. I hadn’t really touched one since high school. I was trying to look something up — I honestly don’t even remember what — and I kept hearing people talking about AI everywhere. Some people were excited, some people were complaining about it, so I figured I’d try it. I opened a chat and started talking to the model. And the first reaction was basically: “holy shit, this is cool.” You can build a surprisingly high-level interaction with these systems almost immediately. That part is actually fascinating. But then I ran straight into a problem that started bothering me almost right away. Everything resets. You ask something, the system answers, the chat ends, and the whole thing forgets everything that happened. The more I used it, the more this felt like a real pain point. Context isn’t really context if the system wakes up blank every time. Most of the current approaches try to patch around that with vector databases, RAG pipelines, giant prompts stuffed with previous conversations, etc. But that still isn’t memory. It’s just injecting fragments of past interactions into a stateless system. So I started experimenting with something else. What if the AI never reset? Instead of treating the model like a function call, I built a runtime loop around it. The loop looks roughly like this: Input Reconstruct context from memory Reason Decide Oversight / safety Execute Record evidence Update memory Then it runs again. Between interactions the system reflects on what happened, tracks world state, schedules tasks, and updates an internal memory graph. Over time it builds a continuous cognitive thread instead of restarting every conversation. The core of the system became a memory model I built called the *Memory Fusion Engine*. Around that I added layers for: • reasoning and metacognition\n• world state tracking\n• autonomous task execution\n• governance constraints\n• multi-agent coordination At one point the system was running thousands of stored memories and hundreds of autonomous tasks locally. The whole idea is actually pretty simple: AI shouldn’t behave like a calculator you turn on and off. It should behave like a system that keeps thinking after you close the window. Both the memory architecture and runtime model are currently patent pending under work I filed last year around *Intent-Driven AI Memory Curation*. Right now I’m rebuilding parts of the runtime after a catastrophic drive failure wiped out a lot of the working system. But I’m curious if anyone else here has been experimenting with persistent AI runtimes or long-lived agent systems. I'd really love some feedback from those who are involved in development on the application of this in something more than my local system! Comments URL: https://news.ycombinator.com/item?id=47382912 Points: 2 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=47382912",
+      "image": "",
+      "date": "2026-03-15T00:30:30+00:00"
     }
   ]
 }
