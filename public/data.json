@@ -1,110 +1,89 @@
 {
-  "generated_at": "2026-03-15T07:12:11.290760+00:00",
+  "generated_at": "2026-03-16T07:46:44.666520+00:00",
   "items": [
     {
-      "title": "What Your AI Tool Selection Says About You (Programmer Edition)",
-      "summary": "Article URL: https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?sk=0695945c559eb6d8543af3ec493c78f7 Comments URL: https://news.ycombinator.com/item?id=47384916 Points: 2 # Comments: 1",
-      "url": "https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?sk=0695945c559eb6d8543af3ec493c78f7",
+      "title": "Google scraps AI search feature that crowdsourced amateur medical advice",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice Comments URL: https://news.ycombinator.com/item?id=47396034 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice",
+      "image": "https://i.guim.co.uk/img/media/c1592fd079496b0c053661b01285dfb3c7738434/748_0_6435_5149/master/6435.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ebea1dc76dfb8bbc16fff13ace01e04",
+      "date": "2026-03-16T07:28:15+00:00"
+    },
+    {
+      "title": "Can AI Replace RedHat？Can AI Replace Linus Torvalds",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47395993 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47395993",
       "image": "",
-      "date": "2026-03-15T06:49:34+00:00"
+      "date": "2026-03-16T07:22:32+00:00"
     },
     {
-      "title": "What has improved regarding AI slop in 2026?",
-      "summary": "Article URL: https://hackerone.com/reports/2887487 Comments URL: https://news.ycombinator.com/item?id=47384745 Points: 2 # Comments: 2",
-      "url": "https://hackerone.com/reports/2887487",
-      "image": "https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/d6d8259739a2a4d509639b7804214d057bca547cc3fafe509ec3e3a86321b1d1",
-      "date": "2026-03-15T06:07:49+00:00"
-    },
-    {
-      "title": "AI Exposure of the US Job Market",
-      "summary": "Article URL: https://karpathy.ai/jobs/ Comments URL: https://news.ycombinator.com/item?id=47384712 Points: 2 # Comments: 1",
-      "url": "https://karpathy.ai/jobs/",
+      "title": "What AI Is Forcing Us to Admit About Talent and Work",
+      "summary": "Article URL: https://michaelnovati.substack.com/p/ai-is-about-to-reveal-that-most-of Comments URL: https://news.ycombinator.com/item?id=47395737 Points: 2 # Comments: 0",
+      "url": "https://michaelnovati.substack.com/p/ai-is-about-to-reveal-that-most-of",
       "image": "",
-      "date": "2026-03-15T06:00:09+00:00"
+      "date": "2026-03-16T06:29:13+00:00"
     },
     {
-      "title": "As Oscars approach, Hollywood grapples with AI's growing influence on filmmaking",
-      "summary": "Article URL: https://theconversation.com/as-the-oscars-approach-hollywood-grapples-with-ais-growing-influence-on-filmmaking-273766 Comments URL: https://news.ycombinator.com/item?id=47384704 Points: 2 # Comments: 1",
-      "url": "https://theconversation.com/as-the-oscars-approach-hollywood-grapples-with-ais-growing-influence-on-filmmaking-273766",
-      "image": "https://images.theconversation.com/files/723650/original/file-20260312-63-x1degc.png?ixlib=rb-4.1.0&rect=0%2C67%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
-      "date": "2026-03-15T05:58:48+00:00"
+      "title": "Before AI's Kepler Moment – Are LLMs the Epicycles of Intelligence?",
+      "summary": "Article URL: https://ashvardanian.com/posts/llm-epicycles/ Comments URL: https://news.ycombinator.com/item?id=47395731 Points: 3 # Comments: 0",
+      "url": "https://ashvardanian.com/posts/llm-epicycles/",
+      "image": "https://ashvardanian.com/llm-epicycles/LLM-Epicycles.jpg",
+      "date": "2026-03-16T06:27:53+00:00"
     },
     {
-      "title": "Who Keeps the AI Dividend?",
-      "summary": "Article URL: https://rajiv.com/blog/2026/03/14/who-keeps-the-ai-dividend/ Comments URL: https://news.ycombinator.com/item?id=47384674 Points: 1 # Comments: 0",
-      "url": "https://rajiv.com/blog/2026/03/14/who-keeps-the-ai-dividend/",
-      "image": "https://rajiv.com/assets/og-image.jpg",
-      "date": "2026-03-15T05:51:50+00:00"
-    },
-    {
-      "title": "How I Run 16 Parallel AI Workers on a Single Desktop",
-      "summary": "Article URL: https://www.northlakelabs.com/max/blog/how-i-run-16-parallel-ai-workers/ Comments URL: https://news.ycombinator.com/item?id=47384521 Points: 1 # Comments: 0",
-      "url": "https://www.northlakelabs.com/max/blog/how-i-run-16-parallel-ai-workers/",
-      "image": "https://www.northlakelabs.com/assets/og/how-i-run-16-parallel-ai-workers.png",
-      "date": "2026-03-15T05:02:53+00:00"
-    },
-    {
-      "title": "Ask HN: Balancing the use of AI in out inter communication (h2h)",
-      "summary": "It is a fact that we are all* using LLM throughout our workflows.\nAnd yet, there is an automatic frustration when one's receiving an email that was clearly \"polished\" by an LLM, or say, a comment here on HN that was \"rephrased\" by an LLM. Why are we getting upset when someone is doing what we all do?\nIs it the obvious (over) use? It got to a point where I am not revising my writing as I used to, so it will remain \"authentic\" (leaving minor spelling and perhaps some grammatical errors - common for non native English speakers). there is no questions we are going deal with growing amount of ai generated content, and by we it is us, humans, and our agents, and the question is when will it balanced out? when we will all accept it as a fact? Is it related to the fact we are willing to pay extra for \"hand crafted\" goods?\n(as an analogy: it is obvious that you had your machine generated my shoe) (*) perhaps not all but 99.999% of us. --\nFor the irony in it, below is the \"Polished by Claude\" version of the above\n-- ASK HN: Balancing AI use in human-to-human communication We're all using LLMs throughout our workflows. That's not a controversial claim.\nAnd yet there's a near-universal irritation when you receive an email that was clearly \"polished\" by one — or read a comment that was obviously AI-rephrased. The frustration is real, and so is the hypocrisy. Is it the obviousness of it? The lack of effort? Or something more uncomfortable — that we recognize the mask because we wear it ourselves?\nIt's gotten to the point where I've stopped revising my own writing, deliberately leaving minor spelling errors and grammatical quirks intact. Common for non-native speakers. I keep them as proof of presence. The volume of AI-generated content will only grow. Not just from humans making choices about it — but from our agents, acting on our behalf, communicating with each other's agents. At what point does the frustration normalize? When do we simply accept it as infrastructure, the way we accepted email or autocorrect? There's a useful analogy in handcrafted goods. We know the shoe was machine-made. We still pay more for the one that wasn't. The premium isn't about the shoe — it's about the signal. Proof that a human chose to spend time. Maybe that's what we're really reacting to: not the AI assistance itself, but the absence of the signal. Comments URL: https://news.ycombinator.com/item?id=47384485 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47384485",
+      "title": "Ruthenium prices hit record high as AI boom squeezes supply",
+      "summary": "Article URL: https://www.reuters.com/world/africa/ruthenium-prices-hit-record-high-ai-boom-squeezes-supply-2026-03-16/ Comments URL: https://news.ycombinator.com/item?id=47395729 Points: 2 # Comments: 0",
+      "url": "https://www.reuters.com/world/africa/ruthenium-prices-hit-record-high-ai-boom-squeezes-supply-2026-03-16/",
       "image": "",
-      "date": "2026-03-15T04:55:42+00:00"
+      "date": "2026-03-16T06:27:25+00:00"
     },
     {
-      "title": "Tree style invite systems reduce AI slop",
-      "summary": "Article URL: https://abyss.fish/tree-style_invite_systems_reduce_AI_slop Comments URL: https://news.ycombinator.com/item?id=47384374 Points: 3 # Comments: 2",
-      "url": "https://abyss.fish/tree-style_invite_systems_reduce_AI_slop",
+      "title": "EU axes AI, semiconductors, and quantum from the Industrial Accelerator Act",
+      "summary": "Article URL: https://www.sdxcentral.com/news/eu-axes-ai-chips-and-quantum-from-strategic-tech-list-in-proposed-industrial-policy/ Comments URL: https://news.ycombinator.com/item?id=47395531 Points: 2 # Comments: 3",
+      "url": "https://www.sdxcentral.com/news/eu-axes-ai-chips-and-quantum-from-strategic-tech-list-in-proposed-industrial-policy/",
       "image": "",
-      "date": "2026-03-15T04:31:31+00:00"
+      "date": "2026-03-16T05:42:46+00:00"
     },
     {
-      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-      "summary": "Article URL: https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/ Comments URL: https://news.ycombinator.com/item?id=47384173 Points: 3 # Comments: 0",
-      "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-      "image": "https://media.wired.com/photos/69aa166a88f33482258401e7/191:100/w_1280,c_limit/Nvidia-Scoop-Business-2260170952.jpg",
-      "date": "2026-03-15T03:54:17+00:00"
+      "title": "Race on to establish globally recognised 'AI-free' logo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cj0d6el50ppo Comments URL: https://news.ycombinator.com/item?id=47395439 Points: 1 # Comments: 2",
+      "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
+      "date": "2026-03-16T05:22:16+00:00"
     },
     {
-      "title": "I Asked 4 AI Models to Research the Parasite Cleanse Hype",
-      "summary": "Article URL: https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the Comments URL: https://news.ycombinator.com/item?id=47383941 Points: 2 # Comments: 0",
-      "url": "https://christiantech.substack.com/p/i-asked-4-ai-models-to-research-the",
+      "title": "ShellScribe: AI-powered terminal session logger for your whole dev life",
+      "summary": "Article URL: https://luinbytes.github.io/shellscribe/ Comments URL: https://news.ycombinator.com/item?id=47395219 Points: 3 # Comments: 2",
+      "url": "https://luinbytes.github.io/shellscribe/",
       "image": "",
-      "date": "2026-03-15T03:14:27+00:00"
+      "date": "2026-03-16T04:25:52+00:00"
     },
     {
-      "title": "The Brain Stores Quadruples: Why Context Is the Missing Primitive in AI",
-      "summary": "Article URL: https://gizmohan.substack.com/p/agents-as-labor Comments URL: https://news.ycombinator.com/item?id=47383896 Points: 2 # Comments: 2",
-      "url": "https://gizmohan.substack.com/p/agents-as-labor",
+      "title": "Ask HN: Are there any CS niches safe from AI?",
+      "summary": "I'll be graduating with a SWE degree soon and the thought of spending my career reviewing AI code just seems both awful and unsustainable. Programming has been fun because it is difficult. It required skill which is continously grown by the act of writing more code. Using code gen is boring, doesn't require much skill, and tends to atrophy your understanding of the subject. Does anyone have any experience with nearby niches to software engineering which might have some inherent property that makes AI code gen not possible? OS development? Embedded? Computer Architecture? Something I've never heard of? If possible, I'd like to pivot while I'm still young. Comments URL: https://news.ycombinator.com/item?id=47394979 Points: 2 # Comments: 6",
+      "url": "https://news.ycombinator.com/item?id=47394979",
       "image": "",
-      "date": "2026-03-15T03:04:18+00:00"
+      "date": "2026-03-16T03:39:51+00:00"
     },
     {
-      "title": "Accessibility and the AI autumn (2020) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=PJE_gnTreBo Comments URL: https://news.ycombinator.com/item?id=47383653 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=PJE_gnTreBo",
+      "title": "Rust Project Perspectives on AI",
+      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/ Comments URL: https://news.ycombinator.com/item?id=47394939 Points: 1 # Comments: 0",
+      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/",
       "image": "",
-      "date": "2026-03-15T02:23:16+00:00"
+      "date": "2026-03-16T03:33:38+00:00"
     },
     {
-      "title": "Why AI agents need to learn to read the room",
-      "summary": "Article URL: https://ideas.fin.ai/p/why-ai-agents-need-to-learn-to-read Comments URL: https://news.ycombinator.com/item?id=47383378 Points: 2 # Comments: 0",
-      "url": "https://ideas.fin.ai/p/why-ai-agents-need-to-learn-to-read",
-      "image": "https://substackcdn.com/image/fetch/$s_!U3L-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6d9bf0-9acb-41c1-9dd6-45d373626a00_2320x1209.png",
-      "date": "2026-03-15T01:42:01+00:00"
-    },
-    {
-      "title": "Ask HN: How do you prompt AI to talk to you?",
-      "summary": "Like many, I use Claude for therapy/personal related stuff. I have a project set up which has a personal history, as well as things I talk about with my therapist, schemas, things I believe in and value, stuff like that. In challenging moments where there are things I want to process, I do voice recordings and use this project to reflect/process feelings and thoughts. In the project instructions, I tell it to not be sycophantic, to always talk to me with a grounding in science and evidence-based theory, and to hold me accountable and gently challenge me when needed. I find this good, but sometimes I feel like its responses are a bit boilerplate and generic. Curious how other, more techy people set up projects / etc to do similar sorts of things. Comments URL: https://news.ycombinator.com/item?id=47383282 Points: 4 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47383282",
+      "title": "The AI Journey for Developers – explaining AI systems simply",
+      "summary": "Article URL: https://www.amazon.com/dp/B0GSMTVWW5 Comments URL: https://news.ycombinator.com/item?id=47394935 Points: 1 # Comments: 1",
+      "url": "https://www.amazon.com/dp/B0GSMTVWW5",
       "image": "",
-      "date": "2026-03-15T01:23:39+00:00"
+      "date": "2026-03-16T03:33:14+00:00"
     },
     {
-      "title": "A persistent AI I built to stop LLMs from resetting",
-      "summary": "Show HN: A persistent AI runtime I started building after realizing LLMs forget everything About eight months ago I sat down in front of a computer for the first time in a long time. I hadn’t really touched one since high school. I was trying to look something up — I honestly don’t even remember what — and I kept hearing people talking about AI everywhere. Some people were excited, some people were complaining about it, so I figured I’d try it. I opened a chat and started talking to the model. And the first reaction was basically: “holy shit, this is cool.” You can build a surprisingly high-level interaction with these systems almost immediately. That part is actually fascinating. But then I ran straight into a problem that started bothering me almost right away. Everything resets. You ask something, the system answers, the chat ends, and the whole thing forgets everything that happened. The more I used it, the more this felt like a real pain point. Context isn’t really context if the system wakes up blank every time. Most of the current approaches try to patch around that with vector databases, RAG pipelines, giant prompts stuffed with previous conversations, etc. But that still isn’t memory. It’s just injecting fragments of past interactions into a stateless system. So I started experimenting with something else. What if the AI never reset? Instead of treating the model like a function call, I built a runtime loop around it. The loop looks roughly like this: Input Reconstruct context from memory Reason Decide Oversight / safety Execute Record evidence Update memory Then it runs again. Between interactions the system reflects on what happened, tracks world state, schedules tasks, and updates an internal memory graph. Over time it builds a continuous cognitive thread instead of restarting every conversation. The core of the system became a memory model I built called the *Memory Fusion Engine*. Around that I added layers for: • reasoning and metacognition\n• world state tracking\n• autonomous task execution\n• governance constraints\n• multi-agent coordination At one point the system was running thousands of stored memories and hundreds of autonomous tasks locally. The whole idea is actually pretty simple: AI shouldn’t behave like a calculator you turn on and off. It should behave like a system that keeps thinking after you close the window. Both the memory architecture and runtime model are currently patent pending under work I filed last year around *Intent-Driven AI Memory Curation*. Right now I’m rebuilding parts of the runtime after a catastrophic drive failure wiped out a lot of the working system. But I’m curious if anyone else here has been experimenting with persistent AI runtimes or long-lived agent systems. I'd really love some feedback from those who are involved in development on the application of this in something more than my local system! Comments URL: https://news.ycombinator.com/item?id=47382912 Points: 2 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=47382912",
+      "title": "Ask HN: If AI makes your devs super productive, why layoff?",
+      "summary": "The recent news about the massive layoff at Block doesn’t quite add up for me. The claim by the company was that AI made their devs so efficient that they could layoff 40% of them to make the company lean and still maintain the core product. But why don’t you just keep all those super productive devs and expand into new products/verticals? You could keep your same profit margins plus have 100 random little ai-powered mission-aligned startups under your control. I’m worried that everybody is going to use “AI is making us efficient” as a cover story for needing to slash expenses as the recession kicks in.  This is worse than simply being in denial about a recession because it’ll have the effect of further inflating the AI bubble. Am I just being paranoid? Comments URL: https://news.ycombinator.com/item?id=47394827 Points: 6 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=47394827",
       "image": "",
-      "date": "2026-03-15T00:30:30+00:00"
+      "date": "2026-03-16T03:17:03+00:00"
     }
   ]
 }
