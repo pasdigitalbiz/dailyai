@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-03-16T07:46:44.666520+00:00",
+  "generated_at": "2026-03-17T07:17:38.897877+00:00",
   "items": [
     {
-      "title": "Google scraps AI search feature that crowdsourced amateur medical advice",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice Comments URL: https://news.ycombinator.com/item?id=47396034 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/mar/16/google-scraps-ai-search-feature-that-crowdsourced-amateur-medical-advice",
-      "image": "https://i.guim.co.uk/img/media/c1592fd079496b0c053661b01285dfb3c7738434/748_0_6435_5149/master/6435.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ebea1dc76dfb8bbc16fff13ace01e04",
-      "date": "2026-03-16T07:28:15+00:00"
-    },
-    {
-      "title": "Can AI Replace RedHat？Can AI Replace Linus Torvalds",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47395993 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47395993",
+      "title": "Encyclopedia Britannica sues OpenAI over AI training",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/ Comments URL: https://news.ycombinator.com/item?id=47409495 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/",
       "image": "",
-      "date": "2026-03-16T07:22:32+00:00"
+      "date": "2026-03-17T07:00:48+00:00"
     },
     {
-      "title": "What AI Is Forcing Us to Admit About Talent and Work",
-      "summary": "Article URL: https://michaelnovati.substack.com/p/ai-is-about-to-reveal-that-most-of Comments URL: https://news.ycombinator.com/item?id=47395737 Points: 2 # Comments: 0",
-      "url": "https://michaelnovati.substack.com/p/ai-is-about-to-reveal-that-most-of",
+      "title": "AI CEOs are scaring America",
+      "summary": "Article URL: https://www.axios.com/2026/03/16/ai-sam-altman-fear-mongering Comments URL: https://news.ycombinator.com/item?id=47409456 Points: 4 # Comments: 1",
+      "url": "https://www.axios.com/2026/03/16/ai-sam-altman-fear-mongering",
       "image": "",
-      "date": "2026-03-16T06:29:13+00:00"
+      "date": "2026-03-17T06:52:53+00:00"
     },
     {
-      "title": "Before AI's Kepler Moment – Are LLMs the Epicycles of Intelligence?",
-      "summary": "Article URL: https://ashvardanian.com/posts/llm-epicycles/ Comments URL: https://news.ycombinator.com/item?id=47395731 Points: 3 # Comments: 0",
-      "url": "https://ashvardanian.com/posts/llm-epicycles/",
-      "image": "https://ashvardanian.com/llm-epicycles/LLM-Epicycles.jpg",
-      "date": "2026-03-16T06:27:53+00:00"
+      "title": "AI usage among doctors doubles as confidence in technology grows",
+      "summary": "Article URL: https://www.ama-assn.org/press-center/ama-press-releases/ama-ai-usage-among-doctors-doubles-confidence-technology-grows Comments URL: https://news.ycombinator.com/item?id=47409362 Points: 3 # Comments: 0",
+      "url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-ai-usage-among-doctors-doubles-confidence-technology-grows",
+      "image": "https://www.ama-assn.org/sites/ama-assn.org/files/2023-08/hc-innovation-technology-PR-open-graph-B.jpg",
+      "date": "2026-03-17T06:38:58+00:00"
     },
     {
-      "title": "Ruthenium prices hit record high as AI boom squeezes supply",
-      "summary": "Article URL: https://www.reuters.com/world/africa/ruthenium-prices-hit-record-high-ai-boom-squeezes-supply-2026-03-16/ Comments URL: https://news.ycombinator.com/item?id=47395729 Points: 2 # Comments: 0",
-      "url": "https://www.reuters.com/world/africa/ruthenium-prices-hit-record-high-ai-boom-squeezes-supply-2026-03-16/",
+      "title": "Real-Time AI Needs Rolling Aggregations",
+      "summary": "Article URL: https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai Comments URL: https://news.ycombinator.com/item?id=47409302 Points: 1 # Comments: 0",
+      "url": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai",
+      "image": "https://www.hopsworks.ai/post/rolling-aggregations-for-real-time-ai/opengraph-image?4b841acb8d809240",
+      "date": "2026-03-17T06:27:10+00:00"
+    },
+    {
+      "title": "TypeScript's rise in the AI era: Insights from Anders Hejlsberg (2025)",
+      "summary": "Article URL: https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/ Comments URL: https://news.ycombinator.com/item?id=47408895 Points: 2 # Comments: 0",
+      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
+      "image": "https://github.blog/wp-content/uploads/2025/06/typescript.webp",
+      "date": "2026-03-17T05:11:26+00:00"
+    },
+    {
+      "title": "New Nvidia DLSS Tech Gives Characters AI Slop Faces",
+      "summary": "Article URL: https://kotaku.com/new-nvidia-dlss-tech-gives-characters-ai-slop-faces-2000679199 Comments URL: https://news.ycombinator.com/item?id=47408609 Points: 1 # Comments: 0",
+      "url": "https://kotaku.com/new-nvidia-dlss-tech-gives-characters-ai-slop-faces-2000679199",
+      "image": "https://kotaku.com/app/uploads/2026/03/aislopfaces-1200x675.jpg",
+      "date": "2026-03-17T04:26:25+00:00"
+    },
+    {
+      "title": "Nvidia DLSS 5 – AI-Powered Breakthrough in Visual Fidelity for Games [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=dJACkKbN-Eo Comments URL: https://news.ycombinator.com/item?id=47408587 Points: 4 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=dJACkKbN-Eo",
       "image": "",
-      "date": "2026-03-16T06:27:25+00:00"
+      "date": "2026-03-17T04:23:06+00:00"
     },
     {
-      "title": "EU axes AI, semiconductors, and quantum from the Industrial Accelerator Act",
-      "summary": "Article URL: https://www.sdxcentral.com/news/eu-axes-ai-chips-and-quantum-from-strategic-tech-list-in-proposed-industrial-policy/ Comments URL: https://news.ycombinator.com/item?id=47395531 Points: 2 # Comments: 3",
-      "url": "https://www.sdxcentral.com/news/eu-axes-ai-chips-and-quantum-from-strategic-tech-list-in-proposed-industrial-policy/",
+      "title": "The Building Blocks of Agentic AI",
+      "summary": "Article URL: https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?_fb_noscript=1 Comments URL: https://news.ycombinator.com/item?id=47408367 Points: 1 # Comments: 0",
+      "url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?_fb_noscript=1",
+      "image": "https://scontent-sin11-1.xx.fbcdn.net/v/t39.2365-6/565130010_785216494329337_302671122406187281_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=MnAK9jrDI_UQ7kNvwGW9tcv&_nc_oc=Adm0tTH9ZX_E7dpms2tn50To7ZYKClSA79gJwZ2gKCuzHhmqI2Ry-pJmxeEXTMvzmTQ&_nc_zt=14&_nc_ht=scontent-sin11-1.xx&_nc_gid=Q6yzPtIUWTV0fqWHrB6Ojg&_nc_ss=8&oh=00_AfzXYBpjaQYZt4U4N90wfJLyHBBirEaHKG02eRW8FBzngQ&oe=69D33185",
+      "date": "2026-03-17T03:47:04+00:00"
+    },
+    {
+      "title": "Tech entrepreneur used AI to help create a cancer vaccine to treat his dog",
+      "summary": "Article URL: https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mr Comments URL: https://news.ycombinator.com/item?id=47408268 Points: 4 # Comments: 0",
+      "url": "https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mr",
       "image": "",
-      "date": "2026-03-16T05:42:46+00:00"
+      "date": "2026-03-17T03:31:27+00:00"
     },
     {
-      "title": "Race on to establish globally recognised 'AI-free' logo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cj0d6el50ppo Comments URL: https://news.ycombinator.com/item?id=47395439 Points: 1 # Comments: 2",
-      "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
-      "date": "2026-03-16T05:22:16+00:00"
-    },
-    {
-      "title": "ShellScribe: AI-powered terminal session logger for your whole dev life",
-      "summary": "Article URL: https://luinbytes.github.io/shellscribe/ Comments URL: https://news.ycombinator.com/item?id=47395219 Points: 3 # Comments: 2",
-      "url": "https://luinbytes.github.io/shellscribe/",
+      "title": "In simulation, AI agents coordinated propaganda campaign with no further human",
+      "summary": "Networks of artificial intelligence agents can plan, coordinate and run simulated disinformation campaigns on a social media environment modeled after X, operating without human direction once a bad actor has set the goal, according to new research from the University of Southern California Comments URL: https://news.ycombinator.com/item?id=47407881 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47407881",
       "image": "",
-      "date": "2026-03-16T04:25:52+00:00"
+      "date": "2026-03-17T02:34:39+00:00"
     },
     {
-      "title": "Ask HN: Are there any CS niches safe from AI?",
-      "summary": "I'll be graduating with a SWE degree soon and the thought of spending my career reviewing AI code just seems both awful and unsustainable. Programming has been fun because it is difficult. It required skill which is continously grown by the act of writing more code. Using code gen is boring, doesn't require much skill, and tends to atrophy your understanding of the subject. Does anyone have any experience with nearby niches to software engineering which might have some inherent property that makes AI code gen not possible? OS development? Embedded? Computer Architecture? Something I've never heard of? If possible, I'd like to pivot while I'm still young. Comments URL: https://news.ycombinator.com/item?id=47394979 Points: 2 # Comments: 6",
-      "url": "https://news.ycombinator.com/item?id=47394979",
-      "image": "",
-      "date": "2026-03-16T03:39:51+00:00"
+      "title": "The Agentic AI Era: How Nvidia Rubin Redefine the Inference Factory",
+      "summary": "Article URL: https://www.buysellram.com/blog/the-agentic-ai-era-how-nvidia-rubin-vera-cpu-groq-3-lpus-bluefield-4-redefine-the-inference-factory/ Comments URL: https://news.ycombinator.com/item?id=47407820 Points: 2 # Comments: 0",
+      "url": "https://www.buysellram.com/blog/the-agentic-ai-era-how-nvidia-rubin-vera-cpu-groq-3-lpus-bluefield-4-redefine-the-inference-factory/",
+      "image": "https://www.buysellram.com/wp-content/uploads/2026/01/nvidia-rubin-platform.jpg",
+      "date": "2026-03-17T02:22:44+00:00"
     },
     {
-      "title": "Rust Project Perspectives on AI",
-      "summary": "Article URL: https://nikomatsakis.github.io/rust-project-perspectives-on-ai/ Comments URL: https://news.ycombinator.com/item?id=47394939 Points: 1 # Comments: 0",
-      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/",
-      "image": "",
-      "date": "2026-03-16T03:33:38+00:00"
-    },
-    {
-      "title": "The AI Journey for Developers – explaining AI systems simply",
-      "summary": "Article URL: https://www.amazon.com/dp/B0GSMTVWW5 Comments URL: https://news.ycombinator.com/item?id=47394935 Points: 1 # Comments: 1",
-      "url": "https://www.amazon.com/dp/B0GSMTVWW5",
-      "image": "",
-      "date": "2026-03-16T03:33:14+00:00"
-    },
-    {
-      "title": "Ask HN: If AI makes your devs super productive, why layoff?",
-      "summary": "The recent news about the massive layoff at Block doesn’t quite add up for me. The claim by the company was that AI made their devs so efficient that they could layoff 40% of them to make the company lean and still maintain the core product. But why don’t you just keep all those super productive devs and expand into new products/verticals? You could keep your same profit margins plus have 100 random little ai-powered mission-aligned startups under your control. I’m worried that everybody is going to use “AI is making us efficient” as a cover story for needing to slash expenses as the recession kicks in.  This is worse than simply being in denial about a recession because it’ll have the effect of further inflating the AI bubble. Am I just being paranoid? Comments URL: https://news.ycombinator.com/item?id=47394827 Points: 6 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=47394827",
-      "image": "",
-      "date": "2026-03-16T03:17:03+00:00"
+      "title": "NVIDIA's new DLSS 5 drops with uncanny AI filters",
+      "summary": "Article URL: https://www.windowscentral.com/gaming/nvidias-new-dlss-5-drops-with-uncanny-ai-filters-and-youtube-comments-are-almost-100-percent-negative Comments URL: https://news.ycombinator.com/item?id=47407388 Points: 3 # Comments: 2",
+      "url": "https://www.windowscentral.com/gaming/nvidias-new-dlss-5-drops-with-uncanny-ai-filters-and-youtube-comments-are-almost-100-percent-negative",
+      "image": "https://cdn.mos.cms.futurecdn.net/kMU5DsXkYydtbLCL4oK7YC-2560-80.jpg",
+      "date": "2026-03-17T01:15:58+00:00"
     }
   ]
 }
