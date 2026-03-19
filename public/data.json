@@ -1,4 +1,89 @@
 {
-  "generated_at": "2026-03-18T07:16:26.058940+00:00",
-  "items": []
+  "generated_at": "2026-03-19T07:12:59.448205+00:00",
+  "items": [
+    {
+      "title": "Mystery AI model revealed to be Xiaomi's following suspicions it was DeepSeek V4",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/ Comments URL: https://news.ycombinator.com/item?id=47435905 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
+      "image": "",
+      "date": "2026-03-19T07:08:43+00:00"
+    },
+    {
+      "title": "SauceLabs launches AI intent tool",
+      "summary": "Article URL: https://thenewstack.io/ai-test-authoring-launch/ Comments URL: https://news.ycombinator.com/item?id=47435824 Points: 1 # Comments: 1",
+      "url": "https://thenewstack.io/ai-test-authoring-launch/",
+      "image": "https://cdn.thenewstack.io/media/2026/03/cc7edc52-ubaid-e-alyafizi-mvs3p5gunbo-unsplash-scaled.jpg",
+      "date": "2026-03-19T06:54:53+00:00"
+    },
+    {
+      "title": "AI delusions, self-harm, unhealthy emotional attachments 'Think I love you'",
+      "summary": "Article URL: https://nypost.com/2026/03/18/business/bombshell-ai-study-chatbots-fueling-delusions-self-harm-and-unhealthy-emotional-attachments-in-users-think-i-love-you/ Comments URL: https://news.ycombinator.com/item?id=47435664 Points: 1 # Comments: 0",
+      "url": "https://nypost.com/2026/03/18/business/bombshell-ai-study-chatbots-fueling-delusions-self-harm-and-unhealthy-emotional-attachments-in-users-think-i-love-you/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/crop-38822786.jpg?quality=75&strip=all&w=1200",
+      "date": "2026-03-19T06:27:36+00:00"
+    },
+    {
+      "title": "Show HN: Supre – A prompt engineer for Suno AI's Style of Music field",
+      "summary": "I've been using Suno for months and kept hitting the same wall: the Style of Music field is the most powerful parameter, but there's almost no guidance on how to use it well. Too many words breaks it. Wrong order changes the feel. v4 and v5 respond completely differently to the same prompt — something that works great on v4.5 produces generic results on v3. So I built Supre. You pick genre, mood, BPM, instruments, vocal style and which Suno version you're using — it generates a calibrated Style prompt specifically for that version. Built with Claude Haiku on the backend, Vercel serverless, Upstash Redis for rate limiting. Try it: https://supre.online/en/tool (2 free generations/day, no signup) Comments URL: https://news.ycombinator.com/item?id=47435606 Points: 2 # Comments: 0",
+      "url": "https://supre.online/en/tool",
+      "image": "https://supre.online/og-image.png",
+      "date": "2026-03-19T06:17:50+00:00"
+    },
+    {
+      "title": "Session integrity protocol for AI coding assistants",
+      "summary": "Article URL: https://drive.google.com/file/d/1CVwFgDFbHgWJAAEoVSO4rq4BFH-q7E1_/view?usp=drivesdk Comments URL: https://news.ycombinator.com/item?id=47435457 Points: 3 # Comments: 1",
+      "url": "https://drive.google.com/file/d/1CVwFgDFbHgWJAAEoVSO4rq4BFH-q7E1_/view?usp=drivesdk",
+      "image": "",
+      "date": "2026-03-19T05:54:21+00:00"
+    },
+    {
+      "title": "Why software was never built for you – and how AI changes that",
+      "summary": "Article URL: https://wonderwhy-er.medium.com/software-was-always-a-compromise-ai-just-broke-it-13b22df1cabf Comments URL: https://news.ycombinator.com/item?id=47435366 Points: 2 # Comments: 0",
+      "url": "https://wonderwhy-er.medium.com/software-was-always-a-compromise-ai-just-broke-it-13b22df1cabf",
+      "image": "",
+      "date": "2026-03-19T05:38:01+00:00"
+    },
+    {
+      "title": "AI makes your DRM Irrelevant",
+      "summary": "Article URL: https://fantaize.net/posts/drm/ Comments URL: https://news.ycombinator.com/item?id=47435327 Points: 1 # Comments: 0",
+      "url": "https://fantaize.net/posts/drm/",
+      "image": "https://fantaize.net/android-chrome-512x512.png",
+      "date": "2026-03-19T05:31:23+00:00"
+    },
+    {
+      "title": "The Spectrum of Intelligence",
+      "summary": "Article URL: https://upmaru.com/blog/the-spectrum-of-intelligence Comments URL: https://news.ycombinator.com/item?id=47435215 Points: 1 # Comments: 0",
+      "url": "https://upmaru.com/blog/the-spectrum-of-intelligence",
+      "image": "https://upmaru.com/blog/the-spectrum-of-intelligence.png",
+      "date": "2026-03-19T05:10:50+00:00"
+    },
+    {
+      "title": "What 81,000 people want from AI",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 77 # Comments: 54",
+      "url": "https://www.anthropic.com/features/81k-interviews",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/4f94dcd81c982c69811aafbd56cc07aec185bc19-2400x1260.png",
+      "date": "2026-03-19T05:00:56+00:00"
+    },
+    {
+      "title": "23.77M Secrets Leaked by AI in 2024 – GitGuardian Report",
+      "summary": "Article URL: https://blog.gitguardian.com/the-state-of-secrets-sprawl-2026/ Comments URL: https://news.ycombinator.com/item?id=47435100 Points: 2 # Comments: 1",
+      "url": "https://blog.gitguardian.com/the-state-of-secrets-sprawl-2026/",
+      "image": "https://blog.gitguardian.com/content/images/2026/03/BLOG_State_Of_2026.png",
+      "date": "2026-03-19T04:53:09+00:00"
+    },
+    {
+      "title": "Interview with a 'sweating' AI CEO [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=tnYaExb5JvM Comments URL: https://news.ycombinator.com/item?id=47434911 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=tnYaExb5JvM",
+      "image": "",
+      "date": "2026-03-19T04:22:57+00:00"
+    },
+    {
+      "title": "Meta Confronts Rogue AI Agents After Data Exposure",
+      "summary": "Article URL: https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/ Comments URL: https://news.ycombinator.com/item?id=47434843 Points: 1 # Comments: 0",
+      "url": "https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/",
+      "image": "https://www.findarticles.com/wp-content/uploads/2026/03/meta_edited_1773882070.png",
+      "date": "2026-03-19T04:10:27+00:00"
+    }
+  ]
 }
