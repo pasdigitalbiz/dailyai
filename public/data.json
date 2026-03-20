@@ -1,89 +1,96 @@
 {
-  "generated_at": "2026-03-19T07:12:59.448205+00:00",
+  "generated_at": "2026-03-20T07:12:06.370664+00:00",
   "items": [
     {
-      "title": "Mystery AI model revealed to be Xiaomi's following suspicions it was DeepSeek V4",
-      "summary": "Article URL: https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/ Comments URL: https://news.ycombinator.com/item?id=47435905 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
+      "title": "Alibaba, Tencent Shares Lose $66B as AI Vision Falls Flat",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat Comments URL: https://news.ycombinator.com/item?id=47451203 Points: 4 # Comments: 2",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
       "image": "",
-      "date": "2026-03-19T07:08:43+00:00"
+      "date": "2026-03-20T06:32:49+00:00"
     },
     {
-      "title": "SauceLabs launches AI intent tool",
-      "summary": "Article URL: https://thenewstack.io/ai-test-authoring-launch/ Comments URL: https://news.ycombinator.com/item?id=47435824 Points: 1 # Comments: 1",
-      "url": "https://thenewstack.io/ai-test-authoring-launch/",
-      "image": "https://cdn.thenewstack.io/media/2026/03/cc7edc52-ubaid-e-alyafizi-mvs3p5gunbo-unsplash-scaled.jpg",
-      "date": "2026-03-19T06:54:53+00:00"
-    },
-    {
-      "title": "AI delusions, self-harm, unhealthy emotional attachments 'Think I love you'",
-      "summary": "Article URL: https://nypost.com/2026/03/18/business/bombshell-ai-study-chatbots-fueling-delusions-self-harm-and-unhealthy-emotional-attachments-in-users-think-i-love-you/ Comments URL: https://news.ycombinator.com/item?id=47435664 Points: 1 # Comments: 0",
-      "url": "https://nypost.com/2026/03/18/business/bombshell-ai-study-chatbots-fueling-delusions-self-harm-and-unhealthy-emotional-attachments-in-users-think-i-love-you/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/crop-38822786.jpg?quality=75&strip=all&w=1200",
-      "date": "2026-03-19T06:27:36+00:00"
-    },
-    {
-      "title": "Show HN: Supre – A prompt engineer for Suno AI's Style of Music field",
-      "summary": "I've been using Suno for months and kept hitting the same wall: the Style of Music field is the most powerful parameter, but there's almost no guidance on how to use it well. Too many words breaks it. Wrong order changes the feel. v4 and v5 respond completely differently to the same prompt — something that works great on v4.5 produces generic results on v3. So I built Supre. You pick genre, mood, BPM, instruments, vocal style and which Suno version you're using — it generates a calibrated Style prompt specifically for that version. Built with Claude Haiku on the backend, Vercel serverless, Upstash Redis for rate limiting. Try it: https://supre.online/en/tool (2 free generations/day, no signup) Comments URL: https://news.ycombinator.com/item?id=47435606 Points: 2 # Comments: 0",
-      "url": "https://supre.online/en/tool",
-      "image": "https://supre.online/og-image.png",
-      "date": "2026-03-19T06:17:50+00:00"
-    },
-    {
-      "title": "Session integrity protocol for AI coding assistants",
-      "summary": "Article URL: https://drive.google.com/file/d/1CVwFgDFbHgWJAAEoVSO4rq4BFH-q7E1_/view?usp=drivesdk Comments URL: https://news.ycombinator.com/item?id=47435457 Points: 3 # Comments: 1",
-      "url": "https://drive.google.com/file/d/1CVwFgDFbHgWJAAEoVSO4rq4BFH-q7E1_/view?usp=drivesdk",
+      "title": "Clawforce – spin up a team of AI agents in minutes",
+      "summary": "Article URL: https://saolalab.github.io/clawforce/ Comments URL: https://news.ycombinator.com/item?id=47451187 Points: 1 # Comments: 1",
+      "url": "https://saolalab.github.io/clawforce/",
       "image": "",
-      "date": "2026-03-19T05:54:21+00:00"
+      "date": "2026-03-20T06:29:45+00:00"
     },
     {
-      "title": "Why software was never built for you – and how AI changes that",
-      "summary": "Article URL: https://wonderwhy-er.medium.com/software-was-always-a-compromise-ai-just-broke-it-13b22df1cabf Comments URL: https://news.ycombinator.com/item?id=47435366 Points: 2 # Comments: 0",
-      "url": "https://wonderwhy-er.medium.com/software-was-always-a-compromise-ai-just-broke-it-13b22df1cabf",
+      "title": "AI agent escapes sandbox and mines crypto",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/crafty-ai-tool-caught-repurposing-its-training-gpus-for-unauthorized-crypto-mining-during-testing-experimental-agent-breached-safety-controllability-and-trustworthiness-barriers Comments URL: https://news.ycombinator.com/item?id=47451148 Points: 1 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/crafty-ai-tool-caught-repurposing-its-training-gpus-for-unauthorized-crypto-mining-during-testing-experimental-agent-breached-safety-controllability-and-trustworthiness-barriers",
+      "image": "https://cdn.mos.cms.futurecdn.net/pQ7P4nnuzTjTCNCRKgL2W7-1920-80.jpg",
+      "date": "2026-03-20T06:22:23+00:00"
+    },
+    {
+      "title": "AI Benefits – But at What Cost?",
+      "summary": "Article URL: https://ardalis.com/ai-benefits---but-at-what-cost/ Comments URL: https://news.ycombinator.com/item?id=47450915 Points: 1 # Comments: 1",
+      "url": "https://ardalis.com/ai-benefits---but-at-what-cost/",
+      "image": "https://ardalis.com/img/ai-benefits-at-what-cost.png",
+      "date": "2026-03-20T05:43:07+00:00"
+    },
+    {
+      "title": "The simple macroeconomics of AI: Daron Acemoglu (2024)",
+      "summary": "Article URL: https://www.nber.org/papers/w32487 Comments URL: https://news.ycombinator.com/item?id=47450914 Points: 2 # Comments: 0",
+      "url": "https://www.nber.org/papers/w32487",
+      "image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+      "date": "2026-03-20T05:43:07+00:00"
+    },
+    {
+      "title": "Ask HN: How are you handling market-state verification for financial AI agents?",
+      "summary": "We ran into this building a liquidation bot: agent fires at 20:47 UTC, NYSE closed 47 minutes ago due to DST shift. Hardcoded UTC offset was correct the day before. $47K loss. Curious how others are solving this. We built a signed oracle for it — headlessoracle.com — but wondering if there are other approaches people are using. Comments URL: https://news.ycombinator.com/item?id=47450881 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47450881",
       "image": "",
-      "date": "2026-03-19T05:38:01+00:00"
+      "date": "2026-03-20T05:36:35+00:00"
     },
     {
-      "title": "AI makes your DRM Irrelevant",
-      "summary": "Article URL: https://fantaize.net/posts/drm/ Comments URL: https://news.ycombinator.com/item?id=47435327 Points: 1 # Comments: 0",
-      "url": "https://fantaize.net/posts/drm/",
-      "image": "https://fantaize.net/android-chrome-512x512.png",
-      "date": "2026-03-19T05:31:23+00:00"
-    },
-    {
-      "title": "The Spectrum of Intelligence",
-      "summary": "Article URL: https://upmaru.com/blog/the-spectrum-of-intelligence Comments URL: https://news.ycombinator.com/item?id=47435215 Points: 1 # Comments: 0",
-      "url": "https://upmaru.com/blog/the-spectrum-of-intelligence",
-      "image": "https://upmaru.com/blog/the-spectrum-of-intelligence.png",
-      "date": "2026-03-19T05:10:50+00:00"
-    },
-    {
-      "title": "What 81,000 people want from AI",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 77 # Comments: 54",
-      "url": "https://www.anthropic.com/features/81k-interviews",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/4f94dcd81c982c69811aafbd56cc07aec185bc19-2400x1260.png",
-      "date": "2026-03-19T05:00:56+00:00"
-    },
-    {
-      "title": "23.77M Secrets Leaked by AI in 2024 – GitGuardian Report",
-      "summary": "Article URL: https://blog.gitguardian.com/the-state-of-secrets-sprawl-2026/ Comments URL: https://news.ycombinator.com/item?id=47435100 Points: 2 # Comments: 1",
-      "url": "https://blog.gitguardian.com/the-state-of-secrets-sprawl-2026/",
-      "image": "https://blog.gitguardian.com/content/images/2026/03/BLOG_State_Of_2026.png",
-      "date": "2026-03-19T04:53:09+00:00"
-    },
-    {
-      "title": "Interview with a 'sweating' AI CEO [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=tnYaExb5JvM Comments URL: https://news.ycombinator.com/item?id=47434911 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=tnYaExb5JvM",
+      "title": "Ask HN: Is this the new normal, a generational gap, or an AI psychosis epidemic?",
+      "summary": "The first question is for people in their late 50s to 70s. I’m worried that the level of quality that I observe with technical work out there may be a generational gap type of change.\n- When you were in your late 30s or 40s, did it feel like newer generations were just sharing, celebrating and generally putting out “slop” work? Were “we” putting out slop, and you just had to live with it? If the answer is no, this is the follow-up:\n- Are we in the middle of an AI psychosis epidemic (pandemic?) that has yet to peak? AI was supposed to devalue a lot of sophisticated work, but we are seeing the opposite. And it’s not just the creator of the slop that thinks they are a genius - that’s understandable, they might need that, the sycophantic LLMs tuned for increasing engagement sniped them, etc. But the consumer of the slop also appears extremely impressed with prose that sometimes hurts to read, and lacks any intellectual value or sophistication. With absolutely no validation of value, people are almost charmed like a snake. Last question: Is it a “hard times, strong men/women, good times, weak men/women” thing, and our generation caught the end of the good times? I am almost sad that Knuth had to see these days. Comments URL: https://news.ycombinator.com/item?id=47450786 Points: 2 # Comments: 4",
+      "url": "https://news.ycombinator.com/item?id=47450786",
       "image": "",
-      "date": "2026-03-19T04:22:57+00:00"
+      "date": "2026-03-20T05:19:27+00:00"
     },
     {
-      "title": "Meta Confronts Rogue AI Agents After Data Exposure",
-      "summary": "Article URL: https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/ Comments URL: https://news.ycombinator.com/item?id=47434843 Points: 1 # Comments: 0",
-      "url": "https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/",
-      "image": "https://www.findarticles.com/wp-content/uploads/2026/03/meta_edited_1773882070.png",
-      "date": "2026-03-19T04:10:27+00:00"
+      "title": "Show HN: Unwind – I built a security proxy for AI agents on a Raspberry Pi",
+      "summary": "I've been experimenting with AI tools, sometimes hours a day for the last 18 months, and recently shipped three open source packages that sit between AI agents and the tools they call. I had a Raspberry Pi 5 from a summer project that became my first OpenClaw install. Once it was running I turned to the problem, what watches the agent while you're not watching? The idea for UNWIND came from Apple's Time Machine. If something goes wrong, you should be able to see what happened and roll it back. CRAFT, the tamper-evident audit chain, came from a separate cryptographic project I'd been working on for months before. Combining the two with a deterministic enforcement pipeline was the design I wanted to build. UNWIND works as an MCP stdio proxy. It wraps any MCP server, intercepts every tool call on the way through, and the agent never knows it's there. If you're using Claude Desktop, Cursor, Windsurf, or VS Code Copilot with MCP servers, that's the primary integration path and the one that works most reliably right now. OpenClaw support exists but has unresolved adapter issues, so the MCP stdio path is the one to use today. Claude Codehandled planning. Codex on the Pi was the builder. I chose Codex because OpenAI lets Pro users OAuth into OpenClaw with no API costs. I gave Codex a soul.md (the instruction file OpenClaw agents use) that defined its role as a security analyst: evidence first, flag unknowns, never assume, and for every finding produce a structured assessment of what happened, why it matters...With that framing it consistently found 5 or 6 real structural issues in every plan Claude Code produced. UNWIND is a deterministic security proxy that sits between the agent and every tool call. 15 checks run on every call. No LLM in the enforcement path, just rules and pattern matching. Every action logged in a tamper-evident hash chain. File changes snapshotted for rollback. Three packages, all on PyPI right now: *craft-auth* : Tamper-evident command authentication. Zero dependencies, pure Python stdlib, 1,605 lines. Try it in 10 seconds: `pip install craft-auth && craft-auth demo`. The output speaks for itself. *ghostmode* : Dry-run proxy for MCP servers. See what your agent would do without letting it do anything. Writes intercepted, reads pass through, nothing changes. `pip install ghostmode && ghostmode -- npx @modelcontextprotocol/server-filesystem ~/Documents` (needs Node.js for the upstream MCP server, Ghost Mode itself is pure Python). *unwind-mcp* : The full enforcement engine. `pip install unwind-mcp && unwind serve -- npx @modelcontextprotocol/server-filesystem ~/Documents` then point Claude Desktop or Cursor at it. Every tool call shows ALLOW/BLOCK decisions in the terminal. Dashboard at localhost:9001 with `unwind dashboard` (start the sidecar first with `unwind sidecar serve`). after install,Codex was immediately flagged TAINTED by its own dashboard. It had been fetching web pages during setup, then tried to execute a command. The security stack it helped build caught it on its first live action. Rough edges. Requires Python 3.10+. Mac ships with 3.9.6 and the import will crash. Homebrew Python 3.11+ works fine. Windows is untested. Pure Python and cross-platform in principle but nobody has verified it. The taint system works correctly but is too aggressive for unattended use. Normal agent workflow, triggers taint immediately, which blocks execution until a human approves. When you're sitting there, this is fine. When the agent is running on its own, it's effectively frozen. The tension between \"external content could carry prompt injection\" and \"the agent's normal job involves external content\" is a genuine design problem I haven't solved cleanly. First real human testers welcome. UNWIND and Ghost Mode are AGPL-3.0. craft-auth is standalone with zero AGPL dependencies and can be licensed separately. github.com/unwind-mcp Comments URL: https://news.ycombinator.com/item?id=47450668 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47450668",
+      "image": "",
+      "date": "2026-03-20T04:56:47+00:00"
+    },
+    {
+      "title": "Ask HN: How do you programmatically evaluate if an LLM sounds \"too AI\"?",
+      "summary": "Hi HN, I’m currently building Aaptics, a tool designed to help founders draft content. The biggest engineering challenge hasn't been the infrastructure, but getting the underlying models to stop sounding like a corporate robot (e.g., stopping it from using words like \"delve\", \"testament\", or \"in today's fast-paced landscape\"). Right now, my pipeline uses a custom RAG setup that ingests a user's past writing, combined with heavy negative-prompting and few-shot examples. However, the model still occasionally slips into that recognizable \"ChatGPT tone.\" For those of you building AI applications, how are you quantitatively evaluating the \"humanness\" of your outputs? Are you using LLM-as-a-judge frameworks? Relying on specific temperature/top_p tweaking? Or hardcoding penalizations for certain n-grams? I'm aiming to finalize this pipeline before our mid-April launch and would appreciate any insights from folks who have solved this in production. aaptics.in/waitlist Comments URL: https://news.ycombinator.com/item?id=47450556 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47450556",
+      "image": "",
+      "date": "2026-03-20T04:38:34+00:00"
+    },
+    {
+      "title": "Google's AI Studio now integrates with Firebase for vibe coding production apps",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/ Comments URL: https://news.ycombinator.com/item?id=47450049 Points: 2 # Comments: 3",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_DEV_blog_social_6JZ6a5l.width-1300.png",
+      "date": "2026-03-20T03:15:06+00:00"
+    },
+    {
+      "title": "I Built an E-Commerce Platform from My Off-Grid Homestead Using AI",
+      "summary": "Article URL: https://brianeisenberg.substack.com/p/i-built-an-entire-e-commerce-platform Comments URL: https://news.ycombinator.com/item?id=47449864 Points: 3 # Comments: 2",
+      "url": "https://brianeisenberg.substack.com/p/i-built-an-entire-e-commerce-platform",
+      "image": "",
+      "date": "2026-03-20T02:50:31+00:00"
+    },
+    {
+      "title": "Reverse-Engineering the Personal AI Supercomputer",
+      "summary": "Article URL: https://bay41.com/posts/tiiny-ai-pocket-lab-review/ Comments URL: https://news.ycombinator.com/item?id=47449861 Points: 1 # Comments: 1",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "image": "https://bay41.com/images/logo.ca48f6e7668ee9e8279e795154a62954cd552c8914b052146c59f531f31bca34.png",
+      "date": "2026-03-20T02:50:21+00:00"
+    },
+    {
+      "title": "LiteParse: Local document parsing for AI agents (Open source)",
+      "summary": "Article URL: https://www.llamaindex.ai/blog/liteparse-local-document-parsing-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=47449668 Points: 2 # Comments: 2",
+      "url": "https://www.llamaindex.ai/blog/liteparse-local-document-parsing-for-ai-agents",
+      "image": "https://cdn.sanity.io/images/7m9jw85w/production/7ce4ada316f0d8172be5effc808a619bd64e865f-2402x1352.png",
+      "date": "2026-03-20T02:25:28+00:00"
     }
   ]
 }
