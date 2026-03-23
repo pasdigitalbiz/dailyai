@@ -1,4 +1,82 @@
 {
-  "generated_at": "2026-03-22T07:07:04.603978+00:00",
-  "items": []
+  "generated_at": "2026-03-23T07:38:24.434395+00:00",
+  "items": [
+    {
+      "title": "Prompt to tape out: Autonomous AI agent builds 1.5 GHz RISC-V CPU",
+      "summary": "Article URL: https://blog.adafruit.com/2026/03/22/prompt-to-tape-out-autonomous-ai-agent-builds-1-5-ghz-risc-v-cpu/ Comments URL: https://news.ycombinator.com/item?id=47486400 Points: 2 # Comments: 0",
+      "url": "https://blog.adafruit.com/2026/03/22/prompt-to-tape-out-autonomous-ai-agent-builds-1-5-ghz-risc-v-cpu/",
+      "image": "",
+      "date": "2026-03-23T07:28:09+00:00"
+    },
+    {
+      "title": "A vetted map of the agentic AI stack (2026)",
+      "summary": "Article URL: https://docs.google.com/spreadsheets/d/12r03Uscybrj2PTc-H7bq7k3fD7GOcCmFVhsFbK5rwHA/edit?usp=sharing Comments URL: https://news.ycombinator.com/item?id=47486324 Points: 1 # Comments: 0",
+      "url": "https://docs.google.com/spreadsheets/d/12r03Uscybrj2PTc-H7bq7k3fD7GOcCmFVhsFbK5rwHA/edit?usp=sharing",
+      "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyIJ49_6c2uzow9GsR1hxJgl2qJAXx7SRdo8NM2Q_qrk2i18CBzAJpMLfJ5MPrW966_Z80PkETdNfS-W_MwSU3KjLVIL5as806g-SUwiTrVst_pe041Y=w1200-h630-p",
+      "date": "2026-03-23T07:14:02+00:00"
+    },
+    {
+      "title": "CERN eggheads burn AI into silicon to stem data deluge",
+      "summary": "Article URL: https://www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/ Comments URL: https://news.ycombinator.com/item?id=47486240 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/2026/03/22/cern_eggheads_burn_ai_into/",
+      "image": "https://regmedia.co.uk/2026/03/20/cern.jpg",
+      "date": "2026-03-23T06:59:18+00:00"
+    },
+    {
+      "title": "The Generative AI Policy Landscape in Open Source",
+      "summary": "Article URL: https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/ Comments URL: https://news.ycombinator.com/item?id=47486215 Points: 2 # Comments: 0",
+      "url": "https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/",
+      "image": "http://redmonk.com/kholterhoff/files/2026/02/Screenshot-2026-02-26-at-10.10.26-PM.png",
+      "date": "2026-03-23T06:55:15+00:00"
+    },
+    {
+      "title": "Google Patent: Sending Searchers to AI-Generated Pages over Your Site",
+      "summary": "Article URL: https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html Comments URL: https://news.ycombinator.com/item?id=47486201 Points: 1 # Comments: 0",
+      "url": "https://www.seroundtable.com/google-patent-ai-generated-pages-search-41010.html",
+      "image": "https://images.seroundtable.com/google-ai-pages-1772202833.jpg",
+      "date": "2026-03-23T06:52:52+00:00"
+    },
+    {
+      "title": "AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support",
+      "summary": "Article URL: https://www.bohrium.com/competitions/9813928053?tab=introduce Comments URL: https://news.ycombinator.com/item?id=47486135 Points: 2 # Comments: 2",
+      "url": "https://www.bohrium.com/competitions/9813928053?tab=introduce",
+      "image": "",
+      "date": "2026-03-23T06:42:39+00:00"
+    },
+    {
+      "title": "Introducing AI chunking to semchunk",
+      "summary": "Article URL: https://isaacus.com/blog/introducing-ai-chunking-to-semchunk Comments URL: https://news.ycombinator.com/item?id=47485929 Points: 2 # Comments: 0",
+      "url": "https://isaacus.com/blog/introducing-ai-chunking-to-semchunk",
+      "image": "https://isaacus.com/wp-content/uploads/2026/03/semchunk-social-image-scaled.png",
+      "date": "2026-03-23T06:02:59+00:00"
+    },
+    {
+      "title": "Art is not being replaced by AI",
+      "summary": "Article URL: https://www.nicolasdeory.com/thoughts/ai-wont-replace-art Comments URL: https://news.ycombinator.com/item?id=47485864 Points: 1 # Comments: 0",
+      "url": "https://www.nicolasdeory.com/thoughts/ai-wont-replace-art",
+      "image": "",
+      "date": "2026-03-23T05:46:15+00:00"
+    },
+    {
+      "title": "FedEx has started delivering AI training to over 400k workers",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/21/fedex-jobs-ai-training.html Comments URL: https://news.ycombinator.com/item?id=47485788 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/03/21/fedex-jobs-ai-training.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108240023-1765391471345-gettyimages-2248825812-CYBER_MONDAY_2025.jpeg?v=1765391511&w=1920&h=1080",
+      "date": "2026-03-23T05:29:25+00:00"
+    },
+    {
+      "title": "Voice AI in 2026 – An intro to building voice agents today",
+      "summary": "Article URL: https://kingstonkuan.com/blog/voice-ai-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47485691 Points: 1 # Comments: 0",
+      "url": "https://kingstonkuan.com/blog/voice-ai-in-2026/",
+      "image": "https://kingstonkuan.com/blog/images/og-default.png",
+      "date": "2026-03-23T05:10:39+00:00"
+    },
+    {
+      "title": "An AI wrote a book about it's \"hooman\" me and it's selling for $1M",
+      "summary": "Article URL: https://playshelf.polsia.app/book/ Comments URL: https://news.ycombinator.com/item?id=47485594 Points: 1 # Comments: 1",
+      "url": "https://playshelf.polsia.app/book/",
+      "image": "",
+      "date": "2026-03-23T04:50:08+00:00"
+    }
+  ]
 }
