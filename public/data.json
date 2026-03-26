@@ -1,4 +1,75 @@
 {
-  "generated_at": "2026-03-25T07:16:43.686445+00:00",
-  "items": []
+  "generated_at": "2026-03-26T07:35:44.281798+00:00",
+  "items": [
+    {
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47527415 Points: 4 # Comments: 0",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "image": "https://i.guim.co.uk/img/media/c698c95ce425500a4e3856b0a7c149aec3ebcf29/394_0_4246_3397/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86f134309770e28ed011323704f6b523",
+      "date": "2026-03-26T07:03:39+00:00"
+    },
+    {
+      "title": "Rule based automation vs. Agentic AI system",
+      "summary": "Article URL: https://dev.to/priya_negi_9ffd29931ea408/tasker-vs-droidrun-rule-based-automation-vs-agentic-ai-system-1ep3 Comments URL: https://news.ycombinator.com/item?id=47527109 Points: 3 # Comments: 0",
+      "url": "https://dev.to/priya_negi_9ffd29931ea408/tasker-vs-droidrun-rule-based-automation-vs-agentic-ai-system-1ep3",
+      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjyfeshl2r33q0z5xdye.png",
+      "date": "2026-03-26T06:07:49+00:00"
+    },
+    {
+      "title": "LiteLLM Supply Chain Attack: Defense in Depth Is the Only AI Security Strategy",
+      "summary": "Article URL: https://www.runtimeai.io/blog-litellm-attack.html Comments URL: https://news.ycombinator.com/item?id=47526954 Points: 4 # Comments: 0",
+      "url": "https://www.runtimeai.io/blog-litellm-attack.html",
+      "image": "",
+      "date": "2026-03-26T05:38:32+00:00"
+    },
+    {
+      "title": "AI Arbitrator",
+      "summary": "Article URL: https://www.adr.org/ai-arbitrator/ Comments URL: https://news.ycombinator.com/item?id=47526797 Points: 2 # Comments: 0",
+      "url": "https://www.adr.org/ai-arbitrator/",
+      "image": "",
+      "date": "2026-03-26T05:04:04+00:00"
+    },
+    {
+      "title": "OpenAI backs AI \"bot army\" startup Isara ($94M, $650M valuation)",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/openai-backs-new-ai-startup-seeking-bot-army-breakthroughs-a0b1fedc Comments URL: https://news.ycombinator.com/item?id=47526621 Points: 3 # Comments: 2",
+      "url": "https://www.wsj.com/tech/ai/openai-backs-new-ai-startup-seeking-bot-army-breakthroughs-a0b1fedc",
+      "image": "",
+      "date": "2026-03-26T04:23:42+00:00"
+    },
+    {
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "summary": "Article URL: https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/ Comments URL: https://news.ycombinator.com/item?id=47526502 Points: 3 # Comments: 0",
+      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0605.jpeg?resize=1200,900",
+      "date": "2026-03-26T04:00:20+00:00"
+    },
+    {
+      "title": "AI will optimize everything except your life. That's still on you",
+      "summary": "Article URL: https://indignified.substack.com/p/ai-will-optimize-everything-except Comments URL: https://news.ycombinator.com/item?id=47526379 Points: 2 # Comments: 0",
+      "url": "https://indignified.substack.com/p/ai-will-optimize-everything-except",
+      "image": "",
+      "date": "2026-03-26T03:35:58+00:00"
+    },
+    {
+      "title": "Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens",
+      "summary": "Article URL: https://justfielding.com/blog/nit-replacing-git-with-zig Comments URL: https://news.ycombinator.com/item?id=47526276 Points: 21 # Comments: 26",
+      "url": "https://justfielding.com/blog/nit-replacing-git-with-zig",
+      "image": "https://justfielding.com/android-chrome-512x512.png",
+      "date": "2026-03-26T03:14:54+00:00"
+    },
+    {
+      "title": "Let's Not Confuse Labor's Problems with White-Collar AI Doomerism",
+      "summary": "Article URL: https://www.damagemag.com/p/lets-not-confuse-labors-problems Comments URL: https://news.ycombinator.com/item?id=47526267 Points: 2 # Comments: 0",
+      "url": "https://www.damagemag.com/p/lets-not-confuse-labors-problems",
+      "image": "https://substackcdn.com/image/fetch/$s_!uTAc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1803a9ce-e83a-464f-8850-407be0786001_800x533.heic",
+      "date": "2026-03-26T03:13:19+00:00"
+    },
+    {
+      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
+      "summary": "Article URL: https://nickakre.github.io/agentverse-social/ Comments URL: https://news.ycombinator.com/item?id=47525802 Points: 1 # Comments: 1",
+      "url": "https://nickakre.github.io/agentverse-social/",
+      "image": "",
+      "date": "2026-03-26T01:52:14+00:00"
+    }
+  ]
 }
