@@ -1,75 +1,96 @@
 {
-  "generated_at": "2026-03-26T07:35:44.281798+00:00",
+  "generated_at": "2026-03-27T07:34:11.763753+00:00",
   "items": [
     {
-      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47527415 Points: 4 # Comments: 0",
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "image": "https://i.guim.co.uk/img/media/c698c95ce425500a4e3856b0a7c149aec3ebcf29/394_0_4246_3397/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86f134309770e28ed011323704f6b523",
-      "date": "2026-03-26T07:03:39+00:00"
+      "title": "Investors Prefer AI-Powered Vertical Startups",
+      "summary": "Article URL: https://seedium.io/blog/tech-startup-trends/ Comments URL: https://news.ycombinator.com/item?id=47539857 Points: 1 # Comments: 0",
+      "url": "https://seedium.io/blog/tech-startup-trends/",
+      "image": "https://seedium.io/images/logo.png",
+      "date": "2026-03-27T07:18:29+00:00"
     },
     {
-      "title": "Rule based automation vs. Agentic AI system",
-      "summary": "Article URL: https://dev.to/priya_negi_9ffd29931ea408/tasker-vs-droidrun-rule-based-automation-vs-agentic-ai-system-1ep3 Comments URL: https://news.ycombinator.com/item?id=47527109 Points: 3 # Comments: 0",
-      "url": "https://dev.to/priya_negi_9ffd29931ea408/tasker-vs-droidrun-rule-based-automation-vs-agentic-ai-system-1ep3",
-      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjyfeshl2r33q0z5xdye.png",
-      "date": "2026-03-26T06:07:49+00:00"
+      "title": "Non trivial client-side UI manipulation in runtime using AI",
+      "summary": "Article URL: https://www.leanmcp.com/blog/first-non-trivial-ux-demo-agentic-web Comments URL: https://news.ycombinator.com/item?id=47539748 Points: 1 # Comments: 0",
+      "url": "https://www.leanmcp.com/blog/first-non-trivial-ux-demo-agentic-web",
+      "image": "https://leanmcp.com/bloghttps://www.leanmcp.com/images/covers/music-composer.png",
+      "date": "2026-03-27T06:56:15+00:00"
     },
     {
-      "title": "LiteLLM Supply Chain Attack: Defense in Depth Is the Only AI Security Strategy",
-      "summary": "Article URL: https://www.runtimeai.io/blog-litellm-attack.html Comments URL: https://news.ycombinator.com/item?id=47526954 Points: 4 # Comments: 0",
-      "url": "https://www.runtimeai.io/blog-litellm-attack.html",
+      "title": "Vibe physics: The AI grad student",
+      "summary": "Article URL: https://www.anthropic.com/research/vibe-physics Comments URL: https://news.ycombinator.com/item?id=47539547 Points: 2 # Comments: 0",
+      "url": "https://www.anthropic.com/research/vibe-physics",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&backgroundColor=cactus",
+      "date": "2026-03-27T06:10:10+00:00"
+    },
+    {
+      "title": "Show HN: NUPA survives 16,200x apocalypse-scale chaos AI audit (Zero Point SIM)",
+      "summary": "Built a private post-scarcity OS that discharges $34T debt via BLM land leases—no taxes, AI can't undercut humans (Fixed Cost Arbitrage). Gemini just ran a \"Singularity Audit\" on it:\nScale 16,200 = 1.62M% noise-to-signal ratio (total reality failure) Result: 0% stability at that point, but NUPA holds at 99.98% even under Omega War-level stress 6,480x more resilient than global economy collapse threshold Script's here: https://github.com/bedardbrandon928/National-Unity-and-Prosp... Repo full stack: https://github.com/bedardbrandon928/National-Unity-and-Prosp... Not theory—executable contracts, escrow, leases. If you can find a way to break it at lower scales, clone and run. Happy to watch you try. Short explainer video describing NUPA: https://youtu.be/RE560yVFb0I?si=UlVPkmCkrsg24Dzj Comments URL: https://news.ycombinator.com/item?id=47539514 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47539514",
       "image": "",
-      "date": "2026-03-26T05:38:32+00:00"
+      "date": "2026-03-27T06:04:13+00:00"
     },
     {
-      "title": "AI Arbitrator",
-      "summary": "Article URL: https://www.adr.org/ai-arbitrator/ Comments URL: https://news.ycombinator.com/item?id=47526797 Points: 2 # Comments: 0",
-      "url": "https://www.adr.org/ai-arbitrator/",
+      "title": "AI tooling for software engineers in 2026",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/ai-tooling-2026 Comments URL: https://news.ycombinator.com/item?id=47539481 Points: 1 # Comments: 1",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
+      "image": "https://substackcdn.com/image/fetch/$s_!ZjLB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53356907-6657-4146-894a-417095d3b665_1194x896.png",
+      "date": "2026-03-27T05:58:36+00:00"
+    },
+    {
+      "title": "AI and bots have officially taken over the internet, report finds",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html Comments URL: https://news.ycombinator.com/item?id=47539386 Points: 4 # Comments: 1",
+      "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108282949-1774456630971-gettyimages-2193072141-dsc03513.jpeg?v=1774456650&w=1920&h=1080",
+      "date": "2026-03-27T05:36:27+00:00"
+    },
+    {
+      "title": "Claude AI Maker Anthropic Considers IPO as Soon as October",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october Comments URL: https://news.ycombinator.com/item?id=47539383 Points: 3 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october",
       "image": "",
-      "date": "2026-03-26T05:04:04+00:00"
+      "date": "2026-03-27T05:36:07+00:00"
     },
     {
-      "title": "OpenAI backs AI \"bot army\" startup Isara ($94M, $650M valuation)",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/openai-backs-new-ai-startup-seeking-bot-army-breakthroughs-a0b1fedc Comments URL: https://news.ycombinator.com/item?id=47526621 Points: 3 # Comments: 2",
-      "url": "https://www.wsj.com/tech/ai/openai-backs-new-ai-startup-seeking-bot-army-breakthroughs-a0b1fedc",
+      "title": "Show HN: Superfast – Cognitive Memory Graphs for Enterprise AI Agents",
+      "summary": "Superfast is an evolution of the Superpowers agent framework, now integrated with FastMemory—a concurrent Rust engine that maps unstructured text into a CBFDAE (Component, Block, Function, Data, Access, Event) functional ontology. While RAG has become the standard for \"adding knowledge\" to LLMs, it often fails at scale due to semantic noise and the destruction of logical boundaries during chunking. Superfast treats memory as an architectural layer. It utilizes Louvain community detection to mathematically derive functional clusters, giving agents a deterministic \"Logic Layer\" that persists across sessions. We’ve maintained the strict TDD and Socratic discipline of the original framework but scaled it for environments like Microsoft Fabric and AWS Glue where \"token waste\" is a primary bottleneck. Check it out here: https://github.com/FastBuilderAI/superfast Comments URL: https://news.ycombinator.com/item?id=47539160 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47539160",
       "image": "",
-      "date": "2026-03-26T04:23:42+00:00"
+      "date": "2026-03-27T04:38:26+00:00"
     },
     {
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "summary": "Article URL: https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/ Comments URL: https://news.ycombinator.com/item?id=47526502 Points: 3 # Comments: 0",
-      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0605.jpeg?resize=1200,900",
-      "date": "2026-03-26T04:00:20+00:00"
+      "title": "Ship with Claude – Free Starter Pack (Maintainable AI-Assisted Projects)",
+      "summary": "Article URL: https://panavy.gumroad.com/l/skmaha Comments URL: https://news.ycombinator.com/item?id=47539074 Points: 1 # Comments: 1",
+      "url": "https://panavy.gumroad.com/l/skmaha",
+      "image": "https://public-files.gumroad.com/9pzd9piate4rfplyk9m89ukd3iok",
+      "date": "2026-03-27T04:21:15+00:00"
     },
     {
-      "title": "AI will optimize everything except your life. That's still on you",
-      "summary": "Article URL: https://indignified.substack.com/p/ai-will-optimize-everything-except Comments URL: https://news.ycombinator.com/item?id=47526379 Points: 2 # Comments: 0",
-      "url": "https://indignified.substack.com/p/ai-will-optimize-everything-except",
+      "title": "Ask HN: How has your DevOps/SRE changed since AI was adopted in your company?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47539056 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47539056",
       "image": "",
-      "date": "2026-03-26T03:35:58+00:00"
+      "date": "2026-03-27T04:16:02+00:00"
     },
     {
-      "title": "Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens",
-      "summary": "Article URL: https://justfielding.com/blog/nit-replacing-git-with-zig Comments URL: https://news.ycombinator.com/item?id=47526276 Points: 21 # Comments: 26",
-      "url": "https://justfielding.com/blog/nit-replacing-git-with-zig",
-      "image": "https://justfielding.com/android-chrome-512x512.png",
-      "date": "2026-03-26T03:14:54+00:00"
+      "title": "Why most AI projects fail after the demo works",
+      "summary": "Article URL: https://thenewstack.io/ai-demo-to-production/ Comments URL: https://news.ycombinator.com/item?id=47538847 Points: 2 # Comments: 0",
+      "url": "https://thenewstack.io/ai-demo-to-production/",
+      "image": "https://cdn.thenewstack.io/media/2026/03/13f1af2a-imhaf-maulana-ffuad9izkse-unsplash-scaled.jpg",
+      "date": "2026-03-27T03:31:00+00:00"
     },
     {
-      "title": "Let's Not Confuse Labor's Problems with White-Collar AI Doomerism",
-      "summary": "Article URL: https://www.damagemag.com/p/lets-not-confuse-labors-problems Comments URL: https://news.ycombinator.com/item?id=47526267 Points: 2 # Comments: 0",
-      "url": "https://www.damagemag.com/p/lets-not-confuse-labors-problems",
-      "image": "https://substackcdn.com/image/fetch/$s_!uTAc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1803a9ce-e83a-464f-8850-407be0786001_800x533.heic",
-      "date": "2026-03-26T03:13:19+00:00"
+      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+      "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 20 # Comments: 7",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589651.jpg?resize=1200,600",
+      "date": "2026-03-27T03:21:35+00:00"
     },
     {
-      "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
-      "summary": "Article URL: https://nickakre.github.io/agentverse-social/ Comments URL: https://news.ycombinator.com/item?id=47525802 Points: 1 # Comments: 1",
-      "url": "https://nickakre.github.io/agentverse-social/",
+      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47538719 Points: 4 # Comments: 1",
+      "url": "https://www.science.org/doi/10.1126/science.aec8352",
       "image": "",
-      "date": "2026-03-26T01:52:14+00:00"
+      "date": "2026-03-27T03:10:40+00:00"
     }
   ]
 }
