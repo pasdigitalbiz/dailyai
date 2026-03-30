@@ -1,117 +1,110 @@
 {
-  "generated_at": "2026-03-29T07:17:54.310072+00:00",
+  "generated_at": "2026-03-30T07:59:09.013030+00:00",
   "items": [
     {
-      "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/ Comments URL: https://news.ycombinator.com/item?id=47560909 Points: 4 # Comments: 0",
-      "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/TurboQuant-1152x648.png",
-      "date": "2026-03-29T06:47:25+00:00"
-    },
-    {
-      "title": "Ask HN: Why isn't using AI in production considered stupid?",
-      "summary": "Just as the title says, isn't it stupid to run AI in a production environment before we have addressed some pretty major fucking problems with it? Comments URL: https://news.ycombinator.com/item?id=47560855 Points: 8 # Comments: 5",
-      "url": "https://news.ycombinator.com/item?id=47560855",
+      "title": "Yahoo turns to AI-powered answer engine Scout to lead back to online search",
+      "summary": "Article URL: https://isp.netscape.com/tech/story/0001/20260327/a9ec7ff0f7af72662b6d98ddd9c5280d Comments URL: https://news.ycombinator.com/item?id=47571614 Points: 1 # Comments: 0",
+      "url": "https://isp.netscape.com/tech/story/0001/20260327/a9ec7ff0f7af72662b6d98ddd9c5280d",
       "image": "",
-      "date": "2026-03-29T06:30:20+00:00"
+      "date": "2026-03-30T07:53:12+00:00"
     },
     {
-      "title": "AI Hot Takes from a Platform Engineer / SRE",
-      "summary": "Article URL: https://alienchow.dev/post/ai_takeaways_mar_2026/ Comments URL: https://news.ycombinator.com/item?id=47560753 Points: 1 # Comments: 0",
-      "url": "https://alienchow.dev/post/ai_takeaways_mar_2026/",
+      "title": "Selling to AI Agents",
+      "summary": "Article URL: https://mattgiustwilliamson.substack.com/p/selling-to-ai-agents Comments URL: https://news.ycombinator.com/item?id=47571535 Points: 1 # Comments: 1",
+      "url": "https://mattgiustwilliamson.substack.com/p/selling-to-ai-agents",
       "image": "",
-      "date": "2026-03-29T05:59:10+00:00"
+      "date": "2026-03-30T07:39:54+00:00"
     },
     {
-      "title": "Eval-Driven Development: Applying TDD Principles to AI Agent Prompts",
-      "summary": "Article URL: https://iris-eval.com/blog/eval-driven-development Comments URL: https://news.ycombinator.com/item?id=47560293 Points: 1 # Comments: 0",
-      "url": "https://iris-eval.com/blog/eval-driven-development",
-      "image": "https://iris-eval.com/og-social-preview.png?v=3",
-      "date": "2026-03-29T04:00:12+00:00"
+      "title": "Fast Image AI Image Enhancer",
+      "summary": "Article URL: https://fastimage.ai/ai-image-enhancer Comments URL: https://news.ycombinator.com/item?id=47571485 Points: 1 # Comments: 0",
+      "url": "https://fastimage.ai/ai-image-enhancer",
+      "image": "https://fastimage.ai/static/images/library/library-type-27.webp",
+      "date": "2026-03-30T07:33:20+00:00"
     },
     {
-      "title": "Wikipedia officially bans AI-generated content",
-      "summary": "Article URL: https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/ Comments URL: https://news.ycombinator.com/item?id=47560270 Points: 22 # Comments: 1",
-      "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/wikipedia-homepage-computer-screen-magnifying-124590520.jpg?quality=75&strip=all&w=1200",
-      "date": "2026-03-29T03:55:08+00:00"
+      "title": "I am definitely missing the pre-AI writing era",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 13 # Comments: 3",
+      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
+      "date": "2026-03-30T07:03:18+00:00"
     },
     {
-      "title": "Which AI Calculates Taxes Correctly?",
-      "summary": "Article URL: https://thefinancebuff.com/ai-tax-calculator.html Comments URL: https://news.ycombinator.com/item?id=47560138 Points: 1 # Comments: 1",
-      "url": "https://thefinancebuff.com/ai-tax-calculator.html",
-      "image": "https://thefinancebuff.com/wordpress/wp-content/uploads/2026/03/ai-tax-calculator.jpg",
-      "date": "2026-03-29T03:27:36+00:00"
-    },
-    {
-      "title": "Will the AI data centre boom become a $9T bust?",
-      "summary": "Article URL: https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723 Comments URL: https://news.ycombinator.com/item?id=47559948 Points: 37 # Comments: 50",
-      "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
+      "title": "Adding verification steps to AI agents made them worse. I tested it 29 times",
+      "summary": "Article URL: https://substack.com/@krzysztofdudek/p-192580258 Comments URL: https://news.ycombinator.com/item?id=47571228 Points: 2 # Comments: 2",
+      "url": "https://substack.com/@krzysztofdudek/p-192580258",
       "image": "",
-      "date": "2026-03-29T02:35:59+00:00"
+      "date": "2026-03-30T06:52:38+00:00"
     },
     {
-      "title": "Can AI Exit Vim?",
-      "summary": "Article URL: https://theadamcolton.github.io/can-ai-exit-vim Comments URL: https://news.ycombinator.com/item?id=47559788 Points: 6 # Comments: 4",
-      "url": "https://theadamcolton.github.io/can-ai-exit-vim",
+      "title": "AI and bots have officially taken over the internet",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html Comments URL: https://news.ycombinator.com/item?id=47571064 Points: 15 # Comments: 20",
+      "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108282949-1774456630971-gettyimages-2193072141-dsc03513.jpeg?v=1774456650&w=1920&h=1080",
+      "date": "2026-03-30T06:29:17+00:00"
+    },
+    {
+      "title": "Dear Mr. 'I know AI and you don't' guy",
+      "summary": "Article URL: https://www.msn.com/en-us/money/smallbusiness/dear-mr-i-know-ai-and-you-don-t-guy-please-shut-up/ar-AA1ZrZja Comments URL: https://news.ycombinator.com/item?id=47570991 Points: 2 # Comments: 0",
+      "url": "https://www.msn.com/en-us/money/smallbusiness/dear-mr-i-know-ai-and-you-don-t-guy-please-shut-up/ar-AA1ZrZja",
       "image": "",
-      "date": "2026-03-29T01:52:41+00:00"
+      "date": "2026-03-30T06:16:57+00:00"
     },
     {
-      "title": "Social media is populist and polarising; AI may be the opposite",
-      "summary": "Article URL: https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e Comments URL: https://news.ycombinator.com/item?id=47559506 Points: 4 # Comments: 1",
-      "url": "https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e",
+      "title": "Stanford study reveals AI vision models invent images they never see",
+      "summary": "Article URL: https://arxiv.org/abs/2603.21687 Comments URL: https://news.ycombinator.com/item?id=47570650 Points: 3 # Comments: 0",
+      "url": "https://arxiv.org/abs/2603.21687",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-03-30T05:25:05+00:00"
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "summary": "Article URL: https://openai.com/index/helping-disaster-response-teams-asia Comments URL: https://news.ycombinator.com/item?id=47570617 Points: 3 # Comments: 0",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
       "image": "",
-      "date": "2026-03-29T00:58:54+00:00"
+      "date": "2026-03-30T05:16:56+00:00"
     },
     {
-      "title": "Ask HN: How are you keeping AI coding agents from burning money?",
-      "summary": "My agents retry a bit more than it should, and there goes my bill up in the sky.\nI tried figuring out what is causing this but none of the tools helped much. and the worse thing for me is that everything shows up as aggregate usage. Total tokens, total cost, maybe per model. So I ended up hacking together a thin layer in front of OpenAI where every request is forced to carry some context (agent, task, user, team), and then just logging and calculating cost per call and putting some basic limits on top so you can actually block something if it starts going off the rails.\nIt’s very barebones, but even just seeing “this agent + this task = this cost” was a big relief. It uses your own OpenAI key, so it’s not doing anything magical on the execution side, just observing and enforcing. I want to know you guys are dealing with this right now. Are you just watching aggregate usage and trusting it, or have you built something to break it down per agent / task? If useful, here is the rough version I’m using : https://authority.bhaviavelayudhan.com/ Comments URL: https://news.ycombinator.com/item?id=47559293 Points: 3 # Comments: 8",
-      "url": "https://news.ycombinator.com/item?id=47559293",
+      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cde5y2x51y8o Comments URL: https://news.ycombinator.com/item?id=47570610 Points: 9 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6255/live/1413e9f0-23dd-11f1-934f-036468834728.jpg",
+      "date": "2026-03-30T05:14:51+00:00"
+    },
+    {
+      "title": "Towards end-to-end automation of AI research",
+      "summary": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47570539 Points: 5 # Comments: 0",
+      "url": "https://www.nature.com/articles/s41586-026-10265-5",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
+      "date": "2026-03-30T05:00:01+00:00"
+    },
+    {
+      "title": "Apple scales back its AI ambitions and sticks to selling hardware",
+      "summary": "Article URL: https://www.neowin.net/news/report-apple-scales-back-its-ai-ambitions-and-sticks-to-selling-hardware/ Comments URL: https://news.ycombinator.com/item?id=47570507 Points: 5 # Comments: 0",
+      "url": "https://www.neowin.net/news/report-apple-scales-back-its-ai-ambitions-and-sticks-to-selling-hardware/",
       "image": "",
-      "date": "2026-03-29T00:22:20+00:00"
+      "date": "2026-03-30T04:52:31+00:00"
     },
     {
-      "title": "AI adoption problem isn't tech debt",
-      "summary": "Article URL: https://dheer.co/ai-adoption-operating-model/ Comments URL: https://news.ycombinator.com/item?id=47559164 Points: 1 # Comments: 0",
-      "url": "https://dheer.co/ai-adoption-operating-model/",
-      "image": "",
-      "date": "2026-03-28T23:59:54+00:00"
+      "title": "LLMnesia – Local-first search across your AI conversations",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf Comments URL: https://news.ycombinator.com/item?id=47570466 Points: 2 # Comments: 1",
+      "url": "https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf",
+      "image": "https://lh3.googleusercontent.com/5ThBSvwnOLp1S9IAaZP3pMY_I3q9MMOBJMuyQIwoRTsXjXAHNov4Bbykg3TpMDGDArfaA_CJlRdtamoEvhvF8SULYQ=s128-rj-sc0x00ffffff",
+      "date": "2026-03-30T04:44:49+00:00"
     },
     {
-      "title": "Generative AI Can Harm Learning (2024)",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486 Comments URL: https://news.ycombinator.com/item?id=47559035 Points: 6 # Comments: 0",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486",
-      "image": "",
-      "date": "2026-03-28T23:34:39+00:00"
+      "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html Comments URL: https://news.ycombinator.com/item?id=47570450 Points: 6 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1774469393&w=1920&h=1080",
+      "date": "2026-03-30T04:42:36+00:00"
     },
     {
-      "title": "Attie.ai",
-      "summary": "Article URL: https://attie.ai/login Comments URL: https://news.ycombinator.com/item?id=47559026 Points: 6 # Comments: 0",
-      "url": "https://attie.ai/login",
-      "image": "http://localhost:3000/social-card.png",
-      "date": "2026-03-28T23:33:42+00:00"
-    },
-    {
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "summary": "Article URL: https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/ Comments URL: https://news.ycombinator.com/item?id=47558874 Points: 7 # Comments: 1",
-      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800",
-      "date": "2026-03-28T23:07:59+00:00"
-    },
-    {
-      "title": "Computer chip material inspired by the human brain could slash AI energy use",
-      "summary": "Article URL: https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use Comments URL: https://news.ycombinator.com/item?id=47558849 Points: 11 # Comments: 6",
-      "url": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use",
-      "image": "https://www.cam.ac.uk/sites/default/files/news/research/news/ad0638ca-8132-4030-822d-2796707fc62c.jpeg",
-      "date": "2026-03-28T23:04:14+00:00"
-    },
-    {
-      "title": "The Decadelong Feud Shaping the Future of AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47558799 Points: 3 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
-      "image": "",
-      "date": "2026-03-28T22:55:07+00:00"
+      "title": "Google employees new AI tool Agent Smith got so popular that it was restricted",
+      "summary": "Article URL: https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3 Comments URL: https://news.ycombinator.com/item?id=47570312 Points: 6 # Comments: 0",
+      "url": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3",
+      "image": "https://i.insider.com/69c597c7b87081653c9a65bf?width=1200&format=jpeg",
+      "date": "2026-03-30T04:12:00+00:00"
     }
   ]
 }
