@@ -1,110 +1,82 @@
 {
-  "generated_at": "2026-03-30T07:59:09.013030+00:00",
+  "generated_at": "2026-03-31T07:43:07.346234+00:00",
   "items": [
     {
-      "title": "Yahoo turns to AI-powered answer engine Scout to lead back to online search",
-      "summary": "Article URL: https://isp.netscape.com/tech/story/0001/20260327/a9ec7ff0f7af72662b6d98ddd9c5280d Comments URL: https://news.ycombinator.com/item?id=47571614 Points: 1 # Comments: 0",
-      "url": "https://isp.netscape.com/tech/story/0001/20260327/a9ec7ff0f7af72662b6d98ddd9c5280d",
+      "title": "Executive Briefing: The Invisible AI Input",
+      "summary": "Article URL: https://dekodiert.de/en/articles/unsichtbare-input Comments URL: https://news.ycombinator.com/item?id=47583929 Points: 1 # Comments: 0",
+      "url": "https://dekodiert.de/en/articles/unsichtbare-input",
+      "image": "https://dekodiert.de/en/assets/og/en/unsichtbare-input.png",
+      "date": "2026-03-31T07:34:58+00:00"
+    },
+    {
+      "title": "Sandflare – I built a sandbox that launches AI agent VMs in ~300ms",
+      "summary": "I've been building Sandflare for the past few months — it launches Firecracker microVMs for AI agents in ~300ms cold start. The idea came from running LLM-generated code in production. Docker felt too risky (shared kernel), full VMs too slow (5–10s). Firecracker hits the middle: real VM isolation, fast boot. I also added managed Postgres because almost every agent I built needed persistent state. One call wires a database into a sandbox. There are great tools in this space already (E2B, Modal, Daytona) — I wanted something with batteries-included Postgres, and simpler pricing What I'm trying to figure out: how do I get cold start below 100ms? Currently the bottleneck is the Firecracker API + network setup. Would love to hear from anyone who's pushed Firecracker further. https://sandflare.io Comments URL: https://news.ycombinator.com/item?id=47583255 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47583255",
       "image": "",
-      "date": "2026-03-30T07:53:12+00:00"
+      "date": "2026-03-31T05:54:41+00:00"
     },
     {
-      "title": "Selling to AI Agents",
-      "summary": "Article URL: https://mattgiustwilliamson.substack.com/p/selling-to-ai-agents Comments URL: https://news.ycombinator.com/item?id=47571535 Points: 1 # Comments: 1",
-      "url": "https://mattgiustwilliamson.substack.com/p/selling-to-ai-agents",
+      "title": "EchoMind – AI Voice Notes",
+      "summary": "Article URL: https://apps.apple.com/us/app/echomind-ai-voice-notes/id6760428216 Comments URL: https://news.ycombinator.com/item?id=47583238 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/echomind-ai-voice-notes/id6760428216",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/d5/74/93d5744a-f10f-0476-cb9e-078d78d7c272/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-03-31T05:52:47+00:00"
+    },
+    {
+      "title": "Read-Only vs. Action AI: Why Most Odoo AI Tools Stop at the Report",
+      "summary": "Article URL: https://www.odooclaw.ai/blog/read-only-vs-action-ai-why-most-odoo-ai-tools-stop-at-the-report Comments URL: https://news.ycombinator.com/item?id=47582944 Points: 1 # Comments: 0",
+      "url": "https://www.odooclaw.ai/blog/read-only-vs-action-ai-why-most-odoo-ai-tools-stop-at-the-report",
+      "image": "https://superb-opossum-857.convex.cloud/api/storage/81e4fb79-5d92-4f71-a005-632fcb1422d7",
+      "date": "2026-03-31T05:04:41+00:00"
+    },
+    {
+      "title": "Tokens Are the New Oil: How China Is Quietly Winning the AI Economy",
+      "summary": "Article URL: https://thamizhelango.medium.com/tokens-are-the-new-oil-how-china-is-quietly-winning-the-ai-economy-7feeb75892cf Comments URL: https://news.ycombinator.com/item?id=47582780 Points: 3 # Comments: 0",
+      "url": "https://thamizhelango.medium.com/tokens-are-the-new-oil-how-china-is-quietly-winning-the-ai-economy-7feeb75892cf",
       "image": "",
-      "date": "2026-03-30T07:39:54+00:00"
+      "date": "2026-03-31T04:31:25+00:00"
     },
     {
-      "title": "Fast Image AI Image Enhancer",
-      "summary": "Article URL: https://fastimage.ai/ai-image-enhancer Comments URL: https://news.ycombinator.com/item?id=47571485 Points: 1 # Comments: 0",
-      "url": "https://fastimage.ai/ai-image-enhancer",
-      "image": "https://fastimage.ai/static/images/library/library-type-27.webp",
-      "date": "2026-03-30T07:33:20+00:00"
+      "title": "Our AI traced the axios NPM attack and found how the payload hid itself",
+      "summary": "Article URL: https://app.strix.ai/share/chats/NDIxNzZiMTItZWQ2My00NDY4LWIzYzUtNDEyZDgyMWI1YjYzLm1uZTJldnQ0LkVtTnhuYUVyYkk5elcwellfTkl2MTZUVTRKdXVrRkw5RFY0MEZ2ZGZlN1k Comments URL: https://news.ycombinator.com/item?id=47582771 Points: 2 # Comments: 0",
+      "url": "https://app.strix.ai/share/chats/NDIxNzZiMTItZWQ2My00NDY4LWIzYzUtNDEyZDgyMWI1YjYzLm1uZTJldnQ0LkVtTnhuYUVyYkk5elcwellfTkl2MTZUVTRKdXVrRkw5RFY0MEZ2ZGZlN1k",
+      "image": "https://strix.ai/landing-1.png",
+      "date": "2026-03-31T04:30:45+00:00"
     },
     {
-      "title": "I am definitely missing the pre-AI writing era",
-      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 13 # Comments: 3",
-      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
-      "date": "2026-03-30T07:03:18+00:00"
+      "title": "California to impose new AI regulations in defiance of Trump call",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump Comments URL: https://news.ycombinator.com/item?id=47582745 Points: 3 # Comments: 0",
+      "url": "https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump",
+      "image": "https://i.guim.co.uk/img/media/d65758ca2cecbfd680c3b40d1b37a02f4d8e8486/592_0_6735_5390/master/6735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b812febb9ccc8212bd293ed072264648",
+      "date": "2026-03-31T04:26:22+00:00"
     },
     {
-      "title": "Adding verification steps to AI agents made them worse. I tested it 29 times",
-      "summary": "Article URL: https://substack.com/@krzysztofdudek/p-192580258 Comments URL: https://news.ycombinator.com/item?id=47571228 Points: 2 # Comments: 2",
-      "url": "https://substack.com/@krzysztofdudek/p-192580258",
+      "title": "The Zero-Code Security Team: Shifting Left with Prompt-Native AI Agents",
+      "summary": "Article URL: https://www.godaddy.com/resources/news/the-zero-code-security-team-shifting-left-with-prompt-native-ai-agents Comments URL: https://news.ycombinator.com/item?id=47582514 Points: 1 # Comments: 0",
+      "url": "https://www.godaddy.com/resources/news/the-zero-code-security-team-shifting-left-with-prompt-native-ai-agents",
+      "image": "https://www.godaddy.com/resources/wp-content/uploads/2026/03/cover.jpg",
+      "date": "2026-03-31T03:45:51+00:00"
+    },
+    {
+      "title": "Kelsey Hightower: What the AI Hype Machine Won't Tell You",
+      "summary": "Article URL: https://bitdrift.io/podcast/beyond-the-noise/episode-11 Comments URL: https://news.ycombinator.com/item?id=47582270 Points: 2 # Comments: 0",
+      "url": "https://bitdrift.io/podcast/beyond-the-noise/episode-11",
+      "image": "https://bitdrift.io/v/159865263803708404/images/podcast/beyond-the-noise/episode-11.webp",
+      "date": "2026-03-31T03:01:54+00:00"
+    },
+    {
+      "title": "You still have to refactor, even with AI",
+      "summary": "Article URL: https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47582142 Points: 3 # Comments: 0",
+      "url": "https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/",
+      "image": "https://www.adamhjk.com/social/blog/you-still-have-to-refactor-even-with-ai.png",
+      "date": "2026-03-31T02:40:28+00:00"
+    },
+    {
+      "title": "100x Less Power: The Breakthrough That Could Solve AI's Energy Crisis",
+      "summary": "Article URL: https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/ Comments URL: https://news.ycombinator.com/item?id=47582098 Points: 1 # Comments: 2",
+      "url": "https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/",
       "image": "",
-      "date": "2026-03-30T06:52:38+00:00"
-    },
-    {
-      "title": "AI and bots have officially taken over the internet",
-      "summary": "Article URL: https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html Comments URL: https://news.ycombinator.com/item?id=47571064 Points: 15 # Comments: 20",
-      "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108282949-1774456630971-gettyimages-2193072141-dsc03513.jpeg?v=1774456650&w=1920&h=1080",
-      "date": "2026-03-30T06:29:17+00:00"
-    },
-    {
-      "title": "Dear Mr. 'I know AI and you don't' guy",
-      "summary": "Article URL: https://www.msn.com/en-us/money/smallbusiness/dear-mr-i-know-ai-and-you-don-t-guy-please-shut-up/ar-AA1ZrZja Comments URL: https://news.ycombinator.com/item?id=47570991 Points: 2 # Comments: 0",
-      "url": "https://www.msn.com/en-us/money/smallbusiness/dear-mr-i-know-ai-and-you-don-t-guy-please-shut-up/ar-AA1ZrZja",
-      "image": "",
-      "date": "2026-03-30T06:16:57+00:00"
-    },
-    {
-      "title": "Stanford study reveals AI vision models invent images they never see",
-      "summary": "Article URL: https://arxiv.org/abs/2603.21687 Comments URL: https://news.ycombinator.com/item?id=47570650 Points: 3 # Comments: 0",
-      "url": "https://arxiv.org/abs/2603.21687",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-03-30T05:25:05+00:00"
-    },
-    {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "summary": "Article URL: https://openai.com/index/helping-disaster-response-teams-asia Comments URL: https://news.ycombinator.com/item?id=47570617 Points: 3 # Comments: 0",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "image": "",
-      "date": "2026-03-30T05:16:56+00:00"
-    },
-    {
-      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cde5y2x51y8o Comments URL: https://news.ycombinator.com/item?id=47570610 Points: 9 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6255/live/1413e9f0-23dd-11f1-934f-036468834728.jpg",
-      "date": "2026-03-30T05:14:51+00:00"
-    },
-    {
-      "title": "Towards end-to-end automation of AI research",
-      "summary": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47570539 Points: 5 # Comments: 0",
-      "url": "https://www.nature.com/articles/s41586-026-10265-5",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
-      "date": "2026-03-30T05:00:01+00:00"
-    },
-    {
-      "title": "Apple scales back its AI ambitions and sticks to selling hardware",
-      "summary": "Article URL: https://www.neowin.net/news/report-apple-scales-back-its-ai-ambitions-and-sticks-to-selling-hardware/ Comments URL: https://news.ycombinator.com/item?id=47570507 Points: 5 # Comments: 0",
-      "url": "https://www.neowin.net/news/report-apple-scales-back-its-ai-ambitions-and-sticks-to-selling-hardware/",
-      "image": "",
-      "date": "2026-03-30T04:52:31+00:00"
-    },
-    {
-      "title": "LLMnesia – Local-first search across your AI conversations",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf Comments URL: https://news.ycombinator.com/item?id=47570466 Points: 2 # Comments: 1",
-      "url": "https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf",
-      "image": "https://lh3.googleusercontent.com/5ThBSvwnOLp1S9IAaZP3pMY_I3q9MMOBJMuyQIwoRTsXjXAHNov4Bbykg3TpMDGDArfaA_CJlRdtamoEvhvF8SULYQ=s128-rj-sc0x00ffffff",
-      "date": "2026-03-30T04:44:49+00:00"
-    },
-    {
-      "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
-      "summary": "Article URL: https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html Comments URL: https://news.ycombinator.com/item?id=47570450 Points: 6 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1774469393&w=1920&h=1080",
-      "date": "2026-03-30T04:42:36+00:00"
-    },
-    {
-      "title": "Google employees new AI tool Agent Smith got so popular that it was restricted",
-      "summary": "Article URL: https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3 Comments URL: https://news.ycombinator.com/item?id=47570312 Points: 6 # Comments: 0",
-      "url": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3",
-      "image": "https://i.insider.com/69c597c7b87081653c9a65bf?width=1200&format=jpeg",
-      "date": "2026-03-30T04:12:00+00:00"
+      "date": "2026-03-31T02:32:22+00:00"
     }
   ]
 }
