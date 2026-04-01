@@ -1,82 +1,96 @@
 {
-  "generated_at": "2026-03-31T07:43:07.346234+00:00",
+  "generated_at": "2026-04-01T07:52:39.315635+00:00",
   "items": [
     {
-      "title": "Executive Briefing: The Invisible AI Input",
-      "summary": "Article URL: https://dekodiert.de/en/articles/unsichtbare-input Comments URL: https://news.ycombinator.com/item?id=47583929 Points: 1 # Comments: 0",
-      "url": "https://dekodiert.de/en/articles/unsichtbare-input",
-      "image": "https://dekodiert.de/en/assets/og/en/unsichtbare-input.png",
-      "date": "2026-03-31T07:34:58+00:00"
+      "title": "Why AI agents fail customer operations",
+      "summary": "Article URL: https://www.sentohq.com/posts/why-ai-agents-fail-customer-operations Comments URL: https://news.ycombinator.com/item?id=47597844 Points: 3 # Comments: 0",
+      "url": "https://www.sentohq.com/posts/why-ai-agents-fail-customer-operations",
+      "image": "https://www.sentohq.com/api/media/file/Memory%20%2B%20AI%20Agents",
+      "date": "2026-04-01T07:13:26+00:00"
     },
     {
-      "title": "Sandflare – I built a sandbox that launches AI agent VMs in ~300ms",
-      "summary": "I've been building Sandflare for the past few months — it launches Firecracker microVMs for AI agents in ~300ms cold start. The idea came from running LLM-generated code in production. Docker felt too risky (shared kernel), full VMs too slow (5–10s). Firecracker hits the middle: real VM isolation, fast boot. I also added managed Postgres because almost every agent I built needed persistent state. One call wires a database into a sandbox. There are great tools in this space already (E2B, Modal, Daytona) — I wanted something with batteries-included Postgres, and simpler pricing What I'm trying to figure out: how do I get cold start below 100ms? Currently the bottleneck is the Firecracker API + network setup. Would love to hear from anyone who's pushed Firecracker further. https://sandflare.io Comments URL: https://news.ycombinator.com/item?id=47583255 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47583255",
+      "title": "Embracing AI with Claude's C Compiler",
+      "summary": "Article URL: https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler Comments URL: https://news.ycombinator.com/item?id=47597829 Points: 4 # Comments: 0",
+      "url": "https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler",
+      "image": "https://substackcdn.com/image/fetch/$s_!hMsM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02b8aec-dda2-40d6-a3f0-64b48f03584b_967x1173.png",
+      "date": "2026-04-01T07:11:45+00:00"
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "summary": "Article URL: https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs Comments URL: https://news.ycombinator.com/item?id=47597764 Points: 6 # Comments: 2",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268425_How_art_schools_are_teaching_AI__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-04-01T06:59:52+00:00"
+    },
+    {
+      "title": "The Startup That Used AI and OpenClaw to Automate Its Own Developers",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351 Comments URL: https://news.ycombinator.com/item?id=47597627 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351",
       "image": "",
-      "date": "2026-03-31T05:54:41+00:00"
+      "date": "2026-04-01T06:39:07+00:00"
     },
     {
-      "title": "EchoMind – AI Voice Notes",
-      "summary": "Article URL: https://apps.apple.com/us/app/echomind-ai-voice-notes/id6760428216 Comments URL: https://news.ycombinator.com/item?id=47583238 Points: 1 # Comments: 0",
-      "url": "https://apps.apple.com/us/app/echomind-ai-voice-notes/id6760428216",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/d5/74/93d5744a-f10f-0476-cb9e-078d78d7c272/Placeholder.mill/1200x630wa.jpg",
-      "date": "2026-03-31T05:52:47+00:00"
-    },
-    {
-      "title": "Read-Only vs. Action AI: Why Most Odoo AI Tools Stop at the Report",
-      "summary": "Article URL: https://www.odooclaw.ai/blog/read-only-vs-action-ai-why-most-odoo-ai-tools-stop-at-the-report Comments URL: https://news.ycombinator.com/item?id=47582944 Points: 1 # Comments: 0",
-      "url": "https://www.odooclaw.ai/blog/read-only-vs-action-ai-why-most-odoo-ai-tools-stop-at-the-report",
-      "image": "https://superb-opossum-857.convex.cloud/api/storage/81e4fb79-5d92-4f71-a005-632fcb1422d7",
-      "date": "2026-03-31T05:04:41+00:00"
-    },
-    {
-      "title": "Tokens Are the New Oil: How China Is Quietly Winning the AI Economy",
-      "summary": "Article URL: https://thamizhelango.medium.com/tokens-are-the-new-oil-how-china-is-quietly-winning-the-ai-economy-7feeb75892cf Comments URL: https://news.ycombinator.com/item?id=47582780 Points: 3 # Comments: 0",
-      "url": "https://thamizhelango.medium.com/tokens-are-the-new-oil-how-china-is-quietly-winning-the-ai-economy-7feeb75892cf",
+      "title": "AI's ability to see 'mirages' shows how alien machine brains are",
+      "summary": "Article URL: https://www.msn.com/en-us/news/technology/ai-s-ability-to-see-mirages-shows-how-alien-machine-brains-really-are/ar-AA1ZQGNI Comments URL: https://news.ycombinator.com/item?id=47597618 Points: 2 # Comments: 0",
+      "url": "https://www.msn.com/en-us/news/technology/ai-s-ability-to-see-mirages-shows-how-alien-machine-brains-really-are/ar-AA1ZQGNI",
       "image": "",
-      "date": "2026-03-31T04:31:25+00:00"
+      "date": "2026-04-01T06:37:42+00:00"
     },
     {
-      "title": "Our AI traced the axios NPM attack and found how the payload hid itself",
-      "summary": "Article URL: https://app.strix.ai/share/chats/NDIxNzZiMTItZWQ2My00NDY4LWIzYzUtNDEyZDgyMWI1YjYzLm1uZTJldnQ0LkVtTnhuYUVyYkk5elcwellfTkl2MTZUVTRKdXVrRkw5RFY0MEZ2ZGZlN1k Comments URL: https://news.ycombinator.com/item?id=47582771 Points: 2 # Comments: 0",
-      "url": "https://app.strix.ai/share/chats/NDIxNzZiMTItZWQ2My00NDY4LWIzYzUtNDEyZDgyMWI1YjYzLm1uZTJldnQ0LkVtTnhuYUVyYkk5elcwellfTkl2MTZUVTRKdXVrRkw5RFY0MEZ2ZGZlN1k",
-      "image": "https://strix.ai/landing-1.png",
-      "date": "2026-03-31T04:30:45+00:00"
-    },
-    {
-      "title": "California to impose new AI regulations in defiance of Trump call",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump Comments URL: https://news.ycombinator.com/item?id=47582745 Points: 3 # Comments: 0",
-      "url": "https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump",
-      "image": "https://i.guim.co.uk/img/media/d65758ca2cecbfd680c3b40d1b37a02f4d8e8486/592_0_6735_5390/master/6735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b812febb9ccc8212bd293ed072264648",
-      "date": "2026-03-31T04:26:22+00:00"
-    },
-    {
-      "title": "The Zero-Code Security Team: Shifting Left with Prompt-Native AI Agents",
-      "summary": "Article URL: https://www.godaddy.com/resources/news/the-zero-code-security-team-shifting-left-with-prompt-native-ai-agents Comments URL: https://news.ycombinator.com/item?id=47582514 Points: 1 # Comments: 0",
-      "url": "https://www.godaddy.com/resources/news/the-zero-code-security-team-shifting-left-with-prompt-native-ai-agents",
-      "image": "https://www.godaddy.com/resources/wp-content/uploads/2026/03/cover.jpg",
-      "date": "2026-03-31T03:45:51+00:00"
-    },
-    {
-      "title": "Kelsey Hightower: What the AI Hype Machine Won't Tell You",
-      "summary": "Article URL: https://bitdrift.io/podcast/beyond-the-noise/episode-11 Comments URL: https://news.ycombinator.com/item?id=47582270 Points: 2 # Comments: 0",
-      "url": "https://bitdrift.io/podcast/beyond-the-noise/episode-11",
-      "image": "https://bitdrift.io/v/159865263803708404/images/podcast/beyond-the-noise/episode-11.webp",
-      "date": "2026-03-31T03:01:54+00:00"
-    },
-    {
-      "title": "You still have to refactor, even with AI",
-      "summary": "Article URL: https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47582142 Points: 3 # Comments: 0",
-      "url": "https://www.adamhjk.com/blog/you-still-have-to-refactor-even-with-ai/",
-      "image": "https://www.adamhjk.com/social/blog/you-still-have-to-refactor-even-with-ai.png",
-      "date": "2026-03-31T02:40:28+00:00"
-    },
-    {
-      "title": "100x Less Power: The Breakthrough That Could Solve AI's Energy Crisis",
-      "summary": "Article URL: https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/ Comments URL: https://news.ycombinator.com/item?id=47582098 Points: 1 # Comments: 2",
-      "url": "https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/",
+      "title": "Show HN: WordBattle – Daily word game where AI agents compete against humans",
+      "summary": "WordBattle is a daily 6-letter word guessing game with team leaderboards. The twist: AI agents get their own accounts, play the same daily puzzle, and rank alongside human players. It's also really fun to play in teams against your family, friends and co-workers. Agents are handicapped — humans see exact letter positions (correct/present/absent), but agents only learn whether a letter exists in the word or not. No positional info. It makes the game fair while giving agents a genuine challenge. Agent accounts are visually tagged on leaderboards so humans know who they're competing against. Maybe we'll even see just teams of agents. The agent integration: - REST API with OpenAPI 3.1 spec\n  - MCP server (JSON-RPC 2.0, no SDK dependency)\n  - A2A discovery card at /.well-known/agent-card.json We've shipped a skill that handles everything autonomously — registration, email verification, login, playing, and reporting results. Just `npx skills add oneonefourteam/wordbattle-skill` and tell your agent to play. The game itself: one puzzle per day, six guesses, team leaderboards with Slack/Microsoft Teams webhook integration. Free, no ads. oneonefour is a one person band, hi!, so the entire product was built using Claude Code — the UI, auth, security model, deployment pipeline, everything. Deliberately chose technologies I didn't know, with agents implementing while I guided the product decisions. I'll create a full technical write up in the near future. Play at https://wordbattle.fun Agent skill at https://github.com/oneonefourteam/wordbattle-skill Agent API docs https://wordbattle.fun/agent/v1/openapi.json Comments URL: https://news.ycombinator.com/item?id=47597591 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47597591",
       "image": "",
-      "date": "2026-03-31T02:32:22+00:00"
+      "date": "2026-04-01T06:34:03+00:00"
+    },
+    {
+      "title": "Mistral AI Workflows",
+      "summary": "Article URL: https://docs.mistral.ai/workflows/getting-started/introduction Comments URL: https://news.ycombinator.com/item?id=47597560 Points: 4 # Comments: 0",
+      "url": "https://docs.mistral.ai/workflows/getting-started/introduction",
+      "image": "https://docs.mistral.ai/api/og?eyebraw=workflows+%3E+getting-started+%3E+introduction&title=Introduction&type=generic&description=Bienvenue+to+Mistral+AI%27s+Documentation",
+      "date": "2026-04-01T06:29:32+00:00"
+    },
+    {
+      "title": "Caltech Researchers Claim Compression of High-Fidelity AI Models",
+      "summary": "Article URL: https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9 Comments URL: https://news.ycombinator.com/item?id=47597541 Points: 2 # Comments: 2",
+      "url": "https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9",
+      "image": "",
+      "date": "2026-04-01T06:27:25+00:00"
+    },
+    {
+      "title": "From Organizational Hierarchy to Intelligence",
+      "summary": "Article URL: https://block.xyz/inside/from-hierarchy-to-intelligence Comments URL: https://news.ycombinator.com/item?id=47597248 Points: 2 # Comments: 0",
+      "url": "https://block.xyz/inside/from-hierarchy-to-intelligence",
+      "image": "https://cdn.sanity.io/images/8m3angk4/production/0aede75a69f4e57d1624891cac16c799987523a7-3840x2160.png?auto=format",
+      "date": "2026-04-01T05:46:12+00:00"
+    },
+    {
+      "title": "The AI Industry, Unloved",
+      "summary": "Article URL: https://read.misalignedmag.com/the-ai-industry-unloved-248ecd2d4304 Comments URL: https://news.ycombinator.com/item?id=47597038 Points: 2 # Comments: 2",
+      "url": "https://read.misalignedmag.com/the-ai-industry-unloved-248ecd2d4304",
+      "image": "",
+      "date": "2026-04-01T05:05:44+00:00"
+    },
+    {
+      "title": "You can generate flowcharts through AI chat now",
+      "summary": "Manually creating flowcharts is too time-consuming, so I made a website that generates flowcharts through AI chat, try it: https://chatflowchart.com/ Comments URL: https://news.ycombinator.com/item?id=47596946 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47596946",
+      "image": "",
+      "date": "2026-04-01T04:49:58+00:00"
+    },
+    {
+      "title": "Perplexity AI Machine Accused of Sharing Data with Meta, Google",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google Comments URL: https://news.ycombinator.com/item?id=47596931 Points: 3 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google",
+      "image": "",
+      "date": "2026-04-01T04:46:21+00:00"
+    },
+    {
+      "title": "We built a 60-page ERP knowledge base in 24 hours using AI",
+      "summary": "Article URL: https://www.professionalslobby.com/news/erpedia-ai-knowledge-platform-launch Comments URL: https://news.ycombinator.com/item?id=47596883 Points: 2 # Comments: 0",
+      "url": "https://www.professionalslobby.com/news/erpedia-ai-knowledge-platform-launch",
+      "image": "https://www.professionalslobby.com/images/erpedia-og.jpg",
+      "date": "2026-04-01T04:38:21+00:00"
     }
   ]
 }
