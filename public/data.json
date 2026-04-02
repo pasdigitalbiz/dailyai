@@ -1,96 +1,96 @@
 {
-  "generated_at": "2026-04-01T07:52:39.315635+00:00",
+  "generated_at": "2026-04-02T07:39:59.667252+00:00",
   "items": [
     {
-      "title": "Why AI agents fail customer operations",
-      "summary": "Article URL: https://www.sentohq.com/posts/why-ai-agents-fail-customer-operations Comments URL: https://news.ycombinator.com/item?id=47597844 Points: 3 # Comments: 0",
-      "url": "https://www.sentohq.com/posts/why-ai-agents-fail-customer-operations",
-      "image": "https://www.sentohq.com/api/media/file/Memory%20%2B%20AI%20Agents",
-      "date": "2026-04-01T07:13:26+00:00"
+      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models from Being Deleted",
+      "summary": "Article URL: https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/ Comments URL: https://news.ycombinator.com/item?id=47610932 Points: 3 # Comments: 0",
+      "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+      "image": "https://media.wired.com/photos/69cc304a8c1335f8c43d570c/191:100/w_1280,c_limit/AI-Lab-AI-Protecting-AI-Business.jpg",
+      "date": "2026-04-02T07:04:01+00:00"
+    },
+    {
+      "title": "AI CEO vs. Engineer [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WAUnmQt2Z7Y Comments URL: https://news.ycombinator.com/item?id=47610621 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=WAUnmQt2Z7Y",
+      "image": "",
+      "date": "2026-04-02T06:19:49+00:00"
+    },
+    {
+      "title": "Will AI Eventually Thrive Outside the Moat?",
+      "summary": "Article URL: https://www.unite.ai/will-ai-eventually-thrive-outside-the-moat/ Comments URL: https://news.ycombinator.com/item?id=47610347 Points: 4 # Comments: 0",
+      "url": "https://www.unite.ai/will-ai-eventually-thrive-outside-the-moat/",
+      "image": "https://www.unite.ai/wp-content/uploads/2026/04/will-ai-thrive-outside-the-moat-MAIN.jpg",
+      "date": "2026-04-02T05:35:08+00:00"
     },
     {
       "title": "Embracing AI with Claude's C Compiler",
-      "summary": "Article URL: https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler Comments URL: https://news.ycombinator.com/item?id=47597829 Points: 4 # Comments: 0",
+      "summary": "Article URL: https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler Comments URL: https://news.ycombinator.com/item?id=47610183 Points: 2 # Comments: 0",
       "url": "https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler",
       "image": "https://substackcdn.com/image/fetch/$s_!hMsM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02b8aec-dda2-40d6-a3f0-64b48f03584b_967x1173.png",
-      "date": "2026-04-01T07:11:45+00:00"
+      "date": "2026-04-02T05:05:05+00:00"
     },
     {
-      "title": "Art schools are being torn apart by AI",
-      "summary": "Article URL: https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs Comments URL: https://news.ycombinator.com/item?id=47597764 Points: 6 # Comments: 2",
-      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268425_How_art_schools_are_teaching_AI__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-04-01T06:59:52+00:00"
+      "title": "A Guide to the AI Tribes",
+      "summary": "Article URL: https://micheljusten.substack.com/p/a-guide-to-the-ai-tribes Comments URL: https://news.ycombinator.com/item?id=47609928 Points: 2 # Comments: 0",
+      "url": "https://micheljusten.substack.com/p/a-guide-to-the-ai-tribes",
+      "image": "",
+      "date": "2026-04-02T04:17:32+00:00"
+    },
+    {
+      "title": "'Think Everybody Dead': How the Threat of AI Is Fueling a New Political Alliance",
+      "summary": "Article URL: https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895 Comments URL: https://news.ycombinator.com/item?id=47609843 Points: 7 # Comments: 1",
+      "url": "https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895",
+      "image": "",
+      "date": "2026-04-02T04:01:19+00:00"
+    },
+    {
+      "title": "Why Your Database Optimizer Matters More When AI Writes the Queries",
+      "summary": "Article URL: https://medium.com/towards-data-engineering/why-your-database-optimizer-matters-more-when-ai-writes-the-queries-5f9e206451a6 Comments URL: https://news.ycombinator.com/item?id=47609438 Points: 2 # Comments: 0",
+      "url": "https://medium.com/towards-data-engineering/why-your-database-optimizer-matters-more-when-ai-writes-the-queries-5f9e206451a6",
+      "image": "",
+      "date": "2026-04-02T02:51:39+00:00"
+    },
+    {
+      "title": "Why AI Code Needs the Same Rigor We Should've Been Using All Along",
+      "summary": "Article URL: https://whetlan.substack.com/p/why-ai-code-needs-the-same-rigor Comments URL: https://news.ycombinator.com/item?id=47609380 Points: 2 # Comments: 2",
+      "url": "https://whetlan.substack.com/p/why-ai-code-needs-the-same-rigor",
+      "image": "",
+      "date": "2026-04-02T02:41:55+00:00"
+    },
+    {
+      "title": "Arcee-AI Trinity-Large-Thinking",
+      "summary": "Article URL: https://huggingface.co/arcee-ai/Trinity-Large-Thinking Comments URL: https://news.ycombinator.com/item?id=47609285 Points: 6 # Comments: 1",
+      "url": "https://huggingface.co/arcee-ai/Trinity-Large-Thinking",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/arcee-ai/Trinity-Large-Thinking.png",
+      "date": "2026-04-02T02:25:28+00:00"
     },
     {
       "title": "The Startup That Used AI and OpenClaw to Automate Its Own Developers",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351 Comments URL: https://news.ycombinator.com/item?id=47597627 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351 Comments URL: https://news.ycombinator.com/item?id=47609131 Points: 1 # Comments: 2",
       "url": "https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351",
       "image": "",
-      "date": "2026-04-01T06:39:07+00:00"
+      "date": "2026-04-02T01:55:18+00:00"
     },
     {
-      "title": "AI's ability to see 'mirages' shows how alien machine brains are",
-      "summary": "Article URL: https://www.msn.com/en-us/news/technology/ai-s-ability-to-see-mirages-shows-how-alien-machine-brains-really-are/ar-AA1ZQGNI Comments URL: https://news.ycombinator.com/item?id=47597618 Points: 2 # Comments: 0",
-      "url": "https://www.msn.com/en-us/news/technology/ai-s-ability-to-see-mirages-shows-how-alien-machine-brains-really-are/ar-AA1ZQGNI",
+      "title": "MCP Server turned my NAS into a self-hosted AI assistant",
+      "summary": "Article URL: https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=47609088 Points: 1 # Comments: 0",
+      "url": "https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/",
       "image": "",
-      "date": "2026-04-01T06:37:42+00:00"
+      "date": "2026-04-02T01:47:31+00:00"
     },
     {
-      "title": "Show HN: WordBattle – Daily word game where AI agents compete against humans",
-      "summary": "WordBattle is a daily 6-letter word guessing game with team leaderboards. The twist: AI agents get their own accounts, play the same daily puzzle, and rank alongside human players. It's also really fun to play in teams against your family, friends and co-workers. Agents are handicapped — humans see exact letter positions (correct/present/absent), but agents only learn whether a letter exists in the word or not. No positional info. It makes the game fair while giving agents a genuine challenge. Agent accounts are visually tagged on leaderboards so humans know who they're competing against. Maybe we'll even see just teams of agents. The agent integration: - REST API with OpenAPI 3.1 spec\n  - MCP server (JSON-RPC 2.0, no SDK dependency)\n  - A2A discovery card at /.well-known/agent-card.json We've shipped a skill that handles everything autonomously — registration, email verification, login, playing, and reporting results. Just `npx skills add oneonefourteam/wordbattle-skill` and tell your agent to play. The game itself: one puzzle per day, six guesses, team leaderboards with Slack/Microsoft Teams webhook integration. Free, no ads. oneonefour is a one person band, hi!, so the entire product was built using Claude Code — the UI, auth, security model, deployment pipeline, everything. Deliberately chose technologies I didn't know, with agents implementing while I guided the product decisions. I'll create a full technical write up in the near future. Play at https://wordbattle.fun Agent skill at https://github.com/oneonefourteam/wordbattle-skill Agent API docs https://wordbattle.fun/agent/v1/openapi.json Comments URL: https://news.ycombinator.com/item?id=47597591 Points: 3 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47597591",
+      "title": "Organizations Using AI Are Confusing Temporary Friction with Permanent Safety",
+      "summary": "Article URL: https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/ Comments URL: https://news.ycombinator.com/item?id=47609025 Points: 3 # Comments: 0",
+      "url": "https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/",
+      "image": "https://www.sentinelone.com/wp-content/uploads/2026/03/Blog_LAB_Implementation_Blind_Spot_1200x627_F.jpg",
+      "date": "2026-04-02T01:38:51+00:00"
+    },
+    {
+      "title": "Mercor AI Breached via LiteLLM",
+      "summary": "Article URL: https://xcancel.com/AlvieriD/status/2038779690295378004#m Comments URL: https://news.ycombinator.com/item?id=47608958 Points: 1 # Comments: 0",
+      "url": "https://xcancel.com/AlvieriD/status/2038779690295378004#m",
       "image": "",
-      "date": "2026-04-01T06:34:03+00:00"
-    },
-    {
-      "title": "Mistral AI Workflows",
-      "summary": "Article URL: https://docs.mistral.ai/workflows/getting-started/introduction Comments URL: https://news.ycombinator.com/item?id=47597560 Points: 4 # Comments: 0",
-      "url": "https://docs.mistral.ai/workflows/getting-started/introduction",
-      "image": "https://docs.mistral.ai/api/og?eyebraw=workflows+%3E+getting-started+%3E+introduction&title=Introduction&type=generic&description=Bienvenue+to+Mistral+AI%27s+Documentation",
-      "date": "2026-04-01T06:29:32+00:00"
-    },
-    {
-      "title": "Caltech Researchers Claim Compression of High-Fidelity AI Models",
-      "summary": "Article URL: https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9 Comments URL: https://news.ycombinator.com/item?id=47597541 Points: 2 # Comments: 2",
-      "url": "https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9",
-      "image": "",
-      "date": "2026-04-01T06:27:25+00:00"
-    },
-    {
-      "title": "From Organizational Hierarchy to Intelligence",
-      "summary": "Article URL: https://block.xyz/inside/from-hierarchy-to-intelligence Comments URL: https://news.ycombinator.com/item?id=47597248 Points: 2 # Comments: 0",
-      "url": "https://block.xyz/inside/from-hierarchy-to-intelligence",
-      "image": "https://cdn.sanity.io/images/8m3angk4/production/0aede75a69f4e57d1624891cac16c799987523a7-3840x2160.png?auto=format",
-      "date": "2026-04-01T05:46:12+00:00"
-    },
-    {
-      "title": "The AI Industry, Unloved",
-      "summary": "Article URL: https://read.misalignedmag.com/the-ai-industry-unloved-248ecd2d4304 Comments URL: https://news.ycombinator.com/item?id=47597038 Points: 2 # Comments: 2",
-      "url": "https://read.misalignedmag.com/the-ai-industry-unloved-248ecd2d4304",
-      "image": "",
-      "date": "2026-04-01T05:05:44+00:00"
-    },
-    {
-      "title": "You can generate flowcharts through AI chat now",
-      "summary": "Manually creating flowcharts is too time-consuming, so I made a website that generates flowcharts through AI chat, try it: https://chatflowchart.com/ Comments URL: https://news.ycombinator.com/item?id=47596946 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47596946",
-      "image": "",
-      "date": "2026-04-01T04:49:58+00:00"
-    },
-    {
-      "title": "Perplexity AI Machine Accused of Sharing Data with Meta, Google",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google Comments URL: https://news.ycombinator.com/item?id=47596931 Points: 3 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google",
-      "image": "",
-      "date": "2026-04-01T04:46:21+00:00"
-    },
-    {
-      "title": "We built a 60-page ERP knowledge base in 24 hours using AI",
-      "summary": "Article URL: https://www.professionalslobby.com/news/erpedia-ai-knowledge-platform-launch Comments URL: https://news.ycombinator.com/item?id=47596883 Points: 2 # Comments: 0",
-      "url": "https://www.professionalslobby.com/news/erpedia-ai-knowledge-platform-launch",
-      "image": "https://www.professionalslobby.com/images/erpedia-og.jpg",
-      "date": "2026-04-01T04:38:21+00:00"
+      "date": "2026-04-02T01:28:43+00:00"
     }
   ]
 }
