@@ -1,96 +1,89 @@
 {
-  "generated_at": "2026-04-02T07:39:59.667252+00:00",
+  "generated_at": "2026-04-03T07:36:14.188445+00:00",
   "items": [
     {
-      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models from Being Deleted",
-      "summary": "Article URL: https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/ Comments URL: https://news.ycombinator.com/item?id=47610932 Points: 3 # Comments: 0",
-      "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
-      "image": "https://media.wired.com/photos/69cc304a8c1335f8c43d570c/191:100/w_1280,c_limit/AI-Lab-AI-Protecting-AI-Business.jpg",
-      "date": "2026-04-02T07:04:01+00:00"
+      "title": "What Claude's source code reveals about AI visibility",
+      "summary": "Article URL: https://growtika.com/blog/claude-source-code-ai-visibility Comments URL: https://news.ycombinator.com/item?id=47624085 Points: 1 # Comments: 0",
+      "url": "https://growtika.com/blog/claude-source-code-ai-visibility",
+      "image": "https://growtika.com/images/blog/claude-source-code-leak-og.jpg",
+      "date": "2026-04-03T07:27:24+00:00"
     },
     {
-      "title": "AI CEO vs. Engineer [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=WAUnmQt2Z7Y Comments URL: https://news.ycombinator.com/item?id=47610621 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=WAUnmQt2Z7Y",
+      "title": "Show HN: I thought merging two photos with AI would be a weekend project. Nope",
+      "summary": "At a friend's gathering, someone mentioned wanting to add her late father into a family photo. I figured this would be trivial — modern image models are powerful, just send two photos and ask the AI to merge them. She said she'd tried, but the results were weird and unstable, and she didn't know how to describe what she wanted. I went home and tried it myself. With a well-written prompt and two good photos, it works. But real-world use cases aren't two good photos — it's a modern family photo plus a damaged old portrait, or two old photos from different decades. That's when things fall apart. I looked at existing tools. Most showcase merges between clean, well-lit, modern photos. Nobody was solving the hard version: mismatched eras, damaged sources, different poses, different formality levels. I thought it would be a weekend project — one system prompt and done. After 200+ test iterations I realized stable results require much more than prompt engineering. The main challenges: The AI subtly changes faces during merging. The result looks \"similar\" but isn't the same person. For someone trying to add a deceased loved one, that's a complete failure. Posture and scale need to match. If the group is sitting on grass and the added person is standing like a giant, it's obviously fake. Casual accessories from a reference photo break formal scenes — sunglasses on the head at a wedding, sportswear at a ceremony. Old photos have low resolution, damage, and no color. Merging, restoring, and colorizing at the same time makes everything harder. It supports headshots, half-body, and full-body reference photos. Old and damaged photos work too — with optional colorization and restoration. Still an MVP. Free to use once per day, no login required. https://animateoldphotos.org/add-loved-one-to-photo Would love to hear about edge cases that break it. Comments URL: https://news.ycombinator.com/item?id=47623802 Points: 3 # Comments: 0",
+      "url": "https://animateoldphotos.org/add-loved-one-to-photo",
       "image": "",
-      "date": "2026-04-02T06:19:49+00:00"
+      "date": "2026-04-03T06:32:06+00:00"
     },
     {
-      "title": "Will AI Eventually Thrive Outside the Moat?",
-      "summary": "Article URL: https://www.unite.ai/will-ai-eventually-thrive-outside-the-moat/ Comments URL: https://news.ycombinator.com/item?id=47610347 Points: 4 # Comments: 0",
-      "url": "https://www.unite.ai/will-ai-eventually-thrive-outside-the-moat/",
-      "image": "https://www.unite.ai/wp-content/uploads/2026/04/will-ai-thrive-outside-the-moat-MAIN.jpg",
-      "date": "2026-04-02T05:35:08+00:00"
+      "title": "I used AI. It worked. I hated it",
+      "summary": "Article URL: https://taggart-tech.com/reckoning/ Comments URL: https://news.ycombinator.com/item?id=47623708 Points: 2 # Comments: 1",
+      "url": "https://taggart-tech.com/reckoning/",
+      "image": "https://taggart-tech.com/simpsons-mob-small.png",
+      "date": "2026-04-03T06:14:06+00:00"
     },
     {
-      "title": "Embracing AI with Claude's C Compiler",
-      "summary": "Article URL: https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler Comments URL: https://news.ycombinator.com/item?id=47610183 Points: 2 # Comments: 0",
-      "url": "https://chipsandcheese.com/p/embracing-ai-with-claudes-c-compiler",
-      "image": "https://substackcdn.com/image/fetch/$s_!hMsM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02b8aec-dda2-40d6-a3f0-64b48f03584b_967x1173.png",
-      "date": "2026-04-02T05:05:05+00:00"
-    },
-    {
-      "title": "A Guide to the AI Tribes",
-      "summary": "Article URL: https://micheljusten.substack.com/p/a-guide-to-the-ai-tribes Comments URL: https://news.ycombinator.com/item?id=47609928 Points: 2 # Comments: 0",
-      "url": "https://micheljusten.substack.com/p/a-guide-to-the-ai-tribes",
+      "title": "The IT department: Where AI goes to die",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die Comments URL: https://news.ycombinator.com/item?id=47623662 Points: 1 # Comments: 0",
+      "url": "https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die",
       "image": "",
-      "date": "2026-04-02T04:17:32+00:00"
+      "date": "2026-04-03T06:07:30+00:00"
     },
     {
-      "title": "'Think Everybody Dead': How the Threat of AI Is Fueling a New Political Alliance",
-      "summary": "Article URL: https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895 Comments URL: https://news.ycombinator.com/item?id=47609843 Points: 7 # Comments: 1",
-      "url": "https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895",
+      "title": "Resilience in the Age of AI",
+      "summary": "Article URL: https://halfanhour.blogspot.com/2026/04/resilience-in-age-of-ai.html Comments URL: https://news.ycombinator.com/item?id=47623611 Points: 1 # Comments: 0",
+      "url": "https://halfanhour.blogspot.com/2026/04/resilience-in-age-of-ai.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV_p96aVKmuTLPF1_JCmZ8qDp_XJOnCl8YKn8G48we4LWgM5bPZOTRIZtIsBnLBxEzARgMgLSI2bzdYkf7LQD33rfbBD0pVOvYUl03j_MKdLsn3kgchEMzMFYRE2jH17aqb2tHRhHjC7-CHS1zIwFisCf9lc2A_H__KWHp-7tGuqqy40lTOevb/w1200-h630-p-k-no-nu/Human%20Resilience%20for%20the%20AI%20Age.png",
+      "date": "2026-04-03T05:58:49+00:00"
+    },
+    {
+      "title": "Plentiful, high-paying jobs in the age of AI",
+      "summary": "Article URL: https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9 Comments URL: https://news.ycombinator.com/item?id=47623330 Points: 2 # Comments: 0",
+      "url": "https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9",
+      "image": "https://substackcdn.com/image/fetch/$s_!E7mW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41bd8ce2-2399-49b6-bde7-ae11cbbd0c0b_1168x779.jpeg",
+      "date": "2026-04-03T04:56:46+00:00"
+    },
+    {
+      "title": "WTFM – I found Anthropic's pub fix for AI policy comp, then built it myself",
+      "summary": "Article URL: https://mpdc.dev/wtfm/ Comments URL: https://news.ycombinator.com/item?id=47623265 Points: 1 # Comments: 0",
+      "url": "https://mpdc.dev/wtfm/",
+      "image": "https://mpdc.dev/content/images/2026/04/ada2bb26-5608-4d78-826b-5c8a6691088d.png",
+      "date": "2026-04-03T04:44:36+00:00"
+    },
+    {
+      "title": "Microsoft Readies $10B AI Investment Plan in Japan",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan Comments URL: https://news.ycombinator.com/item?id=47623059 Points: 2 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan",
       "image": "",
-      "date": "2026-04-02T04:01:19+00:00"
+      "date": "2026-04-03T04:01:51+00:00"
     },
     {
-      "title": "Why Your Database Optimizer Matters More When AI Writes the Queries",
-      "summary": "Article URL: https://medium.com/towards-data-engineering/why-your-database-optimizer-matters-more-when-ai-writes-the-queries-5f9e206451a6 Comments URL: https://news.ycombinator.com/item?id=47609438 Points: 2 # Comments: 0",
-      "url": "https://medium.com/towards-data-engineering/why-your-database-optimizer-matters-more-when-ai-writes-the-queries-5f9e206451a6",
+      "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
+      "summary": "Built and open-sourced in the era before AI. I’m sure you know where to find the code. Comments URL: https://news.ycombinator.com/item?id=47623053 Points: 8 # Comments: 2",
+      "url": "https://mehuleo.github.io/encircle/",
+      "image": "http://mehuleo.github.io/encircle/img/og-img1.png",
+      "date": "2026-04-03T04:00:56+00:00"
+    },
+    {
+      "title": "AI Applications and Vertical Integration",
+      "summary": "Article URL: https://www.tanayj.com/p/ai-applications-and-vertical-integration Comments URL: https://news.ycombinator.com/item?id=47622748 Points: 2 # Comments: 0",
+      "url": "https://www.tanayj.com/p/ai-applications-and-vertical-integration",
+      "image": "https://substackcdn.com/image/fetch/$s_!tGo9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fe3caa5-7d05-4847-92d0-42f07a2e550f_4000x2108.png",
+      "date": "2026-04-03T02:55:59+00:00"
+    },
+    {
+      "title": "Jobs Being Created by AI",
+      "summary": "https://archive.is/m2jRN Comments URL: https://news.ycombinator.com/item?id=47622591 Points: 3 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
       "image": "",
-      "date": "2026-04-02T02:51:39+00:00"
+      "date": "2026-04-03T02:25:56+00:00"
     },
     {
-      "title": "Why AI Code Needs the Same Rigor We Should've Been Using All Along",
-      "summary": "Article URL: https://whetlan.substack.com/p/why-ai-code-needs-the-same-rigor Comments URL: https://news.ycombinator.com/item?id=47609380 Points: 2 # Comments: 2",
-      "url": "https://whetlan.substack.com/p/why-ai-code-needs-the-same-rigor",
-      "image": "",
-      "date": "2026-04-02T02:41:55+00:00"
-    },
-    {
-      "title": "Arcee-AI Trinity-Large-Thinking",
-      "summary": "Article URL: https://huggingface.co/arcee-ai/Trinity-Large-Thinking Comments URL: https://news.ycombinator.com/item?id=47609285 Points: 6 # Comments: 1",
-      "url": "https://huggingface.co/arcee-ai/Trinity-Large-Thinking",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/arcee-ai/Trinity-Large-Thinking.png",
-      "date": "2026-04-02T02:25:28+00:00"
-    },
-    {
-      "title": "The Startup That Used AI and OpenClaw to Automate Its Own Developers",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351 Comments URL: https://news.ycombinator.com/item?id=47609131 Points: 1 # Comments: 2",
-      "url": "https://www.wsj.com/tech/ai/meet-the-startup-that-used-ai-and-openclaw-to-automate-its-own-developers-9e733351",
-      "image": "",
-      "date": "2026-04-02T01:55:18+00:00"
-    },
-    {
-      "title": "MCP Server turned my NAS into a self-hosted AI assistant",
-      "summary": "Article URL: https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=47609088 Points: 1 # Comments: 0",
-      "url": "https://www.xda-developers.com/this-mcp-server-turned-my-nas-into-a-self-hosted-ai-assistant/",
-      "image": "",
-      "date": "2026-04-02T01:47:31+00:00"
-    },
-    {
-      "title": "Organizations Using AI Are Confusing Temporary Friction with Permanent Safety",
-      "summary": "Article URL: https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/ Comments URL: https://news.ycombinator.com/item?id=47609025 Points: 3 # Comments: 0",
-      "url": "https://www.sentinelone.com/blog/the-implementation-blind-spot-why-organizations-are-confusing-temporary-friction-with-permanent-safety/",
-      "image": "https://www.sentinelone.com/wp-content/uploads/2026/03/Blog_LAB_Implementation_Blind_Spot_1200x627_F.jpg",
-      "date": "2026-04-02T01:38:51+00:00"
-    },
-    {
-      "title": "Mercor AI Breached via LiteLLM",
-      "summary": "Article URL: https://xcancel.com/AlvieriD/status/2038779690295378004#m Comments URL: https://news.ycombinator.com/item?id=47608958 Points: 1 # Comments: 0",
-      "url": "https://xcancel.com/AlvieriD/status/2038779690295378004#m",
-      "image": "",
-      "date": "2026-04-02T01:28:43+00:00"
+      "title": "Nvidia IGX Thor powers industrial, medical and robotics edge AI applications",
+      "summary": "Article URL: https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/ Comments URL: https://news.ycombinator.com/item?id=47622290 Points: 2 # Comments: 0",
+      "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-igx-thor.webp",
+      "date": "2026-04-03T01:24:19+00:00"
     }
   ]
 }
