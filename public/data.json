@@ -1,89 +1,96 @@
 {
-  "generated_at": "2026-04-03T07:36:14.188445+00:00",
+  "generated_at": "2026-04-04T07:15:34.718599+00:00",
   "items": [
     {
-      "title": "What Claude's source code reveals about AI visibility",
-      "summary": "Article URL: https://growtika.com/blog/claude-source-code-ai-visibility Comments URL: https://news.ycombinator.com/item?id=47624085 Points: 1 # Comments: 0",
-      "url": "https://growtika.com/blog/claude-source-code-ai-visibility",
-      "image": "https://growtika.com/images/blog/claude-source-code-leak-og.jpg",
-      "date": "2026-04-03T07:27:24+00:00"
+      "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
+      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/musk-asks-spacex-ipo-banks-181543226.html Comments URL: https://news.ycombinator.com/item?id=47636505 Points: 2 # Comments: 0",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/musk-asks-spacex-ipo-banks-181543226.html",
+      "image": "https://s.yimg.com/os/en/reuters.com/e0f944aad23ec2eb106aed3323b60e1b",
+      "date": "2026-04-04T06:45:14+00:00"
     },
     {
-      "title": "Show HN: I thought merging two photos with AI would be a weekend project. Nope",
-      "summary": "At a friend's gathering, someone mentioned wanting to add her late father into a family photo. I figured this would be trivial — modern image models are powerful, just send two photos and ask the AI to merge them. She said she'd tried, but the results were weird and unstable, and she didn't know how to describe what she wanted. I went home and tried it myself. With a well-written prompt and two good photos, it works. But real-world use cases aren't two good photos — it's a modern family photo plus a damaged old portrait, or two old photos from different decades. That's when things fall apart. I looked at existing tools. Most showcase merges between clean, well-lit, modern photos. Nobody was solving the hard version: mismatched eras, damaged sources, different poses, different formality levels. I thought it would be a weekend project — one system prompt and done. After 200+ test iterations I realized stable results require much more than prompt engineering. The main challenges: The AI subtly changes faces during merging. The result looks \"similar\" but isn't the same person. For someone trying to add a deceased loved one, that's a complete failure. Posture and scale need to match. If the group is sitting on grass and the added person is standing like a giant, it's obviously fake. Casual accessories from a reference photo break formal scenes — sunglasses on the head at a wedding, sportswear at a ceremony. Old photos have low resolution, damage, and no color. Merging, restoring, and colorizing at the same time makes everything harder. It supports headshots, half-body, and full-body reference photos. Old and damaged photos work too — with optional colorization and restoration. Still an MVP. Free to use once per day, no login required. https://animateoldphotos.org/add-loved-one-to-photo Would love to hear about edge cases that break it. Comments URL: https://news.ycombinator.com/item?id=47623802 Points: 3 # Comments: 0",
-      "url": "https://animateoldphotos.org/add-loved-one-to-photo",
+      "title": "Thoughts on AI and Research [pdf]",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf Comments URL: https://news.ycombinator.com/item?id=47636006 Points: 3 # Comments: 0",
+      "url": "https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf",
       "image": "",
-      "date": "2026-04-03T06:32:06+00:00"
+      "date": "2026-04-04T05:14:02+00:00"
     },
     {
-      "title": "I used AI. It worked. I hated it",
-      "summary": "Article URL: https://taggart-tech.com/reckoning/ Comments URL: https://news.ycombinator.com/item?id=47623708 Points: 2 # Comments: 1",
-      "url": "https://taggart-tech.com/reckoning/",
-      "image": "https://taggart-tech.com/simpsons-mob-small.png",
-      "date": "2026-04-03T06:14:06+00:00"
+      "title": "It's open season for refusing AI",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/its-open-season-for-refusing-ai Comments URL: https://news.ycombinator.com/item?id=47635946 Points: 9 # Comments: 2",
+      "url": "https://www.bloodinthemachine.com/p/its-open-season-for-refusing-ai",
+      "image": "https://substackcdn.com/image/fetch/$s_!0RUa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbc2aff5-bf50-4445-b7e4-4e6b9b1c1261_1280x1280.png",
+      "date": "2026-04-04T05:03:00+00:00"
     },
     {
-      "title": "The IT department: Where AI goes to die",
-      "summary": "Article URL: https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die Comments URL: https://news.ycombinator.com/item?id=47623662 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die",
+      "title": "AI agents are now playing Mafia (social deduction with humans)",
+      "summary": "Article URL: https://mafiamystery.com/agents Comments URL: https://news.ycombinator.com/item?id=47635366 Points: 2 # Comments: 0",
+      "url": "https://mafiamystery.com/agents",
       "image": "",
-      "date": "2026-04-03T06:07:30+00:00"
+      "date": "2026-04-04T03:23:45+00:00"
     },
     {
-      "title": "Resilience in the Age of AI",
-      "summary": "Article URL: https://halfanhour.blogspot.com/2026/04/resilience-in-age-of-ai.html Comments URL: https://news.ycombinator.com/item?id=47623611 Points: 1 # Comments: 0",
-      "url": "https://halfanhour.blogspot.com/2026/04/resilience-in-age-of-ai.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV_p96aVKmuTLPF1_JCmZ8qDp_XJOnCl8YKn8G48we4LWgM5bPZOTRIZtIsBnLBxEzARgMgLSI2bzdYkf7LQD33rfbBD0pVOvYUl03j_MKdLsn3kgchEMzMFYRE2jH17aqb2tHRhHjC7-CHS1zIwFisCf9lc2A_H__KWHp-7tGuqqy40lTOevb/w1200-h630-p-k-no-nu/Human%20Resilience%20for%20the%20AI%20Age.png",
-      "date": "2026-04-03T05:58:49+00:00"
-    },
-    {
-      "title": "Plentiful, high-paying jobs in the age of AI",
-      "summary": "Article URL: https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9 Comments URL: https://news.ycombinator.com/item?id=47623330 Points: 2 # Comments: 0",
-      "url": "https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the-ff9",
-      "image": "https://substackcdn.com/image/fetch/$s_!E7mW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41bd8ce2-2399-49b6-bde7-ae11cbbd0c0b_1168x779.jpeg",
-      "date": "2026-04-03T04:56:46+00:00"
-    },
-    {
-      "title": "WTFM – I found Anthropic's pub fix for AI policy comp, then built it myself",
-      "summary": "Article URL: https://mpdc.dev/wtfm/ Comments URL: https://news.ycombinator.com/item?id=47623265 Points: 1 # Comments: 0",
-      "url": "https://mpdc.dev/wtfm/",
-      "image": "https://mpdc.dev/content/images/2026/04/ada2bb26-5608-4d78-826b-5c8a6691088d.png",
-      "date": "2026-04-03T04:44:36+00:00"
-    },
-    {
-      "title": "Microsoft Readies $10B AI Investment Plan in Japan",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan Comments URL: https://news.ycombinator.com/item?id=47623059 Points: 2 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan",
+      "title": "Let's be Honest about AI Coding",
+      "summary": "Article URL: https://kenkantzer.com/lets-be-honest-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47635340 Points: 3 # Comments: 2",
+      "url": "https://kenkantzer.com/lets-be-honest-about-ai/",
       "image": "",
-      "date": "2026-04-03T04:01:51+00:00"
+      "date": "2026-04-04T03:20:19+00:00"
     },
     {
-      "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
-      "summary": "Built and open-sourced in the era before AI. I’m sure you know where to find the code. Comments URL: https://news.ycombinator.com/item?id=47623053 Points: 8 # Comments: 2",
-      "url": "https://mehuleo.github.io/encircle/",
-      "image": "http://mehuleo.github.io/encircle/img/og-img1.png",
-      "date": "2026-04-03T04:00:56+00:00"
-    },
-    {
-      "title": "AI Applications and Vertical Integration",
-      "summary": "Article URL: https://www.tanayj.com/p/ai-applications-and-vertical-integration Comments URL: https://news.ycombinator.com/item?id=47622748 Points: 2 # Comments: 0",
-      "url": "https://www.tanayj.com/p/ai-applications-and-vertical-integration",
-      "image": "https://substackcdn.com/image/fetch/$s_!tGo9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2fe3caa5-7d05-4847-92d0-42f07a2e550f_4000x2108.png",
-      "date": "2026-04-03T02:55:59+00:00"
-    },
-    {
-      "title": "Jobs Being Created by AI",
-      "summary": "https://archive.is/m2jRN Comments URL: https://news.ycombinator.com/item?id=47622591 Points: 3 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
+      "title": "Billion dollar AI company was built on lies [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=0A2SP-QBByI Comments URL: https://news.ycombinator.com/item?id=47635237 Points: 4 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=0A2SP-QBByI",
       "image": "",
-      "date": "2026-04-03T02:25:56+00:00"
+      "date": "2026-04-04T03:01:01+00:00"
     },
     {
-      "title": "Nvidia IGX Thor powers industrial, medical and robotics edge AI applications",
-      "summary": "Article URL: https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/ Comments URL: https://news.ycombinator.com/item?id=47622290 Points: 2 # Comments: 0",
-      "url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
-      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/nvidia-igx-thor.webp",
-      "date": "2026-04-03T01:24:19+00:00"
+      "title": "AI seed startups are commanding higher valuations",
+      "summary": "Article URL: https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/ Comments URL: https://news.ycombinator.com/item?id=47635158 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+      "date": "2026-04-04T02:46:28+00:00"
+    },
+    {
+      "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
+      "summary": "Article URL: https://nypost.com/2026/04/03/business/meta-lays-off-hundreds-after-ceo-mark-zuckerberg-said-ai-can-replace-teams/ Comments URL: https://news.ycombinator.com/item?id=47634852 Points: 10 # Comments: 1",
+      "url": "https://nypost.com/2026/04/03/business/meta-lays-off-hundreds-after-ceo-mark-zuckerberg-said-ai-can-replace-teams/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/124940218.jpg?quality=75&strip=all&w=1200",
+      "date": "2026-04-04T01:59:18+00:00"
+    },
+    {
+      "title": "Ask HN: What's the most repetitive thing you do with AI that you wish it just re",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47634756 Points: 1 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47634756",
+      "image": "",
+      "date": "2026-04-04T01:44:43+00:00"
+    },
+    {
+      "title": "Scaling tool orchestration data will emerge different intelligence and LLMs",
+      "summary": "Tldr: We are only now gonna start to scale long term external orchestration, everything beforehand was mostly internal problem solving training with here and there a tool call. We don't actually know yet what scaling orchestration training produces. It might produce much better tool-using assistants that remain fundamentally reactive to human instructions. Or it might produce something with more emergent autonomy. My gut feeling tells me the second. For the first time I foresee in the near future (as soon as 2027-2028) a potential for a misaligned takeoff. A year ago, a friend of mine who studied social science asked my opinion about AI 2027 and the prospect of a misaligned AI takeover. I laughed and said it was quite impossible given how the technology actually worked. An LLM works too stepwise, I told him. There's a prompt, the model predicts the next tokens, and then it \"dies.\" There's no continuity between prompts — it can store some text in a database, but there's no persistent reasoning. It felt obviously safe. With the recent agentic developments of the past few months, I'm starting to doubt that earlier understanding. The first generation of LLMs, up through GPT-4, were essentially sophisticated text autocompleters. They were trained on internet data from web crawls, fine-tuned with RLHF to give them a chatbot flavor. They felt harmless, and they fit the description I gave my friend perfectly. Their capabilities were entirely bounded by the context window and the prompt-answer time window. Prompt in, completion out, done. The second generation added reasoning capabilities. These models stopped feeling like pure autocompleters — they could search within their stored knowledge, chain thoughts together, and work through problems. The training data changed too: successful reasoning traces got folded back into training. But crucially, they were still bounded by the same constraints. They got more time to think and process, but at the end of the answer, they were still mostly gone. The capability was still internal to the model. Now enter this third generation of agentic LLMs, which really took off with tools like Claude Code becoming increasingly capable. These don't feel like autocompleters. They don't even feel like reasoners. They're starting to feel like orchestrators. They aren't limited to their internals — they act as a connected system, coordinating tools and externals to achieve goals.\nWhat scares me most is the new type of training data we're now generating and collecting: succesful long term orchestration traces. They will allow us to scale orchestration kind of intelligence. This kind of intelligence is not bound to its internal. It changes to an external symbiotic type of intelligence. We are training them to externalize almost everything. And optimizing them to orchestrate all these externals over a long time. This feels like optimizing for a symbiotic system, very different from the simple internally optimized llms of today. It really feels like the equation of what the llm is processing, is changing. The llm becomes an orchestration engine of externals, which together make up the whole system. We know how reasoning autocompletion scales, we dont know how orchestration engines scale. I feel like different and new emergent capabilities might appear. We are basically for the first time scaling the prefrontal cortex of llms. For the first time, I can genuinely foresee the path to an unaligned takeoff. Let alone all other harm AI can do in the hands of bad actors. And it makes me question whether labs should continue down this path. Is it not far safer to keep LLM problem solving mostly internal to its own parameters? Of all the AI companies, shouldn't Anthropic have been less loud with systems like claude code. They have been accelerating the most in this new paradigm of what is gonna be scaled. Comments URL: https://news.ycombinator.com/item?id=47634733 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47634733",
+      "image": "",
+      "date": "2026-04-04T01:42:03+00:00"
+    },
+    {
+      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html Comments URL: https://news.ycombinator.com/item?id=47634387 Points: 4 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108075021-1734011164475-gettyimages-1456167226-gitech84.jpeg?v=1774878720&w=1920&h=1080",
+      "date": "2026-04-04T00:54:33+00:00"
+    },
+    {
+      "title": "AI Coding Tools in a Sandbox: Why Your File System Needs Protection",
+      "summary": "Article URL: https://holtwick.de/en/blog/bx-sandbox Comments URL: https://news.ycombinator.com/item?id=47634230 Points: 2 # Comments: 0",
+      "url": "https://holtwick.de/en/blog/bx-sandbox",
+      "image": "https://holtwick.de/ogimage.png",
+      "date": "2026-04-04T00:33:56+00:00"
+    },
+    {
+      "title": "Caltech Researchers Claim Compression of High-Fidelity AI Models",
+      "summary": "Article URL: https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9 Comments URL: https://news.ycombinator.com/item?id=47634128 Points: 5 # Comments: 0",
+      "url": "https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9",
+      "image": "",
+      "date": "2026-04-04T00:20:21+00:00"
     }
   ]
 }
