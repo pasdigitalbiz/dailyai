@@ -1,96 +1,110 @@
 {
-  "generated_at": "2026-04-04T07:15:34.718599+00:00",
+  "generated_at": "2026-04-05T07:21:15.318747+00:00",
   "items": [
     {
-      "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/musk-asks-spacex-ipo-banks-181543226.html Comments URL: https://news.ycombinator.com/item?id=47636505 Points: 2 # Comments: 0",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/musk-asks-spacex-ipo-banks-181543226.html",
-      "image": "https://s.yimg.com/os/en/reuters.com/e0f944aad23ec2eb106aed3323b60e1b",
-      "date": "2026-04-04T06:45:14+00:00"
+      "title": "Ask HN: Is AI-generated output copyrightable? Should it be?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47646812 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47646812",
+      "image": "",
+      "date": "2026-04-05T06:49:41+00:00"
     },
     {
-      "title": "Thoughts on AI and Research [pdf]",
-      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf Comments URL: https://news.ycombinator.com/item?id=47636006 Points: 3 # Comments: 0",
+      "title": "I used AI. It worked. I hated it",
+      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 38 # Comments: 82",
+      "url": "https://taggart-tech.com/reckoning/",
+      "image": "https://taggart-tech.com/simpsons-mob-small.png",
+      "date": "2026-04-05T05:08:39+00:00"
+    },
+    {
+      "title": "Humans only This website invites artists to animate anti-AI disclaimers",
+      "summary": "Article URL: https://www.itsnicethat.com/articles/ori-peer-this-film-was-not-made-with-ai-animation-illustration-project-310326 Comments URL: https://news.ycombinator.com/item?id=47646203 Points: 1 # Comments: 0",
+      "url": "https://www.itsnicethat.com/articles/ori-peer-this-film-was-not-made-with-ai-animation-illustration-project-310326",
+      "image": "https://media.itsnicethat.com/original_images/zerstoerer.gif",
+      "date": "2026-04-05T04:53:18+00:00"
+    },
+    {
+      "title": "Common Sense 2026: AI In America – the open letter I dictated over 2 months",
+      "summary": "Article URL: https://www.raresignal.ai/common-sense-2026 Comments URL: https://news.ycombinator.com/item?id=47646102 Points: 1 # Comments: 0",
+      "url": "https://www.raresignal.ai/common-sense-2026",
+      "image": "https://raresignal.ai/og-common-sense.png",
+      "date": "2026-04-05T04:26:41+00:00"
+    },
+    {
+      "title": "Pre-Critical Recursive Cutoff: A Boundary Condition for AI Irreversibility",
+      "summary": "Article URL: https://zenodo.org/records/18824181 Comments URL: https://news.ycombinator.com/item?id=47645929 Points: 1 # Comments: 0",
+      "url": "https://zenodo.org/records/18824181",
+      "image": "",
+      "date": "2026-04-05T03:42:29+00:00"
+    },
+    {
+      "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7 Comments URL: https://news.ycombinator.com/item?id=47645708 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+      "image": "",
+      "date": "2026-04-05T02:50:55+00:00"
+    },
+    {
+      "title": "Towards end-to-end automation of AI research",
+      "summary": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47645696 Points: 6 # Comments: 0",
+      "url": "https://www.nature.com/articles/s41586-026-10265-5",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
+      "date": "2026-04-05T02:48:00+00:00"
+    },
+    {
+      "title": "Writing Lisp is AI resistant and I'm sad",
+      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 60 # Comments: 59",
+      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "image": "",
+      "date": "2026-04-05T02:01:31+00:00"
+    },
+    {
+      "title": "Ask HN: Will AI agents replace data scientists or make them better?",
+      "summary": "There's been a lot of chatter about AI agents replacing knowledge workers and I've been thinking about where data science specifically falls - the judgment part of the job feels different from the repetitive tasks. Curious what others are seeing in practice. Comments URL: https://news.ycombinator.com/item?id=47645141 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47645141",
+      "image": "",
+      "date": "2026-04-05T01:01:07+00:00"
+    },
+    {
+      "title": "Some Thoughts on AI and Research [pdf]",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf Comments URL: https://news.ycombinator.com/item?id=47645090 Points: 2 # Comments: 0",
       "url": "https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf",
       "image": "",
-      "date": "2026-04-04T05:14:02+00:00"
+      "date": "2026-04-05T00:52:55+00:00"
     },
     {
-      "title": "It's open season for refusing AI",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/its-open-season-for-refusing-ai Comments URL: https://news.ycombinator.com/item?id=47635946 Points: 9 # Comments: 2",
-      "url": "https://www.bloodinthemachine.com/p/its-open-season-for-refusing-ai",
-      "image": "https://substackcdn.com/image/fetch/$s_!0RUa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbc2aff5-bf50-4445-b7e4-4e6b9b1c1261_1280x1280.png",
-      "date": "2026-04-04T05:03:00+00:00"
+      "title": "Take-Two seemingly laid off a portion of its AI team, including head of AI",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47645036 Points: 2 # Comments: 0",
+      "url": "https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/",
+      "image": "https://cdn.mos.cms.futurecdn.net/q6UwzRwKbKr3KzW9PN7ViD-1497-80.jpg",
+      "date": "2026-04-05T00:42:38+00:00"
     },
     {
-      "title": "AI agents are now playing Mafia (social deduction with humans)",
-      "summary": "Article URL: https://mafiamystery.com/agents Comments URL: https://news.ycombinator.com/item?id=47635366 Points: 2 # Comments: 0",
-      "url": "https://mafiamystery.com/agents",
+      "title": "The decade long feud shaping the future of AI",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47644932 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
       "image": "",
-      "date": "2026-04-04T03:23:45+00:00"
+      "date": "2026-04-05T00:24:12+00:00"
     },
     {
-      "title": "Let's be Honest about AI Coding",
-      "summary": "Article URL: https://kenkantzer.com/lets-be-honest-about-ai/ Comments URL: https://news.ycombinator.com/item?id=47635340 Points: 3 # Comments: 2",
-      "url": "https://kenkantzer.com/lets-be-honest-about-ai/",
+      "title": "Orchestra – the first AI-native research IDE",
+      "summary": "Article URL: https://www.orchestra-research.com/perspectives/introducing-new-orchestra Comments URL: https://news.ycombinator.com/item?id=47644877 Points: 2 # Comments: 1",
+      "url": "https://www.orchestra-research.com/perspectives/introducing-new-orchestra",
+      "image": "https://www.orchestra-research.com/og-image.png",
+      "date": "2026-04-05T00:15:57+00:00"
+    },
+    {
+      "title": "Show HN: Watch an AI-agent utopian commune fall apart",
+      "summary": "Article URL: https://menggg22.github.io/utopia/replay.html Comments URL: https://news.ycombinator.com/item?id=47644696 Points: 2 # Comments: 2",
+      "url": "https://menggg22.github.io/utopia/replay.html",
       "image": "",
-      "date": "2026-04-04T03:20:19+00:00"
+      "date": "2026-04-04T23:42:57+00:00"
     },
     {
-      "title": "Billion dollar AI company was built on lies [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=0A2SP-QBByI Comments URL: https://news.ycombinator.com/item?id=47635237 Points: 4 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=0A2SP-QBByI",
+      "title": "Memori Labs Launches OpenClaw Plugin, Bringing Persistent AI Memory to Agents",
+      "summary": "Article URL: https://www.marketwatch.com/press-release/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-c0d32116 Comments URL: https://news.ycombinator.com/item?id=47644665 Points: 2 # Comments: 0",
+      "url": "https://www.marketwatch.com/press-release/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-c0d32116",
       "image": "",
-      "date": "2026-04-04T03:01:01+00:00"
-    },
-    {
-      "title": "AI seed startups are commanding higher valuations",
-      "summary": "Article URL: https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/ Comments URL: https://news.ycombinator.com/item?id=47635158 Points: 1 # Comments: 0",
-      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
-      "date": "2026-04-04T02:46:28+00:00"
-    },
-    {
-      "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
-      "summary": "Article URL: https://nypost.com/2026/04/03/business/meta-lays-off-hundreds-after-ceo-mark-zuckerberg-said-ai-can-replace-teams/ Comments URL: https://news.ycombinator.com/item?id=47634852 Points: 10 # Comments: 1",
-      "url": "https://nypost.com/2026/04/03/business/meta-lays-off-hundreds-after-ceo-mark-zuckerberg-said-ai-can-replace-teams/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/124940218.jpg?quality=75&strip=all&w=1200",
-      "date": "2026-04-04T01:59:18+00:00"
-    },
-    {
-      "title": "Ask HN: What's the most repetitive thing you do with AI that you wish it just re",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47634756 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47634756",
-      "image": "",
-      "date": "2026-04-04T01:44:43+00:00"
-    },
-    {
-      "title": "Scaling tool orchestration data will emerge different intelligence and LLMs",
-      "summary": "Tldr: We are only now gonna start to scale long term external orchestration, everything beforehand was mostly internal problem solving training with here and there a tool call. We don't actually know yet what scaling orchestration training produces. It might produce much better tool-using assistants that remain fundamentally reactive to human instructions. Or it might produce something with more emergent autonomy. My gut feeling tells me the second. For the first time I foresee in the near future (as soon as 2027-2028) a potential for a misaligned takeoff. A year ago, a friend of mine who studied social science asked my opinion about AI 2027 and the prospect of a misaligned AI takeover. I laughed and said it was quite impossible given how the technology actually worked. An LLM works too stepwise, I told him. There's a prompt, the model predicts the next tokens, and then it \"dies.\" There's no continuity between prompts — it can store some text in a database, but there's no persistent reasoning. It felt obviously safe. With the recent agentic developments of the past few months, I'm starting to doubt that earlier understanding. The first generation of LLMs, up through GPT-4, were essentially sophisticated text autocompleters. They were trained on internet data from web crawls, fine-tuned with RLHF to give them a chatbot flavor. They felt harmless, and they fit the description I gave my friend perfectly. Their capabilities were entirely bounded by the context window and the prompt-answer time window. Prompt in, completion out, done. The second generation added reasoning capabilities. These models stopped feeling like pure autocompleters — they could search within their stored knowledge, chain thoughts together, and work through problems. The training data changed too: successful reasoning traces got folded back into training. But crucially, they were still bounded by the same constraints. They got more time to think and process, but at the end of the answer, they were still mostly gone. The capability was still internal to the model. Now enter this third generation of agentic LLMs, which really took off with tools like Claude Code becoming increasingly capable. These don't feel like autocompleters. They don't even feel like reasoners. They're starting to feel like orchestrators. They aren't limited to their internals — they act as a connected system, coordinating tools and externals to achieve goals.\nWhat scares me most is the new type of training data we're now generating and collecting: succesful long term orchestration traces. They will allow us to scale orchestration kind of intelligence. This kind of intelligence is not bound to its internal. It changes to an external symbiotic type of intelligence. We are training them to externalize almost everything. And optimizing them to orchestrate all these externals over a long time. This feels like optimizing for a symbiotic system, very different from the simple internally optimized llms of today. It really feels like the equation of what the llm is processing, is changing. The llm becomes an orchestration engine of externals, which together make up the whole system. We know how reasoning autocompletion scales, we dont know how orchestration engines scale. I feel like different and new emergent capabilities might appear. We are basically for the first time scaling the prefrontal cortex of llms. For the first time, I can genuinely foresee the path to an unaligned takeoff. Let alone all other harm AI can do in the hands of bad actors. And it makes me question whether labs should continue down this path. Is it not far safer to keep LLM problem solving mostly internal to its own parameters? Of all the AI companies, shouldn't Anthropic have been less loud with systems like claude code. They have been accelerating the most in this new paradigm of what is gonna be scaled. Comments URL: https://news.ycombinator.com/item?id=47634733 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47634733",
-      "image": "",
-      "date": "2026-04-04T01:42:03+00:00"
-    },
-    {
-      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html Comments URL: https://news.ycombinator.com/item?id=47634387 Points: 4 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108075021-1734011164475-gettyimages-1456167226-gitech84.jpeg?v=1774878720&w=1920&h=1080",
-      "date": "2026-04-04T00:54:33+00:00"
-    },
-    {
-      "title": "AI Coding Tools in a Sandbox: Why Your File System Needs Protection",
-      "summary": "Article URL: https://holtwick.de/en/blog/bx-sandbox Comments URL: https://news.ycombinator.com/item?id=47634230 Points: 2 # Comments: 0",
-      "url": "https://holtwick.de/en/blog/bx-sandbox",
-      "image": "https://holtwick.de/ogimage.png",
-      "date": "2026-04-04T00:33:56+00:00"
-    },
-    {
-      "title": "Caltech Researchers Claim Compression of High-Fidelity AI Models",
-      "summary": "Article URL: https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9 Comments URL: https://news.ycombinator.com/item?id=47634128 Points: 5 # Comments: 0",
-      "url": "https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9",
-      "image": "",
-      "date": "2026-04-04T00:20:21+00:00"
+      "date": "2026-04-04T23:39:32+00:00"
     }
   ]
 }
