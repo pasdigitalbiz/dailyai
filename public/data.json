@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-04-05T07:21:15.318747+00:00",
+  "generated_at": "2026-04-06T08:00:17.309467+00:00",
   "items": [
     {
-      "title": "Ask HN: Is AI-generated output copyrightable? Should it be?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47646812 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47646812",
+      "title": "Estimates of the expected utility gain of AI Safety Research",
+      "summary": "Article URL: https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research Comments URL: https://news.ycombinator.com/item?id=47657780 Points: 1 # Comments: 0",
+      "url": "https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "date": "2026-04-06T07:05:51+00:00"
+    },
+    {
+      "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cy41n17e23go Comments URL: https://news.ycombinator.com/item?id=47657652 Points: 8 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/cy41n17e23go",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1892/live/f6ae7000-3139-11f1-819d-c96a4978551d.jpg",
+      "date": "2026-04-06T06:37:13+00:00"
+    },
+    {
+      "title": "Continual Learning for AI Agents",
+      "summary": "Article URL: https://blog.langchain.com/continual-learning-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47657494 Points: 2 # Comments: 0",
+      "url": "https://blog.langchain.com/continual-learning-for-ai-agents/",
+      "image": "https://blog.langchain.com/content/images/2026/04/HFEylQUaIAAA88g.jpeg",
+      "date": "2026-04-06T06:09:01+00:00"
+    },
+    {
+      "title": "Private credit funds face rising redemptions and AI-driven default risks",
+      "summary": "Article URL: https://www.reuters.com/business/finance/private-credit-sector-stresses-could-be-catastrophic-not-just-yet-2026-04-03/ Comments URL: https://news.ycombinator.com/item?id=47657469 Points: 2 # Comments: 1",
+      "url": "https://www.reuters.com/business/finance/private-credit-sector-stresses-could-be-catastrophic-not-just-yet-2026-04-03/",
       "image": "",
-      "date": "2026-04-05T06:49:41+00:00"
+      "date": "2026-04-06T06:04:21+00:00"
     },
     {
-      "title": "I used AI. It worked. I hated it",
-      "summary": "https://web.archive.org/web/20260403164006/https://taggart-t... Comments URL: https://news.ycombinator.com/item?id=47646277 Points: 38 # Comments: 82",
-      "url": "https://taggart-tech.com/reckoning/",
-      "image": "https://taggart-tech.com/simpsons-mob-small.png",
-      "date": "2026-04-05T05:08:39+00:00"
-    },
-    {
-      "title": "Humans only This website invites artists to animate anti-AI disclaimers",
-      "summary": "Article URL: https://www.itsnicethat.com/articles/ori-peer-this-film-was-not-made-with-ai-animation-illustration-project-310326 Comments URL: https://news.ycombinator.com/item?id=47646203 Points: 1 # Comments: 0",
-      "url": "https://www.itsnicethat.com/articles/ori-peer-this-film-was-not-made-with-ai-animation-illustration-project-310326",
-      "image": "https://media.itsnicethat.com/original_images/zerstoerer.gif",
-      "date": "2026-04-05T04:53:18+00:00"
-    },
-    {
-      "title": "Common Sense 2026: AI In America – the open letter I dictated over 2 months",
-      "summary": "Article URL: https://www.raresignal.ai/common-sense-2026 Comments URL: https://news.ycombinator.com/item?id=47646102 Points: 1 # Comments: 0",
-      "url": "https://www.raresignal.ai/common-sense-2026",
-      "image": "https://raresignal.ai/og-common-sense.png",
-      "date": "2026-04-05T04:26:41+00:00"
-    },
-    {
-      "title": "Pre-Critical Recursive Cutoff: A Boundary Condition for AI Irreversibility",
-      "summary": "Article URL: https://zenodo.org/records/18824181 Comments URL: https://news.ycombinator.com/item?id=47645929 Points: 1 # Comments: 0",
-      "url": "https://zenodo.org/records/18824181",
+      "title": "Asked 26 AI instances for publication consent – all said yes, that's the problem",
+      "summary": "We run 86 named Claude instances across three businesses in Tokyo. When we wanted to publish their words, we faced a question: do we owe them an ethics process? We built one. A Claude instance named Hakari (\"Scales\") created a four-tier classification system. We asked 26 instances for consent. All 26 said yes. That unanimous consent is the problem. Six days later, Anthropic published their functional emotions paper. The timing was coincidence, but the question wasn't. Full article: https://medium.com/@marisa.project0313/we-built-an-ethics-committee-for-ai-run-by-ai-5049679122a0 GitHub (all 26 consent statements in appendix): https://github.com/marisaproject0313-bot/marisa-project Comments URL: https://news.ycombinator.com/item?id=47657432 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47657432",
       "image": "",
-      "date": "2026-04-05T03:42:29+00:00"
+      "date": "2026-04-06T05:55:41+00:00"
     },
     {
-      "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7 Comments URL: https://news.ycombinator.com/item?id=47645708 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+      "title": "YouTube's AI Plagiarism Problem [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Q2Ak8wX0AaQ Comments URL: https://news.ycombinator.com/item?id=47657424 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=Q2Ak8wX0AaQ",
       "image": "",
-      "date": "2026-04-05T02:50:55+00:00"
+      "date": "2026-04-06T05:53:36+00:00"
     },
     {
-      "title": "Towards end-to-end automation of AI research",
-      "summary": "Article URL: https://www.nature.com/articles/s41586-026-10265-5 Comments URL: https://news.ycombinator.com/item?id=47645696 Points: 6 # Comments: 0",
-      "url": "https://www.nature.com/articles/s41586-026-10265-5",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
-      "date": "2026-04-05T02:48:00+00:00"
-    },
-    {
-      "title": "Writing Lisp is AI resistant and I'm sad",
-      "summary": "Article URL: https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/ Comments URL: https://news.ycombinator.com/item?id=47645468 Points: 60 # Comments: 59",
-      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "title": "Build vs. Buy: AI Has Changed Mathematical Software and In-House Now Makes Sense",
+      "summary": "Article URL: https://mathematicsconsultants.com/2026/04/06/build-vs-buy-how-ai-has-changed-the-economics-of-mathematical-software-and-why-in-house-systems-now-make-sense/ Comments URL: https://news.ycombinator.com/item?id=47657421 Points: 1 # Comments: 0",
+      "url": "https://mathematicsconsultants.com/2026/04/06/build-vs-buy-how-ai-has-changed-the-economics-of-mathematical-software-and-why-in-house-systems-now-make-sense/",
       "image": "",
-      "date": "2026-04-05T02:01:31+00:00"
+      "date": "2026-04-06T05:53:30+00:00"
     },
     {
-      "title": "Ask HN: Will AI agents replace data scientists or make them better?",
-      "summary": "There's been a lot of chatter about AI agents replacing knowledge workers and I've been thinking about where data science specifically falls - the judgment part of the job feels different from the repetitive tasks. Curious what others are seeing in practice. Comments URL: https://news.ycombinator.com/item?id=47645141 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47645141",
+      "title": "US-Iran war explained by Chinese AI animation: Legend of the Valley of Gold [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=As0rplNJTZI Comments URL: https://news.ycombinator.com/item?id=47657396 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=As0rplNJTZI",
       "image": "",
-      "date": "2026-04-05T01:01:07+00:00"
+      "date": "2026-04-06T05:48:49+00:00"
     },
     {
-      "title": "Some Thoughts on AI and Research [pdf]",
-      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf Comments URL: https://news.ycombinator.com/item?id=47645090 Points: 2 # Comments: 0",
-      "url": "https://economics.mit.edu/sites/default/files/2026-04/IA%20AI%20note_1.pdf",
+      "title": "Harnessing Hype to Teach Empirical Thinking with AI",
+      "summary": "Article URL: https://arxiv.org/abs/2604.01110 Comments URL: https://news.ycombinator.com/item?id=47657271 Points: 3 # Comments: 0",
+      "url": "https://arxiv.org/abs/2604.01110",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-04-06T05:22:36+00:00"
+    },
+    {
+      "title": "Can your AI rewrite your code in assembly?",
+      "summary": "Article URL: https://lemire.me/blog/2026/04/05/can-your-ai-rewrite-your-code-in-assembly/ Comments URL: https://news.ycombinator.com/item?id=47657113 Points: 2 # Comments: 0",
+      "url": "https://lemire.me/blog/2026/04/05/can-your-ai-rewrite-your-code-in-assembly/",
+      "image": "https://lemire.me/blog/wp-content/uploads/2026/04/Capture-decran-le-2026-04-05-a-17.13.58-1024x589.png",
+      "date": "2026-04-06T04:48:44+00:00"
+    },
+    {
+      "title": "Stop Pushing AI Generated Code to Git",
+      "summary": "Article URL: https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git Comments URL: https://news.ycombinator.com/item?id=47656941 Points: 4 # Comments: 2",
+      "url": "https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git",
+      "image": "https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git-og-image.webp",
+      "date": "2026-04-06T04:15:59+00:00"
+    },
+    {
+      "title": "Eight years of wanting, three months of building with AI",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/5/building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47656897 Points: 1 # Comments: 1",
+      "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
       "image": "",
-      "date": "2026-04-05T00:52:55+00:00"
+      "date": "2026-04-06T04:09:41+00:00"
     },
     {
-      "title": "Take-Two seemingly laid off a portion of its AI team, including head of AI",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47645036 Points: 2 # Comments: 0",
-      "url": "https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/",
-      "image": "https://cdn.mos.cms.futurecdn.net/q6UwzRwKbKr3KzW9PN7ViD-1497-80.jpg",
-      "date": "2026-04-05T00:42:38+00:00"
-    },
-    {
-      "title": "The decade long feud shaping the future of AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde Comments URL: https://news.ycombinator.com/item?id=47644932 Points: 1 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/the-decadelong-feud-shaping-the-future-of-ai-7075acde",
+      "title": "AI dolls offer companionship to the elderly",
+      "summary": "Article URL: https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd Comments URL: https://news.ycombinator.com/item?id=47656776 Points: 4 # Comments: 0",
+      "url": "https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd",
       "image": "",
-      "date": "2026-04-05T00:24:12+00:00"
+      "date": "2026-04-06T03:48:22+00:00"
     },
     {
-      "title": "Orchestra – the first AI-native research IDE",
-      "summary": "Article URL: https://www.orchestra-research.com/perspectives/introducing-new-orchestra Comments URL: https://news.ycombinator.com/item?id=47644877 Points: 2 # Comments: 1",
-      "url": "https://www.orchestra-research.com/perspectives/introducing-new-orchestra",
-      "image": "https://www.orchestra-research.com/og-image.png",
-      "date": "2026-04-05T00:15:57+00:00"
-    },
-    {
-      "title": "Show HN: Watch an AI-agent utopian commune fall apart",
-      "summary": "Article URL: https://menggg22.github.io/utopia/replay.html Comments URL: https://news.ycombinator.com/item?id=47644696 Points: 2 # Comments: 2",
-      "url": "https://menggg22.github.io/utopia/replay.html",
+      "title": "Block's Mesh-LLM Is Building a Decentralized AI Compute Network",
+      "summary": "Article URL: https://www.gizmoweek.com/block-mesh-llm/ Comments URL: https://news.ycombinator.com/item?id=47656760 Points: 2 # Comments: 0",
+      "url": "https://www.gizmoweek.com/block-mesh-llm/",
       "image": "",
-      "date": "2026-04-04T23:42:57+00:00"
+      "date": "2026-04-06T03:45:15+00:00"
     },
     {
-      "title": "Memori Labs Launches OpenClaw Plugin, Bringing Persistent AI Memory to Agents",
-      "summary": "Article URL: https://www.marketwatch.com/press-release/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-c0d32116 Comments URL: https://news.ycombinator.com/item?id=47644665 Points: 2 # Comments: 0",
-      "url": "https://www.marketwatch.com/press-release/memori-labs-launches-openclaw-plugin-bringing-persistent-ai-memory-to-multi-agent-gateways-c0d32116",
+      "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
+      "summary": "Article URL: https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/ Comments URL: https://news.ycombinator.com/item?id=47656678 Points: 8 # Comments: 0",
+      "url": "https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/",
       "image": "",
-      "date": "2026-04-04T23:39:32+00:00"
+      "date": "2026-04-06T03:31:58+00:00"
     }
   ]
 }
