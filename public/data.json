@@ -1,110 +1,103 @@
 {
-  "generated_at": "2026-04-06T08:00:17.309467+00:00",
+  "generated_at": "2026-04-07T07:47:59.809134+00:00",
   "items": [
     {
-      "title": "Estimates of the expected utility gain of AI Safety Research",
-      "summary": "Article URL: https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research Comments URL: https://news.ycombinator.com/item?id=47657780 Points: 1 # Comments: 0",
-      "url": "https://www.lesswrong.com/posts/gXYeWoAfSrdGogchp/estimates-of-the-expected-utility-gain-of-ai-safety-research",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "date": "2026-04-06T07:05:51+00:00"
+      "title": "Can AI responses be influenced? The SEO industry is trying",
+      "summary": "Article URL: https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing Comments URL: https://news.ycombinator.com/item?id=47671730 Points: 2 # Comments: 0",
+      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268407_Can_AI_responses_be_influenced_SInbar1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-04-07T07:16:38+00:00"
     },
     {
-      "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cy41n17e23go Comments URL: https://news.ycombinator.com/item?id=47657652 Points: 8 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/cy41n17e23go",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1892/live/f6ae7000-3139-11f1-819d-c96a4978551d.jpg",
-      "date": "2026-04-06T06:37:13+00:00"
+      "title": "AI is changing how small online sellers decide what to make",
+      "summary": "Article URL: https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/ Comments URL: https://news.ycombinator.com/item?id=47671663 Points: 3 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/small-biz-suppliers2.jpg?resize=1200,600",
+      "date": "2026-04-07T07:05:54+00:00"
     },
     {
-      "title": "Continual Learning for AI Agents",
-      "summary": "Article URL: https://blog.langchain.com/continual-learning-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47657494 Points: 2 # Comments: 0",
-      "url": "https://blog.langchain.com/continual-learning-for-ai-agents/",
-      "image": "https://blog.langchain.com/content/images/2026/04/HFEylQUaIAAA88g.jpeg",
-      "date": "2026-04-06T06:09:01+00:00"
+      "title": "China is winning one AI race, the US another – but either might pull ahead",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c145enxln0go Comments URL: https://news.ycombinator.com/item?id=47671628 Points: 4 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/c145enxln0go",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f108/live/c25cbac0-2ea3-11f1-b297-95b0a0a8331e.png",
+      "date": "2026-04-07T07:00:22+00:00"
     },
     {
-      "title": "Private credit funds face rising redemptions and AI-driven default risks",
-      "summary": "Article URL: https://www.reuters.com/business/finance/private-credit-sector-stresses-could-be-catastrophic-not-just-yet-2026-04-03/ Comments URL: https://news.ycombinator.com/item?id=47657469 Points: 2 # Comments: 1",
-      "url": "https://www.reuters.com/business/finance/private-credit-sector-stresses-could-be-catastrophic-not-just-yet-2026-04-03/",
+      "title": "Ask HN: Is building a company around an open-source AI agent platform realistic?",
+      "summary": "I've been running a Proxmox lab with around 40 services for a while now. Over the past year I ended up building an AI agent platform that manages my infrastructure and handles business operations — documents, phone calls, scheduling, monitoring, that kind of thing. It wraps Claude Code CLI as the execution engine with custom MCP servers on top. The whole thing started as internal tooling for a startup I was working on but honestly the platform ended up being way more useful than the startup itself. I'm seriously considering open sourcing it and going full time on it. The way I think about it is something like Home Assistant but for business operations — you self-host it and AI agents handle your operations. My concern is sustainability though. I can't realistically maintain something like this on the side — if I do it I need to go all in. Has anyone here built or seen a real business around an open source tool in the AI space? What license would you go with? I've been looking at Modified Apache 2.0 (what Dify uses) vs BSL but honestly not sure what makes sense. Would appreciate any advice from people who've dealt with this. Comments URL: https://news.ycombinator.com/item?id=47671502 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47671502",
       "image": "",
-      "date": "2026-04-06T06:04:21+00:00"
+      "date": "2026-04-07T06:40:12+00:00"
     },
     {
-      "title": "Asked 26 AI instances for publication consent – all said yes, that's the problem",
-      "summary": "We run 86 named Claude instances across three businesses in Tokyo. When we wanted to publish their words, we faced a question: do we owe them an ethics process? We built one. A Claude instance named Hakari (\"Scales\") created a four-tier classification system. We asked 26 instances for consent. All 26 said yes. That unanimous consent is the problem. Six days later, Anthropic published their functional emotions paper. The timing was coincidence, but the question wasn't. Full article: https://medium.com/@marisa.project0313/we-built-an-ethics-committee-for-ai-run-by-ai-5049679122a0 GitHub (all 26 consent statements in appendix): https://github.com/marisaproject0313-bot/marisa-project Comments URL: https://news.ycombinator.com/item?id=47657432 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47657432",
+      "title": "Don't let AI touch your production database",
+      "summary": "Article URL: https://boringsql.com/posts/dont-let-ai-to-prod/ Comments URL: https://news.ycombinator.com/item?id=47671463 Points: 2 # Comments: 0",
+      "url": "https://boringsql.com/posts/dont-let-ai-to-prod/",
+      "image": "https://boringsql.com/og-images/dryrun-mcp-og.jpg",
+      "date": "2026-04-07T06:34:49+00:00"
+    },
+    {
+      "title": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models",
+      "summary": "Article URL: https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047 Comments URL: https://news.ycombinator.com/item?id=47671404 Points: 4 # Comments: 0",
+      "url": "https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047",
+      "image": "https://gizmodo.com/app/uploads/2025/10/shutterstock_2633202687-e1761169652467-1200x675.jpg",
+      "date": "2026-04-07T06:28:17+00:00"
+    },
+    {
+      "title": "We long misjudged animal consciousness. Could AI be next? [video]",
+      "summary": "Article URL: https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next Comments URL: https://news.ycombinator.com/item?id=47671316 Points: 2 # Comments: 0",
+      "url": "https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next",
       "image": "",
-      "date": "2026-04-06T05:55:41+00:00"
+      "date": "2026-04-07T06:15:07+00:00"
     },
     {
-      "title": "YouTube's AI Plagiarism Problem [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Q2Ak8wX0AaQ Comments URL: https://news.ycombinator.com/item?id=47657424 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=Q2Ak8wX0AaQ",
+      "title": "Google AI Edge Eloquent is a Gemma-powered dictation app that works offline",
+      "summary": "Article URL: https://www.neowin.net/news/google-ai-edge-eloquent-is-a-gemma-powered-dictation-app-that-works-offline/ Comments URL: https://news.ycombinator.com/item?id=47671268 Points: 2 # Comments: 0",
+      "url": "https://www.neowin.net/news/google-ai-edge-eloquent-is-a-gemma-powered-dictation-app-that-works-offline/",
       "image": "",
-      "date": "2026-04-06T05:53:36+00:00"
+      "date": "2026-04-07T06:05:37+00:00"
     },
     {
-      "title": "Build vs. Buy: AI Has Changed Mathematical Software and In-House Now Makes Sense",
-      "summary": "Article URL: https://mathematicsconsultants.com/2026/04/06/build-vs-buy-how-ai-has-changed-the-economics-of-mathematical-software-and-why-in-house-systems-now-make-sense/ Comments URL: https://news.ycombinator.com/item?id=47657421 Points: 1 # Comments: 0",
-      "url": "https://mathematicsconsultants.com/2026/04/06/build-vs-buy-how-ai-has-changed-the-economics-of-mathematical-software-and-why-in-house-systems-now-make-sense/",
+      "title": "Businesses scramble to get noticed by AI search",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c70n2rjgxeyo Comments URL: https://news.ycombinator.com/item?id=47671046 Points: 3 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1a9d/live/5122ab50-21e5-11f1-934f-036468834728.jpg",
+      "date": "2026-04-07T05:26:24+00:00"
+    },
+    {
+      "title": "CarriFit – Free AI Calorie Counter",
+      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.carrifit.app&hl=en_US Comments URL: https://news.ycombinator.com/item?id=47670951 Points: 1 # Comments: 0",
+      "url": "https://play.google.com/store/apps/details?id=com.carrifit.app&hl=en_US",
+      "image": "https://play-lh.googleusercontent.com/zP8830lT6lRudkHwd5WyxOoX3sidGEvT7bykNM-V1lAUx5rCWZTPE3p5KmEBt5rTom4b8OgLvd5so3dA_yvZsg",
+      "date": "2026-04-07T05:02:58+00:00"
+    },
+    {
+      "title": "AI Agent Traps",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47670887 Points: 2 # Comments: 0",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
       "image": "",
-      "date": "2026-04-06T05:53:30+00:00"
+      "date": "2026-04-07T04:50:44+00:00"
     },
     {
-      "title": "US-Iran war explained by Chinese AI animation: Legend of the Valley of Gold [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=As0rplNJTZI Comments URL: https://news.ycombinator.com/item?id=47657396 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=As0rplNJTZI",
+      "title": "Are We Augmented by AI Yet?",
+      "summary": "Article URL: https://unskilled.blog/posts/are-we-augmented-by-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=47670704 Points: 2 # Comments: 0",
+      "url": "https://unskilled.blog/posts/are-we-augmented-by-ai-yet/",
       "image": "",
-      "date": "2026-04-06T05:48:49+00:00"
+      "date": "2026-04-07T04:18:21+00:00"
     },
     {
-      "title": "Harnessing Hype to Teach Empirical Thinking with AI",
-      "summary": "Article URL: https://arxiv.org/abs/2604.01110 Comments URL: https://news.ycombinator.com/item?id=47657271 Points: 3 # Comments: 0",
-      "url": "https://arxiv.org/abs/2604.01110",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-04-06T05:22:36+00:00"
-    },
-    {
-      "title": "Can your AI rewrite your code in assembly?",
-      "summary": "Article URL: https://lemire.me/blog/2026/04/05/can-your-ai-rewrite-your-code-in-assembly/ Comments URL: https://news.ycombinator.com/item?id=47657113 Points: 2 # Comments: 0",
-      "url": "https://lemire.me/blog/2026/04/05/can-your-ai-rewrite-your-code-in-assembly/",
-      "image": "https://lemire.me/blog/wp-content/uploads/2026/04/Capture-decran-le-2026-04-05-a-17.13.58-1024x589.png",
-      "date": "2026-04-06T04:48:44+00:00"
-    },
-    {
-      "title": "Stop Pushing AI Generated Code to Git",
-      "summary": "Article URL: https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git Comments URL: https://news.ycombinator.com/item?id=47656941 Points: 4 # Comments: 2",
-      "url": "https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git",
-      "image": "https://blog.tombert.com/Posts/Technical/2026/04-April/Stop-Pushing-AI-Generated-Code-to-Git-og-image.webp",
-      "date": "2026-04-06T04:15:59+00:00"
-    },
-    {
-      "title": "Eight years of wanting, three months of building with AI",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/5/building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47656897 Points: 1 # Comments: 1",
-      "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
+      "title": "Mark Zuckerberg's turbulent bet on AI",
+      "summary": "Article URL: https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08 Comments URL: https://news.ycombinator.com/item?id=47670665 Points: 4 # Comments: 0",
+      "url": "https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08",
       "image": "",
-      "date": "2026-04-06T04:09:41+00:00"
+      "date": "2026-04-07T04:10:32+00:00"
     },
     {
-      "title": "AI dolls offer companionship to the elderly",
-      "summary": "Article URL: https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd Comments URL: https://news.ycombinator.com/item?id=47656776 Points: 4 # Comments: 0",
-      "url": "https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd",
-      "image": "",
-      "date": "2026-04-06T03:48:22+00:00"
-    },
-    {
-      "title": "Block's Mesh-LLM Is Building a Decentralized AI Compute Network",
-      "summary": "Article URL: https://www.gizmoweek.com/block-mesh-llm/ Comments URL: https://news.ycombinator.com/item?id=47656760 Points: 2 # Comments: 0",
-      "url": "https://www.gizmoweek.com/block-mesh-llm/",
-      "image": "",
-      "date": "2026-04-06T03:45:15+00:00"
-    },
-    {
-      "title": "Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",
-      "summary": "Article URL: https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/ Comments URL: https://news.ycombinator.com/item?id=47656678 Points: 8 # Comments: 0",
-      "url": "https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/",
-      "image": "",
-      "date": "2026-04-06T03:31:58+00:00"
+      "title": "Google AI Edge Eloquent (iOS)",
+      "summary": "Article URL: https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519 Comments URL: https://news.ycombinator.com/item?id=47670641 Points: 2 # Comments: 1",
+      "url": "https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/8f/63/048f63b0-12fc-af14-14d2-250847490cfd/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-04-07T04:05:51+00:00"
     }
   ]
 }
