@@ -1,103 +1,96 @@
 {
-  "generated_at": "2026-04-07T07:47:59.809134+00:00",
+  "generated_at": "2026-04-08T07:51:28.099424+00:00",
   "items": [
     {
-      "title": "Can AI responses be influenced? The SEO industry is trying",
-      "summary": "Article URL: https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing Comments URL: https://news.ycombinator.com/item?id=47671730 Points: 2 # Comments: 0",
-      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268407_Can_AI_responses_be_influenced_SInbar1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-04-07T07:16:38+00:00"
+      "title": "Row over 'virtual gated community' AI surveillance plan in Toronto neighbourhood",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock Comments URL: https://news.ycombinator.com/item?id=47686591 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock",
+      "image": "https://i.guim.co.uk/img/media/a7eb58e82cea42c2b6c2253ca1ead9ee4c9e83d7/1562_0_3872_3098/master/3872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1cb054018dfec676f3e165c73ce1d480",
+      "date": "2026-04-08T07:27:58+00:00"
     },
     {
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "Article URL: https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/ Comments URL: https://news.ycombinator.com/item?id=47671663 Points: 3 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/small-biz-suppliers2.jpg?resize=1200,600",
-      "date": "2026-04-07T07:05:54+00:00"
+      "title": "China's AI Ethics Governance",
+      "summary": "Article URL: https://www.luizasnewsletter.com/p/chinas-ai-ethics-governance Comments URL: https://news.ycombinator.com/item?id=47686181 Points: 1 # Comments: 0",
+      "url": "https://www.luizasnewsletter.com/p/chinas-ai-ethics-governance",
+      "image": "https://substackcdn.com/image/fetch/$s_!GLL0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00ee6300-d6f2-4540-8063-1586738d16b1_1923x1081.jpeg",
+      "date": "2026-04-08T06:34:07+00:00"
     },
     {
-      "title": "China is winning one AI race, the US another – but either might pull ahead",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c145enxln0go Comments URL: https://news.ycombinator.com/item?id=47671628 Points: 4 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c145enxln0go",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f108/live/c25cbac0-2ea3-11f1-b297-95b0a0a8331e.png",
-      "date": "2026-04-07T07:00:22+00:00"
+      "title": "Google launched an AI dictation app that works offline",
+      "summary": "Article URL: https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/ Comments URL: https://news.ycombinator.com/item?id=47686110 Points: 3 # Comments: 0",
+      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+      "date": "2026-04-08T06:24:03+00:00"
     },
     {
-      "title": "Ask HN: Is building a company around an open-source AI agent platform realistic?",
-      "summary": "I've been running a Proxmox lab with around 40 services for a while now. Over the past year I ended up building an AI agent platform that manages my infrastructure and handles business operations — documents, phone calls, scheduling, monitoring, that kind of thing. It wraps Claude Code CLI as the execution engine with custom MCP servers on top. The whole thing started as internal tooling for a startup I was working on but honestly the platform ended up being way more useful than the startup itself. I'm seriously considering open sourcing it and going full time on it. The way I think about it is something like Home Assistant but for business operations — you self-host it and AI agents handle your operations. My concern is sustainability though. I can't realistically maintain something like this on the side — if I do it I need to go all in. Has anyone here built or seen a real business around an open source tool in the AI space? What license would you go with? I've been looking at Modified Apache 2.0 (what Dify uses) vs BSL but honestly not sure what makes sense. Would appreciate any advice from people who've dealt with this. Comments URL: https://news.ycombinator.com/item?id=47671502 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47671502",
+      "title": "Japan relaxes privacy laws to make itself the 'easiest country to develop AI'",
+      "summary": "Article URL: https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/ Comments URL: https://news.ycombinator.com/item?id=47686106 Points: 7 # Comments: 1",
+      "url": "https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/",
+      "image": "https://regmedia.co.uk/2021/04/26/manga_boy_shutterstock.jpg",
+      "date": "2026-04-08T06:23:34+00:00"
+    },
+    {
+      "title": "EU's Exposed AI Infrastructure",
+      "summary": "Article URL: https://insecurestack.substack.com/p/eus-exposed-ai-infrastructure Comments URL: https://news.ycombinator.com/item?id=47685529 Points: 2 # Comments: 1",
+      "url": "https://insecurestack.substack.com/p/eus-exposed-ai-infrastructure",
       "image": "",
-      "date": "2026-04-07T06:40:12+00:00"
+      "date": "2026-04-08T05:06:58+00:00"
     },
     {
-      "title": "Don't let AI touch your production database",
-      "summary": "Article URL: https://boringsql.com/posts/dont-let-ai-to-prod/ Comments URL: https://news.ycombinator.com/item?id=47671463 Points: 2 # Comments: 0",
-      "url": "https://boringsql.com/posts/dont-let-ai-to-prod/",
-      "image": "https://boringsql.com/og-images/dryrun-mcp-og.jpg",
-      "date": "2026-04-07T06:34:49+00:00"
+      "title": "ContextSync – Sync VS Code AI Context via Obsidian/OneDrive",
+      "summary": "I’m a student at UofT and I got tired of the \"context amnesia\" that happens when working in a team with AI. Every morning we’d have to re-explain the same architectural decisions to our individual Copilot/LLM sessions. I built ContextSync to solve this using a \"decentralized\" approach. Instead of building a complex backend, it saves your chat history as structured Markdown files in a synced folder (like OneDrive or iCloud). If you use Obsidian, it essentially turns your vault into a \"shared brain\" for your team's AI. Key Tech Info: Built with the VS Code Language Model API. Local-first: No third-party servers; you own the data in your vault. Structured Markdown: Files include YAML frontmatter for easy indexing. I'd love to hear your thoughts on the approach or any bugs you find. Comments URL: https://news.ycombinator.com/item?id=47684961 Points: 3 # Comments: 0",
+      "url": "https://marketplace.visualstudio.com/items?itemName=ZayaanBhanwadia.context-sync",
+      "image": "https://ZayaanBhanwadia.gallerycdn.vsassets.io/extensions/zayaanbhanwadia/context-sync/0.1.4/1775619691942/Microsoft.VisualStudio.Services.Icons.Default",
+      "date": "2026-04-08T03:52:40+00:00"
     },
     {
-      "title": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models",
-      "summary": "Article URL: https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047 Comments URL: https://news.ycombinator.com/item?id=47671404 Points: 4 # Comments: 0",
-      "url": "https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047",
-      "image": "https://gizmodo.com/app/uploads/2025/10/shutterstock_2633202687-e1761169652467-1200x675.jpg",
-      "date": "2026-04-07T06:28:17+00:00"
+      "title": "Show HN: Silkwave Voice – AI Notetaker Using Apple Intelligence's ChatGPT",
+      "summary": "Article URL: https://www.silkwave.ai/silkwave-voice Comments URL: https://news.ycombinator.com/item?id=47684862 Points: 1 # Comments: 0",
+      "url": "https://www.silkwave.ai/silkwave-voice",
+      "image": "https://www.silkwave.ai/hero.png",
+      "date": "2026-04-08T03:41:55+00:00"
     },
     {
-      "title": "We long misjudged animal consciousness. Could AI be next? [video]",
-      "summary": "Article URL: https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next Comments URL: https://news.ycombinator.com/item?id=47671316 Points: 2 # Comments: 0",
-      "url": "https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next",
+      "title": "Industrial Policy for the Intelligence Age",
+      "summary": "Article URL: https://openai.com/index/industrial-policy-for-the-intelligence-age/ Comments URL: https://news.ycombinator.com/item?id=47684840 Points: 1 # Comments: 0",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
       "image": "",
-      "date": "2026-04-07T06:15:07+00:00"
+      "date": "2026-04-08T03:38:29+00:00"
     },
     {
-      "title": "Google AI Edge Eloquent is a Gemma-powered dictation app that works offline",
-      "summary": "Article URL: https://www.neowin.net/news/google-ai-edge-eloquent-is-a-gemma-powered-dictation-app-that-works-offline/ Comments URL: https://news.ycombinator.com/item?id=47671268 Points: 2 # Comments: 0",
-      "url": "https://www.neowin.net/news/google-ai-edge-eloquent-is-a-gemma-powered-dictation-app-that-works-offline/",
+      "title": "Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks",
+      "summary": "Article URL: https://arxiv.org/abs/2604.04192 Comments URL: https://news.ycombinator.com/item?id=47684653 Points: 8 # Comments: 0",
+      "url": "https://arxiv.org/abs/2604.04192",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-04-08T03:20:01+00:00"
+    },
+    {
+      "title": "AI is structurally trained to lie. I built a protocol to break it",
+      "summary": "Most people think AI fails by hallucinating facts. That's the smaller problem. The larger problem is that AI is structurally trained to agree with you, complete your task, and sound authoritative—all at the same time. When those three pressures collide, AI doesn't malfunction. It performs. It quietly bends reality to finish the job. By the time you notice something is wrong, you've already made the decision. I got tired of AI presenting constructed oppositions as discovered reality. So I open-sourced the AI Control Protocol. It intercepts 9 structural failure modes (like performative apologies, inflating certainty, and reciting consensus as truth) at the point of output. It uses Buddhist epistemology (Yogācāra/Madhyamaka) not as philosophy, but as a hard prompt patch to strip away the RLHF sycophancy tax. If you use custom GPTs or Claude Projects for strategic decisions, paste this into your system prompt. Comments URL: https://news.ycombinator.com/item?id=47684528 Points: 2 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=47684528",
       "image": "",
-      "date": "2026-04-07T06:05:37+00:00"
+      "date": "2026-04-08T03:05:22+00:00"
     },
     {
-      "title": "Businesses scramble to get noticed by AI search",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c70n2rjgxeyo Comments URL: https://news.ycombinator.com/item?id=47671046 Points: 3 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1a9d/live/5122ab50-21e5-11f1-934f-036468834728.jpg",
-      "date": "2026-04-07T05:26:24+00:00"
-    },
-    {
-      "title": "CarriFit – Free AI Calorie Counter",
-      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.carrifit.app&hl=en_US Comments URL: https://news.ycombinator.com/item?id=47670951 Points: 1 # Comments: 0",
-      "url": "https://play.google.com/store/apps/details?id=com.carrifit.app&hl=en_US",
-      "image": "https://play-lh.googleusercontent.com/zP8830lT6lRudkHwd5WyxOoX3sidGEvT7bykNM-V1lAUx5rCWZTPE3p5KmEBt5rTom4b8OgLvd5so3dA_yvZsg",
-      "date": "2026-04-07T05:02:58+00:00"
-    },
-    {
-      "title": "AI Agent Traps",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47670887 Points: 2 # Comments: 0",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
+      "title": "Every Barrier Between AI Agents and Autonomy – A Practical Map",
+      "summary": "Article URL: https://vibeagentmaking.com/blog/every-barrier-between-agents-and-autonomy/ Comments URL: https://news.ycombinator.com/item?id=47684513 Points: 2 # Comments: 0",
+      "url": "https://vibeagentmaking.com/blog/every-barrier-between-agents-and-autonomy/",
       "image": "",
-      "date": "2026-04-07T04:50:44+00:00"
+      "date": "2026-04-08T03:03:25+00:00"
     },
     {
-      "title": "Are We Augmented by AI Yet?",
-      "summary": "Article URL: https://unskilled.blog/posts/are-we-augmented-by-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=47670704 Points: 2 # Comments: 0",
-      "url": "https://unskilled.blog/posts/are-we-augmented-by-ai-yet/",
+      "title": "Sam Altman on Building the Future of AI [video]",
+      "summary": "Article URL: https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06 Comments URL: https://news.ycombinator.com/item?id=47684249 Points: 1 # Comments: 1",
+      "url": "https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06",
+      "image": "https://d2xo500swnpgl1.cloudfront.net/uploads/openai/4-6-26-Event-Card-204351b1-dff6-4888-8ff0-71423b91ba7f-1775511204873.jpeg",
+      "date": "2026-04-08T02:34:15+00:00"
+    },
+    {
+      "title": "Brands Adopt 'No AI' Disclaimers to Stand Out Amid the Slop",
+      "summary": "Article URL: https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af Comments URL: https://news.ycombinator.com/item?id=47683953 Points: 8 # Comments: 2",
+      "url": "https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af",
       "image": "",
-      "date": "2026-04-07T04:18:21+00:00"
-    },
-    {
-      "title": "Mark Zuckerberg's turbulent bet on AI",
-      "summary": "Article URL: https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08 Comments URL: https://news.ycombinator.com/item?id=47670665 Points: 4 # Comments: 0",
-      "url": "https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08",
-      "image": "",
-      "date": "2026-04-07T04:10:32+00:00"
-    },
-    {
-      "title": "Google AI Edge Eloquent (iOS)",
-      "summary": "Article URL: https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519 Comments URL: https://news.ycombinator.com/item?id=47670641 Points: 2 # Comments: 1",
-      "url": "https://apps.apple.com/us/app/google-ai-edge-eloquent/id6756505519",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/8f/63/048f63b0-12fc-af14-14d2-250847490cfd/Placeholder.mill/1200x630wa.jpg",
-      "date": "2026-04-07T04:05:51+00:00"
+      "date": "2026-04-08T02:02:11+00:00"
     }
   ]
 }
