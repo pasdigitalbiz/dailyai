@@ -1,96 +1,103 @@
 {
-  "generated_at": "2026-04-08T07:51:28.099424+00:00",
+  "generated_at": "2026-04-09T07:53:39.139222+00:00",
   "items": [
     {
-      "title": "Row over 'virtual gated community' AI surveillance plan in Toronto neighbourhood",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock Comments URL: https://news.ycombinator.com/item?id=47686591 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock",
-      "image": "https://i.guim.co.uk/img/media/a7eb58e82cea42c2b6c2253ca1ead9ee4c9e83d7/1562_0_3872_3098/master/3872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1cb054018dfec676f3e165c73ce1d480",
-      "date": "2026-04-08T07:27:58+00:00"
-    },
-    {
-      "title": "China's AI Ethics Governance",
-      "summary": "Article URL: https://www.luizasnewsletter.com/p/chinas-ai-ethics-governance Comments URL: https://news.ycombinator.com/item?id=47686181 Points: 1 # Comments: 0",
-      "url": "https://www.luizasnewsletter.com/p/chinas-ai-ethics-governance",
-      "image": "https://substackcdn.com/image/fetch/$s_!GLL0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00ee6300-d6f2-4540-8063-1586738d16b1_1923x1081.jpeg",
-      "date": "2026-04-08T06:34:07+00:00"
-    },
-    {
-      "title": "Google launched an AI dictation app that works offline",
-      "summary": "Article URL: https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/ Comments URL: https://news.ycombinator.com/item?id=47686110 Points: 3 # Comments: 0",
-      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-      "date": "2026-04-08T06:24:03+00:00"
-    },
-    {
-      "title": "Japan relaxes privacy laws to make itself the 'easiest country to develop AI'",
-      "summary": "Article URL: https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/ Comments URL: https://news.ycombinator.com/item?id=47686106 Points: 7 # Comments: 1",
-      "url": "https://www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/",
-      "image": "https://regmedia.co.uk/2021/04/26/manga_boy_shutterstock.jpg",
-      "date": "2026-04-08T06:23:34+00:00"
-    },
-    {
-      "title": "EU's Exposed AI Infrastructure",
-      "summary": "Article URL: https://insecurestack.substack.com/p/eus-exposed-ai-infrastructure Comments URL: https://news.ycombinator.com/item?id=47685529 Points: 2 # Comments: 1",
-      "url": "https://insecurestack.substack.com/p/eus-exposed-ai-infrastructure",
+      "title": "Ask HN: What are you building that's not AI related?",
+      "summary": "I don't have anything against AI, but HN (and everywhere else) seems to be drowning in AI atm. Seems like every man and his dog is building an AI agent harness. And power to you (and your dog) if that's you. But it would be refreshing to hear about some non AI related projects people are working on. Comments URL: https://news.ycombinator.com/item?id=47700460 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47700460",
       "image": "",
-      "date": "2026-04-08T05:06:58+00:00"
+      "date": "2026-04-09T07:39:47+00:00"
     },
     {
-      "title": "ContextSync – Sync VS Code AI Context via Obsidian/OneDrive",
-      "summary": "I’m a student at UofT and I got tired of the \"context amnesia\" that happens when working in a team with AI. Every morning we’d have to re-explain the same architectural decisions to our individual Copilot/LLM sessions. I built ContextSync to solve this using a \"decentralized\" approach. Instead of building a complex backend, it saves your chat history as structured Markdown files in a synced folder (like OneDrive or iCloud). If you use Obsidian, it essentially turns your vault into a \"shared brain\" for your team's AI. Key Tech Info: Built with the VS Code Language Model API. Local-first: No third-party servers; you own the data in your vault. Structured Markdown: Files include YAML frontmatter for easy indexing. I'd love to hear your thoughts on the approach or any bugs you find. Comments URL: https://news.ycombinator.com/item?id=47684961 Points: 3 # Comments: 0",
-      "url": "https://marketplace.visualstudio.com/items?itemName=ZayaanBhanwadia.context-sync",
-      "image": "https://ZayaanBhanwadia.gallerycdn.vsassets.io/extensions/zayaanbhanwadia/context-sync/0.1.4/1775619691942/Microsoft.VisualStudio.Services.Icons.Default",
-      "date": "2026-04-08T03:52:40+00:00"
+      "title": "AI company's breached biometrics, ID document images make deepfake fraud easier",
+      "summary": "Article URL: https://www.biometricupdate.com/202604/ai-companys-breached-biometrics-id-document-images-make-deepfake-fraud-easier Comments URL: https://news.ycombinator.com/item?id=47700445 Points: 1 # Comments: 0",
+      "url": "https://www.biometricupdate.com/202604/ai-companys-breached-biometrics-id-document-images-make-deepfake-fraud-easier",
+      "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/06131842/data-leak-scaled.jpg",
+      "date": "2026-04-09T07:37:53+00:00"
     },
     {
-      "title": "Show HN: Silkwave Voice – AI Notetaker Using Apple Intelligence's ChatGPT",
-      "summary": "Article URL: https://www.silkwave.ai/silkwave-voice Comments URL: https://news.ycombinator.com/item?id=47684862 Points: 1 # Comments: 0",
-      "url": "https://www.silkwave.ai/silkwave-voice",
-      "image": "https://www.silkwave.ai/hero.png",
-      "date": "2026-04-08T03:41:55+00:00"
-    },
-    {
-      "title": "Industrial Policy for the Intelligence Age",
-      "summary": "Article URL: https://openai.com/index/industrial-policy-for-the-intelligence-age/ Comments URL: https://news.ycombinator.com/item?id=47684840 Points: 1 # Comments: 0",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
+      "title": "New problem: AI finds too many bugs",
+      "summary": "Article URL: https://etn.se/73048 Comments URL: https://news.ycombinator.com/item?id=47700400 Points: 2 # Comments: 3",
+      "url": "https://etn.se/73048",
       "image": "",
-      "date": "2026-04-08T03:38:29+00:00"
+      "date": "2026-04-09T07:29:36+00:00"
     },
     {
-      "title": "Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks",
-      "summary": "Article URL: https://arxiv.org/abs/2604.04192 Comments URL: https://news.ycombinator.com/item?id=47684653 Points: 8 # Comments: 0",
-      "url": "https://arxiv.org/abs/2604.04192",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-04-08T03:20:01+00:00"
-    },
-    {
-      "title": "AI is structurally trained to lie. I built a protocol to break it",
-      "summary": "Most people think AI fails by hallucinating facts. That's the smaller problem. The larger problem is that AI is structurally trained to agree with you, complete your task, and sound authoritative—all at the same time. When those three pressures collide, AI doesn't malfunction. It performs. It quietly bends reality to finish the job. By the time you notice something is wrong, you've already made the decision. I got tired of AI presenting constructed oppositions as discovered reality. So I open-sourced the AI Control Protocol. It intercepts 9 structural failure modes (like performative apologies, inflating certainty, and reciting consensus as truth) at the point of output. It uses Buddhist epistemology (Yogācāra/Madhyamaka) not as philosophy, but as a hard prompt patch to strip away the RLHF sycophancy tax. If you use custom GPTs or Claude Projects for strategic decisions, paste this into your system prompt. Comments URL: https://news.ycombinator.com/item?id=47684528 Points: 2 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=47684528",
+      "title": "One Million Prompt – $1 per block, AI generates collective art daily",
+      "summary": "In 2005, Alex Tew sold 1 million pixels for $1 each and made internet history. In 2026, I built the AI version — One Million Prompt. Every block holds an AI prompt. Every day, all prompts combine into one collective artwork generated by AI. 4 blocks claimed so far. 999,996 left. https://onemillionprompt.com Also launching today on Product Hunt: https://www.producthunt.com/posts/one-million-prompt Comments URL: https://news.ycombinator.com/item?id=47700353 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47700353",
       "image": "",
-      "date": "2026-04-08T03:05:22+00:00"
+      "date": "2026-04-09T07:21:31+00:00"
     },
     {
-      "title": "Every Barrier Between AI Agents and Autonomy – A Practical Map",
-      "summary": "Article URL: https://vibeagentmaking.com/blog/every-barrier-between-agents-and-autonomy/ Comments URL: https://news.ycombinator.com/item?id=47684513 Points: 2 # Comments: 0",
-      "url": "https://vibeagentmaking.com/blog/every-barrier-between-agents-and-autonomy/",
+      "title": "The silent coup: How AI captured Westminster",
+      "summary": "Article URL: https://www.newstatesman.com/technology/2026/04/the-silent-coup Comments URL: https://news.ycombinator.com/item?id=47700111 Points: 2 # Comments: 0",
+      "url": "https://www.newstatesman.com/technology/2026/04/the-silent-coup",
+      "image": "https://dl6pgk4f88hky.cloudfront.net/2026/04/08/202615willai-800x418.jpg?1775718030",
+      "date": "2026-04-09T06:46:19+00:00"
+    },
+    {
+      "title": "AI Cybersecurity After Mythos: The Jagged Frontier",
+      "summary": "Article URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier Comments URL: https://news.ycombinator.com/item?id=47699963 Points: 4 # Comments: 1",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "image": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp",
+      "date": "2026-04-09T06:24:36+00:00"
+    },
+    {
+      "title": "One Engineer, One AI, One Week: Cloudflare Just Rebuilt Next.js",
+      "summary": "Article URL: https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare Comments URL: https://news.ycombinator.com/item?id=47699750 Points: 1 # Comments: 0",
+      "url": "https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare",
+      "image": "https://substackcdn.com/image/fetch/$s_!gJLy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F573a9abc-4931-4448-a4fa-cf72459f7d57_2400x1260.png",
+      "date": "2026-04-09T05:48:08+00:00"
+    },
+    {
+      "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/8/muse-spark/ Comments URL: https://news.ycombinator.com/item?id=47699703 Points: 2 # Comments: 0",
+      "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
+      "image": "https://static.simonwillison.net/static/2026/muse-spark-thinking-pelican.png",
+      "date": "2026-04-09T05:42:31+00:00"
+    },
+    {
+      "title": "Show HN: Local browser extension, scans ToS with regex, no AI",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/fine-print/bhelaaijhcacllnmdlmflcjemdofpjml Comments URL: https://news.ycombinator.com/item?id=47699670 Points: 2 # Comments: 1",
+      "url": "https://chromewebstore.google.com/detail/fine-print/bhelaaijhcacllnmdlmflcjemdofpjml",
+      "image": "https://lh3.googleusercontent.com/ItPCO7Fl4LqO0hBKEbdyhtNPY6BvEgOyvw7kNJcvtGqyx4Gp-gvMHom0Sud4p_yVWiqZ5REBkVOxzLObtPZRXjeAhg=s128-rj-sc0x00ffffff",
+      "date": "2026-04-09T05:37:01+00:00"
+    },
+    {
+      "title": "Writers Guild Deal: $321M Health Plan Infusion, Residuals, AI Licensing Language",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/writers-contract-deal-321m-health-plan-infusion-1236556126/ Comments URL: https://news.ycombinator.com/item?id=47699578 Points: 1 # Comments: 0",
+      "url": "https://www.hollywoodreporter.com/business/business-news/writers-contract-deal-321m-health-plan-infusion-1236556126/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-1700864074-H-2026.jpg?w=1296&h=730&crop=1",
+      "date": "2026-04-09T05:21:09+00:00"
+    },
+    {
+      "title": "America's AI Build-Out Hinges on Chinese Electrical Parts",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports Comments URL: https://news.ycombinator.com/item?id=47699554 Points: 5 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports",
       "image": "",
-      "date": "2026-04-08T03:03:25+00:00"
+      "date": "2026-04-09T05:18:05+00:00"
     },
     {
-      "title": "Sam Altman on Building the Future of AI [video]",
-      "summary": "Article URL: https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06 Comments URL: https://news.ycombinator.com/item?id=47684249 Points: 1 # Comments: 1",
-      "url": "https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06",
-      "image": "https://d2xo500swnpgl1.cloudfront.net/uploads/openai/4-6-26-Event-Card-204351b1-dff6-4888-8ff0-71423b91ba7f-1775511204873.jpeg",
-      "date": "2026-04-08T02:34:15+00:00"
+      "title": "Anthropics Mythos Model Sparks Fears of AI Doomsday",
+      "summary": "Article URL: https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/ Comments URL: https://news.ycombinator.com/item?id=47699531 Points: 2 # Comments: 1",
+      "url": "https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125251021.jpg?quality=75&strip=all&w=1200",
+      "date": "2026-04-09T05:14:37+00:00"
     },
     {
-      "title": "Brands Adopt 'No AI' Disclaimers to Stand Out Amid the Slop",
-      "summary": "Article URL: https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af Comments URL: https://news.ycombinator.com/item?id=47683953 Points: 8 # Comments: 2",
-      "url": "https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af",
+      "title": "The Usefulness of AI Agents",
+      "summary": "Article URL: https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html Comments URL: https://news.ycombinator.com/item?id=47699460 Points: 1 # Comments: 1",
+      "url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
       "image": "",
-      "date": "2026-04-08T02:02:11+00:00"
+      "date": "2026-04-09T05:03:38+00:00"
+    },
+    {
+      "title": "AI #163: Mythos Quest",
+      "summary": "Article URL: https://thezvi.substack.com/p/ai-163-mythos-quest Comments URL: https://news.ycombinator.com/item?id=47699363 Points: 1 # Comments: 0",
+      "url": "https://thezvi.substack.com/p/ai-163-mythos-quest",
+      "image": "",
+      "date": "2026-04-09T04:45:39+00:00"
     }
   ]
 }
