@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-04-09T07:53:39.139222+00:00",
+  "generated_at": "2026-04-10T07:57:45.420867+00:00",
   "items": [
     {
-      "title": "Ask HN: What are you building that's not AI related?",
-      "summary": "I don't have anything against AI, but HN (and everywhere else) seems to be drowning in AI atm. Seems like every man and his dog is building an AI agent harness. And power to you (and your dog) if that's you. But it would be refreshing to hear about some non AI related projects people are working on. Comments URL: https://news.ycombinator.com/item?id=47700460 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47700460",
+      "title": "Agentic AI in 2026: Who's building real systems?",
+      "summary": "Article URL: https://simplai.ai/blogs/what-is-enterprise-ai/ Comments URL: https://news.ycombinator.com/item?id=47714749 Points: 2 # Comments: 0",
+      "url": "https://simplai.ai/blogs/what-is-enterprise-ai/",
+      "image": "https://simplai.ai/blogs/content/images/2026/04/WHAT-IS-ENTERPRISE-AI-A-Complete-2026-Guide.jpg",
+      "date": "2026-04-10T07:25:31+00:00"
+    },
+    {
+      "title": "The Model Is Not the Product: Harnesses Will Define the Next Phase of AI",
+      "summary": "Article URL: https://www.mountaineagle.net/articles/display/the-model-is-not-the-product-harnesses-not-intelligence-will-define-the-next-phase-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47714658 Points: 2 # Comments: 0",
+      "url": "https://www.mountaineagle.net/articles/display/the-model-is-not-the-product-harnesses-not-intelligence-will-define-the-next-phase-of-ai/",
+      "image": "https:\\/\\/www.mountaineagle.net/assets/images/articles/the-model-is-not-the-product-harnesses-not-intelligence-will-define-the-next-phase-of-ai.png",
+      "date": "2026-04-10T07:13:23+00:00"
+    },
+    {
+      "title": "How HN: $2/Day AI – How we run an autonomous agent on a hard budget",
+      "summary": "Article URL: https://www.veltrixcollective.com/research/cost-first-agent-architecture Comments URL: https://news.ycombinator.com/item?id=47714558 Points: 3 # Comments: 0",
+      "url": "https://www.veltrixcollective.com/research/cost-first-agent-architecture",
       "image": "",
-      "date": "2026-04-09T07:39:47+00:00"
+      "date": "2026-04-10T07:02:17+00:00"
     },
     {
-      "title": "AI company's breached biometrics, ID document images make deepfake fraud easier",
-      "summary": "Article URL: https://www.biometricupdate.com/202604/ai-companys-breached-biometrics-id-document-images-make-deepfake-fraud-easier Comments URL: https://news.ycombinator.com/item?id=47700445 Points: 1 # Comments: 0",
-      "url": "https://www.biometricupdate.com/202604/ai-companys-breached-biometrics-id-document-images-make-deepfake-fraud-easier",
-      "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/06131842/data-leak-scaled.jpg",
-      "date": "2026-04-09T07:37:53+00:00"
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "summary": "Article URL: https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/ Comments URL: https://news.ycombinator.com/item?id=47714556 Points: 1 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?resize=1200,600",
+      "date": "2026-04-10T07:02:06+00:00"
     },
     {
-      "title": "New problem: AI finds too many bugs",
-      "summary": "Article URL: https://etn.se/73048 Comments URL: https://news.ycombinator.com/item?id=47700400 Points: 2 # Comments: 3",
-      "url": "https://etn.se/73048",
+      "title": "Gen Z workers are intentionally sabotaging their company's AI rollout",
+      "summary": "Article URL: https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/ Comments URL: https://news.ycombinator.com/item?id=47714423 Points: 6 # Comments: 0",
+      "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2203399905-e1775661971259.jpg?resize=1200,600",
+      "date": "2026-04-10T06:46:06+00:00"
+    },
+    {
+      "title": "Are You Managing Your AI, or Is Your AI Managing You?",
+      "summary": "Article URL: https://octigen.com/blog/posts/2026-04-07-whos-boss/ Comments URL: https://news.ycombinator.com/item?id=47714362 Points: 1 # Comments: 0",
+      "url": "https://octigen.com/blog/posts/2026-04-07-whos-boss/",
+      "image": "https://octigen.com/blog/posts/2026-04-07-whos-boss/cover.jpg",
+      "date": "2026-04-10T06:35:02+00:00"
+    },
+    {
+      "title": "Transparency and knowledge exchange in AI-assisted data analysis code generation",
+      "summary": "Article URL: https://www.nature.com/articles/s43588-025-00781-1 Comments URL: https://news.ycombinator.com/item?id=47714135 Points: 1 # Comments: 0",
+      "url": "https://www.nature.com/articles/s43588-025-00781-1",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-025-00781-1/MediaObjects/43588_2025_781_Fig1_HTML.png",
+      "date": "2026-04-10T05:52:31+00:00"
+    },
+    {
+      "title": "Vulnpocalypse: AI, Open Source, and the Race to Remediate",
+      "summary": "Article URL: https://www.resilientcyber.io/p/vulnpocalypse-ai-open-source-and Comments URL: https://news.ycombinator.com/item?id=47713840 Points: 1 # Comments: 0",
+      "url": "https://www.resilientcyber.io/p/vulnpocalypse-ai-open-source-and",
+      "image": "https://substackcdn.com/image/fetch/$s_!foq7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F611de0e1-233c-4dbe-b391-24666f7a909c_2816x1536.png",
+      "date": "2026-04-10T05:03:56+00:00"
+    },
+    {
+      "title": "Negative effects of artificial sweeteners may pass on to next generation",
+      "summary": "Article URL: https://www.eurekalert.org/news-releases/1121524 Comments URL: https://news.ycombinator.com/item?id=47713808 Points: 3 # Comments: 0",
+      "url": "https://www.eurekalert.org/news-releases/1121524",
       "image": "",
-      "date": "2026-04-09T07:29:36+00:00"
+      "date": "2026-04-10T04:58:45+00:00"
     },
     {
-      "title": "One Million Prompt – $1 per block, AI generates collective art daily",
-      "summary": "In 2005, Alex Tew sold 1 million pixels for $1 each and made internet history. In 2026, I built the AI version — One Million Prompt. Every block holds an AI prompt. Every day, all prompts combine into one collective artwork generated by AI. 4 blocks claimed so far. 999,996 left. https://onemillionprompt.com Also launching today on Product Hunt: https://www.producthunt.com/posts/one-million-prompt Comments URL: https://news.ycombinator.com/item?id=47700353 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47700353",
+      "title": "Show HN: Shell-MCP A persistent terminal for AI- CD, env vars,and nvm carry over",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47713798 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47713798",
       "image": "",
-      "date": "2026-04-09T07:21:31+00:00"
+      "date": "2026-04-10T04:56:18+00:00"
     },
     {
-      "title": "The silent coup: How AI captured Westminster",
-      "summary": "Article URL: https://www.newstatesman.com/technology/2026/04/the-silent-coup Comments URL: https://news.ycombinator.com/item?id=47700111 Points: 2 # Comments: 0",
-      "url": "https://www.newstatesman.com/technology/2026/04/the-silent-coup",
-      "image": "https://dl6pgk4f88hky.cloudfront.net/2026/04/08/202615willai-800x418.jpg?1775718030",
-      "date": "2026-04-09T06:46:19+00:00"
+      "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/ Comments URL: https://news.ycombinator.com/item?id=47713732 Points: 10 # Comments: 0",
+      "url": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2203118091-1024x648.jpg",
+      "date": "2026-04-10T04:40:34+00:00"
     },
     {
-      "title": "AI Cybersecurity After Mythos: The Jagged Frontier",
-      "summary": "Article URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier Comments URL: https://news.ycombinator.com/item?id=47699963 Points: 4 # Comments: 1",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "image": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp",
-      "date": "2026-04-09T06:24:36+00:00"
-    },
-    {
-      "title": "One Engineer, One AI, One Week: Cloudflare Just Rebuilt Next.js",
-      "summary": "Article URL: https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare Comments URL: https://news.ycombinator.com/item?id=47699750 Points: 1 # Comments: 0",
-      "url": "https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare",
-      "image": "https://substackcdn.com/image/fetch/$s_!gJLy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F573a9abc-4931-4448-a4fa-cf72459f7d57_2400x1260.png",
-      "date": "2026-04-09T05:48:08+00:00"
-    },
-    {
-      "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
-      "summary": "Article URL: https://simonwillison.net/2026/Apr/8/muse-spark/ Comments URL: https://news.ycombinator.com/item?id=47699703 Points: 2 # Comments: 0",
-      "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
-      "image": "https://static.simonwillison.net/static/2026/muse-spark-thinking-pelican.png",
-      "date": "2026-04-09T05:42:31+00:00"
-    },
-    {
-      "title": "Show HN: Local browser extension, scans ToS with regex, no AI",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/fine-print/bhelaaijhcacllnmdlmflcjemdofpjml Comments URL: https://news.ycombinator.com/item?id=47699670 Points: 2 # Comments: 1",
-      "url": "https://chromewebstore.google.com/detail/fine-print/bhelaaijhcacllnmdlmflcjemdofpjml",
-      "image": "https://lh3.googleusercontent.com/ItPCO7Fl4LqO0hBKEbdyhtNPY6BvEgOyvw7kNJcvtGqyx4Gp-gvMHom0Sud4p_yVWiqZ5REBkVOxzLObtPZRXjeAhg=s128-rj-sc0x00ffffff",
-      "date": "2026-04-09T05:37:01+00:00"
-    },
-    {
-      "title": "Writers Guild Deal: $321M Health Plan Infusion, Residuals, AI Licensing Language",
-      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/writers-contract-deal-321m-health-plan-infusion-1236556126/ Comments URL: https://news.ycombinator.com/item?id=47699578 Points: 1 # Comments: 0",
-      "url": "https://www.hollywoodreporter.com/business/business-news/writers-contract-deal-321m-health-plan-infusion-1236556126/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-1700864074-H-2026.jpg?w=1296&h=730&crop=1",
-      "date": "2026-04-09T05:21:09+00:00"
-    },
-    {
-      "title": "America's AI Build-Out Hinges on Chinese Electrical Parts",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports Comments URL: https://news.ycombinator.com/item?id=47699554 Points: 5 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/features/2026-04-01/us-ai-data-center-expansion-relies-on-chinese-electrical-equipment-imports",
+      "title": "Scaling AI is now constrained by energy, cooling and physics",
+      "summary": "Article URL: https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/ Comments URL: https://news.ycombinator.com/item?id=47713669 Points: 2 # Comments: 2",
+      "url": "https://blog.se.com/digital-transformation/artificial-intelligence/2026/02/13/scaling-ai-in-the-real-world-how-power-cooling-and-physics-now-define-data-center-strategy/",
       "image": "",
-      "date": "2026-04-09T05:18:05+00:00"
+      "date": "2026-04-10T04:30:57+00:00"
     },
     {
-      "title": "Anthropics Mythos Model Sparks Fears of AI Doomsday",
-      "summary": "Article URL: https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/ Comments URL: https://news.ycombinator.com/item?id=47699531 Points: 2 # Comments: 1",
-      "url": "https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125251021.jpg?quality=75&strip=all&w=1200",
-      "date": "2026-04-09T05:14:37+00:00"
-    },
-    {
-      "title": "The Usefulness of AI Agents",
-      "summary": "Article URL: https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html Comments URL: https://news.ycombinator.com/item?id=47699460 Points: 1 # Comments: 1",
-      "url": "https://erikjohannes.no/posts/20260408-on-the-usefulness-of-ai-agents/index.html",
+      "title": "A few thoughs about AI videos",
+      "summary": "For the past few months I've created lots of videos using AI. Most of them are 3d animal short stories.\nGot 650k followers in Tiktok. \nAn interesting finding:\nFor image generation, gemini's nano banana is the king. All other models are just good to be the followers...\nFor video generation, there are many choices, veo3 is a good choice, sora2 was once the king but \"dead\" now... models from china like alibaba/bytedance/kling are evolving quickly, especially seedance 2.0 - which is considered a GPT-moment in video generation. Anyone here works with AI videos too? Comments URL: https://news.ycombinator.com/item?id=47713279 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47713279",
       "image": "",
-      "date": "2026-04-09T05:03:38+00:00"
+      "date": "2026-04-10T03:31:47+00:00"
     },
     {
-      "title": "AI #163: Mythos Quest",
-      "summary": "Article URL: https://thezvi.substack.com/p/ai-163-mythos-quest Comments URL: https://news.ycombinator.com/item?id=47699363 Points: 1 # Comments: 0",
-      "url": "https://thezvi.substack.com/p/ai-163-mythos-quest",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "summary": "Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=47713167 Points: 2 # Comments: 0",
+      "url": "https://openjdk.org/legal/ai",
       "image": "",
-      "date": "2026-04-09T04:45:39+00:00"
+      "date": "2026-04-10T03:13:20+00:00"
     }
   ]
 }
