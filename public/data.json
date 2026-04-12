@@ -1,82 +1,117 @@
 {
-  "generated_at": "2026-04-11T07:15:26.122819+00:00",
+  "generated_at": "2026-04-12T07:43:10.932636+00:00",
   "items": [
     {
-      "title": "A3: Kubernetes for autonomous AI agent fleets",
-      "summary": "Article URL: https://www.leonidasr.com/posts/a3-kubernetes-for-autonomous-ai-agent-fleets/ Comments URL: https://news.ycombinator.com/item?id=47728094 Points: 4 # Comments: 0",
-      "url": "https://www.leonidasr.com/posts/a3-kubernetes-for-autonomous-ai-agent-fleets/",
-      "image": "https://www.leonidasr.com/posts/a3-kubernetes-for-autonomous-ai-agent-fleets/index.png",
-      "date": "2026-04-11T06:41:57+00:00"
+      "title": "The Shelf Life of Intelligence",
+      "summary": "Article URL: https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47736982 Points: 1 # Comments: 1",
+      "url": "https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/",
+      "image": "/static/og-image.png",
+      "date": "2026-04-12T07:34:26+00:00"
     },
     {
-      "title": "Ramp Up AI Skills",
-      "summary": "Article URL: https://soundcloud.com/robenfarzad/deepali-vyas-the-elite Comments URL: https://news.ycombinator.com/item?id=47728092 Points: 1 # Comments: 1",
-      "url": "https://soundcloud.com/robenfarzad/deepali-vyas-the-elite",
-      "image": "https://i1.sndcdn.com/artworks-DgiVnDFjydX5ecwH-yxusdw-t500x500.png",
-      "date": "2026-04-11T06:41:52+00:00"
-    },
-    {
-      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
-      "summary": "Article URL: https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs Comments URL: https://news.ycombinator.com/item?id=47727471 Points: 2 # Comments: 0",
-      "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK149_AI_Writing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-04-11T04:41:50+00:00"
-    },
-    {
-      "title": "Unleashing the Advantage of Quantum AI",
-      "summary": "Article URL: https://quantumfrontiers.com/2026/04/09/unleashing-the-advantage-of-quantum-ai/ Comments URL: https://news.ycombinator.com/item?id=47727353 Points: 2 # Comments: 0",
-      "url": "https://quantumfrontiers.com/2026/04/09/unleashing-the-advantage-of-quantum-ai/",
-      "image": "https://quantumfrontiers.com/wp-content/uploads/2026/04/quantum-frontiers-69d522b94779b.jpg",
-      "date": "2026-04-11T04:17:21+00:00"
-    },
-    {
-      "title": "We're heading for an AI-fueled 'dementia crisis,' brain scientist warns",
-      "summary": "Article URL: https://nypost.com/2026/04/10/health/brain-scientist-warns-were-heading-for-ai-fueled-dementia-crisis/ Comments URL: https://news.ycombinator.com/item?id=47727343 Points: 7 # Comments: 1",
-      "url": "https://nypost.com/2026/04/10/health/brain-scientist-warns-were-heading-for-ai-fueled-dementia-crisis/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/crop-39038626_4d0df3.jpg?quality=75&strip=all&w=1200",
-      "date": "2026-04-11T04:16:07+00:00"
-    },
-    {
-      "title": "The AI-Assisted Breach of Mexico's Government Infrastructure [pdf]",
-      "summary": "Article URL: https://cdn.prod.website-files.com/69944dd945f20ca4a27a7c47/69d8bb5aea59e31efb3b8a7f_Tech_Report_ai_breach_mex_gov.pdf Comments URL: https://news.ycombinator.com/item?id=47727068 Points: 4 # Comments: 0",
-      "url": "https://cdn.prod.website-files.com/69944dd945f20ca4a27a7c47/69d8bb5aea59e31efb3b8a7f_Tech_Report_ai_breach_mex_gov.pdf",
+      "title": "Ask HN: Do you trust AI agents with API keys / private keys?",
+      "summary": "are you ok sharing secrets or api keys to you ai agent via .env? or is there any other tool or mechanism that one use to safegaurd from potential exploit or leaks Comments URL: https://news.ycombinator.com/item?id=47736831 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47736831",
       "image": "",
-      "date": "2026-04-11T03:30:40+00:00"
+      "date": "2026-04-12T06:57:04+00:00"
     },
     {
-      "title": "Sam Altman speaks out after alleged attack on SF home,links to rising AI anxiety",
-      "summary": "Article URL: https://www.msn.com/en-us/news/crime/sam-altman-speaks-out-after-alleged-attack-on-sf-home-links-it-to-rising-ai-anxiety/ar-AA20Bnnm Comments URL: https://news.ycombinator.com/item?id=47726776 Points: 3 # Comments: 2",
-      "url": "https://www.msn.com/en-us/news/crime/sam-altman-speaks-out-after-alleged-attack-on-sf-home-links-it-to-rising-ai-anxiety/ar-AA20Bnnm",
+      "title": "The AI Layoff Trap",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47736814 Points: 2 # Comments: 0",
+      "url": "https://arxiv.org/abs/2603.20617",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-04-12T06:53:38+00:00"
+    },
+    {
+      "title": "Frugal AI for Education",
+      "summary": "Article URL: https://www.col.org/frugal/ Comments URL: https://news.ycombinator.com/item?id=47736740 Points: 2 # Comments: 0",
+      "url": "https://www.col.org/frugal/",
       "image": "",
-      "date": "2026-04-11T02:40:10+00:00"
+      "date": "2026-04-12T06:36:57+00:00"
     },
     {
-      "title": "We gave an AI a 3-year Lease. It opened a store",
-      "summary": "Article URL: https://andonlabs.com/blog/andon-market-launch Comments URL: https://news.ycombinator.com/item?id=47726041 Points: 3 # Comments: 0",
-      "url": "https://andonlabs.com/blog/andon-market-launch",
-      "image": "https://andonlabs.com/og-image.webp",
-      "date": "2026-04-11T01:01:31+00:00"
+      "title": "Code Mode: Let Your AI Write Programs, Not Just Call Tools",
+      "summary": "Article URL: https://tanstack.com/blog/tanstack-ai-code-mode Comments URL: https://news.ycombinator.com/item?id=47736657 Points: 2 # Comments: 0",
+      "url": "https://tanstack.com/blog/tanstack-ai-code-mode",
+      "image": "https://tanstack.com/.netlify/images?url=%2Fblog-assets%2Ftanstack-ai-code-mode%2Fheader.jpg&w=1200&h=630&fit=cover&fm=jpg&q=80",
+      "date": "2026-04-12T06:20:22+00:00"
     },
     {
-      "title": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
-      "summary": "Article URL: https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html Comments URL: https://news.ycombinator.com/item?id=47725874 Points: 4 # Comments: 1",
-      "url": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
-      "image": "https://www.quippd.com/assets/images/social-previews/AI-CODE.png",
-      "date": "2026-04-11T00:44:12+00:00"
+      "title": "Show HN: I visualized how AI agent systems accidentally become org charts",
+      "summary": "Most companies deploying AI agents are accidentally building organizations. You start with one agent. It gets overwhelmed. You add more. They start routing to each other based on what works. Repeated behavior hardens into structure. Someone introduces an orchestrator to bring order. Some agents never get the memo. Some lose context when they get replaced. The orchestrator doesn't know what it doesn't know. This is what is happening in most engineering organizations right now So, I built an interactive visualization that walks through how this happens in six acts, from a single agent to a full emergent org chart. The visual starts center-out and transitions to a top-down hierarchy as structure forms. Failing agents flicker. Connections break. The orchestrator arrives and things look better than they are. The point of the piece is that the org chart your engineers could draw and the org chart that is actually operating are not the same document. Teams have the tooling to observe individual agents. Nobody has the layer that tells you what the system as a whole has decided, committed to, and authorized. Built with canvas, IntersectionObserver-driven scroll, and a layout interpolation between radial and tree positioning that transitions across acts. Has anyone here has hit the governance wall with agent systems in production and what it actually looked like when things went wrong. https://jointherevolution.today/emergence Comments URL: https://news.ycombinator.com/item?id=47736568 Points: 2 # Comments: 0",
+      "url": "https://jointherevolution.today/emergence",
+      "image": "https://jointherevolution.today/og-image.svg",
+      "date": "2026-04-12T06:01:12+00:00"
     },
     {
-      "title": "Drones, Geophysics and AI: Researchers Battle Against Land Mines (2023)",
-      "summary": "Article URL: https://news.climate.columbia.edu/2023/09/12/with-drones-geophysics-and-artificiai-intelligence-researchers-prepare-to-do-battle-against-land-mines/ Comments URL: https://news.ycombinator.com/item?id=47725454 Points: 2 # Comments: 0",
-      "url": "https://news.climate.columbia.edu/2023/09/12/with-drones-geophysics-and-artificiai-intelligence-researchers-prepare-to-do-battle-against-land-mines/",
-      "image": "https://media.news.climate.columbia.edu/wp-content/uploads/2023/08/A-637x425.jpg",
-      "date": "2026-04-10T23:52:34+00:00"
+      "title": "Intel Arc Pro B70 Brings 32GB VRAM to Local AI for $949",
+      "summary": "Article URL: https://awesomeagents.ai/news/intel-arc-pro-b70-32gb-local-inference/ Comments URL: https://news.ycombinator.com/item?id=47736529 Points: 1 # Comments: 0",
+      "url": "https://awesomeagents.ai/news/intel-arc-pro-b70-32gb-local-inference/",
+      "image": "https://awesomeagents.ai/images/news/intel-arc-pro-b70-32gb-local-inference_hu_ce3333bc7c3a9e11.jpg",
+      "date": "2026-04-12T05:55:35+00:00"
     },
     {
-      "title": "AI-Assisted Breach of Mexico's Government Infrastructure Report",
-      "summary": "Article URL: https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report Comments URL: https://news.ycombinator.com/item?id=47725419 Points: 1 # Comments: 1",
-      "url": "https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report",
-      "image": "https://cdn.prod.website-files.com/699d15905fa8481718f06229/69d8baf878a7451c38a823d8_2.png",
-      "date": "2026-04-10T23:49:14+00:00"
+      "title": "India's TCS tops estimates, says new AI models did not dent services demand",
+      "summary": "Article URL: https://www.reuters.com/world/india/indias-tcs-beats-fourth-quarter-revenue-view-2026-04-09/ Comments URL: https://news.ycombinator.com/item?id=47736480 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/world/india/indias-tcs-beats-fourth-quarter-revenue-view-2026-04-09/",
+      "image": "",
+      "date": "2026-04-12T05:46:29+00:00"
+    },
+    {
+      "title": "U.S. Intelligence Shows China Taking a More Active Role in Iran War",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html Comments URL: https://news.ycombinator.com/item?id=47736444 Points: 9 # Comments: 0",
+      "url": "https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html",
+      "image": "",
+      "date": "2026-04-12T05:38:54+00:00"
+    },
+    {
+      "title": "Gen Z's fading AI hype",
+      "summary": "Article URL: https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup Comments URL: https://news.ycombinator.com/item?id=47736388 Points: 3 # Comments: 0",
+      "url": "https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup",
+      "image": "",
+      "date": "2026-04-12T05:26:37+00:00"
+    },
+    {
+      "title": "Strong feeling: we are in a folded AI reality",
+      "summary": "Some people think Agentic AI could do everything, is getting more and more powerful even feel fear about it. Another group non-technical people still just trapped in the LLM chat is weak and full of hallucination world. Looks like AI is just a bubble and useless(a stronger search engine) The main watershed is Agentic. Comments URL: https://news.ycombinator.com/item?id=47736330 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47736330",
+      "image": "",
+      "date": "2026-04-12T05:14:36+00:00"
+    },
+    {
+      "title": "Scrum Master Interview Questions for the AI Era",
+      "summary": "Article URL: https://age-of-product.com/10-scrum-master-interview-questions-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47736185 Points: 1 # Comments: 0",
+      "url": "https://age-of-product.com/10-scrum-master-interview-questions-ai-era/",
+      "image": "",
+      "date": "2026-04-12T04:34:23+00:00"
+    },
+    {
+      "title": "The biggest advance in AI since the LLM",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=47736022 Points: 10 # Comments: 8",
+      "url": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
+      "image": "",
+      "date": "2026-04-12T03:56:36+00:00"
+    },
+    {
+      "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major US banks",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html Comments URL: https://news.ycombinator.com/item?id=47735938 Points: 7 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&w=1920&h=1080",
+      "date": "2026-04-12T03:35:43+00:00"
+    },
+    {
+      "title": "A Mac Studio for Local AI – 6 Months Later",
+      "summary": "Article URL: https://spicyneuron.substack.com/p/a-mac-studio-for-local-ai-6-months Comments URL: https://news.ycombinator.com/item?id=47735760 Points: 7 # Comments: 1",
+      "url": "https://spicyneuron.substack.com/p/a-mac-studio-for-local-ai-6-months",
+      "image": "",
+      "date": "2026-04-12T02:52:20+00:00"
+    },
+    {
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 73 # Comments: 62",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
+      "date": "2026-04-12T02:37:39+00:00"
     }
   ]
 }
