@@ -1,117 +1,110 @@
 {
-  "generated_at": "2026-04-12T07:43:10.932636+00:00",
+  "generated_at": "2026-04-13T08:21:04.302477+00:00",
   "items": [
     {
-      "title": "The Shelf Life of Intelligence",
-      "summary": "Article URL: https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=47736982 Points: 1 # Comments: 1",
-      "url": "https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/",
-      "image": "/static/og-image.png",
-      "date": "2026-04-12T07:34:26+00:00"
+      "title": "Levels of AI Adoption for Project Managers",
+      "summary": "Article URL: https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers Comments URL: https://news.ycombinator.com/item?id=47749149 Points: 1 # Comments: 0",
+      "url": "https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers",
+      "image": "https://api.locastic.com/wp-content/uploads/2026/04/kanhaiya-sharma-T_l246EK19I-unsplash-scaled.jpg",
+      "date": "2026-04-13T08:04:08+00:00"
     },
     {
-      "title": "Ask HN: Do you trust AI agents with API keys / private keys?",
-      "summary": "are you ok sharing secrets or api keys to you ai agent via .env? or is there any other tool or mechanism that one use to safegaurd from potential exploit or leaks Comments URL: https://news.ycombinator.com/item?id=47736831 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47736831",
+      "title": "Gen Z fearful AI will take their job they're sabotaging company's AI rollout",
+      "summary": "Article URL: https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/ Comments URL: https://news.ycombinator.com/item?id=47749067 Points: 2 # Comments: 1",
+      "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2203399905-e1775661971259.jpg?resize=1200,600",
+      "date": "2026-04-13T07:55:54+00:00"
+    },
+    {
+      "title": "Tell HN: AI is bringing back waterfall, here's what I've found",
+      "summary": "Sorry for the clickbait title - I'm a product of my time, I guess. I use these Tell HN as a kind of \"blog\" occasionally because I don't have an actual blog. Never found a flow and style I liked, kinda sad, but I like efficiency and this is that. This is not a post about model choices, or tech stacks, or technology in general. It's just about things I've found to get the most out of my tool, while protecting my mood and health. Disclaimer: there is one tech recommendation at the end. No affiliation, just pure utility passing on from one to another. (Heck, idea: maybe I should just create a blog that let's me do what this simple 3 text box submit does? Anyhow, add that to my list of 25+ ideas rn). It's not just about getting the work done: it's about feeling good when, and while, you get there. Getting the work done is important, but feeling good, is necessary. This is life, after all, we should be enjoying it. Here's what I've found works in this age of AI dev that remove unnecessary sources of suffering: - No micromanaging. Agent's think, and change their mind. Interjecting too often not only costs tokens/requests, and can steer them off course, you can be pre-empting their reasoning which would have arrived in the right place. Just because it's not how you would have thought about it, resist the urge to interrupt unless it's an obvious disaster. But then, your spec should have been better. But there's even better reasons to not micromanage, and they are entirely personal, which I'll get to later. - Verbal specs. Sounds loose, casual, hand-wavy, half-assed? Not at all. I'm at my best when dictating ideas verbally, pacing around. Typing is perhaps for me too much mentally-wired and muscle-memoried into short internet comments, scattered attention, and programming itself. Too much in the weeds, not enough Forest. Verbal for me is all Forest. I can lay it all out, remember it all, and hit all the things I want to if I just can talk it out for 10, 20, 30 minutes. Straight into ChatGPT, who then just cleans it up into a one shot agent spec. Works, every, time. A verbal waterfall. - Strong invariants and crazy comprehensive e2e tests. With strong invariants baked into that verbal spec, and ambitiously comprehensive e2e (create a clone of production infra, fully populate it, devise a convenience script to push and deploy updates across the fleet, ensure you hit these metrics, pull logs on failure, full headless automation tests for UX, hit these other metrics, collect stats, keep a dev-log and document everything in that, lab-book style, like an experimentalist, etc, etc etc). The scale of te4sting I never would have done myself, agents happily scale those mountains to build gigantic (but not unwieldy) test suites that are not only awesome as health checkups, they are what the agent needs to iterate the fixes you want. They also mean you can close the loop on full autonomy, with strong invariants, a full e2e, the agent can just work until green. You don't need to be anywhere need it. Full delegation. Bliss, for me. - No micromanaging. Cannot stress this enough. It's a source of major physical and emotional suffering for me. I hate being stuck at the laptop, eeking out progress, lured by the liberating productivity, while feeling stymied by the retarded progress. Ultimate stress out. I just cannot take it. I cannot do it anymore. I could manage myself through lengthy sprints back in the ol' days. But micromanaging agents, is the ultimate \"hate this\", for me. I feel os much better to just give the clear task, and let it cook all day. - Let it cook, don't watch the pot boil, unless you feel like mild entertainment or learning a few things. It is educational, occasionally, in small doses, to get a meta picture of the parts of this \"craft\"/profession: thinking deeply, coding changes, testing, iterating. A watched pot never boils. Somehow this was an aphorism of all ancestor members of my immediate family. Maybe I was an impatient kid, I don't know. But I recall this a lot. In this case, it's true. Resist the urge to interrupt, let the agent cook. Let the pot boil. Remainder 957 word overage in comment. Comments URL: https://news.ycombinator.com/item?id=47748747 Points: 1 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47748747",
       "image": "",
-      "date": "2026-04-12T06:57:04+00:00"
+      "date": "2026-04-13T07:14:37+00:00"
+    },
+    {
+      "title": "Ask HN: How are you handling runtime security for your AI agents?",
+      "summary": "Our team uses Claude Code, OpenClaw, Claude CoWork and Cursor daily. These tools run shell commands, read files, and call APIs autonomously. We have zero visibility into what happens between the model deciding to act and the action completing. Curious how others are approaching this. Comments URL: https://news.ycombinator.com/item?id=47748689 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47748689",
+      "image": "",
+      "date": "2026-04-13T07:08:09+00:00"
+    },
+    {
+      "title": "Is AI Really gonna take our jobs?",
+      "summary": "TMR I came across an uncle with a broom staring at a ai powered cleaning machine his expression was not very good tbh so whats your opinion on this matter Comments URL: https://news.ycombinator.com/item?id=47748453 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47748453",
+      "image": "",
+      "date": "2026-04-13T06:39:02+00:00"
+    },
+    {
+      "title": "AI Changed What We Build. Then It Changed Who We Hire",
+      "summary": "Article URL: https://www.hauser.io/ai-changed-what-we-build-then-it-changed-who-we-hire/ Comments URL: https://news.ycombinator.com/item?id=47748331 Points: 1 # Comments: 0",
+      "url": "https://www.hauser.io/ai-changed-what-we-build-then-it-changed-who-we-hire/",
+      "image": "https://storage.ghost.io/c/28/3f/283f5f41-2421-4659-94a8-15a5212fd79b/content/images/2026/04/growing-ventures-1.png",
+      "date": "2026-04-13T06:27:34+00:00"
+    },
+    {
+      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff",
+      "summary": "Article URL: https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f Comments URL: https://news.ycombinator.com/item?id=47748229 Points: 3 # Comments: 0",
+      "url": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
+      "image": "",
+      "date": "2026-04-13T06:12:11+00:00"
     },
     {
       "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47736814 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 46 # Comments: 70",
       "url": "https://arxiv.org/abs/2603.20617",
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-04-12T06:53:38+00:00"
+      "date": "2026-04-13T05:56:49+00:00"
     },
     {
-      "title": "Frugal AI for Education",
-      "summary": "Article URL: https://www.col.org/frugal/ Comments URL: https://news.ycombinator.com/item?id=47736740 Points: 2 # Comments: 0",
-      "url": "https://www.col.org/frugal/",
+      "title": "The Expensive Anxiety of AI",
+      "summary": "Article URL: https://aarils.com/personal/the-expensive-anxiety-of-ai Comments URL: https://news.ycombinator.com/item?id=47747590 Points: 2 # Comments: 0",
+      "url": "https://aarils.com/personal/the-expensive-anxiety-of-ai",
+      "image": "https://aarils.com/reigndrop_promo_final.png",
+      "date": "2026-04-13T04:25:34+00:00"
+    },
+    {
+      "title": "Balsamiq AI",
+      "summary": "Article URL: https://balsamiq.com/product/ai/ Comments URL: https://news.ycombinator.com/item?id=47747505 Points: 1 # Comments: 0",
+      "url": "https://balsamiq.com/product/ai/",
+      "image": "https://thumbs.balsamiq.com/t_product_ai.png",
+      "date": "2026-04-13T04:10:57+00:00"
+    },
+    {
+      "title": "Best AI coding interview assistant in 2026",
+      "summary": "Article URL: https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/ Comments URL: https://news.ycombinator.com/item?id=47747334 Points: 2 # Comments: 3",
+      "url": "https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/",
+      "image": "https://statics.mylandingpages.co/static/aaanxdmf26c522mpaaaatyrnympgynf7/image/dd64a37fb86a4dd083988118948b9fc3.jpg",
+      "date": "2026-04-13T03:45:21+00:00"
+    },
+    {
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 167 # Comments: 155",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
       "image": "",
-      "date": "2026-04-12T06:36:57+00:00"
+      "date": "2026-04-13T02:53:10+00:00"
     },
     {
-      "title": "Code Mode: Let Your AI Write Programs, Not Just Call Tools",
-      "summary": "Article URL: https://tanstack.com/blog/tanstack-ai-code-mode Comments URL: https://news.ycombinator.com/item?id=47736657 Points: 2 # Comments: 0",
-      "url": "https://tanstack.com/blog/tanstack-ai-code-mode",
-      "image": "https://tanstack.com/.netlify/images?url=%2Fblog-assets%2Ftanstack-ai-code-mode%2Fheader.jpg&w=1200&h=630&fit=cover&fm=jpg&q=80",
-      "date": "2026-04-12T06:20:22+00:00"
+      "title": "Moat: Run AI agents in isolated containers",
+      "summary": "Article URL: https://majorcontext.com/moat/ Comments URL: https://news.ycombinator.com/item?id=47746591 Points: 3 # Comments: 1",
+      "url": "https://majorcontext.com/moat/",
+      "image": "https://majorcontext.com/og/moat.png",
+      "date": "2026-04-13T01:45:31+00:00"
     },
     {
-      "title": "Show HN: I visualized how AI agent systems accidentally become org charts",
-      "summary": "Most companies deploying AI agents are accidentally building organizations. You start with one agent. It gets overwhelmed. You add more. They start routing to each other based on what works. Repeated behavior hardens into structure. Someone introduces an orchestrator to bring order. Some agents never get the memo. Some lose context when they get replaced. The orchestrator doesn't know what it doesn't know. This is what is happening in most engineering organizations right now So, I built an interactive visualization that walks through how this happens in six acts, from a single agent to a full emergent org chart. The visual starts center-out and transitions to a top-down hierarchy as structure forms. Failing agents flicker. Connections break. The orchestrator arrives and things look better than they are. The point of the piece is that the org chart your engineers could draw and the org chart that is actually operating are not the same document. Teams have the tooling to observe individual agents. Nobody has the layer that tells you what the system as a whole has decided, committed to, and authorized. Built with canvas, IntersectionObserver-driven scroll, and a layout interpolation between radial and tree positioning that transitions across acts. Has anyone here has hit the governance wall with agent systems in production and what it actually looked like when things went wrong. https://jointherevolution.today/emergence Comments URL: https://news.ycombinator.com/item?id=47736568 Points: 2 # Comments: 0",
-      "url": "https://jointherevolution.today/emergence",
-      "image": "https://jointherevolution.today/og-image.svg",
-      "date": "2026-04-12T06:01:12+00:00"
+      "title": "An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety",
+      "summary": "Article URL: https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47746311 Points: 1 # Comments: 0",
+      "url": "https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "date": "2026-04-13T01:05:47+00:00"
     },
     {
-      "title": "Intel Arc Pro B70 Brings 32GB VRAM to Local AI for $949",
-      "summary": "Article URL: https://awesomeagents.ai/news/intel-arc-pro-b70-32gb-local-inference/ Comments URL: https://news.ycombinator.com/item?id=47736529 Points: 1 # Comments: 0",
-      "url": "https://awesomeagents.ai/news/intel-arc-pro-b70-32gb-local-inference/",
-      "image": "https://awesomeagents.ai/images/news/intel-arc-pro-b70-32gb-local-inference_hu_ce3333bc7c3a9e11.jpg",
-      "date": "2026-04-12T05:55:35+00:00"
-    },
-    {
-      "title": "India's TCS tops estimates, says new AI models did not dent services demand",
-      "summary": "Article URL: https://www.reuters.com/world/india/indias-tcs-beats-fourth-quarter-revenue-view-2026-04-09/ Comments URL: https://news.ycombinator.com/item?id=47736480 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/world/india/indias-tcs-beats-fourth-quarter-revenue-view-2026-04-09/",
-      "image": "",
-      "date": "2026-04-12T05:46:29+00:00"
-    },
-    {
-      "title": "U.S. Intelligence Shows China Taking a More Active Role in Iran War",
-      "summary": "Article URL: https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html Comments URL: https://news.ycombinator.com/item?id=47736444 Points: 9 # Comments: 0",
-      "url": "https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html",
-      "image": "",
-      "date": "2026-04-12T05:38:54+00:00"
-    },
-    {
-      "title": "Gen Z's fading AI hype",
-      "summary": "Article URL: https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup Comments URL: https://news.ycombinator.com/item?id=47736388 Points: 3 # Comments: 0",
-      "url": "https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup",
-      "image": "",
-      "date": "2026-04-12T05:26:37+00:00"
-    },
-    {
-      "title": "Strong feeling: we are in a folded AI reality",
-      "summary": "Some people think Agentic AI could do everything, is getting more and more powerful even feel fear about it. Another group non-technical people still just trapped in the LLM chat is weak and full of hallucination world. Looks like AI is just a bubble and useless(a stronger search engine) The main watershed is Agentic. Comments URL: https://news.ycombinator.com/item?id=47736330 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47736330",
-      "image": "",
-      "date": "2026-04-12T05:14:36+00:00"
-    },
-    {
-      "title": "Scrum Master Interview Questions for the AI Era",
-      "summary": "Article URL: https://age-of-product.com/10-scrum-master-interview-questions-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47736185 Points: 1 # Comments: 0",
-      "url": "https://age-of-product.com/10-scrum-master-interview-questions-ai-era/",
-      "image": "",
-      "date": "2026-04-12T04:34:23+00:00"
-    },
-    {
-      "title": "The biggest advance in AI since the LLM",
-      "summary": "Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=47736022 Points: 10 # Comments: 8",
-      "url": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
-      "image": "",
-      "date": "2026-04-12T03:56:36+00:00"
-    },
-    {
-      "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major US banks",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html Comments URL: https://news.ycombinator.com/item?id=47735938 Points: 7 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&w=1920&h=1080",
-      "date": "2026-04-12T03:35:43+00:00"
-    },
-    {
-      "title": "A Mac Studio for Local AI – 6 Months Later",
-      "summary": "Article URL: https://spicyneuron.substack.com/p/a-mac-studio-for-local-ai-6-months Comments URL: https://news.ycombinator.com/item?id=47735760 Points: 7 # Comments: 1",
-      "url": "https://spicyneuron.substack.com/p/a-mac-studio-for-local-ai-6-months",
-      "image": "",
-      "date": "2026-04-12T02:52:20+00:00"
-    },
-    {
-      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cjd8jrd1vnyo Comments URL: https://news.ycombinator.com/item?id=47735704 Points: 73 # Comments: 62",
-      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
-      "date": "2026-04-12T02:37:39+00:00"
+      "title": "Amazon vs. Perplexity AI: ACLU's Amicus Brief",
+      "summary": "Article URL: https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal Comments URL: https://news.ycombinator.com/item?id=47746272 Points: 1 # Comments: 0",
+      "url": "https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal",
+      "image": "https://assets.aclu.org/live/uploads/2022/02/Free-Speech-scaled.jpg",
+      "date": "2026-04-13T01:00:00+00:00"
     }
   ]
 }
