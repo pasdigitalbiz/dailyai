@@ -1,110 +1,96 @@
 {
-  "generated_at": "2026-04-13T08:21:04.302477+00:00",
+  "generated_at": "2026-04-14T08:02:04.238064+00:00",
   "items": [
     {
-      "title": "Levels of AI Adoption for Project Managers",
-      "summary": "Article URL: https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers Comments URL: https://news.ycombinator.com/item?id=47749149 Points: 1 # Comments: 0",
-      "url": "https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers",
-      "image": "https://api.locastic.com/wp-content/uploads/2026/04/kanhaiya-sharma-T_l246EK19I-unsplash-scaled.jpg",
-      "date": "2026-04-13T08:04:08+00:00"
-    },
-    {
-      "title": "Gen Z fearful AI will take their job they're sabotaging company's AI rollout",
-      "summary": "Article URL: https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/ Comments URL: https://news.ycombinator.com/item?id=47749067 Points: 2 # Comments: 1",
-      "url": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2203399905-e1775661971259.jpg?resize=1200,600",
-      "date": "2026-04-13T07:55:54+00:00"
-    },
-    {
-      "title": "Tell HN: AI is bringing back waterfall, here's what I've found",
-      "summary": "Sorry for the clickbait title - I'm a product of my time, I guess. I use these Tell HN as a kind of \"blog\" occasionally because I don't have an actual blog. Never found a flow and style I liked, kinda sad, but I like efficiency and this is that. This is not a post about model choices, or tech stacks, or technology in general. It's just about things I've found to get the most out of my tool, while protecting my mood and health. Disclaimer: there is one tech recommendation at the end. No affiliation, just pure utility passing on from one to another. (Heck, idea: maybe I should just create a blog that let's me do what this simple 3 text box submit does? Anyhow, add that to my list of 25+ ideas rn). It's not just about getting the work done: it's about feeling good when, and while, you get there. Getting the work done is important, but feeling good, is necessary. This is life, after all, we should be enjoying it. Here's what I've found works in this age of AI dev that remove unnecessary sources of suffering: - No micromanaging. Agent's think, and change their mind. Interjecting too often not only costs tokens/requests, and can steer them off course, you can be pre-empting their reasoning which would have arrived in the right place. Just because it's not how you would have thought about it, resist the urge to interrupt unless it's an obvious disaster. But then, your spec should have been better. But there's even better reasons to not micromanage, and they are entirely personal, which I'll get to later. - Verbal specs. Sounds loose, casual, hand-wavy, half-assed? Not at all. I'm at my best when dictating ideas verbally, pacing around. Typing is perhaps for me too much mentally-wired and muscle-memoried into short internet comments, scattered attention, and programming itself. Too much in the weeds, not enough Forest. Verbal for me is all Forest. I can lay it all out, remember it all, and hit all the things I want to if I just can talk it out for 10, 20, 30 minutes. Straight into ChatGPT, who then just cleans it up into a one shot agent spec. Works, every, time. A verbal waterfall. - Strong invariants and crazy comprehensive e2e tests. With strong invariants baked into that verbal spec, and ambitiously comprehensive e2e (create a clone of production infra, fully populate it, devise a convenience script to push and deploy updates across the fleet, ensure you hit these metrics, pull logs on failure, full headless automation tests for UX, hit these other metrics, collect stats, keep a dev-log and document everything in that, lab-book style, like an experimentalist, etc, etc etc). The scale of te4sting I never would have done myself, agents happily scale those mountains to build gigantic (but not unwieldy) test suites that are not only awesome as health checkups, they are what the agent needs to iterate the fixes you want. They also mean you can close the loop on full autonomy, with strong invariants, a full e2e, the agent can just work until green. You don't need to be anywhere need it. Full delegation. Bliss, for me. - No micromanaging. Cannot stress this enough. It's a source of major physical and emotional suffering for me. I hate being stuck at the laptop, eeking out progress, lured by the liberating productivity, while feeling stymied by the retarded progress. Ultimate stress out. I just cannot take it. I cannot do it anymore. I could manage myself through lengthy sprints back in the ol' days. But micromanaging agents, is the ultimate \"hate this\", for me. I feel os much better to just give the clear task, and let it cook all day. - Let it cook, don't watch the pot boil, unless you feel like mild entertainment or learning a few things. It is educational, occasionally, in small doses, to get a meta picture of the parts of this \"craft\"/profession: thinking deeply, coding changes, testing, iterating. A watched pot never boils. Somehow this was an aphorism of all ancestor members of my immediate family. Maybe I was an impatient kid, I don't know. But I recall this a lot. In this case, it's true. Resist the urge to interrupt, let the agent cook. Let the pot boil. Remainder 957 word overage in comment. Comments URL: https://news.ycombinator.com/item?id=47748747 Points: 1 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=47748747",
+      "title": "Show HN: Burrow – Runtime Security for AI Agents",
+      "summary": "We use Claude Code, Cursor, and Copilot daily. These tools run shell commands, read files, and call APIs on their own. When something goes wrong you find out after. A .env file gets read, a secret ends up somewhere it should not, a command runs that nobody approved. EDR sees process spawns. Cloud audit logs see API calls. Neither understands that the agent's chain of actions together is credential theft. Burrow sits between the agent and the machine. You define policies in plain language, like \"block any agent from deleting production resources\" or \"alert if an agent reads AWS credentials and then sends data to an external endpoint.\" Burrow maps those policies against the actual tools, MCP servers, and plugins in your environment, then intercepts tool calls at the framework level before they execute. Risky calls get dropped. Everything else passes through. Works with Claude Code, Cursor, Copilot, Windsurf, CrewAI, LangChain, LangGraph, and a few more. CLI and SDK install in under a minute. Free tier for individuals, paid for teams. I ran infrastructure security at a large media company before this. Going full time on Burrow later this month. Happy to answer anything, especially the \"does this actually work in production\" question. try - https://burrow.run Comments URL: https://news.ycombinator.com/item?id=47761957 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47761957",
       "image": "",
-      "date": "2026-04-13T07:14:37+00:00"
+      "date": "2026-04-14T06:25:47+00:00"
     },
     {
-      "title": "Ask HN: How are you handling runtime security for your AI agents?",
-      "summary": "Our team uses Claude Code, OpenClaw, Claude CoWork and Cursor daily. These tools run shell commands, read files, and call APIs autonomously. We have zero visibility into what happens between the model deciding to act and the action completing. Curious how others are approaching this. Comments URL: https://news.ycombinator.com/item?id=47748689 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47748689",
+      "title": "Zuckerbot is coming: Meta is building an AI version of Mark Zuckerberg",
+      "summary": "Article URL: https://www.neowin.net/news/zuckerbot-is-coming-meta-is-reportedly-building-an-ai-version-of-mark-zuckerberg/ Comments URL: https://news.ycombinator.com/item?id=47761913 Points: 3 # Comments: 0",
+      "url": "https://www.neowin.net/news/zuckerbot-is-coming-meta-is-reportedly-building-an-ai-version-of-mark-zuckerberg/",
       "image": "",
-      "date": "2026-04-13T07:08:09+00:00"
+      "date": "2026-04-14T06:20:09+00:00"
     },
     {
-      "title": "Is AI Really gonna take our jobs?",
-      "summary": "TMR I came across an uncle with a broom staring at a ai powered cleaning machine his expression was not very good tbh so whats your opinion on this matter Comments URL: https://news.ycombinator.com/item?id=47748453 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47748453",
+      "title": "Generative AI in Banking: Top Use Cases and Benefits",
+      "summary": "Article URL: https://www.kellton.com/kellton-tech-blog/generative-ai-in-banking Comments URL: https://news.ycombinator.com/item?id=47761796 Points: 1 # Comments: 0",
+      "url": "https://www.kellton.com/kellton-tech-blog/generative-ai-in-banking",
+      "image": "https://d1ugv6dopk5bx0.cloudfront.net/s3fs-public/2024-11/Gaib-banner.webp",
+      "date": "2026-04-14T06:01:20+00:00"
+    },
+    {
+      "title": "Microsoft exec suggests AI agents will need to buy licenses, just like employees",
+      "summary": "Article URL: https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4 Comments URL: https://news.ycombinator.com/item?id=47761720 Points: 8 # Comments: 2",
+      "url": "https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4",
+      "image": "https://i.insider.com/69d971a296ef6a4c9d121d88?width=1200&format=jpeg",
+      "date": "2026-04-14T05:46:26+00:00"
+    },
+    {
+      "title": "Need feedback on sandflare.io – AI Agent Sandboxes with",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47761426 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47761426",
       "image": "",
-      "date": "2026-04-13T06:39:02+00:00"
+      "date": "2026-04-14T05:01:42+00:00"
     },
     {
-      "title": "AI Changed What We Build. Then It Changed Who We Hire",
-      "summary": "Article URL: https://www.hauser.io/ai-changed-what-we-build-then-it-changed-who-we-hire/ Comments URL: https://news.ycombinator.com/item?id=47748331 Points: 1 # Comments: 0",
-      "url": "https://www.hauser.io/ai-changed-what-we-build-then-it-changed-who-we-hire/",
-      "image": "https://storage.ghost.io/c/28/3f/283f5f41-2421-4659-94a8-15a5212fd79b/content/images/2026/04/growing-ventures-1.png",
-      "date": "2026-04-13T06:27:34+00:00"
+      "title": "Is It Worth Learning Unity in 2026? In the Age of AI",
+      "summary": "Article URL: https://darkounity.com/blog/is-it-worth-learning-unity-in-2026 Comments URL: https://news.ycombinator.com/item?id=47761410 Points: 2 # Comments: 0",
+      "url": "https://darkounity.com/blog/is-it-worth-learning-unity-in-2026",
+      "image": "https://darkounity.com/api/images/is-it-worth-learning-unity-in-2026.webp",
+      "date": "2026-04-14T04:58:07+00:00"
     },
     {
-      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff",
-      "summary": "Article URL: https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f Comments URL: https://news.ycombinator.com/item?id=47748229 Points: 3 # Comments: 0",
-      "url": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
+      "title": "Human scientists trounce the best AI agents on complex tasks",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01199-z Comments URL: https://news.ycombinator.com/item?id=47761190 Points: 6 # Comments: 0",
+      "url": "https://www.nature.com/articles/d41586-026-01199-z",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01199-z/d41586-026-01199-z_52272472.jpg",
+      "date": "2026-04-14T04:19:17+00:00"
+    },
+    {
+      "title": "Over 4,732 Messages, He Fell in Love with an AI Chatbot. Now He's Dead",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47761086 Points: 3 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2",
       "image": "",
-      "date": "2026-04-13T06:12:11+00:00"
+      "date": "2026-04-14T04:02:11+00:00"
     },
     {
-      "title": "The AI Layoff Trap",
-      "summary": "Article URL: https://arxiv.org/abs/2603.20617 Comments URL: https://news.ycombinator.com/item?id=47748123 Points: 46 # Comments: 70",
-      "url": "https://arxiv.org/abs/2603.20617",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-04-13T05:56:49+00:00"
-    },
-    {
-      "title": "The Expensive Anxiety of AI",
-      "summary": "Article URL: https://aarils.com/personal/the-expensive-anxiety-of-ai Comments URL: https://news.ycombinator.com/item?id=47747590 Points: 2 # Comments: 0",
-      "url": "https://aarils.com/personal/the-expensive-anxiety-of-ai",
-      "image": "https://aarils.com/reigndrop_promo_final.png",
-      "date": "2026-04-13T04:25:34+00:00"
-    },
-    {
-      "title": "Balsamiq AI",
-      "summary": "Article URL: https://balsamiq.com/product/ai/ Comments URL: https://news.ycombinator.com/item?id=47747505 Points: 1 # Comments: 0",
-      "url": "https://balsamiq.com/product/ai/",
-      "image": "https://thumbs.balsamiq.com/t_product_ai.png",
-      "date": "2026-04-13T04:10:57+00:00"
-    },
-    {
-      "title": "Best AI coding interview assistant in 2026",
-      "summary": "Article URL: https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/ Comments URL: https://news.ycombinator.com/item?id=47747334 Points: 2 # Comments: 3",
-      "url": "https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/",
-      "image": "https://statics.mylandingpages.co/static/aaanxdmf26c522mpaaaatyrnympgynf7/image/dd64a37fb86a4dd083988118948b9fc3.jpg",
-      "date": "2026-04-13T03:45:21+00:00"
-    },
-    {
-      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end Comments URL: https://news.ycombinator.com/item?id=47747017 Points: 167 # Comments: 155",
-      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "title": "Comprehension Debt: The Hidden Cost of AI-Generated Code",
+      "summary": "Article URL: https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/ Comments URL: https://news.ycombinator.com/item?id=47761005 Points: 5 # Comments: 1",
+      "url": "https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/",
       "image": "",
-      "date": "2026-04-13T02:53:10+00:00"
+      "date": "2026-04-14T03:45:34+00:00"
     },
     {
-      "title": "Moat: Run AI agents in isolated containers",
-      "summary": "Article URL: https://majorcontext.com/moat/ Comments URL: https://news.ycombinator.com/item?id=47746591 Points: 3 # Comments: 1",
-      "url": "https://majorcontext.com/moat/",
-      "image": "https://majorcontext.com/og/moat.png",
-      "date": "2026-04-13T01:45:31+00:00"
+      "title": "MCP server for personal finance so AI assistants can manage money",
+      "summary": "Article URL: https://era.app/articles/how-to-connect-claude-to-your-bank-account/ Comments URL: https://news.ycombinator.com/item?id=47760800 Points: 1 # Comments: 1",
+      "url": "https://era.app/articles/how-to-connect-claude-to-your-bank-account/",
+      "image": "/social-card.png",
+      "date": "2026-04-14T03:12:38+00:00"
     },
     {
-      "title": "An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety",
-      "summary": "Article URL: https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/ Comments URL: https://news.ycombinator.com/item?id=47746311 Points: 1 # Comments: 0",
-      "url": "https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-      "date": "2026-04-13T01:05:47+00:00"
+      "title": "Attorneys Face Disciplinary Charges, License Suspension for AI Misuse",
+      "summary": "Article URL: https://www.law.com/therecorder/2026/04/13/two-attorneys-face-disciplinary-charges-third-agrees-to-license-suspension-for-ai-misuse/ Comments URL: https://news.ycombinator.com/item?id=47760707 Points: 1 # Comments: 1",
+      "url": "https://www.law.com/therecorder/2026/04/13/two-attorneys-face-disciplinary-charges-third-agrees-to-license-suspension-for-ai-misuse/",
+      "image": "https://images.law.com/brightspot/93/75/397825a14e15812fb32cd4479048/ai-hallucinations-jpeg767x505-1.jpg",
+      "date": "2026-04-14T02:56:47+00:00"
     },
     {
-      "title": "Amazon vs. Perplexity AI: ACLU's Amicus Brief",
-      "summary": "Article URL: https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal Comments URL: https://news.ycombinator.com/item?id=47746272 Points: 1 # Comments: 0",
-      "url": "https://www.aclu.org/cases/amazon-v-perplexity?document=Amicus-Brief-of-ACLU-ACLU-of-Northern-California-and-Knight-First-Amendment-Institute-in-Support-of-Defendant-Appellant-and-Reversal",
-      "image": "https://assets.aclu.org/live/uploads/2022/02/Free-Speech-scaled.jpg",
-      "date": "2026-04-13T01:00:00+00:00"
+      "title": "An Explainer of Section 702 of the Foreign Intelligence Surveillance Act",
+      "summary": "Article URL: https://www.brennancenter.org/our-work/research-reports/section-702-foreign-intelligence-surveillance-act Comments URL: https://news.ycombinator.com/item?id=47760637 Points: 2 # Comments: 0",
+      "url": "https://www.brennancenter.org/our-work/research-reports/section-702-foreign-intelligence-surveillance-act",
+      "image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2026-04/20260407_re_gt2262576901_1630x932_rm.jpg?itok=9eeLpaK8",
+      "date": "2026-04-14T02:43:04+00:00"
+    },
+    {
+      "title": "We're Using So Much AI That Computing Firepower Is Running Out",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85 Comments URL: https://news.ycombinator.com/item?id=47760636 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
+      "image": "",
+      "date": "2026-04-14T02:42:57+00:00"
     }
   ]
 }
