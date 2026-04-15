@@ -1,96 +1,110 @@
 {
-  "generated_at": "2026-04-14T08:02:04.238064+00:00",
+  "generated_at": "2026-04-15T08:03:04.369833+00:00",
   "items": [
     {
-      "title": "Show HN: Burrow – Runtime Security for AI Agents",
-      "summary": "We use Claude Code, Cursor, and Copilot daily. These tools run shell commands, read files, and call APIs on their own. When something goes wrong you find out after. A .env file gets read, a secret ends up somewhere it should not, a command runs that nobody approved. EDR sees process spawns. Cloud audit logs see API calls. Neither understands that the agent's chain of actions together is credential theft. Burrow sits between the agent and the machine. You define policies in plain language, like \"block any agent from deleting production resources\" or \"alert if an agent reads AWS credentials and then sends data to an external endpoint.\" Burrow maps those policies against the actual tools, MCP servers, and plugins in your environment, then intercepts tool calls at the framework level before they execute. Risky calls get dropped. Everything else passes through. Works with Claude Code, Cursor, Copilot, Windsurf, CrewAI, LangChain, LangGraph, and a few more. CLI and SDK install in under a minute. Free tier for individuals, paid for teams. I ran infrastructure security at a large media company before this. Going full time on Burrow later this month. Happy to answer anything, especially the \"does this actually work in production\" question. try - https://burrow.run Comments URL: https://news.ycombinator.com/item?id=47761957 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47761957",
+      "title": "AI-powered mainframe exits are a bubble set to pop: Gartner",
+      "summary": "Article URL: https://www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/ Comments URL: https://news.ycombinator.com/item?id=47775903 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/",
+      "image": "https://regmedia.co.uk/2026/04/15/shutterstock_tech_bubble_bursting.jpg",
+      "date": "2026-04-15T07:46:24+00:00"
+    },
+    {
+      "title": "The only technology that died more times than VR is AI",
+      "summary": "Article URL: https://www.theregister.com/2026/04/15/hardware_metaverse_will_happen/ Comments URL: https://news.ycombinator.com/item?id=47775682 Points: 2 # Comments: 2",
+      "url": "https://www.theregister.com/2026/04/15/hardware_metaverse_will_happen/",
+      "image": "https://regmedia.co.uk/2026/04/14/shutterstock_using_vr.jpg",
+      "date": "2026-04-15T07:13:21+00:00"
+    },
+    {
+      "title": "My AI-Assisted Workflow",
+      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 2 # Comments: 0",
+      "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+      "image": "https://www.maiobarbero.dev/images/og-fallback.png",
+      "date": "2026-04-15T07:08:18+00:00"
+    },
+    {
+      "title": "Building trust in the AI era with privacy-led UX",
+      "summary": "Article URL: https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/ Comments URL: https://news.ycombinator.com/item?id=47775617 Points: 1 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MITTR-Usercentrics-SM-card1-1200.png?resize=1200,600",
+      "date": "2026-04-15T07:02:59+00:00"
+    },
+    {
+      "title": "The Death of an AI Whistleblower",
+      "summary": "Article URL: https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/ Comments URL: https://news.ycombinator.com/item?id=47775593 Points: 7 # Comments: 0",
+      "url": "https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/",
+      "image": "https://www.thenation.com/wp-content/uploads/2026/04/Silverman-Balajai-ftr.jpg",
+      "date": "2026-04-15T06:56:56+00:00"
+    },
+    {
+      "title": "Google launches Personal Intelligence for all US users",
+      "summary": "Article URL: https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/ Comments URL: https://news.ycombinator.com/item?id=47775418 Points: 3 # Comments: 0",
+      "url": "https://www.heygotrade.com/en/news/google-ai-expansion-challenges-microsoft-apple/",
+      "image": "https://files-tr8.s3.ap-southeast-1.amazonaws.com/blog-posts/691b558d7e903c4c67d0baa9/feature-images/69b98d73dbf5b-feature-image.jpg",
+      "date": "2026-04-15T06:28:33+00:00"
+    },
+    {
+      "title": "Generative AI in 2016 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=sfFTvtwLCaU Comments URL: https://news.ycombinator.com/item?id=47775224 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=sfFTvtwLCaU",
       "image": "",
-      "date": "2026-04-14T06:25:47+00:00"
+      "date": "2026-04-15T06:00:10+00:00"
     },
     {
-      "title": "Zuckerbot is coming: Meta is building an AI version of Mark Zuckerberg",
-      "summary": "Article URL: https://www.neowin.net/news/zuckerbot-is-coming-meta-is-reportedly-building-an-ai-version-of-mark-zuckerberg/ Comments URL: https://news.ycombinator.com/item?id=47761913 Points: 3 # Comments: 0",
-      "url": "https://www.neowin.net/news/zuckerbot-is-coming-meta-is-reportedly-building-an-ai-version-of-mark-zuckerberg/",
+      "title": "Chris Taylor on AI (2005)",
+      "summary": "Article URL: https://main.kanoogi.com/updates?updates=kanoogi_updates&topic=0013#blogstart Comments URL: https://news.ycombinator.com/item?id=47775124 Points: 1 # Comments: 0",
+      "url": "https://main.kanoogi.com/updates?updates=kanoogi_updates&topic=0013#blogstart",
       "image": "",
-      "date": "2026-04-14T06:20:09+00:00"
+      "date": "2026-04-15T05:45:20+00:00"
     },
     {
-      "title": "Generative AI in Banking: Top Use Cases and Benefits",
-      "summary": "Article URL: https://www.kellton.com/kellton-tech-blog/generative-ai-in-banking Comments URL: https://news.ycombinator.com/item?id=47761796 Points: 1 # Comments: 0",
-      "url": "https://www.kellton.com/kellton-tech-blog/generative-ai-in-banking",
-      "image": "https://d1ugv6dopk5bx0.cloudfront.net/s3fs-public/2024-11/Gaib-banner.webp",
-      "date": "2026-04-14T06:01:20+00:00"
+      "title": "People are pretending to be AI chatbots – for fun",
+      "summary": "Article URL: https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt Comments URL: https://news.ycombinator.com/item?id=47775067 Points: 9 # Comments: 0",
+      "url": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1070x602+237+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fc4%2F68a208594875b676a146754e06a4%2Faislop.jpg",
+      "date": "2026-04-15T05:35:03+00:00"
     },
     {
-      "title": "Microsoft exec suggests AI agents will need to buy licenses, just like employees",
-      "summary": "Article URL: https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4 Comments URL: https://news.ycombinator.com/item?id=47761720 Points: 8 # Comments: 2",
-      "url": "https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4",
-      "image": "https://i.insider.com/69d971a296ef6a4c9d121d88?width=1200&format=jpeg",
-      "date": "2026-04-14T05:46:26+00:00"
-    },
-    {
-      "title": "Need feedback on sandflare.io – AI Agent Sandboxes with",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=47761426 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47761426",
+      "title": "Make AI say your name correctly",
+      "summary": "Article URL: https://hamanlp.org/research/names/ Comments URL: https://news.ycombinator.com/item?id=47775019 Points: 1 # Comments: 0",
+      "url": "https://hamanlp.org/research/names/",
       "image": "",
-      "date": "2026-04-14T05:01:42+00:00"
+      "date": "2026-04-15T05:28:05+00:00"
     },
     {
-      "title": "Is It Worth Learning Unity in 2026? In the Age of AI",
-      "summary": "Article URL: https://darkounity.com/blog/is-it-worth-learning-unity-in-2026 Comments URL: https://news.ycombinator.com/item?id=47761410 Points: 2 # Comments: 0",
-      "url": "https://darkounity.com/blog/is-it-worth-learning-unity-in-2026",
-      "image": "https://darkounity.com/api/images/is-it-worth-learning-unity-in-2026.webp",
-      "date": "2026-04-14T04:58:07+00:00"
+      "title": "Constitutional Security: What Enterprise Infra Taught Me About AI Agent Safety",
+      "summary": "Article URL: https://blog.ekelhaft.tools/constitutional-security-what-enterprise-infrastructure-taught-me-about-ai-agent-safety Comments URL: https://news.ycombinator.com/item?id=47775003 Points: 2 # Comments: 0",
+      "url": "https://blog.ekelhaft.tools/constitutional-security-what-enterprise-infrastructure-taught-me-about-ai-agent-safety",
+      "image": "https://blog.ekelhaft.tools/og-image.png",
+      "date": "2026-04-15T05:24:54+00:00"
     },
     {
-      "title": "Human scientists trounce the best AI agents on complex tasks",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01199-z Comments URL: https://news.ycombinator.com/item?id=47761190 Points: 6 # Comments: 0",
-      "url": "https://www.nature.com/articles/d41586-026-01199-z",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01199-z/d41586-026-01199-z_52272472.jpg",
-      "date": "2026-04-14T04:19:17+00:00"
-    },
-    {
-      "title": "Over 4,732 Messages, He Fell in Love with an AI Chatbot. Now He's Dead",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2 Comments URL: https://news.ycombinator.com/item?id=47761086 Points: 3 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/google-gemini-jonathan-gavalas-death-07351ab2",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 3 # Comments: 1",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
       "image": "",
-      "date": "2026-04-14T04:02:11+00:00"
+      "date": "2026-04-15T05:19:06+00:00"
     },
     {
-      "title": "Comprehension Debt: The Hidden Cost of AI-Generated Code",
-      "summary": "Article URL: https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/ Comments URL: https://news.ycombinator.com/item?id=47761005 Points: 5 # Comments: 1",
-      "url": "https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/",
+      "title": "Show HN: FlipAEO – Get your SaaS cited by Perplexity and AI search",
+      "summary": "Hey HN.\n I am a solo dev. I usually build AI image and video tools, and I can ship products pretty fast. But getting traffic to them is always my biggest pain. Lately, my normal SEO tricks stopped working and i know yours too after dec 25. I realized my own behavior changed too, we don't search and click links anymore. We just ask Perplexity or chatgpt or gemini, and we only click the citations. I realized that if my SaaS isn't in those AI citations, my product basically doesn't exist. So I built FlipAEO. It helps structure your site's data so LLMs actually understand exactly what your product does, so they can cite you as a trusted source when people ask questions in your niche. Using this workflow i have grown my another saas (250k+ impressions, 3k+ clicks, and 550+ ChatGPT refferals.) I turned my local workflow into a product, and launched 2 months ago. Being completely honest, I have exactly 3 active users paying my bills. Building it was the fun part, but finding people who actually care about Answer Engine Optimization (AEO) is really hard. I'm posting here because I want to know if I am just crazy, or if this is a real problem you guys are facing too. Are you doing anything to get your products cited by AI search?\n Here is the link: https://flipaeo.com Would love any raw feedback on the tool or the idea?? Comments URL: https://news.ycombinator.com/item?id=47774957 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47774957",
       "image": "",
-      "date": "2026-04-14T03:45:34+00:00"
+      "date": "2026-04-15T05:17:33+00:00"
     },
     {
-      "title": "MCP server for personal finance so AI assistants can manage money",
-      "summary": "Article URL: https://era.app/articles/how-to-connect-claude-to-your-bank-account/ Comments URL: https://news.ycombinator.com/item?id=47760800 Points: 1 # Comments: 1",
-      "url": "https://era.app/articles/how-to-connect-claude-to-your-bank-account/",
-      "image": "/social-card.png",
-      "date": "2026-04-14T03:12:38+00:00"
-    },
-    {
-      "title": "Attorneys Face Disciplinary Charges, License Suspension for AI Misuse",
-      "summary": "Article URL: https://www.law.com/therecorder/2026/04/13/two-attorneys-face-disciplinary-charges-third-agrees-to-license-suspension-for-ai-misuse/ Comments URL: https://news.ycombinator.com/item?id=47760707 Points: 1 # Comments: 1",
-      "url": "https://www.law.com/therecorder/2026/04/13/two-attorneys-face-disciplinary-charges-third-agrees-to-license-suspension-for-ai-misuse/",
-      "image": "https://images.law.com/brightspot/93/75/397825a14e15812fb32cd4479048/ai-hallucinations-jpeg767x505-1.jpg",
-      "date": "2026-04-14T02:56:47+00:00"
-    },
-    {
-      "title": "An Explainer of Section 702 of the Foreign Intelligence Surveillance Act",
-      "summary": "Article URL: https://www.brennancenter.org/our-work/research-reports/section-702-foreign-intelligence-surveillance-act Comments URL: https://news.ycombinator.com/item?id=47760637 Points: 2 # Comments: 0",
-      "url": "https://www.brennancenter.org/our-work/research-reports/section-702-foreign-intelligence-surveillance-act",
-      "image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2026-04/20260407_re_gt2262576901_1630x932_rm.jpg?itok=9eeLpaK8",
-      "date": "2026-04-14T02:43:04+00:00"
-    },
-    {
-      "title": "We're Using So Much AI That Computing Firepower Is Running Out",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85 Comments URL: https://news.ycombinator.com/item?id=47760636 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
+      "title": "The tech jobs bust is real. Don't blame AI (yet)",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47774692 Points: 2 # Comments: 1",
+      "url": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
       "image": "",
-      "date": "2026-04-14T02:42:57+00:00"
+      "date": "2026-04-15T04:29:28+00:00"
+    },
+    {
+      "title": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/ Comments URL: https://news.ycombinator.com/item?id=47774523 Points: 3 # Comments: 1",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_social.width-1300.png",
+      "date": "2026-04-15T03:54:00+00:00"
     }
   ]
 }
