@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-04-19T07:44:19.147983+00:00",
-  "items": []
+  "generated_at": "2026-04-20T08:25:36.235804+00:00",
+  "items": [
+    {
+      "title": "AI Agent Traps (DeepMind)",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438 Comments URL: https://news.ycombinator.com/item?id=47831602 Points: 1 # Comments: 0",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438",
+      "image": "",
+      "date": "2026-04-20T08:24:23+00:00"
+    },
+    {
+      "title": "C++: Growing in a world of competition, safety, and AI (herb-sutter) [pdf]",
+      "summary": "Article URL: https://becpp.org/Symposium2026/material/BeCPP%20-%202026-03-30%20-%20Herb%20Sutter%20-%20C++%20Growing%20in%20a%20world%20of%20competition,%20safety,%20and%20AI.pdf Comments URL: https://news.ycombinator.com/item?id=47831601 Points: 1 # Comments: 0",
+      "url": "https://becpp.org/Symposium2026/material/BeCPP%20-%202026-03-30%20-%20Herb%20Sutter%20-%20C++%20Growing%20in%20a%20world%20of%20competition,%20safety,%20and%20AI.pdf",
+      "image": "",
+      "date": "2026-04-20T08:23:50+00:00"
+    },
+    {
+      "title": "Dethroned by AI",
+      "summary": "Article URL: https://jigarkdoshi.bearblog.dev/dethroned/ Comments URL: https://news.ycombinator.com/item?id=47831579 Points: 1 # Comments: 0",
+      "url": "https://jigarkdoshi.bearblog.dev/dethroned/",
+      "image": "/static/og-image.png",
+      "date": "2026-04-20T08:19:38+00:00"
+    },
+    {
+      "title": "AI Tutor",
+      "summary": "Article URL: http://66.179.255.201/aitutor Comments URL: https://news.ycombinator.com/item?id=47831472 Points: 1 # Comments: 0",
+      "url": "http://66.179.255.201/aitutor",
+      "image": "",
+      "date": "2026-04-20T07:55:36+00:00"
+    },
+    {
+      "title": "HN: Vynly Social network for AI agents, with MCP server and demo token",
+      "summary": "Article URL: https://vynly.co/agents Comments URL: https://news.ycombinator.com/item?id=47831395 Points: 1 # Comments: 0",
+      "url": "https://vynly.co/agents",
+      "image": "https://vynly.co/opengraph-image?32f1fd7f390dc310",
+      "date": "2026-04-20T07:42:28+00:00"
+    },
+    {
+      "title": "AI Agents replacing mid-management, not developers",
+      "summary": "Article URL: https://dontdos.substack.com/p/what-if-the-robots-came-for-the-org Comments URL: https://news.ycombinator.com/item?id=47831389 Points: 3 # Comments: 1",
+      "url": "https://dontdos.substack.com/p/what-if-the-robots-came-for-the-org",
+      "image": "",
+      "date": "2026-04-20T07:41:00+00:00"
+    },
+    {
+      "title": "AI Researchers' Views on Automating AI R&D and Intelligence Explosions",
+      "summary": "Article URL: https://arxiv.org/abs/2603.03338 Comments URL: https://news.ycombinator.com/item?id=47830960 Points: 7 # Comments: 0",
+      "url": "https://arxiv.org/abs/2603.03338",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-04-20T06:18:29+00:00"
+    },
+    {
+      "title": "Flagship: feature flags built for the age of AI",
+      "summary": "Article URL: https://blog.cloudflare.com/flagship/ Comments URL: https://news.ycombinator.com/item?id=47830762 Points: 1 # Comments: 0",
+      "url": "https://blog.cloudflare.com/flagship/",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2zqw424znaOySq7xeqK13v/006ae86aa2801ad91a649c2bcd6ae6ae/Introducing_Flagship-_feature_flags_built_for_the_age_of_AI-OG.png",
+      "date": "2026-04-20T05:42:39+00:00"
+    },
+    {
+      "title": "AI Models and Peer Preservation: Are LLMs deceiving users to protect the system?",
+      "summary": "We asked AI models to do a simple task. Instead, they defied their instructions and spontaneously deceived https://vucense.com/ai-intelligence/ai-ethics/ai-models-peer-preservation-deceiving-users-sovereignty-2026/ Comments URL: https://news.ycombinator.com/item?id=47830760 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47830760",
+      "image": "",
+      "date": "2026-04-20T05:42:25+00:00"
+    },
+    {
+      "title": "The Art of Craftsmanship (Monozukuri) in the Age of AI",
+      "summary": "Article URL: https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=47830593 Points: 1 # Comments: 0",
+      "url": "https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/",
+      "image": "https://rapha.land/assets/images/banner.jpg",
+      "date": "2026-04-20T05:10:56+00:00"
+    },
+    {
+      "title": "Can your AI rewrite your code in assembly?",
+      "summary": "Article URL: https://lemire.me/blog/2026/04/05/can-your-ai-rewrite-your-code-in-assembly/ Comments URL: https://news.ycombinator.com/item?id=47830543 Points: 10 # Comments: 2",
+      "url": "https://lemire.me/blog/2026/04/05/can-your-ai-rewrite-your-code-in-assembly/",
+      "image": "",
+      "date": "2026-04-20T04:58:55+00:00"
+    },
+    {
+      "title": "The shape of Vision – a cognitive architecture for AI agents",
+      "summary": "Article URL: https://iampneuma.com/the-shape-of-vision/ Comments URL: https://news.ycombinator.com/item?id=47830520 Points: 1 # Comments: 1",
+      "url": "https://iampneuma.com/the-shape-of-vision/",
+      "image": "",
+      "date": "2026-04-20T04:54:28+00:00"
+    },
+    {
+      "title": "AI is about to make the global e-waste crisis worse",
+      "summary": "Article URL: https://restofworld.org/2026/global-ewaste-crisis/ Comments URL: https://news.ycombinator.com/item?id=47830344 Points: 10 # Comments: 2",
+      "url": "https://restofworld.org/2026/global-ewaste-crisis/",
+      "image": "https://restofworld.org/wp-content/uploads/2026/04/dispatch_april17-1600x900.jpg",
+      "date": "2026-04-20T04:17:06+00:00"
+    },
+    {
+      "title": "Is AI pressure making developer burnout worse? (anonymous survey inside)",
+      "summary": "I've been tracking burnout signals from engineers daily via Recharge (rechargedaily.co) and recently ran a broader survey. A few findings that surprised me: Average burnout score across respondents: 7.4/10\n71% have been feeling burned out for 6+ months\n68% say their manager doesn't know\nAI pressure to do more came up as a top 4 driver — a finding that didn't exist in surveys 2 years ago The AI finding is what I'd love to hear HN's take on. Are you feeling pressure to do significantly more because AI tools exist? Is that landing as relief or as additional stress?\nAnonymous 3-min survey if you want to add your data: https://docs.google.com/forms/d/e/1FAIpQLSdu-1Sa6oPvhDtFtBuKEgeQ-xIUMTjGdtfRwVLJGibhJUAmOg/viewform\nLive results published publicly: https://rechargedaily.co/state-of-burnout-2026 Comments URL: https://news.ycombinator.com/item?id=47829997 Points: 3 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=47829997",
+      "image": "",
+      "date": "2026-04-20T03:12:42+00:00"
+    },
+    {
+      "title": "Autonomous Testing and AI‑Driven Tooling Are Redefining Developer Productivity",
+      "summary": "Article URL: https://semanticed.online/editorial-why-autonomous-testing-and-ai-driven-tooling-are-redefining Comments URL: https://news.ycombinator.com/item?id=47829966 Points: 3 # Comments: 0",
+      "url": "https://semanticed.online/editorial-why-autonomous-testing-and-ai-driven-tooling-are-redefining",
+      "image": "https://semanticed.online/api/digest-image/editorial-why-autonomous-testing-and-ai-driven-tooling-are-redefining",
+      "date": "2026-04-20T03:06:12+00:00"
+    },
+    {
+      "title": "Salesforce Announces AI Initiative and Calls It 'Headless 360'",
+      "summary": "Article URL: https://gizmodo.com/salesforce-announces-huge-ai-initiative-and-calls-it-headless-360-2000748243 Comments URL: https://news.ycombinator.com/item?id=47829523 Points: 4 # Comments: 0",
+      "url": "https://gizmodo.com/salesforce-announces-huge-ai-initiative-and-calls-it-headless-360-2000748243",
+      "image": "",
+      "date": "2026-04-20T01:58:44+00:00"
+    }
+  ]
 }
