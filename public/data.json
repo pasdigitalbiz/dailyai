@@ -1,103 +1,89 @@
 {
-  "generated_at": "2026-04-24T08:20:39.618287+00:00",
+  "generated_at": "2026-04-25T07:44:21.580785+00:00",
   "items": [
     {
-      "title": "I over-engineered my AI coding setup one justified upgrade at a time",
-      "summary": "Article URL: https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over Comments URL: https://news.ycombinator.com/item?id=47887267 Points: 1 # Comments: 0",
-      "url": "https://machinethoughts.substack.com/p/every-upgrade-made-sense-how-i-over",
+      "title": "AMD Ryzen AI Max+ AI PCs Deliver Exceptional Intelligence Right on Your Desk",
+      "summary": "Article URL: https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html Comments URL: https://news.ycombinator.com/item?id=47898945 Points: 1 # Comments: 0",
+      "url": "https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html",
+      "image": "https://www.amd.com/content/dam/amd/en/images/blogs/designs/technical-blogs/consumer-ai-blogs/ces2026/ryzen-ai-max-blog-thumbnail-2.jpg",
+      "date": "2026-04-25T05:34:45+00:00"
+    },
+    {
+      "title": "In visit to Brown, Jaron Lanier says people are thinking about AI all wrong",
+      "summary": "Article URL: https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture Comments URL: https://news.ycombinator.com/item?id=47898893 Points: 3 # Comments: 1",
+      "url": "https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture",
+      "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-04/IMG_7107_1.jpg?h=cb2ca6d5&itok=E6n15fiT",
+      "date": "2026-04-25T05:24:27+00:00"
+    },
+    {
+      "title": "I just beat AI traders with math",
+      "summary": "Article URL: https://pypi.org/project/sagan-trade/ Comments URL: https://news.ycombinator.com/item?id=47898416 Points: 5 # Comments: 3",
+      "url": "https://pypi.org/project/sagan-trade/",
+      "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "date": "2026-04-25T03:39:11+00:00"
+    },
+    {
+      "title": "AI Socratic – The Latest in AI of April 2026",
+      "summary": "Article URL: https://aisocratic.org/blog/ai-socratic-april-2026 Comments URL: https://news.ycombinator.com/item?id=47898225 Points: 2 # Comments: 1",
+      "url": "https://aisocratic.org/blog/ai-socratic-april-2026",
+      "image": "https://pub-7a2c36ac409a4be0a469be59c0e02fd6.r2.dev/blog-assets/covers/1776704871347-etqdjz/original.webp",
+      "date": "2026-04-25T02:59:31+00:00"
+    },
+    {
+      "title": "AI written, edited or 'polished' books are being sold",
+      "summary": "Article URL: https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008 Comments URL: https://news.ycombinator.com/item?id=47898140 Points: 1 # Comments: 0",
+      "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
+      "image": "https://images.theconversation.com/files/728514/original/file-20260407-71-f1rge7.jpg?ixlib=rb-4.1.0&rect=502%2C944%2C5815%2C2907&q=45&auto=format&w=1356&h=668&fit=crop",
+      "date": "2026-04-25T02:41:46+00:00"
+    },
+    {
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 21 # Comments: 3",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "image": "https://stash.alash3al.com/og-image.png",
+      "date": "2026-04-25T01:24:40+00:00"
+    },
+    {
+      "title": "White House Memo on Adversarial Distillation of American AI Models [pdf]",
+      "summary": "Article URL: https://whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf Comments URL: https://news.ycombinator.com/item?id=47897604 Points: 6 # Comments: 1",
+      "url": "https://whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf",
       "image": "",
-      "date": "2026-04-24T08:19:49+00:00"
-    },
-    {
-      "title": "A red pixel in the snow: How AI found a lost climber",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer Comments URL: https://news.ycombinator.com/item?id=47887264 Points: 1 # Comments: 0",
-      "url": "https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer",
-      "image": "https://ychef.files.bbci.co.uk/624x351/p0msxhrc.jpg",
-      "date": "2026-04-24T08:19:43+00:00"
-    },
-    {
-      "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4glw5nyrggo Comments URL: https://news.ycombinator.com/item?id=47887233 Points: 1 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c4glw5nyrggo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e74/live/9f5db040-3e27-11f1-ac78-2112837ce2aa.jpg",
-      "date": "2026-04-24T08:15:36+00:00"
+      "date": "2026-04-25T00:53:13+00:00"
     },
     {
       "title": "You're about to feel the AI money squeeze",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue Comments URL: https://news.ycombinator.com/item?id=47887069 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue Comments URL: https://news.ycombinator.com/item?id=47897208 Points: 2 # Comments: 1",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-04-24T07:55:40+00:00"
+      "date": "2026-04-24T23:50:12+00:00"
     },
     {
-      "title": "Reimagine Python Notebooks in the AI Era",
-      "summary": "Article URL: https://mljar.com/blog/reimagine-python-notebook-in-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47886963 Points: 1 # Comments: 0",
-      "url": "https://mljar.com/blog/reimagine-python-notebook-in-ai-era/",
-      "image": "https://mljar.com/blog/reimagine-python-notebook-in-ai-era/banner.webp",
-      "date": "2026-04-24T07:44:47+00:00"
-    },
-    {
-      "title": "Chinese Hospitals Are Selling Patient Data to Fuel the AI Boom",
-      "summary": "Article URL: https://www.caixinglobal.com/2026-04-20/chinese-hospitals-are-selling-patient-data-to-fuel-the-ai-boom-102435863.html Comments URL: https://news.ycombinator.com/item?id=47886800 Points: 3 # Comments: 0",
-      "url": "https://www.caixinglobal.com/2026-04-20/chinese-hospitals-are-selling-patient-data-to-fuel-the-ai-boom-102435863.html",
-      "image": "https://img.caixin.com/2026-04-18/177647686766326_560_373.jpg",
-      "date": "2026-04-24T07:25:09+00:00"
-    },
-    {
-      "title": "Study Reveals 75% of Enterprises Report Double-Digit AI Failure Rates",
-      "summary": "Article URL: https://www.businesswire.com/news/home/20260309160253/en/New-Study-Reveals-75-of-Enterprises-Report-Double-Digit-AI-Failure-Rates-as-Fragmented-Observability-Hits-Its-Breaking-Point Comments URL: https://news.ycombinator.com/item?id=47886628 Points: 8 # Comments: 1",
-      "url": "https://www.businesswire.com/news/home/20260309160253/en/New-Study-Reveals-75-of-Enterprises-Report-Double-Digit-AI-Failure-Rates-as-Fragmented-Observability-Hits-Its-Breaking-Point",
+      "title": "Alex Bores' AI Policy Framework for Congress [pdf]",
+      "summary": "Article URL: https://www.alexbores.nyc/files/Bores_AI_Framework.pdf Comments URL: https://news.ycombinator.com/item?id=47897105 Points: 1 # Comments: 0",
+      "url": "https://www.alexbores.nyc/files/Bores_AI_Framework.pdf",
       "image": "",
-      "date": "2026-04-24T07:01:16+00:00"
+      "date": "2026-04-24T23:35:27+00:00"
     },
     {
-      "title": "AI and Videogames – Conversational NPCs",
-      "summary": "Article URL: https://www.youtube.com/watch?v=KfcIY0xePiM Comments URL: https://news.ycombinator.com/item?id=47886374 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=KfcIY0xePiM",
+      "title": "Giving AI Agents Database Access Is Way Harder Than It Looks",
+      "summary": "Article URL: https://querybear.com/blog/architecture-of-querybear Comments URL: https://news.ycombinator.com/item?id=47896909 Points: 2 # Comments: 1",
+      "url": "https://querybear.com/blog/architecture-of-querybear",
+      "image": "https://querybear.com/static/blog/architecture-of-querybear-hero-v2.png",
+      "date": "2026-04-24T23:06:19+00:00"
+    },
+    {
+      "title": "The xAI exodus: Meet the people who have left Musk's AI company",
+      "summary": "Article URL: https://www.fastcompany.com/91531084/inside-the-xai-exodus Comments URL: https://news.ycombinator.com/item?id=47896794 Points: 5 # Comments: 0",
+      "url": "https://www.fastcompany.com/91531084/inside-the-xai-exodus",
       "image": "",
-      "date": "2026-04-24T06:31:09+00:00"
+      "date": "2026-04-24T22:53:02+00:00"
     },
     {
-      "title": "Is Unbound AI the future of adult entertainment?",
-      "summary": "Article URL: https://unbound.video/landing4 Comments URL: https://news.ycombinator.com/item?id=47886191 Points: 3 # Comments: 7",
-      "url": "https://unbound.video/landing4",
-      "image": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/699c89c67c052e43edab39e8/416edf1a7_unboundlogo1.png?width=1200&height=630&resize=contain",
-      "date": "2026-04-24T06:05:24+00:00"
-    },
-    {
-      "title": "The Budgeting Mistake That Cost Uber Its Annual AI Spend in 4 Months",
-      "summary": "Article URL: https://www.productcurious.com/p/uber-ai-budget-mistake Comments URL: https://news.ycombinator.com/item?id=47885716 Points: 5 # Comments: 0",
-      "url": "https://www.productcurious.com/p/uber-ai-budget-mistake",
-      "image": "https://substackcdn.com/image/fetch/$s_!SM4_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fd87088-6b09-47a9-b873-cacd3acc2e43_1105x946.png",
-      "date": "2026-04-24T04:55:51+00:00"
-    },
-    {
-      "title": "AI Resume Reviewer",
-      "summary": "Article URL: https://www.thehumancapitalhub.com/ai-resume-reviewer Comments URL: https://news.ycombinator.com/item?id=47885593 Points: 1 # Comments: 0",
-      "url": "https://www.thehumancapitalhub.com/ai-resume-reviewer",
+      "title": "After call from Beijing, China's auto industry races to embed AI in everything",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=47896696 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
       "image": "",
-      "date": "2026-04-24T04:38:32+00:00"
-    },
-    {
-      "title": "The AI Science Separation",
-      "summary": "Article URL: https://www.thewirechina.com/2026/04/19/the-ai-science-separation/ Comments URL: https://news.ycombinator.com/item?id=47885561 Points: 1 # Comments: 0",
-      "url": "https://www.thewirechina.com/2026/04/19/the-ai-science-separation/",
-      "image": "",
-      "date": "2026-04-24T04:34:07+00:00"
-    },
-    {
-      "title": "We're Using So Much AI That Computing Firepower Is Running Out",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85 Comments URL: https://news.ycombinator.com/item?id=47885544 Points: 1 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
-      "image": "",
-      "date": "2026-04-24T04:31:47+00:00"
-    },
-    {
-      "title": "Oracle's Deluge of AI Debt Pushes Wall Street to the Limit",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749 Comments URL: https://news.ycombinator.com/item?id=47885531 Points: 9 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749",
-      "image": "",
-      "date": "2026-04-24T04:30:10+00:00"
+      "date": "2026-04-24T22:39:38+00:00"
     }
   ]
 }
