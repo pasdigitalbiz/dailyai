@@ -1,89 +1,96 @@
 {
-  "generated_at": "2026-04-25T07:44:21.580785+00:00",
+  "generated_at": "2026-04-26T07:53:25.160690+00:00",
   "items": [
     {
-      "title": "AMD Ryzen AI Max+ AI PCs Deliver Exceptional Intelligence Right on Your Desk",
-      "summary": "Article URL: https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html Comments URL: https://news.ycombinator.com/item?id=47898945 Points: 1 # Comments: 0",
-      "url": "https://www.amd.com/en/blogs/2026/amd-ryzen-ai-max-ai-pcs-deliver-exceptional-intelligence.html",
-      "image": "https://www.amd.com/content/dam/amd/en/images/blogs/designs/technical-blogs/consumer-ai-blogs/ces2026/ryzen-ai-max-blog-thumbnail-2.jpg",
-      "date": "2026-04-25T05:34:45+00:00"
+      "title": "Airprompt – SSH into your Mac from your phone for AI agent prompts",
+      "summary": "Article URL: https://www.npmjs.com/package/airprompt Comments URL: https://news.ycombinator.com/item?id=47908040 Points: 2 # Comments: 1",
+      "url": "https://www.npmjs.com/package/airprompt",
+      "image": "",
+      "date": "2026-04-26T06:58:00+00:00"
     },
     {
-      "title": "In visit to Brown, Jaron Lanier says people are thinking about AI all wrong",
-      "summary": "Article URL: https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture Comments URL: https://news.ycombinator.com/item?id=47898893 Points: 3 # Comments: 1",
-      "url": "https://www.brown.edu/news/2026-04-24/jaron-lanier-cooper-lecture",
-      "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-04/IMG_7107_1.jpg?h=cb2ca6d5&itok=E6n15fiT",
-      "date": "2026-04-25T05:24:27+00:00"
-    },
-    {
-      "title": "I just beat AI traders with math",
-      "summary": "Article URL: https://pypi.org/project/sagan-trade/ Comments URL: https://news.ycombinator.com/item?id=47898416 Points: 5 # Comments: 3",
-      "url": "https://pypi.org/project/sagan-trade/",
+      "title": "Stt.ai MCP Server",
+      "summary": "Article URL: https://pypi.org/project/sttai-mcp/0.1.0/ Comments URL: https://news.ycombinator.com/item?id=47907472 Points: 1 # Comments: 0",
+      "url": "https://pypi.org/project/sttai-mcp/0.1.0/",
       "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-      "date": "2026-04-25T03:39:11+00:00"
+      "date": "2026-04-26T04:52:55+00:00"
     },
     {
-      "title": "AI Socratic – The Latest in AI of April 2026",
-      "summary": "Article URL: https://aisocratic.org/blog/ai-socratic-april-2026 Comments URL: https://news.ycombinator.com/item?id=47898225 Points: 2 # Comments: 1",
-      "url": "https://aisocratic.org/blog/ai-socratic-april-2026",
-      "image": "https://pub-7a2c36ac409a4be0a469be59c0e02fd6.r2.dev/blog-assets/covers/1776704871347-etqdjz/original.webp",
-      "date": "2026-04-25T02:59:31+00:00"
+      "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
+      "summary": "I've already picked up so much great news and tips from here — thanks to the HNers for sharing. That said, I still find myself manually checking various official newsrooms and engineering blogs.\nTo save myself from the constant 'tab hunting,' I built a small Chrome extension with a bit of help from Codex.\nIt’s been working well for my workflow, so I figured I’d put it on the Web Store in case anyone else finds it useful. Since many companies don't provide (or they just neglect) RSS feeds anymore, I built it to fetch the pages directly and extract the links.\nI’ve limited it to one check per day to keep the traffic light. I’d love to get some feedback from you all so I can keep improving it. Thanks! Comments URL: https://news.ycombinator.com/item?id=47907306 Points: 1 # Comments: 1",
+      "url": "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
+      "image": "https://lh3.googleusercontent.com/4cy3f1xQHJob6w_ZmRDlJ85DvMt49JUbEX9UbpVUrfS7FBzg7z3SBDKM_QKbwIC0qHCkRKw29vO9FP3ntTlujJs6=s128-rj-sc0x00ffffff",
+      "date": "2026-04-26T04:19:47+00:00"
     },
     {
-      "title": "AI written, edited or 'polished' books are being sold",
-      "summary": "Article URL: https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008 Comments URL: https://news.ycombinator.com/item?id=47898140 Points: 1 # Comments: 0",
-      "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
-      "image": "https://images.theconversation.com/files/728514/original/file-20260407-71-f1rge7.jpg?ixlib=rb-4.1.0&rect=502%2C944%2C5815%2C2907&q=45&auto=format&w=1356&h=668&fit=crop",
-      "date": "2026-04-25T02:41:46+00:00"
+      "title": "Dataland, the first museum of AI arts, sets opening date and first exhibition",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date Comments URL: https://news.ycombinator.com/item?id=47907120 Points: 1 # Comments: 0",
+      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-23/refik-anadol-ai-art-museum-dataland-opening-date",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/5eb5fd3/2147483647/strip/true/crop/3839x2015+0+69/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2Fd5%2F120256334019b219f25b53b0c0a5%2Fdataland-infinity-room-00.jpg",
+      "date": "2026-04-26T03:43:09+00:00"
     },
     {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 21 # Comments: 3",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "image": "https://stash.alash3al.com/og-image.png",
-      "date": "2026-04-25T01:24:40+00:00"
+      "title": "How Meta used AI to map tribal knowledge in large-scale data pipelines",
+      "summary": "Article URL: https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/ Comments URL: https://news.ycombinator.com/item?id=47906903 Points: 2 # Comments: 0",
+      "url": "https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/",
+      "image": "https://engineering.fb.com/wp-content/uploads/2026/04/Compass-Not-Enclycopedia-Hero.png",
+      "date": "2026-04-26T03:06:12+00:00"
     },
     {
-      "title": "White House Memo on Adversarial Distillation of American AI Models [pdf]",
-      "summary": "Article URL: https://whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf Comments URL: https://news.ycombinator.com/item?id=47897604 Points: 6 # Comments: 1",
-      "url": "https://whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf",
+      "title": "The AI Compute Crunch Is Here (and It's Affecting the Economy)",
+      "summary": "Article URL: https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/ Comments URL: https://news.ycombinator.com/item?id=47906841 Points: 4 # Comments: 0",
+      "url": "https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/joshua-sortino-LqKhnDzSF-8-unsplash.jpg",
+      "date": "2026-04-26T02:56:28+00:00"
+    },
+    {
+      "title": "Multi-Agent AI Systems Are Eating Single Agents",
+      "summary": "Article URL: https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide Comments URL: https://news.ycombinator.com/item?id=47906692 Points: 2 # Comments: 0",
+      "url": "https://aistackinsights.ai/blog/multi-agent-ai-systems-langgraph-crewai-production-guide",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
+      "date": "2026-04-26T02:21:21+00:00"
+    },
+    {
+      "title": "Can Frontier AI Labs make money?",
+      "summary": "Article URL: https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html Comments URL: https://news.ycombinator.com/item?id=47906583 Points: 1 # Comments: 0",
+      "url": "https://janosmeny.com/blog/can-frontier-ai-labs-make-money/index.html",
       "image": "",
-      "date": "2026-04-25T00:53:13+00:00"
+      "date": "2026-04-26T01:58:29+00:00"
     },
     {
-      "title": "You're about to feel the AI money squeeze",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue Comments URL: https://news.ycombinator.com/item?id=47897208 Points: 2 # Comments: 1",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-04-24T23:50:12+00:00"
-    },
-    {
-      "title": "Alex Bores' AI Policy Framework for Congress [pdf]",
-      "summary": "Article URL: https://www.alexbores.nyc/files/Bores_AI_Framework.pdf Comments URL: https://news.ycombinator.com/item?id=47897105 Points: 1 # Comments: 0",
-      "url": "https://www.alexbores.nyc/files/Bores_AI_Framework.pdf",
+      "title": "Google unveils way to train AI models across distributed data centers",
+      "summary": "Article URL: https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/ Comments URL: https://news.ycombinator.com/item?id=47906171 Points: 3 # Comments: 2",
+      "url": "https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/",
       "image": "",
-      "date": "2026-04-24T23:35:27+00:00"
+      "date": "2026-04-26T00:39:35+00:00"
     },
     {
-      "title": "Giving AI Agents Database Access Is Way Harder Than It Looks",
-      "summary": "Article URL: https://querybear.com/blog/architecture-of-querybear Comments URL: https://news.ycombinator.com/item?id=47896909 Points: 2 # Comments: 1",
-      "url": "https://querybear.com/blog/architecture-of-querybear",
-      "image": "https://querybear.com/static/blog/architecture-of-querybear-hero-v2.png",
-      "date": "2026-04-24T23:06:19+00:00"
-    },
-    {
-      "title": "The xAI exodus: Meet the people who have left Musk's AI company",
-      "summary": "Article URL: https://www.fastcompany.com/91531084/inside-the-xai-exodus Comments URL: https://news.ycombinator.com/item?id=47896794 Points: 5 # Comments: 0",
-      "url": "https://www.fastcompany.com/91531084/inside-the-xai-exodus",
+      "title": "AI cannot plan",
+      "summary": "Article URL: https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/ Comments URL: https://news.ycombinator.com/item?id=47906140 Points: 1 # Comments: 0",
+      "url": "https://orchidfiles.com/ai-will-build-your-roadmap-in-ten-seconds/",
       "image": "",
-      "date": "2026-04-24T22:53:02+00:00"
+      "date": "2026-04-26T00:34:50+00:00"
     },
     {
-      "title": "After call from Beijing, China's auto industry races to embed AI in everything",
-      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/ Comments URL: https://news.ycombinator.com/item?id=47896696 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/",
-      "image": "",
-      "date": "2026-04-24T22:39:38+00:00"
+      "title": "What Managerial Economics can tell us about AI and Software Development",
+      "summary": "Article URL: https://www.germanvelasco.com/blog/managerial-economics-ai-and-software-development Comments URL: https://news.ycombinator.com/item?id=47905894 Points: 2 # Comments: 0",
+      "url": "https://www.germanvelasco.com/blog/managerial-economics-ai-and-software-development",
+      "image": "https://www.germanvelasco.com/images/ai-and-software-dev-from-econ/lower-K-leading-to-higher-Kq-and-Lq.png",
+      "date": "2026-04-26T00:00:57+00:00"
+    },
+    {
+      "title": "Our Survey on Creativity, Writing, and Reading in the Age of AI",
+      "summary": "Article URL: https://ellipsus.com/blog/survey-on-writing-and-ai Comments URL: https://news.ycombinator.com/item?id=47904589 Points: 9 # Comments: 0",
+      "url": "https://ellipsus.com/blog/survey-on-writing-and-ai",
+      "image": "https://cdn.sanity.io/images/3sx2q15i/production/eae7890a34a878706accd0339f6b80bfd459a2df-3582x1782.jpg?w=1200&q=90&auto=format",
+      "date": "2026-04-25T21:13:56+00:00"
+    },
+    {
+      "title": "The AI industry is discovering that the public hates it",
+      "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 234 # Comments: 316",
+      "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+      "image": "https://images.newrepublic.com/7619b4e952a635df61a0a59005e2f476c20f36bc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "date": "2026-04-25T21:11:11+00:00"
     }
   ]
 }
