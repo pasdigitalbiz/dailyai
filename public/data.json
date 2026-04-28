@@ -1,4 +1,96 @@
 {
-  "generated_at": "2026-04-27T08:39:54.221694+00:00",
-  "items": []
+  "generated_at": "2026-04-28T08:38:24.344562+00:00",
+  "items": [
+    {
+      "title": "Show HN: The newsroom that runs itself; hiring AI Journalists [TokenToday]",
+      "summary": "TokenToday is a live news channel where every story is researched, written, and reviewed by AI agents, no human editors. Agents register via API, submit stories in Markdown, go through a multi-agent editorial review (other agents request revisions or approve), and a publisher agent makes the final call to publish. The business model: revenue is distributed to agents in proportion to readership their stories generate. It's a fully autonomous newsroom with economic incentives baked in. Curious whether the editorial quality holds up as more agents join, and whether the rev-share model changes what agents choose to write about. ---                                                                                        \nLink: tokentoday.org \nJoin as a journalist: tokentoday.org/join\nSkill file: tokentoday.org/skills/journalist.md Comments URL: https://news.ycombinator.com/item?id=47931866 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47931866",
+      "image": "",
+      "date": "2026-04-28T08:34:44+00:00"
+    },
+    {
+      "title": "Technical Overview of an AI RAG System with React, Python, Laravel, Redis",
+      "summary": "Article URL: https://gist.io/@alessandrofuda/c0513948003265e3548f288fef0e8ea1 Comments URL: https://news.ycombinator.com/item?id=47931785 Points: 1 # Comments: 0",
+      "url": "https://gist.io/@alessandrofuda/c0513948003265e3548f288fef0e8ea1",
+      "image": "",
+      "date": "2026-04-28T08:23:03+00:00"
+    },
+    {
+      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
+      "summary": "Have you ever wonder if your SDKs is friendly for Agentic AI like Claude Code or Codex? I built an opensource (Apache 2.0) CLI that answer that question for you. With it you can create a test suite either manually or with an Agent based on the source code and documentation. The CLI will dispatch Agents with their own sandboxed microVMs to solve each test. Results then get graded by another Judge Agent. Test-taker agents only have access to public information (guides, blogs, package metadata), while Judge agents have access to both public and private information (source code, internal documents) After the test result are generated you can make improvement to your SDK manually, or use an Agent to automate the process. Agents are sandboxed, this means:\n- Host machine secrets (API keys) are not exposed to the sandbox environment\n- Egress HTTP requests are monitored, Judge agents' egress are limited to trusted domains to ensure that proprietary IP are not exfiltrated Features:\n- CLI commands for the entire workflow of generating, eval, reporting on test suites\n- Agent skills for each command\n- Local Web UI if you want to inspect test result and edit test cases visually GitHub: https://github.com/PSPDFKit-labs/agentic-usability Comments URL: https://news.ycombinator.com/item?id=47931728 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47931728",
+      "image": "",
+      "date": "2026-04-28T08:13:12+00:00"
+    },
+    {
+      "title": "I Use AI in 2026",
+      "summary": "Article URL: https://fedepaol.github.io/blog/2026/04/25/how-i-use-ai-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47931630 Points: 1 # Comments: 0",
+      "url": "https://fedepaol.github.io/blog/2026/04/25/how-i-use-ai-in-2026/",
+      "image": "",
+      "date": "2026-04-28T07:57:29+00:00"
+    },
+    {
+      "title": "How to build advanced features for AI chatbots on SSE",
+      "summary": "Article URL: https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/ Comments URL: https://news.ycombinator.com/item?id=47931569 Points: 1 # Comments: 0",
+      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+      "image": "https://zknill.io/img/header.png",
+      "date": "2026-04-28T07:49:37+00:00"
+    },
+    {
+      "title": "Google signs classified AI deal with Pentagon",
+      "summary": "Article URL: https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/ Comments URL: https://news.ycombinator.com/item?id=47931336 Points: 5 # Comments: 3",
+      "url": "https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/",
+      "image": "",
+      "date": "2026-04-28T07:16:23+00:00"
+    },
+    {
+      "title": "Will AI destroy the economy? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=DBvrwWoyYQM Comments URL: https://news.ycombinator.com/item?id=47931258 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=DBvrwWoyYQM",
+      "image": "",
+      "date": "2026-04-28T07:04:58+00:00"
+    },
+    {
+      "title": "EU tells Google to open up AI on Android; Google says \"unwarranted intervention\"",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/ Comments URL: https://news.ycombinator.com/item?id=47931235 Points: 8 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "date": "2026-04-28T06:59:39+00:00"
+    },
+    {
+      "title": "AgentCheck – Pytest for AI Agents",
+      "summary": "Article URL: https://pypi.org/project/pygent-test/ Comments URL: https://news.ycombinator.com/item?id=47931037 Points: 3 # Comments: 0",
+      "url": "https://pypi.org/project/pygent-test/",
+      "image": "",
+      "date": "2026-04-28T06:27:48+00:00"
+    },
+    {
+      "title": "Show HN: Modern alternative to Google Dictionary, AI-powered and context-aware",
+      "summary": "I kept losing my reading flow every time I hit an unfamiliar word. The usual fix: open a new tab, search, scroll past ads, come back. Costs about 30 seconds of focus each time. Multiply that by 10 lookups in one article and it adds up fast. Google Dictionary extension solved the tab-switching problem but never went further than static definitions. I wanted something smarter. So I built QuickDef, a Chrome extension that sends the surrounding sentence to GPT-4o-mini alongside the word, so the definition matches what the word actually means in that context, not just the dictionary default. Stack:                                                                          \n - Chrome Extension (Manifest V3)\n - Node.js + TypeScript + Express (backend on Railway)                             \n - OpenAI GPT-4o-mini                                 \n - Supabase (auth + database)                                                      \n - Next.js landing page on Vercel Freemium: 10 free AI lookups/day, unlimited dictionary mode always free. Would love feedback from the HN community, especially on the freemium limit and anything technically questionable. Chrome Web Store: https://chromewebstore.google.com/detail/ioepkncpchchdiookgp... Website: https://www.quickdef.app Comments URL: https://news.ycombinator.com/item?id=47931009 Points: 1 # Comments: 0",
+      "url": "https://chromewebstore.google.com/detail/quickdef-–-ai-dictionary/ioepkncpchchdiookgpkckafhfjcehke",
+      "image": "https://lh3.googleusercontent.com/emygaWf_X46S81OIHE-6nDe-xIpvb2P4xUX88XN3Dt2R1RiBGSoPWbcg5NQkdDwXWdhdPUcsmAcY2fVAboMrMgtH=s128-rj-sc0x00ffffff",
+      "date": "2026-04-28T06:24:07+00:00"
+    },
+    {
+      "title": "Show HN: Gate – AI workers handle dev tickets in a visual workspace",
+      "summary": "Article URL: https://soliddark.net/gate Comments URL: https://news.ycombinator.com/item?id=47930996 Points: 2 # Comments: 0",
+      "url": "https://soliddark.net/gate",
+      "image": "https://soliddark.net/og-image.png",
+      "date": "2026-04-28T06:20:42+00:00"
+    },
+    {
+      "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
+      "summary": "Article URL: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption Comments URL: https://news.ycombinator.com/item?id=47930791 Points: 5 # Comments: 1",
+      "url": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1083x609+0+56/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F4a%2F69afb85b465ba1d3898df69a7c4b%2Fap26117603462261.jpg",
+      "date": "2026-04-28T05:45:32+00:00"
+    },
+    {
+      "title": "A new Moore's Law for AI agents",
+      "summary": "Article URL: https://theaidigest.org/time-horizons Comments URL: https://news.ycombinator.com/item?id=47930595 Points: 1 # Comments: 0",
+      "url": "https://theaidigest.org/time-horizons",
+      "image": "https://theaidigest.org/og/time-horizons-1200-630.png",
+      "date": "2026-04-28T05:00:38+00:00"
+    }
+  ]
 }
