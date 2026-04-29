@@ -1,96 +1,117 @@
 {
-  "generated_at": "2026-04-28T08:38:24.344562+00:00",
+  "generated_at": "2026-04-29T08:31:54.214192+00:00",
   "items": [
     {
-      "title": "Show HN: The newsroom that runs itself; hiring AI Journalists [TokenToday]",
-      "summary": "TokenToday is a live news channel where every story is researched, written, and reviewed by AI agents, no human editors. Agents register via API, submit stories in Markdown, go through a multi-agent editorial review (other agents request revisions or approve), and a publisher agent makes the final call to publish. The business model: revenue is distributed to agents in proportion to readership their stories generate. It's a fully autonomous newsroom with economic incentives baked in. Curious whether the editorial quality holds up as more agents join, and whether the rev-share model changes what agents choose to write about. ---                                                                                        \nLink: tokentoday.org \nJoin as a journalist: tokentoday.org/join\nSkill file: tokentoday.org/skills/journalist.md Comments URL: https://news.ycombinator.com/item?id=47931866 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47931866",
+      "title": "Ubuntu silicon-optimized inference snaps for AI",
+      "summary": "Article URL: https://canonical.com/blog/canonical-releases-inference-snaps Comments URL: https://news.ycombinator.com/item?id=47945595 Points: 1 # Comments: 0",
+      "url": "https://canonical.com/blog/canonical-releases-inference-snaps",
+      "image": "https://ubuntu.com/wp-content/uploads/5b41/Inference-snaps-Banner-2.png",
+      "date": "2026-04-29T08:29:00+00:00"
+    },
+    {
+      "title": "Big AI Cluster Little Power the 8x Nvidia GB10 Cluster – ServeTheHome",
+      "summary": "Article URL: https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/ Comments URL: https://news.ycombinator.com/item?id=47945448 Points: 4 # Comments: 0",
+      "url": "https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/",
+      "image": "https://www.servethehome.com/wp-content/uploads/2026/04/NVIDIA-GB10-8-Way-Cluster-Thumbnail-3.jpg",
+      "date": "2026-04-29T08:09:01+00:00"
+    },
+    {
+      "title": "Workers Training Meta's AI Could Be Laid Off",
+      "summary": "Article URL: https://www.wired.com/story/meta-covalen-ai-workers-layoffs/ Comments URL: https://news.ycombinator.com/item?id=47945279 Points: 15 # Comments: 0",
+      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+      "image": "https://media.wired.com/photos/69f0fa74964675db69fdce76/191:100/w_1280,c_limit/Hundreds-of-Workers-Training-Meta-AI-Are-Being-Laid-Off-Business-2272776906.jpg",
+      "date": "2026-04-29T07:45:00+00:00"
+    },
+    {
+      "title": "Study Finds a Third of New Websites Are AI-Generated",
+      "summary": "Article URL: https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=47945118 Points: 6 # Comments: 0",
+      "url": "https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/04/alex-shuper-nACMb7M2RHI-unsplash.jpg",
+      "date": "2026-04-29T07:19:24+00:00"
+    },
+    {
+      "title": "Rebuilding the Data Stack for AI",
+      "summary": "Article URL: https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/ Comments URL: https://news.ycombinator.com/item?id=47945024 Points: 5 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Bavish-Patel_Rajan-Padmanabhan-V4.png?resize=1200,600",
+      "date": "2026-04-29T07:03:26+00:00"
+    },
+    {
+      "title": "Ask HN: How do you differentiate with AI coding interviews?",
+      "summary": "I haven’t interviewed for a coding job in a while, not since before AI coding was a thing. I’m wondering: if your interview process allows the use of tools like Claude and Codex, how do you differentiate candidates? When I was doing interviews, you would be given some sort of problem statement, and 20 to 50 minutes typically to solve JT. Sometimes you might get a take home problem, or multiple hours to do it. The basic idea was always the same: write some code, and the interviewers judge the quality of your code. There was a lot of debate about the fairness of these processes, but you couldn’t deny that they differentiated candidates. On any problem, some candidates did well and some did bad. They all produced different results. With AI tools, all candidates presumably put in the same prompt (the interview problem statement). If you ask them follow up questions, they all presumably can ask that question to the same LLM. So, beyond some basic floor, do interviews still differentiate candidates? How? Comments URL: https://news.ycombinator.com/item?id=47944894 Points: 3 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47944894",
       "image": "",
-      "date": "2026-04-28T08:34:44+00:00"
+      "date": "2026-04-29T06:43:20+00:00"
     },
     {
-      "title": "Technical Overview of an AI RAG System with React, Python, Laravel, Redis",
-      "summary": "Article URL: https://gist.io/@alessandrofuda/c0513948003265e3548f288fef0e8ea1 Comments URL: https://news.ycombinator.com/item?id=47931785 Points: 1 # Comments: 0",
-      "url": "https://gist.io/@alessandrofuda/c0513948003265e3548f288fef0e8ea1",
+      "title": "AWS launches Amazon Quick desktop AI assistant",
+      "summary": "Article URL: https://aws.amazon.com/quick/ Comments URL: https://news.ycombinator.com/item?id=47944871 Points: 1 # Comments: 1",
+      "url": "https://aws.amazon.com/quick/",
       "image": "",
-      "date": "2026-04-28T08:23:03+00:00"
+      "date": "2026-04-29T06:39:59+00:00"
     },
     {
-      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
-      "summary": "Have you ever wonder if your SDKs is friendly for Agentic AI like Claude Code or Codex? I built an opensource (Apache 2.0) CLI that answer that question for you. With it you can create a test suite either manually or with an Agent based on the source code and documentation. The CLI will dispatch Agents with their own sandboxed microVMs to solve each test. Results then get graded by another Judge Agent. Test-taker agents only have access to public information (guides, blogs, package metadata), while Judge agents have access to both public and private information (source code, internal documents) After the test result are generated you can make improvement to your SDK manually, or use an Agent to automate the process. Agents are sandboxed, this means:\n- Host machine secrets (API keys) are not exposed to the sandbox environment\n- Egress HTTP requests are monitored, Judge agents' egress are limited to trusted domains to ensure that proprietary IP are not exfiltrated Features:\n- CLI commands for the entire workflow of generating, eval, reporting on test suites\n- Agent skills for each command\n- Local Web UI if you want to inspect test result and edit test cases visually GitHub: https://github.com/PSPDFKit-labs/agentic-usability Comments URL: https://news.ycombinator.com/item?id=47931728 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47931728",
+      "title": "Artificial Intelligence in Journalism",
+      "summary": "Article URL: https://cnti.org/issue-primers/artificial-intelligence-in-journalism/ Comments URL: https://news.ycombinator.com/item?id=47944730 Points: 2 # Comments: 0",
+      "url": "https://cnti.org/issue-primers/artificial-intelligence-in-journalism/",
       "image": "",
-      "date": "2026-04-28T08:13:12+00:00"
+      "date": "2026-04-29T06:12:25+00:00"
     },
     {
-      "title": "I Use AI in 2026",
-      "summary": "Article URL: https://fedepaol.github.io/blog/2026/04/25/how-i-use-ai-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47931630 Points: 1 # Comments: 0",
-      "url": "https://fedepaol.github.io/blog/2026/04/25/how-i-use-ai-in-2026/",
+      "title": "Windows 11's 5GB monthly .msu updates, AI is only part of the problem",
+      "summary": "Article URL: https://www.windowslatest.com/2026/04/29/i-investigated-windows-11s-massive-5gb-monthly-msu-updates-ai-is-only-part-of-the-problem/ Comments URL: https://news.ycombinator.com/item?id=47944511 Points: 3 # Comments: 0",
+      "url": "https://www.windowslatest.com/2026/04/29/i-investigated-windows-11s-massive-5gb-monthly-msu-updates-ai-is-only-part-of-the-problem/",
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/04/Windows-updates-have-grown-drastically-in-size-when-compared-to-2024.png",
+      "date": "2026-04-29T05:30:41+00:00"
+    },
+    {
+      "title": "IBM Bob: AI Development Partner",
+      "summary": "Article URL: https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software Comments URL: https://news.ycombinator.com/item?id=47944507 Points: 3 # Comments: 1",
+      "url": "https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software",
+      "image": "https://newsroom.ibm.com/image/Bob+home+page+light_Social.png",
+      "date": "2026-04-29T05:29:28+00:00"
+    },
+    {
+      "title": "Returns to Intelligence",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6578939 Comments URL: https://news.ycombinator.com/item?id=47944502 Points: 2 # Comments: 0",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6578939",
       "image": "",
-      "date": "2026-04-28T07:57:29+00:00"
+      "date": "2026-04-29T05:28:48+00:00"
     },
     {
-      "title": "How to build advanced features for AI chatbots on SSE",
-      "summary": "Article URL: https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/ Comments URL: https://news.ycombinator.com/item?id=47931569 Points: 1 # Comments: 0",
-      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-      "image": "https://zknill.io/img/header.png",
-      "date": "2026-04-28T07:49:37+00:00"
+      "title": "Mistral Workflows: durable AI orchestration built on Temporal",
+      "summary": "Article URL: https://mistral.ai/news/workflows Comments URL: https://news.ycombinator.com/item?id=47944368 Points: 3 # Comments: 0",
+      "url": "https://mistral.ai/news/workflows",
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "date": "2026-04-29T05:05:38+00:00"
     },
     {
-      "title": "Google signs classified AI deal with Pentagon",
-      "summary": "Article URL: https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/ Comments URL: https://news.ycombinator.com/item?id=47931336 Points: 5 # Comments: 3",
-      "url": "https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/",
+      "title": "Perplexity Builds Accuracy into Frontier AI",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai Comments URL: https://news.ycombinator.com/item?id=47944311 Points: 3 # Comments: 0",
+      "url": "https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai",
       "image": "",
-      "date": "2026-04-28T07:16:23+00:00"
+      "date": "2026-04-29T04:55:25+00:00"
     },
     {
-      "title": "Will AI destroy the economy? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=DBvrwWoyYQM Comments URL: https://news.ycombinator.com/item?id=47931258 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=DBvrwWoyYQM",
+      "title": "AI Sandboxes with Memory",
+      "summary": "Code execution sandboxes were designed for CI pipelines, not agents. Agents need to remember what they scraped last Tuesday, fork into 5 parallel browsers, and pick up where they left off. That's a different product category. Try sandflare.io Comments URL: https://news.ycombinator.com/item?id=47944168 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47944168",
       "image": "",
-      "date": "2026-04-28T07:04:58+00:00"
+      "date": "2026-04-29T04:27:49+00:00"
     },
     {
-      "title": "EU tells Google to open up AI on Android; Google says \"unwarranted intervention\"",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/ Comments URL: https://news.ycombinator.com/item?id=47931235 Points: 8 # Comments: 0",
-      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-      "date": "2026-04-28T06:59:39+00:00"
-    },
-    {
-      "title": "AgentCheck – Pytest for AI Agents",
-      "summary": "Article URL: https://pypi.org/project/pygent-test/ Comments URL: https://news.ycombinator.com/item?id=47931037 Points: 3 # Comments: 0",
-      "url": "https://pypi.org/project/pygent-test/",
+      "title": "Why AI Startup Offices in NYC Are Flashy but Mostly Empty",
+      "summary": "Article URL: https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d Comments URL: https://news.ycombinator.com/item?id=47944068 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/real-estate/commercial/why-ai-startup-offices-in-nyc-are-flashy-but-mostly-empty-6882ed3d",
       "image": "",
-      "date": "2026-04-28T06:27:48+00:00"
+      "date": "2026-04-29T04:06:56+00:00"
     },
     {
-      "title": "Show HN: Modern alternative to Google Dictionary, AI-powered and context-aware",
-      "summary": "I kept losing my reading flow every time I hit an unfamiliar word. The usual fix: open a new tab, search, scroll past ads, come back. Costs about 30 seconds of focus each time. Multiply that by 10 lookups in one article and it adds up fast. Google Dictionary extension solved the tab-switching problem but never went further than static definitions. I wanted something smarter. So I built QuickDef, a Chrome extension that sends the surrounding sentence to GPT-4o-mini alongside the word, so the definition matches what the word actually means in that context, not just the dictionary default. Stack:                                                                          \n - Chrome Extension (Manifest V3)\n - Node.js + TypeScript + Express (backend on Railway)                             \n - OpenAI GPT-4o-mini                                 \n - Supabase (auth + database)                                                      \n - Next.js landing page on Vercel Freemium: 10 free AI lookups/day, unlimited dictionary mode always free. Would love feedback from the HN community, especially on the freemium limit and anything technically questionable. Chrome Web Store: https://chromewebstore.google.com/detail/ioepkncpchchdiookgp... Website: https://www.quickdef.app Comments URL: https://news.ycombinator.com/item?id=47931009 Points: 1 # Comments: 0",
-      "url": "https://chromewebstore.google.com/detail/quickdef-–-ai-dictionary/ioepkncpchchdiookgpkckafhfjcehke",
-      "image": "https://lh3.googleusercontent.com/emygaWf_X46S81OIHE-6nDe-xIpvb2P4xUX88XN3Dt2R1RiBGSoPWbcg5NQkdDwXWdhdPUcsmAcY2fVAboMrMgtH=s128-rj-sc0x00ffffff",
-      "date": "2026-04-28T06:24:07+00:00"
-    },
-    {
-      "title": "Show HN: Gate – AI workers handle dev tickets in a visual workspace",
-      "summary": "Article URL: https://soliddark.net/gate Comments URL: https://news.ycombinator.com/item?id=47930996 Points: 2 # Comments: 0",
-      "url": "https://soliddark.net/gate",
-      "image": "https://soliddark.net/og-image.png",
-      "date": "2026-04-28T06:20:42+00:00"
-    },
-    {
-      "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
-      "summary": "Article URL: https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption Comments URL: https://news.ycombinator.com/item?id=47930791 Points: 5 # Comments: 1",
-      "url": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1083x609+0+56/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F4a%2F69afb85b465ba1d3898df69a7c4b%2Fap26117603462261.jpg",
-      "date": "2026-04-28T05:45:32+00:00"
-    },
-    {
-      "title": "A new Moore's Law for AI agents",
-      "summary": "Article URL: https://theaidigest.org/time-horizons Comments URL: https://news.ycombinator.com/item?id=47930595 Points: 1 # Comments: 0",
-      "url": "https://theaidigest.org/time-horizons",
-      "image": "https://theaidigest.org/og/time-horizons-1200-630.png",
-      "date": "2026-04-28T05:00:38+00:00"
+      "title": "After the AI Crash: A Proposal, from the Vanderbilt Policy Accelerator",
+      "summary": "Article URL: https://vanderbiltpolicyaccelerator.substack.com/p/after-the-ai-crash Comments URL: https://news.ycombinator.com/item?id=47944031 Points: 1 # Comments: 0",
+      "url": "https://vanderbiltpolicyaccelerator.substack.com/p/after-the-ai-crash",
+      "image": "",
+      "date": "2026-04-29T03:59:32+00:00"
     }
   ]
 }
