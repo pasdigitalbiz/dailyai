@@ -1,124 +1,131 @@
 {
-  "generated_at": "2026-04-30T08:34:45.720105+00:00",
+  "generated_at": "2026-05-01T08:23:56.723437+00:00",
   "items": [
     {
-      "title": "How are teams bridging the gap between company knowledge and AI agents?",
-      "summary": "AI agents are capable enough to automate real work now. But they keep failing because they don't know how a specific company actually operates. Policies in PDFs. Exceptions in Slack threads. Processes in people's heads. How are teams solving this today? Is anyone beyond dumping docs into RAG pipelines? Comments URL: https://news.ycombinator.com/item?id=47959743 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47959743",
+      "title": "'Completely horrible': UK job hunters share frustration with AI interviews",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews Comments URL: https://news.ycombinator.com/item?id=47971923 Points: 5 # Comments: 4",
+      "url": "https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews",
+      "image": "https://i.guim.co.uk/img/media/95374b7f7a0d89df4409d018af7eb7b1a2bf645a/327_0_5668_4536/master/5668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16ef07e6f75508e7f7826dcef001490d",
+      "date": "2026-05-01T06:52:57+00:00"
+    },
+    {
+      "title": "Ask HN: Bedrock,Vertex AI etc. Support Anthropic Models",
+      "summary": "Is the mechanism more like a smart proxy or do these cloud providers host and serve Anthropic models? if latter, how do they work ? How does Anthropic protect model weights ? Comments URL: https://news.ycombinator.com/item?id=47971901 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47971901",
       "image": "",
-      "date": "2026-04-30T08:25:46+00:00"
+      "date": "2026-05-01T06:49:00+00:00"
     },
     {
-      "title": "Ask HN: What did you streamline with AI agents?",
-      "summary": "How are AI agents making your daily professional life easier? Comments URL: https://news.ycombinator.com/item?id=47959600 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47959600",
+      "title": "The AI supply crunch is here",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47971827 Points: 3 # Comments: 1",
+      "url": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
       "image": "",
-      "date": "2026-04-30T08:03:15+00:00"
+      "date": "2026-05-01T06:34:15+00:00"
     },
     {
-      "title": "Meta shares slide as plan to spend billions more on AI spooks investors",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/crkpd4r2y7eo Comments URL: https://news.ycombinator.com/item?id=47959546 Points: 1 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/crkpd4r2y7eo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ec7/live/6a0f52c0-4469-11f1-97e2-ede52d59c1ad.jpg",
-      "date": "2026-04-30T07:56:43+00:00"
+      "title": "Reunderstanding the Power of AI Through Reverse Engineering",
+      "summary": "Article URL: https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/ Comments URL: https://news.ycombinator.com/item?id=47971741 Points: 1 # Comments: 0",
+      "url": "https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/",
+      "image": "https://blog.huli.tw/img/ai-reverse-engineering-op/cover-en.png",
+      "date": "2026-05-01T06:13:54+00:00"
     },
     {
-      "title": "Coding Was Never the Hard Part: What I Wish Every Business Leader Knew About AI",
-      "summary": "Article URL: https://koushikdasika.com/blog/coding-was-never-the-hard-part/ Comments URL: https://news.ycombinator.com/item?id=47959498 Points: 2 # Comments: 1",
-      "url": "https://koushikdasika.com/blog/coding-was-never-the-hard-part/",
+      "title": "AI Tips and Tricks",
+      "summary": "Article URL: https://www.youtube.com/watch?v=w_m5RmVsmtE Comments URL: https://news.ycombinator.com/item?id=47971410 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=w_m5RmVsmtE",
       "image": "",
-      "date": "2026-04-30T07:49:28+00:00"
+      "date": "2026-05-01T04:52:24+00:00"
     },
     {
-      "title": "VS Code now enables Git AI co-authoring by default",
-      "summary": "Article URL: https://code.visualstudio.com/updates/v1_118#_copilot-added-as-a-git-coauthor-by-default Comments URL: https://news.ycombinator.com/item?id=47959203 Points: 3 # Comments: 0",
-      "url": "https://code.visualstudio.com/updates/v1_118#_copilot-added-as-a-git-coauthor-by-default",
-      "image": "https://code.visualstudio.com/assets/updates/1_118/release-highlights.webp",
-      "date": "2026-04-30T07:08:47+00:00"
+      "title": "10x Faster Real-Time High-Quality AI Video Generation",
+      "summary": "Article URL: https://tenstorrent.com/solutions/real-time-video Comments URL: https://news.ycombinator.com/item?id=47971377 Points: 1 # Comments: 0",
+      "url": "https://tenstorrent.com/solutions/real-time-video",
+      "image": "https://cdn.sanity.io/images/jpb4ed5r/production/7acdab7492baa98707d11f06754a989653b16e64-1200x630.png",
+      "date": "2026-05-01T04:45:10+00:00"
     },
     {
-      "title": "AI Slopocalypse 2027",
-      "summary": "Article URL: https://www.stephendiehl.com/posts/ai_slop_2027/ Comments URL: https://news.ycombinator.com/item?id=47959170 Points: 3 # Comments: 0",
-      "url": "https://www.stephendiehl.com/posts/ai_slop_2027/",
-      "image": "https://www.stephendiehl.com/images/sd-social-preview.png",
-      "date": "2026-04-30T07:03:43+00:00"
+      "title": "AI and the Future of News 2026",
+      "summary": "Article URL: https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news Comments URL: https://news.ycombinator.com/item?id=47971364 Points: 3 # Comments: 0",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news",
+      "image": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/styles/feature_box/public/2026-03/ai_2026._2_0.jpg.jpeg?itok=mJpwLfxK",
+      "date": "2026-05-01T04:43:31+00:00"
     },
     {
-      "title": "Ask HN: Anyone using AI agents for active learning sprints? Here's my setup",
-      "summary": "Hi HN, I'm a big fan of AI's ability to provide personalized tutoring. So, lately, I have been using my Antigravity IDE (you can use any agentic harness) for personal learning. Things that bubble up during my daily work or just things I want to learn. --- *Setup* learning/\n  ├── AGENT.md\n  ├── CURRENT.md\n  ├── linux-admin/\n  │   └── README.md\n  ├── mcp/\n  │   └── README.md\n  ├── micro-gpt/\n  │   └── README.md\n  ├── postgresql/\n  │   ├── PROGRESS.md\n  │   └── README.md\n  └── rag-v2/\n      └── README.md - AGENT.md: agent's role, my learning preferences and goals, instructions about different chores: sequence of files to explore and log things to - CURRENT.md: current topic's directory path -  README.md: topic's learning goals, concepts I want to master - PROGRESS.md: generated and edited by the agent on the fly --- This is ACTIVE learning. As opposed to what Karpathy's LLM Wiki or any personal knowledge base does. The learner undergoes 15-20 minutes learning sprints, tries things hands-on, asks to take notes, goes down the  rabbit hole and agent tutor keeps the learning contextual and personal. I have had an excellent experience with this setup so far. Anyone doing this or anything similar? Comments URL: https://news.ycombinator.com/item?id=47959169 Points: 3 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=47959169",
+      "title": "What do you think of people buying Mac mini's to run AI?",
+      "summary": "Today during Apple's earnings call we heard they're out of mac mini's and back ordered due to huge surge in demand. We know barely any decent size models can run on it. Most of the buyers are buying to run Openclaw in complete isolation from their regular desktops or laptops. A VPS for few dollars/month will be sufficient to run tools like Openclaw. What are your thoughts on why people buying mac minis? Comments URL: https://news.ycombinator.com/item?id=47971335 Points: 1 # Comments: 5",
+      "url": "https://news.ycombinator.com/item?id=47971335",
       "image": "",
-      "date": "2026-04-30T07:03:38+00:00"
+      "date": "2026-05-01T04:34:50+00:00"
     },
     {
-      "title": "RNet: Users pay for their own AI usage instead of apps covering token costs",
-      "summary": "Developers currently pay for AI usage and then recover costs through subscriptions, rate limits, or pricing tiers. This creates a few problems: 1.Apps have to track per-user usage and build complex billing logic. 2.Users end up paying multiple times for the same underlying AI across different apps. I’m experimenting with a different model: users fund their own AI usage directly, similar to prepaid mobile data. In this system: 1.Users preload a balance\n2.Each request is signed by the user\n3.The cost is deducted from the user’s balance per request\n4.Apps don’t pay for tokens or manage billing I built a prototype called rNet. The protocol is live, with client libraries available (npm, Maven), and the docs are open:\nhttps://www.rnetai.org/ This is still early, and I’m mainly looking for feedback—where does this break (technically, economically, or from a UX perspective)? Comments URL: https://news.ycombinator.com/item?id=47959000 Points: 3 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47959000",
+      "title": "Mark Zuckerberg Says AI Costs Contributed to Layoffs of 8k Staffers",
+      "summary": "Article URL: https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/ Comments URL: https://news.ycombinator.com/item?id=47971309 Points: 4 # Comments: 0",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/",
       "image": "",
-      "date": "2026-04-30T06:38:50+00:00"
+      "date": "2026-05-01T04:29:57+00:00"
     },
     {
-      "title": "AI Coding Tools Ranked by Community Sentiment: 4 Weeks of Reddit/HN Data (2026)",
-      "summary": "Article URL: https://murmure.cc/state-of-ai-devtools-2026 Comments URL: https://news.ycombinator.com/item?id=47958869 Points: 1 # Comments: 0",
-      "url": "https://murmure.cc/state-of-ai-devtools-2026",
-      "image": "https://murmure.cc/state-of-ai-devtools-2026/opengraph-image",
-      "date": "2026-04-30T06:21:01+00:00"
-    },
-    {
-      "title": "Banana Pi Announces RISC-V Based BPI‑SM10 Developer Kit and K3 Pico‑ITX AI SBC",
-      "summary": "Article URL: https://forum.banana-pi.org/t/banana-pi-major-release-based-on-spacemit-k3-launching-bpi-sm10-developer-kit-and-k3-pico-itx-sbc/27238 Comments URL: https://news.ycombinator.com/item?id=47958778 Points: 1 # Comments: 0",
-      "url": "https://forum.banana-pi.org/t/banana-pi-major-release-based-on-spacemit-k3-launching-bpi-sm10-developer-kit-and-k3-pico-itx-sbc/27238",
-      "image": "https://forum.banana-pi.org/uploads/default/original/3X/b/4/b4ff3c35a6c7c74c526ee46b402b8ce6abc187e5.jpeg",
-      "date": "2026-04-30T06:08:10+00:00"
-    },
-    {
-      "title": "How AI Is Changing Programming Language Usage",
-      "summary": "Article URL: https://cacm.acm.org/news/how-ai-is-changing-programming-language-usage/ Comments URL: https://news.ycombinator.com/item?id=47958761 Points: 3 # Comments: 0",
-      "url": "https://cacm.acm.org/news/how-ai-is-changing-programming-language-usage/",
+      "title": "Ask HN: In the age of AI do we need to learn how to code?",
+      "summary": "First off i am a software engineer. I had been a developer with C and Rust. In the old days we have to learn a lot a bout these languages even assembly. My days we only focus on C while still have to touch assembly a bit. I saw my frd's kid in college only learning python and a little bit C. I feel like after LLM and ai coding in the future people will skip the C. While I doubt and consider it would cause problem cause lacking of fundermental it seems it's the trend. Comments URL: https://news.ycombinator.com/item?id=47971273 Points: 2 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=47971273",
       "image": "",
-      "date": "2026-04-30T06:06:22+00:00"
+      "date": "2026-05-01T04:23:37+00:00"
     },
     {
-      "title": "Meta shares slide as it hikes AI spending forecast, youth social media backlash",
-      "summary": "Article URL: https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/ Comments URL: https://news.ycombinator.com/item?id=47958707 Points: 1 # Comments: 0",
-      "url": "https://nypost.com/2026/04/29/business/meta-shares-slide-as-tech-giant-hikes-ai-spending-forecast-warns-of-youth-social-media-backlash/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/meta-earnings-mark-zuckerberg.jpg?quality=75&strip=all&1777487370&w=1200",
-      "date": "2026-04-30T05:58:50+00:00"
+      "title": "I made a weird AI kids app (Little Chicken)",
+      "summary": "Article URL: https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036 Comments URL: https://news.ycombinator.com/item?id=47970860 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/7e/c4/ee7ec421-20ad-75ea-7221-6c855c5b00b8/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-05-01T02:55:08+00:00"
     },
     {
-      "title": "Apple's self-designed AI server chip \"Baltra\" may be manufactured by TSMC",
-      "summary": "Article URL: https://technode.com/2026/04/09/apples-self-designed-ai-server-chip-baltra-may-be-manufactured-by-tsmc-using-3nm-n3e-process/ Comments URL: https://news.ycombinator.com/item?id=47958698 Points: 1 # Comments: 0",
-      "url": "https://technode.com/2026/04/09/apples-self-designed-ai-server-chip-baltra-may-be-manufactured-by-tsmc-using-3nm-n3e-process/",
-      "image": "https://technode.com/wp-content/uploads/2025/05/Apple.png",
-      "date": "2026-04-30T05:58:03+00:00"
-    },
-    {
-      "title": "Meta bumped 2026 capex forecast up to $145B for AI boom investors flinched",
-      "summary": "Article URL: https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/ Comments URL: https://news.ycombinator.com/item?id=47958683 Points: 3 # Comments: 3",
-      "url": "https://fortune.com/2026/04/29/meta-zuckerberg-145-billion-ai-spending-roi/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2261841364-e1777501988428.jpg?resize=1200,600",
-      "date": "2026-04-30T05:56:31+00:00"
-    },
-    {
-      "title": "Experimenting with an ISP-style billing model for AI usage",
-      "summary": "Right now: 1. Developers have to track each user's usage, build complex pricing systems to stay profitable, and handle upfront AI token costs. 2. Users pay multiple times for the same AI across different apps. rNet is an attempt to flip that into something closer to an ISP model, where users fund their own usage directly. This is still an early proof of concept. The protocol is live, libraries are published on npm and Maven Central, and the docs are open. I’m mainly interested in feedback on where this breaks — technically or conceptually.\nurl:- https://www.rnetai.org/ Comments URL: https://news.ycombinator.com/item?id=47958635 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47958635",
+      "title": "Cursor's 'Rogue' AI agent goes haywire, deletes company's database [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XBVoLSXaAHA Comments URL: https://news.ycombinator.com/item?id=47970851 Points: 2 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=XBVoLSXaAHA",
       "image": "",
-      "date": "2026-04-30T05:49:19+00:00"
+      "date": "2026-05-01T02:54:16+00:00"
     },
     {
-      "title": "AI optimism surges in Asia, unlike in the U.S.",
-      "summary": "Article URL: https://restofworld.org/2026/ai-optimism-asia/ Comments URL: https://news.ycombinator.com/item?id=47958223 Points: 5 # Comments: 5",
-      "url": "https://restofworld.org/2026/ai-optimism-asia/",
-      "image": "https://restofworld.org/wp-content/uploads/2026/04/RoW-NL-Apr26-2-1600x900.jpg",
-      "date": "2026-04-30T04:46:19+00:00"
+      "title": "AI Value Capture – The Shift to Model Labs",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/ai-value-capture-the-shift-to-model Comments URL: https://news.ycombinator.com/item?id=47970768 Points: 2 # Comments: 0",
+      "url": "https://newsletter.semianalysis.com/p/ai-value-capture-the-shift-to-model",
+      "image": "https://substackcdn.com/image/fetch/$s_!Yyjb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1d0c080-fbf0-4274-a129-4bfea496225e_2752x1536.png",
+      "date": "2026-05-01T02:37:46+00:00"
     },
     {
-      "title": "Infrastructure Spend in the AI Era",
-      "summary": "Article URL: https://redmonk.com/sogrady/2026/04/29/infrastructure-spend-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47957927 Points: 1 # Comments: 0",
-      "url": "https://redmonk.com/sogrady/2026/04/29/infrastructure-spend-in-the-ai-era/",
-      "image": "http://redmonk.com/sogrady/files/2026/04/ppe_absolute_wm-1024x809.png",
-      "date": "2026-04-30T03:59:58+00:00"
+      "title": "Enabling privacy-preserving AI training on everyday devices",
+      "summary": "Article URL: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429 Comments URL: https://news.ycombinator.com/item?id=47970405 Points: 2 # Comments: 0",
+      "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+      "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-Federated-Constrained-01-press.jpg",
+      "date": "2026-05-01T01:31:49+00:00"
+    },
+    {
+      "title": "State of the AI Frontier, April 2026",
+      "summary": "Article URL: https://gertlabs.com/blog/state-of-frontier-april-2026 Comments URL: https://news.ycombinator.com/item?id=47970396 Points: 6 # Comments: 1",
+      "url": "https://gertlabs.com/blog/state-of-frontier-april-2026",
+      "image": "https://gertlabs.com/gert_labs_og_icon_light.png?v=20260403",
+      "date": "2026-05-01T01:30:05+00:00"
+    },
+    {
+      "title": "AI Skills as loader spec, not prompts – why the architecture changes everything",
+      "summary": "Article URL: https://internals.laxmena.com/p/what-youre-actually-writing-when Comments URL: https://news.ycombinator.com/item?id=47970243 Points: 5 # Comments: 0",
+      "url": "https://internals.laxmena.com/p/what-youre-actually-writing-when",
+      "image": "https://substackcdn.com/image/fetch/$s_!kikC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57dcbe69-b354-4bfb-b20f-897b352cd71e_3200x1680.png",
+      "date": "2026-05-01T01:01:09+00:00"
+    },
+    {
+      "title": "What We're Missing About Generative AI",
+      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511 Comments URL: https://news.ycombinator.com/item?id=47970215 Points: 2 # Comments: 0",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511",
+      "image": "",
+      "date": "2026-05-01T00:55:32+00:00"
+    },
+    {
+      "title": "Ask HN: Any dashboards give realtime average AI chatbot response time?",
+      "summary": "Are there any public dashboards that give realtime stats updated every day for average response times for the leading AI chatbots?  It seems that Google Gemini chatbot is much slower than other leading ones, but I'd like to be able to look at statistics over time comparing it to other ones. Comments URL: https://news.ycombinator.com/item?id=47969876 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=47969876",
+      "image": "",
+      "date": "2026-04-30T23:58:47+00:00"
     }
   ]
 }
