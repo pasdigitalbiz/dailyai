@@ -1,131 +1,96 @@
 {
-  "generated_at": "2026-05-01T08:23:56.723437+00:00",
+  "generated_at": "2026-05-02T07:57:53.407367+00:00",
   "items": [
     {
-      "title": "'Completely horrible': UK job hunters share frustration with AI interviews",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews Comments URL: https://news.ycombinator.com/item?id=47971923 Points: 5 # Comments: 4",
-      "url": "https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews",
-      "image": "https://i.guim.co.uk/img/media/95374b7f7a0d89df4409d018af7eb7b1a2bf645a/327_0_5668_4536/master/5668.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16ef07e6f75508e7f7826dcef001490d",
-      "date": "2026-05-01T06:52:57+00:00"
-    },
-    {
-      "title": "Ask HN: Bedrock,Vertex AI etc. Support Anthropic Models",
-      "summary": "Is the mechanism more like a smart proxy or do these cloud providers host and serve Anthropic models? if latter, how do they work ? How does Anthropic protect model weights ? Comments URL: https://news.ycombinator.com/item?id=47971901 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47971901",
+      "title": "Ask HN: Should AI agents have their own legal entities?",
+      "summary": "When an agent spends money or creates liability, who's responsible? \nPersonal accounts are risky and manual LLCs don't really scale? Comments URL: https://news.ycombinator.com/item?id=47984321 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=47984321",
       "image": "",
-      "date": "2026-05-01T06:49:00+00:00"
+      "date": "2026-05-02T07:46:30+00:00"
     },
     {
-      "title": "The AI supply crunch is here",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here Comments URL: https://news.ycombinator.com/item?id=47971827 Points: 3 # Comments: 1",
-      "url": "https://www.economist.com/leaders/2026/04/30/the-ai-supply-crunch-is-here",
+      "title": "Cyber-Insecurity in the AI Era",
+      "summary": "Article URL: https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47984045 Points: 1 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/BP0A9302.jpg?resize=1200,600",
+      "date": "2026-05-02T07:03:26+00:00"
+    },
+    {
+      "title": "Show HN: I made an AI task scheduling app",
+      "summary": "I just wanted to have an AI do research for me so I don't waste time on it. You can leverage your time by letting the AI search and evaluate your favorite stocks price every morning, searching for startup ideas every hour and so on while you focus on something else. I also made the AI customizable with persistent memory so you can give it a 'Jarvis' feel or whatever you desire. The limit is your imagination.  This is my first attempt in any kind of \"app\". Every advice is appreciated, good or bad please be brutally honest with me. Comments URL: https://news.ycombinator.com/item?id=47983643 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/taskmaster-ai-assistant/id6761262496",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/d0/21/15d02108-c05f-68e0-c640-46e5e4e81c9a/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-05-02T05:41:08+00:00"
+    },
+    {
+      "title": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
+      "summary": "Article URL: https://www.theregister.com/2026/01/15/pi_5_ai_hat_2/ Comments URL: https://news.ycombinator.com/item?id=47983529 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/2026/01/15/pi_5_ai_hat_2/",
+      "image": "https://regmedia.co.uk/2026/01/15/ai_hat_on_pi.jpg",
+      "date": "2026-05-02T05:15:15+00:00"
+    },
+    {
+      "title": "The Hiddn Cost of AI Coding Tools: $12,000/Year",
+      "summary": "Article URL: https://blog.devgenius.io/the-hidden-cost-of-ai-coding-tools-12-000-year-for-our-team-4b857f6a8636 Comments URL: https://news.ycombinator.com/item?id=47983224 Points: 3 # Comments: 0",
+      "url": "https://blog.devgenius.io/the-hidden-cost-of-ai-coding-tools-12-000-year-for-our-team-4b857f6a8636",
       "image": "",
-      "date": "2026-05-01T06:34:15+00:00"
+      "date": "2026-05-02T04:12:11+00:00"
     },
     {
-      "title": "Reunderstanding the Power of AI Through Reverse Engineering",
-      "summary": "Article URL: https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/ Comments URL: https://news.ycombinator.com/item?id=47971741 Points: 1 # Comments: 0",
-      "url": "https://blog.huli.tw/2026/04/18/en/ai-reverse-engineering-op/",
-      "image": "https://blog.huli.tw/img/ai-reverse-engineering-op/cover-en.png",
-      "date": "2026-05-01T06:13:54+00:00"
-    },
-    {
-      "title": "AI Tips and Tricks",
-      "summary": "Article URL: https://www.youtube.com/watch?v=w_m5RmVsmtE Comments URL: https://news.ycombinator.com/item?id=47971410 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=w_m5RmVsmtE",
+      "title": "A contribution to solving the existential anxiety problem of AI hallucinations",
+      "summary": "Article URL: https://zenodo.org/records/19608960 Comments URL: https://news.ycombinator.com/item?id=47983123 Points: 1 # Comments: 0",
+      "url": "https://zenodo.org/records/19608960",
       "image": "",
-      "date": "2026-05-01T04:52:24+00:00"
+      "date": "2026-05-02T03:47:57+00:00"
     },
     {
-      "title": "10x Faster Real-Time High-Quality AI Video Generation",
-      "summary": "Article URL: https://tenstorrent.com/solutions/real-time-video Comments URL: https://news.ycombinator.com/item?id=47971377 Points: 1 # Comments: 0",
-      "url": "https://tenstorrent.com/solutions/real-time-video",
-      "image": "https://cdn.sanity.io/images/jpb4ed5r/production/7acdab7492baa98707d11f06754a989653b16e64-1200x630.png",
-      "date": "2026-05-01T04:45:10+00:00"
-    },
-    {
-      "title": "AI and the Future of News 2026",
-      "summary": "Article URL: https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news Comments URL: https://news.ycombinator.com/item?id=47971364 Points: 3 # Comments: 0",
-      "url": "https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news",
-      "image": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/styles/feature_box/public/2026-03/ai_2026._2_0.jpg.jpeg?itok=mJpwLfxK",
-      "date": "2026-05-01T04:43:31+00:00"
-    },
-    {
-      "title": "What do you think of people buying Mac mini's to run AI?",
-      "summary": "Today during Apple's earnings call we heard they're out of mac mini's and back ordered due to huge surge in demand. We know barely any decent size models can run on it. Most of the buyers are buying to run Openclaw in complete isolation from their regular desktops or laptops. A VPS for few dollars/month will be sufficient to run tools like Openclaw. What are your thoughts on why people buying mac minis? Comments URL: https://news.ycombinator.com/item?id=47971335 Points: 1 # Comments: 5",
-      "url": "https://news.ycombinator.com/item?id=47971335",
+      "title": "Sam Altman says OpenAI doesn't want to replace you with AI",
+      "summary": "Article URL: https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/ Comments URL: https://news.ycombinator.com/item?id=47982795 Points: 3 # Comments: 2",
+      "url": "https://www.neowin.net/news/sam-altman-says-that-openai-doesnt-want-to-replace-you-with-ai/",
       "image": "",
-      "date": "2026-05-01T04:34:50+00:00"
+      "date": "2026-05-02T02:34:23+00:00"
     },
     {
-      "title": "Mark Zuckerberg Says AI Costs Contributed to Layoffs of 8k Staffers",
-      "summary": "Article URL: https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/ Comments URL: https://news.ycombinator.com/item?id=47971309 Points: 4 # Comments: 0",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/mark-zuckerberg-says-ai-costs-contributed-to-layoffs-of-8000-staffers-report-says/",
+      "title": "So, About That AI Bubble",
+      "summary": "Article URL: https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/ Comments URL: https://news.ycombinator.com/item?id=47982069 Points: 4 # Comments: 1",
+      "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/",
+      "image": "https://cdn.theatlantic.com/thumbor/cz9zWTIyb6KAz5ePohup0sg09kA=/0x43:2000x1085/1200x625/media/img/mt/2026/04/2026_4_20_AI_Bubble/original.gif",
+      "date": "2026-05-02T00:28:21+00:00"
+    },
+    {
+      "title": "Addressing AI Use in Game Development",
+      "summary": "Article URL: https://darkounity.com/blog/addressing-ai-use-in-game-development Comments URL: https://news.ycombinator.com/item?id=47981826 Points: 1 # Comments: 1",
+      "url": "https://darkounity.com/blog/addressing-ai-use-in-game-development",
+      "image": "https://darkounity.com/api/images/addressing-ai-use-in-game-development-featured.webp",
+      "date": "2026-05-01T23:47:54+00:00"
+    },
+    {
+      "title": "AI Companies Can't Regulate Themselves. They Should Regulate Each Other",
+      "summary": "Article URL: https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other Comments URL: https://news.ycombinator.com/item?id=47981614 Points: 1 # Comments: 0",
+      "url": "https://www.lawfaremedia.org/article/ai-companies-can-t-regulate-themselves-they-should-regulate-each-other",
+      "image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/chatbots-(1).jpg?sfvrsn=c5a4ff6d_5",
+      "date": "2026-05-01T23:16:34+00:00"
+    },
+    {
+      "title": "Industrial Policy for the Intelligence Age [pdf]",
+      "summary": "Article URL: https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf Comments URL: https://news.ycombinator.com/item?id=47981571 Points: 2 # Comments: 0",
+      "url": "https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf",
       "image": "",
-      "date": "2026-05-01T04:29:57+00:00"
+      "date": "2026-05-01T23:10:48+00:00"
     },
     {
-      "title": "Ask HN: In the age of AI do we need to learn how to code?",
-      "summary": "First off i am a software engineer. I had been a developer with C and Rust. In the old days we have to learn a lot a bout these languages even assembly. My days we only focus on C while still have to touch assembly a bit. I saw my frd's kid in college only learning python and a little bit C. I feel like after LLM and ai coding in the future people will skip the C. While I doubt and consider it would cause problem cause lacking of fundermental it seems it's the trend. Comments URL: https://news.ycombinator.com/item?id=47971273 Points: 2 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=47971273",
+      "title": "AI models that consider user's feeling are more likely to make errors",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/ Comments URL: https://news.ycombinator.com/item?id=47981420 Points: 4 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
+      "date": "2026-05-01T22:51:01+00:00"
+    },
+    {
+      "title": "Does threatening an AI agent's existence make it a better gambler?",
+      "summary": "Article URL: https://handyai.substack.com/p/does-threatening-an-ai-agents-existence Comments URL: https://news.ycombinator.com/item?id=47981398 Points: 2 # Comments: 0",
+      "url": "https://handyai.substack.com/p/does-threatening-an-ai-agents-existence",
       "image": "",
-      "date": "2026-05-01T04:23:37+00:00"
-    },
-    {
-      "title": "I made a weird AI kids app (Little Chicken)",
-      "summary": "Article URL: https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036 Comments URL: https://news.ycombinator.com/item?id=47970860 Points: 1 # Comments: 0",
-      "url": "https://apps.apple.com/us/app/kids-games-fun-little-chicken/id6759822036",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/7e/c4/ee7ec421-20ad-75ea-7221-6c855c5b00b8/Placeholder.mill/1200x630wa.jpg",
-      "date": "2026-05-01T02:55:08+00:00"
-    },
-    {
-      "title": "Cursor's 'Rogue' AI agent goes haywire, deletes company's database [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=XBVoLSXaAHA Comments URL: https://news.ycombinator.com/item?id=47970851 Points: 2 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=XBVoLSXaAHA",
-      "image": "",
-      "date": "2026-05-01T02:54:16+00:00"
-    },
-    {
-      "title": "AI Value Capture – The Shift to Model Labs",
-      "summary": "Article URL: https://newsletter.semianalysis.com/p/ai-value-capture-the-shift-to-model Comments URL: https://news.ycombinator.com/item?id=47970768 Points: 2 # Comments: 0",
-      "url": "https://newsletter.semianalysis.com/p/ai-value-capture-the-shift-to-model",
-      "image": "https://substackcdn.com/image/fetch/$s_!Yyjb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1d0c080-fbf0-4274-a129-4bfea496225e_2752x1536.png",
-      "date": "2026-05-01T02:37:46+00:00"
-    },
-    {
-      "title": "Enabling privacy-preserving AI training on everyday devices",
-      "summary": "Article URL: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429 Comments URL: https://news.ycombinator.com/item?id=47970405 Points: 2 # Comments: 0",
-      "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
-      "image": "https://news.mit.edu/sites/default/files/images/202604/MIT-Federated-Constrained-01-press.jpg",
-      "date": "2026-05-01T01:31:49+00:00"
-    },
-    {
-      "title": "State of the AI Frontier, April 2026",
-      "summary": "Article URL: https://gertlabs.com/blog/state-of-frontier-april-2026 Comments URL: https://news.ycombinator.com/item?id=47970396 Points: 6 # Comments: 1",
-      "url": "https://gertlabs.com/blog/state-of-frontier-april-2026",
-      "image": "https://gertlabs.com/gert_labs_og_icon_light.png?v=20260403",
-      "date": "2026-05-01T01:30:05+00:00"
-    },
-    {
-      "title": "AI Skills as loader spec, not prompts – why the architecture changes everything",
-      "summary": "Article URL: https://internals.laxmena.com/p/what-youre-actually-writing-when Comments URL: https://news.ycombinator.com/item?id=47970243 Points: 5 # Comments: 0",
-      "url": "https://internals.laxmena.com/p/what-youre-actually-writing-when",
-      "image": "https://substackcdn.com/image/fetch/$s_!kikC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57dcbe69-b354-4bfb-b20f-897b352cd71e_3200x1680.png",
-      "date": "2026-05-01T01:01:09+00:00"
-    },
-    {
-      "title": "What We're Missing About Generative AI",
-      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511 Comments URL: https://news.ycombinator.com/item?id=47970215 Points: 2 # Comments: 0",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1155/hbe2/2320511",
-      "image": "",
-      "date": "2026-05-01T00:55:32+00:00"
-    },
-    {
-      "title": "Ask HN: Any dashboards give realtime average AI chatbot response time?",
-      "summary": "Are there any public dashboards that give realtime stats updated every day for average response times for the leading AI chatbots?  It seems that Google Gemini chatbot is much slower than other leading ones, but I'd like to be able to look at statistics over time comparing it to other ones. Comments URL: https://news.ycombinator.com/item?id=47969876 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=47969876",
-      "image": "",
-      "date": "2026-04-30T23:58:47+00:00"
+      "date": "2026-05-01T22:48:09+00:00"
     }
   ]
 }
