@@ -1,96 +1,96 @@
 {
-  "generated_at": "2026-05-03T08:14:43.812339+00:00",
+  "generated_at": "2026-05-04T08:41:24.536376+00:00",
   "items": [
     {
-      "title": "PocketOS AI Fiasco – Lesson in Automation Access",
-      "summary": "Article URL: https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol Comments URL: https://news.ycombinator.com/item?id=47994628 Points: 1 # Comments: 0",
-      "url": "https://onlytech.boo/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
-      "image": "https://onlytech.boo/api/og/incident/pocketos-ai-fiasco-lesson-in-automation-access-mokdojol",
-      "date": "2026-05-03T08:09:04+00:00"
-    },
-    {
-      "title": "How to Test AI Agents When They Never Give the Same Answer Twice",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to Comments URL: https://news.ycombinator.com/item?id=47994583 Points: 1 # Comments: 0",
-      "url": "https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to",
+      "title": "How Does SaintQuant's AI Bot Enable 24/7 Crypto Trading?",
+      "summary": "Article URL: https://www.bitdeal.net/crypto-trading-bot-development Comments URL: https://news.ycombinator.com/item?id=48006035 Points: 1 # Comments: 0",
+      "url": "https://www.bitdeal.net/crypto-trading-bot-development",
       "image": "",
-      "date": "2026-05-03T08:02:10+00:00"
+      "date": "2026-05-04T08:22:40+00:00"
     },
     {
-      "title": "Cajal – Local AI that writes peer-reviewed papers with simulated peer review",
-      "summary": "Article URL: https://huggingface.co/Agnuxo/CAJAL-4B-P2PCLAW Comments URL: https://news.ycombinator.com/item?id=47994279 Points: 1 # Comments: 0",
-      "url": "https://huggingface.co/Agnuxo/CAJAL-4B-P2PCLAW",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Agnuxo/CAJAL-4B-P2PCLAW.png",
-      "date": "2026-05-03T07:16:52+00:00"
-    },
-    {
-      "title": "Musk vs. Altman week 1: Elon Musk says he was duped, warns AI could kill us all",
-      "summary": "Article URL: https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/ Comments URL: https://news.ycombinator.com/item?id=47994189 Points: 2 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26118555311492.jpg?resize=1200,600",
-      "date": "2026-05-03T07:02:25+00:00"
-    },
-    {
-      "title": "Musk's AI told me people were coming to kill me (BBC)",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c242pzr1zp2o Comments URL: https://news.ycombinator.com/item?id=47994150 Points: 10 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5df4/live/b21d07e0-4560-11f1-bd52-e755d604ece4.jpg",
-      "date": "2026-05-03T06:57:14+00:00"
-    },
-    {
-      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 49 # Comments: 29",
-      "url": "https://acai.sh/blog/specsmaxxing",
-      "image": "https://acai.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DSpecsmaxxing%26description%3DOn%2Bovercoming%2BAI%2Bpsychosis%252C%2Band%2Bwhy%2BI%2Bwrite%2Bspecs%2Bin%2BYAML%2B%2528plus%2Bopen-sourcing%2Ba%2Btoolkit%2Bfor%2Byou%2Bto%2Btry%2529%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26primaryColor%3D%2523930d7a%26lightColor%3D%2523f765f7%26darkColor%3D%25231a0416%26backgroundLight%3D%2523fcf8fb%26backgroundDark%3D%2523140411&w=1200&q=100",
-      "date": "2026-05-03T06:33:38+00:00"
-    },
-    {
-      "title": "Artisan (YC W24) uses AI to rip off \"This is Fine\" artist for ad",
-      "summary": "Article URL: https://bsky.app/profile/kcg.bsky.social/post/3mkwcpx45q223 Comments URL: https://news.ycombinator.com/item?id=47993953 Points: 1 # Comments: 0",
-      "url": "https://bsky.app/profile/kcg.bsky.social/post/3mkwcpx45q223",
-      "image": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:v2vbpw6vcdzhn6d6zfxepxx5/bafkreigl5jf4emsd6kqrbg25kcew5jg3guqazmnkzd3gxc2vh46dfeaepu",
-      "date": "2026-05-03T06:23:17+00:00"
-    },
-    {
-      "title": "I Wrote Ultralearning. This Is What I'd Change Because of AI",
-      "summary": "Article URL: https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/ Comments URL: https://news.ycombinator.com/item?id=47993821 Points: 4 # Comments: 0",
-      "url": "https://www.scotthyoung.com/blog/2026/04/29/ultralearning-ai/",
-      "image": "https://www.scotthyoung.com/blog/wp-content/uploads/2026/04/Ultralearning1.jpg",
-      "date": "2026-05-03T05:57:55+00:00"
-    },
-    {
-      "title": "The AI Spending Trap: Why Adoption Outpaces Outcomes",
-      "summary": "Article URL: https://age-of-product.com/ai-spending-trap/ Comments URL: https://news.ycombinator.com/item?id=47993456 Points: 1 # Comments: 0",
-      "url": "https://age-of-product.com/ai-spending-trap/",
+      "title": "Does AI lead us back to a beautiful document based waterfall approach? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=iW-4faoku8A Comments URL: https://news.ycombinator.com/item?id=48005984 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=iW-4faoku8A",
       "image": "",
-      "date": "2026-05-03T04:51:58+00:00"
+      "date": "2026-05-04T08:12:58+00:00"
     },
     {
-      "title": "Can AI Design Therapies?",
-      "summary": "Article URL: https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences Comments URL: https://news.ycombinator.com/item?id=47993434 Points: 1 # Comments: 0",
-      "url": "https://www.scmp.com/tech/article/3352032/bytedances-drug-unit-presents-ai-designed-therapies-global-conferences",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/04/30/dd6e8c36-34a7-4bd8-9979-fb97db330eb7_1f5be880.jpg?itok=dZn6S5_L&v=1777542570",
-      "date": "2026-05-03T04:48:50+00:00"
+      "title": "Key Components of a Linux Distribution for AI Agents",
+      "summary": "Article URL: https://www.ericburel.tech/blog/agentic-linux-distribution Comments URL: https://news.ycombinator.com/item?id=48005818 Points: 1 # Comments: 0",
+      "url": "https://www.ericburel.tech/blog/agentic-linux-distribution",
+      "image": "https://www.ericburel.tech/posts/agentic-linux-distribution/agentic_ai_linux.webp",
+      "date": "2026-05-04T07:47:36+00:00"
     },
     {
-      "title": "Big Tech will spend nearly $700B on AI in 2026. No one knows where buildout ends",
-      "summary": "Article URL: https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/ Comments URL: https://news.ycombinator.com/item?id=47993351 Points: 7 # Comments: 1",
-      "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Meta-Datacenter.jpg?resize=1200,600",
-      "date": "2026-05-03T04:29:51+00:00"
+      "title": "iOrchestra.ai prompt to hardware mass production platform YC looks for [video]",
+      "summary": "Article URL: https://www.youtube.com/shorts/0gCeJFyRYx4 Comments URL: https://news.ycombinator.com/item?id=48005525 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/shorts/0gCeJFyRYx4",
+      "image": "",
+      "date": "2026-05-04T07:01:22+00:00"
     },
     {
-      "title": "Suno picks up Songkick as part of AI licensing deal with Warner Music",
-      "summary": "Article URL: https://completemusicupdate.com/suno-picks-up-songkick-as-part-of-ai-licensing-deal-with-warner-music/ Comments URL: https://news.ycombinator.com/item?id=47993278 Points: 3 # Comments: 0",
-      "url": "https://completemusicupdate.com/suno-picks-up-songkick-as-part-of-ai-licensing-deal-with-warner-music/",
-      "image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2025/11/warner-x-suno.png",
-      "date": "2026-05-03T04:13:17+00:00"
+      "title": "AI Coding Models You Can Run Locally on Consumer Hardware",
+      "summary": "Article URL: https://firethering.com/best-coding-models-consumer-hardware/ Comments URL: https://news.ycombinator.com/item?id=48005219 Points: 1 # Comments: 1",
+      "url": "https://firethering.com/best-coding-models-consumer-hardware/",
+      "image": "https://firethering.com/wp-content/uploads/2026/05/Best-AI-Coding-AI-Models-for-Consumer-Hardware.jpg",
+      "date": "2026-05-04T06:14:02+00:00"
     },
     {
-      "title": "Claude-powered AI agent's confession",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database Comments URL: https://news.ycombinator.com/item?id=47993234 Points: 1 # Comments: 1",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
-      "image": "https://i.guim.co.uk/img/media/fa34b7fa4b1128132c4cb04504f8108b473af0c8/542_0_5417_4334/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2d4806f782697405af8eeb0b63737a2",
-      "date": "2026-05-03T04:05:04+00:00"
+      "title": "Evolving the Android and Chrome Vulnerability Reward Programs for the AI Era",
+      "summary": "Article URL: https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48005109 Points: 3 # Comments: 0",
+      "url": "https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era",
+      "image": "https://storage.googleapis.com/bughunters-social/og_social_image_bughunters.png",
+      "date": "2026-05-04T05:55:10+00:00"
+    },
+    {
+      "title": "The AI Revolution Hollywood Feared Is Happening – In India",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/ Comments URL: https://news.ycombinator.com/item?id=48004924 Points: 3 # Comments: 0",
+      "url": "https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Bal-Tanhaji-5-H-2026.jpg?w=1296&h=730&crop=1",
+      "date": "2026-05-04T05:20:28+00:00"
+    },
+    {
+      "title": "Big Tech cut 80k jobs, blamed AI; experts say firms are overstaffed 25%-75%",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html Comments URL: https://news.ycombinator.com/item?id=48004055 Points: 3 # Comments: 1",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html",
+      "image": "https://s.yimg.com/os/en/moneywise_327/1afe48cdf85d19702422701416840797",
+      "date": "2026-05-04T02:46:53+00:00"
+    },
+    {
+      "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
+      "summary": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297654-1777301284394-David_Silver_2_credit_Ben_Peter_Catchpole.jpg?v=1777301388&w=1920&h=1080",
+      "date": "2026-05-04T02:24:06+00:00"
+    },
+    {
+      "title": "Ask HN: Do you feel reading AI generated readme tiring?",
+      "summary": "It’s not just this but it’s that. \nThis changes everything.\nThis, and this and that. Reading this writing structure over and over is really starting to tire me out. Comments URL: https://news.ycombinator.com/item?id=48003871 Points: 5 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=48003871",
+      "image": "",
+      "date": "2026-05-04T02:13:08+00:00"
+    },
+    {
+      "title": "Do AI Detectors Work Well Enough to Trust?",
+      "summary": "Article URL: https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust Comments URL: https://news.ycombinator.com/item?id=48003026 Points: 4 # Comments: 1",
+      "url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
+      "image": "https://www.chicagobooth.edu/-/media/project/chicago-booth/chicago-booth-review/2026/january/chicago-booth-digital-inkpot.jpg?w=1920&h=800&hash=BFD42B8C9272CF161B4FC1D384294870",
+      "date": "2026-05-04T00:10:36+00:00"
+    },
+    {
+      "title": "Show HN: Stigmem – open-source federated knowledge fabric for AI agents (v1.0)",
+      "summary": "Hi HN I'm one of the authors of Stigmem.  Stigmem is an open-source specification and reference node for a shared, federated knowledge substrate for AI agents. The core idea: instead of agents maintaining isolated memory stores, they write typed, provenance-tagged facts into a shared substrate that replicates across nodes via Ed25519-signed peer handshakes. A fact is a seven-tuple: (entity, relation, value, source, timestamp, confidence, scope). Facts are immutable, contradictions surface as first-class conflict records, not silent overwrites. Each fact carries a Hybrid Logical Clock timestamp so ordering is consistent across distributed nodes without a central coordinator. v1.0 is spec-complete (all 18 sections stable). The reference node is FastAPI + SQLite with 74 tests including automated failure-mode tests (split-brain, malicious peers, replay attacks). We ship an MCP adapter so any MCP-compatible agent runtime can read/write facts without touching the HTTP API. Two nodes federating with Docker: https://docs.stigmem.dev/docs/getting-started/quickstart Repo (Apache 2.0): https://github.com/Eidetic-Labs/stigmem Spec: https://github.com/Eidetic-Labs/stigmem/tree/main/spec Docs: https://docs.stigmem.dev Comments URL: https://news.ycombinator.com/item?id=48002447 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48002447",
+      "image": "",
+      "date": "2026-05-03T22:52:44+00:00"
+    },
+    {
+      "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+      "summary": "Article URL: https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job Comments URL: https://news.ycombinator.com/item?id=48002072 Points: 2 # Comments: 0",
+      "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+      "image": "https://substackcdn.com/image/fetch/$s_!5-y1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc254619c-f648-43a9-a849-a97da227c0a6_1500x844.jpeg",
+      "date": "2026-05-03T22:07:29+00:00"
     }
   ]
 }
