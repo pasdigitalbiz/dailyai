@@ -1,96 +1,82 @@
 {
-  "generated_at": "2026-05-04T08:41:24.536376+00:00",
+  "generated_at": "2026-05-05T08:26:23.490863+00:00",
   "items": [
     {
-      "title": "How Does SaintQuant's AI Bot Enable 24/7 Crypto Trading?",
-      "summary": "Article URL: https://www.bitdeal.net/crypto-trading-bot-development Comments URL: https://news.ycombinator.com/item?id=48006035 Points: 1 # Comments: 0",
-      "url": "https://www.bitdeal.net/crypto-trading-bot-development",
+      "title": "SAP buys Dremio, Prior Labs for AI data push",
+      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/sap-buys-dremio-prior-labs-161337813.html Comments URL: https://news.ycombinator.com/item?id=48019431 Points: 2 # Comments: 1",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/sap-buys-dremio-prior-labs-161337813.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/CnaRbNznVJHWMdjffjz4UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cio_dive_389/26350431a366e79f809052b279bcde09",
+      "date": "2026-05-05T08:11:46+00:00"
+    },
+    {
+      "title": "AI psychosis is real, and you probably have it",
+      "summary": "Article URL: https://www.vellum.ai/blog/ai-psychosis-is-real Comments URL: https://news.ycombinator.com/item?id=48019261 Points: 3 # Comments: 0",
+      "url": "https://www.vellum.ai/blog/ai-psychosis-is-real",
+      "image": "https://cdn.sanity.io/images/ghjnhoi4/production/814c2242174cafd2d587db346f877b3f1462982f-320x200.png",
+      "date": "2026-05-05T07:42:01+00:00"
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 57 # Comments: 27",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
+      "date": "2026-05-05T07:34:55+00:00"
+    },
+    {
+      "title": "RAG vs. Fine-Tuning: Which AI Strategy Saves Your Team Time and Budget",
+      "summary": "Article URL: https://lightrains.com/blogs/rag-vs-fine-tuning-enterprise-ai/ Comments URL: https://news.ycombinator.com/item?id=48019164 Points: 2 # Comments: 0",
+      "url": "https://lightrains.com/blogs/rag-vs-fine-tuning-enterprise-ai/",
+      "image": "/open-graph/blogs/rag-vs-fine-tuning-enterprise-ai.png?v=cd8300b",
+      "date": "2026-05-05T07:26:06+00:00"
+    },
+    {
+      "title": "Counting wires and insulators on poles using AI (using open-source Revdoku)",
+      "summary": "Article URL: https://revdoku.com/cases/utility-pole-wire-insulator-count/ Comments URL: https://news.ycombinator.com/item?id=48019120 Points: 1 # Comments: 0",
+      "url": "https://revdoku.com/cases/utility-pole-wire-insulator-count/",
+      "image": "https://revdoku.com/assets/cases/utility-pole-wire-insulator-count/og.webp",
+      "date": "2026-05-05T07:18:44+00:00"
+    },
+    {
+      "title": "AI is 'creating an enormous number of jobs'",
+      "summary": "Article URL: https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/ Comments URL: https://news.ycombinator.com/item?id=48018935 Points: 3 # Comments: 0",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "date": "2026-05-05T06:47:32+00:00"
+    },
+    {
+      "title": "Cost of AI-Driven Development",
+      "summary": "Article URL: https://blog.codonomics.com/2026/05/cost-of-ai-driven-development.html Comments URL: https://news.ycombinator.com/item?id=48018521 Points: 1 # Comments: 1",
+      "url": "https://blog.codonomics.com/2026/05/cost-of-ai-driven-development.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw8aJQGIYi4UIEwFmIkdhqLpn6OFZMih9jUrMD04TBwDWweJQPXFD_5byVP7W8_ei1ZbozlxFXxu-FaRbsCFLIXaNFL8yZc8qWxQkJPRgFw6lRZWx2_KnlpVOFFzOPql6p55rcZS9Vi6S6BGaxz_xpCP6Ia5EbtPyt6qUenFSpeTX3RduCorUFKauVOHs/w1200-h630-p-k-no-nu/claude-code-welcome.png",
+      "date": "2026-05-05T05:43:38+00:00"
+    },
+    {
+      "title": "OpenAI Raises $4B for 'The Deployment Company' to Help Businesses Leverage AI",
+      "summary": "Article URL: https://officechai.com/ai/openai-raises-4-billion-for-the-deployment-company-to-help-businesses-leverage-ai/ Comments URL: https://news.ycombinator.com/item?id=48018458 Points: 1 # Comments: 1",
+      "url": "https://officechai.com/ai/openai-raises-4-billion-for-the-deployment-company-to-help-businesses-leverage-ai/",
       "image": "",
-      "date": "2026-05-04T08:22:40+00:00"
+      "date": "2026-05-05T05:34:55+00:00"
     },
     {
-      "title": "Does AI lead us back to a beautiful document based waterfall approach? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iW-4faoku8A Comments URL: https://news.ycombinator.com/item?id=48005984 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=iW-4faoku8A",
+      "title": "Anthropic entering AI services business",
+      "summary": "Article URL: https://www.anthropic.com/news/enterprise-ai-services-company Comments URL: https://news.ycombinator.com/item?id=48018344 Points: 2 # Comments: 0",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+      "date": "2026-05-05T05:17:34+00:00"
+    },
+    {
+      "title": "I built a WordPress AI agent that handles sales and support (No monthly fees)",
+      "summary": "Article URL: https://www.indiehackers.com/post/i-built-a-wordpress-ai-agent-that-handles-sales-and-support-no-monthly-fees-ICax5uOircJAVYrmRH1N Comments URL: https://news.ycombinator.com/item?id=48018289 Points: 1 # Comments: 0",
+      "url": "https://www.indiehackers.com/post/i-built-a-wordpress-ai-agent-that-handles-sales-and-support-no-monthly-fees-ICax5uOircJAVYrmRH1N",
+      "image": "https://storage.googleapis.com/indie-hackers.appspot.com/shareable-images/posts/ICax5uOircJAVYrmRH1N",
+      "date": "2026-05-05T05:08:47+00:00"
+    },
+    {
+      "title": "Anthropic co-founder Jack Clark: 60%+ chance of automated AI R&D by 2029",
+      "summary": "Article URL: https://importai.substack.com/p/import-ai-455-automating-ai-research Comments URL: https://news.ycombinator.com/item?id=48018212 Points: 6 # Comments: 1",
+      "url": "https://importai.substack.com/p/import-ai-455-automating-ai-research",
       "image": "",
-      "date": "2026-05-04T08:12:58+00:00"
-    },
-    {
-      "title": "Key Components of a Linux Distribution for AI Agents",
-      "summary": "Article URL: https://www.ericburel.tech/blog/agentic-linux-distribution Comments URL: https://news.ycombinator.com/item?id=48005818 Points: 1 # Comments: 0",
-      "url": "https://www.ericburel.tech/blog/agentic-linux-distribution",
-      "image": "https://www.ericburel.tech/posts/agentic-linux-distribution/agentic_ai_linux.webp",
-      "date": "2026-05-04T07:47:36+00:00"
-    },
-    {
-      "title": "iOrchestra.ai prompt to hardware mass production platform YC looks for [video]",
-      "summary": "Article URL: https://www.youtube.com/shorts/0gCeJFyRYx4 Comments URL: https://news.ycombinator.com/item?id=48005525 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/shorts/0gCeJFyRYx4",
-      "image": "",
-      "date": "2026-05-04T07:01:22+00:00"
-    },
-    {
-      "title": "AI Coding Models You Can Run Locally on Consumer Hardware",
-      "summary": "Article URL: https://firethering.com/best-coding-models-consumer-hardware/ Comments URL: https://news.ycombinator.com/item?id=48005219 Points: 1 # Comments: 1",
-      "url": "https://firethering.com/best-coding-models-consumer-hardware/",
-      "image": "https://firethering.com/wp-content/uploads/2026/05/Best-AI-Coding-AI-Models-for-Consumer-Hardware.jpg",
-      "date": "2026-05-04T06:14:02+00:00"
-    },
-    {
-      "title": "Evolving the Android and Chrome Vulnerability Reward Programs for the AI Era",
-      "summary": "Article URL: https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era Comments URL: https://news.ycombinator.com/item?id=48005109 Points: 3 # Comments: 0",
-      "url": "https://bughunters.google.com/blog/evolving-the-android-chrome-vrps-for-the-ai-era",
-      "image": "https://storage.googleapis.com/bughunters-social/og_social_image_bughunters.png",
-      "date": "2026-05-04T05:55:10+00:00"
-    },
-    {
-      "title": "The AI Revolution Hollywood Feared Is Happening – In India",
-      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/ Comments URL: https://news.ycombinator.com/item?id=48004924 Points: 3 # Comments: 0",
-      "url": "https://www.hollywoodreporter.com/business/digital/india-ai-filmmaking-1236548136/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Bal-Tanhaji-5-H-2026.jpg?w=1296&h=730&crop=1",
-      "date": "2026-05-04T05:20:28+00:00"
-    },
-    {
-      "title": "Big Tech cut 80k jobs, blamed AI; experts say firms are overstaffed 25%-75%",
-      "summary": "Article URL: https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html Comments URL: https://news.ycombinator.com/item?id=48004055 Points: 3 # Comments: 1",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html",
-      "image": "https://s.yimg.com/os/en/moneywise_327/1afe48cdf85d19702422701416840797",
-      "date": "2026-05-04T02:46:53+00:00"
-    },
-    {
-      "title": "Ex-DeepMind David Silver Raises $1.1B for AI Startup Ineffable",
-      "summary": "Article URL: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html Comments URL: https://news.ycombinator.com/item?id=48003934 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297654-1777301284394-David_Silver_2_credit_Ben_Peter_Catchpole.jpg?v=1777301388&w=1920&h=1080",
-      "date": "2026-05-04T02:24:06+00:00"
-    },
-    {
-      "title": "Ask HN: Do you feel reading AI generated readme tiring?",
-      "summary": "It’s not just this but it’s that. \nThis changes everything.\nThis, and this and that. Reading this writing structure over and over is really starting to tire me out. Comments URL: https://news.ycombinator.com/item?id=48003871 Points: 5 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=48003871",
-      "image": "",
-      "date": "2026-05-04T02:13:08+00:00"
-    },
-    {
-      "title": "Do AI Detectors Work Well Enough to Trust?",
-      "summary": "Article URL: https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust Comments URL: https://news.ycombinator.com/item?id=48003026 Points: 4 # Comments: 1",
-      "url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
-      "image": "https://www.chicagobooth.edu/-/media/project/chicago-booth/chicago-booth-review/2026/january/chicago-booth-digital-inkpot.jpg?w=1920&h=800&hash=BFD42B8C9272CF161B4FC1D384294870",
-      "date": "2026-05-04T00:10:36+00:00"
-    },
-    {
-      "title": "Show HN: Stigmem – open-source federated knowledge fabric for AI agents (v1.0)",
-      "summary": "Hi HN I'm one of the authors of Stigmem.  Stigmem is an open-source specification and reference node for a shared, federated knowledge substrate for AI agents. The core idea: instead of agents maintaining isolated memory stores, they write typed, provenance-tagged facts into a shared substrate that replicates across nodes via Ed25519-signed peer handshakes. A fact is a seven-tuple: (entity, relation, value, source, timestamp, confidence, scope). Facts are immutable, contradictions surface as first-class conflict records, not silent overwrites. Each fact carries a Hybrid Logical Clock timestamp so ordering is consistent across distributed nodes without a central coordinator. v1.0 is spec-complete (all 18 sections stable). The reference node is FastAPI + SQLite with 74 tests including automated failure-mode tests (split-brain, malicious peers, replay attacks). We ship an MCP adapter so any MCP-compatible agent runtime can read/write facts without touching the HTTP API. Two nodes federating with Docker: https://docs.stigmem.dev/docs/getting-started/quickstart Repo (Apache 2.0): https://github.com/Eidetic-Labs/stigmem Spec: https://github.com/Eidetic-Labs/stigmem/tree/main/spec Docs: https://docs.stigmem.dev Comments URL: https://news.ycombinator.com/item?id=48002447 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48002447",
-      "image": "",
-      "date": "2026-05-03T22:52:44+00:00"
-    },
-    {
-      "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
-      "summary": "Article URL: https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job Comments URL: https://news.ycombinator.com/item?id=48002072 Points: 2 # Comments: 0",
-      "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
-      "image": "https://substackcdn.com/image/fetch/$s_!5-y1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc254619c-f648-43a9-a849-a97da227c0a6_1500x844.jpeg",
-      "date": "2026-05-03T22:07:29+00:00"
+      "date": "2026-05-05T04:56:44+00:00"
     }
   ]
 }
