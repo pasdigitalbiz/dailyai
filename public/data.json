@@ -1,110 +1,96 @@
 {
-  "generated_at": "2026-05-07T08:46:47.737594+00:00",
+  "generated_at": "2026-05-08T07:56:09.187723+00:00",
   "items": [
     {
-      "title": "Mapping Project Complexity with AI",
-      "summary": "Article URL: https://www.maiobarbero.dev/articles/project-complexity-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48046915 Points: 1 # Comments: 1",
-      "url": "https://www.maiobarbero.dev/articles/project-complexity-ai-skills/",
-      "image": "https://www.maiobarbero.dev/images/og-fallback.png",
-      "date": "2026-05-07T08:32:55+00:00"
-    },
-    {
-      "title": "AI Agent Drained for $200K with This One Tweet Hack",
-      "summary": "Article URL: https://www.ccn.com/news/crypto/ai-agent-drained-for-200k-with-this-one-tweet-hack-heres-how/ Comments URL: https://news.ycombinator.com/item?id=48046822 Points: 2 # Comments: 0",
-      "url": "https://www.ccn.com/news/crypto/ai-agent-drained-for-200k-with-this-one-tweet-hack-heres-how/",
+      "title": "Best Free Agentic AI Course in 2026 with Real Projects, and No-Code Learning",
+      "summary": "Article URL: https://simplai.ai/simplai-university Comments URL: https://news.ycombinator.com/item?id=48059951 Points: 1 # Comments: 0",
+      "url": "https://simplai.ai/simplai-university",
       "image": "",
-      "date": "2026-05-07T08:18:31+00:00"
+      "date": "2026-05-08T07:43:17+00:00"
     },
     {
-      "title": "15 things I learnt launching AI projects in Government (4-part blog post)",
-      "summary": "Article URL: https://puntofisso.net/blog/posts/things-i-learned-ai-summary/ Comments URL: https://news.ycombinator.com/item?id=48046743 Points: 1 # Comments: 1",
-      "url": "https://puntofisso.net/blog/posts/things-i-learned-ai-summary/",
+      "title": "AI is technology, not a feature",
+      "summary": "Article URL: https://senkorasic.com/articles/ai-is-tech-not-feature Comments URL: https://news.ycombinator.com/item?id=48059815 Points: 3 # Comments: 0",
+      "url": "https://senkorasic.com/articles/ai-is-tech-not-feature",
       "image": "",
-      "date": "2026-05-07T08:08:36+00:00"
+      "date": "2026-05-08T07:24:46+00:00"
     },
     {
-      "title": "Ask HN: Do you understand all the code written by AI in your company?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48046617 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48046617",
+      "title": "Ask HN: How are you handling QA being bottlenecked with more AI-generated PRs?",
+      "summary": "At my company engineers are producing a high quantity of PRs with the help of AI agents. QA was already the bottleneck since the software involves camera flows across multiple devices, now this is more so the case. Comments URL: https://news.ycombinator.com/item?id=48059756 Points: 3 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48059756",
       "image": "",
-      "date": "2026-05-07T07:47:52+00:00"
+      "date": "2026-05-08T07:17:46+00:00"
     },
     {
-      "title": "The Comparator in Clinical AI",
-      "summary": "Article URL: https://sparsethought.com/2026/05/03/science-paper/ Comments URL: https://news.ycombinator.com/item?id=48046593 Points: 1 # Comments: 1",
-      "url": "https://sparsethought.com/2026/05/03/science-paper/",
+      "title": "The room, not the words in it. My AI harness",
+      "summary": "Article URL: https://blog.imjackofitall.com/posts/2026-04-28/ Comments URL: https://news.ycombinator.com/item?id=48059522 Points: 3 # Comments: 0",
+      "url": "https://blog.imjackofitall.com/posts/2026-04-28/",
+      "image": "https://blog.imjackofitall.com/images/2026-04-28/chicken.png",
+      "date": "2026-05-08T06:46:22+00:00"
+    },
+    {
+      "title": "AI-Native Hedge Funds Are Possible and Profitable Just Not the Next Unicorn",
+      "summary": "Article URL: https://podium-finance.com/blog/ai-native-hedge-funds-and-yc Comments URL: https://news.ycombinator.com/item?id=48059453 Points: 2 # Comments: 0",
+      "url": "https://podium-finance.com/blog/ai-native-hedge-funds-and-yc",
       "image": "",
-      "date": "2026-05-07T07:44:35+00:00"
+      "date": "2026-05-08T06:37:24+00:00"
     },
     {
-      "title": "Create Context Graph: Scaffold AI Agents with Graph Memory",
-      "summary": "Article URL: https://medium.com/neo4j/introducing-create-context-graph-e6d40e2d55c7 Comments URL: https://news.ycombinator.com/item?id=48046533 Points: 2 # Comments: 0",
-      "url": "https://medium.com/neo4j/introducing-create-context-graph-e6d40e2d55c7",
+      "title": "Why the Future of AI Depends on Smaller Models",
+      "summary": "Article URL: https://jeevan.life/posts/why-the-future-of-ai-depends-on-smaller-models.html Comments URL: https://news.ycombinator.com/item?id=48059403 Points: 3 # Comments: 0",
+      "url": "https://jeevan.life/posts/why-the-future-of-ai-depends-on-smaller-models.html",
+      "image": "https://www.jeevan.life/assets/cool.png",
+      "date": "2026-05-08T06:31:08+00:00"
+    },
+    {
+      "title": "Why does AI like goblins and Japan so much?",
+      "summary": "Article URL: https://english.elpais.com/technology/2026-05-07/why-does-ai-like-goblins-and-japan-so-much.html Comments URL: https://news.ycombinator.com/item?id=48059279 Points: 5 # Comments: 0",
+      "url": "https://english.elpais.com/technology/2026-05-07/why-does-ai-like-goblins-and-japan-so-much.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/I3W3ZTYIBZA63PLPY7BBBJZQDY.jpg?auth=8a44ff366b1a1c1252e0280547f82c56a3fe0b66d039a4797ae3a1c08e22d73c&width=1200",
+      "date": "2026-05-08T06:14:26+00:00"
+    },
+    {
+      "title": "AI giveth and AI taketh CPU",
+      "summary": "Article URL: https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/ Comments URL: https://news.ycombinator.com/item?id=48059115 Points: 1 # Comments: 0",
+      "url": "https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/",
+      "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+      "date": "2026-05-08T05:55:07+00:00"
+    },
+    {
+      "title": "Ask HN: How are you sandboxing AI agents and developer CLIs?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48058747 Points: 5 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48058747",
       "image": "",
-      "date": "2026-05-07T07:35:18+00:00"
+      "date": "2026-05-08T04:58:47+00:00"
     },
     {
-      "title": "Show HN: AI VC Landscape – 666 Deals Mapped by Stage, Geography, and Founders",
-      "summary": "Article URL: https://deepviews.xyz/research/ai-vc-landscape-en Comments URL: https://news.ycombinator.com/item?id=48046314 Points: 2 # Comments: 0",
-      "url": "https://deepviews.xyz/research/ai-vc-landscape-en",
-      "image": "https://deepviews.xyz/research/ai-vc-landscape-en/opengraph-image?edef587e43200c2e",
-      "date": "2026-05-07T07:00:23+00:00"
-    },
-    {
-      "title": "AI, Constraints, and the Future of Software Engineering",
-      "summary": "Article URL: https://medium.com/analytics-and-data/ai-constraints-and-the-future-of-software-engineering-9ae33c9f1cb7 Comments URL: https://news.ycombinator.com/item?id=48046304 Points: 1 # Comments: 1",
-      "url": "https://medium.com/analytics-and-data/ai-constraints-and-the-future-of-software-engineering-9ae33c9f1cb7",
+      "title": "The AI Revival of the Three Mile Island Nuclear Plant",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal Comments URL: https://news.ycombinator.com/item?id=48058663 Points: 3 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal",
       "image": "",
-      "date": "2026-05-07T06:58:43+00:00"
+      "date": "2026-05-08T04:46:55+00:00"
     },
     {
-      "title": "Stackit and neuland.ai aim to provide LLMs in European data centers",
-      "summary": "Article URL: https://www.heise.de/en/news/Sovereign-AI-from-Germany-11284778.html Comments URL: https://news.ycombinator.com/item?id=48046259 Points: 1 # Comments: 1",
-      "url": "https://www.heise.de/en/news/Sovereign-AI-from-Germany-11284778.html",
-      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/7/7/4/5/ki-deutsch-6b6a64e313138362.webp",
-      "date": "2026-05-07T06:53:36+00:00"
+      "title": "AI at Discount",
+      "summary": "Article URL: https://tomtunguz.com/ai-at-discount/ Comments URL: https://news.ycombinator.com/item?id=48057930 Points: 1 # Comments: 0",
+      "url": "https://tomtunguz.com/ai-at-discount/",
+      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/hxq277c4vc5z4axyvdux",
+      "date": "2026-05-08T02:54:15+00:00"
     },
     {
-      "title": "The \"AI Job Apocalypse\" is a complete fantasy",
-      "summary": "Article URL: https://www.a16z.news/p/the-ai-job-apocalypse-is-a-complete Comments URL: https://news.ycombinator.com/item?id=48046157 Points: 1 # Comments: 0",
-      "url": "https://www.a16z.news/p/the-ai-job-apocalypse-is-a-complete",
-      "image": "https://substackcdn.com/image/fetch/$s_!hDmw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ab9324f-a494-4922-892c-a8a017464650_2844x1600.png",
-      "date": "2026-05-07T06:35:58+00:00"
-    },
-    {
-      "title": "Architectural Framework for Agentic AI in Identity and Eligibility",
-      "summary": "Article URL: https://wwps.microsoft.com/content/agentic-ai-identity-eligibility/ Comments URL: https://news.ycombinator.com/item?id=48046012 Points: 2 # Comments: 0",
-      "url": "https://wwps.microsoft.com/content/agentic-ai-identity-eligibility/",
-      "image": "https://wwps.microsoft.com/wp-content/uploads/2026/04/PS-Post_Thumbnail_BP90_0_740x417_02.jpg",
-      "date": "2026-05-07T06:10:39+00:00"
-    },
-    {
-      "title": "Mythos Shows AI Weapons Inspectors Need Sharp Teeth",
-      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-05-07/anthropic-s-mythos-shows-ai-weapons-inspectors-need-sharp-teeth Comments URL: https://news.ycombinator.com/item?id=48045965 Points: 5 # Comments: 0",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-05-07/anthropic-s-mythos-shows-ai-weapons-inspectors-need-sharp-teeth",
+      "title": "Anthropic's Mythos Threw the White House AI Strategy into Chaos",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f Comments URL: https://news.ycombinator.com/item?id=48057717 Points: 4 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/trump-ai-anthropic-mythos-regulation-2378971f",
       "image": "",
-      "date": "2026-05-07T06:04:02+00:00"
+      "date": "2026-05-08T02:22:18+00:00"
     },
     {
-      "title": "MRC Protocol: Supercomputer networking to accelerate large scale AI training",
-      "summary": "Article URL: https://openai.com/index/mrc-supercomputer-networking/ Comments URL: https://news.ycombinator.com/item?id=48045851 Points: 3 # Comments: 1",
-      "url": "https://openai.com/index/mrc-supercomputer-networking/",
+      "title": "IMF warns new AI models risk 'systemic' shock to finance",
+      "summary": "Article URL: https://www.ft.com/content/103d73d3-7119-4dee-8c47-b3fc62d2f1e6 Comments URL: https://news.ycombinator.com/item?id=48057676 Points: 5 # Comments: 0",
+      "url": "https://www.ft.com/content/103d73d3-7119-4dee-8c47-b3fc62d2f1e6",
       "image": "",
-      "date": "2026-05-07T05:46:49+00:00"
-    },
-    {
-      "title": "Don't Automate Your Moat: Matching AI Autonomy to Risk and Competitive Stakes",
-      "summary": "Article URL: https://www.oreilly.com/radar/dont-automate-your-moat-matching-ai-autonomy-to-risk-and-competitive-stakes/ Comments URL: https://news.ycombinator.com/item?id=48045704 Points: 3 # Comments: 1",
-      "url": "https://www.oreilly.com/radar/dont-automate-your-moat-matching-ai-autonomy-to-risk-and-competitive-stakes/",
-      "image": "",
-      "date": "2026-05-07T05:23:29+00:00"
-    },
-    {
-      "title": "Publishers sue Meta, claiming it violated copyrights in training AI with books",
-      "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/05/05/publishers-sue-meta-ai-copyright/ Comments URL: https://news.ycombinator.com/item?id=48045667 Points: 4 # Comments: 0",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/05/publishers-sue-meta-ai-copyright/",
-      "image": "",
-      "date": "2026-05-07T05:17:12+00:00"
+      "date": "2026-05-08T02:14:51+00:00"
     }
   ]
 }
