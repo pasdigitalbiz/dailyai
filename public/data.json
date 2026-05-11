@@ -1,110 +1,96 @@
 {
-  "generated_at": "2026-05-10T08:20:51.396125+00:00",
+  "generated_at": "2026-05-11T09:58:24.300110+00:00",
   "items": [
     {
-      "title": "Real signals or artificial stereotypes? Adventures with a cultural Copilot",
-      "summary": "Article URL: https://kucharski.substack.com/p/real-signals-or-artificial-stereotypes Comments URL: https://news.ycombinator.com/item?id=48082000 Points: 2 # Comments: 0",
-      "url": "https://kucharski.substack.com/p/real-signals-or-artificial-stereotypes",
+      "title": "Women at the sharp end as AI takes over administrative roles",
+      "summary": "Article URL: https://www.ft.com/content/946650d6-f61f-4b98-8bb5-c0020c8a205f Comments URL: https://news.ycombinator.com/item?id=48092869 Points: 1 # Comments: 2",
+      "url": "https://www.ft.com/content/946650d6-f61f-4b98-8bb5-c0020c8a205f",
       "image": "",
-      "date": "2026-05-10T08:15:52+00:00"
+      "date": "2026-05-11T09:35:52+00:00"
     },
     {
-      "title": "In a quest to becoming AI independent",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai Comments URL: https://news.ycombinator.com/item?id=48081961 Points: 3 # Comments: 0",
-      "url": "https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai",
+      "title": "Using AGENTS.md / Claude.md to discourage AI-generated code contributions",
+      "summary": "Article URL: https://fosstodon.org/@backintime/116555237447115014 Comments URL: https://news.ycombinator.com/item?id=48092848 Points: 1 # Comments: 0",
+      "url": "https://fosstodon.org/@backintime/116555237447115014",
       "image": "",
-      "date": "2026-05-10T08:06:08+00:00"
+      "date": "2026-05-11T09:32:27+00:00"
     },
     {
-      "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
-      "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 3 # Comments: 0",
-      "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
-      "image": "https://dims.waltonfamilyfoundation.org/dims4/default/fdce3f6/2147483647/strip/true/crop/2121x1114+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fstatic.waltonfamilyfoundation.org%2F1b%2Fe2%2Fd498202c4f80877e774f3bef0b86%2Fistock-1340096416-1.jpg",
-      "date": "2026-05-10T08:03:15+00:00"
+      "title": "Show HN: Screen Break Keeper – Pet-themed fullscreen breaks in Chrome (zero AI)",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/screen-break-keeper/mnmaobcpbjhbheefbgkomgflmgphbfne Comments URL: https://news.ycombinator.com/item?id=48092643 Points: 1 # Comments: 0",
+      "url": "https://chromewebstore.google.com/detail/screen-break-keeper/mnmaobcpbjhbheefbgkomgflmgphbfne",
+      "image": "https://lh3.googleusercontent.com/lyqcGVXq8XWAZWSZqCReBLUCRmSsy07bSFoPQb2oxRbl4a9YNIeBIIpOon3qxqIOvmN-m-PhfziaJb9pFctqY6vn=s128-rj-sc0x00ffffff",
+      "date": "2026-05-11T08:59:50+00:00"
     },
     {
-      "title": "LibreOffice 26.4 Beta Experiments with AI Writing Features",
-      "summary": "Article URL: https://www.linuxjournal.com/content/libreoffice-264-beta-experiments-ai-writing-features-and-smarter-editing-tools Comments URL: https://news.ycombinator.com/item?id=48081725 Points: 3 # Comments: 0",
-      "url": "https://www.linuxjournal.com/content/libreoffice-264-beta-experiments-ai-writing-features-and-smarter-editing-tools",
+      "title": "Overcoming AI Anxiety",
+      "summary": "Article URL: https://ryangjchandler.co.uk/posts/overcoming-ai-anxiety Comments URL: https://news.ycombinator.com/item?id=48092630 Points: 1 # Comments: 0",
+      "url": "https://ryangjchandler.co.uk/posts/overcoming-ai-anxiety",
+      "image": "https://ryangjchandler.co.uk/og/overcoming-ai-anxiety.png",
+      "date": "2026-05-11T08:58:28+00:00"
+    },
+    {
+      "title": "AI data centers face increasing complaints about inaudible but 'felt' infrasound",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens Comments URL: https://news.ycombinator.com/item?id=48092482 Points: 2 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens",
+      "image": "https://cdn.mos.cms.futurecdn.net/zJ9ZuTa8TZQqPgypFTN5Kf-1920-80.png",
+      "date": "2026-05-11T08:33:08+00:00"
+    },
+    {
+      "title": "An AI‑enabled device code phishing campaign",
+      "summary": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/ Comments URL: https://news.ycombinator.com/item?id=48092443 Points: 1 # Comments: 1",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
       "image": "",
-      "date": "2026-05-10T07:17:31+00:00"
+      "date": "2026-05-11T08:27:11+00:00"
     },
     {
-      "title": "AI in the sky: Inside the FAA plan to overhaul air traffic",
-      "summary": "Article URL: https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097 Comments URL: https://news.ycombinator.com/item?id=48081707 Points: 4 # Comments: 0",
-      "url": "https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097",
+      "title": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
+      "summary": "Article URL: https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494 Comments URL: https://news.ycombinator.com/item?id=48092438 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
       "image": "",
-      "date": "2026-05-10T07:13:01+00:00"
+      "date": "2026-05-11T08:26:10+00:00"
     },
     {
-      "title": "Could Frontier AI Researchers Collectively Slow the Race? A Conditional Pledge",
-      "summary": "Article URL: https://www.lesswrong.com/posts/rCvyfKZfeaDDkTHjB/could-frontier-ai-researchers-collectively-slow-the-race-a Comments URL: https://news.ycombinator.com/item?id=48081669 Points: 2 # Comments: 0",
-      "url": "https://www.lesswrong.com/posts/rCvyfKZfeaDDkTHjB/could-frontier-ai-researchers-collectively-slow-the-race-a",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "date": "2026-05-10T07:07:43+00:00"
-    },
-    {
-      "title": "OpenSwarm – High-Performance AI Swarms with OpenSwarm",
-      "summary": "Article URL: https://alphametrics.substack.com/p/openswarm-unlocking-scalability-by Comments URL: https://news.ycombinator.com/item?id=48081655 Points: 2 # Comments: 0",
-      "url": "https://alphametrics.substack.com/p/openswarm-unlocking-scalability-by",
+      "title": "Show HN: AI Tool for Batch-Generating Multi-Platform Marketing Content",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48092391 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48092391",
       "image": "",
-      "date": "2026-05-10T07:04:14+00:00"
+      "date": "2026-05-11T08:19:35+00:00"
     },
     {
-      "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 3 # Comments: 0",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "title": "The AI That Took a Sunday Off",
+      "summary": "Article URL: https://debarshibasak.github.io/readables/blogs/eu-ai-right.html Comments URL: https://news.ycombinator.com/item?id=48092348 Points: 1 # Comments: 1",
+      "url": "https://debarshibasak.github.io/readables/blogs/eu-ai-right.html",
       "image": "",
-      "date": "2026-05-10T06:20:50+00:00"
+      "date": "2026-05-11T08:13:04+00:00"
     },
     {
-      "title": "Best AI coding plan alternative to Claude and ChatGPT",
-      "summary": "With the lowering usage limit in Claude, I am thinking of jumping ship to Chinese AI, since the benchmark is already very near compared to Sonnet or Haiku 4.5 , but for a fraction of the price. I am not worried about where is my data ending up through, I am focused on performance and usage limit. I mostly use it for coding and research. However, I am currently deciding on which to use, and would love any recommendations from anyone that are using any or many of these AI, - GLM Coding Plan (Z AI): $18/month Lite Plan\n- BytePlus: $10 ModelArk Coding Plan\n- Kimi AI: $19/month Moderato Coding Plan\n- MiniMax: $20 Plus Standard Plan I would like to ask, is the performance good? Is it worth the value? And how is the usage limit? Also, if anyone have any good recommendation on AI plan that is only in Chinese language, I don’t mind too, as I can understand Chinese. Comments URL: https://news.ycombinator.com/item?id=48081266 Points: 4 # Comments: 5",
-      "url": "https://news.ycombinator.com/item?id=48081266",
+      "title": "Meet the academics refusing to use generative AI",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-00508-w Comments URL: https://news.ycombinator.com/item?id=48092327 Points: 2 # Comments: 1",
+      "url": "https://www.nature.com/articles/d41586-026-00508-w",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00508-w/d41586-026-00508-w_52359090.jpg",
+      "date": "2026-05-11T08:10:03+00:00"
+    },
+    {
+      "title": "Why is AI trust so much higher in China (87%) than the US (32%)? [pdf]",
+      "summary": "Article URL: https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf Comments URL: https://news.ycombinator.com/item?id=48092053 Points: 2 # Comments: 5",
+      "url": "https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf",
       "image": "",
-      "date": "2026-05-10T05:31:16+00:00"
+      "date": "2026-05-11T07:31:04+00:00"
     },
     {
-      "title": "Global AI Diffusion Q1 2026 Trends and Insights",
-      "summary": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48080835 Points: 2 # Comments: 2",
-      "url": "https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/",
-      "image": "",
-      "date": "2026-05-10T03:49:49+00:00"
+      "title": "Semantic Phonons: Lattice Vibrations in AI Internals",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Bn5ErDBp9redcGtxg/semantic-phonons-lattice-vibrations-in-ai-internals Comments URL: https://news.ycombinator.com/item?id=48091950 Points: 1 # Comments: 0",
+      "url": "https://www.lesswrong.com/posts/Bn5ErDBp9redcGtxg/semantic-phonons-lattice-vibrations-in-ai-internals",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Bn5ErDBp9redcGtxg/kdd1v2y5ix3axkxpazln",
+      "date": "2026-05-11T07:12:04+00:00"
     },
     {
-      "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
-      "summary": "Article URL: https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code Comments URL: https://news.ycombinator.com/item?id=48080697 Points: 4 # Comments: 0",
-      "url": "https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code",
-      "image": "https://do78670y0slnz.cloudfront.net/codebrainery/editor/images/synk_hero.png",
-      "date": "2026-05-10T03:21:46+00:00"
-    },
-    {
-      "title": "\"genesis mission (US Government)\" (Angela Collier on AI and research) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=p6Ejmhwb8Sc Comments URL: https://news.ycombinator.com/item?id=48080668 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=p6Ejmhwb8Sc",
-      "image": "",
-      "date": "2026-05-10T03:16:21+00:00"
-    },
-    {
-      "title": "Powering the Inference Era: Inside the DigitalOcean AI-Native Cloud",
-      "summary": "Article URL: https://www.digitalocean.com/blog/powering-the-inference-era Comments URL: https://news.ycombinator.com/item?id=48080656 Points: 2 # Comments: 0",
-      "url": "https://www.digitalocean.com/blog/powering-the-inference-era",
-      "image": "https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/gradient_ai_platform_blog_headers/do-1400x815%20(1).svg",
-      "date": "2026-05-10T03:14:18+00:00"
-    },
-    {
-      "title": "Model Provenance Kit: Know Where Your AI Models Come From",
-      "summary": "Article URL: https://blogs.cisco.com/ai/model-provenance-kit Comments URL: https://news.ycombinator.com/item?id=48080467 Points: 3 # Comments: 0",
-      "url": "https://blogs.cisco.com/ai/model-provenance-kit",
-      "image": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/04/Atlanta-Hatch-Unlimited-Shot-13-4827_w2-1200x800-5b2df79.jpg",
-      "date": "2026-05-10T02:35:48+00:00"
-    },
-    {
-      "title": "Crypto exchange Coinbase to lay off 14% of staff as AI reshapes work",
-      "summary": "Article URL: https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work Comments URL: https://news.ycombinator.com/item?id=48080379 Points: 3 # Comments: 0",
-      "url": "https://www.latimes.com/business/story/2026-05-05/crypto-exchange-coinbase-to-lay-off-14-of-staff-as-ai-reshapes-work",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/9798775/2147483647/strip/true/crop/3528x1852+0+250/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7d%2Fd4%2F6b03bd4249c2ba7f11012fc292f9%2Ftrump-crypto-industry-79661.jpg",
-      "date": "2026-05-10T02:17:59+00:00"
+      "title": "I knew my writing students used AI. Their confessions led to a teaching moment",
+      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai Comments URL: https://news.ycombinator.com/item?id=48091827 Points: 6 # Comments: 0",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+      "image": "https://i.guim.co.uk/img/media/e6dcf73db64c84a2c7e3ae1f9ab84be7459303ee/0_2_3000_2398/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58e1debef53ecb7b169d87da0a1d0f94",
+      "date": "2026-05-11T06:54:16+00:00"
     }
   ]
 }
