@@ -1,96 +1,124 @@
 {
-  "generated_at": "2026-05-11T09:58:24.300110+00:00",
+  "generated_at": "2026-05-12T09:11:13.072397+00:00",
   "items": [
     {
-      "title": "Women at the sharp end as AI takes over administrative roles",
-      "summary": "Article URL: https://www.ft.com/content/946650d6-f61f-4b98-8bb5-c0020c8a205f Comments URL: https://news.ycombinator.com/item?id=48092869 Points: 1 # Comments: 2",
-      "url": "https://www.ft.com/content/946650d6-f61f-4b98-8bb5-c0020c8a205f",
+      "title": "Mass NPM Supply Chain Attack Hits TanStack, Mistral AI, and 170 Packages",
+      "summary": "Article URL: https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/ Comments URL: https://news.ycombinator.com/item?id=48105634 Points: 2 # Comments: 0",
+      "url": "https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/",
+      "image": "https://safedep.io/images/mass-npm-supply-chain-attack-tanstack-mistral.png",
+      "date": "2026-05-12T08:23:40+00:00"
+    },
+    {
+      "title": "The Great Reset: Navigating a Turbulent Post-AI World",
+      "summary": "Article URL: https://breadcrumb.vc/the-great-reset-navigating-a-turbulent-post-ai-world-4b5b4d434c5b Comments URL: https://news.ycombinator.com/item?id=48105524 Points: 1 # Comments: 0",
+      "url": "https://breadcrumb.vc/the-great-reset-navigating-a-turbulent-post-ai-world-4b5b4d434c5b",
       "image": "",
-      "date": "2026-05-11T09:35:52+00:00"
+      "date": "2026-05-12T08:06:28+00:00"
     },
     {
-      "title": "Using AGENTS.md / Claude.md to discourage AI-generated code contributions",
-      "summary": "Article URL: https://fosstodon.org/@backintime/116555237447115014 Comments URL: https://news.ycombinator.com/item?id=48092848 Points: 1 # Comments: 0",
-      "url": "https://fosstodon.org/@backintime/116555237447115014",
+      "title": "Microsoft researchers find AI models and agents can't handle long-running tasks",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263 Comments URL: https://news.ycombinator.com/item?id=48105363 Points: 4 # Comments: 0",
+      "url": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+      "image": "https://image.theregister.com/5238321.jpg?imageId=5238321&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-05-12T07:40:39+00:00"
+    },
+    {
+      "title": "I Think I Figured Out What an AI IDE Looks Like",
+      "summary": "Article URL: https://taoofmac.com/space/blog/2026/05/12/0720 Comments URL: https://news.ycombinator.com/item?id=48105331 Points: 2 # Comments: 0",
+      "url": "https://taoofmac.com/space/blog/2026/05/12/0720",
+      "image": "https://taoofmac.com/placeholder/blog/2026/05/12/0720/640,360/hjfC4fHcuZU2gI45PBxtWCo8kl4=/wordcloud.jpg",
+      "date": "2026-05-12T07:36:37+00:00"
+    },
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "Article URL: https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/ Comments URL: https://news.ycombinator.com/item?id=48105203 Points: 2 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_algo2.jpg?resize=1200,600",
+      "date": "2026-05-12T07:12:39+00:00"
+    },
+    {
+      "title": "Kamy- PDF and e-signature API for AI agents (now on Cursor Directory)",
+      "summary": "Article URL: https://cursor.directory/plugins/kamy Comments URL: https://news.ycombinator.com/item?id=48105118 Points: 1 # Comments: 0",
+      "url": "https://cursor.directory/plugins/kamy",
       "image": "",
-      "date": "2026-05-11T09:32:27+00:00"
+      "date": "2026-05-12T07:01:13+00:00"
     },
     {
-      "title": "Show HN: Screen Break Keeper – Pet-themed fullscreen breaks in Chrome (zero AI)",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/screen-break-keeper/mnmaobcpbjhbheefbgkomgflmgphbfne Comments URL: https://news.ycombinator.com/item?id=48092643 Points: 1 # Comments: 0",
-      "url": "https://chromewebstore.google.com/detail/screen-break-keeper/mnmaobcpbjhbheefbgkomgflmgphbfne",
-      "image": "https://lh3.googleusercontent.com/lyqcGVXq8XWAZWSZqCReBLUCRmSsy07bSFoPQb2oxRbl4a9YNIeBIIpOon3qxqIOvmN-m-PhfziaJb9pFctqY6vn=s128-rj-sc0x00ffffff",
-      "date": "2026-05-11T08:59:50+00:00"
-    },
-    {
-      "title": "Overcoming AI Anxiety",
-      "summary": "Article URL: https://ryangjchandler.co.uk/posts/overcoming-ai-anxiety Comments URL: https://news.ycombinator.com/item?id=48092630 Points: 1 # Comments: 0",
-      "url": "https://ryangjchandler.co.uk/posts/overcoming-ai-anxiety",
-      "image": "https://ryangjchandler.co.uk/og/overcoming-ai-anxiety.png",
-      "date": "2026-05-11T08:58:28+00:00"
-    },
-    {
-      "title": "AI data centers face increasing complaints about inaudible but 'felt' infrasound",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens Comments URL: https://news.ycombinator.com/item?id=48092482 Points: 2 # Comments: 0",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/data-centers-face-increasing-infrasound-complaints-from-neighboring-communities-sounds-do-not-register-on-decibel-meters-but-irritate-local-citizens",
-      "image": "https://cdn.mos.cms.futurecdn.net/zJ9ZuTa8TZQqPgypFTN5Kf-1920-80.png",
-      "date": "2026-05-11T08:33:08+00:00"
-    },
-    {
-      "title": "An AI‑enabled device code phishing campaign",
-      "summary": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/ Comments URL: https://news.ycombinator.com/item?id=48092443 Points: 1 # Comments: 1",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+      "title": "Amazon staff use AI tool for unnecessary tasks to inflate usage scores",
+      "summary": "Article URL: https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca Comments URL: https://news.ycombinator.com/item?id=48104999 Points: 6 # Comments: 1",
+      "url": "https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca",
       "image": "",
-      "date": "2026-05-11T08:27:11+00:00"
+      "date": "2026-05-12T06:42:49+00:00"
     },
     {
-      "title": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
-      "summary": "Article URL: https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494 Comments URL: https://news.ycombinator.com/item?id=48092438 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
+      "title": "Artificial Intelligence and Quarterly Earnings Reports",
+      "summary": "Article URL: https://ritholtz.com/2026/05/ai-q-earnings/ Comments URL: https://news.ycombinator.com/item?id=48104997 Points: 1 # Comments: 0",
+      "url": "https://ritholtz.com/2026/05/ai-q-earnings/",
+      "image": "https://ritholtz.com/wp-content/uploads/2026/05/PC-issues-2.png",
+      "date": "2026-05-12T06:42:37+00:00"
+    },
+    {
+      "title": "The Underlying Purpose of AI",
+      "summary": "\"The underlying purpose of AI is to allow wealth to access skill while removing from skill the ability to access wealth.\" -- Joseph Browning,Jul 10, 2024 https://www.facebook.com/story.php?story_fbid=7928550407181386&id=100000795174948 Comments URL: https://news.ycombinator.com/item?id=48104944 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48104944",
       "image": "",
-      "date": "2026-05-11T08:26:10+00:00"
+      "date": "2026-05-12T06:34:02+00:00"
     },
     {
-      "title": "Show HN: AI Tool for Batch-Generating Multi-Platform Marketing Content",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48092391 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48092391",
+      "title": "Tech leaders propose UBI and shorter work week for AI; sounds familiar in Europe",
+      "summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/05/10/universal-income-reduced-work-week-capital-tax-options-tech-leaders-put-forward-to-address-ai-s-destructive-potential-sound-familiar-in-europe_6753313_19.html Comments URL: https://news.ycombinator.com/item?id=48104881 Points: 1 # Comments: 0",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/05/10/universal-income-reduced-work-week-capital-tax-options-tech-leaders-put-forward-to-address-ai-s-destructive-potential-sound-familiar-in-europe_6753313_19.html",
       "image": "",
-      "date": "2026-05-11T08:19:35+00:00"
+      "date": "2026-05-12T06:23:57+00:00"
     },
     {
-      "title": "The AI That Took a Sunday Off",
-      "summary": "Article URL: https://debarshibasak.github.io/readables/blogs/eu-ai-right.html Comments URL: https://news.ycombinator.com/item?id=48092348 Points: 1 # Comments: 1",
-      "url": "https://debarshibasak.github.io/readables/blogs/eu-ai-right.html",
+      "title": "We Ran 250 AI Agent Evals to Find Out If Skills Beat Docs",
+      "summary": "Article URL: https://www.wix.engineering/post/we-ran-250-ai-agent-evals-to-find-out-if-skills-beat-docs-the-answer-is-more-complicated-than-we-ex Comments URL: https://news.ycombinator.com/item?id=48104839 Points: 2 # Comments: 0",
+      "url": "https://www.wix.engineering/post/we-ran-250-ai-agent-evals-to-find-out-if-skills-beat-docs-the-answer-is-more-complicated-than-we-ex",
+      "image": "https://static.wixstatic.com/media/66bc35_7e7403c5811146e9b58b1a4688ed667b~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/66bc35_7e7403c5811146e9b58b1a4688ed667b~mv2.jpg",
+      "date": "2026-05-12T06:17:56+00:00"
+    },
+    {
+      "title": "Evolvable AI: are we on the brink of the next major evolutionary transition?",
+      "summary": "Article URL: https://www.technology.org/2026/05/12/evolvable-ai-are-we-on-the-brink-of-the-next-major-evolutionary-transition/ Comments URL: https://news.ycombinator.com/item?id=48104765 Points: 2 # Comments: 0",
+      "url": "https://www.technology.org/2026/05/12/evolvable-ai-are-we-on-the-brink-of-the-next-major-evolutionary-transition/",
       "image": "",
-      "date": "2026-05-11T08:13:04+00:00"
+      "date": "2026-05-12T06:03:50+00:00"
     },
     {
-      "title": "Meet the academics refusing to use generative AI",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-00508-w Comments URL: https://news.ycombinator.com/item?id=48092327 Points: 2 # Comments: 1",
-      "url": "https://www.nature.com/articles/d41586-026-00508-w",
-      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00508-w/d41586-026-00508-w_52359090.jpg",
-      "date": "2026-05-11T08:10:03+00:00"
-    },
-    {
-      "title": "Why is AI trust so much higher in China (87%) than the US (32%)? [pdf]",
-      "summary": "Article URL: https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf Comments URL: https://news.ycombinator.com/item?id=48092053 Points: 2 # Comments: 5",
-      "url": "https://www.edelman.com/sites/g/files/aatuss191/files/2025-11/2025%20Edelman%20Trust%20Barometer%20Flash%20Poll%20Trust%20and%20Artificial%20Intelligence%20at%20a%20Crossroads%201.pdf",
+      "title": "Supercomputer networking to accelerate large scale AI training",
+      "summary": "Article URL: https://openai.com/index/mrc-supercomputer-networking/ Comments URL: https://news.ycombinator.com/item?id=48104282 Points: 10 # Comments: 1",
+      "url": "https://openai.com/index/mrc-supercomputer-networking/",
       "image": "",
-      "date": "2026-05-11T07:31:04+00:00"
+      "date": "2026-05-12T04:46:14+00:00"
     },
     {
-      "title": "Semantic Phonons: Lattice Vibrations in AI Internals",
-      "summary": "Article URL: https://www.lesswrong.com/posts/Bn5ErDBp9redcGtxg/semantic-phonons-lattice-vibrations-in-ai-internals Comments URL: https://news.ycombinator.com/item?id=48091950 Points: 1 # Comments: 0",
-      "url": "https://www.lesswrong.com/posts/Bn5ErDBp9redcGtxg/semantic-phonons-lattice-vibrations-in-ai-internals",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/Bn5ErDBp9redcGtxg/kdd1v2y5ix3axkxpazln",
-      "date": "2026-05-11T07:12:04+00:00"
+      "title": "Chinese AI engineers are Silicon Valley's new power players",
+      "summary": "Article URL: https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=48104230 Points: 10 # Comments: 0",
+      "url": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/",
+      "image": "https://restofworld.org/wp-content/uploads/2026/05/screenshot_china_AI_fallback-1600x900.jpg",
+      "date": "2026-05-12T04:37:05+00:00"
     },
     {
-      "title": "I knew my writing students used AI. Their confessions led to a teaching moment",
-      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai Comments URL: https://news.ycombinator.com/item?id=48091827 Points: 6 # Comments: 0",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
-      "image": "https://i.guim.co.uk/img/media/e6dcf73db64c84a2c7e3ae1f9ab84be7459303ee/0_2_3000_2398/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58e1debef53ecb7b169d87da0a1d0f94",
-      "date": "2026-05-11T06:54:16+00:00"
+      "title": "Elon Musk's Grok Is Losing Ground in AI Race",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369 Comments URL: https://news.ycombinator.com/item?id=48103860 Points: 8 # Comments: 6",
+      "url": "https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369",
+      "image": "",
+      "date": "2026-05-12T03:26:41+00:00"
+    },
+    {
+      "title": "Tesla's New AI Tech Could Save Lives, Thanks to Quicker Airbags",
+      "summary": "Article URL: https://www.caranddriver.com/news/a71269172/tesla-ai-tech-airbag-deployment/ Comments URL: https://news.ycombinator.com/item?id=48103644 Points: 2 # Comments: 0",
+      "url": "https://www.caranddriver.com/news/a71269172/tesla-ai-tech-airbag-deployment/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9a8a63d7-443d-4021-96b7-ec0cb174fd37.jpeg?crop=1xw:1xh;center,top&resize=1200:*",
+      "date": "2026-05-12T02:52:02+00:00"
+    },
+    {
+      "title": "Show HN: Sigmashake Desktop – AI Coding Agent Guardrails",
+      "summary": "SigmaShake Desktop - Guardrails for YOLO AI coding agents Your AI will use the wrong tool, nuke your database, force push to main because it won't respect your markdown instructions One ruleset, every major AI coding tool, local, no cloud, no sandbox Open to hearing feedback. Free to use BuildingInPublic live on twitch and youtube as well. Feel free to hangout and say Hi! Comments URL: https://news.ycombinator.com/item?id=48103540 Points: 1 # Comments: 1",
+      "url": "https://sigmashake.com/desktop",
+      "image": "https://sigmashake.com/og-image.png",
+      "date": "2026-05-12T02:35:24+00:00"
     }
   ]
 }
