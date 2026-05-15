@@ -1,89 +1,138 @@
 {
-  "generated_at": "2026-05-14T08:49:09.087203+00:00",
+  "generated_at": "2026-05-15T09:23:11.901025+00:00",
   "items": [
     {
-      "title": "Show HN: I built an AI travel camera because I was tired of Google Lens",
-      "summary": "Article URL: https://apps.apple.com/us/app/spotter-the-travel-companion/id6761238251 Comments URL: https://news.ycombinator.com/item?id=48132515 Points: 1 # Comments: 0",
-      "url": "https://apps.apple.com/us/app/spotter-the-travel-companion/id6761238251",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/8c/6d/b18c6d11-a2cf-6510-0afb-d4afeafeab38/Placeholder.mill/1200x630wa.jpg",
-      "date": "2026-05-14T08:17:53+00:00"
+      "title": "AI, open code and vulnerability risk in the public sector",
+      "summary": "Article URL: https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector Comments URL: https://news.ycombinator.com/item?id=48146185 Points: 2 # Comments: 0",
+      "url": "https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "date": "2026-05-15T08:54:37+00:00"
     },
     {
-      "title": "People Would Rather Have Nuclear Power Plants in Their Area Than AI Data Centers",
-      "summary": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/05/13/people-would-rather-have-nuclear-power-plants-in-their-area-than-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=48132456 Points: 3 # Comments: 3",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/13/people-would-rather-have-nuclear-power-plants-in-their-area-than-ai-data-centers/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a04bd422aa919ebcebdc1e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "date": "2026-05-14T08:09:30+00:00"
-    },
-    {
-      "title": "Ask HN: I've been using AI for 3 years,I've lost the ability to think for myself",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48132421 Points: 2 # Comments: 5",
-      "url": "https://news.ycombinator.com/item?id=48132421",
+      "title": "IEA: AI data center electricity demand could nearly double by 2030",
+      "summary": "Article URL: https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary Comments URL: https://news.ycombinator.com/item?id=48146158 Points: 1 # Comments: 0",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary",
       "image": "",
-      "date": "2026-05-14T08:05:16+00:00"
+      "date": "2026-05-15T08:51:47+00:00"
     },
     {
-      "title": "Dissatisfied: Three-fourths of AI customer service rollouts are a letdown",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800 Comments URL: https://news.ycombinator.com/item?id=48132391 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800",
-      "image": "https://image.theregister.com/5239850.jpg?imageId=5239850&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-05-14T08:00:07+00:00"
-    },
-    {
-      "title": "What features are missing in current AI agent frameworks?",
-      "summary": "What’s currently missing in AI agent frameworks? Examples: * better memory systems\n* workflow debugging\n* human-in-loop controls\n* distributed execution\n* lower latency orchestration Interested in hearing what developers actually need. Comments URL: https://news.ycombinator.com/item?id=48132357 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48132357",
+      "title": "Andy Jassy Is Rewriting Amazon's Playbook for the AI Age",
+      "summary": "Article URL: https://www.bloomberg.com/features/2026-andy-jassy-amazon-ai/ Comments URL: https://news.ycombinator.com/item?id=48146097 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/features/2026-andy-jassy-amazon-ai/",
       "image": "",
-      "date": "2026-05-14T07:55:30+00:00"
+      "date": "2026-05-15T08:41:24+00:00"
     },
     {
-      "title": "Tenstorrent Unveils Galaxy AI Platform Targeting Scale and Efficiency",
-      "summary": "Article URL: https://www.forbes.com/sites/davealtavilla/2026/04/28/tenstorrent-unveils-galaxy-ai-platform-targeting-scale-and-efficiency/ Comments URL: https://news.ycombinator.com/item?id=48132312 Points: 1 # Comments: 1",
-      "url": "https://www.forbes.com/sites/davealtavilla/2026/04/28/tenstorrent-unveils-galaxy-ai-platform-targeting-scale-and-efficiency/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69f0cfce18f1dd630eef744f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "date": "2026-05-14T07:48:01+00:00"
-    },
-    {
-      "title": "AI Search Visibility: The Practical Guide to Generative Engine Optimization",
-      "summary": "Article URL: https://chatbenchmark.com/blog/ai-search-visibility-geo-guide/ Comments URL: https://news.ycombinator.com/item?id=48132195 Points: 3 # Comments: 0",
-      "url": "https://chatbenchmark.com/blog/ai-search-visibility-geo-guide/",
-      "image": "https://chatbenchmark.com/visuals/blog/ai-search-visibility/01-stat-block.svg",
-      "date": "2026-05-14T07:31:01+00:00"
-    },
-    {
-      "title": "AI chatbots are giving out people's real phone numbers",
-      "summary": "Article URL: https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=48132060 Points: 6 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_callbots.jpg?resize=1200,600",
-      "date": "2026-05-14T07:08:34+00:00"
-    },
-    {
-      "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42 Hobbyist Network",
-      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.com/item?id=48131847 Points: 2 # Comments: 0",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "image": "https://lantian.pub/apple-touch-icon.png",
-      "date": "2026-05-14T06:31:34+00:00"
-    },
-    {
-      "title": "Vector embeddings are the wrong default for AI agent memory",
-      "summary": "Article URL: https://memnode.dev/articles/agent-memory-vs-vector-db Comments URL: https://news.ycombinator.com/item?id=48131492 Points: 3 # Comments: 0",
-      "url": "https://memnode.dev/articles/agent-memory-vs-vector-db",
+      "title": "Kog AI – Building a Real-Time Inference Stack on AMD Instinct GPUs [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ndSA9T5yvmM Comments URL: https://news.ycombinator.com/item?id=48145922 Points: 7 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ndSA9T5yvmM",
       "image": "",
-      "date": "2026-05-14T05:41:48+00:00"
+      "date": "2026-05-15T08:17:35+00:00"
     },
     {
-      "title": "AI coders are carrying half-open laptops through airports, offices, ice rinks",
-      "summary": "Article URL: https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5 Comments URL: https://news.ycombinator.com/item?id=48131370 Points: 16 # Comments: 19",
-      "url": "https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5",
-      "image": "https://i.insider.com/69fb3d60f9e4752b6d6014e4?width=1200&format=jpeg",
-      "date": "2026-05-14T05:19:09+00:00"
+      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+      "summary": "Article URL: https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/ Comments URL: https://news.ycombinator.com/item?id=48145852 Points: 2 # Comments: 1",
+      "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+      "image": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
+      "date": "2026-05-15T08:08:13+00:00"
     },
     {
-      "title": "Arena AI Model ELO History",
-      "summary": "Hi HN, I built a live tracker to visualize the lifecycle and performance changes of flagship AI models. We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI. Instead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. \nIt dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. \nIt took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included. However, I have a specific data blindspot that I'm hoping this community might have insights on. Arena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don't fully capture this \"nerfing\" that everyday web users experience. Does anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs? I'd love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I'd appreciate any feedback, or pointers to datasets! Comments URL: https://news.ycombinator.com/item?id=48130711 Points: 56 # Comments: 39",
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "title": "Ask HN: Im a back end dev, how do you go from designing the UI with AI?",
+      "summary": "As I was saying Im a backend dev, I lose my mind writing frontend code, given the power of the new designing tools, what is the typical workflow me as somebody not very good at design to make an UI and then implement it as a front end? Lets say we use claude design, or the google tool. Comments URL: https://news.ycombinator.com/item?id=48145787 Points: 3 # Comments: 5",
+      "url": "https://news.ycombinator.com/item?id=48145787",
       "image": "",
-      "date": "2026-05-14T03:19:05+00:00"
+      "date": "2026-05-15T07:56:52+00:00"
+    },
+    {
+      "title": "2028: Two scenarios for global AI leadership",
+      "summary": "Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48145722 Points: 4 # Comments: 0",
+      "url": "https://www.anthropic.com/research/2028-ai-leadership",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Flag&backgroundColor=olive",
+      "date": "2026-05-15T07:46:48+00:00"
+    },
+    {
+      "title": "Have you switched to AI for heart monitoring during physical activity yet?",
+      "summary": "Here's how AI can monitor your heart during physical activity AI (ACCO AI watch): your myocardium is lacking oxygen (HOV — myocardial oxygen consumption, CMBV — coronary blood flow volume); the heart beats but pumps blood inefficiently (EWK — left ventricular efficiency, CPO — cardiac power output); one of the ventricles is overloaded (LVSW — left ventricular stroke work, RVSW — right ventricular stroke work); the risk of thrombosis is increasing due to thick blood (FIB — fibrinogen activity surrogate); you are on the verge of dehydration, and the heart fills with blood worse than it should (CVP — central venous pressure, GEDV — global end-diastolic volume). Six risks. Standard fitness trackers see none of them. Measurements are taken every 5 minutes. Based on that data, the watch generates real-time alerts with three parts: Implication (what's happening to your heart right now), Evaluation (green/yellow/red zone), and Suggestion (slow down, drink water, stop, or change exercise type). Comments URL: https://news.ycombinator.com/item?id=48145506 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48145506",
+      "image": "",
+      "date": "2026-05-15T07:15:49+00:00"
+    },
+    {
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "Article URL: https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/ Comments URL: https://news.ycombinator.com/item?id=48145463 Points: 2 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/EDB-Social-Card-cover.png?resize=1200,600",
+      "date": "2026-05-15T07:08:01+00:00"
+    },
+    {
+      "title": "Cerebras risked dinner plate-sized AI accelerators. Today it's worth $66B",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821 Comments URL: https://news.ycombinator.com/item?id=48145429 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821",
+      "image": "https://image.theregister.com/5240836.jpg?imageId=5240836&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-05-15T07:04:57+00:00"
+    },
+    {
+      "title": "AI that improves itself indefinitely",
+      "summary": "Article URL: https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/ Comments URL: https://news.ycombinator.com/item?id=48145410 Points: 3 # Comments: 0",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+      "date": "2026-05-15T07:02:44+00:00"
+    },
+    {
+      "title": "Android rolling out AI-powered \"Contextual suggestion\" learning from your habits",
+      "summary": "Article URL: https://9to5google.com/2026/05/13/android-contextual-suggestions/ Comments URL: https://news.ycombinator.com/item?id=48145382 Points: 2 # Comments: 0",
+      "url": "https://9to5google.com/2026/05/13/android-contextual-suggestions/",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-pin-badge-holding-Pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "date": "2026-05-15T06:58:39+00:00"
+    },
+    {
+      "title": "AI makes weak engineers less harmful",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/ Comments URL: https://news.ycombinator.com/item?id=48145370 Points: 2 # Comments: 0",
+      "url": "https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
+      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "date": "2026-05-15T06:56:29+00:00"
+    },
+    {
+      "title": "'There are no rules':spotlight on Gossip Goblin as AI film-making enters new era",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood Comments URL: https://news.ycombinator.com/item?id=48145080 Points: 3 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood",
+      "image": "https://i.guim.co.uk/img/media/0234950112c22adbc6f8b75b39cc260ee23940a7/2690_0_5320_4256/master/5320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2a9f96549b33ebb7116243321253326",
+      "date": "2026-05-15T06:01:57+00:00"
+    },
+    {
+      "title": "The rise and fall of an AI-driven 'local news outlet' in South Florida",
+      "summary": "Article URL: https://floridatrib.org/2026/05/14/the-rise-and-fall-of-an-ai-driven-local-news-outlet-in-south-florida/ Comments URL: https://news.ycombinator.com/item?id=48145022 Points: 2 # Comments: 0",
+      "url": "https://floridatrib.org/2026/05/14/the-rise-and-fall-of-an-ai-driven-local-news-outlet-in-south-florida/",
+      "image": "https://floridatrib.org/wp-content/uploads/2026/05/4-scaled.jpeg",
+      "date": "2026-05-15T05:52:31+00:00"
+    },
+    {
+      "title": "What Are AI Ethics",
+      "summary": "Article URL: https://krellixlabs.com/en/blog/what-are-ai-ethics Comments URL: https://news.ycombinator.com/item?id=48145017 Points: 1 # Comments: 0",
+      "url": "https://krellixlabs.com/en/blog/what-are-ai-ethics",
+      "image": "https://krellixlabs.com/articles/What-are-AI-ethics-large.png",
+      "date": "2026-05-15T05:51:56+00:00"
+    },
+    {
+      "title": "What Are the Different Types of AI Testing Tools?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48144848 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48144848",
+      "image": "",
+      "date": "2026-05-15T05:22:02+00:00"
+    },
+    {
+      "title": "OpenAI just lost its enterprise AI crown to Anthropic",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5 Comments URL: https://news.ycombinator.com/item?id=48144749 Points: 4 # Comments: 0",
+      "url": "https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5",
+      "image": "https://i.insider.com/6a0399a47c7e83f26041b09b?width=1200&format=jpeg",
+      "date": "2026-05-15T05:04:04+00:00"
+    },
+    {
+      "title": "Random AI Explained Fast",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XURpiqSelBw Comments URL: https://news.ycombinator.com/item?id=48144690 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=XURpiqSelBw",
+      "image": "",
+      "date": "2026-05-15T04:50:32+00:00"
     }
   ]
 }
