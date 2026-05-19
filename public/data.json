@@ -1,131 +1,124 @@
 {
-  "generated_at": "2026-05-18T10:39:07.660435+00:00",
+  "generated_at": "2026-05-19T10:04:34.468027+00:00",
   "items": [
     {
-      "title": "Who Owns This Agent? Tracing AI Agents Back to Their Owners",
-      "summary": "Article URL: https://arxiv.org/abs/2605.16035 Comments URL: https://news.ycombinator.com/item?id=48177597 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2605.16035",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-05-18T10:30:34+00:00"
+      "title": "Bito's AI Architect Boosts Claude Opus's task success rate by 35%",
+      "summary": "Article URL: https://bito.ai/benchmarks/swe-bench-pro-evaluation/ Comments URL: https://news.ycombinator.com/item?id=48191369 Points: 1 # Comments: 0",
+      "url": "https://bito.ai/benchmarks/swe-bench-pro-evaluation/",
+      "image": "https://bito.ai/wp-content/uploads/2026/04/Eval-Report-social-sharing-image.webp",
+      "date": "2026-05-19T10:02:03+00:00"
     },
     {
-      "title": "Running AI agents without losing my keys",
-      "summary": "Article URL: https://zriyansh.medium.com/running-agents-without-losing-my-keys-a-month-with-authsome-039690fe5e6f Comments URL: https://news.ycombinator.com/item?id=48177527 Points: 2 # Comments: 0",
-      "url": "https://zriyansh.medium.com/running-agents-without-losing-my-keys-a-month-with-authsome-039690fe5e6f",
+      "title": "What changes when AI reads you first",
+      "summary": "Article URL: https://onomeokajevo.substack.com/p/stop-telling-ai-to-sound-like-you Comments URL: https://news.ycombinator.com/item?id=48191180 Points: 1 # Comments: 0",
+      "url": "https://onomeokajevo.substack.com/p/stop-telling-ai-to-sound-like-you",
       "image": "",
-      "date": "2026-05-18T10:18:31+00:00"
+      "date": "2026-05-19T09:31:04+00:00"
     },
     {
-      "title": "How China's Shadow AI API Market Works",
-      "summary": "Article URL: https://www.vincentschmalbach.com/chinas-shadow-api-market/ Comments URL: https://news.ycombinator.com/item?id=48177492 Points: 2 # Comments: 0",
-      "url": "https://www.vincentschmalbach.com/chinas-shadow-api-market/",
-      "image": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
-      "date": "2026-05-18T10:13:06+00:00"
+      "title": "AI-driven development – It's a spectrum",
+      "summary": "Article URL: https://avohq.io/blog/ai-driven-development-it-s-a-spectrum Comments URL: https://news.ycombinator.com/item?id=48191068 Points: 1 # Comments: 0",
+      "url": "https://avohq.io/blog/ai-driven-development-it-s-a-spectrum",
+      "image": "https://d2g0xdrrde9ln1.cloudfront.net/yd0nmzymg2gn7zvlio6c3ii05to9",
+      "date": "2026-05-19T09:14:33+00:00"
     },
     {
-      "title": "Safety Paradox: How RLHF Creates the AI Psychosis Problem It's Meant to Prevent",
-      "summary": "Article URL: https://www.promptinjection.net/p/ai-psychosis-the-safety-paradox-how-rlhf-creates Comments URL: https://news.ycombinator.com/item?id=48177198 Points: 1 # Comments: 2",
-      "url": "https://www.promptinjection.net/p/ai-psychosis-the-safety-paradox-how-rlhf-creates",
-      "image": "https://substackcdn.com/image/fetch/$s_!7ZVl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4e0909f-c746-4027-9833-eb41e50dd35c_1536x1024.png",
-      "date": "2026-05-18T09:25:42+00:00"
+      "title": "The highest ROI activity in AI isn't on your screen",
+      "summary": "Article URL: https://layerx.xyz/blog/sim-recap Comments URL: https://news.ycombinator.com/item?id=48190996 Points: 4 # Comments: 0",
+      "url": "https://layerx.xyz/blog/sim-recap",
+      "image": "https://storage.googleapis.com/taikai-storage/images/fc60bac0-52d7-11f1-aba1-9386ba2d98d1sim-conf.png",
+      "date": "2026-05-19T09:04:24+00:00"
     },
     {
-      "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 44 # Comments: 12",
-      "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779059495883_wnn_vca_commencment_speakers_booed_260517_S3_1920x1080-i60agb.jpg",
-      "date": "2026-05-18T09:12:10+00:00"
+      "title": "The Economist prepares for a two‑track Web: one for humans one for AI agents",
+      "summary": "Article URL: https://digiday.com/media/the-economist-prepares-for-a-two-track-internet-one-for-humans-and-one-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48190930 Points: 2 # Comments: 1",
+      "url": "https://digiday.com/media/the-economist-prepares-for-a-two-track-internet-one-for-humans-and-one-for-ai-agents/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg",
+      "date": "2026-05-19T08:56:31+00:00"
     },
     {
-      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c2023l60370o Comments URL: https://news.ycombinator.com/item?id=48176992 Points: 2 # Comments: 1",
-      "url": "https://www.bbc.com/news/articles/c2023l60370o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ec05/live/8bea2980-5079-11f1-b637-39d6d94b351f.jpg",
-      "date": "2026-05-18T08:54:18+00:00"
-    },
-    {
-      "title": "The Time Bomb Went Off: AI's All-You-Can-Eat Era Just Ended in Real Time",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-price-subsidiation-ending Comments URL: https://news.ycombinator.com/item?id=48176826 Points: 4 # Comments: 0",
-      "url": "https://www.thestateofbrand.com/news/ai-subscription-price-subsidiation-ending",
-      "image": "https://cdn.prod.website-files.com/69d68fe7dde9e79d19ddf151/6a0a41c915b45d48a41c8317_8b324271-cf7d-44f7-8667-fb1c09a6e998.png",
-      "date": "2026-05-18T08:29:29+00:00"
-    },
-    {
-      "title": "The AI Layoff Receipts",
-      "summary": "Article URL: https://readuncut.com/the-ai-layoff-receipts/ Comments URL: https://news.ycombinator.com/item?id=48176763 Points: 6 # Comments: 1",
-      "url": "https://readuncut.com/the-ai-layoff-receipts/",
-      "image": "https://readuncut.com/content/images/size/w1200/2026/05/human_cost_for_no_return_ai.png",
-      "date": "2026-05-18T08:19:41+00:00"
-    },
-    {
-      "title": "Meet The Sad Wives of AI",
-      "summary": "Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48176741 Points: 4 # Comments: 0",
-      "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-      "image": "https://media.wired.com/photos/69f3fa0d219771de40b4163d/191:100/w_1280,c_limit/Wired_Main_FINAL_WEB.jpg",
-      "date": "2026-05-18T08:13:58+00:00"
-    },
-    {
-      "title": "PromptStash – A \"/\" command palette for AI prompts that works everywhere",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/promptstash-—-ai-prompt-m/hbnlmpgdblbmpamfhmiioeapggaollap Comments URL: https://news.ycombinator.com/item?id=48176722 Points: 3 # Comments: 0",
-      "url": "https://chromewebstore.google.com/detail/promptstash-—-ai-prompt-m/hbnlmpgdblbmpamfhmiioeapggaollap",
-      "image": "https://lh3.googleusercontent.com/Sjp8-0kdmHQJvuWfF9WMJDQtLPT7aBVXdp2aDhmLFy80PxEid7d1gKtrg2boH-Cx6GI_3wfR3L9pq9BJMeU5eeb7W08=s128-rj-sc0x00ffffff",
-      "date": "2026-05-18T08:11:11+00:00"
-    },
-    {
-      "title": "AI super-apps are remaking China's internet",
-      "summary": "Article URL: https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet Comments URL: https://news.ycombinator.com/item?id=48176712 Points: 3 # Comments: 0",
-      "url": "https://www.economist.com/business/2026/05/17/ai-super-apps-are-remaking-chinas-internet",
+      "title": "Crypto Jesus tried to sell me an AI religion",
+      "summary": "Article URL: https://oneonlyvan.substack.com/p/that-time-crypto-jesus-tried-to-sell Comments URL: https://news.ycombinator.com/item?id=48190869 Points: 3 # Comments: 1",
+      "url": "https://oneonlyvan.substack.com/p/that-time-crypto-jesus-tried-to-sell",
       "image": "",
-      "date": "2026-05-18T08:09:34+00:00"
+      "date": "2026-05-19T08:50:06+00:00"
     },
     {
-      "title": "Contributor Poker and Zig's AI Ban",
-      "summary": "Article URL: https://kristoff.it/blog/contributor-poker-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48176656 Points: 2 # Comments: 1",
-      "url": "https://kristoff.it/blog/contributor-poker-and-ai/",
-      "image": "https://kristoff.it/logo.png",
-      "date": "2026-05-18T07:55:41+00:00"
+      "title": "eXo MCP server: expose workplace tools to AI agents with OAuth",
+      "summary": "Article URL: https://www.exoplatform.com/blog/introducing-exo-mcp-server-secure-ai-integrations-digital-workplace/ Comments URL: https://news.ycombinator.com/item?id=48190824 Points: 2 # Comments: 0",
+      "url": "https://www.exoplatform.com/blog/introducing-exo-mcp-server-secure-ai-integrations-digital-workplace/",
+      "image": "https://www.exoplatform.com/blog/wp-content/uploads/2026/04/Banner_blog-MCP-Server-EN.png",
+      "date": "2026-05-19T08:43:27+00:00"
     },
     {
-      "title": "Apple May Add Auto-Deleting Chats to Siri as Gemini Powers Back End AI",
-      "summary": "Article URL: https://firethering.com/apple-siri-revamp-privacy-google-gemini/ Comments URL: https://news.ycombinator.com/item?id=48176480 Points: 4 # Comments: 4",
-      "url": "https://firethering.com/apple-siri-revamp-privacy-google-gemini/",
-      "image": "https://firethering.com/wp-content/uploads/2026/05/Apple-New-Siri-Could-Auto-Delete-Chats.-Google-Gemini-Is-Reportedly-Under-the-Hood.jpg",
-      "date": "2026-05-18T07:27:26+00:00"
+      "title": "Anthropic shuts the EU out of its most advanced cyber AI model",
+      "summary": "Article URL: https://www.theparliamentmagazine.eu/news/article/anthropic-shuts-the-eu-out-of-its-most-advanced-cyber-ai-model Comments URL: https://news.ycombinator.com/item?id=48190771 Points: 3 # Comments: 0",
+      "url": "https://www.theparliamentmagazine.eu/news/article/anthropic-shuts-the-eu-out-of-its-most-advanced-cyber-ai-model",
+      "image": "https://www.theparliamentmagazine.eu/siteimg/share/ugc-1/fullnews/news/25716/25710_original.jpg",
+      "date": "2026-05-19T08:37:29+00:00"
     },
     {
-      "title": "Nobody's negotiating for the people here: Charlie Berens takes on AI datacenters",
-      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters Comments URL: https://news.ycombinator.com/item?id=48176435 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
-      "image": "https://i.guim.co.uk/img/media/1944a9066b442611222ed415ba637d6839bcdde8/1919_1334_5533_4426/master/5533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e47ee21998c0697ff5cdc53522912e6c",
-      "date": "2026-05-18T07:22:25+00:00"
+      "title": "Generations of AI applications: conversational, delegative, and collaborative",
+      "summary": "Article URL: https://zknill.io/posts/generations-of-ai-applications/ Comments URL: https://news.ycombinator.com/item?id=48190694 Points: 1 # Comments: 0",
+      "url": "https://zknill.io/posts/generations-of-ai-applications/",
+      "image": "https://zknill.io/img/header.png",
+      "date": "2026-05-19T08:26:27+00:00"
     },
     {
-      "title": "AI Foundry – Flat-Fee Unlimited LLM Inference on Blackwell GPUs in NZ",
-      "summary": "Article URL: https://app.aifoundry.co.nz/auth/login?redirectTo=%2F Comments URL: https://news.ycombinator.com/item?id=48176428 Points: 1 # Comments: 0",
-      "url": "https://app.aifoundry.co.nz/auth/login?redirectTo=%2F",
+      "title": "Mistral AI Acquires EU Physics AI Startup Emmi AI",
+      "summary": "Article URL: https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/ Comments URL: https://news.ycombinator.com/item?id=48190566 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/",
       "image": "",
-      "date": "2026-05-18T07:21:49+00:00"
+      "date": "2026-05-19T08:08:08+00:00"
     },
     {
-      "title": "TechForges – Zero-Infra Software via Flux AI and Vibe-Mesh",
-      "summary": "Article URL: https://sites.google.com/view/techforges/ Comments URL: https://news.ycombinator.com/item?id=48176425 Points: 1 # Comments: 0",
-      "url": "https://sites.google.com/view/techforges/",
-      "image": "https://lh3.googleusercontent.com/sitesv/AA5AbUBx4qNze3d089LMxa4eknsltkogRqjsFmKEN_lDSmRpWOYAI5utWl0UPZ2BBKy8jDeLJN1k6NiBgecZ-6eWJbs1Ln_JcOGAjb2zyDVCwKi6B034ECuu6HjJ3wjg3dS9G6pAeaZpaoEU1cFhs7x40LZua4eTSQZlu5ypf1lBoI0uCZ748MwZvQK-SMQ=w16383",
-      "date": "2026-05-18T07:21:40+00:00"
+      "title": "Pizza Hut's AI system caused 'cascading' problems and $100M in damages",
+      "summary": "Article URL: https://www.businessinsider.com/pizza-hut-ai-system-dragontail-lawsuit-franchisee-2026-5 Comments URL: https://news.ycombinator.com/item?id=48190516 Points: 3 # Comments: 3",
+      "url": "https://www.businessinsider.com/pizza-hut-ai-system-dragontail-lawsuit-franchisee-2026-5",
+      "image": "https://i.insider.com/6a08f9f6ecd7cc1332bb0776?width=1200&format=jpeg",
+      "date": "2026-05-19T07:58:49+00:00"
     },
     {
-      "title": "AI Won't Run Your Company by Itself",
-      "summary": "Article URL: https://www.caimito.net/en/blog/2026/05/18/ai-wont-run-your-company-by-itself.html Comments URL: https://news.ycombinator.com/item?id=48176374 Points: 5 # Comments: 0",
-      "url": "https://www.caimito.net/en/blog/2026/05/18/ai-wont-run-your-company-by-itself.html",
-      "image": "https://www.caimito.net/img/blog/ai-wont-run-your-company-by-itself.jpg",
-      "date": "2026-05-18T07:11:00+00:00"
+      "title": "State of AI 2026 survey results",
+      "summary": "Article URL: https://2026.stateofai.dev/en-US Comments URL: https://news.ycombinator.com/item?id=48190468 Points: 1 # Comments: 0",
+      "url": "https://2026.stateofai.dev/en-US",
+      "image": "https://assets.devographics.com/surveys/ai2026-og.png",
+      "date": "2026-05-19T07:49:11+00:00"
     },
     {
-      "title": "Surprise AI bills leave AWS and Google Cloud users aghast",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/18/surprise-ai-bills-leave-aws-and-google-cloud-users-aghast/5241348 Comments URL: https://news.ycombinator.com/item?id=48176365 Points: 4 # Comments: 1",
-      "url": "https://www.theregister.com/ai-ml/2026/05/18/surprise-ai-bills-leave-aws-and-google-cloud-users-aghast/5241348",
-      "image": "https://image.theregister.com/5240671.jpg?imageId=5240671&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-05-18T07:09:20+00:00"
+      "title": "AI agents for regulatory use cases: competition on the EU AI Act",
+      "summary": "Article URL: https://regenold.com/landing/ai/eu-ai-act-competition Comments URL: https://news.ycombinator.com/item?id=48190423 Points: 1 # Comments: 2",
+      "url": "https://regenold.com/landing/ai/eu-ai-act-competition",
+      "image": "https://regenold.com/images/og-image.jpg",
+      "date": "2026-05-19T07:40:48+00:00"
+    },
+    {
+      "title": "Korean bill seeks strict watermark mandate on AI-generated content",
+      "summary": "Article URL: https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=48190364 Points: 4 # Comments: 0",
+      "url": "https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content",
+      "image": "",
+      "date": "2026-05-19T07:30:47+00:00"
+    },
+    {
+      "title": "Linus Torvalds on the continued flood of AI bug reports",
+      "summary": "Article URL: https://lkml.org/lkml/2026/5/17/896 Comments URL: https://news.ycombinator.com/item?id=48190184 Points: 4 # Comments: 0",
+      "url": "https://lkml.org/lkml/2026/5/17/896",
+      "image": "",
+      "date": "2026-05-19T07:04:10+00:00"
+    },
+    {
+      "title": "AI Cold War Is a Marketing Gimmick",
+      "summary": "Article URL: https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick Comments URL: https://news.ycombinator.com/item?id=48190173 Points: 1 # Comments: 0",
+      "url": "https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick",
+      "image": "",
+      "date": "2026-05-19T07:01:56+00:00"
+    },
+    {
+      "title": "Show HN: Free AI visibility diagnostic — may reveal uncomfortable truths",
+      "summary": "Article URL: https://dageno.ai/free-geo-report Comments URL: https://news.ycombinator.com/item?id=48190059 Points: 2 # Comments: 0",
+      "url": "https://dageno.ai/free-geo-report",
+      "image": "https://dageno.ai/images/og/default-20260430.png",
+      "date": "2026-05-19T06:46:42+00:00"
     }
   ]
 }
