@@ -1,124 +1,103 @@
 {
-  "generated_at": "2026-05-19T10:04:34.468027+00:00",
+  "generated_at": "2026-05-20T09:52:18.723141+00:00",
   "items": [
     {
-      "title": "Bito's AI Architect Boosts Claude Opus's task success rate by 35%",
-      "summary": "Article URL: https://bito.ai/benchmarks/swe-bench-pro-evaluation/ Comments URL: https://news.ycombinator.com/item?id=48191369 Points: 1 # Comments: 0",
-      "url": "https://bito.ai/benchmarks/swe-bench-pro-evaluation/",
-      "image": "https://bito.ai/wp-content/uploads/2026/04/Eval-Report-social-sharing-image.webp",
-      "date": "2026-05-19T10:02:03+00:00"
-    },
-    {
-      "title": "What changes when AI reads you first",
-      "summary": "Article URL: https://onomeokajevo.substack.com/p/stop-telling-ai-to-sound-like-you Comments URL: https://news.ycombinator.com/item?id=48191180 Points: 1 # Comments: 0",
-      "url": "https://onomeokajevo.substack.com/p/stop-telling-ai-to-sound-like-you",
+      "title": "Ask HN: How to make a mono-repo AI-Ready?",
+      "summary": "The org is pushing for AI-readiness! We run a fairly large monorepo, part of that is a shared web-platform. Our team is struggling with the inbound contributions to said web-platform from other teams seeing it as the perfect code to try out their new AI-tools on. Our idea so far is that AI-Ready in this case is the same as Human-Ready. I.e. make the codebase understandable, structured, clean up any old patterns still lying around etc. With the additional of adding ClAUDE.md files describing correct patterns. However, besides the \"regular\", look at shit and clean it, is there any tools, or smarter ways to make our codebase easier for other to contribute to given the new tools avaialable? Comments URL: https://news.ycombinator.com/item?id=48205190 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48205190",
       "image": "",
-      "date": "2026-05-19T09:31:04+00:00"
+      "date": "2026-05-20T09:32:57+00:00"
     },
     {
-      "title": "AI-driven development – It's a spectrum",
-      "summary": "Article URL: https://avohq.io/blog/ai-driven-development-it-s-a-spectrum Comments URL: https://news.ycombinator.com/item?id=48191068 Points: 1 # Comments: 0",
-      "url": "https://avohq.io/blog/ai-driven-development-it-s-a-spectrum",
-      "image": "https://d2g0xdrrde9ln1.cloudfront.net/yd0nmzymg2gn7zvlio6c3ii05to9",
-      "date": "2026-05-19T09:14:33+00:00"
+      "title": "Public have more fear than hope on AI and future of work, study finds",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds Comments URL: https://news.ycombinator.com/item?id=48205143 Points: 4 # Comments: 1",
+      "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
+      "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/ai-headers-03.xdeac55b6.png?w=780&h=440",
+      "date": "2026-05-20T09:26:39+00:00"
     },
     {
-      "title": "The highest ROI activity in AI isn't on your screen",
-      "summary": "Article URL: https://layerx.xyz/blog/sim-recap Comments URL: https://news.ycombinator.com/item?id=48190996 Points: 4 # Comments: 0",
-      "url": "https://layerx.xyz/blog/sim-recap",
-      "image": "https://storage.googleapis.com/taikai-storage/images/fc60bac0-52d7-11f1-aba1-9386ba2d98d1sim-conf.png",
-      "date": "2026-05-19T09:04:24+00:00"
-    },
-    {
-      "title": "The Economist prepares for a two‑track Web: one for humans one for AI agents",
-      "summary": "Article URL: https://digiday.com/media/the-economist-prepares-for-a-two-track-internet-one-for-humans-and-one-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48190930 Points: 2 # Comments: 1",
-      "url": "https://digiday.com/media/the-economist-prepares-for-a-two-track-internet-one-for-humans-and-one-for-ai-agents/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-workflows-digiday.jpg",
-      "date": "2026-05-19T08:56:31+00:00"
-    },
-    {
-      "title": "Crypto Jesus tried to sell me an AI religion",
-      "summary": "Article URL: https://oneonlyvan.substack.com/p/that-time-crypto-jesus-tried-to-sell Comments URL: https://news.ycombinator.com/item?id=48190869 Points: 3 # Comments: 1",
-      "url": "https://oneonlyvan.substack.com/p/that-time-crypto-jesus-tried-to-sell",
+      "title": "AI will create more jobs than it eliminates from 2028",
+      "summary": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-05-13-gartner-hr-research-reveals-ai-will-create-more-jobs-than-it-eliminates-beginning-in-2028 Comments URL: https://news.ycombinator.com/item?id=48204928 Points: 2 # Comments: 2",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-13-gartner-hr-research-reveals-ai-will-create-more-jobs-than-it-eliminates-beginning-in-2028",
       "image": "",
-      "date": "2026-05-19T08:50:06+00:00"
+      "date": "2026-05-20T08:58:25+00:00"
     },
     {
-      "title": "eXo MCP server: expose workplace tools to AI agents with OAuth",
-      "summary": "Article URL: https://www.exoplatform.com/blog/introducing-exo-mcp-server-secure-ai-integrations-digital-workplace/ Comments URL: https://news.ycombinator.com/item?id=48190824 Points: 2 # Comments: 0",
-      "url": "https://www.exoplatform.com/blog/introducing-exo-mcp-server-secure-ai-integrations-digital-workplace/",
-      "image": "https://www.exoplatform.com/blog/wp-content/uploads/2026/04/Banner_blog-MCP-Server-EN.png",
-      "date": "2026-05-19T08:43:27+00:00"
+      "title": "The Expired Domain Trap: Why Legacy SEO Metrics Fail in the Age of AI Agents",
+      "summary": "Article URL: https://domainalot.substack.com/p/the-great-domain-illusion-why-legacy Comments URL: https://news.ycombinator.com/item?id=48204875 Points: 1 # Comments: 1",
+      "url": "https://domainalot.substack.com/p/the-great-domain-illusion-why-legacy",
+      "image": "",
+      "date": "2026-05-20T08:52:35+00:00"
     },
     {
-      "title": "Anthropic shuts the EU out of its most advanced cyber AI model",
-      "summary": "Article URL: https://www.theparliamentmagazine.eu/news/article/anthropic-shuts-the-eu-out-of-its-most-advanced-cyber-ai-model Comments URL: https://news.ycombinator.com/item?id=48190771 Points: 3 # Comments: 0",
-      "url": "https://www.theparliamentmagazine.eu/news/article/anthropic-shuts-the-eu-out-of-its-most-advanced-cyber-ai-model",
-      "image": "https://www.theparliamentmagazine.eu/siteimg/share/ugc-1/fullnews/news/25716/25710_original.jpg",
-      "date": "2026-05-19T08:37:29+00:00"
+      "title": "The AI Quant Desk for Onchain Finance",
+      "summary": "Article URL: https://grid.raster.finance/en/portfolio-analytics Comments URL: https://news.ycombinator.com/item?id=48204843 Points: 4 # Comments: 0",
+      "url": "https://grid.raster.finance/en/portfolio-analytics",
+      "image": "https://grid.raster.finance/assets/images/og-raster.webp",
+      "date": "2026-05-20T08:49:20+00:00"
     },
     {
       "title": "Generations of AI applications: conversational, delegative, and collaborative",
-      "summary": "Article URL: https://zknill.io/posts/generations-of-ai-applications/ Comments URL: https://news.ycombinator.com/item?id=48190694 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://zknill.io/posts/generations-of-ai-applications/ Comments URL: https://news.ycombinator.com/item?id=48204832 Points: 1 # Comments: 0",
       "url": "https://zknill.io/posts/generations-of-ai-applications/",
       "image": "https://zknill.io/img/header.png",
-      "date": "2026-05-19T08:26:27+00:00"
+      "date": "2026-05-20T08:47:49+00:00"
     },
     {
-      "title": "Mistral AI Acquires EU Physics AI Startup Emmi AI",
-      "summary": "Article URL: https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/ Comments URL: https://news.ycombinator.com/item?id=48190566 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/",
+      "title": "I built my AI Chief of Staff",
+      "summary": "Article URL: https://www.cesarrg.com/how-i-built-my-ai-chief-of-staff/ Comments URL: https://news.ycombinator.com/item?id=48204641 Points: 1 # Comments: 0",
+      "url": "https://www.cesarrg.com/how-i-built-my-ai-chief-of-staff/",
+      "image": "https://storage.ghost.io/c/10/f4/10f4a52f-1b7d-4284-b66d-0fccfd9dc5da/content/images/size/w1200/2025/02/CRG-2-1.png",
+      "date": "2026-05-20T08:15:12+00:00"
+    },
+    {
+      "title": "The Many Kings Problem: Why Humans May Survive an Age of Superior AI [pdf]",
+      "summary": "Article URL: https://zenodo.org/records/20281580 Comments URL: https://news.ycombinator.com/item?id=48204522 Points: 1 # Comments: 0",
+      "url": "https://zenodo.org/records/20281580",
       "image": "",
-      "date": "2026-05-19T08:08:08+00:00"
+      "date": "2026-05-20T07:59:23+00:00"
     },
     {
-      "title": "Pizza Hut's AI system caused 'cascading' problems and $100M in damages",
-      "summary": "Article URL: https://www.businessinsider.com/pizza-hut-ai-system-dragontail-lawsuit-franchisee-2026-5 Comments URL: https://news.ycombinator.com/item?id=48190516 Points: 3 # Comments: 3",
-      "url": "https://www.businessinsider.com/pizza-hut-ai-system-dragontail-lawsuit-franchisee-2026-5",
-      "image": "https://i.insider.com/6a08f9f6ecd7cc1332bb0776?width=1200&format=jpeg",
-      "date": "2026-05-19T07:58:49+00:00"
-    },
-    {
-      "title": "State of AI 2026 survey results",
-      "summary": "Article URL: https://2026.stateofai.dev/en-US Comments URL: https://news.ycombinator.com/item?id=48190468 Points: 1 # Comments: 0",
-      "url": "https://2026.stateofai.dev/en-US",
-      "image": "https://assets.devographics.com/surveys/ai2026-og.png",
-      "date": "2026-05-19T07:49:11+00:00"
-    },
-    {
-      "title": "AI agents for regulatory use cases: competition on the EU AI Act",
-      "summary": "Article URL: https://regenold.com/landing/ai/eu-ai-act-competition Comments URL: https://news.ycombinator.com/item?id=48190423 Points: 1 # Comments: 2",
-      "url": "https://regenold.com/landing/ai/eu-ai-act-competition",
-      "image": "https://regenold.com/images/og-image.jpg",
-      "date": "2026-05-19T07:40:48+00:00"
-    },
-    {
-      "title": "Korean bill seeks strict watermark mandate on AI-generated content",
-      "summary": "Article URL: https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=48190364 Points: 4 # Comments: 0",
-      "url": "https://www.koreatimes.co.kr/business/tech-science/20260517/korean-bill-seeks-strict-watermark-mandate-on-ai-generated-content",
+      "title": "I built a scrubber to prevent AI from reading your secrets",
+      "summary": "https://github.com/svn-arv/redacted Comments URL: https://news.ycombinator.com/item?id=48204499 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48204499",
       "image": "",
-      "date": "2026-05-19T07:30:47+00:00"
+      "date": "2026-05-20T07:54:40+00:00"
     },
     {
-      "title": "Linus Torvalds on the continued flood of AI bug reports",
-      "summary": "Article URL: https://lkml.org/lkml/2026/5/17/896 Comments URL: https://news.ycombinator.com/item?id=48190184 Points: 4 # Comments: 0",
-      "url": "https://lkml.org/lkml/2026/5/17/896",
+      "title": "You cannot sell AI written software",
+      "summary": "Article URL: https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html Comments URL: https://news.ycombinator.com/item?id=48204280 Points: 2 # Comments: 2",
+      "url": "https://blog.habets.se/2026/05/You-cannot-sell-AI-written-software.html",
       "image": "",
-      "date": "2026-05-19T07:04:10+00:00"
+      "date": "2026-05-20T07:24:04+00:00"
     },
     {
-      "title": "AI Cold War Is a Marketing Gimmick",
-      "summary": "Article URL: https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick Comments URL: https://news.ycombinator.com/item?id=48190173 Points: 1 # Comments: 0",
-      "url": "https://sinodatacrit.substack.com/p/ai-cold-war-is-a-marketing-gimmick",
+      "title": "AI Could Help the Climate",
+      "summary": "Article URL: https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate Comments URL: https://news.ycombinator.com/item?id=48204138 Points: 2 # Comments: 0",
+      "url": "https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate",
       "image": "",
-      "date": "2026-05-19T07:01:56+00:00"
+      "date": "2026-05-20T07:05:33+00:00"
     },
     {
-      "title": "Show HN: Free AI visibility diagnostic — may reveal uncomfortable truths",
-      "summary": "Article URL: https://dageno.ai/free-geo-report Comments URL: https://news.ycombinator.com/item?id=48190059 Points: 2 # Comments: 0",
-      "url": "https://dageno.ai/free-geo-report",
-      "image": "https://dageno.ai/images/og/default-20260430.png",
-      "date": "2026-05-19T06:46:42+00:00"
+      "title": "SRM: Detecting slow-burn risk in AI-agent sessions before execution",
+      "summary": "Article URL: https://arxiv.org/abs/2603.22350 Comments URL: https://news.ycombinator.com/item?id=48204007 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2603.22350",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-05-20T06:50:08+00:00"
+    },
+    {
+      "title": "Mirage – Unified Virtual File System for AI Agents",
+      "summary": "Article URL: https://www.strukto.ai/mirage Comments URL: https://news.ycombinator.com/item?id=48203859 Points: 4 # Comments: 0",
+      "url": "https://www.strukto.ai/mirage",
+      "image": "https://www.strukto.ai/og-mirage.png",
+      "date": "2026-05-20T06:29:45+00:00"
+    },
+    {
+      "title": "Obvious markers of AI: doubts raised over winner of short story prize",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=48203830 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
+      "image": "https://i.guim.co.uk/img/media/e60060331fe40c724bf285e66b4146d6017b30c8/243_0_4437_3549/master/4437.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bec28f9444262d5e6ef5f8ff316bae5",
+      "date": "2026-05-20T06:26:27+00:00"
     }
   ]
 }
