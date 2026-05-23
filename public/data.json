@@ -1,131 +1,103 @@
 {
-  "generated_at": "2026-05-22T09:47:41.212143+00:00",
+  "generated_at": "2026-05-23T08:30:16.778757+00:00",
   "items": [
     {
-      "title": "Google makes Gemini 3.5 Flash the default AI model for billions of users",
-      "summary": "Article URL: https://techthreedots.com/google-makes-gemini-3-5-flash-the-default-ai-model-for-billions-of-users Comments URL: https://news.ycombinator.com/item?id=48233755 Points: 1 # Comments: 0",
-      "url": "https://techthreedots.com/google-makes-gemini-3-5-flash-the-default-ai-model-for-billions-of-users",
-      "image": "https://techthreedots.com/wp-content/uploads/2026/05/google-logo-gemini-3-5-flash-may-2026.jpg",
-      "date": "2026-05-22T09:37:18+00:00"
+      "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
+      "summary": "Article URL: https://www.voisace.com/blog Comments URL: https://news.ycombinator.com/item?id=48245869 Points: 1 # Comments: 0",
+      "url": "https://www.voisace.com/blog",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663679102940/5SUvwiDeUfPstxb2NvLAKJ/blog-cover-hybrid-ai-dsp-PCsmQ5GiyTXf7Btcr29Ahj.webp",
+      "date": "2026-05-23T08:26:37+00:00"
     },
     {
-      "title": "AI didn't kill your junior pipeline. You did",
-      "summary": "Article URL: https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did Comments URL: https://news.ycombinator.com/item?id=48233693 Points: 1 # Comments: 0",
-      "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
-      "image": "https://andrewmurphy.io/api/og/blog/9c50175b-1dbb-4454-bc3b-ed3629198b5a?v=2026-05-22T05%3A10%3A38.356Z",
-      "date": "2026-05-22T09:28:22+00:00"
-    },
-    {
-      "title": "Adobe, Canva, CapCut Are Coming to Gemini to Help You Edit AI Creations",
-      "summary": "Article URL: https://www.pcmag.com/news/adobe-canva-capcut-are-coming-to-gemini-to-help-you-edit-ai-creations Comments URL: https://news.ycombinator.com/item?id=48233634 Points: 1 # Comments: 0",
-      "url": "https://www.pcmag.com/news/adobe-canva-capcut-are-coming-to-gemini-to-help-you-edit-ai-creations",
-      "image": "https://i.pcmag.com/imagery/articles/01ytneveCnFnU6axE78ODUd-1.fit_lim.size_1200x630.v1779375148.jpg",
-      "date": "2026-05-22T09:19:10+00:00"
-    },
-    {
-      "title": "\"Erase,\" an AI tool that can remove unwanted objects from images",
-      "summary": "Article URL: https://flux-tools.bfl.ai/erase Comments URL: https://news.ycombinator.com/item?id=48233585 Points: 1 # Comments: 0",
-      "url": "https://flux-tools.bfl.ai/erase",
+      "title": "Does anyone in your organisation own \"correctness\" in your AI products?",
+      "summary": "Article URL: https://alokit.substack.com/p/nobody-in-your-organization-owns Comments URL: https://news.ycombinator.com/item?id=48245767 Points: 2 # Comments: 0",
+      "url": "https://alokit.substack.com/p/nobody-in-your-organization-owns",
       "image": "",
-      "date": "2026-05-22T09:09:33+00:00"
+      "date": "2026-05-23T08:04:46+00:00"
     },
     {
-      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 7 # Comments: 2",
-      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
-      "image": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg",
-      "date": "2026-05-22T09:04:54+00:00"
+      "title": "ChatGPT as the AOL of AI",
+      "summary": "Article URL: https://rebecca-powell.com/posts/return-on-intelligence-02-moats/ Comments URL: https://news.ycombinator.com/item?id=48245748 Points: 1 # Comments: 1",
+      "url": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
+      "image": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/index.png",
+      "date": "2026-05-23T08:01:29+00:00"
     },
     {
-      "title": "AI-Assisted Engineering Habits Worth Stealing (Week 2 Roundup)",
-      "summary": "Article URL: https://theaileverageweekly.com/posts/7-ai-assisted-engineering-habits-worth-stealing-week-2-roundup.html Comments URL: https://news.ycombinator.com/item?id=48233551 Points: 1 # Comments: 0",
-      "url": "https://theaileverageweekly.com/posts/7-ai-assisted-engineering-habits-worth-stealing-week-2-roundup.html",
+      "title": "Twelve Ways to Be Wrong About AI-Assisted Coding",
+      "summary": "Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/ Comments URL: https://news.ycombinator.com/item?id=48245662 Points: 2 # Comments: 2",
+      "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
       "image": "",
-      "date": "2026-05-22T09:00:56+00:00"
+      "date": "2026-05-23T07:49:27+00:00"
     },
     {
-      "title": "AI coding agents and the evolution of developer skills by 2026",
-      "summary": "Article URL: https://www.hitechies.com/ai-coding-agents-developer-skills-code-review-2026/ Comments URL: https://news.ycombinator.com/item?id=48233511 Points: 1 # Comments: 0",
-      "url": "https://www.hitechies.com/ai-coding-agents-developer-skills-code-review-2026/",
-      "image": "https://storage.ghost.io/c/77/29/772932bb-2526-4358-a9a9-760e9a987db8/content/images/2026/05/hitechies-banner-code-developer-light-1.png",
-      "date": "2026-05-22T08:52:53+00:00"
+      "title": "AI Reconstructed Dead Pilots' Voices from Public NTSB Records",
+      "summary": "Article URL: https://firethering.com/ai-recreated-dead-pilots-voices-ntsb-database/ Comments URL: https://news.ycombinator.com/item?id=48245600 Points: 1 # Comments: 0",
+      "url": "https://firethering.com/ai-recreated-dead-pilots-voices-ntsb-database/",
+      "image": "https://firethering.com/wp-content/uploads/2026/05/AI-Was-Used-to-Recreate-the-Voices-of-Dead-Pilots.-The-NTSB-Responded-by-Locking-Down-Its-Database.jpg",
+      "date": "2026-05-23T07:39:29+00:00"
     },
     {
-      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/ Comments URL: https://news.ycombinator.com/item?id=48233435 Points: 1 # Comments: 1",
-      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.15.37-PM-1152x648.png",
-      "date": "2026-05-22T08:40:10+00:00"
+      "title": "AI Visibility Engineering Glossary – AEO, Geo, LLM Retrieval",
+      "summary": "Article URL: https://axonsystem.net/en/glossary/ Comments URL: https://news.ycombinator.com/item?id=48245496 Points: 2 # Comments: 0",
+      "url": "https://axonsystem.net/en/glossary/",
+      "image": "https://axonsystem.net/assets/og/axonsystem-og-cover.png",
+      "date": "2026-05-23T07:20:19+00:00"
     },
     {
-      "title": "AI dev tools: Cost, ROI, and budgeting for 2026",
-      "summary": "Article URL: https://www.hitechies.com/ai-developer-tools-cost-roi-budget-2026/ Comments URL: https://news.ycombinator.com/item?id=48233434 Points: 2 # Comments: 0",
-      "url": "https://www.hitechies.com/ai-developer-tools-cost-roi-budget-2026/",
-      "image": "https://storage.ghost.io/c/77/29/772932bb-2526-4358-a9a9-760e9a987db8/content/images/2026/05/hitechies-banner-tools-coding-may22.png",
-      "date": "2026-05-22T08:39:48+00:00"
+      "title": "AI is getting pricey, but relief is coming, but not for you",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358 Comments URL: https://news.ycombinator.com/item?id=48245281 Points: 2 # Comments: 1",
+      "url": "https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358",
+      "image": "https://image.theregister.com/5244449.jpg?imageId=5244449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-05-23T06:36:34+00:00"
     },
     {
-      "title": "Spotify and UMG announce licensing deal to allow AI covers",
-      "summary": "Article URL: https://www.billboard.com/pro/spotify-and-umg-strike-licensing-deal-for-ai-covers-remixes/ Comments URL: https://news.ycombinator.com/item?id=48233349 Points: 1 # Comments: 0",
-      "url": "https://www.billboard.com/pro/spotify-and-umg-strike-licensing-deal-for-ai-covers-remixes/",
-      "image": "https://www.billboard.com/wp-content/uploads/2025/09/spotify-app-phone-billboard-1800.jpg?w=1024",
-      "date": "2026-05-22T08:25:43+00:00"
+      "title": "AI Prompt Examples and Techniques for Better AI Outputs",
+      "summary": "Article URL: https://promptessor.com/blog/10-ai-prompt-examples-and-techniques Comments URL: https://news.ycombinator.com/item?id=48245100 Points: 2 # Comments: 0",
+      "url": "https://promptessor.com/blog/10-ai-prompt-examples-and-techniques",
+      "image": "https://pub-f9534348a97d4f8e9d55ac9356870d8d.r2.dev/promptessor_blog/CoverBlog10%20AI%20Prompt%20Examples%20and%20Techniques%20for%20Better%20AI%20Outputs.jpg",
+      "date": "2026-05-23T05:53:31+00:00"
     },
     {
-      "title": "Trump pulls back AI order over fears it could slow US technology",
-      "summary": "Article URL: https://apnews.com/article/trump-ai-executive-order-ee318f35acc8a2c43e47f3ebf26cb459 Comments URL: https://news.ycombinator.com/item?id=48233202 Points: 3 # Comments: 0",
-      "url": "https://apnews.com/article/trump-ai-executive-order-ee318f35acc8a2c43e47f3ebf26cb459",
-      "image": "https://dims.apnews.com/dims4/default/a1f8afb/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2F5f%2F4cc4f03e2f94740bc974e888549b%2Fdf73c8529a9944ac9ecf5f5f326dc5cb",
-      "date": "2026-05-22T07:57:47+00:00"
+      "title": "Strengthening Singapore's AI Future",
+      "summary": "Article URL: https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/ Comments URL: https://news.ycombinator.com/item?id=48244995 Points: 3 # Comments: 0",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "image": "https://lh3.googleusercontent.com/Woiv_MqlJsgv6bSWD505JCSu936VdLLtR0y7Ev1wPWDmuhFK1SYxkpyU4N2vhSpSMl22NAtbxuZ1yFMHIcDFwABNZIgRtX0ccRXxWiBaHETRXUQEZQ=w1200-h630-n-nu-rw",
+      "date": "2026-05-23T05:28:41+00:00"
     },
     {
-      "title": "Cisco used AI to write security incident reports, with mixed results",
-      "summary": "Article URL: https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692 Comments URL: https://news.ycombinator.com/item?id=48232985 Points: 4 # Comments: 0",
-      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
-      "image": "https://image.theregister.com/230011.jpg?imageId=230011&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-05-22T07:19:33+00:00"
-    },
-    {
-      "title": "AI progress creates more work for humans, not less",
-      "summary": "Article URL: https://every.to/p/after-automation Comments URL: https://news.ycombinator.com/item?id=48232982 Points: 1 # Comments: 0",
-      "url": "https://every.to/p/after-automation",
-      "image": "https://every-s-manifesto-production.up.railway.app/images/social-banner.png",
-      "date": "2026-05-22T07:19:16+00:00"
-    },
-    {
-      "title": "Acrisure layoffs to number 2,250, attributed to AI advancements",
-      "summary": "Article URL: https://www.detroitnews.com/story/business/2026/05/20/grand-rapids-acrisure-to-cut-2250-jobs-cites-ai/90183575007/https://www.detroitnews.com/story/business/2026/05/20/grand-rapids-acrisure-to-cut-2250-jobs-cites-ai/90183575007/ Comments URL: https://news.ycombinator.com/item?id=48232976 Points: 1 # Comments: 0",
-      "url": "https://www.detroitnews.com/story/business/2026/05/20/grand-rapids-acrisure-to-cut-2250-jobs-cites-ai/90183575007/https://www.detroitnews.com/story/business/2026/05/20/grand-rapids-acrisure-to-cut-2250-jobs-cites-ai/90183575007/",
+      "title": "Starbucks scraps AI inventory tool after nine months",
+      "summary": "Article URL: https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226 Comments URL: https://news.ycombinator.com/item?id=48244956 Points: 2 # Comments: 0",
+      "url": "https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226",
       "image": "",
-      "date": "2026-05-22T07:18:46+00:00"
+      "date": "2026-05-23T05:21:14+00:00"
     },
     {
-      "title": "You can't whisper at an AI agent",
-      "summary": "Article URL: https://stripe.dev/blog/ai-steering-experiments Comments URL: https://news.ycombinator.com/item?id=48232968 Points: 1 # Comments: 0",
-      "url": "https://stripe.dev/blog/ai-steering-experiments",
-      "image": "https://stripe.dev/dev_social.jpeg",
-      "date": "2026-05-22T07:17:28+00:00"
-    },
-    {
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "Article URL: https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/ Comments URL: https://news.ycombinator.com/item?id=48232928 Points: 2 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
-      "date": "2026-05-22T07:10:00+00:00"
-    },
-    {
-      "title": "Report Alleges Chinese Influence Behind AI Data Center Pushback in the U.S.",
-      "summary": "Article URL: https://dominotheory.com/report-alleges-chinese-influence-behind-the-ai-data-center-pushback-in-the-u-s/ Comments URL: https://news.ycombinator.com/item?id=48232890 Points: 6 # Comments: 0",
-      "url": "https://dominotheory.com/report-alleges-chinese-influence-behind-the-ai-data-center-pushback-in-the-u-s/",
-      "image": "https://dominotheory.com/wp-content/uploads/2026/05/AFP-XX-A-v-HighRes-UsTechnologyAiDataCenter-scaled-e1779351672240.jpg",
-      "date": "2026-05-22T07:02:35+00:00"
-    },
-    {
-      "title": "Pressure from Silicon Valley helped block Trump's expected order on AI",
-      "summary": "Article URL: https://www.washingtonpost.com/politics/2026/05/22/last-minute-lobbying-by-tech-industry-officials-led-trump-cancel-ai-order/ Comments URL: https://news.ycombinator.com/item?id=48232796 Points: 4 # Comments: 0",
-      "url": "https://www.washingtonpost.com/politics/2026/05/22/last-minute-lobbying-by-tech-industry-officials-led-trump-cancel-ai-order/",
+      "title": "Cannes Film Cost $500k to Make. $400k Was AI Compute Costs",
+      "summary": "Article URL: https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d Comments URL: https://news.ycombinator.com/item?id=48244942 Points: 7 # Comments: 2",
+      "url": "https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d",
       "image": "",
-      "date": "2026-05-22T06:47:26+00:00"
+      "date": "2026-05-23T05:18:29+00:00"
+    },
+    {
+      "title": "Is AI Becoming Too Smart for Its Own Good? [audio]",
+      "summary": "Article URL: https://rss.com/podcasts/nuclecast-podcast/2811653/ Comments URL: https://news.ycombinator.com/item?id=48244811 Points: 1 # Comments: 1",
+      "url": "https://rss.com/podcasts/nuclecast-podcast/2811653/",
+      "image": "https://img.rss.com/nuclecast-podcast/900/ep_cover_20260511_010500_d0313d59df35f9e37302c22e76d60e09.png",
+      "date": "2026-05-23T04:55:08+00:00"
+    },
+    {
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/ Comments URL: https://news.ycombinator.com/item?id=48244645 Points: 2 # Comments: 0",
+      "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
+      "date": "2026-05-23T04:21:01+00:00"
+    },
+    {
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 201 # Comments: 60",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600",
+      "date": "2026-05-23T03:44:16+00:00"
     }
   ]
 }
