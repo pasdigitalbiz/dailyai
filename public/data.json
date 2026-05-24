@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-05-23T08:30:16.778757+00:00",
+  "generated_at": "2026-05-24T08:43:28.536703+00:00",
   "items": [
     {
-      "title": "Embedded acoustic AI with <16ms latency running on 8MB RAM",
-      "summary": "Article URL: https://www.voisace.com/blog Comments URL: https://news.ycombinator.com/item?id=48245869 Points: 1 # Comments: 0",
-      "url": "https://www.voisace.com/blog",
-      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663679102940/5SUvwiDeUfPstxb2NvLAKJ/blog-cover-hybrid-ai-dsp-PCsmQ5GiyTXf7Btcr29Ahj.webp",
-      "date": "2026-05-23T08:26:37+00:00"
-    },
-    {
-      "title": "Does anyone in your organisation own \"correctness\" in your AI products?",
-      "summary": "Article URL: https://alokit.substack.com/p/nobody-in-your-organization-owns Comments URL: https://news.ycombinator.com/item?id=48245767 Points: 2 # Comments: 0",
-      "url": "https://alokit.substack.com/p/nobody-in-your-organization-owns",
+      "title": "A maintainability ratchet for AI-assisted Python",
+      "summary": "Article URL: https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/ Comments URL: https://news.ycombinator.com/item?id=48255553 Points: 1 # Comments: 0",
+      "url": "https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/",
       "image": "",
-      "date": "2026-05-23T08:04:46+00:00"
+      "date": "2026-05-24T08:23:11+00:00"
     },
     {
-      "title": "ChatGPT as the AOL of AI",
-      "summary": "Article URL: https://rebecca-powell.com/posts/return-on-intelligence-02-moats/ Comments URL: https://news.ycombinator.com/item?id=48245748 Points: 1 # Comments: 1",
-      "url": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
-      "image": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/index.png",
-      "date": "2026-05-23T08:01:29+00:00"
-    },
-    {
-      "title": "Twelve Ways to Be Wrong About AI-Assisted Coding",
-      "summary": "Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/ Comments URL: https://news.ycombinator.com/item?id=48245662 Points: 2 # Comments: 2",
-      "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
+      "title": "Why AI Hardware Is a Chip Layer Problem",
+      "summary": "Article URL: https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/ Comments URL: https://news.ycombinator.com/item?id=48255516 Points: 1 # Comments: 0",
+      "url": "https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/",
       "image": "",
-      "date": "2026-05-23T07:49:27+00:00"
+      "date": "2026-05-24T08:16:04+00:00"
     },
     {
-      "title": "AI Reconstructed Dead Pilots' Voices from Public NTSB Records",
-      "summary": "Article URL: https://firethering.com/ai-recreated-dead-pilots-voices-ntsb-database/ Comments URL: https://news.ycombinator.com/item?id=48245600 Points: 1 # Comments: 0",
-      "url": "https://firethering.com/ai-recreated-dead-pilots-voices-ntsb-database/",
-      "image": "https://firethering.com/wp-content/uploads/2026/05/AI-Was-Used-to-Recreate-the-Voices-of-Dead-Pilots.-The-NTSB-Responded-by-Locking-Down-Its-Database.jpg",
-      "date": "2026-05-23T07:39:29+00:00"
-    },
-    {
-      "title": "AI Visibility Engineering Glossary – AEO, Geo, LLM Retrieval",
-      "summary": "Article URL: https://axonsystem.net/en/glossary/ Comments URL: https://news.ycombinator.com/item?id=48245496 Points: 2 # Comments: 0",
-      "url": "https://axonsystem.net/en/glossary/",
-      "image": "https://axonsystem.net/assets/og/axonsystem-og-cover.png",
-      "date": "2026-05-23T07:20:19+00:00"
-    },
-    {
-      "title": "AI is getting pricey, but relief is coming, but not for you",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358 Comments URL: https://news.ycombinator.com/item?id=48245281 Points: 2 # Comments: 1",
-      "url": "https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358",
-      "image": "https://image.theregister.com/5244449.jpg?imageId=5244449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-05-23T06:36:34+00:00"
-    },
-    {
-      "title": "AI Prompt Examples and Techniques for Better AI Outputs",
-      "summary": "Article URL: https://promptessor.com/blog/10-ai-prompt-examples-and-techniques Comments URL: https://news.ycombinator.com/item?id=48245100 Points: 2 # Comments: 0",
-      "url": "https://promptessor.com/blog/10-ai-prompt-examples-and-techniques",
-      "image": "https://pub-f9534348a97d4f8e9d55ac9356870d8d.r2.dev/promptessor_blog/CoverBlog10%20AI%20Prompt%20Examples%20and%20Techniques%20for%20Better%20AI%20Outputs.jpg",
-      "date": "2026-05-23T05:53:31+00:00"
-    },
-    {
-      "title": "Strengthening Singapore's AI Future",
-      "summary": "Article URL: https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/ Comments URL: https://news.ycombinator.com/item?id=48244995 Points: 3 # Comments: 0",
-      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-      "image": "https://lh3.googleusercontent.com/Woiv_MqlJsgv6bSWD505JCSu936VdLLtR0y7Ev1wPWDmuhFK1SYxkpyU4N2vhSpSMl22NAtbxuZ1yFMHIcDFwABNZIgRtX0ccRXxWiBaHETRXUQEZQ=w1200-h630-n-nu-rw",
-      "date": "2026-05-23T05:28:41+00:00"
-    },
-    {
-      "title": "Starbucks scraps AI inventory tool after nine months",
-      "summary": "Article URL: https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226 Comments URL: https://news.ycombinator.com/item?id=48244956 Points: 2 # Comments: 0",
-      "url": "https://qz.com/starbucks-scraps-ai-inventory-tool-nomadgo-052226",
+      "title": "Ask HN: I mapped 6,494 AI engines into a taxonomy – anyone else tried this?",
+      "summary": "Spent months verifying and classifying 6,494 active AI engines into 13 domains and 69 subcategories (GAIT 69). No such taxonomy existed before. Built a live app that auto-updates daily. Happy to share details or discuss methodology.\nhttps://ai-engine-app.vercel.app Comments URL: https://news.ycombinator.com/item?id=48255441 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48255441",
       "image": "",
-      "date": "2026-05-23T05:21:14+00:00"
+      "date": "2026-05-24T08:02:58+00:00"
     },
     {
-      "title": "Cannes Film Cost $500k to Make. $400k Was AI Compute Costs",
-      "summary": "Article URL: https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d Comments URL: https://news.ycombinator.com/item?id=48244942 Points: 7 # Comments: 2",
-      "url": "https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d",
+      "title": "China behind in LLM race but it can still win in AI, ex-Tencent AI lead says",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says Comments URL: https://news.ycombinator.com/item?id=48255311 Points: 1 # Comments: 0",
+      "url": "https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/21/539150d1-dadb-4715-be0e-39bfa58daf26_ff1bd18b.jpg?itok=TXcI5c9Q&v=1779361939",
+      "date": "2026-05-24T07:38:51+00:00"
+    },
+    {
+      "title": "Newsom signs order aimed at tackling AI job displacement",
+      "summary": "Article URL: https://thehill.com/policy/technology/5889582-california-ai-job-losses/ Comments URL: https://news.ycombinator.com/item?id=48255299 Points: 1 # Comments: 0",
+      "url": "https://thehill.com/policy/technology/5889582-california-ai-job-losses/",
       "image": "",
-      "date": "2026-05-23T05:18:29+00:00"
+      "date": "2026-05-24T07:36:11+00:00"
     },
     {
-      "title": "Is AI Becoming Too Smart for Its Own Good? [audio]",
-      "summary": "Article URL: https://rss.com/podcasts/nuclecast-podcast/2811653/ Comments URL: https://news.ycombinator.com/item?id=48244811 Points: 1 # Comments: 1",
-      "url": "https://rss.com/podcasts/nuclecast-podcast/2811653/",
-      "image": "https://img.rss.com/nuclecast-podcast/900/ep_cover_20260511_010500_d0313d59df35f9e37302c22e76d60e09.png",
-      "date": "2026-05-23T04:55:08+00:00"
+      "title": "How AI is redefining Software Engineering",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-ai-is-redefining-software Comments URL: https://news.ycombinator.com/item?id=48255277 Points: 1 # Comments: 0",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-ai-is-redefining-software",
+      "image": "",
+      "date": "2026-05-24T07:29:21+00:00"
     },
     {
-      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/ Comments URL: https://news.ycombinator.com/item?id=48244645 Points: 2 # Comments: 0",
-      "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
-      "date": "2026-05-23T04:21:01+00:00"
+      "title": "For developers without design skills, how do you leverage AI for front end dev?",
+      "summary": "The best tool I've found so far is Open Design, which you can combine with any of the vibe coding tools you've been using for a long time, but it's still hard to collaborate on long term projects that involve multiple parties. I'd like to ask you all, if you're working on a formal complex UI related project, what's your workflow like? How much Ai is involved? Comments URL: https://news.ycombinator.com/item?id=48255197 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48255197",
+      "image": "",
+      "date": "2026-05-24T07:15:00+00:00"
     },
     {
-      "title": "Microsoft reports AI is more expensive than paying human employees",
-      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/ Comments URL: https://news.ycombinator.com/item?id=48244434 Points: 201 # Comments: 60",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600",
-      "date": "2026-05-23T03:44:16+00:00"
+      "title": "The anatomy of AI power in 2026",
+      "summary": "Article URL: https://wayneresearch.com/research/anatomy-of-ai-power/ Comments URL: https://news.ycombinator.com/item?id=48255193 Points: 1 # Comments: 0",
+      "url": "https://wayneresearch.com/research/anatomy-of-ai-power/",
+      "image": "https://wayneresearch.com/og-image.png",
+      "date": "2026-05-24T07:13:46+00:00"
+    },
+    {
+      "title": "Big fears in Big Tech sector over Artificial Intelligence job losses",
+      "summary": "Article URL: https://www.rte.ie/news/analysis-and-comment/2026/0524/1574792-tech-job-ai-analysis/ Comments URL: https://news.ycombinator.com/item?id=48255097 Points: 1 # Comments: 0",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0524/1574792-tech-job-ai-analysis/",
+      "image": "https://www.rte.ie/images/00241833-1600.jpg",
+      "date": "2026-05-24T06:54:37+00:00"
+    },
+    {
+      "title": "Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)",
+      "summary": "Article URL: https://mediause.dev/skills/arxiv Comments URL: https://news.ycombinator.com/item?id=48254958 Points: 1 # Comments: 0",
+      "url": "https://mediause.dev/skills/arxiv",
+      "image": "",
+      "date": "2026-05-24T06:33:27+00:00"
+    },
+    {
+      "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
+      "summary": "Article URL: https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12 Comments URL: https://news.ycombinator.com/item?id=48254566 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
+      "image": "",
+      "date": "2026-05-24T05:07:07+00:00"
+    },
+    {
+      "title": "Commodity Intelligence",
+      "summary": "Article URL: https://contraptions.venkateshrao.com/p/commodity-intelligence Comments URL: https://news.ycombinator.com/item?id=48254468 Points: 2 # Comments: 0",
+      "url": "https://contraptions.venkateshrao.com/p/commodity-intelligence",
+      "image": "https://substackcdn.com/image/fetch/$s_!8Son!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fcontraptions.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D610566049%26version%3D9",
+      "date": "2026-05-24T04:48:38+00:00"
+    },
+    {
+      "title": "Export chats from 11 AI platforms to PDF or Markdown locally",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/eamemmejpblbiapnigdimieiblldhgoi Comments URL: https://news.ycombinator.com/item?id=48254348 Points: 2 # Comments: 3",
+      "url": "https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/eamemmejpblbiapnigdimieiblldhgoi",
+      "image": "https://lh3.googleusercontent.com/mzkHmn77S2cXsdL8BEbbOiTK0Fp5jvtFWIyo_QxdTNvAM1bU86VsSb8Sh55ybAfV17dQ4OILMaCiVX5NUoYEc9fuQA=s128-rj-sc0x00ffffff",
+      "date": "2026-05-24T04:23:45+00:00"
+    },
+    {
+      "title": "AI as a Design Medium",
+      "summary": "Article URL: https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/ Comments URL: https://news.ycombinator.com/item?id=48254170 Points: 2 # Comments: 0",
+      "url": "https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/",
+      "image": "",
+      "date": "2026-05-24T03:46:29+00:00"
     }
   ]
 }
