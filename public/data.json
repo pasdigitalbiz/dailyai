@@ -1,4 +1,131 @@
 {
-  "generated_at": "2026-05-25T10:45:54.913357+00:00",
-  "items": []
+  "generated_at": "2026-05-26T10:16:58.964167+00:00",
+  "items": [
+    {
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "summary": "Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify Comments URL: https://news.ycombinator.com/item?id=48277485 Points: 1 # Comments: 0",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "date": "2026-05-26T10:01:39+00:00"
+    },
+    {
+      "title": "Pope Leo Compares AI Threat to Biblical 'Tower of Babel'",
+      "summary": "Article URL: https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c Comments URL: https://news.ycombinator.com/item?id=48277442 Points: 1 # Comments: 0",
+      "url": "https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c",
+      "image": "",
+      "date": "2026-05-26T09:56:02+00:00"
+    },
+    {
+      "title": "The state of AI voice assistants is bad but there's a clear winner",
+      "summary": "Article URL: https://simianwords.bearblog.dev/the-state-of-ai-voice-assistants-is-bad-but-theres-a-clear-winner/ Comments URL: https://news.ycombinator.com/item?id=48277414 Points: 1 # Comments: 0",
+      "url": "https://simianwords.bearblog.dev/the-state-of-ai-voice-assistants-is-bad-but-theres-a-clear-winner/",
+      "image": "/static/og-image.png",
+      "date": "2026-05-26T09:53:00+00:00"
+    },
+    {
+      "title": "OpenClaw for Sales – Using Local-First AI Agents for Sales Workflows",
+      "summary": "Article URL: https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution Comments URL: https://news.ycombinator.com/item?id=48276845 Points: 4 # Comments: 0",
+      "url": "https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution",
+      "image": "https://cdn.prod.website-files.com/6863825d62dfc36734416c1c/69ce41d2f79a977650aebd4d_OpenClaw%20EN.png",
+      "date": "2026-05-26T08:34:23+00:00"
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "summary": "Article URL: https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/ Comments URL: https://news.ycombinator.com/item?id=48276707 Points: 7 # Comments: 2",
+      "url": "https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/",
+      "image": "https://vechron.com/wp-content/uploads/2026/05/GettyImages-1964440549.jpg",
+      "date": "2026-05-26T08:16:48+00:00"
+    },
+    {
+      "title": "Oak Ridge Starts Weaving Together a Quantum, Classical HPC, and AI System Stack",
+      "summary": "Article URL: https://www.nextplatform.com/hpc/2026/05/21/oak-ridge-starts-weaving-together-a-quantum-classical-hpc-and-ai-system-stack/5244272 Comments URL: https://news.ycombinator.com/item?id=48276684 Points: 1 # Comments: 0",
+      "url": "https://www.nextplatform.com/hpc/2026/05/21/oak-ridge-starts-weaving-together-a-quantum-classical-hpc-and-ai-system-stack/5244272",
+      "image": "https://image.nextplatform.com/5244279.jpg?imageId=5244279&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-05-26T08:13:57+00:00"
+    },
+    {
+      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/ Comments URL: https://news.ycombinator.com/item?id=48276672 Points: 2 # Comments: 2",
+      "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277573960-1-1152x648-1779741792.jpg",
+      "date": "2026-05-26T08:12:26+00:00"
+    },
+    {
+      "title": "Improving Local Techdocs for Your AI Coding Agent",
+      "summary": "Article URL: https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/ Comments URL: https://news.ycombinator.com/item?id=48276548 Points: 2 # Comments: 0",
+      "url": "https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/",
+      "image": "https://heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/index.png",
+      "date": "2026-05-26T07:57:15+00:00"
+    },
+    {
+      "title": "The Open/Closed Problem in AI",
+      "summary": "Article URL: https://blog.mempko.com/the-open-closed-problem-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48276432 Points: 2 # Comments: 0",
+      "url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
+      "image": "https://blog.mempko.com/content/images/2026/05/1000026828.jpg",
+      "date": "2026-05-26T07:43:33+00:00"
+    },
+    {
+      "title": "Do I have AI Psychosis?",
+      "summary": "Article URL: https://curzel.it/blog/2026_05_26_do_i_have_ai_psychosis.html Comments URL: https://news.ycombinator.com/item?id=48276407 Points: 1 # Comments: 1",
+      "url": "https://curzel.it/blog/2026_05_26_do_i_have_ai_psychosis.html",
+      "image": "",
+      "date": "2026-05-26T07:41:03+00:00"
+    },
+    {
+      "title": "Show HN: AI agent token cost calculator for Codex and Claude Code loops",
+      "summary": "Article URL: https://tinyopsstudio.com/ai-agent-token-cost-calculator Comments URL: https://news.ycombinator.com/item?id=48276358 Points: 1 # Comments: 0",
+      "url": "https://tinyopsstudio.com/ai-agent-token-cost-calculator",
+      "image": "https://tinyopsstudio.com/assets/ai-agent-token-cost-og.png",
+      "date": "2026-05-26T07:34:28+00:00"
+    },
+    {
+      "title": "Show HN: Presentforme.ai – Make slide decks explain themselves",
+      "summary": "I noticed slide decks become much less useful after meetings. People send PDFs around, but much of the information was spoken rather than written. I built PresentForMe.ai think of it as DocSend, but interactive. Upload a PDF or PowerPoint and instead of sharing a static deck, viewers get an AI presenter that can: - explain slides\n- narrate content\n- answer questions\n- track all interactions Still working on things like pacing, and making the response more natural. here's a short 3-slide demo: https://presentforme.ai/presenter-live?share=2y_-NRdi0PSyUTW... Would love feedback.\nThank you for your attention. Comments URL: https://news.ycombinator.com/item?id=48276264 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48276264",
+      "image": "",
+      "date": "2026-05-26T07:22:07+00:00"
+    },
+    {
+      "title": "Cognitive Security as an AI Safety Cause Area",
+      "summary": "Article URL: https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area Comments URL: https://news.ycombinator.com/item?id=48276182 Points: 1 # Comments: 0",
+      "url": "https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "date": "2026-05-26T07:09:30+00:00"
+    },
+    {
+      "title": "Orchestrating AI code review at scale",
+      "summary": "Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=48276152 Points: 1 # Comments: 0",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
+      "date": "2026-05-26T07:06:28+00:00"
+    },
+    {
+      "title": "The first class of AI natives is graduating",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-natives-graduates-job-cuts-6bab8ac9 Comments URL: https://news.ycombinator.com/item?id=48276079 Points: 3 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/ai-natives-graduates-job-cuts-6bab8ac9",
+      "image": "",
+      "date": "2026-05-26T06:58:18+00:00"
+    },
+    {
+      "title": "AI guardrails stripped from Meta and Google models in minutes",
+      "summary": "Article URL: https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e Comments URL: https://news.ycombinator.com/item?id=48276012 Points: 5 # Comments: 1",
+      "url": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
+      "image": "",
+      "date": "2026-05-26T06:51:11+00:00"
+    },
+    {
+      "title": "Microsoft to Publishers: Don't Block the AI Bots",
+      "summary": "Article URL: https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=48275902 Points: 4 # Comments: 0",
+      "url": "https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/",
+      "image": "https://www.adexchanger.com/wp-content/uploads/2026/05/Nikhil-Kolar-Microsoft-AI-programmatic-AI-1.jpg",
+      "date": "2026-05-26T06:38:14+00:00"
+    },
+    {
+      "title": "AI Gurus Are Charging Wall Street Banks $25,000 a Day",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift Comments URL: https://news.ycombinator.com/item?id=48275849 Points: 6 # Comments: 2",
+      "url": "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift",
+      "image": "",
+      "date": "2026-05-26T06:33:00+00:00"
+    }
+  ]
 }
