@@ -1,103 +1,131 @@
 {
-  "generated_at": "2026-05-28T10:32:52.250443+00:00",
+  "generated_at": "2026-05-29T10:12:32.697280+00:00",
   "items": [
     {
-      "title": "MOT: A tool to fight openwashing in AI",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1073420/1c373bcf2b77abe0/ Comments URL: https://news.ycombinator.com/item?id=48307057 Points: 1 # Comments: 0",
-      "url": "https://lwn.net/SubscriberLink/1073420/1c373bcf2b77abe0/",
+      "title": "Is generative AI replacing junior workers?",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6787638 Comments URL: https://news.ycombinator.com/item?id=48321224 Points: 1 # Comments: 0",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6787638",
       "image": "",
-      "date": "2026-05-28T10:32:14+00:00"
+      "date": "2026-05-29T10:08:52+00:00"
     },
     {
-      "title": "Dirk and Linus discuss AI and kernel development",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1073761/289a4e5513688987/ Comments URL: https://news.ycombinator.com/item?id=48306705 Points: 2 # Comments: 0",
-      "url": "https://lwn.net/SubscriberLink/1073761/289a4e5513688987/",
+      "title": "CNN sues Perplexity over alleged AI copyright theft",
+      "summary": "Article URL: https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright Comments URL: https://news.ycombinator.com/item?id=48321165 Points: 1 # Comments: 1",
+      "url": "https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2217553508.jpg?c=16x9&q=w_800,c_fill",
+      "date": "2026-05-29T10:00:32+00:00"
+    },
+    {
+      "title": "We Built a Self-Calibrating POI Map from Human Input, Data Agents and AI",
+      "summary": "Article URL: https://foursquare.com/resources/blog/products/how-we-built-a-self-calibrating-poi-map-from-human-input-data-agents-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48321149 Points: 1 # Comments: 0",
+      "url": "https://foursquare.com/resources/blog/products/how-we-built-a-self-calibrating-poi-map-from-human-input-data-agents-and-ai/",
+      "image": "https://foursquare.com/wp-content/uploads/sites/2/2025/12/How-We-Built-a-Self-Calibrating-POI-Map-from-Human-Input-Data-Agents-and-AI-Thumbnail.png",
+      "date": "2026-05-29T09:57:59+00:00"
+    },
+    {
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/ Comments URL: https://news.ycombinator.com/item?id=48321056 Points: 2 # Comments: 1",
+      "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2263649204-2560x1440.jpg",
+      "date": "2026-05-29T09:44:43+00:00"
+    },
+    {
+      "title": "GPUs and RAM Are in Short Supply, but the Real Bottleneck for AI Is Electricians",
+      "summary": "Article URL: https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566 Comments URL: https://news.ycombinator.com/item?id=48320997 Points: 2 # Comments: 0",
+      "url": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
+      "image": "https://image.nextplatform.com/5247569.jpg?imageId=5247569&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-05-29T09:37:38+00:00"
+    },
+    {
+      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/ Comments URL: https://news.ycombinator.com/item?id=48320996 Points: 4 # Comments: 0",
+      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2212801534-2-1024x648.jpg",
+      "date": "2026-05-29T09:37:20+00:00"
+    },
+    {
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "summary": "Article URL: https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/ Comments URL: https://news.ycombinator.com/item?id=48320985 Points: 2 # Comments: 0",
+      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "image": "https://firethering.com/wp-content/uploads/2026/05/The-500K-AI-Film-That-Premiered-at-Cannes-Didnt-Actually-Premiere-at-Cannes.jpg",
+      "date": "2026-05-29T09:34:37+00:00"
+    },
+    {
+      "title": "The Text Box Is the Command Line of AI",
+      "summary": "Article URL: https://www.zey.dev/essays/RbIIZqV9ttY0DIhyzUcT Comments URL: https://news.ycombinator.com/item?id=48320977 Points: 1 # Comments: 1",
+      "url": "https://www.zey.dev/essays/RbIIZqV9ttY0DIhyzUcT",
+      "image": "https://zeynepevecen.dev/essays/RbIIZqV9ttY0DIhyzUcT/opengraph-image-rfgxr?194f7f5471c5ef56",
+      "date": "2026-05-29T09:33:08+00:00"
+    },
+    {
+      "title": "Why Tesla's AI trainers don't trust its self-driving tech",
+      "summary": "Article URL: https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48320957 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/",
       "image": "",
-      "date": "2026-05-28T09:40:58+00:00"
+      "date": "2026-05-29T09:31:18+00:00"
     },
     {
-      "title": "China works on AI token futures market",
-      "summary": "Article URL: https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48306633 Points: 2 # Comments: 3",
-      "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
+      "title": "AI to be used to estimate age of UK asylum seekers",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ce3pe36qe7ro Comments URL: https://news.ycombinator.com/item?id=48320953 Points: 2 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/ce3pe36qe7ro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0cdf/live/b79886d0-5aab-11f1-b277-cd187c78657d.jpg",
+      "date": "2026-05-29T09:31:09+00:00"
+    },
+    {
+      "title": "You're Not Going to Lose Your Job to AI",
+      "summary": "Article URL: https://softwarecrafter.substack.com/p/the-miracle-years-and-what-comes Comments URL: https://news.ycombinator.com/item?id=48320909 Points: 3 # Comments: 2",
+      "url": "https://softwarecrafter.substack.com/p/the-miracle-years-and-what-comes",
       "image": "",
-      "date": "2026-05-28T09:30:35+00:00"
+      "date": "2026-05-29T09:23:34+00:00"
     },
     {
-      "title": "Mistral AI Launches Mistral Vibe",
-      "summary": "Article URL: https://mistral.ai/fr/products/vibe Comments URL: https://news.ycombinator.com/item?id=48306590 Points: 2 # Comments: 0",
-      "url": "https://mistral.ai/fr/products/vibe",
-      "image": "https://mistral.ai/cms-media/api/media/file/OG-Main-1.jpg",
-      "date": "2026-05-28T09:23:20+00:00"
-    },
-    {
-      "title": "Is this sustainable? The senior engineer role after three years of AI",
-      "summary": "Article URL: https://jamiehurst.co.uk/2026-05-24_ai-sustainable Comments URL: https://news.ycombinator.com/item?id=48306398 Points: 2 # Comments: 0",
-      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "title": "A 20-Minute AI Audit Caught a Bug That 3 Senior Devs Missed (Week 3 Roundup)",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/how-a-20-minute-ai-audit-caught-a-bug-that-3-senior-devs-missed-week-3.html Comments URL: https://news.ycombinator.com/item?id=48320777 Points: 1 # Comments: 1",
+      "url": "https://theaileverageweekly.com/posts/how-a-20-minute-ai-audit-caught-a-bug-that-3-senior-devs-missed-week-3.html",
       "image": "",
-      "date": "2026-05-28T08:52:22+00:00"
+      "date": "2026-05-29T09:01:05+00:00"
     },
     {
-      "title": "UK spy chief labels AI 'unstoppable force' with off., def. ramifications",
-      "summary": "Article URL: https://cyberscoop.com/gchq-warns-ai-cyber-warfare-threats/ Comments URL: https://news.ycombinator.com/item?id=48306387 Points: 3 # Comments: 0",
-      "url": "https://cyberscoop.com/gchq-warns-ai-cyber-warfare-threats/",
-      "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/05/GettyImages-2152350051.jpg",
-      "date": "2026-05-28T08:50:35+00:00"
+      "title": "Nonfiction Book Publishers Aren't Remotely Ready for AI",
+      "summary": "Article URL: https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48320743 Points: 2 # Comments: 1",
+      "url": "https://nymag.com/intelligencer/article/nonfiction-book-publishers-arent-remotely-ready-for-ai.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/1a8/226/6ce5e5e0a296e9caefcfaf6baaf11c58ec-AI-publishers.1x.rsocial.w1200.jpg",
+      "date": "2026-05-29T08:54:53+00:00"
     },
     {
-      "title": "Don't let Big Tech hide ecological cost of AI, environment agency chief tells EU",
-      "summary": "Article URL: https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/ Comments URL: https://news.ycombinator.com/item?id=48306344 Points: 2 # Comments: 0",
-      "url": "https://www.politico.eu/article/big-tech-ecological-cost-ai-environment-agency-chief-eu/",
-      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/22/GettyImages-2242297015-scaled.jpg",
-      "date": "2026-05-28T08:44:23+00:00"
+      "title": "Unhealthy code makes AI agents consume 35-50% more tokens",
+      "summary": "Article URL: https://codescene.com/blog/unhealthy-code-is-burning-your-token-usage-heres-the-data Comments URL: https://news.ycombinator.com/item?id=48320729 Points: 2 # Comments: 0",
+      "url": "https://codescene.com/blog/unhealthy-code-is-burning-your-token-usage-heres-the-data",
+      "image": "https://codescene.com/hubfs/token_waste_per_language_featured_image.png",
+      "date": "2026-05-29T08:52:45+00:00"
     },
     {
-      "title": "Where I think my career is headed (with AI-assisted dev)",
-      "summary": "Article URL: https://assertchris.dev/articles/2026-05-27-the-future-of-ai-development Comments URL: https://news.ycombinator.com/item?id=48306302 Points: 1 # Comments: 0",
-      "url": "https://assertchris.dev/articles/2026-05-27-the-future-of-ai-development",
+      "title": "Ask HN: What/how are you teaching your kids in the age of AI?",
+      "summary": "I've been feeling more and more lost. Had plans to teach my 10yr python, maybe something fun with games or robotics. But then I look around and I see others doing 100x more advanced things using AI. Yesterday I tried google ai studio. 1hr later I had an app on my phone. Its hard to justify the motivation of learning all the foundations and hard stuff, when it's so easy to get to the end result using AI. I've been avoiding showing them that image generation is a real thing, they love to draw and do arts. I fear that that instant gratification will just hook them to do more and more AI images and loose their interest in actual drawing and painting. On the other hand, prompt engineering is a thing, even for image gen. No question that learning to leverage AI is a skill. But I don't even know how to navigate that when I think about the kind of future my kids will face. Honestly, sometimes I feel it's just wiser to put your time and effort into things AI is very far to replace us. I'm always swinging from \"we need to learn tech\" to \"we can't beat it, let's put our focus and energy into something else\". (note: this is also because my kids are not very tech-oriented, I understand this would be totally different if I had geeks in the house that love computer stuff  - like I was!) How are you all navigating this, especially those of you with kids? Comments URL: https://news.ycombinator.com/item?id=48320698 Points: 1 # Comments: 6",
+      "url": "https://news.ycombinator.com/item?id=48320698",
       "image": "",
-      "date": "2026-05-28T08:38:27+00:00"
+      "date": "2026-05-29T08:47:42+00:00"
     },
     {
-      "title": "Use Zite and AI to build an app",
-      "summary": "Article URL: https://www.zite.com/help/platform/getting-started/quickstart Comments URL: https://news.ycombinator.com/item?id=48306275 Points: 2 # Comments: 0",
-      "url": "https://www.zite.com/help/platform/getting-started/quickstart",
-      "image": "https://zite.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2BStarted%26title%3DQuickstart%26description%3DGetting%2Bstarted%2Bis%2Bas%2Bsimple%2Bas%2Bdescribing%2Byour%2Bapp%2Bidea.%2BZite%2Bhelps%2Bturn%2Bthat%2Bprompt%2Binto%2Ba%2Bworking%2Bapp%2Byou%2Bcan%2Brefine%252C%2Bconnect%2Bto%2Bdata%252C%2Band%2Bshare.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fzite%252FiguXXMxNAqjCcaY0%252Fhelp%252Fimages%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DiguXXMxNAqjCcaY0%2526q%253D85%2526s%253De223f674c9ab3109a2bfee4e666d6221%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fzite%252FiguXXMxNAqjCcaY0%252Fhelp%252Fimages%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DiguXXMxNAqjCcaY0%2526q%253D85%2526s%253D1c0e463ce6830ecfcb5905952a14a11b%26primaryColor%3D%2523211C20%26lightColor%3D%2523FFC738%26darkColor%3D%2523071003%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0d0c&w=1200&q=100",
-      "date": "2026-05-28T08:34:51+00:00"
+      "title": "Why ipynb is a perfect format for saving AI data analysis conversations",
+      "summary": "Article URL: https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/ Comments URL: https://news.ycombinator.com/item?id=48320664 Points: 1 # Comments: 0",
+      "url": "https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/",
+      "image": "https://mljar.com/blog/why-ipynb-is-perfect-format-for-saving-ai-data-analysis-conversations/banner.webp",
+      "date": "2026-05-29T08:41:54+00:00"
     },
     {
-      "title": "An analysis of how internet scanners are targeting AI infrastructure",
-      "summary": "Article URL: https://honeylabs.net/blog/ai-scanning-may-2026 Comments URL: https://news.ycombinator.com/item?id=48306271 Points: 3 # Comments: 0",
-      "url": "https://honeylabs.net/blog/ai-scanning-may-2026",
-      "image": "",
-      "date": "2026-05-28T08:34:03+00:00"
+      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
+      "summary": "Article URL: https://arxiv.org/abs/2604.03136 Comments URL: https://news.ycombinator.com/item?id=48320536 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2604.03136",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-05-29T08:22:30+00:00"
     },
     {
-      "title": "Netflix is building an AI animation studio",
-      "summary": "Article URL: https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator Comments URL: https://news.ycombinator.com/item?id=48306178 Points: 3 # Comments: 0",
-      "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-05-28T08:22:24+00:00"
-    },
-    {
-      "title": "When products think: navigating the AI product shift",
-      "summary": "Article URL: https://www.cesarrg.com/when-products-think-navigating-the-ai-product-shift/ Comments URL: https://news.ycombinator.com/item?id=48305990 Points: 2 # Comments: 0",
-      "url": "https://www.cesarrg.com/when-products-think-navigating-the-ai-product-shift/",
-      "image": "https://cesarrg.ghost.io/content/images/size/w1200/2025/02/CRG-2-1.png",
-      "date": "2026-05-28T07:56:44+00:00"
-    },
-    {
-      "title": "A useful paper on the case for AI data centres in space [pdf]",
-      "summary": "Article URL: https://starcloudinc.github.io/wp.pdf Comments URL: https://news.ycombinator.com/item?id=48305988 Points: 2 # Comments: 0",
-      "url": "https://starcloudinc.github.io/wp.pdf",
-      "image": "",
-      "date": "2026-05-28T07:56:18+00:00"
-    },
-    {
-      "title": "Robinhood Lets Customers Use AI to Trade Stocks, Make Credit-Card Purchases",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed Comments URL: https://news.ycombinator.com/item?id=48305974 Points: 1 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed",
-      "image": "",
-      "date": "2026-05-28T07:53:41+00:00"
+      "title": "An AI Audit of FreeBSD",
+      "summary": "Article URL: https://blog.calif.io/p/an-ai-audit-of-freebsd Comments URL: https://news.ycombinator.com/item?id=48320476 Points: 1 # Comments: 0",
+      "url": "https://blog.calif.io/p/an-ai-audit-of-freebsd",
+      "image": "https://substackcdn.com/image/fetch/$s_!UXej!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F372b8a80-155a-49cd-a9a7-982c879ca632_1043x399.png",
+      "date": "2026-05-29T08:13:40+00:00"
     }
   ]
 }
