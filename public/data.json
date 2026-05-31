@@ -1,117 +1,103 @@
 {
-  "generated_at": "2026-05-30T08:39:12.041501+00:00",
+  "generated_at": "2026-05-31T09:22:15.475463+00:00",
   "items": [
     {
-      "title": "A $2k AI-generated film will make its debut at Tribeca",
-      "summary": "Article URL: https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca Comments URL: https://news.ycombinator.com/item?id=48333728 Points: 2 # Comments: 0",
-      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-05-30T07:45:03+00:00"
+      "title": "Why AI can't be trusted to write scientific reviews",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01616-3 Comments URL: https://news.ycombinator.com/item?id=48344152 Points: 2 # Comments: 1",
+      "url": "https://www.nature.com/articles/d41586-026-01616-3",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01616-3/d41586-026-01616-3_52448718.jpg",
+      "date": "2026-05-31T09:06:36+00:00"
     },
     {
-      "title": "Company Blew $500M on Claude AI in One Month Due to No Usage Limit on Licenses",
-      "summary": "Article URL: https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month Comments URL: https://news.ycombinator.com/item?id=48333209 Points: 2 # Comments: 1",
-      "url": "https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_786952454_S.jpg",
-      "date": "2026-05-30T06:21:27+00:00"
+      "title": "Why Chinese AI labs went open and will remain open",
+      "summary": "Article URL: https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open Comments URL: https://news.ycombinator.com/item?id=48344144 Points: 1 # Comments: 0",
+      "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
+      "image": "https://freight.cargo.site/w/1143/i/K2890415738935363555163797152264/Screenshot-2026-04-15-205441.png",
+      "date": "2026-05-31T09:05:52+00:00"
     },
     {
-      "title": "Nvidia says it has largely conceded China's AI chip market to Huawei",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html Comments URL: https://news.ycombinator.com/item?id=48333181 Points: 2 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108308587-1779133062069-gettyimages-2276430024-DELL_TECHNOLOGIES_CONVENTION.jpeg?v=1779133175&w=1920&h=1080",
-      "date": "2026-05-30T06:16:53+00:00"
+      "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon Comments URL: https://news.ycombinator.com/item?id=48344084 Points: 1 # Comments: 0",
+      "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
+      "image": "https://substackcdn.com/image/fetch/$s_!4vcH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c52689e-4037-4a26-a3a7-d74ddb4f3e2c_992x558.avif",
+      "date": "2026-05-31T08:51:04+00:00"
     },
     {
-      "title": "The Biggest Tell That Something Was Written by AI",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48332936 Points: 9 # Comments: 5",
-      "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
-      "image": "https://cdn.theatlantic.com/thumbor/KnZwtS1AM5wiLfqgdZjrIP8_hfc=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_28_Fairbanks_written_by_AI_final/original.gif",
-      "date": "2026-05-30T05:31:05+00:00"
+      "title": "Netflix Wiz creates app to slash AI bills by pruning agent instructions",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702 Comments URL: https://news.ycombinator.com/item?id=48344069 Points: 2 # Comments: 1",
+      "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+      "image": "https://image.theregister.com/5248730.jpg?imageId=5248730&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-05-31T08:47:53+00:00"
     },
     {
-      "title": "Meta plans AI pendant, 'wearables for work' in hardware boost",
-      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/articleshow/131402525.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=48332473 Points: 2 # Comments: 2",
-      "url": "https://economictimes.indiatimes.com/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/articleshow/131402525.cms?from=mdr",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7254,resizemode-75,msid-131402525/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report.jpg",
-      "date": "2026-05-30T04:08:36+00:00"
+      "title": "AI Dark Output: The Visible Cost of Invisible Output",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/ai-dark-output-the-visible-cost-of Comments URL: https://news.ycombinator.com/item?id=48343960 Points: 2 # Comments: 1",
+      "url": "https://newsletter.semianalysis.com/p/ai-dark-output-the-visible-cost-of",
+      "image": "https://substackcdn.com/image/fetch/$s_!shh6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4dcf2a82-bd7e-487b-964e-3a053a671036_1672x941.png",
+      "date": "2026-05-31T08:20:31+00:00"
     },
     {
-      "title": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
-      "summary": "Article URL: https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48332432 Points: 7 # Comments: 0",
-      "url": "https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/",
+      "title": "AI slop is hard to fork",
+      "summary": "Article URL: https://00f.net/2026/05/31/ai-slop-is-hard-to-fork/ Comments URL: https://news.ycombinator.com/item?id=48343898 Points: 1 # Comments: 0",
+      "url": "https://00f.net/2026/05/31/ai-slop-is-hard-to-fork/",
+      "image": "https://00f.net/favicon.ico",
+      "date": "2026-05-31T08:05:12+00:00"
+    },
+    {
+      "title": "UC Berkeley Law blanket AI ban since summer 2026",
+      "summary": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/ Comments URL: https://news.ycombinator.com/item?id=48343728 Points: 7 # Comments: 0",
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+      "image": "https://www.law.berkeley.edu/wp-content/uploads/2024/12/websharecard2.jpg",
+      "date": "2026-05-31T07:19:01+00:00"
+    },
+    {
+      "title": "The AI Boom Is Coming to Your Backyard [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=bA2rUkm7J9k Comments URL: https://news.ycombinator.com/item?id=48342345 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=bA2rUkm7J9k",
       "image": "",
-      "date": "2026-05-30T04:02:15+00:00"
+      "date": "2026-05-31T01:47:42+00:00"
     },
     {
-      "title": "DeepSWE blows up AI coding leaderboard, crowns GPT-5.5, + ClaudeOpus loophole",
-      "summary": "Article URL: https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole Comments URL: https://news.ycombinator.com/item?id=48332339 Points: 3 # Comments: 1",
-      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+      "title": "How to protect your AI endpoints with Vercel BotID",
+      "summary": "Article URL: https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid Comments URL: https://news.ycombinator.com/item?id=48342146 Points: 2 # Comments: 0",
+      "url": "https://vercel.com/kb/guide/protect-ai-endpoints-with-vercel-botid",
+      "image": "https://vercel.com/api/docs-og?title=How%20to%20protect%20your%20AI%20endpoints%20with%20Vercel%20BotID&format=kb&sig=f0a086d15febf1ce4791fa20fc144a2cbb266a02d9c2969c333f78c6e90a6a9c",
+      "date": "2026-05-31T01:06:00+00:00"
+    },
+    {
+      "title": "Classrooms lean into analog learning in the AI era",
+      "summary": "Article URL: https://www.axios.com/2026/05/30/no-screen-school-technology-parents-ai Comments URL: https://news.ycombinator.com/item?id=48342052 Points: 4 # Comments: 0",
+      "url": "https://www.axios.com/2026/05/30/no-screen-school-technology-parents-ai",
       "image": "",
-      "date": "2026-05-30T03:44:07+00:00"
+      "date": "2026-05-31T00:46:54+00:00"
     },
     {
-      "title": "AI Isn't Replacing Curious Developers",
-      "summary": "Article URL: https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers Comments URL: https://news.ycombinator.com/item?id=48332282 Points: 1 # Comments: 0",
-      "url": "https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers",
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping Comments URL: https://news.ycombinator.com/item?id=48341921 Points: 42 # Comments: 5",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-05-31T00:23:33+00:00"
+    },
+    {
+      "title": "Dell, Snowflake, and Ford show how the AI boom is spreading: Alpha Check",
+      "summary": "Article URL: https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html Comments URL: https://news.ycombinator.com/item?id=48341748 Points: 4 # Comments: 0",
+      "url": "https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/rEGQjhNx1OBxfxwBuDwXjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/alpha-space-dark-chart2-0529-1_7711.png",
+      "date": "2026-05-30T23:55:58+00:00"
+    },
+    {
+      "title": "Keep AI Weird",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die Comments URL: https://news.ycombinator.com/item?id=48341697 Points: 3 # Comments: 1",
+      "url": "https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die",
       "image": "",
-      "date": "2026-05-30T03:32:55+00:00"
+      "date": "2026-05-30T23:45:33+00:00"
     },
     {
-      "title": "Uber and the Bitter Truth About Low AI ROI",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48332242 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48332242",
-      "image": "",
-      "date": "2026-05-30T03:26:58+00:00"
-    },
-    {
-      "title": "A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48332080 Points: 2 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
-      "image": "",
-      "date": "2026-05-30T03:05:04+00:00"
-    },
-    {
-      "title": "Lessons from Shipping Persistent Memory for AI Agents",
-      "summary": "Article URL: https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/ Comments URL: https://news.ycombinator.com/item?id=48332053 Points: 1 # Comments: 1",
-      "url": "https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/",
-      "image": "https://static.pingcap.com/files/2026/04/30122906/Blog-LinkedIn-4.png",
-      "date": "2026-05-30T02:59:43+00:00"
-    },
-    {
-      "title": "SpaceX has almost finished writing v1.0 of an in-house AI training stack in C",
-      "summary": "Article URL: https://xcancel.com/elonmusk/status/2059884150187053488 Comments URL: https://news.ycombinator.com/item?id=48332000 Points: 2 # Comments: 2",
-      "url": "https://xcancel.com/elonmusk/status/2059884150187053488",
-      "image": "",
-      "date": "2026-05-30T02:50:31+00:00"
-    },
-    {
-      "title": "What a 98-Year Old Children's Book Teaches Us About AI",
-      "summary": "Article URL: https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48331320 Points: 5 # Comments: 1",
-      "url": "https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/",
-      "image": "https://angrystaffofficer.com/wp-content/uploads/2018/07/cropped-aso-2-2.png?w=200",
-      "date": "2026-05-30T01:05:38+00:00"
-    },
-    {
-      "title": "Tokens or Humans? The New AI Cost Trade-Off Reshaping Corporate Budgets [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=niBP4qhNSWw Comments URL: https://news.ycombinator.com/item?id=48331066 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=niBP4qhNSWw",
-      "image": "",
-      "date": "2026-05-30T00:24:04+00:00"
-    },
-    {
-      "title": "Software Architecture After AI",
-      "summary": "Article URL: https://brianguthrie.com/p/software-architecture-after-ai/ Comments URL: https://news.ycombinator.com/item?id=48330939 Points: 2 # Comments: 0",
-      "url": "https://brianguthrie.com/p/software-architecture-after-ai/",
-      "image": "http://brianguthrie.com/p/software-architecture-after-ai/d-brz-gNCUqxJM3oU-unsplash_hu_e57286503d34ce68.jpg",
-      "date": "2026-05-30T00:03:50+00:00"
-    },
-    {
-      "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms Comments URL: https://news.ycombinator.com/item?id=48330881 Points: 10 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
-      "image": "",
-      "date": "2026-05-29T23:54:21+00:00"
+      "title": "AI Hardware",
+      "summary": "Article URL: https://www.categoryvc.com/writing/where-the-ai-hardware-market-is Comments URL: https://news.ycombinator.com/item?id=48341537 Points: 3 # Comments: 0",
+      "url": "https://www.categoryvc.com/writing/where-the-ai-hardware-market-is",
+      "image": "https://category.vc/writing/where-the-ai-hardware-market-is/opengraph-image?c39d2ddd746019a7",
+      "date": "2026-05-30T23:18:28+00:00"
     }
   ]
 }
