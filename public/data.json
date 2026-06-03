@@ -1,89 +1,110 @@
 {
-  "generated_at": "2026-06-02T10:53:35.313208+00:00",
+  "generated_at": "2026-06-03T11:21:12.772403+00:00",
   "items": [
     {
-      "title": "HTML Deployer – Publish HTML from AI Chats to a Website",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/html-deployer-1-click-ai/gihmknkabkkghpiocgnoiejagngdegea Comments URL: https://news.ycombinator.com/item?id=48368347 Points: 1 # Comments: 0",
-      "url": "https://chromewebstore.google.com/detail/html-deployer-1-click-ai/gihmknkabkkghpiocgnoiejagngdegea",
-      "image": "https://lh3.googleusercontent.com/Stvqnp1sRJQzNLbK9r2IZ0hhXVJFx_Tui9MbxbWU2-uO1R9KuGrTZtVBwQX3ppocJDyyjkgZeHwvLSn-BaVCF6mdGw=s128-rj-sc0x00ffffff",
-      "date": "2026-06-02T10:30:06+00:00"
+      "title": "DMF: A Deterministic Memory Framework for Conversational AI Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2606.03463 Comments URL: https://news.ycombinator.com/item?id=48382400 Points: 2 # Comments: 0",
+      "url": "https://arxiv.org/abs/2606.03463",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-06-03T11:07:43+00:00"
     },
     {
-      "title": "Consolidated AI First Startup Guide",
-      "summary": "Article URL: https://benemson.com/resources/ai-first-startup-guide Comments URL: https://news.ycombinator.com/item?id=48368326 Points: 1 # Comments: 1",
-      "url": "https://benemson.com/resources/ai-first-startup-guide",
-      "image": "https://benemson.com/og-home.jpg",
-      "date": "2026-06-02T10:27:43+00:00"
+      "title": "AI Infrastructure Isn't Just on Land",
+      "summary": "Article URL: https://www.ooooo.law/board/7?lang=en Comments URL: https://news.ycombinator.com/item?id=48382343 Points: 1 # Comments: 0",
+      "url": "https://www.ooooo.law/board/7?lang=en",
+      "image": "https://www.ooooo.law/board/7/og?lang=en",
+      "date": "2026-06-03T10:59:24+00:00"
     },
     {
-      "title": "From Specialists to Builders: How AI Agentic Coding Is Reshaping Software Teams",
-      "summary": "Article URL: https://aliparnan.com/blog-specialists-to-builders.html Comments URL: https://news.ycombinator.com/item?id=48367930 Points: 2 # Comments: 0",
-      "url": "https://aliparnan.com/blog-specialists-to-builders.html",
-      "image": "https://aliparnan.com/og-image.jpg",
-      "date": "2026-06-02T09:37:01+00:00"
-    },
-    {
-      "title": "China's lab-grown diamonds emerging as a surprising beneficiary of the AI boom",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom Comments URL: https://news.ycombinator.com/item?id=48367910 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-lab-grown-diamonds-emerge-as-unlikely-winner-in-ai-boom",
+      "title": "Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "summary": "Article URL: https://red.anthropic.com/2026/attack-navigator/ Comments URL: https://news.ycombinator.com/item?id=48382242 Points: 2 # Comments: 0",
+      "url": "https://red.anthropic.com/2026/attack-navigator/",
       "image": "",
-      "date": "2026-06-02T09:34:44+00:00"
+      "date": "2026-06-03T10:41:20+00:00"
     },
     {
-      "title": "Quality in the Age of AI Slop",
-      "summary": "Article URL: https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/ Comments URL: https://news.ycombinator.com/item?id=48367782 Points: 2 # Comments: 0",
-      "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+      "title": "AI and the Psychology of Cognitive Surrender",
+      "summary": "Article URL: https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender Comments URL: https://news.ycombinator.com/item?id=48382223 Points: 3 # Comments: 0",
+      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender",
+      "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-06/engin_akyurt-woman-4566089.jpg?itok=IcyW2FAS",
+      "date": "2026-06-03T10:37:43+00:00"
+    },
+    {
+      "title": "Zamicus+|+Dang.ai",
+      "summary": "Article URL: https://dang.ai/tool/ai-marketing-intelligence-zamicus-com Comments URL: https://news.ycombinator.com/item?id=48382184 Points: 1 # Comments: 0",
+      "url": "https://dang.ai/tool/ai-marketing-intelligence-zamicus-com",
+      "image": "https://assets.dang.ai/tools/ai-marketing-intelligence-zamicus-com/screenshot-att7nCtyX4QknHseF.webp",
+      "date": "2026-06-03T10:31:52+00:00"
+    },
+    {
+      "title": "The AI Question That No AI Person Asks [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=o9Vbvp4awQU Comments URL: https://news.ycombinator.com/item?id=48382176 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=o9Vbvp4awQU",
       "image": "",
-      "date": "2026-06-02T09:13:17+00:00"
+      "date": "2026-06-03T10:30:47+00:00"
     },
     {
-      "title": "The Future of the Website in the AI Age",
-      "summary": "Article URL: https://inkpat.com/volatilecarbon/post/258 Comments URL: https://news.ycombinator.com/item?id=48367706 Points: 1 # Comments: 0",
-      "url": "https://inkpat.com/volatilecarbon/post/258",
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "summary": "Article URL: https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out Comments URL: https://news.ycombinator.com/item?id=48382126 Points: 2 # Comments: 1",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-06-03T10:21:07+00:00"
+    },
+    {
+      "title": "Exploring geospatial link between soils and national intelligence quotient",
+      "summary": "Article URL: https://www.nature.com/articles/s41598-025-22539-5 Comments URL: https://news.ycombinator.com/item?id=48382111 Points: 1 # Comments: 0",
+      "url": "https://www.nature.com/articles/s41598-025-22539-5",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-22539-5/MediaObjects/41598_2025_22539_Fig1_HTML.png",
+      "date": "2026-06-03T10:16:10+00:00"
+    },
+    {
+      "title": "What we learned mapping a year's worth of AI-enabled cyber threats",
+      "summary": "Article URL: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack Comments URL: https://news.ycombinator.com/item?id=48382107 Points: 1 # Comments: 0",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=cactus",
+      "date": "2026-06-03T10:15:18+00:00"
+    },
+    {
+      "title": "You won't be talking to AI in natural language for too long",
+      "summary": "Article URL: https://www.elicited.blog/posts/you-wont-be-talking-to-ai-in-natural-language-for-too-long Comments URL: https://news.ycombinator.com/item?id=48382088 Points: 3 # Comments: 4",
+      "url": "https://www.elicited.blog/posts/you-wont-be-talking-to-ai-in-natural-language-for-too-long",
+      "image": "https://www.elicited.blog/posts/you-wont-be-talking-to-ai-in-natural-language-for-too-long/index.png",
+      "date": "2026-06-03T10:12:12+00:00"
+    },
+    {
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 13 # Comments: 3",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
       "image": "",
-      "date": "2026-06-02T09:01:46+00:00"
+      "date": "2026-06-03T10:05:48+00:00"
     },
     {
-      "title": "We Asked the Future of Truth Author to Explain How He Used AI. It Didn't Go Well",
-      "summary": "Article URL: https://www.wired.com/story/future-of-truth-ai-interview/ Comments URL: https://news.ycombinator.com/item?id=48367671 Points: 4 # Comments: 0",
-      "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
-      "image": "https://media.wired.com/photos/6a173332faa2148b4ab454b6/191:100/w_1280,c_limit/Business_AIBookAuthorUsedAItoWriteHisBook_v1.jpg",
-      "date": "2026-06-02T08:56:04+00:00"
+      "title": "Gödel and Turing outlined the limits of AI",
+      "summary": "Article URL: https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html Comments URL: https://news.ycombinator.com/item?id=48381981 Points: 1 # Comments: 0",
+      "url": "https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html",
+      "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/4/6/9/Turing-8a95613dd9f015e2.jpg",
+      "date": "2026-06-03T09:54:05+00:00"
     },
     {
-      "title": "EU is set to join US-led chip alliance 'Pax Silica' to counter China's AI race",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race Comments URL: https://news.ycombinator.com/item?id=48367491 Points: 3 # Comments: 0",
-      "url": "https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race",
+      "title": "Google Is Quietly Buying Code from Play Store Developers to Train AI",
+      "summary": "Article URL: https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48381922 Points: 3 # Comments: 1",
+      "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-17.15.56@2x.png",
+      "date": "2026-06-03T09:47:16+00:00"
+    },
+    {
+      "title": "Tech CEOs Are Using AI as the Perfect Scapegoat for Mass Layoffs",
+      "summary": "Article URL: https://www.gadgetreview.com/tech-ceos-are-using-ai-as-the-perfect-scapegoat-for-mass-layoffs Comments URL: https://news.ycombinator.com/item?id=48381875 Points: 5 # Comments: 1",
+      "url": "https://www.gadgetreview.com/tech-ceos-are-using-ai-as-the-perfect-scapegoat-for-mass-layoffs",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_736413408_S.jpg",
+      "date": "2026-06-03T09:39:43+00:00"
+    },
+    {
+      "title": "AI Won't Replace Your DevOps Pipeline – But It Will Expose How Fragile It Is",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/ai-won-t-replace-your-devops-pipeline-but-it-will-expose-how-fragile-i.html Comments URL: https://news.ycombinator.com/item?id=48381618 Points: 2 # Comments: 0",
+      "url": "https://theaileverageweekly.com/posts/ai-won-t-replace-your-devops-pipeline-but-it-will-expose-how-fragile-i.html",
       "image": "",
-      "date": "2026-06-02T08:29:43+00:00"
-    },
-    {
-      "title": "OpenAIRE AI Hackathon",
-      "summary": "Article URL: https://www.openaire.eu/announcement-openaire-ai-hackathon Comments URL: https://news.ycombinator.com/item?id=48367388 Points: 1 # Comments: 0",
-      "url": "https://www.openaire.eu/announcement-openaire-ai-hackathon",
-      "image": "https://www.openaire.eu/images/News_Items/2026/06_2026/AI_Hackathon_new.jpg",
-      "date": "2026-06-02T08:12:58+00:00"
-    },
-    {
-      "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram Comments URL: https://news.ycombinator.com/item?id=48367292 Points: 5 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
-      "image": "https://i.guim.co.uk/img/media/0a1521f6c70403081189e0e46a7e802e2737a669/567_0_5665_4534/master/5665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fe06e652d9b354486d3ef440da5595d",
-      "date": "2026-06-02T07:55:03+00:00"
-    },
-    {
-      "title": "California’s university system went all in on AI, now it's tearing itself apart",
-      "summary": "Article URL: https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html Comments URL: https://news.ycombinator.com/item?id=48367223 Points: 4 # Comments: 0",
-      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
-      "image": "",
-      "date": "2026-06-02T07:46:20+00:00"
-    },
-    {
-      "title": "Remote work – not AI – has sidelined recent college graduates, research finds",
-      "summary": "Article URL: https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai Comments URL: https://news.ycombinator.com/item?id=48367147 Points: 1 # Comments: 0",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6890x3876+0+717/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F90%2F4822a5b84b00a7676f3523eacecb%2Fgettyimages-1457905152.jpg",
-      "date": "2026-06-02T07:33:15+00:00"
+      "date": "2026-06-03T09:01:17+00:00"
     }
   ]
 }
