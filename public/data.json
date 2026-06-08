@@ -1,4 +1,89 @@
 {
-  "generated_at": "2026-06-07T09:33:27.495635+00:00",
-  "items": []
+  "generated_at": "2026-06-08T11:19:05.195100+00:00",
+  "items": [
+    {
+      "title": "You can dislike AI without it being for moral reasons",
+      "summary": "Article URL: https://schaudenfrau.de/you-can-dislike-ai-without-it-being-for-moral-reasons/ Comments URL: https://news.ycombinator.com/item?id=48443783 Points: 1 # Comments: 0",
+      "url": "https://schaudenfrau.de/you-can-dislike-ai-without-it-being-for-moral-reasons/",
+      "image": "/static/og-image.png",
+      "date": "2026-06-08T11:03:54+00:00"
+    },
+    {
+      "title": "Let us filter AI slop, you cowards",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok Comments URL: https://news.ycombinator.com/item?id=48443717 Points: 5 # Comments: 1",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "date": "2026-06-08T10:55:21+00:00"
+    },
+    {
+      "title": "Most AI at work is bullshit",
+      "summary": "Article URL: https://www.fasterhorses.md/articles/most-ai-at-work-is-bullshit Comments URL: https://news.ycombinator.com/item?id=48443709 Points: 2 # Comments: 0",
+      "url": "https://www.fasterhorses.md/articles/most-ai-at-work-is-bullshit",
+      "image": "https://www.fasterhorses.md/faster-horses-blog-main-image.png",
+      "date": "2026-06-08T10:55:07+00:00"
+    },
+    {
+      "title": "AI-Generated Papers in the NeurIPS 2026 Position Paper Track",
+      "summary": "Article URL: https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/ Comments URL: https://news.ycombinator.com/item?id=48443647 Points: 1 # Comments: 2",
+      "url": "https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/",
+      "image": "",
+      "date": "2026-06-08T10:45:03+00:00"
+    },
+    {
+      "title": "Reinventing Entropy – Compression and Intelligence Part 1 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=l6DKRf-fAAM Comments URL: https://news.ycombinator.com/item?id=48443635 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+      "image": "",
+      "date": "2026-06-08T10:43:29+00:00"
+    },
+    {
+      "title": "'Poisoned' AI: the ChatGPT shopping scams that lead to fake websites",
+      "summary": "Article URL: https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites Comments URL: https://news.ycombinator.com/item?id=48443461 Points: 1 # Comments: 0",
+      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "image": "https://i.guim.co.uk/img/media/5b159f0a4ab644187eac8ef560051bc791814eda/0_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbfac095907236b80b0bb63ee21aed19",
+      "date": "2026-06-08T10:21:21+00:00"
+    },
+    {
+      "title": "AI bills can be as big as a postdoc salary. Is the cost worth it?",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01369-z Comments URL: https://news.ycombinator.com/item?id=48443421 Points: 2 # Comments: 0",
+      "url": "https://www.nature.com/articles/d41586-026-01369-z",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01369-z/d41586-026-01369-z_52378880.jpg",
+      "date": "2026-06-08T10:15:07+00:00"
+    },
+    {
+      "title": "I run an AI girlfriend company. Here's why you shouldn't use it every day",
+      "summary": "Article URL: https://bae.ppl.studio/letter Comments URL: https://news.ycombinator.com/item?id=48443177 Points: 1 # Comments: 1",
+      "url": "https://bae.ppl.studio/letter",
+      "image": "https://bae.ppl.studio/letter/opengraph-image-1wktvs?36a8dc1d43a23c87",
+      "date": "2026-06-08T09:41:43+00:00"
+    },
+    {
+      "title": "Ask HN: What is the AI setup for an experienced dev starting on a new project?",
+      "summary": "I have been working as a software developer for more than 20 years now. Been around the block a few times. Thanks to generous allowances in my current place, I've dipped my toes into LLM world and am quite impressed with it. However, we are on a legacy code base, LLM impact is limited in a sense. If I was to start a new project (let's say a web app with backend) - what is the state of the art for the setup? From Issue tracking, CI, automated deployments, agents, documentation etc - is there some blueprint I can just deploy and know that I am standing on the shoulders of giants? Comments URL: https://news.ycombinator.com/item?id=48443152 Points: 5 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=48443152",
+      "image": "",
+      "date": "2026-06-08T09:38:40+00:00"
+    },
+    {
+      "title": "Show HN: Tool you give AI agents to sneak in prompts or connect multiple agents",
+      "summary": "So, I was looking for ways on how to make Codex and Antigravity talk to each other and came up with \"Promptgate\", which is essentially a web server that does http long polling and slow releasing the data to keep agents happy and give you chat-like UI  to publish data. It is useful when you give the HTTP endpoint to an AI agent to fetch some data or to wait for instructions, then the execution of the ralph loop  comes under your control as the AI agent think they are doing some HTTP request. Good when you want to pause the AI agent to investigate and provide more prompts etc. It also has an endpoint for adding messages, this way you can cross 2 gates(these HTTP endpoints are called gates) and let one agent do your work, the other one look at the work and provide instructions to the agent. You will understand the concept right away, create gate copy paste the prompt into the agent(works very well on Codex for me) and wait a few moment until the agent does a CURL and start waiting, then type something from the chat-like interface. The cloud based gates require a subscription(as I need to maintain a server) but on the macOS app you can have local gates on localhost for free. If you are not interested in the hosted gates just close the paywall and use the local gates on the macOS app. I find it useful, use it all the time so I hope you find it useful too. Forgot the link: https://apps.apple.com/us/app/promptgate/id6772730472 It works on iOS and macOS. Comments URL: https://news.ycombinator.com/item?id=48442995 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/promptgate/id6772730472",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/26/a9/6f26a9b7-1cda-c22d-895a-4b56328cfe92/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-06-08T09:15:18+00:00"
+    },
+    {
+      "title": "We Need the Friction of Existence (about AI and the fact that thought≠language)",
+      "summary": "Article URL: https://lifehacky.net/we-need-the-friction-of-existence-da8e27e94b27?source=friends_link&sk=71fe1679ea3a1584bc4e540675402efe Comments URL: https://news.ycombinator.com/item?id=48442980 Points: 1 # Comments: 1",
+      "url": "https://lifehacky.net/we-need-the-friction-of-existence-da8e27e94b27?source=friends_link&sk=71fe1679ea3a1584bc4e540675402efe",
+      "image": "",
+      "date": "2026-06-08T09:13:17+00:00"
+    },
+    {
+      "title": "Substrate vs. Broker: Two Emerging Strategies for Enterprise AI",
+      "summary": "Article URL: https://signal-memo.com/memo-salesforce-and-sap-are-making-opposite-bets-about-how-agents-will-use-enterprise-software-the-rest-of-the-stack-is-about-to-have-to-pick-a-side/ Comments URL: https://news.ycombinator.com/item?id=48442889 Points: 1 # Comments: 0",
+      "url": "https://signal-memo.com/memo-salesforce-and-sap-are-making-opposite-bets-about-how-agents-will-use-enterprise-software-the-rest-of-the-stack-is-about-to-have-to-pick-a-side/",
+      "image": "https://storage.ghost.io/c/23/10/2310c9a2-776e-42fa-b134-1d2955617dc7/content/images/size/w1200/2026/05/Substrate-Broker-A.png",
+      "date": "2026-06-08T08:58:37+00:00"
+    }
+  ]
 }
