@@ -1,96 +1,96 @@
 {
-  "generated_at": "2026-06-09T10:01:04.608612+00:00",
+  "generated_at": "2026-06-10T10:21:20.884624+00:00",
   "items": [
     {
-      "title": "Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547 Comments URL: https://news.ycombinator.com/item?id=48458922 Points: 1 # Comments: 0",
-      "url": "https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547",
+      "title": "Show HN: SeaTicket – Resolve GitHub Issues Using AI Agent",
+      "summary": "https://seaticket.ai/github-issues-resolving/ Comments URL: https://news.ycombinator.com/item?id=48473925 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48473925",
       "image": "",
-      "date": "2026-06-09T09:54:45+00:00"
+      "date": "2026-06-10T09:54:59+00:00"
     },
     {
-      "title": "Affiliate Marketing Software for AI video generator businesses",
-      "summary": "Article URL: https://www.rewardful.com/use-cases/ai-video-generators Comments URL: https://news.ycombinator.com/item?id=48458815 Points: 1 # Comments: 1",
-      "url": "https://www.rewardful.com/use-cases/ai-video-generators",
-      "image": "https://cdn.prod.website-files.com/6041705a8ccb775007a2e651/6499638ac5eecec5b374a7d2_Rewardful-home-page.png",
-      "date": "2026-06-09T09:43:09+00:00"
-    },
-    {
-      "title": "Ask HN: Thoughts on Siri AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48458589 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48458589",
+      "title": "Claude Fable 5 silently degrades its own performance on frontier AI work",
+      "summary": "Article URL: https://mkotlikov.substack.com/p/fable-5-considered-harmful Comments URL: https://news.ycombinator.com/item?id=48473737 Points: 1 # Comments: 1",
+      "url": "https://mkotlikov.substack.com/p/fable-5-considered-harmful",
       "image": "",
-      "date": "2026-06-09T09:10:33+00:00"
+      "date": "2026-06-10T09:29:21+00:00"
     },
     {
-      "title": "Cleaning up after AI rockstar developers",
-      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 1 # Comments: 0",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "image": "https://www.codingwithjesse.com/images/2026-06-08-rockstar-developers.jpg",
-      "date": "2026-06-09T09:10:10+00:00"
-    },
-    {
-      "title": "Apple rebuilt its on-device AI stack at WWDC 2026",
-      "summary": "Article URL: https://ziraph.com/blog/apple-on-device-ai-wwdc-2026 Comments URL: https://news.ycombinator.com/item?id=48458183 Points: 2 # Comments: 1",
-      "url": "https://ziraph.com/blog/apple-on-device-ai-wwdc-2026",
-      "image": "https://ziraph.com/brand/og-apple-wwdc-2026.png",
-      "date": "2026-06-09T08:16:05+00:00"
-    },
-    {
-      "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/ Comments URL: https://news.ycombinator.com/item?id=48458124 Points: 1 # Comments: 0",
-      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
-      "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202606090054",
-      "date": "2026-06-09T08:10:07+00:00"
-    },
-    {
-      "title": "Chip Capacity Constraints Put a Governor on AI Spending Growth",
-      "summary": "Article URL: https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474 Comments URL: https://news.ycombinator.com/item?id=48458060 Points: 1 # Comments: 0",
-      "url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
-      "image": "https://image.nextplatform.com/262409.jpg?imageId=262409&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-06-09T08:00:47+00:00"
-    },
-    {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 134 # Comments: 52",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
-      "date": "2026-06-09T07:33:16+00:00"
-    },
-    {
-      "title": "Ask HN: What works for cutting AI token costs?",
-      "summary": "My LLM token bill is getting painful. Besides switching to cheaper models, what have you personally used to reduce cost in real applications? Comments URL: https://news.ycombinator.com/item?id=48457585 Points: 5 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=48457585",
+      "title": "Broadcom: The private cloud is where enterprise AI workloads are being deployed",
+      "summary": "Article URL: https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point Comments URL: https://news.ycombinator.com/item?id=48473648 Points: 1 # Comments: 0",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point",
       "image": "",
-      "date": "2026-06-09T07:04:29+00:00"
+      "date": "2026-06-10T09:18:07+00:00"
     },
     {
-      "title": "The Nerdy Escorts Cashing in on Silicon Valley's AI Boom",
-      "summary": "Article URL: https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48457294 Points: 3 # Comments: 0",
-      "url": "https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a2659066735ec5e8c45d58f/0x0.jpg?format=jpg&crop=1080,607,x0,y193,safe&height=900&width=1600&fit=bounds",
-      "date": "2026-06-09T06:27:54+00:00"
-    },
-    {
-      "title": "Productivity Effects Across Generations of AI Coding Tools",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/06/writing-code-vs-shipping-code.html Comments URL: https://news.ycombinator.com/item?id=48457151 Points: 1 # Comments: 0",
-      "url": "http://muratbuffalo.blogspot.com/2026/06/writing-code-vs-shipping-code.html",
-      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiiylEXYrH5BAaBB5MoP4c_jNJsJlYooOnVLkg95H6yO0E2MN7f6qDJOD1ib3D89xiwELhhZfn3Yb2xEwhxQwiTkVlAFTbPAUjgcW5d-iHVNtcufCaFjAtlmaizLXvJCNcmubDS5_KRkM-pXypA1bHK1sYmwb1e0sV6IeO80OXUuSdmYtCAaXJ7lzEMcLU=w1200-h630-p-k-no-nu",
-      "date": "2026-06-09T06:08:50+00:00"
-    },
-    {
-      "title": "Siri AI for iPhones and iPads will be delayed indefinitely in the EU",
-      "summary": "Article URL: https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/ Comments URL: https://news.ycombinator.com/item?id=48457128 Points: 1 # Comments: 0",
-      "url": "https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/",
-      "image": "https://www.engadget.com/img/gallery/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/l-intro-1780947290.jpg",
-      "date": "2026-06-09T06:04:30+00:00"
-    },
-    {
-      "title": "Apple Investors Give Lukewarm Reaction to New Siri, AI Platform",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-08/apple-unveils-next-generation-of-ai-platform-including-new-siri Comments URL: https://news.ycombinator.com/item?id=48456644 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/apple-unveils-next-generation-of-ai-platform-including-new-siri",
+      "title": "Junior Devs Who Use AI Are Not Cheating – They're Training Smarter",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html Comments URL: https://news.ycombinator.com/item?id=48473508 Points: 1 # Comments: 0",
+      "url": "https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html",
       "image": "",
-      "date": "2026-06-09T04:59:23+00:00"
+      "date": "2026-06-10T09:01:23+00:00"
+    },
+    {
+      "title": "Why Artificial Intelligence Is Not a Subject",
+      "summary": "Article URL: https://slavoj.substack.com/p/why-artificial-intelligence-is-not Comments URL: https://news.ycombinator.com/item?id=48473409 Points: 1 # Comments: 0",
+      "url": "https://slavoj.substack.com/p/why-artificial-intelligence-is-not",
+      "image": "",
+      "date": "2026-06-10T08:50:45+00:00"
+    },
+    {
+      "title": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive",
+      "summary": "Article URL: https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life Comments URL: https://news.ycombinator.com/item?id=48473140 Points: 3 # Comments: 1",
+      "url": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+      "image": "https://cdn.mos.cms.futurecdn.net/pjiFCbSsdqXWtCyMRm2f3N-1920-80.jpg",
+      "date": "2026-06-10T08:17:54+00:00"
+    },
+    {
+      "title": "The Vibes Were Never the Point. On the Push-and-Pull of AI Usage",
+      "summary": "Article URL: https://blog.ewancroft.uk/3mnw2znjfbc22 Comments URL: https://news.ycombinator.com/item?id=48473126 Points: 2 # Comments: 0",
+      "url": "https://blog.ewancroft.uk/3mnw2znjfbc22",
+      "image": "https://leaflet.pub/lish/did%3Aplc%3Aofrbh253gwicbkc5nktqepol/3m3x4bgbsh22k/3mnw2znjfbc22/opengraph-image-vzkbb4?edc23816ae45539e",
+      "date": "2026-06-10T08:16:07+00:00"
+    },
+    {
+      "title": "Purpose-built local AI agents",
+      "summary": "Article URL: https://samihonkonen.com/posts/purpose-built-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48473010 Points: 1 # Comments: 0",
+      "url": "https://samihonkonen.com/posts/purpose-built-local-ai-agents/",
+      "image": "https://samihonkonen.com/og/base_hu_fb3d88756de3814d.jpg",
+      "date": "2026-06-10T08:00:58+00:00"
+    },
+    {
+      "title": "Get 800 free credits. Welcome to my AI image and video generation website.",
+      "summary": "The last time I posted here, I asked for help figuring out why the AI-generated website（voloshow). I had spent months building wasn’t getting any customers. I’m really grateful for all the replies I got. Many people shared their thoughts and pointed out technical issues and UX problems on the site, which helped me a lot. I’ve recently made another round of improvements to the website, and I’d love for everyone to try it again. Please leave your thoughts and feedback below, Thank you, truly. *********************** Please log in to the website, select “Upgrade Plan,” then enter the redemption code 【voloshowplus】 in the top-right corner and click “Redeem.” The system will give you 800 credits, which you can use on the website. Limited to 30 spots. First come, first served. *********************** Comments URL: https://news.ycombinator.com/item?id=48472902 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48472902",
+      "image": "",
+      "date": "2026-06-10T07:47:20+00:00"
+    },
+    {
+      "title": "Compute-to-Surplus: Why AI Progress Doesn't Matter Until It Changes Economics",
+      "summary": "Article URL: https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/ Comments URL: https://news.ycombinator.com/item?id=48472507 Points: 1 # Comments: 0",
+      "url": "https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/",
+      "image": "https://storage.ghost.io/c/23/10/2310c9a2-776e-42fa-b134-1d2955617dc7/content/images/size/w1200/2026/05/Compute-to-Surplus-1.png",
+      "date": "2026-06-10T07:01:12+00:00"
+    },
+    {
+      "title": "AI Is a Thing We Made",
+      "summary": "Article URL: https://thedailymemes.substack.com/p/ai-is-a-thing-we-made Comments URL: https://news.ycombinator.com/item?id=48471660 Points: 2 # Comments: 0",
+      "url": "https://thedailymemes.substack.com/p/ai-is-a-thing-we-made",
+      "image": "",
+      "date": "2026-06-10T05:04:31+00:00"
+    },
+    {
+      "title": "Microsoft's AI chief says superintelligence is near, but won't take your job",
+      "summary": "Article URL: https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation Comments URL: https://news.ycombinator.com/item?id=48471209 Points: 3 # Comments: 1",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+      "date": "2026-06-10T03:51:48+00:00"
+    },
+    {
+      "title": "Microsoft AI boss no longer believes that AI will replace human workers",
+      "summary": "Article URL: https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/ Comments URL: https://news.ycombinator.com/item?id=48471201 Points: 1 # Comments: 1",
+      "url": "https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/",
+      "image": "https://cdn.neowin.com/news/images/uploaded/2025/03/1741006028_m_story.jpg",
+      "date": "2026-06-10T03:50:27+00:00"
     }
   ]
 }
