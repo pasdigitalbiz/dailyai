@@ -1,96 +1,89 @@
 {
-  "generated_at": "2026-06-10T10:21:20.884624+00:00",
+  "generated_at": "2026-06-11T10:56:43.025573+00:00",
   "items": [
     {
-      "title": "Show HN: SeaTicket – Resolve GitHub Issues Using AI Agent",
-      "summary": "https://seaticket.ai/github-issues-resolving/ Comments URL: https://news.ycombinator.com/item?id=48473925 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48473925",
+      "title": "Memory and personalization make AI more likely to tell you what you want to hear",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850 Comments URL: https://news.ycombinator.com/item?id=48488536 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850",
+      "image": "https://image.theregister.com/249074.jpg?imageId=249074&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-06-11T10:35:43+00:00"
+    },
+    {
+      "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+      "summary": "Article URL: https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/ Comments URL: https://news.ycombinator.com/item?id=48488477 Points: 1 # Comments: 0",
+      "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "date": "2026-06-11T10:25:15+00:00"
+    },
+    {
+      "title": "Anthropic's AI Jobs Paper",
+      "summary": "Article URL: https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/ Comments URL: https://news.ycombinator.com/item?id=48488424 Points: 1 # Comments: 0",
+      "url": "https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/",
       "image": "",
-      "date": "2026-06-10T09:54:59+00:00"
+      "date": "2026-06-11T10:17:40+00:00"
     },
     {
-      "title": "Claude Fable 5 silently degrades its own performance on frontier AI work",
-      "summary": "Article URL: https://mkotlikov.substack.com/p/fable-5-considered-harmful Comments URL: https://news.ycombinator.com/item?id=48473737 Points: 1 # Comments: 1",
-      "url": "https://mkotlikov.substack.com/p/fable-5-considered-harmful",
+      "title": "AI Just Got Better Than a Fable",
+      "summary": "Article URL: https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0 Comments URL: https://news.ycombinator.com/item?id=48488355 Points: 1 # Comments: 0",
+      "url": "https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0",
+      "image": "https://media.base44.com/images/public/6a19363c90f06323c4cfff73/4480b8ab2_altxlogo2.jpeg/v1/fill/w_1200,h_630/4480b8ab2_altxlogo2.jpeg",
+      "date": "2026-06-11T10:04:00+00:00"
+    },
+    {
+      "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
+      "summary": "Article URL: https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/ Comments URL: https://news.ycombinator.com/item?id=48488304 Points: 1 # Comments: 0",
+      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
       "image": "",
-      "date": "2026-06-10T09:29:21+00:00"
+      "date": "2026-06-11T09:57:19+00:00"
     },
     {
-      "title": "Broadcom: The private cloud is where enterprise AI workloads are being deployed",
-      "summary": "Article URL: https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point Comments URL: https://news.ycombinator.com/item?id=48473648 Points: 1 # Comments: 0",
-      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point",
+      "title": "Reinventing Entropy – Compression Is Intelligence Part 1",
+      "summary": "Article URL: https://www.youtube.com/watch?v=l6DKRf-fAAM Comments URL: https://news.ycombinator.com/item?id=48488190 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
       "image": "",
-      "date": "2026-06-10T09:18:07+00:00"
+      "date": "2026-06-11T09:37:06+00:00"
     },
     {
-      "title": "Junior Devs Who Use AI Are Not Cheating – They're Training Smarter",
-      "summary": "Article URL: https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html Comments URL: https://news.ycombinator.com/item?id=48473508 Points: 1 # Comments: 0",
-      "url": "https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html",
+      "title": "Our AI-slop ad turned out weirdly good [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=FPgq4eopYcs Comments URL: https://news.ycombinator.com/item?id=48487888 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=FPgq4eopYcs",
       "image": "",
-      "date": "2026-06-10T09:01:23+00:00"
+      "date": "2026-06-11T08:46:36+00:00"
     },
     {
-      "title": "Why Artificial Intelligence Is Not a Subject",
-      "summary": "Article URL: https://slavoj.substack.com/p/why-artificial-intelligence-is-not Comments URL: https://news.ycombinator.com/item?id=48473409 Points: 1 # Comments: 0",
-      "url": "https://slavoj.substack.com/p/why-artificial-intelligence-is-not",
+      "title": "IBM's Spyre AI Accelerator Deep Dive – By Gavin Bonshor",
+      "summary": "Article URL: https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive Comments URL: https://news.ycombinator.com/item?id=48487832 Points: 2 # Comments: 0",
+      "url": "https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive",
       "image": "",
-      "date": "2026-06-10T08:50:45+00:00"
+      "date": "2026-06-11T08:38:32+00:00"
     },
     {
-      "title": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive",
-      "summary": "Article URL: https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life Comments URL: https://news.ycombinator.com/item?id=48473140 Points: 3 # Comments: 1",
-      "url": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
-      "image": "https://cdn.mos.cms.futurecdn.net/pjiFCbSsdqXWtCyMRm2f3N-1920-80.jpg",
-      "date": "2026-06-10T08:17:54+00:00"
-    },
-    {
-      "title": "The Vibes Were Never the Point. On the Push-and-Pull of AI Usage",
-      "summary": "Article URL: https://blog.ewancroft.uk/3mnw2znjfbc22 Comments URL: https://news.ycombinator.com/item?id=48473126 Points: 2 # Comments: 0",
-      "url": "https://blog.ewancroft.uk/3mnw2znjfbc22",
-      "image": "https://leaflet.pub/lish/did%3Aplc%3Aofrbh253gwicbkc5nktqepol/3m3x4bgbsh22k/3mnw2znjfbc22/opengraph-image-vzkbb4?edc23816ae45539e",
-      "date": "2026-06-10T08:16:07+00:00"
-    },
-    {
-      "title": "Purpose-built local AI agents",
-      "summary": "Article URL: https://samihonkonen.com/posts/purpose-built-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48473010 Points: 1 # Comments: 0",
-      "url": "https://samihonkonen.com/posts/purpose-built-local-ai-agents/",
-      "image": "https://samihonkonen.com/og/base_hu_fb3d88756de3814d.jpg",
-      "date": "2026-06-10T08:00:58+00:00"
-    },
-    {
-      "title": "Get 800 free credits. Welcome to my AI image and video generation website.",
-      "summary": "The last time I posted here, I asked for help figuring out why the AI-generated website（voloshow). I had spent months building wasn’t getting any customers. I’m really grateful for all the replies I got. Many people shared their thoughts and pointed out technical issues and UX problems on the site, which helped me a lot. I’ve recently made another round of improvements to the website, and I’d love for everyone to try it again. Please leave your thoughts and feedback below, Thank you, truly. *********************** Please log in to the website, select “Upgrade Plan,” then enter the redemption code 【voloshowplus】 in the top-right corner and click “Redeem.” The system will give you 800 credits, which you can use on the website. Limited to 30 spots. First come, first served. *********************** Comments URL: https://news.ycombinator.com/item?id=48472902 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48472902",
+      "title": "Intelligence Not Included",
+      "summary": "Article URL: https://morrick.me/archives/10319 Comments URL: https://news.ycombinator.com/item?id=48487717 Points: 1 # Comments: 0",
+      "url": "https://morrick.me/archives/10319",
       "image": "",
-      "date": "2026-06-10T07:47:20+00:00"
+      "date": "2026-06-11T08:19:02+00:00"
     },
     {
-      "title": "Compute-to-Surplus: Why AI Progress Doesn't Matter Until It Changes Economics",
-      "summary": "Article URL: https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/ Comments URL: https://news.ycombinator.com/item?id=48472507 Points: 1 # Comments: 0",
-      "url": "https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/",
-      "image": "https://storage.ghost.io/c/23/10/2310c9a2-776e-42fa-b134-1d2955617dc7/content/images/size/w1200/2026/05/Compute-to-Surplus-1.png",
-      "date": "2026-06-10T07:01:12+00:00"
-    },
-    {
-      "title": "AI Is a Thing We Made",
-      "summary": "Article URL: https://thedailymemes.substack.com/p/ai-is-a-thing-we-made Comments URL: https://news.ycombinator.com/item?id=48471660 Points: 2 # Comments: 0",
-      "url": "https://thedailymemes.substack.com/p/ai-is-a-thing-we-made",
+      "title": "What if the AI boom goes into reverse?",
+      "summary": "Article URL: https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48487716 Points: 4 # Comments: 0",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
       "image": "",
-      "date": "2026-06-10T05:04:31+00:00"
+      "date": "2026-06-11T08:18:58+00:00"
     },
     {
-      "title": "Microsoft's AI chief says superintelligence is near, but won't take your job",
-      "summary": "Article URL: https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation Comments URL: https://news.ycombinator.com/item?id=48471209 Points: 3 # Comments: 1",
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "date": "2026-06-10T03:51:48+00:00"
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 45 # Comments: 50",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "image": "https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+      "date": "2026-06-11T07:51:17+00:00"
     },
     {
-      "title": "Microsoft AI boss no longer believes that AI will replace human workers",
-      "summary": "Article URL: https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/ Comments URL: https://news.ycombinator.com/item?id=48471201 Points: 1 # Comments: 1",
-      "url": "https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/",
-      "image": "https://cdn.neowin.com/news/images/uploaded/2025/03/1741006028_m_story.jpg",
-      "date": "2026-06-10T03:50:27+00:00"
+      "title": "Accusations of 'AI Slop' Don't Screen for AI Text",
+      "summary": "Article URL: https://arxiv.org/abs/2606.12073 Comments URL: https://news.ycombinator.com/item?id=48487424 Points: 4 # Comments: 0",
+      "url": "https://arxiv.org/abs/2606.12073",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-06-11T07:33:10+00:00"
     }
   ]
 }
