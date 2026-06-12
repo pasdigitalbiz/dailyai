@@ -1,89 +1,103 @@
 {
-  "generated_at": "2026-06-11T10:56:43.025573+00:00",
+  "generated_at": "2026-06-12T10:38:31.561882+00:00",
   "items": [
     {
-      "title": "Memory and personalization make AI more likely to tell you what you want to hear",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850 Comments URL: https://news.ycombinator.com/item?id=48488536 Points: 1 # Comments: 0",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850",
-      "image": "https://image.theregister.com/249074.jpg?imageId=249074&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-06-11T10:35:43+00:00"
-    },
-    {
-      "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
-      "summary": "Article URL: https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/ Comments URL: https://news.ycombinator.com/item?id=48488477 Points: 1 # Comments: 0",
-      "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-      "date": "2026-06-11T10:25:15+00:00"
-    },
-    {
-      "title": "Anthropic's AI Jobs Paper",
-      "summary": "Article URL: https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/ Comments URL: https://news.ycombinator.com/item?id=48488424 Points: 1 # Comments: 0",
-      "url": "https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/",
+      "title": "Fable 5 on par with GPT-5.5 in Artificial Analysis Coding Agent Index",
+      "summary": "Article URL: https://artificialanalysis.ai/agents/coding-agents Comments URL: https://news.ycombinator.com/item?id=48502186 Points: 4 # Comments: 1",
+      "url": "https://artificialanalysis.ai/agents/coding-agents",
       "image": "",
-      "date": "2026-06-11T10:17:40+00:00"
+      "date": "2026-06-12T10:20:53+00:00"
     },
     {
-      "title": "AI Just Got Better Than a Fable",
-      "summary": "Article URL: https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0 Comments URL: https://news.ycombinator.com/item?id=48488355 Points: 1 # Comments: 0",
-      "url": "https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0",
-      "image": "https://media.base44.com/images/public/6a19363c90f06323c4cfff73/4480b8ab2_altxlogo2.jpeg/v1/fill/w_1200,h_630/4480b8ab2_altxlogo2.jpeg",
-      "date": "2026-06-11T10:04:00+00:00"
+      "title": "The Environmental Cost of Artificial Intelligence: Carbon, Water and Land",
+      "summary": "Article URL: https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints Comments URL: https://news.ycombinator.com/item?id=48502162 Points: 2 # Comments: 1",
+      "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
+      "image": "https://unu.edu/sites/default/files/styles/og_image/public/2026-06/Microsoft_Bing_Maps%27_datacenter_-_Flickr_-_Robert_Scoble.png?itok=qz5pQrbe",
+      "date": "2026-06-12T10:16:25+00:00"
     },
     {
-      "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
-      "summary": "Article URL: https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/ Comments URL: https://news.ycombinator.com/item?id=48488304 Points: 1 # Comments: 0",
-      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
+      "title": "From Telehealth MVP to Production-Ready AI Product",
+      "summary": "Article URL: https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap Comments URL: https://news.ycombinator.com/item?id=48502034 Points: 1 # Comments: 1",
+      "url": "https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap",
+      "image": "https://website-admin.geekyants.com/image-resize-cache-new/eyJpZCI6Mzg5MzIsInQiOiJyZXNpemUiLCJ3IjoxNDAwLCJoIjo4MDAsInEiOjEwMCwidiI6MX0=.png",
+      "date": "2026-06-12T10:00:45+00:00"
+    },
+    {
+      "title": "Debatable: Government Stakes in AI",
+      "summary": "Article URL: https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders Comments URL: https://news.ycombinator.com/item?id=48501937 Points: 1 # Comments: 0",
+      "url": "https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders",
+      "image": "https://img.semafor.com/db29b403e281ee4e2cc7179685b7a68e6042b67e-5500x4013.jpg?rect=0,563,5500,2888&w=1200&h=630&q=75&auto=format",
+      "date": "2026-06-12T09:43:32+00:00"
+    },
+    {
+      "title": "HN AI Highlights – weekly digest of the best AI posts",
+      "summary": "Article URL: https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27 Comments URL: https://news.ycombinator.com/item?id=48501920 Points: 1 # Comments: 0",
+      "url": "https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27",
+      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/cb46a082-e043-482b-bfb3-15a959ff3be7/landscape_svg_width_396_height_248.36230320492334_viewBox_0_0_349.99999999999994_219.51213667101806_class_css-1j8o68fdefs_id_SvgjsDefs3540defsg_id_SvgjsG3541_featurekey_Wg4LIr-0.png",
+      "date": "2026-06-12T09:40:12+00:00"
+    },
+    {
+      "title": "Ask HN: What's one thing you wish AI did well?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48501916 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48501916",
       "image": "",
-      "date": "2026-06-11T09:57:19+00:00"
+      "date": "2026-06-12T09:39:33+00:00"
     },
     {
-      "title": "Reinventing Entropy – Compression Is Intelligence Part 1",
-      "summary": "Article URL: https://www.youtube.com/watch?v=l6DKRf-fAAM Comments URL: https://news.ycombinator.com/item?id=48488190 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM",
+      "title": "OVH Grp enters into exclusive negotiations to acquire Gladia, expert in voice AI",
+      "summary": "Article URL: https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/ Comments URL: https://news.ycombinator.com/item?id=48501779 Points: 1 # Comments: 0",
+      "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/",
+      "image": "https://corporate.ovhcloud.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/OVHcloud_logo_vertical.png",
+      "date": "2026-06-12T09:19:02+00:00"
+    },
+    {
+      "title": "We Cut Onboarding Time by 40% Using AI – Here's What We Did (Week 5 Roun",
+      "summary": "Article URL: https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html Comments URL: https://news.ycombinator.com/item?id=48501653 Points: 2 # Comments: 0",
+      "url": "https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html",
       "image": "",
-      "date": "2026-06-11T09:37:06+00:00"
+      "date": "2026-06-12T09:01:04+00:00"
     },
     {
-      "title": "Our AI-slop ad turned out weirdly good [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=FPgq4eopYcs Comments URL: https://news.ycombinator.com/item?id=48487888 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=FPgq4eopYcs",
+      "title": "AI Engineering the Acceleration Whiplash",
+      "summary": "Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48501483 Points: 2 # Comments: 0",
+      "url": "https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways",
+      "image": "https://cdn.prod.website-files.com/695be6d603b11be779b0b9b2/69d79a350fb460c1cbcfe675_10%20takeaways%20from%20the%20Acceleration%20Whiplash%20report.webp",
+      "date": "2026-06-12T08:36:26+00:00"
+    },
+    {
+      "title": "KPMG report on benefits of AI contained AI hallucinations",
+      "summary": "Article URL: https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f Comments URL: https://news.ycombinator.com/item?id=48501330 Points: 2 # Comments: 1",
+      "url": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
       "image": "",
-      "date": "2026-06-11T08:46:36+00:00"
+      "date": "2026-06-12T08:16:11+00:00"
     },
     {
-      "title": "IBM's Spyre AI Accelerator Deep Dive – By Gavin Bonshor",
-      "summary": "Article URL: https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive Comments URL: https://news.ycombinator.com/item?id=48487832 Points: 2 # Comments: 0",
-      "url": "https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive",
+      "title": "When the Watcher Became the Confidant – How AI Befriends and Infers Our Children",
+      "summary": "Article URL: https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant Comments URL: https://news.ycombinator.com/item?id=48501187 Points: 1 # Comments: 0",
+      "url": "https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant",
       "image": "",
-      "date": "2026-06-11T08:38:32+00:00"
+      "date": "2026-06-12T07:58:24+00:00"
     },
     {
-      "title": "Intelligence Not Included",
-      "summary": "Article URL: https://morrick.me/archives/10319 Comments URL: https://news.ycombinator.com/item?id=48487717 Points: 1 # Comments: 0",
-      "url": "https://morrick.me/archives/10319",
-      "image": "",
-      "date": "2026-06-11T08:19:02+00:00"
+      "title": "Pokémon Go data trained AI that could assist military drones in war zones",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones Comments URL: https://news.ycombinator.com/item?id=48501179 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
+      "image": "https://i.guim.co.uk/img/media/d6a42cc4bc6d108e5900541840e4bc7807b8e39a/328_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4640fd4131a694c37e55f6bf57422bc9",
+      "date": "2026-06-12T07:57:39+00:00"
     },
     {
-      "title": "What if the AI boom goes into reverse?",
-      "summary": "Article URL: https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48487716 Points: 4 # Comments: 0",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/",
-      "image": "",
-      "date": "2026-06-11T08:18:58+00:00"
+      "title": "India's workers are training AI robots to take their jobs",
+      "summary": "Article URL: https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs Comments URL: https://news.ycombinator.com/item?id=48501078 Points: 2 # Comments: 2",
+      "url": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260611__B36E6V6__v1__HighRes__IndiaTechnologyLabourAi-1781162703.jpg?resize=1920%2C1440",
+      "date": "2026-06-12T07:43:25+00:00"
     },
     {
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 45 # Comments: 50",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "image": "https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
-      "date": "2026-06-11T07:51:17+00:00"
-    },
-    {
-      "title": "Accusations of 'AI Slop' Don't Screen for AI Text",
-      "summary": "Article URL: https://arxiv.org/abs/2606.12073 Comments URL: https://news.ycombinator.com/item?id=48487424 Points: 4 # Comments: 0",
-      "url": "https://arxiv.org/abs/2606.12073",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-06-11T07:33:10+00:00"
+      "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
+      "summary": "Article URL: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/ Comments URL: https://news.ycombinator.com/item?id=48501067 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+      "date": "2026-06-12T07:42:16+00:00"
     }
   ]
 }
