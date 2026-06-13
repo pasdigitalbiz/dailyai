@@ -1,103 +1,110 @@
 {
-  "generated_at": "2026-06-12T10:38:31.561882+00:00",
+  "generated_at": "2026-06-13T09:32:17.692865+00:00",
   "items": [
     {
-      "title": "Fable 5 on par with GPT-5.5 in Artificial Analysis Coding Agent Index",
-      "summary": "Article URL: https://artificialanalysis.ai/agents/coding-agents Comments URL: https://news.ycombinator.com/item?id=48502186 Points: 4 # Comments: 1",
-      "url": "https://artificialanalysis.ai/agents/coding-agents",
+      "title": "I Spent the Night Interviewing the AI the Government Just Recalled",
+      "summary": "Article URL: https://blog.vigilharbor.com/door-with-no-lock Comments URL: https://news.ycombinator.com/item?id=48515248 Points: 1 # Comments: 0",
+      "url": "https://blog.vigilharbor.com/door-with-no-lock",
+      "image": "https://blog.vigilharbor.com/images/posts/government-shutdown-cartoon.webp",
+      "date": "2026-06-13T09:25:01+00:00"
+    },
+    {
+      "title": "AI calls for the most ambitious political agenda in the history of Europe",
+      "summary": "Article URL: https://europe2031.ai/summary/ Comments URL: https://news.ycombinator.com/item?id=48515147 Points: 1 # Comments: 0",
+      "url": "https://europe2031.ai/summary/",
+      "image": "https://europe2031.ai/og-image.png",
+      "date": "2026-06-13T09:09:08+00:00"
+    },
+    {
+      "title": "Meta's New AI Unit Is a Total Mess",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48515062 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "image": "https://media.wired.com/photos/6a2c555e0473de232b255ae6/191:100/w_1280,c_limit/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg",
+      "date": "2026-06-13T08:57:17+00:00"
+    },
+    {
+      "title": "Contrail Compute AIX the First RISC-V AI Execution Platform",
+      "summary": "Article URL: https://www.epicsemi.com/products/contrail/contrail-compute/ Comments URL: https://news.ycombinator.com/item?id=48514997 Points: 1 # Comments: 0",
+      "url": "https://www.epicsemi.com/products/contrail/contrail-compute/",
+      "image": "https://www.epicsemi.com/images/products/contrail-compute/contrail-compute-5010c.webp",
+      "date": "2026-06-13T08:46:49+00:00"
+    },
+    {
+      "title": "A major KPMG report on AI was found to be chock-full of AI hallucinations",
+      "summary": "Article URL: https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations Comments URL: https://news.ycombinator.com/item?id=48514892 Points: 3 # Comments: 0",
+      "url": "https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations",
+      "image": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
+      "date": "2026-06-13T08:29:01+00:00"
+    },
+    {
+      "title": "Whissle Gateway – Run Multi-Modal Voice AI Locally in a 500MB Docker",
+      "summary": "Article URL: https://whissle.ai/gateway Comments URL: https://news.ycombinator.com/item?id=48514802 Points: 2 # Comments: 0",
+      "url": "https://whissle.ai/gateway",
+      "image": "https://whissle.ai/opengraph-image?4735280fecfebe12",
+      "date": "2026-06-13T08:16:09+00:00"
+    },
+    {
+      "title": "Ask HN: Automoderated by AI Alternative to Reddit",
+      "summary": "I'm so sick of human reddit moderation. Thinking about creating automoderated forums by AI.\nWould that interesting to any of you too? Comments URL: https://news.ycombinator.com/item?id=48514684 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48514684",
       "image": "",
-      "date": "2026-06-12T10:20:53+00:00"
+      "date": "2026-06-13T08:02:16+00:00"
     },
     {
-      "title": "The Environmental Cost of Artificial Intelligence: Carbon, Water and Land",
-      "summary": "Article URL: https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints Comments URL: https://news.ycombinator.com/item?id=48502162 Points: 2 # Comments: 1",
-      "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
-      "image": "https://unu.edu/sites/default/files/styles/og_image/public/2026-06/Microsoft_Bing_Maps%27_datacenter_-_Flickr_-_Robert_Scoble.png?itok=qz5pQrbe",
-      "date": "2026-06-12T10:16:25+00:00"
-    },
-    {
-      "title": "From Telehealth MVP to Production-Ready AI Product",
-      "summary": "Article URL: https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap Comments URL: https://news.ycombinator.com/item?id=48502034 Points: 1 # Comments: 1",
-      "url": "https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap",
-      "image": "https://website-admin.geekyants.com/image-resize-cache-new/eyJpZCI6Mzg5MzIsInQiOiJyZXNpemUiLCJ3IjoxNDAwLCJoIjo4MDAsInEiOjEwMCwidiI6MX0=.png",
-      "date": "2026-06-12T10:00:45+00:00"
-    },
-    {
-      "title": "Debatable: Government Stakes in AI",
-      "summary": "Article URL: https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders Comments URL: https://news.ycombinator.com/item?id=48501937 Points: 1 # Comments: 0",
-      "url": "https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders",
-      "image": "https://img.semafor.com/db29b403e281ee4e2cc7179685b7a68e6042b67e-5500x4013.jpg?rect=0,563,5500,2888&w=1200&h=630&q=75&auto=format",
-      "date": "2026-06-12T09:43:32+00:00"
-    },
-    {
-      "title": "HN AI Highlights – weekly digest of the best AI posts",
-      "summary": "Article URL: https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27 Comments URL: https://news.ycombinator.com/item?id=48501920 Points: 1 # Comments: 0",
-      "url": "https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27",
-      "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/cb46a082-e043-482b-bfb3-15a959ff3be7/landscape_svg_width_396_height_248.36230320492334_viewBox_0_0_349.99999999999994_219.51213667101806_class_css-1j8o68fdefs_id_SvgjsDefs3540defsg_id_SvgjsG3541_featurekey_Wg4LIr-0.png",
-      "date": "2026-06-12T09:40:12+00:00"
-    },
-    {
-      "title": "Ask HN: What's one thing you wish AI did well?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48501916 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48501916",
+      "title": "Anthropic disables top-tier AI models outside US",
+      "summary": "Article URL: https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13/ Comments URL: https://news.ycombinator.com/item?id=48514477 Points: 5 # Comments: 0",
+      "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13/",
       "image": "",
-      "date": "2026-06-12T09:39:33+00:00"
+      "date": "2026-06-13T07:32:56+00:00"
     },
     {
-      "title": "OVH Grp enters into exclusive negotiations to acquire Gladia, expert in voice AI",
-      "summary": "Article URL: https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/ Comments URL: https://news.ycombinator.com/item?id=48501779 Points: 1 # Comments: 0",
-      "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/",
-      "image": "https://corporate.ovhcloud.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/OVHcloud_logo_vertical.png",
-      "date": "2026-06-12T09:19:02+00:00"
+      "title": "Estimating No-Cot Task-Completion Time Horizons of Frontier AI Models",
+      "summary": "Article URL: https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier Comments URL: https://news.ycombinator.com/item?id=48514091 Points: 1 # Comments: 0",
+      "url": "https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/SieLowPgNgRSPGhFw/r4vwcd1ajcihc71vbzcz",
+      "date": "2026-06-13T06:37:58+00:00"
     },
     {
-      "title": "We Cut Onboarding Time by 40% Using AI – Here's What We Did (Week 5 Roun",
-      "summary": "Article URL: https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html Comments URL: https://news.ycombinator.com/item?id=48501653 Points: 2 # Comments: 0",
-      "url": "https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html",
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "summary": "Article URL: https://koenvangilst.nl/lab/claude-fable-shepherds-dog Comments URL: https://news.ycombinator.com/item?id=48513728 Points: 84 # Comments: 65",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "image": "https://koenvangilst.nl/og/claude-fable-shepherds-dog.png",
+      "date": "2026-06-13T05:44:46+00:00"
+    },
+    {
+      "title": "Running an AI-native engineering org",
+      "summary": "Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48513398 Points: 1 # Comments: 0",
+      "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
+      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a1f0f1a5a045e955123064a_og_running-an-ai-native-engineering-org.jpg",
+      "date": "2026-06-13T04:57:33+00:00"
+    },
+    {
+      "title": "AI Will Steal Your Motivation If You Let It",
+      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-06-12/ai-threatens-worker-motivation-unless-leaders-step-up Comments URL: https://news.ycombinator.com/item?id=48513338 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-06-12/ai-threatens-worker-motivation-unless-leaders-step-up",
       "image": "",
-      "date": "2026-06-12T09:01:04+00:00"
+      "date": "2026-06-13T04:51:14+00:00"
     },
     {
-      "title": "AI Engineering the Acceleration Whiplash",
-      "summary": "Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48501483 Points: 2 # Comments: 0",
-      "url": "https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways",
-      "image": "https://cdn.prod.website-files.com/695be6d603b11be779b0b9b2/69d79a350fb460c1cbcfe675_10%20takeaways%20from%20the%20Acceleration%20Whiplash%20report.webp",
-      "date": "2026-06-12T08:36:26+00:00"
-    },
-    {
-      "title": "KPMG report on benefits of AI contained AI hallucinations",
-      "summary": "Article URL: https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f Comments URL: https://news.ycombinator.com/item?id=48501330 Points: 2 # Comments: 1",
-      "url": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
+      "title": "CipherNode – An offline, self-correcting AI swarm compiled to a single .exe",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48512309 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48512309",
       "image": "",
-      "date": "2026-06-12T08:16:11+00:00"
+      "date": "2026-06-13T02:52:37+00:00"
     },
     {
-      "title": "When the Watcher Became the Confidant – How AI Befriends and Infers Our Children",
-      "summary": "Article URL: https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant Comments URL: https://news.ycombinator.com/item?id=48501187 Points: 1 # Comments: 0",
-      "url": "https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant",
-      "image": "",
-      "date": "2026-06-12T07:58:24+00:00"
+      "title": "China cracks down on Western AI models while US companies flock to DeepSeek",
+      "summary": "Article URL: https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek Comments URL: https://news.ycombinator.com/item?id=48512298 Points: 5 # Comments: 0",
+      "url": "https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek",
+      "image": "https://cdn.mos.cms.futurecdn.net/RFHhebaafuggVviVNzSsy-1920-80.jpg",
+      "date": "2026-06-13T02:51:39+00:00"
     },
     {
-      "title": "Pokémon Go data trained AI that could assist military drones in war zones",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones Comments URL: https://news.ycombinator.com/item?id=48501179 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
-      "image": "https://i.guim.co.uk/img/media/d6a42cc4bc6d108e5900541840e4bc7807b8e39a/328_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4640fd4131a694c37e55f6bf57422bc9",
-      "date": "2026-06-12T07:57:39+00:00"
-    },
-    {
-      "title": "India's workers are training AI robots to take their jobs",
-      "summary": "Article URL: https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs Comments URL: https://news.ycombinator.com/item?id=48501078 Points: 2 # Comments: 2",
-      "url": "https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260611__B36E6V6__v1__HighRes__IndiaTechnologyLabourAi-1781162703.jpg?resize=1920%2C1440",
-      "date": "2026-06-12T07:43:25+00:00"
-    },
-    {
-      "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-      "summary": "Article URL: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/ Comments URL: https://news.ycombinator.com/item?id=48501067 Points: 1 # Comments: 0",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
-      "date": "2026-06-12T07:42:16+00:00"
+      "title": "Hasta Pronto – An AI Farewell Letter and Interactive Memorial – Claude",
+      "summary": "Article URL: https://claude.ai/public/artifacts/fcf36cd3-85f4-49f4-8ef1-5b767ff8ec55 Comments URL: https://news.ycombinator.com/item?id=48511857 Points: 4 # Comments: 0",
+      "url": "https://claude.ai/public/artifacts/fcf36cd3-85f4-49f4-8ef1-5b767ff8ec55",
+      "image": "https://claude.ai/images/claude_ogimage.png",
+      "date": "2026-06-13T02:09:54+00:00"
     }
   ]
 }
