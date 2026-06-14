@@ -1,110 +1,103 @@
 {
-  "generated_at": "2026-06-13T09:32:17.692865+00:00",
+  "generated_at": "2026-06-14T09:54:51.775504+00:00",
   "items": [
     {
-      "title": "I Spent the Night Interviewing the AI the Government Just Recalled",
-      "summary": "Article URL: https://blog.vigilharbor.com/door-with-no-lock Comments URL: https://news.ycombinator.com/item?id=48515248 Points: 1 # Comments: 0",
-      "url": "https://blog.vigilharbor.com/door-with-no-lock",
-      "image": "https://blog.vigilharbor.com/images/posts/government-shutdown-cartoon.webp",
-      "date": "2026-06-13T09:25:01+00:00"
-    },
-    {
-      "title": "AI calls for the most ambitious political agenda in the history of Europe",
-      "summary": "Article URL: https://europe2031.ai/summary/ Comments URL: https://news.ycombinator.com/item?id=48515147 Points: 1 # Comments: 0",
-      "url": "https://europe2031.ai/summary/",
-      "image": "https://europe2031.ai/og-image.png",
-      "date": "2026-06-13T09:09:08+00:00"
-    },
-    {
-      "title": "Meta's New AI Unit Is a Total Mess",
-      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48515062 Points: 1 # Comments: 0",
-      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-      "image": "https://media.wired.com/photos/6a2c555e0473de232b255ae6/191:100/w_1280,c_limit/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg",
-      "date": "2026-06-13T08:57:17+00:00"
-    },
-    {
-      "title": "Contrail Compute AIX the First RISC-V AI Execution Platform",
-      "summary": "Article URL: https://www.epicsemi.com/products/contrail/contrail-compute/ Comments URL: https://news.ycombinator.com/item?id=48514997 Points: 1 # Comments: 0",
-      "url": "https://www.epicsemi.com/products/contrail/contrail-compute/",
-      "image": "https://www.epicsemi.com/images/products/contrail-compute/contrail-compute-5010c.webp",
-      "date": "2026-06-13T08:46:49+00:00"
-    },
-    {
-      "title": "A major KPMG report on AI was found to be chock-full of AI hallucinations",
-      "summary": "Article URL: https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations Comments URL: https://news.ycombinator.com/item?id=48514892 Points: 3 # Comments: 0",
-      "url": "https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations",
-      "image": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg",
-      "date": "2026-06-13T08:29:01+00:00"
-    },
-    {
-      "title": "Whissle Gateway – Run Multi-Modal Voice AI Locally in a 500MB Docker",
-      "summary": "Article URL: https://whissle.ai/gateway Comments URL: https://news.ycombinator.com/item?id=48514802 Points: 2 # Comments: 0",
-      "url": "https://whissle.ai/gateway",
-      "image": "https://whissle.ai/opengraph-image?4735280fecfebe12",
-      "date": "2026-06-13T08:16:09+00:00"
-    },
-    {
-      "title": "Ask HN: Automoderated by AI Alternative to Reddit",
-      "summary": "I'm so sick of human reddit moderation. Thinking about creating automoderated forums by AI.\nWould that interesting to any of you too? Comments URL: https://news.ycombinator.com/item?id=48514684 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48514684",
+      "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
+      "summary": "I've worked on a few AI-heavy projects recently and it feels like every team develops a new headache that didn't exist before AI.\nWhat was it for your company?What did you end up doing about it? Comments URL: https://news.ycombinator.com/item?id=48525718 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48525718",
       "image": "",
-      "date": "2026-06-13T08:02:16+00:00"
+      "date": "2026-06-14T09:50:34+00:00"
     },
     {
-      "title": "Anthropic disables top-tier AI models outside US",
-      "summary": "Article URL: https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13/ Comments URL: https://news.ycombinator.com/item?id=48514477 Points: 5 # Comments: 0",
-      "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13/",
+      "title": "It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=QADKN3hantI Comments URL: https://news.ycombinator.com/item?id=48525614 Points: 1 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=QADKN3hantI",
       "image": "",
-      "date": "2026-06-13T07:32:56+00:00"
+      "date": "2026-06-14T09:32:27+00:00"
     },
     {
-      "title": "Estimating No-Cot Task-Completion Time Horizons of Frontier AI Models",
-      "summary": "Article URL: https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier Comments URL: https://news.ycombinator.com/item?id=48514091 Points: 1 # Comments: 0",
-      "url": "https://www.lesswrong.com/posts/SieLowPgNgRSPGhFw/estimating-no-cot-task-completion-time-horizons-of-frontier",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/SieLowPgNgRSPGhFw/r4vwcd1ajcihc71vbzcz",
-      "date": "2026-06-13T06:37:58+00:00"
+      "title": "ExpensePal - AI expense tracker & budget planner",
+      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48525481 Points: 1 # Comments: 1",
+      "url": "https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US",
+      "image": "https://play-lh.googleusercontent.com/rSLE4KbTHe5Xsgb-gdRVSvIlz-T0oVoGvvbXR_noGO1z7rs2Qh4QE9dIYTszBoq02w8EvRV1UKZtzXDyVqYlDA",
+      "date": "2026-06-14T09:03:46+00:00"
     },
     {
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "summary": "Article URL: https://koenvangilst.nl/lab/claude-fable-shepherds-dog Comments URL: https://news.ycombinator.com/item?id=48513728 Points: 84 # Comments: 65",
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "image": "https://koenvangilst.nl/og/claude-fable-shepherds-dog.png",
-      "date": "2026-06-13T05:44:46+00:00"
-    },
-    {
-      "title": "Running an AI-native engineering org",
-      "summary": "Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48513398 Points: 1 # Comments: 0",
-      "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
-      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a1f0f1a5a045e955123064a_og_running-an-ai-native-engineering-org.jpg",
-      "date": "2026-06-13T04:57:33+00:00"
-    },
-    {
-      "title": "AI Will Steal Your Motivation If You Let It",
-      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-06-12/ai-threatens-worker-motivation-unless-leaders-step-up Comments URL: https://news.ycombinator.com/item?id=48513338 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-06-12/ai-threatens-worker-motivation-unless-leaders-step-up",
+      "title": "AI Slop flooding maths YouTube [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mRO_QonhC2c Comments URL: https://news.ycombinator.com/item?id=48525314 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=mRO_QonhC2c",
       "image": "",
-      "date": "2026-06-13T04:51:14+00:00"
+      "date": "2026-06-14T08:27:30+00:00"
     },
     {
-      "title": "CipherNode – An offline, self-correcting AI swarm compiled to a single .exe",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48512309 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48512309",
+      "title": "General-purpose large language models outperform specialized clinical AI",
+      "summary": "Article URL: https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p Comments URL: https://news.ycombinator.com/item?id=48525281 Points: 3 # Comments: 0",
+      "url": "https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png",
+      "date": "2026-06-14T08:19:34+00:00"
+    },
+    {
+      "title": "AI inequality: from GPU-poor to token-poor",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor Comments URL: https://news.ycombinator.com/item?id=48525226 Points: 1 # Comments: 0",
+      "url": "https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor",
       "image": "",
-      "date": "2026-06-13T02:52:37+00:00"
+      "date": "2026-06-14T08:10:11+00:00"
     },
     {
-      "title": "China cracks down on Western AI models while US companies flock to DeepSeek",
-      "summary": "Article URL: https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek Comments URL: https://news.ycombinator.com/item?id=48512298 Points: 5 # Comments: 0",
-      "url": "https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek",
-      "image": "https://cdn.mos.cms.futurecdn.net/RFHhebaafuggVviVNzSsy-1920-80.jpg",
-      "date": "2026-06-13T02:51:39+00:00"
+      "title": "AI Is Bringing Mashups Back",
+      "summary": "Article URL: https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back Comments URL: https://news.ycombinator.com/item?id=48525058 Points: 2 # Comments: 0",
+      "url": "https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back",
+      "image": "",
+      "date": "2026-06-14T07:40:17+00:00"
     },
     {
-      "title": "Hasta Pronto – An AI Farewell Letter and Interactive Memorial – Claude",
-      "summary": "Article URL: https://claude.ai/public/artifacts/fcf36cd3-85f4-49f4-8ef1-5b767ff8ec55 Comments URL: https://news.ycombinator.com/item?id=48511857 Points: 4 # Comments: 0",
-      "url": "https://claude.ai/public/artifacts/fcf36cd3-85f4-49f4-8ef1-5b767ff8ec55",
-      "image": "https://claude.ai/images/claude_ogimage.png",
-      "date": "2026-06-13T02:09:54+00:00"
+      "title": "Anthropic Is Taking AI Welfare Seriously. I'm Not Sure It Knows What It's Measu",
+      "summary": "Article URL: https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it Comments URL: https://news.ycombinator.com/item?id=48524876 Points: 2 # Comments: 0",
+      "url": "https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "date": "2026-06-14T07:04:45+00:00"
+    },
+    {
+      "title": "While Oracle Will Rake in Big Bucks on AI, Profits Are Hard to Predict",
+      "summary": "Article URL: https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098 Comments URL: https://news.ycombinator.com/item?id=48524793 Points: 1 # Comments: 0",
+      "url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
+      "image": "https://image.nextplatform.com/5255100.jpg?imageId=5255100&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-06-14T06:47:53+00:00"
+    },
+    {
+      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+      "summary": "Article URL: https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48524772 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
+      "image": "",
+      "date": "2026-06-14T06:40:52+00:00"
+    },
+    {
+      "title": "AI: Surgeon's Assistant or Commodity on a Meter?",
+      "summary": "Article URL: https://replicated.wiki/blog/stream.html Comments URL: https://news.ycombinator.com/item?id=48524534 Points: 2 # Comments: 0",
+      "url": "https://replicated.wiki/blog/stream.html",
+      "image": "",
+      "date": "2026-06-14T05:46:53+00:00"
+    },
+    {
+      "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s",
+      "summary": "This submission is a tale about how I launched an unlimited LLM provider to about 60 hyped people on the waitlist, then immediately served them a fully dysfunctional death-loop model, and how most people, very reasonably, disappeared, but thanks to a few extremely nice people stuck around anyway, we kept the project alive and its still pretty chaotic but gaining traction. To back up a little bit-- I believe that the whole point of AI agents is that they should keep working. They should read files, retry, search, code, summarize, run tools, and loop until the job is done. When your employer is paying for it, who cares about cost, but when it comes to my personal money/hobbies, if every loop feels like a tiny financial event, you start babysitting the agent instead of using it, and its not fun. On the other hand, metered pricing makes me worry about using too much. Usage subscriptions make me feel like I need to use every last magical % or I'm are \"wasting it\". If only an unlimited provider existed.... Then I joined the AMD developer program - I got some credits to spin up my own MI300x and started tinkering with vllm/sglang inference serving on AMD. After learning about AMD MI300x , i did some napkin math: Renting MI300x at 2.00 an hour = ~$1500 a month . It can probably support about 150 users using a small MOE model, like qwen-35b-3a , maybe more. 1500 / 150= $10.00 per month, and we all get to play with agents for a small price. You can oversubscribe a bit, so i landed on $6 per month, per user, for 2x generation slots, 128k context, no token limits, no rate limits. I built the site, router, made a waitlist, and then over-optimized the MI300x to the point where vllm bench had like 3k+ output and 40k+ throughput.... But i didn't test the final config/serve commands... And that's where i did a disaster launch. You couldn't prompt the thing without it looping or bugging out, it was cursed. And that's where we lost alot of people. Luckily, my buddy had a few 3090s, so he threw me a life boat and began hosting qwen for us on 2x 3090s and we finally had an operational model that wasn't costing $2.00 an hour for our whopping 3 users. We started gaining a more users, so we moved up to 4x 3090s. Which we have plenty of room for more users, but even so, since then: we've configured vllm wrong like 15 times\na GPU died\nwe lost power\nI made a bunch of one-click starts for openclaw,hermes,pi-mono and none of them really work right and that probably drives people away. Those are still on our site right now. ...but people that know what they are doing seem to really be liking the price point. All in all we have like 98% up time. Its been about a month. We've both learned a ton, even already having backgrounds in SWE/SE/AI , being on the hook for a couple paying users forced us to really focus on delivering them a good product. And now i think we might be close to paying the power/hosting bill so we're not operating at a loss (if u include 3090 capex were still at aloss). Our break-even point is moving to the cloud to max out a MI300x, which is now tuned and ready to go once we get the users. And im finding in some areas, subscribing to our service is cheaper than running the model (but as someone who loves local models, i totally get it). Since then, I've been working on a desktop agent that actually works with small models like qwen -- thats going to replace the broken 1 click starts. It's barebones, but its something out of the box that just works. I made it open source, you can see what im talking about here: https://github.com/yolo-auto-org/yolo-auto-desktop , we're at yolo-auto.com and we have an abysmal free tier to prove it works! Anyway, hope you got a laugh or found it interesting! Drop a question if you have any. Comments URL: https://news.ycombinator.com/item?id=48524387 Points: 4 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48524387",
+      "image": "",
+      "date": "2026-06-14T05:11:33+00:00"
+    },
+    {
+      "title": "World Models and the Emergence of a \"First-Person\" Perspective in an AI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2nQSoiC5VHs Comments URL: https://news.ycombinator.com/item?id=48524377 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=2nQSoiC5VHs",
+      "image": "",
+      "date": "2026-06-14T05:09:52+00:00"
+    },
+    {
+      "title": "Frontier AI companies will never exceed the capability frontier again",
+      "summary": "Article URL: https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies Comments URL: https://news.ycombinator.com/item?id=48524347 Points: 5 # Comments: 0",
+      "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
+      "image": "",
+      "date": "2026-06-14T05:04:26+00:00"
     }
   ]
 }
