@@ -1,103 +1,89 @@
 {
-  "generated_at": "2026-06-14T09:54:51.775504+00:00",
+  "generated_at": "2026-06-15T12:40:33.796579+00:00",
   "items": [
     {
-      "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
-      "summary": "I've worked on a few AI-heavy projects recently and it feels like every team develops a new headache that didn't exist before AI.\nWhat was it for your company?What did you end up doing about it? Comments URL: https://news.ycombinator.com/item?id=48525718 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48525718",
+      "title": "Sandbox AI coding agents with microVMs on Fedora Linux",
+      "summary": "Article URL: https://fedoramagazine.org/sandbox-ai-coding-agents-with-microvms-on-fedora-linux/ Comments URL: https://news.ycombinator.com/item?id=48540375 Points: 1 # Comments: 0",
+      "url": "https://fedoramagazine.org/sandbox-ai-coding-agents-with-microvms-on-fedora-linux/",
+      "image": "https://fedoramagazine.org/wp-content/uploads/2026/06/sandbox_AI.jpg",
+      "date": "2026-06-15T12:38:16+00:00"
+    },
+    {
+      "title": "AI Agent Tool Design: What Works and What Doesn't",
+      "summary": "Article URL: https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/ Comments URL: https://news.ycombinator.com/item?id=48540345 Points: 1 # Comments: 0",
+      "url": "https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/",
+      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/06/mlm-agent-tool-design.png",
+      "date": "2026-06-15T12:35:12+00:00"
+    },
+    {
+      "title": "AI demands more engineering discipline. Not less",
+      "summary": "Article URL: https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/ Comments URL: https://news.ycombinator.com/item?id=48540221 Points: 7 # Comments: 0",
+      "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+      "image": "https://i0.wp.com/charity.wtf/wp-content/uploads/2026/06/nonde-giant.png?fit=1200%2C600&ssl=1",
+      "date": "2026-06-15T12:21:23+00:00"
+    },
+    {
+      "title": "AI Isn't Slowing Down Page Builders",
+      "summary": "Article URL: https://chuckgreenman.com/2026/06/14/ai-isnt-slowing-down-page-builders Comments URL: https://news.ycombinator.com/item?id=48540184 Points: 1 # Comments: 0",
+      "url": "https://chuckgreenman.com/2026/06/14/ai-isnt-slowing-down-page-builders",
       "image": "",
-      "date": "2026-06-14T09:50:34+00:00"
+      "date": "2026-06-15T12:15:51+00:00"
     },
     {
-      "title": "It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=QADKN3hantI Comments URL: https://news.ycombinator.com/item?id=48525614 Points: 1 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=QADKN3hantI",
+      "title": "Mythos Proves AI Safety Can No Longer Live Inside the Model",
+      "summary": "Article URL: https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model?a=0 Comments URL: https://news.ycombinator.com/item?id=48540029 Points: 1 # Comments: 0",
+      "url": "https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model?a=0",
+      "image": "https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model/hero-boundary-moves-1600x900.png",
+      "date": "2026-06-15T11:59:58+00:00"
+    },
+    {
+      "title": "Open (YC W24): we'll refund every dollar, up to $2M, if our AI agent disappoints",
+      "summary": "Article URL: https://www.open.cx/guarantee Comments URL: https://news.ycombinator.com/item?id=48540018 Points: 1 # Comments: 1",
+      "url": "https://www.open.cx/guarantee",
       "image": "",
-      "date": "2026-06-14T09:32:27+00:00"
+      "date": "2026-06-15T11:59:10+00:00"
     },
     {
-      "title": "ExpensePal - AI expense tracker & budget planner",
-      "summary": "Article URL: https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48525481 Points: 1 # Comments: 1",
-      "url": "https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US",
-      "image": "https://play-lh.googleusercontent.com/rSLE4KbTHe5Xsgb-gdRVSvIlz-T0oVoGvvbXR_noGO1z7rs2Qh4QE9dIYTszBoq02w8EvRV1UKZtzXDyVqYlDA",
-      "date": "2026-06-14T09:03:46+00:00"
-    },
-    {
-      "title": "AI Slop flooding maths YouTube [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=mRO_QonhC2c Comments URL: https://news.ycombinator.com/item?id=48525314 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=mRO_QonhC2c",
+      "title": "Anxiety around AI is materially triggered and existentially experienced",
+      "summary": "Article URL: https://michaellwy.substack.com/p/the-texture-of-ai-dread Comments URL: https://news.ycombinator.com/item?id=48539991 Points: 2 # Comments: 0",
+      "url": "https://michaellwy.substack.com/p/the-texture-of-ai-dread",
       "image": "",
-      "date": "2026-06-14T08:27:30+00:00"
+      "date": "2026-06-15T11:55:20+00:00"
     },
     {
-      "title": "General-purpose large language models outperform specialized clinical AI",
-      "summary": "Article URL: https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p Comments URL: https://news.ycombinator.com/item?id=48525281 Points: 3 # Comments: 0",
-      "url": "https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png",
-      "date": "2026-06-14T08:19:34+00:00"
+      "title": "Show HN: Comment Vibe – on-device tone check using Chrome's built-in AI",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/comment-vibe/kibcnjcipaofjlbbnjdjaobbkoajiejp Comments URL: https://news.ycombinator.com/item?id=48539986 Points: 1 # Comments: 0",
+      "url": "https://chromewebstore.google.com/detail/comment-vibe/kibcnjcipaofjlbbnjdjaobbkoajiejp",
+      "image": "https://lh3.googleusercontent.com/g4Qj-U2AUtpzTcmRvfZfmC9xQuwvOEqqYCDc6rSTwbJy6q3OryWZUBh_l9uEz56wFCVHXPTtjIpe7-RIBMUa3CgCRA=s128-rj-sc0x00ffffff",
+      "date": "2026-06-15T11:55:06+00:00"
     },
     {
-      "title": "AI inequality: from GPU-poor to token-poor",
-      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor Comments URL: https://news.ycombinator.com/item?id=48525226 Points: 1 # Comments: 0",
-      "url": "https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor",
+      "title": "Google found liable for bad AI Overview results Let's play Truth Or Consequences",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/15/google-found-liable-for-bad-ai-overview-results-lets-play-truth-or-consequences/5254897 Comments URL: https://news.ycombinator.com/item?id=48539972 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/15/google-found-liable-for-bad-ai-overview-results-lets-play-truth-or-consequences/5254897",
+      "image": "https://image.theregister.com/5239371.jpg?imageId=5239371&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-06-15T11:53:51+00:00"
+    },
+    {
+      "title": "We Get AI Costs Under Control",
+      "summary": "Article URL: https://fwdnow.io/en/blog/finops_ai_kosten_optimieren/ Comments URL: https://news.ycombinator.com/item?id=48539815 Points: 2 # Comments: 0",
+      "url": "https://fwdnow.io/en/blog/finops_ai_kosten_optimieren/",
       "image": "",
-      "date": "2026-06-14T08:10:11+00:00"
+      "date": "2026-06-15T11:36:02+00:00"
     },
     {
-      "title": "AI Is Bringing Mashups Back",
-      "summary": "Article URL: https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back Comments URL: https://news.ycombinator.com/item?id=48525058 Points: 2 # Comments: 0",
-      "url": "https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back",
+      "title": "Frontier teams are reinventing AI-native development",
+      "summary": "Article URL: https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/ Comments URL: https://news.ycombinator.com/item?id=48539489 Points: 2 # Comments: 0",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
+      "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/10/Frontierteams.png",
+      "date": "2026-06-15T10:59:34+00:00"
+    },
+    {
+      "title": "Five Papers That Show Where AI Research Is Heading",
+      "summary": "Article URL: https://www.youtube.com/watch?v=3rWSvrFahIY Comments URL: https://news.ycombinator.com/item?id=48539374 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
       "image": "",
-      "date": "2026-06-14T07:40:17+00:00"
-    },
-    {
-      "title": "Anthropic Is Taking AI Welfare Seriously. I'm Not Sure It Knows What It's Measu",
-      "summary": "Article URL: https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it Comments URL: https://news.ycombinator.com/item?id=48524876 Points: 2 # Comments: 0",
-      "url": "https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it",
-      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "date": "2026-06-14T07:04:45+00:00"
-    },
-    {
-      "title": "While Oracle Will Rake in Big Bucks on AI, Profits Are Hard to Predict",
-      "summary": "Article URL: https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098 Comments URL: https://news.ycombinator.com/item?id=48524793 Points: 1 # Comments: 0",
-      "url": "https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098",
-      "image": "https://image.nextplatform.com/5255100.jpg?imageId=5255100&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-06-14T06:47:53+00:00"
-    },
-    {
-      "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
-      "summary": "Article URL: https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48524772 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/",
-      "image": "",
-      "date": "2026-06-14T06:40:52+00:00"
-    },
-    {
-      "title": "AI: Surgeon's Assistant or Commodity on a Meter?",
-      "summary": "Article URL: https://replicated.wiki/blog/stream.html Comments URL: https://news.ycombinator.com/item?id=48524534 Points: 2 # Comments: 0",
-      "url": "https://replicated.wiki/blog/stream.html",
-      "image": "",
-      "date": "2026-06-14T05:46:53+00:00"
-    },
-    {
-      "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s",
-      "summary": "This submission is a tale about how I launched an unlimited LLM provider to about 60 hyped people on the waitlist, then immediately served them a fully dysfunctional death-loop model, and how most people, very reasonably, disappeared, but thanks to a few extremely nice people stuck around anyway, we kept the project alive and its still pretty chaotic but gaining traction. To back up a little bit-- I believe that the whole point of AI agents is that they should keep working. They should read files, retry, search, code, summarize, run tools, and loop until the job is done. When your employer is paying for it, who cares about cost, but when it comes to my personal money/hobbies, if every loop feels like a tiny financial event, you start babysitting the agent instead of using it, and its not fun. On the other hand, metered pricing makes me worry about using too much. Usage subscriptions make me feel like I need to use every last magical % or I'm are \"wasting it\". If only an unlimited provider existed.... Then I joined the AMD developer program - I got some credits to spin up my own MI300x and started tinkering with vllm/sglang inference serving on AMD. After learning about AMD MI300x , i did some napkin math: Renting MI300x at 2.00 an hour = ~$1500 a month . It can probably support about 150 users using a small MOE model, like qwen-35b-3a , maybe more. 1500 / 150= $10.00 per month, and we all get to play with agents for a small price. You can oversubscribe a bit, so i landed on $6 per month, per user, for 2x generation slots, 128k context, no token limits, no rate limits. I built the site, router, made a waitlist, and then over-optimized the MI300x to the point where vllm bench had like 3k+ output and 40k+ throughput.... But i didn't test the final config/serve commands... And that's where i did a disaster launch. You couldn't prompt the thing without it looping or bugging out, it was cursed. And that's where we lost alot of people. Luckily, my buddy had a few 3090s, so he threw me a life boat and began hosting qwen for us on 2x 3090s and we finally had an operational model that wasn't costing $2.00 an hour for our whopping 3 users. We started gaining a more users, so we moved up to 4x 3090s. Which we have plenty of room for more users, but even so, since then: we've configured vllm wrong like 15 times\na GPU died\nwe lost power\nI made a bunch of one-click starts for openclaw,hermes,pi-mono and none of them really work right and that probably drives people away. Those are still on our site right now. ...but people that know what they are doing seem to really be liking the price point. All in all we have like 98% up time. Its been about a month. We've both learned a ton, even already having backgrounds in SWE/SE/AI , being on the hook for a couple paying users forced us to really focus on delivering them a good product. And now i think we might be close to paying the power/hosting bill so we're not operating at a loss (if u include 3090 capex were still at aloss). Our break-even point is moving to the cloud to max out a MI300x, which is now tuned and ready to go once we get the users. And im finding in some areas, subscribing to our service is cheaper than running the model (but as someone who loves local models, i totally get it). Since then, I've been working on a desktop agent that actually works with small models like qwen -- thats going to replace the broken 1 click starts. It's barebones, but its something out of the box that just works. I made it open source, you can see what im talking about here: https://github.com/yolo-auto-org/yolo-auto-desktop , we're at yolo-auto.com and we have an abysmal free tier to prove it works! Anyway, hope you got a laugh or found it interesting! Drop a question if you have any. Comments URL: https://news.ycombinator.com/item?id=48524387 Points: 4 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=48524387",
-      "image": "",
-      "date": "2026-06-14T05:11:33+00:00"
-    },
-    {
-      "title": "World Models and the Emergence of a \"First-Person\" Perspective in an AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=2nQSoiC5VHs Comments URL: https://news.ycombinator.com/item?id=48524377 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=2nQSoiC5VHs",
-      "image": "",
-      "date": "2026-06-14T05:09:52+00:00"
-    },
-    {
-      "title": "Frontier AI companies will never exceed the capability frontier again",
-      "summary": "Article URL: https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies Comments URL: https://news.ycombinator.com/item?id=48524347 Points: 5 # Comments: 0",
-      "url": "https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies",
-      "image": "",
-      "date": "2026-06-14T05:04:26+00:00"
+      "date": "2026-06-15T10:43:42+00:00"
     }
   ]
 }
