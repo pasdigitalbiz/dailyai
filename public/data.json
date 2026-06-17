@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-06-16T11:32:07.746578+00:00",
-  "items": []
+  "generated_at": "2026-06-17T11:15:42.898876+00:00",
+  "items": [
+    {
+      "title": "How the UK government is using AI to speed up the planning system",
+      "summary": "Article URL: https://takes.jamesomalley.co.uk/p/build-gemini-build Comments URL: https://news.ycombinator.com/item?id=48568646 Points: 1 # Comments: 0",
+      "url": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
+      "image": "https://substackcdn.com/image/fetch/$s_!Wiy-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59908af1-522a-4324-bb77-9bd87269b968_1678x937.png",
+      "date": "2026-06-17T11:09:00+00:00"
+    },
+    {
+      "title": "Smarter Charging, An AI controller treats batteries differently as they age",
+      "summary": "Article URL: https://spectrum.ieee.org/ev-charging-strategy Comments URL: https://news.ycombinator.com/item?id=48568629 Points: 1 # Comments: 0",
+      "url": "https://spectrum.ieee.org/ev-charging-strategy",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66904101&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "date": "2026-06-17T11:07:13+00:00"
+    },
+    {
+      "title": "Ask HN: Does your mind drift while waiting for AI prompts to finish?",
+      "summary": "I've been a software engineer for 9 years now, and I noticed a very new weirdness in my workflows. Once I finish the architecture of a project and i have my context engineering prompt ready, I hit SEND, and then is just void lol. I have realized that between that time of waiting till AI is done, my mind drifts, I go use other apps, search random stuff and if AI fucks things up I go back and forth supervising it. I feel like this whole experience has generated some kind of fatigue and comes with a lot of cognitive overload. Do you folks face that too? How is it affecting you ? Comments URL: https://news.ycombinator.com/item?id=48568372 Points: 1 # Comments: 9",
+      "url": "https://news.ycombinator.com/item?id=48568372",
+      "image": "",
+      "date": "2026-06-17T10:37:09+00:00"
+    },
+    {
+      "title": "AI Scenarios 2030: Helping policymakers plan for the future of AI",
+      "summary": "Article URL: https://www.gov.uk/government/publications/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai Comments URL: https://news.ycombinator.com/item?id=48568275 Points: 1 # Comments: 0",
+      "url": "https://www.gov.uk/government/publications/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "date": "2026-06-17T10:25:57+00:00"
+    },
+    {
+      "title": "AI Made Internal Tools Easy to Build. Keeping Them Alive Is the Hard Part",
+      "summary": "Article URL: https://www.dforge.io/blog/internal-tools-built-to-last Comments URL: https://news.ycombinator.com/item?id=48568221 Points: 1 # Comments: 0",
+      "url": "https://www.dforge.io/blog/internal-tools-built-to-last",
+      "image": "https://www.dforge.io/images/internal-tools-flow.png",
+      "date": "2026-06-17T10:20:50+00:00"
+    },
+    {
+      "title": "How many Americans are using AI – and how?",
+      "summary": "Article URL: https://usafacts.org/articles/how-many-americans-are-using-ai-and-how/ Comments URL: https://news.ycombinator.com/item?id=48568174 Points: 1 # Comments: 0",
+      "url": "https://usafacts.org/articles/how-many-americans-are-using-ai-and-how/",
+      "image": "https://cdn.builder.io/api/v1/image/assets%2F0b9e002c2ba04655a10a2d191e448df9%2F274ea9f1d5b9484cab50170141681ed1",
+      "date": "2026-06-17T10:13:27+00:00"
+    },
+    {
+      "title": "Genesis AI launches Eno general-purpose robot",
+      "summary": "Article URL: https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/ Comments URL: https://news.ycombinator.com/item?id=48568119 Points: 1 # Comments: 0",
+      "url": "https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/",
+      "image": "",
+      "date": "2026-06-17T10:05:12+00:00"
+    },
+    {
+      "title": "AI Cyber Tools Move into a New Phase as Governments Tighten Control",
+      "summary": "Article URL: https://freedomforallamericans.org/ai-cyber-tools-government-control/ Comments URL: https://news.ycombinator.com/item?id=48568113 Points: 1 # Comments: 0",
+      "url": "https://freedomforallamericans.org/ai-cyber-tools-government-control/",
+      "image": "https://freedomforallamericans.org/wp-content/uploads/2026/06/AI-Governance-Framework.jpg",
+      "date": "2026-06-17T10:04:39+00:00"
+    },
+    {
+      "title": "Companies question cost of AI as tokenmaxxing spending adds up",
+      "summary": "Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48567978 Points: 1 # Comments: 0",
+      "url": "https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680",
+      "image": "https://i.cbc.ca/ais/01f974f4-9e95-44bd-9d17-c3d514e008b6,1781648395513/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5841%2C3285%29%3BResize%3D620",
+      "date": "2026-06-17T09:42:12+00:00"
+    },
+    {
+      "title": "The Joy of Tech: A Different Path for Products, People, & AI",
+      "summary": "Article URL: https://blog.dfeldman.co/the-joy-of-tech-a-different-path-for-products-people-ai-df122b28764e Comments URL: https://news.ycombinator.com/item?id=48567906 Points: 2 # Comments: 0",
+      "url": "https://blog.dfeldman.co/the-joy-of-tech-a-different-path-for-products-people-ai-df122b28764e",
+      "image": "",
+      "date": "2026-06-17T09:32:23+00:00"
+    },
+    {
+      "title": "Pentagon used Elon Musk's Grok AI to fire 2k missiles at Iran, official says",
+      "summary": "Article URL: https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html Comments URL: https://news.ycombinator.com/item?id=48567771 Points: 4 # Comments: 0",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html",
+      "image": "https://static.independent.co.uk/2026/06/16/19/2026-06-09T204437Z_35805980_RC2PVCAMQKSA_RTRMADP_3_USA-AI-DATACENTER-LAWSUIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "date": "2026-06-17T09:13:50+00:00"
+    },
+    {
+      "title": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
+      "summary": "Article URL: https://www.infoq.com/news/2026/06/oracle-genai-policies/ Comments URL: https://news.ycombinator.com/item?id=48567765 Points: 1 # Comments: 0",
+      "url": "https://www.infoq.com/news/2026/06/oracle-genai-policies/",
+      "image": "https://res.infoq.com/news/2026/06/oracle-genai-policies/en/headerimage/generatedHeaderImage-1781176880866.jpg",
+      "date": "2026-06-17T09:12:45+00:00"
+    },
+    {
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 122 # Comments: 44",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "image": "https://cdn.sanity.io/images/6vfeftx9/articles/204f6bd201e215286fd69d162a84dfdf4a24d197-768x768.webp?w=1200&auto=format",
+      "date": "2026-06-17T09:12:00+00:00"
+    },
+    {
+      "title": "Multiple JetBrains IDE plugins caught stealing AI keys",
+      "summary": "Article URL: https://www.aikido.dev/blog/multiple-jetbrains-ide-plugins-caught-stealing-ai-keys Comments URL: https://news.ycombinator.com/item?id=48567638 Points: 4 # Comments: 0",
+      "url": "https://www.aikido.dev/blog/multiple-jetbrains-ide-plugins-caught-stealing-ai-keys",
+      "image": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6a31a929ea6bc12fd842fe2a_JetBrains-IDE-plugins-caught_16x9-opengraph.jpg",
+      "date": "2026-06-17T08:54:47+00:00"
+    },
+    {
+      "title": "Building an AI Agent in 6 Weeks (and Understanding How They Work)",
+      "summary": "Article URL: https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/ Comments URL: https://news.ycombinator.com/item?id=48567620 Points: 1 # Comments: 0",
+      "url": "https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/",
+      "image": "https://belderbos.dev/images/og/jeff-haemer-agentic-ai-cohort.png",
+      "date": "2026-06-17T08:52:13+00:00"
+    },
+    {
+      "title": "DShow HN: AI Bible reader with multiple denominational views on contested topics",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48567486 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48567486",
+      "image": "",
+      "date": "2026-06-17T08:35:06+00:00"
+    }
+  ]
 }
