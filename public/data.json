@@ -1,103 +1,82 @@
 {
-  "generated_at": "2026-06-19T10:55:25.199019+00:00",
+  "generated_at": "2026-06-20T09:36:05.497061+00:00",
   "items": [
     {
-      "title": "Teams using AI for outbound email are finding it harder, Folderly research finds",
-      "summary": "Article URL: https://apnews.com/press-release/ein-presswire-newsmatics/press-release-722e599d4420e5d71c812e09bf3965b7 Comments URL: https://news.ycombinator.com/item?id=48597122 Points: 1 # Comments: 0",
-      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-722e599d4420e5d71c812e09bf3965b7",
-      "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "date": "2026-06-19T10:52:53+00:00"
+      "title": "Data Center Warfare: Defending AI Infrastructure",
+      "summary": "Article URL: https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=48607647 Points: 1 # Comments: 0",
+      "url": "https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/",
+      "image": "https://mwi.westpoint.edu/wp-content/uploads/2026/06/data_center_server_racks.jpg?w=1080",
+      "date": "2026-06-20T09:09:40+00:00"
     },
     {
-      "title": "Pentagon used Elon Musk's Grok AI to fire 2k missiles at Iran, official says",
-      "summary": "Article URL: https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html Comments URL: https://news.ycombinator.com/item?id=48597030 Points: 3 # Comments: 0",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html",
-      "image": "https://static.independent.co.uk/2026/06/16/19/2026-06-09T204437Z_35805980_RC2PVCAMQKSA_RTRMADP_3_USA-AI-DATACENTER-LAWSUIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "date": "2026-06-19T10:38:36+00:00"
+      "title": "Getting Back to Basics by Abusing AI",
+      "summary": "Article URL: https://blog.unitedheroes.net/5752 Comments URL: https://news.ycombinator.com/item?id=48607442 Points: 2 # Comments: 0",
+      "url": "https://blog.unitedheroes.net/5752",
+      "image": "https://blog.unitedheroes.net/JRS_128x128.jpg",
+      "date": "2026-06-20T08:34:38+00:00"
     },
     {
-      "title": "Estonia to give digital identities to AI agents",
-      "summary": "Article URL: https://www.euractiv.com/news/estonia-to-give-digital-identities-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48596949 Points: 2 # Comments: 0",
-      "url": "https://www.euractiv.com/news/estonia-to-give-digital-identities-to-ai-agents/",
+      "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
+      "summary": "Article URL: https://www.cio.com/article/4187280/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely.html Comments URL: https://news.ycombinator.com/item?id=48607346 Points: 2 # Comments: 0",
+      "url": "https://www.cio.com/article/4187280/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely.html",
+      "image": "https://www.cio.com/wp-content/uploads/2026/06/4187280-0-39757000-1781880761-shutterstock_1326046904.jpg?quality=50&strip=all&w=1024",
+      "date": "2026-06-20T08:15:54+00:00"
+    },
+    {
+      "title": "\"Career coaches\" are fear-farming the Stanford AI hiring study [debunk]",
+      "summary": "Article URL: https://placementist.com/insights/fear-farming-the-stanford-ai-hiring-study-debunk Comments URL: https://news.ycombinator.com/item?id=48607303 Points: 3 # Comments: 0",
+      "url": "https://placementist.com/insights/fear-farming-the-stanford-ai-hiring-study-debunk",
+      "image": "https://framerusercontent.com/images/73P3zTzVMZJ0tGrQljNVecJjU.png",
+      "date": "2026-06-20T08:06:17+00:00"
+    },
+    {
+      "title": "Interactional foundations for critical AI literacies",
+      "summary": "Article URL: https://zenodo.org/records/19560684 Comments URL: https://news.ycombinator.com/item?id=48607245 Points: 2 # Comments: 0",
+      "url": "https://zenodo.org/records/19560684",
       "image": "",
-      "date": "2026-06-19T10:24:43+00:00"
+      "date": "2026-06-20T07:52:57+00:00"
     },
     {
-      "title": "AI has granted America new power",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power Comments URL: https://news.ycombinator.com/item?id=48596659 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/leaders/2026/06/18/ai-has-granted-america-vast-new-power",
+      "title": "Federal regulators order grid operators speed power2energy-hungry AI datacenters",
+      "summary": "Article URL: https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5 Comments URL: https://news.ycombinator.com/item?id=48606969 Points: 2 # Comments: 0",
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "image": "https://dims.apnews.com/dims4/default/c5821ec/2147483647/strip/true/crop/7791x5191+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F8d%2F34a2cd20f4e20dce1009a2c91670%2Fd8ba25a93ffc4f1b93e92fc4abb05dcd",
+      "date": "2026-06-20T06:52:15+00:00"
+    },
+    {
+      "title": "I made SHORT SQUEEZE, a finance movie trailer created with AI",
+      "summary": "Article URL: https://www.instagram.com/reel/DZy5nOKN7Pz/ Comments URL: https://news.ycombinator.com/item?id=48606702 Points: 2 # Comments: 0",
+      "url": "https://www.instagram.com/reel/DZy5nOKN7Pz/",
+      "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.71878-15/722808605_1417782630373215_7071703841813827554_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kUdz26bwEzYQ7kNvwEQfK9u&_nc_oc=AdrFeLJEkWPZ2uy9inQOCmHTLFTbPdzDf55fTKt_rUgaw0PAM2sojS6qVQQdm2Xc7cs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=_woUjrOFF17whfmGmWwNwg&_nc_ss=7e60f&oh=00_Af_6ki842gCFsnkU5YY7IFn4uqGnk5D1vWehb6Dk426gXA&oe=6A3C38EC",
+      "date": "2026-06-20T05:55:55+00:00"
+    },
+    {
+      "title": "The New Calculus of AI-Based Coding",
+      "summary": "Article URL: https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based... Comments URL: https://news.ycombinator.com/item?id=48606434 Points: 3 # Comments: 1",
+      "url": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based...",
       "image": "",
-      "date": "2026-06-19T09:34:16+00:00"
+      "date": "2026-06-20T04:51:01+00:00"
     },
     {
-      "title": "Conservatives plan nationwide protest against AI data centers",
-      "summary": "Article URL: https://www.axios.com/2026/06/18/conservatives-protest-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=48596639 Points: 4 # Comments: 0",
-      "url": "https://www.axios.com/2026/06/18/conservatives-protest-ai-data-centers",
-      "image": "",
-      "date": "2026-06-19T09:31:23+00:00"
+      "title": "China will have a Fable 5-class AI model before next year",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long Comments URL: https://news.ycombinator.com/item?id=48606364 Points: 10 # Comments: 1",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
+      "image": "https://cdn.mos.cms.futurecdn.net/JU5bgu2ekXcxS9oyxZ8uMo-2000-80.jpg",
+      "date": "2026-06-20T04:33:24+00:00"
     },
     {
-      "title": "Switching AI Tools Mid-Sprint Cost Us a Day (and What We Learned) – Week 6 R",
-      "summary": "Article URL: https://theaileverageweekly.com/posts/how-switching-ai-tools-mid-sprint-cost-us-a-day-and-what-we-learned-we.html Comments URL: https://news.ycombinator.com/item?id=48596449 Points: 1 # Comments: 0",
-      "url": "https://theaileverageweekly.com/posts/how-switching-ai-tools-mid-sprint-cost-us-a-day-and-what-we-learned-we.html",
-      "image": "",
-      "date": "2026-06-19T09:01:14+00:00"
+      "title": "AI and the Great CMS Unbundling",
+      "summary": "Article URL: https://dri.es/ai-and-the-great-cms-unbundling Comments URL: https://news.ycombinator.com/item?id=48606300 Points: 5 # Comments: 0",
+      "url": "https://dri.es/ai-and-the-great-cms-unbundling",
+      "image": "https://dri.es/files/cache/blog/ai-cms-unbundling-grid-1280w.png",
+      "date": "2026-06-20T04:13:55+00:00"
     },
     {
-      "title": "Why local AI – and why it matters",
-      "summary": "Article URL: https://nexusfoundation.ngo/why-local-ai Comments URL: https://news.ycombinator.com/item?id=48596379 Points: 2 # Comments: 0",
-      "url": "https://nexusfoundation.ngo/why-local-ai",
-      "image": "",
-      "date": "2026-06-19T08:48:17+00:00"
-    },
-    {
-      "title": "Prodigy: AI Employees",
-      "summary": "Article URL: https://docs.google.com/presentation/d/1aldEHGR_1Hv_F0UlTuQIL8mXhsw5s5VzuuPcgKV5czY/edit?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48595965 Points: 3 # Comments: 2",
-      "url": "https://docs.google.com/presentation/d/1aldEHGR_1Hv_F0UlTuQIL8mXhsw5s5VzuuPcgKV5czY/edit?usp=sharing",
-      "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyIIglPAP0tQNw_7TZpboQD4VvSgR3K57SKUjS1kGNutjzVSwSCGmOlAzksjoUDpoH77_I1IwzCWQ7oSKfB7RdCqy5BhDobO3bfz4ZhX9CjHOXAzlpCW=w1200-h630-p",
-      "date": "2026-06-19T07:49:02+00:00"
-    },
-    {
-      "title": "'We created a monster': companies rein in AI usage as costs strain budgets",
-      "summary": "Article URL: https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314 Comments URL: https://news.ycombinator.com/item?id=48595926 Points: 6 # Comments: 0",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "image": "",
-      "date": "2026-06-19T07:44:36+00:00"
-    },
-    {
-      "title": "One Model Won't Save You: How We Built Our AI Stack",
-      "summary": "Article URL: https://www.xelerate.tech/one-model-wont-save-you/ Comments URL: https://news.ycombinator.com/item?id=48595915 Points: 1 # Comments: 0",
-      "url": "https://www.xelerate.tech/one-model-wont-save-you/",
-      "image": "https://www.xelerate.tech/wp-content/uploads/2026/05/ChatGPT-Image-May-4-2026-03_32_20-PM-2.jpg",
-      "date": "2026-06-19T07:43:06+00:00"
-    },
-    {
-      "title": "Contributor Poker and Zig's AI Ban",
-      "summary": "Article URL: https://kristoff.it/blog/contributor-poker-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48595826 Points: 4 # Comments: 0",
-      "url": "https://kristoff.it/blog/contributor-poker-and-ai/",
-      "image": "https://kristoff.it/logo.png",
-      "date": "2026-06-19T07:30:47+00:00"
-    },
-    {
-      "title": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9 Comments URL: https://news.ycombinator.com/item?id=48595772 Points: 4 # Comments: 1",
-      "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9",
-      "image": "",
-      "date": "2026-06-19T07:21:34+00:00"
-    },
-    {
-      "title": "Building Reliable Agentic AI Systems",
-      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48595716 Points: 2 # Comments: 0",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
-      "date": "2026-06-19T07:12:53+00:00"
-    },
-    {
-      "title": "Bernie Sanders unveils $7T plan to give Americans control of AI industry",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/ Comments URL: https://news.ycombinator.com/item?id=48595691 Points: 4 # Comments: 2",
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230233284-1152x648.jpg",
-      "date": "2026-06-19T07:09:29+00:00"
+      "title": "Spirit Crossing's AI Problem",
+      "summary": "Article URL: https://blog.curiousquail.com/spirit-crossings-ai-problem/ Comments URL: https://news.ycombinator.com/item?id=48606238 Points: 3 # Comments: 0",
+      "url": "https://blog.curiousquail.com/spirit-crossings-ai-problem/",
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/curiousquail/goddamnit_web.jpg",
+      "date": "2026-06-20T03:59:30+00:00"
     }
   ]
 }
