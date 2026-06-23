@@ -1,96 +1,103 @@
 {
-  "generated_at": "2026-06-22T12:23:39.351437+00:00",
+  "generated_at": "2026-06-23T10:00:35.449362+00:00",
   "items": [
     {
-      "title": "Accenture shares fall to lowest since 2017 as AI threat mounts",
-      "summary": "Article URL: https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62 Comments URL: https://news.ycombinator.com/item?id=48629031 Points: 3 # Comments: 0",
-      "url": "https://www.ft.com/content/9f063b07-da39-4feb-92ab-ee0f91385c62",
+      "title": "Sakana.ai releases a model competiting with Fable",
+      "summary": "Article URL: https://sakana.ai/fugu-release/ Comments URL: https://news.ycombinator.com/item?id=48642479 Points: 2 # Comments: 0",
+      "url": "https://sakana.ai/fugu-release/",
+      "image": "https://sakana.ai/assets/home/sakana_rect.png",
+      "date": "2026-06-23T09:36:20+00:00"
+    },
+    {
+      "title": "AI models capable of devastating attacks on governments and business months away",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security Comments URL: https://news.ycombinator.com/item?id=48642467 Points: 1 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+      "image": "https://i.guim.co.uk/img/media/d2a5274919d8ac6deed2ef6835d67933fedd18d2/257_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25576ddff2436f6d1bfbef07bd7cd14d",
+      "date": "2026-06-23T09:34:28+00:00"
+    },
+    {
+      "title": "Why AI Problems Are Becoming Philosophical Problems",
+      "summary": "Article URL: https://kunyuan.substack.com/p/07concept-entrywhy-ai-problems-are Comments URL: https://news.ycombinator.com/item?id=48642387 Points: 1 # Comments: 1",
+      "url": "https://kunyuan.substack.com/p/07concept-entrywhy-ai-problems-are",
       "image": "",
-      "date": "2026-06-22T12:05:35+00:00"
+      "date": "2026-06-23T09:23:40+00:00"
     },
     {
-      "title": "I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents",
-      "summary": "Article URL: https://maref.org/blog/from-steadicam-to-agent-governance Comments URL: https://news.ycombinator.com/item?id=48628931 Points: 2 # Comments: 0",
-      "url": "https://maref.org/blog/from-steadicam-to-agent-governance",
+      "title": "What happens when OKF runs inside an AI tool",
+      "summary": "Article URL: https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48642106 Points: 4 # Comments: 0",
+      "url": "https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/",
+      "image": "https://tenureai.dev/og-image.png",
+      "date": "2026-06-23T08:42:10+00:00"
+    },
+    {
+      "title": "AI Built a Nuke and Still Lost",
+      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 53 # Comments: 47",
+      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "image": "https://lwilko.com/blog/i-gave-an-ai-a-civilization/opengraph-image?e9f77e0c8e60ce42",
+      "date": "2026-06-23T08:16:45+00:00"
+    },
+    {
+      "title": "New £1.1B plan to back chip firms, boost computing and skills for the AI",
+      "summary": "Article URL: https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution Comments URL: https://news.ycombinator.com/item?id=48641809 Points: 1 # Comments: 0",
+      "url": "https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution",
+      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "date": "2026-06-23T08:03:03+00:00"
+    },
+    {
+      "title": "Artificial intelligence-based law firm wins in court",
+      "summary": "Article URL: https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court Comments URL: https://news.ycombinator.com/item?id=48641786 Points: 2 # Comments: 0",
+      "url": "https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court",
+      "image": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Justice-law-court-davidfranklin-adobe.jpg",
+      "date": "2026-06-23T08:00:20+00:00"
+    },
+    {
+      "title": "Don't waste Claude limits babysitting AI experiments",
+      "summary": "Article URL: https://heyneo.com/claude-code Comments URL: https://news.ycombinator.com/item?id=48641634 Points: 2 # Comments: 0",
+      "url": "https://heyneo.com/claude-code",
       "image": "",
-      "date": "2026-06-22T11:52:23+00:00"
+      "date": "2026-06-23T07:42:40+00:00"
     },
     {
-      "title": "Apple Price Increases, Apple Intelligence and the E.U",
-      "summary": "Article URL: https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/ Comments URL: https://news.ycombinator.com/item?id=48628691 Points: 2 # Comments: 0",
-      "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-      "date": "2026-06-22T11:22:13+00:00"
-    },
-    {
-      "title": "Judging beautiful docs, AI fatigue, and tool slop",
-      "summary": "Article URL: https://idratherbewriting.com/blog/judging-beautiful-docs-ai-fatigue-podcast Comments URL: https://news.ycombinator.com/item?id=48628517 Points: 2 # Comments: 0",
-      "url": "https://idratherbewriting.com/blog/judging-beautiful-docs-ai-fatigue-podcast",
-      "image": "https://idratherbewriting.com/judgingbeautifuldocsthumb2.jpg",
-      "date": "2026-06-22T10:59:06+00:00"
-    },
-    {
-      "title": "How to Think About AI Before It's Too Late",
-      "summary": "Article URL: https://www.theatlantic.com/podcasts/2026/06/how-to-think-about-ai-before-its-too-late/687644/ Comments URL: https://news.ycombinator.com/item?id=48628043 Points: 2 # Comments: 1",
-      "url": "https://www.theatlantic.com/podcasts/2026/06/how-to-think-about-ai-before-its-too-late/687644/",
-      "image": "https://cdn.theatlantic.com/thumbor/JyXE_ffMbfqY1jF-RGIKVlE2aJg=/0x43:2000x1085/1200x625/media/img/mt/2026/06/GB_Ollie_260619/original.jpg",
-      "date": "2026-06-22T09:54:59+00:00"
-    },
-    {
-      "title": "Ask HN: Any AI native Anki alternatives?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48628009 Points: 4 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=48628009",
+      "title": "AI Coding Traps Every Engineering Team Should Know",
+      "summary": "Article URL: https://jsdevspace.substack.com/p/the-8-ai-coding-traps-every-engineering Comments URL: https://news.ycombinator.com/item?id=48641615 Points: 3 # Comments: 0",
+      "url": "https://jsdevspace.substack.com/p/the-8-ai-coding-traps-every-engineering",
       "image": "",
-      "date": "2026-06-22T09:50:00+00:00"
+      "date": "2026-06-23T07:40:31+00:00"
     },
     {
-      "title": "Generative AI Music Attribution Rethinks Royalties",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-music-attribution Comments URL: https://news.ycombinator.com/item?id=48627917 Points: 3 # Comments: 0",
-      "url": "https://spectrum.ieee.org/ai-music-attribution",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66750727&width=1200&height=600&coordinates=0%2C121%2C0%2C379",
-      "date": "2026-06-22T09:38:58+00:00"
+      "title": "The AI Poet",
+      "summary": "Article URL: https://www.johnderoulet.com/post/the-ai-poet Comments URL: https://news.ycombinator.com/item?id=48641505 Points: 1 # Comments: 0",
+      "url": "https://www.johnderoulet.com/post/the-ai-poet",
+      "image": "https://static.wixstatic.com/media/7e81c4_5a56f55a5c884cecbf026713b7a45514~mv2.jpg/v1/fill/w_960,h_785,al_c,q_85/7e81c4_5a56f55a5c884cecbf026713b7a45514~mv2.jpg",
+      "date": "2026-06-23T07:24:57+00:00"
     },
     {
-      "title": "Data centers become the face of AI backlash",
-      "summary": "Article URL: https://www.axios.com/2026/06/22/ai-data-center-backlash-poll Comments URL: https://news.ycombinator.com/item?id=48627730 Points: 10 # Comments: 2",
-      "url": "https://www.axios.com/2026/06/22/ai-data-center-backlash-poll",
+      "title": "Sideways, Not Up: Why AI Is Not a New Abstraction Layer",
+      "summary": "Article URL: https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.html Comments URL: https://news.ycombinator.com/item?id=48641382 Points: 1 # Comments: 0",
+      "url": "https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.html",
+      "image": "https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.png",
+      "date": "2026-06-23T07:08:44+00:00"
+    },
+    {
+      "title": "EGC – your AI never re-explains your project when you switch sessions",
+      "summary": "Article URL: https://dev.to/fmarzochi/i-got-tired-of-re-explaining-my-project-to-ai-every-session-so-i-built-egc-3k8e Comments URL: https://news.ycombinator.com/item?id=48641359 Points: 1 # Comments: 0",
+      "url": "https://dev.to/fmarzochi/i-got-tired-of-re-explaining-my-project-to-ai-every-session-so-i-built-egc-3k8e",
+      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5v6h6tk67u7h85buc5g7.png",
+      "date": "2026-06-23T07:04:57+00:00"
+    },
+    {
+      "title": "Current AI is like the film company producing TV series or movies",
+      "summary": "Article URL: https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/ Comments URL: https://news.ycombinator.com/item?id=48641141 Points: 1 # Comments: 0",
+      "url": "https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/",
       "image": "",
-      "date": "2026-06-22T09:13:44+00:00"
+      "date": "2026-06-23T06:29:55+00:00"
     },
     {
-      "title": "Lessons from Building Evals for Financial AI Agents",
-      "summary": "Article URL: https://www.primerapp.com/blog/lessons-from-3-years-of-evals/ Comments URL: https://news.ycombinator.com/item?id=48627563 Points: 4 # Comments: 3",
-      "url": "https://www.primerapp.com/blog/lessons-from-3-years-of-evals/",
-      "image": "https://primer-website-e8k1.onrender.com/og/primer-logo.png",
-      "date": "2026-06-22T08:51:04+00:00"
-    },
-    {
-      "title": "Yann LeCun „World Models: Enabling the Next AI Revolution\" [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=72Xj8k5WQX4 Comments URL: https://news.ycombinator.com/item?id=48627476 Points: 3 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=72Xj8k5WQX4",
+      "title": "Will AI Kill Taylor Swifts: The Rise of Ultra-Personalized Music",
+      "summary": "Article URL: https://ryanspahn.substack.com/p/how-listening-to-only-ai-music-changes Comments URL: https://news.ycombinator.com/item?id=48640834 Points: 1 # Comments: 0",
+      "url": "https://ryanspahn.substack.com/p/how-listening-to-only-ai-music-changes",
       "image": "",
-      "date": "2026-06-22T08:40:33+00:00"
-    },
-    {
-      "title": "Use AI for reviewing code especially when the diff is huge",
-      "summary": "Article URL: https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/ Comments URL: https://news.ycombinator.com/item?id=48627330 Points: 6 # Comments: 8",
-      "url": "https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/",
-      "image": "/static/og-image.png",
-      "date": "2026-06-22T08:24:15+00:00"
-    },
-    {
-      "title": "An Inconvenient Truth About AI",
-      "summary": "Article URL: https://rutgerbregman.substack.com/p/an-inconvenient-truth-about-ai Comments URL: https://news.ycombinator.com/item?id=48627094 Points: 2 # Comments: 0",
-      "url": "https://rutgerbregman.substack.com/p/an-inconvenient-truth-about-ai",
-      "image": "",
-      "date": "2026-06-22T07:53:28+00:00"
-    },
-    {
-      "title": "Best of AI",
-      "summary": "Article URL: https://bestofai.io/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=48627060 Points: 4 # Comments: 0",
-      "url": "https://bestofai.io/leaderboard/",
-      "image": "https://bestofai.io/img/preview.png",
-      "date": "2026-06-22T07:48:34+00:00"
+      "date": "2026-06-23T05:46:13+00:00"
     }
   ]
 }
