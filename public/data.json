@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-06-23T10:00:35.449362+00:00",
+  "generated_at": "2026-06-24T09:49:12.896051+00:00",
   "items": [
     {
-      "title": "Sakana.ai releases a model competiting with Fable",
-      "summary": "Article URL: https://sakana.ai/fugu-release/ Comments URL: https://news.ycombinator.com/item?id=48642479 Points: 2 # Comments: 0",
-      "url": "https://sakana.ai/fugu-release/",
-      "image": "https://sakana.ai/assets/home/sakana_rect.png",
-      "date": "2026-06-23T09:36:20+00:00"
+      "title": "Show HN: 2026 ASO Complete Guide (With 2025 OCR/AI Tags Update)",
+      "summary": "Article URL: https://launchshots.app/blog/app-store-optimization-complete-guide-2026 Comments URL: https://news.ycombinator.com/item?id=48657435 Points: 2 # Comments: 0",
+      "url": "https://launchshots.app/blog/app-store-optimization-complete-guide-2026",
+      "image": "https://launchshots.app/blog-images/img-20260624-05975b1f6239992d.webp",
+      "date": "2026-06-24T09:45:05+00:00"
     },
     {
-      "title": "AI models capable of devastating attacks on governments and business months away",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security Comments URL: https://news.ycombinator.com/item?id=48642467 Points: 1 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
-      "image": "https://i.guim.co.uk/img/media/d2a5274919d8ac6deed2ef6835d67933fedd18d2/257_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25576ddff2436f6d1bfbef07bd7cd14d",
-      "date": "2026-06-23T09:34:28+00:00"
-    },
-    {
-      "title": "Why AI Problems Are Becoming Philosophical Problems",
-      "summary": "Article URL: https://kunyuan.substack.com/p/07concept-entrywhy-ai-problems-are Comments URL: https://news.ycombinator.com/item?id=48642387 Points: 1 # Comments: 1",
-      "url": "https://kunyuan.substack.com/p/07concept-entrywhy-ai-problems-are",
+      "title": "Show HN: Agnes AI – Free multimodal API (text, image, video), OpenAI-compatible",
+      "summary": "Hi HN, I'm Daniel, part of the team at Agnes AI, a Singapore-based AI lab. We've been building quietly for a while and I wanted to share what we've made with this community and get honest feedback from people who actually build things. What is Agnes AI?\nAgnes AI gives you access to three models through a single free API. We have text, image and video models. The API is fully OpenAI-compatible, so you can just swap the base URL to https://apihub.agnes-ai.com/v1 and use your Agnes API key. No other changes needed in your existing code. It is completely free. No need to submit any kind of payment information. After registration there will be a default balance so that you can create your API keys. You sign up, get a key, and start building. Thanks to the community, we hit 4T API calls in just one week, and it keeps growing. We are also ranked as a top 10 AI lab on benchmarks. Our biggest advantage is that the free API is fully multimodal, so you can use text, image and video generation all without limits. The models:\nText - Agnes-2.0-Flash: It has 512k context window (in a week or two it will be 1M). There are reasoning/thinking modes, tool calling, image URL input and streaming support. Ranked 9th in general tasks on Claw-Eval. Can be used with any coding assistant. I personally use it with OpenCode and Hermes. Can do automation and agent tasks, large context tasks, and reasoning tasks. And of course can be used for just general tasks. For the automation the community is already integrating with n8n and doing some automations from telegram for free.\nLanding page generated with Agnes: https://codebuddy.work/agents/share/H4zVVxaFpU2I2UDcVSJAg-MH... Image - Agnes-Image-2.1-Flash: Text-to-image and image editing available. It can generate up to 4k images. For the rankings also can check Artificial Analysis image editing leaderboard.\nHere is a 4K image generated: https://imgur.com/LkMHnr7 and https://imgur.com/a/0UsRiGX Video - Agnes-Video-V2.0: Text-to-Video and Image-to-Video. Also supports multiple images to video. Ranked on Artificial Analysis video leaderboard. Why free?\nWe want developers to actually use it and tell us what is broken, what is missing, and what works well. That feedback matters more to us right now than revenue. Also our mission is to make AI accessible to all. Things people have already built with it: A custom node pack for ComfyUI connecting Agnes image and text models, a coding agent skill supporting all Agnes 2.0 models ( https://github.com/lj1270998580-crypto/Agnes-help-skill ), Hermes integration for agentic local workflows ( https://x.com/decapostos/status/2065758852738416779 ) and much more. Links:\nThe official website: https://agnes-ai.com/ The API platform: https://platform.agnes-ai.com/ GitHub: https://github.com/AgnesAI-Labs/Agnes-AI (can check the model updates) Docs: https://agnes-ai.com/doc Discord: https://discord.gg/JAWe3YVYjr Text model benchmarks: https://claw-eval.github.io Image model leaderboard: https://artificialanalysis.ai/image/leaderboard/editing Video model leaderboard: https://artificialanalysis.ai/video/leaderboard/image-to-vid... Happy to answer any questions about the models, the API, or how we built things. Would love to hear what you build with it. Feel free to join our Discord community too, lots of people sharing what they've made there. Thanks Comments URL: https://news.ycombinator.com/item?id=48657403 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48657403",
       "image": "",
-      "date": "2026-06-23T09:23:40+00:00"
+      "date": "2026-06-24T09:40:31+00:00"
     },
     {
-      "title": "What happens when OKF runs inside an AI tool",
-      "summary": "Article URL: https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48642106 Points: 4 # Comments: 0",
-      "url": "https://tenureai.dev/writing/open-knowledge-format-ai-memory-benchmark/",
-      "image": "https://tenureai.dev/og-image.png",
-      "date": "2026-06-23T08:42:10+00:00"
+      "title": "Edge AI Power Benchmarking",
+      "summary": "Article URL: https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/ Comments URL: https://news.ycombinator.com/item?id=48657168 Points: 1 # Comments: 0",
+      "url": "https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/",
+      "image": "https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/edgeaipower_part06.gif",
+      "date": "2026-06-24T09:10:27+00:00"
     },
     {
-      "title": "AI Built a Nuke and Still Lost",
-      "summary": "Article URL: https://www.lwilko.com/blog/i-gave-an-ai-a-civilization Comments URL: https://news.ycombinator.com/item?id=48641927 Points: 53 # Comments: 47",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "image": "https://lwilko.com/blog/i-gave-an-ai-a-civilization/opengraph-image?e9f77e0c8e60ce42",
-      "date": "2026-06-23T08:16:45+00:00"
-    },
-    {
-      "title": "New £1.1B plan to back chip firms, boost computing and skills for the AI",
-      "summary": "Article URL: https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution Comments URL: https://news.ycombinator.com/item?id=48641809 Points: 1 # Comments: 0",
-      "url": "https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution",
-      "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "date": "2026-06-23T08:03:03+00:00"
-    },
-    {
-      "title": "Artificial intelligence-based law firm wins in court",
-      "summary": "Article URL: https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court Comments URL: https://news.ycombinator.com/item?id=48641786 Points: 2 # Comments: 0",
-      "url": "https://www.computerweekly.com/news/366644941/Artificial-intelligence-based-law-firm-wins-in-court",
-      "image": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Justice-law-court-davidfranklin-adobe.jpg",
-      "date": "2026-06-23T08:00:20+00:00"
-    },
-    {
-      "title": "Don't waste Claude limits babysitting AI experiments",
-      "summary": "Article URL: https://heyneo.com/claude-code Comments URL: https://news.ycombinator.com/item?id=48641634 Points: 2 # Comments: 0",
-      "url": "https://heyneo.com/claude-code",
+      "title": "Show HN: AI Use Disclaimer",
+      "summary": "Hi HN, Here's a little website for a hobby project I have, and maybe the AI use disclaimer on it is useful to others. I believe it's a fundamental duty of open source maintainers to disclose the extent of their AI use on a per-project basis. The usual discussions here devolve into \"this is vibe coded\" for tools which may or may not be, and it's not great. I greatly dislike vibe-coding, but I believe in responsible tool use, such as responsible use of AI. The linked page is CC0, feel free to copy/take inspiration from, and do whatever you like. Only link back to the original if you want to. Comments URL: https://news.ycombinator.com/item?id=48657052 Points: 1 # Comments: 0",
+      "url": "https://libls.org/ai-use",
       "image": "",
-      "date": "2026-06-23T07:42:40+00:00"
+      "date": "2026-06-24T08:54:43+00:00"
     },
     {
-      "title": "AI Coding Traps Every Engineering Team Should Know",
-      "summary": "Article URL: https://jsdevspace.substack.com/p/the-8-ai-coding-traps-every-engineering Comments URL: https://news.ycombinator.com/item?id=48641615 Points: 3 # Comments: 0",
-      "url": "https://jsdevspace.substack.com/p/the-8-ai-coding-traps-every-engineering",
+      "title": "If AI Helped Me Write This, Is It Still Mine?",
+      "summary": "Article URL: https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write Comments URL: https://news.ycombinator.com/item?id=48656997 Points: 4 # Comments: 2",
+      "url": "https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write",
       "image": "",
-      "date": "2026-06-23T07:40:31+00:00"
+      "date": "2026-06-24T08:47:36+00:00"
     },
     {
-      "title": "The AI Poet",
-      "summary": "Article URL: https://www.johnderoulet.com/post/the-ai-poet Comments URL: https://news.ycombinator.com/item?id=48641505 Points: 1 # Comments: 0",
-      "url": "https://www.johnderoulet.com/post/the-ai-poet",
-      "image": "https://static.wixstatic.com/media/7e81c4_5a56f55a5c884cecbf026713b7a45514~mv2.jpg/v1/fill/w_960,h_785,al_c,q_85/7e81c4_5a56f55a5c884cecbf026713b7a45514~mv2.jpg",
-      "date": "2026-06-23T07:24:57+00:00"
+      "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/grok-build-0-1-06-16 Comments URL: https://news.ycombinator.com/item?id=48656943 Points: 3 # Comments: 2",
+      "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+      "image": "https://artificialanalysis.ai/models/grok-build-0-1-06-16/opengraph-image-oimwka?160c194f916e2ad0",
+      "date": "2026-06-24T08:41:07+00:00"
     },
     {
-      "title": "Sideways, Not Up: Why AI Is Not a New Abstraction Layer",
-      "summary": "Article URL: https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.html Comments URL: https://news.ycombinator.com/item?id=48641382 Points: 1 # Comments: 0",
-      "url": "https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.html",
-      "image": "https://www.sixsideddice.com/Blog/Thoughts/SidewaysNotUpWhyAIIsNotANewAbstractionLayer.png",
-      "date": "2026-06-23T07:08:44+00:00"
+      "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
+      "summary": "Article URL: https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright Comments URL: https://news.ycombinator.com/item?id=48656885 Points: 4 # Comments: 0",
+      "url": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright",
+      "image": "https://media.jacobin.com/images/2026/6/164866965760.jpg",
+      "date": "2026-06-24T08:32:21+00:00"
     },
     {
-      "title": "EGC – your AI never re-explains your project when you switch sessions",
-      "summary": "Article URL: https://dev.to/fmarzochi/i-got-tired-of-re-explaining-my-project-to-ai-every-session-so-i-built-egc-3k8e Comments URL: https://news.ycombinator.com/item?id=48641359 Points: 1 # Comments: 0",
-      "url": "https://dev.to/fmarzochi/i-got-tired-of-re-explaining-my-project-to-ai-every-session-so-i-built-egc-3k8e",
-      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5v6h6tk67u7h85buc5g7.png",
-      "date": "2026-06-23T07:04:57+00:00"
-    },
-    {
-      "title": "Current AI is like the film company producing TV series or movies",
-      "summary": "Article URL: https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/ Comments URL: https://news.ycombinator.com/item?id=48641141 Points: 1 # Comments: 0",
-      "url": "https://devcyc.life/current-ai-is-like-the-film-company-producing-tv-series-or-movies/",
+      "title": "EU joins US pact to break reliance on Chinese AI supply chains (no sovereignty)",
+      "summary": "Article URL: https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc Comments URL: https://news.ycombinator.com/item?id=48656840 Points: 4 # Comments: 3",
+      "url": "https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc",
       "image": "",
-      "date": "2026-06-23T06:29:55+00:00"
+      "date": "2026-06-24T08:26:58+00:00"
     },
     {
-      "title": "Will AI Kill Taylor Swifts: The Rise of Ultra-Personalized Music",
-      "summary": "Article URL: https://ryanspahn.substack.com/p/how-listening-to-only-ai-music-changes Comments URL: https://news.ycombinator.com/item?id=48640834 Points: 1 # Comments: 0",
-      "url": "https://ryanspahn.substack.com/p/how-listening-to-only-ai-music-changes",
+      "title": "GitHub Is Becoming a Giant AI Code Dump",
+      "summary": "Article URL: https://maref.cc/en/blog/vibe-coding-crisis/ Comments URL: https://news.ycombinator.com/item?id=48656807 Points: 22 # Comments: 23",
+      "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
+      "image": "https://maref.cc/images/og-image.svg",
+      "date": "2026-06-24T08:21:59+00:00"
+    },
+    {
+      "title": "Oxford's top maths professor: 'The devil could use AI to destroy the world'",
+      "summary": "Article URL: https://www.telegraph.co.uk/books/non-fiction/interview-oxford-professor-john-lennox/ Comments URL: https://news.ycombinator.com/item?id=48656348 Points: 1 # Comments: 0",
+      "url": "https://www.telegraph.co.uk/books/non-fiction/interview-oxford-professor-john-lennox/",
+      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/06/17/TELEMMGLPICT000490833104_178169048691410_trans_NvBQzQNjv4BqMFP1etkeE_8nnPHIJEDtI_4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
+      "date": "2026-06-24T07:18:30+00:00"
+    },
+    {
+      "title": "Oracle's 21,000 layoffs help drive its debt-fueled AI investments",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/ Comments URL: https://news.ycombinator.com/item?id=48656245 Points: 3 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
+      "date": "2026-06-24T07:04:43+00:00"
+    },
+    {
+      "title": "AI Steps Off the Screen",
+      "summary": "Article URL: https://epics.tech/posts/2026-06-23-ai-steps-off-the-screen/ Comments URL: https://news.ycombinator.com/item?id=48655738 Points: 2 # Comments: 0",
+      "url": "https://epics.tech/posts/2026-06-23-ai-steps-off-the-screen/",
+      "image": "https://epics.tech/og/default.png",
+      "date": "2026-06-24T05:59:53+00:00"
+    },
+    {
+      "title": "New AI tools in darktable 5.6",
+      "summary": "Article URL: https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48655147 Points: 1 # Comments: 0",
+      "url": "https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/",
+      "image": "https://www.darktable.org/images/darktable-logo-only-512w.png",
+      "date": "2026-06-24T04:32:20+00:00"
+    },
+    {
+      "title": "Ask HN: How important is college after AI?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48655137 Points: 2 # Comments: 4",
+      "url": "https://news.ycombinator.com/item?id=48655137",
       "image": "",
-      "date": "2026-06-23T05:46:13+00:00"
+      "date": "2026-06-24T04:30:36+00:00"
     }
   ]
 }
