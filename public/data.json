@@ -1,103 +1,96 @@
 {
-  "generated_at": "2026-06-24T09:49:12.896051+00:00",
+  "generated_at": "2026-06-25T09:42:15.103060+00:00",
   "items": [
     {
-      "title": "Show HN: 2026 ASO Complete Guide (With 2025 OCR/AI Tags Update)",
-      "summary": "Article URL: https://launchshots.app/blog/app-store-optimization-complete-guide-2026 Comments URL: https://news.ycombinator.com/item?id=48657435 Points: 2 # Comments: 0",
-      "url": "https://launchshots.app/blog/app-store-optimization-complete-guide-2026",
-      "image": "https://launchshots.app/blog-images/img-20260624-05975b1f6239992d.webp",
-      "date": "2026-06-24T09:45:05+00:00"
+      "title": "The AI Coding Era Makes Boring Tests More Valuable",
+      "summary": "Article URL: https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/ Comments URL: https://news.ycombinator.com/item?id=48670935 Points: 1 # Comments: 0",
+      "url": "https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/",
+      "image": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
+      "date": "2026-06-25T09:10:33+00:00"
     },
     {
-      "title": "Show HN: Agnes AI – Free multimodal API (text, image, video), OpenAI-compatible",
-      "summary": "Hi HN, I'm Daniel, part of the team at Agnes AI, a Singapore-based AI lab. We've been building quietly for a while and I wanted to share what we've made with this community and get honest feedback from people who actually build things. What is Agnes AI?\nAgnes AI gives you access to three models through a single free API. We have text, image and video models. The API is fully OpenAI-compatible, so you can just swap the base URL to https://apihub.agnes-ai.com/v1 and use your Agnes API key. No other changes needed in your existing code. It is completely free. No need to submit any kind of payment information. After registration there will be a default balance so that you can create your API keys. You sign up, get a key, and start building. Thanks to the community, we hit 4T API calls in just one week, and it keeps growing. We are also ranked as a top 10 AI lab on benchmarks. Our biggest advantage is that the free API is fully multimodal, so you can use text, image and video generation all without limits. The models:\nText - Agnes-2.0-Flash: It has 512k context window (in a week or two it will be 1M). There are reasoning/thinking modes, tool calling, image URL input and streaming support. Ranked 9th in general tasks on Claw-Eval. Can be used with any coding assistant. I personally use it with OpenCode and Hermes. Can do automation and agent tasks, large context tasks, and reasoning tasks. And of course can be used for just general tasks. For the automation the community is already integrating with n8n and doing some automations from telegram for free.\nLanding page generated with Agnes: https://codebuddy.work/agents/share/H4zVVxaFpU2I2UDcVSJAg-MH... Image - Agnes-Image-2.1-Flash: Text-to-image and image editing available. It can generate up to 4k images. For the rankings also can check Artificial Analysis image editing leaderboard.\nHere is a 4K image generated: https://imgur.com/LkMHnr7 and https://imgur.com/a/0UsRiGX Video - Agnes-Video-V2.0: Text-to-Video and Image-to-Video. Also supports multiple images to video. Ranked on Artificial Analysis video leaderboard. Why free?\nWe want developers to actually use it and tell us what is broken, what is missing, and what works well. That feedback matters more to us right now than revenue. Also our mission is to make AI accessible to all. Things people have already built with it: A custom node pack for ComfyUI connecting Agnes image and text models, a coding agent skill supporting all Agnes 2.0 models ( https://github.com/lj1270998580-crypto/Agnes-help-skill ), Hermes integration for agentic local workflows ( https://x.com/decapostos/status/2065758852738416779 ) and much more. Links:\nThe official website: https://agnes-ai.com/ The API platform: https://platform.agnes-ai.com/ GitHub: https://github.com/AgnesAI-Labs/Agnes-AI (can check the model updates) Docs: https://agnes-ai.com/doc Discord: https://discord.gg/JAWe3YVYjr Text model benchmarks: https://claw-eval.github.io Image model leaderboard: https://artificialanalysis.ai/image/leaderboard/editing Video model leaderboard: https://artificialanalysis.ai/video/leaderboard/image-to-vid... Happy to answer any questions about the models, the API, or how we built things. Would love to hear what you build with it. Feel free to join our Discord community too, lots of people sharing what they've made there. Thanks Comments URL: https://news.ycombinator.com/item?id=48657403 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48657403",
+      "title": "Open Source Maintainers Need a Spam Filter for AI Labor",
+      "summary": "Article URL: https://www.vincentschmalbach.com/open-source-maintainers-need-a-spam-filter-for-ai-labor/ Comments URL: https://news.ycombinator.com/item?id=48670879 Points: 4 # Comments: 0",
+      "url": "https://www.vincentschmalbach.com/open-source-maintainers-need-a-spam-filter-for-ai-labor/",
+      "image": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
+      "date": "2026-06-25T09:03:47+00:00"
+    },
+    {
+      "title": "Using mirrord to verify AI-SRE fixes against the staging cluster",
+      "summary": "Article URL: https://metalbear.com/blog/ai-sre-holmesgpt/ Comments URL: https://news.ycombinator.com/item?id=48670846 Points: 1 # Comments: 0",
+      "url": "https://metalbear.com/blog/ai-sre-holmesgpt/",
+      "image": "https://metalbear.com/blog/ai-sre-holmesgpt/thumbnail.png",
+      "date": "2026-06-25T08:58:31+00:00"
+    },
+    {
+      "title": "Real-world impact of AI adoption. \"Acceleration whiplash\"",
+      "summary": "Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48670499 Points: 1 # Comments: 0",
+      "url": "https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways",
+      "image": "https://cdn.prod.website-files.com/695be6d603b11be779b0b9b2/69d79a350fb460c1cbcfe675_10%20takeaways%20from%20the%20Acceleration%20Whiplash%20report.webp",
+      "date": "2026-06-25T08:18:12+00:00"
+    },
+    {
+      "title": "Ask HN: What's your favorite AI tool for front end design?",
+      "summary": "Google stitch, Claude code, lovable, … Lots of options, they’re all awful in my experience, what’s the least worst at this point in time? Comments URL: https://news.ycombinator.com/item?id=48670254 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48670254",
       "image": "",
-      "date": "2026-06-24T09:40:31+00:00"
+      "date": "2026-06-25T07:47:43+00:00"
     },
     {
-      "title": "Edge AI Power Benchmarking",
-      "summary": "Article URL: https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/ Comments URL: https://news.ycombinator.com/item?id=48657168 Points: 1 # Comments: 0",
-      "url": "https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/",
-      "image": "https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/edgeaipower_part06.gif",
-      "date": "2026-06-24T09:10:27+00:00"
+      "title": "Show HN: MAVS-GC – An Open-Source Governance Architecture for AI Systems",
+      "summary": "Hey HN,\nFor some period of the time, I have been working on an open source project called MAVS-GC (Multi Adaptive Vetting Systems-Governance Core). The project explores whether introducing an explicit governance layer on top of multiple specialists can change system behavior under adverse conditions. Instead of focusing solely on prediction aggregation, the governance layer evaluates specialists, aggregates diagnostic signals, adjusts trust, performs bounded mitigation, and produces an auditable decision trace. So far I've completed three benchmarks covering:\na- Predictive Performance.\nb- Robustness under multiple corruption families.\nc- Reproducibility and stability. From these benchmarks, we see that MAVS-GC has competitive predictive performance. However,the more interesting behavior appeared under severe corruption. Across high-corruption conditions (corruption level ≥ 0.6), MAVS-GC achieved 85.30% accuracy with 0.45% unsafe acceptance, while the ensemble baselines averaged 43.24% accuracy with 67.61% unsafe acceptance. The reproducibility benchmarks also showed stronger prediction, decision, consensus, and trace stability under corruption, although these improvements came with increased rejection rates. So for here atleast this is it, I'd genuinely accept any suggestions or critisicms of the architecture. The link of pdf is provided in it there are also repos of the in-respect benchmarks. However, for those of you who want to get straight to the code, here it is. https://github.com/orgs/MAVS-RESEARCH/repositories Comments URL: https://news.ycombinator.com/item?id=48670176 Points: 1 # Comments: 0",
+      "url": "https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing",
+      "image": "https://lh7-us.googleusercontent.com/docs/AHkbwyI-N1Cvrzp0oo4aDiWHF3ak-wttErA6rDRUlKiGlrqDRCcH8lzHSHydOe23vD-sIoSPS3RCxfcAttynThHX7Si3l40smF5cvA1J0BpdEXKxPuAKu7Ck=w1200-h630-p",
+      "date": "2026-06-25T07:35:02+00:00"
     },
     {
-      "title": "Show HN: AI Use Disclaimer",
-      "summary": "Hi HN, Here's a little website for a hobby project I have, and maybe the AI use disclaimer on it is useful to others. I believe it's a fundamental duty of open source maintainers to disclose the extent of their AI use on a per-project basis. The usual discussions here devolve into \"this is vibe coded\" for tools which may or may not be, and it's not great. I greatly dislike vibe-coding, but I believe in responsible tool use, such as responsible use of AI. The linked page is CC0, feel free to copy/take inspiration from, and do whatever you like. Only link back to the original if you want to. Comments URL: https://news.ycombinator.com/item?id=48657052 Points: 1 # Comments: 0",
-      "url": "https://libls.org/ai-use",
+      "title": "Best of AI is now open source",
+      "summary": "Article URL: https://bestofai.io/journal/best-of-ai-is-now-open-source/ Comments URL: https://news.ycombinator.com/item?id=48670160 Points: 4 # Comments: 0",
+      "url": "https://bestofai.io/journal/best-of-ai-is-now-open-source/",
+      "image": "https://bestofai.io/img/preview.png",
+      "date": "2026-06-25T07:33:26+00:00"
+    },
+    {
+      "title": "632nm Podcast: John Bowers – Silicon Photonics and the Future of AI Scaling [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=fjQ3Yorw-Ps Comments URL: https://news.ycombinator.com/item?id=48670046 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=fjQ3Yorw-Ps",
       "image": "",
-      "date": "2026-06-24T08:54:43+00:00"
+      "date": "2026-06-25T07:19:13+00:00"
     },
     {
-      "title": "If AI Helped Me Write This, Is It Still Mine?",
-      "summary": "Article URL: https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write Comments URL: https://news.ycombinator.com/item?id=48656997 Points: 4 # Comments: 2",
-      "url": "https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write",
+      "title": "Did AI write this article?",
+      "summary": "Article URL: https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article Comments URL: https://news.ycombinator.com/item?id=48669812 Points: 3 # Comments: 0",
+      "url": "https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article",
       "image": "",
-      "date": "2026-06-24T08:47:36+00:00"
+      "date": "2026-06-25T06:40:00+00:00"
     },
     {
-      "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/grok-build-0-1-06-16 Comments URL: https://news.ycombinator.com/item?id=48656943 Points: 3 # Comments: 2",
-      "url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-      "image": "https://artificialanalysis.ai/models/grok-build-0-1-06-16/opengraph-image-oimwka?160c194f916e2ad0",
-      "date": "2026-06-24T08:41:07+00:00"
+      "title": "Is AI Coming for Our Jobs?",
+      "summary": "Article URL: https://jacobin.com/2026/02/ai-technology-productivity-growth-job-loss Comments URL: https://news.ycombinator.com/item?id=48669786 Points: 3 # Comments: 0",
+      "url": "https://jacobin.com/2026/02/ai-technology-productivity-growth-job-loss",
+      "image": "https://media.jacobin.com/images/2026/2/043761919665.jpg",
+      "date": "2026-06-25T06:34:42+00:00"
     },
     {
-      "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
-      "summary": "Article URL: https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright Comments URL: https://news.ycombinator.com/item?id=48656885 Points: 4 # Comments: 0",
-      "url": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright",
-      "image": "https://media.jacobin.com/images/2026/6/164866965760.jpg",
-      "date": "2026-06-24T08:32:21+00:00"
+      "title": "The Tokenpocalypse:Companies Are Scrambling to Stop Spending So Much on AI",
+      "summary": "Article URL: https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48669778 Points: 3 # Comments: 2",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/token-chewer.png",
+      "date": "2026-06-25T06:33:52+00:00"
     },
     {
-      "title": "EU joins US pact to break reliance on Chinese AI supply chains (no sovereignty)",
-      "summary": "Article URL: https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc Comments URL: https://news.ycombinator.com/item?id=48656840 Points: 4 # Comments: 3",
-      "url": "https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc",
+      "title": "Make AI Boring Again",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/make-ai-boring-again Comments URL: https://news.ycombinator.com/item?id=48669707 Points: 3 # Comments: 0",
+      "url": "https://charitydotwtf.substack.com/p/make-ai-boring-again",
       "image": "",
-      "date": "2026-06-24T08:26:58+00:00"
+      "date": "2026-06-25T06:23:21+00:00"
     },
     {
-      "title": "GitHub Is Becoming a Giant AI Code Dump",
-      "summary": "Article URL: https://maref.cc/en/blog/vibe-coding-crisis/ Comments URL: https://news.ycombinator.com/item?id=48656807 Points: 22 # Comments: 23",
-      "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
-      "image": "https://maref.cc/images/og-image.svg",
-      "date": "2026-06-24T08:21:59+00:00"
-    },
-    {
-      "title": "Oxford's top maths professor: 'The devil could use AI to destroy the world'",
-      "summary": "Article URL: https://www.telegraph.co.uk/books/non-fiction/interview-oxford-professor-john-lennox/ Comments URL: https://news.ycombinator.com/item?id=48656348 Points: 1 # Comments: 0",
-      "url": "https://www.telegraph.co.uk/books/non-fiction/interview-oxford-professor-john-lennox/",
-      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/06/17/TELEMMGLPICT000490833104_178169048691410_trans_NvBQzQNjv4BqMFP1etkeE_8nnPHIJEDtI_4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
-      "date": "2026-06-24T07:18:30+00:00"
-    },
-    {
-      "title": "Oracle's 21,000 layoffs help drive its debt-fueled AI investments",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/ Comments URL: https://news.ycombinator.com/item?id=48656245 Points: 3 # Comments: 0",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
-      "date": "2026-06-24T07:04:43+00:00"
-    },
-    {
-      "title": "AI Steps Off the Screen",
-      "summary": "Article URL: https://epics.tech/posts/2026-06-23-ai-steps-off-the-screen/ Comments URL: https://news.ycombinator.com/item?id=48655738 Points: 2 # Comments: 0",
-      "url": "https://epics.tech/posts/2026-06-23-ai-steps-off-the-screen/",
-      "image": "https://epics.tech/og/default.png",
-      "date": "2026-06-24T05:59:53+00:00"
-    },
-    {
-      "title": "New AI tools in darktable 5.6",
-      "summary": "Article URL: https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48655147 Points: 1 # Comments: 0",
-      "url": "https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/",
-      "image": "https://www.darktable.org/images/darktable-logo-only-512w.png",
-      "date": "2026-06-24T04:32:20+00:00"
-    },
-    {
-      "title": "Ask HN: How important is college after AI?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48655137 Points: 2 # Comments: 4",
-      "url": "https://news.ycombinator.com/item?id=48655137",
+      "title": "How Big Tech Hides the True Cost of the AI Buildout [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=YrJzjC4kKCY Comments URL: https://news.ycombinator.com/item?id=48669500 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=YrJzjC4kKCY",
       "image": "",
-      "date": "2026-06-24T04:30:36+00:00"
+      "date": "2026-06-25T05:55:14+00:00"
     }
   ]
 }
