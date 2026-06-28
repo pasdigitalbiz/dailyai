@@ -1,110 +1,103 @@
 {
-  "generated_at": "2026-06-27T08:48:19.172388+00:00",
+  "generated_at": "2026-06-28T09:30:13.109559+00:00",
   "items": [
     {
-      "title": "The Calculator Discipline – AI-Assisted Disclosure Hallucinations",
-      "summary": "Article URL: https://zenodo.org/records/20393083 Comments URL: https://news.ycombinator.com/item?id=48696134 Points: 1 # Comments: 0",
-      "url": "https://zenodo.org/records/20393083",
+      "title": "If You Can Facilitate a Retrospective, You Can Audit Your AI",
+      "summary": "Article URL: https://age-of-product.com/ai-delegation-audit/ Comments URL: https://news.ycombinator.com/item?id=48705737 Points: 1 # Comments: 0",
+      "url": "https://age-of-product.com/ai-delegation-audit/",
       "image": "",
-      "date": "2026-06-27T07:52:47+00:00"
+      "date": "2026-06-28T09:21:55+00:00"
     },
     {
-      "title": "There's Been a Subtle Shift in the AI Zeitgeist",
-      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist Comments URL: https://news.ycombinator.com/item?id=48695731 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-a-subtle-shift-in-the-ai-zeitgeist",
+      "title": "You can now run Max AI models on Apple Silicon",
+      "summary": "Article URL: https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283 Comments URL: https://news.ycombinator.com/item?id=48705585 Points: 1 # Comments: 0",
+      "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+      "image": "https://us1.discourse-cdn.com/flex001/uploads/modular/original/1X/2751e0fbdc595a99718b216730957e9db4448cfd.jpeg",
+      "date": "2026-06-28T08:55:28+00:00"
+    },
+    {
+      "title": "Google rejects claims of AI in Search hurting web traffic",
+      "summary": "Article URL: https://indianexpress.com/article/technology/artificial-intelligence/google-denies-ai-search-hurting-web-traffic-quality-clicks-10174967/ Comments URL: https://news.ycombinator.com/item?id=48705468 Points: 1 # Comments: 0",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-denies-ai-search-hurting-web-traffic-quality-clicks-10174967/",
+      "image": "https://images.indianexpress.com/2025/08/Tech-feature-images34.jpg",
+      "date": "2026-06-28T08:27:32+00:00"
+    },
+    {
+      "title": "The Real Cost of Using AI in 2026",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai Comments URL: https://news.ycombinator.com/item?id=48705401 Points: 2 # Comments: 0",
+      "url": "https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai",
       "image": "",
-      "date": "2026-06-27T06:30:52+00:00"
+      "date": "2026-06-28T08:14:38+00:00"
     },
     {
-      "title": "Why SpaceX Is the McDonald's of AI",
-      "summary": "Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html Comments URL: https://news.ycombinator.com/item?id=48695727 Points: 2 # Comments: 1",
-      "url": "https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html",
-      "image": "https://www.computerworld.com/wp-content/uploads/2026/06/4189645-0-20980400-1782468177-visual-karsa-y8fS7CSN-Vw-unsplash.jpg?quality=50&strip=all&w=1024",
-      "date": "2026-06-27T06:30:07+00:00"
+      "title": "Policymakers can prep for a potential AI job apocalypse",
+      "summary": "Article URL: https://www.wordsinsearchlight.org/p/how-policymakers-can-prep-for-a-potential Comments URL: https://news.ycombinator.com/item?id=48705339 Points: 1 # Comments: 0",
+      "url": "https://www.wordsinsearchlight.org/p/how-policymakers-can-prep-for-a-potential",
+      "image": "https://substackcdn.com/image/fetch/$s_!8Lr3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb17cc91-a8d1-4ef5-9d75-e3d6927ab5cc_1920x1080.jpeg",
+      "date": "2026-06-28T08:01:01+00:00"
     },
     {
-      "title": "Democrats and Republicans agree: AI is scary",
-      "summary": "Article URL: https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary Comments URL: https://news.ycombinator.com/item?id=48695504 Points: 2 # Comments: 0",
-      "url": "https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary",
+      "title": "AI Is the Best Thing to Happen to Security",
+      "summary": "Article URL: https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/ Comments URL: https://news.ycombinator.com/item?id=48705198 Points: 2 # Comments: 0",
+      "url": "https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/",
+      "image": "https://badshah.io/images/blog/2026-06-28-AI-Security.webp",
+      "date": "2026-06-28T07:28:33+00:00"
+    },
+    {
+      "title": "Pentagon Sees Bigger Role for AI in Setting Military Targets",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets Comments URL: https://news.ycombinator.com/item?id=48704962 Points: 3 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets",
       "image": "",
-      "date": "2026-06-27T05:43:21+00:00"
+      "date": "2026-06-28T06:38:05+00:00"
     },
     {
-      "title": "Ford execs say they made a mistake when they replaced human engineers with AI",
-      "summary": "Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48695489 Points: 2 # Comments: 0",
-      "url": "https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/",
-      "image": "https://cdn.neowin.com/news/images/uploaded/2026/06/1782442950_ford-logo_story.webp",
-      "date": "2026-06-27T05:38:46+00:00"
+      "title": "AI Assistant for Amazon",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo Comments URL: https://news.ycombinator.com/item?id=48704938 Points: 2 # Comments: 0",
+      "url": "https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo",
+      "image": "https://lh3.googleusercontent.com/TPOHrxq-9TerKJhogGBiFVQoxMACueyc7XooNjL9rJODdZ6qoovhhoNSjORBVFJJgsMbH8hxzG9MOJiZsAqha2mTCA=s128-rj-sc0x00ffffff",
+      "date": "2026-06-28T06:32:42+00:00"
     },
     {
-      "title": "We measured whether AI obeys architecture rules. Even Opus ignored them 60%",
-      "summary": "Article URL: https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture Comments URL: https://news.ycombinator.com/item?id=48695487 Points: 3 # Comments: 0",
-      "url": "https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture",
+      "title": "Google caps Meta's Gemini use as AI demand strains capacity",
+      "summary": "Article URL: https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378 Comments URL: https://news.ycombinator.com/item?id=48704836 Points: 4 # Comments: 0",
+      "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
       "image": "",
-      "date": "2026-06-27T05:38:30+00:00"
+      "date": "2026-06-28T06:05:37+00:00"
     },
     {
-      "title": "What Is an AI Intelligence Layer for Business Data?",
-      "summary": "Article URL: https://www.corpusiq.io/blog/what-is-ai-intelligence-layer-business-data Comments URL: https://news.ycombinator.com/item?id=48695444 Points: 2 # Comments: 0",
-      "url": "https://www.corpusiq.io/blog/what-is-ai-intelligence-layer-business-data",
-      "image": "https://www.corpusiq.io/blog/og/ai-intelligence-layer.png",
-      "date": "2026-06-27T05:31:30+00:00"
-    },
-    {
-      "title": "AI glasses help students cheat in exams – test-obsessed Asia is ground zero",
-      "summary": "Article URL: https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero Comments URL: https://news.ycombinator.com/item?id=48695248 Points: 5 # Comments: 1",
-      "url": "https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--8FLdZY4v--/t_tohu-badge-facebook/f_auto/q_auto/4JMDKDQ_AFP__20260307__cros_mobilewo260305_npFbt__v1__HighRes__MobileWorldCongress_jpg",
-      "date": "2026-06-27T04:53:07+00:00"
-    },
-    {
-      "title": "Isn't US Government trying to monopolize AI as a super power?",
-      "summary": "The US government recently gave a directive to OpenAI to delay the launch of it Fable 5 rival GPT 5.6 Sol. This comes after they have already put on hold the global public release of Claude Fable 5. Isn't this just creating an AI monopoly, where the most powerful AI models are restricted to only 'trusted US organization'? Comments URL: https://news.ycombinator.com/item?id=48694991 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48694991",
+      "title": "AI is creating America's next underclass",
+      "summary": "Article URL: https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/ Comments URL: https://news.ycombinator.com/item?id=48704759 Points: 2 # Comments: 1",
+      "url": "https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/",
       "image": "",
-      "date": "2026-06-27T03:57:33+00:00"
+      "date": "2026-06-28T05:49:53+00:00"
     },
     {
-      "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
-      "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/ Comments URL: https://news.ycombinator.com/item?id=48694885 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "title": "Oracle stock worst week since 2001 dot-com bust, AI financing concerns escalate",
+      "summary": "Article URL: https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html Comments URL: https://news.ycombinator.com/item?id=48704720 Points: 4 # Comments: 1",
+      "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1782510496&w=1920&h=1080",
+      "date": "2026-06-28T05:41:20+00:00"
+    },
+    {
+      "title": "How to Spot AI Maps",
+      "summary": "Article URL: https://warmapper.substack.com/p/how-to-spot-ai-maps Comments URL: https://news.ycombinator.com/item?id=48704490 Points: 3 # Comments: 0",
+      "url": "https://warmapper.substack.com/p/how-to-spot-ai-maps",
       "image": "",
-      "date": "2026-06-27T03:35:55+00:00"
+      "date": "2026-06-28T04:55:24+00:00"
     },
     {
-      "title": "Love Conquers Fear: Humanity, AI, and the Age of Abundance for All",
-      "summary": "Article URL: https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5 Comments URL: https://news.ycombinator.com/item?id=48694760 Points: 1 # Comments: 0",
-      "url": "https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5",
+      "title": "AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48704271 Points: 2 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers",
       "image": "",
-      "date": "2026-06-27T03:08:42+00:00"
+      "date": "2026-06-28T04:13:55+00:00"
     },
     {
-      "title": "Threats to US payment rails helped trigger Bessent's AI worries",
-      "summary": "Article URL: https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails Comments URL: https://news.ycombinator.com/item?id=48694728 Points: 2 # Comments: 0",
-      "url": "https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails",
-      "image": "https://img.semafor.com/58b09d26d9e245c60ec96c473123de49300607a8-4752x3168.jpg?rect=0,337,4752,2495&w=1200&h=630&q=75&auto=format",
-      "date": "2026-06-27T03:02:28+00:00"
-    },
-    {
-      "title": "AI Erodes a Legacy of Reading",
-      "summary": "Article URL: https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading Comments URL: https://news.ycombinator.com/item?id=48694322 Points: 11 # Comments: 4",
-      "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
-      "image": "",
-      "date": "2026-06-27T01:39:43+00:00"
-    },
-    {
-      "title": "Show HN: Boot a tiny app-making OS inside an AI chat",
-      "summary": "Article URL: https://hollingsworthd.github.io/RAu/ Comments URL: https://news.ycombinator.com/item?id=48694257 Points: 1 # Comments: 1",
-      "url": "https://hollingsworthd.github.io/RAu/",
-      "image": "",
-      "date": "2026-06-27T01:28:33+00:00"
-    },
-    {
-      "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
-      "summary": "Article URL: https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626 Comments URL: https://news.ycombinator.com/item?id=48694123 Points: 5 # Comments: 5",
-      "url": "https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626",
-      "image": "",
-      "date": "2026-06-27T01:10:03+00:00"
+      "title": "Virtual AI police chief introduced in Osaka amid rising imposter scams",
+      "summary": "Article URL: https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c Comments URL: https://news.ycombinator.com/item?id=48704142 Points: 2 # Comments: 0",
+      "url": "https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c",
+      "image": "https://cdn.mainichi.jp/vol1/2026/06/27/20260627p2g00m0na028000p/0c10.jpg?1",
+      "date": "2026-06-28T03:47:13+00:00"
     }
   ]
 }
