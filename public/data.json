@@ -1,4 +1,75 @@
 {
-  "generated_at": "2026-07-02T09:29:41.896125+00:00",
-  "items": []
+  "generated_at": "2026-07-03T09:32:42.805551+00:00",
+  "items": [
+    {
+      "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
+      "summary": "I run GrowthSpree, a B2B SaaS marketing agency, selling into the US and Europe. Six months ago we made a bet that the agency model itself was broken for the AI era, so we tore ours down and rebuilt it. This is what we did and what actually happened. The bet: become the first truly AI-native marketing agency. Not an agency that \"uses AI tools\" by bolting ChatGPT onto a 2015 workflow, but one where AI is wired into how we find demand, win clients, and run delivery. We rebuilt the operating model, not just the toolbar. The context that matters: we have worked with 300+ B2B SaaS companies, but we'd been stuck between $500K and $800K ARR for two years. Plateaued. Then in the six months since the rebuild we went to $1.5M, almost entirely in the US and Europe, where we had no brand. Clients now include Datahub, PriceLabs, Hasura, Rocketlane, Proton AG, Spoke and more. What changed: 1. We bet on AEO over SEO. Buyers now ask an LLM before they ask Google. So we built our own Answer Engine Optimization engine in-house and pointed it at how models actually retrieve, rank, and cite sources. It became our primary channel for demand capture and trust-building in markets where nobody knew us. Being the answer the model gives is the new being on page one, and it compounds. 2. We dogfood our own GTM. The motion we sell clients is the one that grew us. It's cohort-led ABM: we build tight account cohorts from real buying signals, run an always-on LinkedIn warm-up that never switches off, layer multi-channel outreach across LinkedIn and email on top, then re-cohort people based on how they engage and loop it again. No spray-and-pray. AI does the research, segmentation, and first-draft messaging at a scale a manual team can't touch. 3. Closing got easier, not harder. Our close rate is at an all-time high: 40%, even on cold leads. When prospects can interrogate an AI about your space, keep landing on your thinking, and then get warmed up by relevant, specific outreach, the sales call starts with \"I already trust you\" instead of \"Who are you?\" Trust is now built before the first reply. 4. We shipped our own tooling. Two pieces do the heavy lifting: an MCP server for B2B marketing that lets AI agents act directly on our stack and data, pulling live numbers and taking actions instead of guessing from screenshots; and OLA AI, our LinkedIn ads optimization layer that manages bidding, audiences, and creative iteration at a cadence no human team can match. The point isn't the demos. It's that the same headcount now runs far more surface area, well. 5. We rewrote the SOPs. Most agency playbooks assume humans do the first draft and AI cleans up. We flipped it: AI does the first pass on research, targeting, copy, and analysis; senior people own judgment, taste, and the final call. Every process from prospecting to reporting to our own newsletter, The Compound, was rebuilt around that order of operations. 6. We run in closed cohorts of seniors only. No junior layer to babysit AI output. Small teams of experienced operators, each amplified by the tooling above, move fast because there's no telephone game. Higher quality and higher speed usually trade off against each other. With this structure, they stopped fighting and started compounding. The honest part: not all of this was clean. We killed processes we were proud of and retrained the team on a workflow that felt backwards at first. But the moment we stopped treating AI as an add-on and started treating it as the operating model, the numbers moved, and the work got better, not just cheaper. What I'd tell another founder: AI-native isn't a tool you buy, it's a structure you commit to. The leverage only shows up when you let it change who's on the team, how demand is captured, and what humans are actually for. Happy to answer questions in the comments, especially on AEO and the cohort-led loop. Comments URL: https://news.ycombinator.com/item?id=48772872 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48772872",
+      "image": "",
+      "date": "2026-07-03T09:24:59+00:00"
+    },
+    {
+      "title": "Godot says bye bye AI, bans vibe-coded contributions",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344 Comments URL: https://news.ycombinator.com/item?id=48772645 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
+      "image": "https://image.theregister.com/257171.jpg?imageId=257171&x=0&y=4.44&cropw=100&croph=95.56&panox=0&panoy=4.44&panow=100&panoh=95.56&width=1200&height=683",
+      "date": "2026-07-03T08:59:23+00:00"
+    },
+    {
+      "title": "The AI Superforecasters Are Here",
+      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48772586 Points: 1 # Comments: 0",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "image": "https://substackcdn.com/image/fetch/$s_!unI_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08546702-36cb-41d6-8047-6927a0e7c737_1024x1024.webp",
+      "date": "2026-07-03T08:52:00+00:00"
+    },
+    {
+      "title": "Achieving Operational Excellence with AI",
+      "summary": "Article URL: https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48771800 Points: 2 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
+      "date": "2026-07-03T07:04:21+00:00"
+    },
+    {
+      "title": "The Data Recipe for Teaching AI New Skills [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=I9F_VFfLTmM Comments URL: https://news.ycombinator.com/item?id=48771721 Points: 2 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=I9F_VFfLTmM",
+      "image": "",
+      "date": "2026-07-03T06:51:21+00:00"
+    },
+    {
+      "title": "Google's AI buildout drove 37% increase in electricity use in 2025",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/ Comments URL: https://news.ycombinator.com/item?id=48771627 Points: 6 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2246163658-2560x1440.jpg",
+      "date": "2026-07-03T06:36:59+00:00"
+    },
+    {
+      "title": "Ford rehires human engineers after AI fails to match quality checks",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48771466 Points: 3 # Comments: 1",
+      "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
+      "date": "2026-07-03T06:15:17+00:00"
+    },
+    {
+      "title": "Ask HN: What does a good day at work look like in the AI era?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48771421 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48771421",
+      "image": "",
+      "date": "2026-07-03T06:10:21+00:00"
+    },
+    {
+      "title": "AI is punishing game developers [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=59XdUJRzRxc Comments URL: https://news.ycombinator.com/item?id=48771229 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=59XdUJRzRxc",
+      "image": "",
+      "date": "2026-07-03T05:41:39+00:00"
+    },
+    {
+      "title": "I still enjoy building websites without AI",
+      "summary": "Article URL: https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48771003 Points: 4 # Comments: 1",
+      "url": "https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/",
+      "image": "",
+      "date": "2026-07-03T05:08:34+00:00"
+    }
+  ]
 }
