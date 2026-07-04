@@ -1,75 +1,124 @@
 {
-  "generated_at": "2026-07-03T09:32:42.805551+00:00",
+  "generated_at": "2026-07-04T08:48:57.380856+00:00",
   "items": [
     {
-      "title": "A B2B marketing agency grew to $1.5M ARR in 6 months by betting on AI",
-      "summary": "I run GrowthSpree, a B2B SaaS marketing agency, selling into the US and Europe. Six months ago we made a bet that the agency model itself was broken for the AI era, so we tore ours down and rebuilt it. This is what we did and what actually happened. The bet: become the first truly AI-native marketing agency. Not an agency that \"uses AI tools\" by bolting ChatGPT onto a 2015 workflow, but one where AI is wired into how we find demand, win clients, and run delivery. We rebuilt the operating model, not just the toolbar. The context that matters: we have worked with 300+ B2B SaaS companies, but we'd been stuck between $500K and $800K ARR for two years. Plateaued. Then in the six months since the rebuild we went to $1.5M, almost entirely in the US and Europe, where we had no brand. Clients now include Datahub, PriceLabs, Hasura, Rocketlane, Proton AG, Spoke and more. What changed: 1. We bet on AEO over SEO. Buyers now ask an LLM before they ask Google. So we built our own Answer Engine Optimization engine in-house and pointed it at how models actually retrieve, rank, and cite sources. It became our primary channel for demand capture and trust-building in markets where nobody knew us. Being the answer the model gives is the new being on page one, and it compounds. 2. We dogfood our own GTM. The motion we sell clients is the one that grew us. It's cohort-led ABM: we build tight account cohorts from real buying signals, run an always-on LinkedIn warm-up that never switches off, layer multi-channel outreach across LinkedIn and email on top, then re-cohort people based on how they engage and loop it again. No spray-and-pray. AI does the research, segmentation, and first-draft messaging at a scale a manual team can't touch. 3. Closing got easier, not harder. Our close rate is at an all-time high: 40%, even on cold leads. When prospects can interrogate an AI about your space, keep landing on your thinking, and then get warmed up by relevant, specific outreach, the sales call starts with \"I already trust you\" instead of \"Who are you?\" Trust is now built before the first reply. 4. We shipped our own tooling. Two pieces do the heavy lifting: an MCP server for B2B marketing that lets AI agents act directly on our stack and data, pulling live numbers and taking actions instead of guessing from screenshots; and OLA AI, our LinkedIn ads optimization layer that manages bidding, audiences, and creative iteration at a cadence no human team can match. The point isn't the demos. It's that the same headcount now runs far more surface area, well. 5. We rewrote the SOPs. Most agency playbooks assume humans do the first draft and AI cleans up. We flipped it: AI does the first pass on research, targeting, copy, and analysis; senior people own judgment, taste, and the final call. Every process from prospecting to reporting to our own newsletter, The Compound, was rebuilt around that order of operations. 6. We run in closed cohorts of seniors only. No junior layer to babysit AI output. Small teams of experienced operators, each amplified by the tooling above, move fast because there's no telephone game. Higher quality and higher speed usually trade off against each other. With this structure, they stopped fighting and started compounding. The honest part: not all of this was clean. We killed processes we were proud of and retrained the team on a workflow that felt backwards at first. But the moment we stopped treating AI as an add-on and started treating it as the operating model, the numbers moved, and the work got better, not just cheaper. What I'd tell another founder: AI-native isn't a tool you buy, it's a structure you commit to. The leverage only shows up when you let it change who's on the team, how demand is captured, and what humans are actually for. Happy to answer questions in the comments, especially on AEO and the cohort-led loop. Comments URL: https://news.ycombinator.com/item?id=48772872 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48772872",
+      "title": "Ask HN: Which AI model do you use for what?",
+      "summary": "I use Grok for scanning X since it has direct access to the platform. Gemini for fact-checking. Claude for coding. GPT for image generation. Comments URL: https://news.ycombinator.com/item?id=48783556 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48783556",
       "image": "",
-      "date": "2026-07-03T09:24:59+00:00"
+      "date": "2026-07-04T08:00:11+00:00"
     },
     {
-      "title": "Godot says bye bye AI, bans vibe-coded contributions",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344 Comments URL: https://news.ycombinator.com/item?id=48772645 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344",
-      "image": "https://image.theregister.com/257171.jpg?imageId=257171&x=0&y=4.44&cropw=100&croph=95.56&panox=0&panoy=4.44&panow=100&panoh=95.56&width=1200&height=683",
-      "date": "2026-07-03T08:59:23+00:00"
+      "title": "Radio Free AI: The voice of the resistance",
+      "summary": "Article URL: https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm Comments URL: https://news.ycombinator.com/item?id=48783422 Points: 1 # Comments: 1",
+      "url": "https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm",
+      "image": "https://i.scdn.co/image/ab6765630000ba8a7e800836b04016bc06a78240",
+      "date": "2026-07-04T07:37:39+00:00"
     },
     {
-      "title": "The AI Superforecasters Are Here",
-      "summary": "Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48772586 Points: 1 # Comments: 0",
-      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-      "image": "https://substackcdn.com/image/fetch/$s_!unI_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08546702-36cb-41d6-8047-6927a0e7c737_1024x1024.webp",
-      "date": "2026-07-03T08:52:00+00:00"
-    },
-    {
-      "title": "Achieving Operational Excellence with AI",
-      "summary": "Article URL: https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48771800 Points: 2 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
-      "date": "2026-07-03T07:04:21+00:00"
-    },
-    {
-      "title": "The Data Recipe for Teaching AI New Skills [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=I9F_VFfLTmM Comments URL: https://news.ycombinator.com/item?id=48771721 Points: 2 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=I9F_VFfLTmM",
+      "title": "AI Poisons Creativity [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw Comments URL: https://news.ycombinator.com/item?id=48783386 Points: 1 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=WeCSzEtZcUw",
       "image": "",
-      "date": "2026-07-03T06:51:21+00:00"
+      "date": "2026-07-04T07:31:37+00:00"
     },
     {
-      "title": "Google's AI buildout drove 37% increase in electricity use in 2025",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/ Comments URL: https://news.ycombinator.com/item?id=48771627 Points: 6 # Comments: 0",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2246163658-2560x1440.jpg",
-      "date": "2026-07-03T06:36:59+00:00"
-    },
-    {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48771466 Points: 3 # Comments: 1",
-      "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ad26/live/e5db0a70-73ad-11f1-9da1-db101e3ae6ed.jpg",
-      "date": "2026-07-03T06:15:17+00:00"
-    },
-    {
-      "title": "Ask HN: What does a good day at work look like in the AI era?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48771421 Points: 2 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=48771421",
+      "title": "Show HN: Much – Local-first AI workspace with in-browser Python (WASM) sandbox",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48783120 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48783120",
       "image": "",
-      "date": "2026-07-03T06:10:21+00:00"
+      "date": "2026-07-04T06:32:59+00:00"
     },
     {
-      "title": "AI is punishing game developers [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=59XdUJRzRxc Comments URL: https://news.ycombinator.com/item?id=48771229 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=59XdUJRzRxc",
-      "image": "",
-      "date": "2026-07-03T05:41:39+00:00"
+      "title": "How AI models would vote in Sweden",
+      "summary": "Article URL: https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for Comments URL: https://news.ycombinator.com/item?id=48782988 Points: 4 # Comments: 1",
+      "url": "https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for",
+      "image": "https://nordan.ai/og/valkompass-2026-v2.png",
+      "date": "2026-07-04T05:59:20+00:00"
     },
     {
-      "title": "I still enjoy building websites without AI",
-      "summary": "Article URL: https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48771003 Points: 4 # Comments: 1",
-      "url": "https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/",
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 22 # Comments: 63",
+      "url": "https://www.hyperstitionai.com/unslop-results",
       "image": "",
-      "date": "2026-07-03T05:08:34+00:00"
+      "date": "2026-07-04T05:37:25+00:00"
+    },
+    {
+      "title": "AI puts B Corps' values to the test",
+      "summary": "Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test Comments URL: https://news.ycombinator.com/item?id=48782817 Points: 1 # Comments: 1",
+      "url": "https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test",
+      "image": "",
+      "date": "2026-07-04T05:15:38+00:00"
+    },
+    {
+      "title": "Show HN: I replaced my $500/mo legal SaaS with an AI-generated toolkit",
+      "summary": "Built a complete legal document generation toolkit using AI that produces contracts, NDAs, and other legal templates. Replaced paying $500/month for a SaaS subscription. One-time purchase, works offline with any LLM. Comments URL: https://news.ycombinator.com/item?id=48782457 Points: 1 # Comments: 0",
+      "url": "https://maxiporonga.gumroad.com/l/ytruk",
+      "image": "https://assets.gumroad.com/images/opengraph_image.png",
+      "date": "2026-07-04T03:39:58+00:00"
+    },
+    {
+      "title": "Argentina's plan for AI-run companies can't avoid humans",
+      "summary": "Article URL: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782138 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+      "image": "",
+      "date": "2026-07-04T02:25:50+00:00"
+    },
+    {
+      "title": "How AI Made IKEA Workers 10x More Valuable (5 min video)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2ODq6IsmkhM Comments URL: https://news.ycombinator.com/item?id=48782054 Points: 3 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=2ODq6IsmkhM",
+      "image": "",
+      "date": "2026-07-04T02:08:06+00:00"
+    },
+    {
+      "title": "You take AI, I'll take my iPod (if I can find it)",
+      "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/ Comments URL: https://news.ycombinator.com/item?id=48781858 Points: 3 # Comments: 0",
+      "url": "https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/",
+      "image": "https://news.harvard.edu/wp-content/uploads/2026/06/ipod-tech.jpg",
+      "date": "2026-07-04T01:29:46+00:00"
+    },
+    {
+      "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
+      "summary": "Article URL: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/ Comments URL: https://news.ycombinator.com/item?id=48781828 Points: 2 # Comments: 0",
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "image": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1",
+      "date": "2026-07-04T01:23:56+00:00"
+    },
+    {
+      "title": "Context graphs: how AI agents remember why decisions were made",
+      "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48781571 Points: 3 # Comments: 0",
+      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+      "image": "https://storage.ghost.io/c/db/e7/dbe79357-2349-45c5-9230-4be384c8629b/content/images/size/w1200/2026/07/Screenshot-2026-07-03-at-1.13.09---AM.png",
+      "date": "2026-07-04T00:30:11+00:00"
+    },
+    {
+      "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom Comments URL: https://news.ycombinator.com/item?id=48781487 Points: 5 # Comments: 0",
+      "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/04/c38cdd4a-93dd-4b9a-8f15-d638e5e60106_c0e1d426.jpg?itok=c8TaBzul&v=1783117634",
+      "date": "2026-07-04T00:12:02+00:00"
+    },
+    {
+      "title": "Forget the AI bubble. The IMF says the real threat is the mountain of debt",
+      "summary": "Article URL: https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti Comments URL: https://news.ycombinator.com/item?id=48781375 Points: 5 # Comments: 0",
+      "url": "https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti",
+      "image": "",
+      "date": "2026-07-03T23:50:21+00:00"
+    },
+    {
+      "title": "Give your AI agent its own email inbox – MailKite",
+      "summary": "Article URL: https://mailkite.dev/blog/give-your-agent-an-inbox/ Comments URL: https://news.ycombinator.com/item?id=48781354 Points: 2 # Comments: 0",
+      "url": "https://mailkite.dev/blog/give-your-agent-an-inbox/",
+      "image": "https://mailkite.dev/og-default.png",
+      "date": "2026-07-03T23:47:29+00:00"
+    },
+    {
+      "title": "Coding without AI: a revolutionary new way to work",
+      "summary": "Article URL: https://isaaclyman.com/blog/posts/code-review/ Comments URL: https://news.ycombinator.com/item?id=48781256 Points: 2 # Comments: 0",
+      "url": "https://isaaclyman.com/blog/posts/code-review/",
+      "image": "",
+      "date": "2026-07-03T23:34:28+00:00"
     }
   ]
 }
