@@ -1,124 +1,82 @@
 {
-  "generated_at": "2026-07-04T08:48:57.380856+00:00",
+  "generated_at": "2026-07-05T09:20:34.875403+00:00",
   "items": [
     {
-      "title": "Ask HN: Which AI model do you use for what?",
-      "summary": "I use Grok for scanning X since it has direct access to the platform. Gemini for fact-checking. Claude for coding. GPT for image generation. Comments URL: https://news.ycombinator.com/item?id=48783556 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48783556",
+      "title": "Concentration of power in AI is a risk, by Andy Konwinski",
+      "summary": "Article URL: https://xcancel.com/i/article/2072830533739192560 Comments URL: https://news.ycombinator.com/item?id=48792463 Points: 2 # Comments: 0",
+      "url": "https://xcancel.com/i/article/2072830533739192560",
       "image": "",
-      "date": "2026-07-04T08:00:11+00:00"
+      "date": "2026-07-05T08:55:45+00:00"
     },
     {
-      "title": "Radio Free AI: The voice of the resistance",
-      "summary": "Article URL: https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm Comments URL: https://news.ycombinator.com/item?id=48783422 Points: 1 # Comments: 1",
-      "url": "https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm",
-      "image": "https://i.scdn.co/image/ab6765630000ba8a7e800836b04016bc06a78240",
-      "date": "2026-07-04T07:37:39+00:00"
-    },
-    {
-      "title": "AI Poisons Creativity [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw Comments URL: https://news.ycombinator.com/item?id=48783386 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=WeCSzEtZcUw",
+      "title": "Agentsnap – find which config change broke your AI agent",
+      "summary": "Article URL: https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48791885 Points: 1 # Comments: 0",
+      "url": "https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing",
       "image": "",
-      "date": "2026-07-04T07:31:37+00:00"
+      "date": "2026-07-05T06:57:32+00:00"
     },
     {
-      "title": "Show HN: Much – Local-first AI workspace with in-browser Python (WASM) sandbox",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48783120 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=48783120",
+      "title": "Google commercial imagines Declaration of Independence written with help from AI",
+      "summary": "Article URL: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48791713 Points: 4 # Comments: 1",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+      "date": "2026-07-05T06:21:03+00:00"
+    },
+    {
+      "title": "LLM's as a Different Kind of Intelligence",
+      "summary": "Article URL: https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48791650 Points: 2 # Comments: 0",
+      "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
       "image": "",
-      "date": "2026-07-04T06:32:59+00:00"
+      "date": "2026-07-05T06:07:35+00:00"
     },
     {
-      "title": "How AI models would vote in Sweden",
-      "summary": "Article URL: https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for Comments URL: https://news.ycombinator.com/item?id=48782988 Points: 4 # Comments: 1",
-      "url": "https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for",
-      "image": "https://nordan.ai/og/valkompass-2026-v2.png",
-      "date": "2026-07-04T05:59:20+00:00"
-    },
-    {
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "summary": "Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 22 # Comments: 63",
-      "url": "https://www.hyperstitionai.com/unslop-results",
+      "title": "New California study finds highly educated workers most harmed by AI",
+      "summary": "Article URL: https://www.sfgate.com/politics/article/california-ai-study-22321472.php Comments URL: https://news.ycombinator.com/item?id=48791406 Points: 3 # Comments: 0",
+      "url": "https://www.sfgate.com/politics/article/california-ai-study-22321472.php",
       "image": "",
-      "date": "2026-07-04T05:37:25+00:00"
+      "date": "2026-07-05T05:08:51+00:00"
     },
     {
-      "title": "AI puts B Corps' values to the test",
-      "summary": "Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test Comments URL: https://news.ycombinator.com/item?id=48782817 Points: 1 # Comments: 1",
-      "url": "https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test",
+      "title": "US and Chinese companies train almost all of the most-used AI models",
+      "summary": "Article URL: https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models Comments URL: https://news.ycombinator.com/item?id=48791385 Points: 4 # Comments: 0",
+      "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8a752728-35b2-4ec5-7b3b-ef5be7af5100/public",
+      "date": "2026-07-05T05:03:41+00:00"
+    },
+    {
+      "title": "Meituan Trained a 1.6T-Parameter AI Model Without Nvidia GPUs",
+      "summary": "Article URL: https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai Comments URL: https://news.ycombinator.com/item?id=48791366 Points: 3 # Comments: 1",
+      "url": "https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai",
       "image": "",
-      "date": "2026-07-04T05:15:38+00:00"
+      "date": "2026-07-05T04:59:15+00:00"
     },
     {
-      "title": "Show HN: I replaced my $500/mo legal SaaS with an AI-generated toolkit",
-      "summary": "Built a complete legal document generation toolkit using AI that produces contracts, NDAs, and other legal templates. Replaced paying $500/month for a SaaS subscription. One-time purchase, works offline with any LLM. Comments URL: https://news.ycombinator.com/item?id=48782457 Points: 1 # Comments: 0",
-      "url": "https://maxiporonga.gumroad.com/l/ytruk",
-      "image": "https://assets.gumroad.com/images/opengraph_image.png",
-      "date": "2026-07-04T03:39:58+00:00"
+      "title": "China's LongCat-2.0 Becomes the Biggest AI Model Without Nvidia Chips",
+      "summary": "Article URL: https://tech.yahoo.com/ai/articles/china-longcat-2-0-becomes-134258951.html Comments URL: https://news.ycombinator.com/item?id=48791362 Points: 6 # Comments: 1",
+      "url": "https://tech.yahoo.com/ai/articles/china-longcat-2-0-becomes-134258951.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/61ec0933138f70914de120f3b3755e1b86123f71216e03a484715edd9ddfee83/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F023b1cfb25b7537e236025c6279e1536",
+      "date": "2026-07-05T04:58:46+00:00"
     },
     {
-      "title": "Argentina's plan for AI-run companies can't avoid humans",
-      "summary": "Article URL: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782138 Points: 3 # Comments: 0",
-      "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+      "title": "The Electricity: Why Google may be trying to make intelligence disappear",
+      "summary": "Article URL: https://manasbihani.substack.com/p/the-electricity Comments URL: https://news.ycombinator.com/item?id=48791241 Points: 2 # Comments: 0",
+      "url": "https://manasbihani.substack.com/p/the-electricity",
       "image": "",
-      "date": "2026-07-04T02:25:50+00:00"
+      "date": "2026-07-05T04:26:34+00:00"
     },
     {
-      "title": "How AI Made IKEA Workers 10x More Valuable (5 min video)",
-      "summary": "Article URL: https://www.youtube.com/watch?v=2ODq6IsmkhM Comments URL: https://news.ycombinator.com/item?id=48782054 Points: 3 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=2ODq6IsmkhM",
-      "image": "",
-      "date": "2026-07-04T02:08:06+00:00"
+      "title": "In AI-exposed jobs, the youngest workers are losing ground",
+      "summary": "Article URL: https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/ Comments URL: https://news.ycombinator.com/item?id=48790966 Points: 3 # Comments: 1",
+      "url": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/",
+      "image": "https://www.randalolson.com/assets/2026/06/ai-jobs-hit-youngest-workers.png",
+      "date": "2026-07-05T03:14:47+00:00"
     },
     {
-      "title": "You take AI, I'll take my iPod (if I can find it)",
-      "summary": "Article URL: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/ Comments URL: https://news.ycombinator.com/item?id=48781858 Points: 3 # Comments: 0",
-      "url": "https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/",
-      "image": "https://news.harvard.edu/wp-content/uploads/2026/06/ipod-tech.jpg",
-      "date": "2026-07-04T01:29:46+00:00"
-    },
-    {
-      "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
-      "summary": "Article URL: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/ Comments URL: https://news.ycombinator.com/item?id=48781828 Points: 2 # Comments: 0",
-      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
-      "image": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1",
-      "date": "2026-07-04T01:23:56+00:00"
-    },
-    {
-      "title": "Context graphs: how AI agents remember why decisions were made",
-      "summary": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48781571 Points: 3 # Comments: 0",
-      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
-      "image": "https://storage.ghost.io/c/db/e7/dbe79357-2349-45c5-9230-4be384c8629b/content/images/size/w1200/2026/07/Screenshot-2026-07-03-at-1.13.09---AM.png",
-      "date": "2026-07-04T00:30:11+00:00"
-    },
-    {
-      "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom Comments URL: https://news.ycombinator.com/item?id=48781487 Points: 5 # Comments: 0",
-      "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/04/c38cdd4a-93dd-4b9a-8f15-d638e5e60106_c0e1d426.jpg?itok=c8TaBzul&v=1783117634",
-      "date": "2026-07-04T00:12:02+00:00"
-    },
-    {
-      "title": "Forget the AI bubble. The IMF says the real threat is the mountain of debt",
-      "summary": "Article URL: https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti Comments URL: https://news.ycombinator.com/item?id=48781375 Points: 5 # Comments: 0",
-      "url": "https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti",
-      "image": "",
-      "date": "2026-07-03T23:50:21+00:00"
-    },
-    {
-      "title": "Give your AI agent its own email inbox – MailKite",
-      "summary": "Article URL: https://mailkite.dev/blog/give-your-agent-an-inbox/ Comments URL: https://news.ycombinator.com/item?id=48781354 Points: 2 # Comments: 0",
-      "url": "https://mailkite.dev/blog/give-your-agent-an-inbox/",
-      "image": "https://mailkite.dev/og-default.png",
-      "date": "2026-07-03T23:47:29+00:00"
-    },
-    {
-      "title": "Coding without AI: a revolutionary new way to work",
-      "summary": "Article URL: https://isaaclyman.com/blog/posts/code-review/ Comments URL: https://news.ycombinator.com/item?id=48781256 Points: 2 # Comments: 0",
-      "url": "https://isaaclyman.com/blog/posts/code-review/",
-      "image": "",
-      "date": "2026-07-03T23:34:28+00:00"
+      "title": "AI CLI that fixes broken dev tool installs",
+      "summary": "Article URL: https://murderszn.github.io/sprout/ Comments URL: https://news.ycombinator.com/item?id=48790523 Points: 2 # Comments: 0",
+      "url": "https://murderszn.github.io/sprout/",
+      "image": "https://murderszn.github.io/sprout/public/og-image.png",
+      "date": "2026-07-05T01:26:00+00:00"
     }
   ]
 }
