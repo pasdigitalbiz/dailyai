@@ -1,82 +1,61 @@
 {
-  "generated_at": "2026-07-05T09:20:34.875403+00:00",
+  "generated_at": "2026-07-06T10:59:39.975536+00:00",
   "items": [
     {
-      "title": "Concentration of power in AI is a risk, by Andy Konwinski",
-      "summary": "Article URL: https://xcancel.com/i/article/2072830533739192560 Comments URL: https://news.ycombinator.com/item?id=48792463 Points: 2 # Comments: 0",
-      "url": "https://xcancel.com/i/article/2072830533739192560",
+      "title": "Poll: Is there an AI bubble?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48802335 Points: 3 # Comments: 6",
+      "url": "https://news.ycombinator.com/item?id=48802335",
       "image": "",
-      "date": "2026-07-05T08:55:45+00:00"
+      "date": "2026-07-06T09:10:10+00:00"
     },
     {
-      "title": "Agentsnap – find which config change broke your AI agent",
-      "summary": "Article URL: https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing Comments URL: https://news.ycombinator.com/item?id=48791885 Points: 1 # Comments: 0",
-      "url": "https://drive.google.com/file/d/1oPTmOOkBtE0IRV4oy0K4NuuLxYBezXRc/view?usp=sharing",
+      "title": "Generative AI without guardrail can harm learning:Evidence from high school math",
+      "summary": "Article URL: https://www.pnas.org/doi/10.1073/pnas.2422633122 Comments URL: https://news.ycombinator.com/item?id=48802332 Points: 2 # Comments: 0",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2422633122",
       "image": "",
-      "date": "2026-07-05T06:57:32+00:00"
+      "date": "2026-07-06T09:10:02+00:00"
     },
     {
-      "title": "Google commercial imagines Declaration of Independence written with help from AI",
-      "summary": "Article URL: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/ Comments URL: https://news.ycombinator.com/item?id=48791713 Points: 4 # Comments: 1",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
-      "date": "2026-07-05T06:21:03+00:00"
-    },
-    {
-      "title": "LLM's as a Different Kind of Intelligence",
-      "summary": "Article URL: https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48791650 Points: 2 # Comments: 0",
-      "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
+      "title": "Ask HN: What is your go-to prompt to prove AI can be wrong?",
+      "summary": "Just over-heard one of our seniors trying to explain to a new intern that AI can actually be wrong, no matter how much its answers sound very eloquent and well-structured. I was wondering what question/prompt everyone uses to prove so to others. I assume it depends on each person's expertise, or some people ask about a fact that is well-known as having been a victim of the mandela effect. P.S.\nAs a non-native speaker, I was about to pass my submission through AI to improve text clarity and understandability, but after remembering some comments about prefering the original text, I decided against it :) Comments URL: https://news.ycombinator.com/item?id=48802246 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48802246",
       "image": "",
-      "date": "2026-07-05T06:07:35+00:00"
+      "date": "2026-07-06T08:56:48+00:00"
     },
     {
-      "title": "New California study finds highly educated workers most harmed by AI",
-      "summary": "Article URL: https://www.sfgate.com/politics/article/california-ai-study-22321472.php Comments URL: https://news.ycombinator.com/item?id=48791406 Points: 3 # Comments: 0",
-      "url": "https://www.sfgate.com/politics/article/california-ai-study-22321472.php",
+      "title": "The Hitchhiker's Guide to Agentic AI",
+      "summary": "Article URL: https://arxiv.org/abs/2606.24937 Comments URL: https://news.ycombinator.com/item?id=48802156 Points: 2 # Comments: 0",
+      "url": "https://arxiv.org/abs/2606.24937",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-07-06T08:40:29+00:00"
+    },
+    {
+      "title": "Venice AI becomes a unicorn with its privacy-first AI platform takes off",
+      "summary": "Article URL: https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/ Comments URL: https://news.ycombinator.com/item?id=48802120 Points: 2 # Comments: 0",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
+      "date": "2026-07-06T08:33:33+00:00"
+    },
+    {
+      "title": "UN chief warns AI is developing faster than rules can keep up",
+      "summary": "Article URL: https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/ Comments URL: https://news.ycombinator.com/item?id=48801716 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/technology/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-2026-07-06/",
       "image": "",
-      "date": "2026-07-05T05:08:51+00:00"
+      "date": "2026-07-06T07:37:31+00:00"
     },
     {
-      "title": "US and Chinese companies train almost all of the most-used AI models",
-      "summary": "Article URL: https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models Comments URL: https://news.ycombinator.com/item?id=48791385 Points: 4 # Comments: 0",
-      "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
-      "image": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8a752728-35b2-4ec5-7b3b-ef5be7af5100/public",
-      "date": "2026-07-05T05:03:41+00:00"
+      "title": "When AI Costs More Than the Engineer",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 97 # Comments: 86",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "image": "https://res.cloudinary.com/dzawgnnlr/image/upload/q_auto/f_auto/w_auto/v1782758517/odtjqwtlphmuix5rxxi1.png",
+      "date": "2026-07-06T07:05:25+00:00"
     },
     {
-      "title": "Meituan Trained a 1.6T-Parameter AI Model Without Nvidia GPUs",
-      "summary": "Article URL: https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai Comments URL: https://news.ycombinator.com/item?id=48791366 Points: 3 # Comments: 1",
-      "url": "https://xyzlabs.substack.com/p/meituan-trained-a-16t-parameter-ai",
-      "image": "",
-      "date": "2026-07-05T04:59:15+00:00"
-    },
-    {
-      "title": "China's LongCat-2.0 Becomes the Biggest AI Model Without Nvidia Chips",
-      "summary": "Article URL: https://tech.yahoo.com/ai/articles/china-longcat-2-0-becomes-134258951.html Comments URL: https://news.ycombinator.com/item?id=48791362 Points: 6 # Comments: 1",
-      "url": "https://tech.yahoo.com/ai/articles/china-longcat-2-0-becomes-134258951.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/61ec0933138f70914de120f3b3755e1b86123f71216e03a484715edd9ddfee83/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F023b1cfb25b7537e236025c6279e1536",
-      "date": "2026-07-05T04:58:46+00:00"
-    },
-    {
-      "title": "The Electricity: Why Google may be trying to make intelligence disappear",
-      "summary": "Article URL: https://manasbihani.substack.com/p/the-electricity Comments URL: https://news.ycombinator.com/item?id=48791241 Points: 2 # Comments: 0",
-      "url": "https://manasbihani.substack.com/p/the-electricity",
-      "image": "",
-      "date": "2026-07-05T04:26:34+00:00"
-    },
-    {
-      "title": "In AI-exposed jobs, the youngest workers are losing ground",
-      "summary": "Article URL: https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/ Comments URL: https://news.ycombinator.com/item?id=48790966 Points: 3 # Comments: 1",
-      "url": "https://www.randalolson.com/2026/06/22/ai-jobs-hit-youngest-workers/",
-      "image": "https://www.randalolson.com/assets/2026/06/ai-jobs-hit-youngest-workers.png",
-      "date": "2026-07-05T03:14:47+00:00"
-    },
-    {
-      "title": "AI CLI that fixes broken dev tool installs",
-      "summary": "Article URL: https://murderszn.github.io/sprout/ Comments URL: https://news.ycombinator.com/item?id=48790523 Points: 2 # Comments: 0",
-      "url": "https://murderszn.github.io/sprout/",
-      "image": "https://murderszn.github.io/sprout/public/og-image.png",
-      "date": "2026-07-05T01:26:00+00:00"
+      "title": "Chinese LLMs Doubao, Qwen to shut down personalized AI agents on July 15",
+      "summary": "Article URL: https://www.globaltimes.cn/page/202607/1365159.shtml Comments URL: https://news.ycombinator.com/item?id=48801260 Points: 2 # Comments: 0",
+      "url": "https://www.globaltimes.cn/page/202607/1365159.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-06-03/4ed28f8d-727c-491f-aee9-06e4ecbf07cc.jpeg",
+      "date": "2026-07-06T06:23:39+00:00"
     }
   ]
 }
