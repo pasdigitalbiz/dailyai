@@ -1,4 +1,110 @@
 {
-  "generated_at": "2026-07-09T09:55:12.605883+00:00",
-  "items": []
+  "generated_at": "2026-07-10T09:50:44.414136+00:00",
+  "items": [
+    {
+      "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
+      "summary": "Article URL: https://wpconverters.com/playground/ Comments URL: https://news.ycombinator.com/item?id=48857637 Points: 1 # Comments: 0",
+      "url": "https://wpconverters.com/playground/",
+      "image": "https://wpconverters.com/playground/og-playground.png",
+      "date": "2026-07-10T09:17:34+00:00"
+    },
+    {
+      "title": "The Ambulatory Intelligence Gap",
+      "summary": "Article URL: https://www.databricks.com/blog/ambulatory-intelligence-gap Comments URL: https://news.ycombinator.com/item?id=48857631 Points: 1 # Comments: 0",
+      "url": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
+      "image": "https://www.databricks.com/sites/default/files/2026-07/Screenshot-2026-07-09-at-15.51.48.png",
+      "date": "2026-07-10T09:16:55+00:00"
+    },
+    {
+      "title": "Ramblings on technological pursuits of AI systems",
+      "summary": "Article URL: https://blog.knravish.me/thoughts-ai-reality-brain/ Comments URL: https://news.ycombinator.com/item?id=48857325 Points: 1 # Comments: 0",
+      "url": "https://blog.knravish.me/thoughts-ai-reality-brain/",
+      "image": "https://blog.knravish.me/content/images/2026/07/arctic-rush.png",
+      "date": "2026-07-10T08:33:26+00:00"
+    },
+    {
+      "title": "Open AI No. 2 Exec at OpenAI Fidji Simo is leaving the company",
+      "summary": "Article URL: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/ Comments URL: https://news.ycombinator.com/item?id=48857121 Points: 3 # Comments: 1",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+      "date": "2026-07-10T08:05:43+00:00"
+    },
+    {
+      "title": "The triage is the product: running AI agents against Ethereum's protocol code",
+      "summary": "Article URL: https://blog.ethereum.org/2026/07/09/triage-is-the-product Comments URL: https://news.ycombinator.com/item?id=48857022 Points: 2 # Comments: 0",
+      "url": "https://blog.ethereum.org/2026/07/09/triage-is-the-product",
+      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_1308f6baa08e4ef93223642f77ca329f.jpg",
+      "date": "2026-07-10T07:52:35+00:00"
+    },
+    {
+      "title": "Verity – Chrome extension that auto fact-checks AI responses with cited sources",
+      "summary": "Article URL: https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo Comments URL: https://news.ycombinator.com/item?id=48856846 Points: 1 # Comments: 1",
+      "url": "https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo",
+      "image": "https://lh3.googleusercontent.com/dwYhVEOfl8ZG8cg03dqOM74rIrxIEuIdwFLVnSgkvn0kRmRtobPHpwYL5dJrgTcwJ6ZidHb8I9e9AjgfPihMPsyz=s128-rj-sc0x00ffffff",
+      "date": "2026-07-10T07:32:18+00:00"
+    },
+    {
+      "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
+      "summary": "Article URL: https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/ Comments URL: https://news.ycombinator.com/item?id=48856765 Points: 1 # Comments: 0",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "date": "2026-07-10T07:18:59+00:00"
+    },
+    {
+      "title": "China may restrict foreign access to Chinese open-source AI models",
+      "summary": "Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/ Comments URL: https://news.ycombinator.com/item?id=48856412 Points: 35 # Comments: 0",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+      "image": "",
+      "date": "2026-07-10T06:22:06+00:00"
+    },
+    {
+      "title": "Can AI Answer the $3T Question?",
+      "summary": "Article URL: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/ Comments URL: https://news.ycombinator.com/item?id=48856411 Points: 2 # Comments: 1",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-102719801.jpg?resize=1200,900",
+      "date": "2026-07-10T06:22:01+00:00"
+    },
+    {
+      "title": "Why Industry 5.0 is more than AI-powered analytics",
+      "summary": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/item?id=48856300 Points: 2 # Comments: 1",
+      "url": "https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026",
+      "image": "https://website-admin.geekyants.com/image-resize-cache-new/eyJpZCI6Mzk1MDQsInQiOiJyZXNpemUiLCJ3IjoxNDAwLCJoIjo4MDAsInEiOjEwMCwidiI6MX0=.png",
+      "date": "2026-07-10T06:05:47+00:00"
+    },
+    {
+      "title": "Turn off this Meta setting before someone generates AI images of you",
+      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you Comments URL: https://news.ycombinator.com/item?id=48856237 Points: 6 # Comments: 2",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
+      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/07/instagram-ai-profile-image.jpg",
+      "date": "2026-07-10T05:54:13+00:00"
+    },
+    {
+      "title": "AI subscriptions cut quotas and raised prices in early 2026",
+      "summary": "Article URL: https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/ Comments URL: https://news.ycombinator.com/item?id=48856213 Points: 1 # Comments: 0",
+      "url": "https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/",
+      "image": "",
+      "date": "2026-07-10T05:51:42+00:00"
+    },
+    {
+      "title": "The great AI data centre cover-up",
+      "summary": "Article URL: https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4 Comments URL: https://news.ycombinator.com/item?id=48856042 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
+      "image": "",
+      "date": "2026-07-10T05:27:03+00:00"
+    },
+    {
+      "title": "AI Investors Buying Accounting Companies and Force Them to Use OpenAI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2dp98vEGWq0 Comments URL: https://news.ycombinator.com/item?id=48856019 Points: 3 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=2dp98vEGWq0",
+      "image": "",
+      "date": "2026-07-10T05:23:53+00:00"
+    },
+    {
+      "title": "Italy privacy watchdog fines Character.ai owner over age-check failures",
+      "summary": "Article URL: https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48856004 Points: 2 # Comments: 0",
+      "url": "https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/",
+      "image": "",
+      "date": "2026-07-10T05:21:28+00:00"
+    }
+  ]
 }
