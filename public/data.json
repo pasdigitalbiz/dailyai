@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-07-10T09:50:44.414136+00:00",
+  "generated_at": "2026-07-11T08:12:35.982618+00:00",
   "items": [
     {
-      "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
-      "summary": "Article URL: https://wpconverters.com/playground/ Comments URL: https://news.ycombinator.com/item?id=48857637 Points: 1 # Comments: 0",
-      "url": "https://wpconverters.com/playground/",
-      "image": "https://wpconverters.com/playground/og-playground.png",
-      "date": "2026-07-10T09:17:34+00:00"
+      "title": "Competitive Programming in the Era of AI",
+      "summary": "Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/ Comments URL: https://news.ycombinator.com/item?id=48869623 Points: 1 # Comments: 0",
+      "url": "https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/",
+      "image": "https://www.vibhaas.net/assets/img/wanderer-above-a-sea-of-fog.jpg",
+      "date": "2026-07-11T07:24:44+00:00"
     },
     {
-      "title": "The Ambulatory Intelligence Gap",
-      "summary": "Article URL: https://www.databricks.com/blog/ambulatory-intelligence-gap Comments URL: https://news.ycombinator.com/item?id=48857631 Points: 1 # Comments: 0",
-      "url": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
-      "image": "https://www.databricks.com/sites/default/files/2026-07/Screenshot-2026-07-09-at-15.51.48.png",
-      "date": "2026-07-10T09:16:55+00:00"
+      "title": "8 Stages of AI engineering maturity: a framework for teams",
+      "summary": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48869595 Points: 1 # Comments: 0",
+      "url": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
+      "image": "https://upsun.com/static/9c56f1fb3915bc05d954381775d2ae7c/8_stages_of_AI_maturity_1200x623_39bd4ed4e7.png",
+      "date": "2026-07-11T07:19:22+00:00"
     },
     {
-      "title": "Ramblings on technological pursuits of AI systems",
-      "summary": "Article URL: https://blog.knravish.me/thoughts-ai-reality-brain/ Comments URL: https://news.ycombinator.com/item?id=48857325 Points: 1 # Comments: 0",
-      "url": "https://blog.knravish.me/thoughts-ai-reality-brain/",
-      "image": "https://blog.knravish.me/content/images/2026/07/arctic-rush.png",
-      "date": "2026-07-10T08:33:26+00:00"
-    },
-    {
-      "title": "Open AI No. 2 Exec at OpenAI Fidji Simo is leaving the company",
-      "summary": "Article URL: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/ Comments URL: https://news.ycombinator.com/item?id=48857121 Points: 3 # Comments: 1",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
-      "date": "2026-07-10T08:05:43+00:00"
-    },
-    {
-      "title": "The triage is the product: running AI agents against Ethereum's protocol code",
-      "summary": "Article URL: https://blog.ethereum.org/2026/07/09/triage-is-the-product Comments URL: https://news.ycombinator.com/item?id=48857022 Points: 2 # Comments: 0",
-      "url": "https://blog.ethereum.org/2026/07/09/triage-is-the-product",
-      "image": "https://storage.googleapis.com/ethereum-hackmd/upload_1308f6baa08e4ef93223642f77ca329f.jpg",
-      "date": "2026-07-10T07:52:35+00:00"
-    },
-    {
-      "title": "Verity – Chrome extension that auto fact-checks AI responses with cited sources",
-      "summary": "Article URL: https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo Comments URL: https://news.ycombinator.com/item?id=48856846 Points: 1 # Comments: 1",
-      "url": "https://chromewebstore.google.com/detail/verity-—-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo",
-      "image": "https://lh3.googleusercontent.com/dwYhVEOfl8ZG8cg03dqOM74rIrxIEuIdwFLVnSgkvn0kRmRtobPHpwYL5dJrgTcwJ6ZidHb8I9e9AjgfPihMPsyz=s128-rj-sc0x00ffffff",
-      "date": "2026-07-10T07:32:18+00:00"
-    },
-    {
-      "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
-      "summary": "Article URL: https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/ Comments URL: https://news.ycombinator.com/item?id=48856765 Points: 1 # Comments: 0",
-      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
-      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "date": "2026-07-10T07:18:59+00:00"
-    },
-    {
-      "title": "China may restrict foreign access to Chinese open-source AI models",
-      "summary": "Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/ Comments URL: https://news.ycombinator.com/item?id=48856412 Points: 35 # Comments: 0",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+      "title": "How AI is rewiring childhood",
+      "summary": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=48869574 Points: 1 # Comments: 0",
+      "url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
       "image": "",
-      "date": "2026-07-10T06:22:06+00:00"
+      "date": "2026-07-11T07:14:51+00:00"
     },
     {
-      "title": "Can AI Answer the $3T Question?",
-      "summary": "Article URL: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/ Comments URL: https://news.ycombinator.com/item?id=48856411 Points: 2 # Comments: 1",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-102719801.jpg?resize=1200,900",
-      "date": "2026-07-10T06:22:01+00:00"
-    },
-    {
-      "title": "Why Industry 5.0 is more than AI-powered analytics",
-      "summary": "Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/item?id=48856300 Points: 2 # Comments: 1",
-      "url": "https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026",
-      "image": "https://website-admin.geekyants.com/image-resize-cache-new/eyJpZCI6Mzk1MDQsInQiOiJyZXNpemUiLCJ3IjoxNDAwLCJoIjo4MDAsInEiOjEwMCwidiI6MX0=.png",
-      "date": "2026-07-10T06:05:47+00:00"
-    },
-    {
-      "title": "Turn off this Meta setting before someone generates AI images of you",
-      "summary": "Article URL: https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you Comments URL: https://news.ycombinator.com/item?id=48856237 Points: 6 # Comments: 2",
-      "url": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
-      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/07/instagram-ai-profile-image.jpg",
-      "date": "2026-07-10T05:54:13+00:00"
-    },
-    {
-      "title": "AI subscriptions cut quotas and raised prices in early 2026",
-      "summary": "Article URL: https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/ Comments URL: https://news.ycombinator.com/item?id=48856213 Points: 1 # Comments: 0",
-      "url": "https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/",
+      "title": "The Conversation We're Not Having About AI in Peer Review",
+      "summary": "Article URL: https://cabird.com/ide/posts/ai-in-peer-review Comments URL: https://news.ycombinator.com/item?id=48869086 Points: 1 # Comments: 0",
+      "url": "https://cabird.com/ide/posts/ai-in-peer-review",
       "image": "",
-      "date": "2026-07-10T05:51:42+00:00"
+      "date": "2026-07-11T05:36:37+00:00"
     },
     {
-      "title": "The great AI data centre cover-up",
-      "summary": "Article URL: https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4 Comments URL: https://news.ycombinator.com/item?id=48856042 Points: 3 # Comments: 1",
-      "url": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4",
+      "title": "AI Limit, Social Divide",
+      "summary": "Article URL: https://valand.dev/blog/post/ai-limit-divide Comments URL: https://news.ycombinator.com/item?id=48869008 Points: 1 # Comments: 0",
+      "url": "https://valand.dev/blog/post/ai-limit-divide",
       "image": "",
-      "date": "2026-07-10T05:27:03+00:00"
+      "date": "2026-07-11T05:22:06+00:00"
     },
     {
-      "title": "AI Investors Buying Accounting Companies and Force Them to Use OpenAI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=2dp98vEGWq0 Comments URL: https://news.ycombinator.com/item?id=48856019 Points: 3 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=2dp98vEGWq0",
-      "image": "",
-      "date": "2026-07-10T05:23:53+00:00"
+      "title": "Meta removes AI feature on Instagram after global backlash",
+      "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash Comments URL: https://news.ycombinator.com/item?id=48868705 Points: 12 # Comments: 2",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--kB53D7EO--/t_tohu-badge-facebook/f_auto/q_auto/4JLRK9Z_Screenshot_2026_07_09_at_10_24_22_AM_png",
+      "date": "2026-07-11T04:19:14+00:00"
     },
     {
-      "title": "Italy privacy watchdog fines Character.ai owner over age-check failures",
-      "summary": "Article URL: https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48856004 Points: 2 # Comments: 0",
-      "url": "https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/",
+      "title": "Managing a small local AI budget (Mac M2 16gb)",
+      "summary": "Article URL: https://millfolio.com/blog/local-ai-infra-tags/ Comments URL: https://news.ycombinator.com/item?id=48868694 Points: 2 # Comments: 0",
+      "url": "https://millfolio.com/blog/local-ai-infra-tags/",
       "image": "",
-      "date": "2026-07-10T05:21:28+00:00"
+      "date": "2026-07-11T04:17:19+00:00"
+    },
+    {
+      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space",
+      "summary": "Article URL: https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48868581 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/",
+      "image": "",
+      "date": "2026-07-11T03:56:36+00:00"
+    },
+    {
+      "title": "Big Tech Doubles Debt Load to $350B in AI Spending Spree",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree Comments URL: https://news.ycombinator.com/item?id=48868449 Points: 10 # Comments: 2",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "image": "",
+      "date": "2026-07-11T03:30:12+00:00"
+    },
+    {
+      "title": "Haves, have-nots and know-nots: Inside AI's new class divide",
+      "summary": "Article URL: https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos Comments URL: https://news.ycombinator.com/item?id=48868109 Points: 2 # Comments: 0",
+      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+      "image": "",
+      "date": "2026-07-11T02:37:07+00:00"
+    },
+    {
+      "title": "AI makes Pompeii victim's final moments look real",
+      "summary": "Article URL: https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/ Comments URL: https://news.ycombinator.com/item?id=48868096 Points: 1 # Comments: 1",
+      "url": "https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/06/Pompeii-skeleton-of-man-with-mortar.jpg?w=1200",
+      "date": "2026-07-11T02:35:08+00:00"
+    },
+    {
+      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/ Comments URL: https://news.ycombinator.com/item?id=48868094 Points: 2 # Comments: 1",
+      "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/",
+      "image": "",
+      "date": "2026-07-11T02:34:45+00:00"
+    },
+    {
+      "title": "AI models' values are different from most people's",
+      "summary": "Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48867923 Points: 1 # Comments: 1",
+      "url": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
+      "image": "",
+      "date": "2026-07-11T02:13:37+00:00"
+    },
+    {
+      "title": "OpenAI and Google sell AI models to blacklisted China groups",
+      "summary": "Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48867753 Points: 3 # Comments: 1",
+      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
+      "image": "",
+      "date": "2026-07-11T01:49:13+00:00"
+    },
+    {
+      "title": "DeepSeek-AI/DeepSeek-v3.2",
+      "summary": "Article URL: https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2 Comments URL: https://news.ycombinator.com/item?id=48867720 Points: 1 # Comments: 2",
+      "url": "https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2",
+      "image": "https://huggingbay.xyz/og/artifact/hf-model-deepseek-ai-deepseek-v3-2.svg",
+      "date": "2026-07-11T01:44:28+00:00"
     }
   ]
 }
