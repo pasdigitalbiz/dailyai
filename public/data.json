@@ -1,110 +1,138 @@
 {
-  "generated_at": "2026-07-11T08:12:35.982618+00:00",
+  "generated_at": "2026-07-12T08:29:33.015748+00:00",
   "items": [
     {
-      "title": "Competitive Programming in the Era of AI",
-      "summary": "Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/ Comments URL: https://news.ycombinator.com/item?id=48869623 Points: 1 # Comments: 0",
-      "url": "https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/",
-      "image": "https://www.vibhaas.net/assets/img/wanderer-above-a-sea-of-fog.jpg",
-      "date": "2026-07-11T07:24:44+00:00"
-    },
-    {
-      "title": "8 Stages of AI engineering maturity: a framework for teams",
-      "summary": "Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48869595 Points: 1 # Comments: 0",
-      "url": "https://upsun.com/blog/8-stages-ai-engineering-maturity/",
-      "image": "https://upsun.com/static/9c56f1fb3915bc05d954381775d2ae7c/8_stages_of_AI_maturity_1200x623_39bd4ed4e7.png",
-      "date": "2026-07-11T07:19:22+00:00"
-    },
-    {
-      "title": "How AI is rewiring childhood",
-      "summary": "Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=48869574 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+      "title": "Political Neutrality Benchmark of popular AI models",
+      "summary": "Article URL: https://neutralityproject.org/results.html Comments URL: https://news.ycombinator.com/item?id=48879363 Points: 1 # Comments: 0",
+      "url": "https://neutralityproject.org/results.html",
       "image": "",
-      "date": "2026-07-11T07:14:51+00:00"
+      "date": "2026-07-12T08:21:49+00:00"
     },
     {
-      "title": "The Conversation We're Not Having About AI in Peer Review",
-      "summary": "Article URL: https://cabird.com/ide/posts/ai-in-peer-review Comments URL: https://news.ycombinator.com/item?id=48869086 Points: 1 # Comments: 0",
-      "url": "https://cabird.com/ide/posts/ai-in-peer-review",
+      "title": "Unify AI Horn alternative using ESP32, WizNet 5500, Poe and a Ti Amp",
+      "summary": "Article URL: https://www.hackster.io/c_m_cooper/announce-for-unify-e9c652 Comments URL: https://news.ycombinator.com/item?id=48879183 Points: 1 # Comments: 0",
+      "url": "https://www.hackster.io/c_m_cooper/announce-for-unify-e9c652",
       "image": "",
-      "date": "2026-07-11T05:36:37+00:00"
+      "date": "2026-07-12T07:40:23+00:00"
     },
     {
-      "title": "AI Limit, Social Divide",
-      "summary": "Article URL: https://valand.dev/blog/post/ai-limit-divide Comments URL: https://news.ycombinator.com/item?id=48869008 Points: 1 # Comments: 0",
-      "url": "https://valand.dev/blog/post/ai-limit-divide",
+      "title": "The Caste of Intelligence and the Big Tech Blueprint",
+      "summary": "Article URL: https://calcrecipe.com/en/workshop/5 Comments URL: https://news.ycombinator.com/item?id=48879094 Points: 1 # Comments: 0",
+      "url": "https://calcrecipe.com/en/workshop/5",
       "image": "",
-      "date": "2026-07-11T05:22:06+00:00"
+      "date": "2026-07-12T07:22:13+00:00"
     },
     {
-      "title": "Meta removes AI feature on Instagram after global backlash",
-      "summary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash Comments URL: https://news.ycombinator.com/item?id=48868705 Points: 12 # Comments: 2",
-      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--kB53D7EO--/t_tohu-badge-facebook/f_auto/q_auto/4JLRK9Z_Screenshot_2026_07_09_at_10_24_22_AM_png",
-      "date": "2026-07-11T04:19:14+00:00"
-    },
-    {
-      "title": "Managing a small local AI budget (Mac M2 16gb)",
-      "summary": "Article URL: https://millfolio.com/blog/local-ai-infra-tags/ Comments URL: https://news.ycombinator.com/item?id=48868694 Points: 2 # Comments: 0",
-      "url": "https://millfolio.com/blog/local-ai-infra-tags/",
+      "title": "Agent Service – promptable AI agents with guardrails and downloadable packages",
+      "summary": "Article URL: https://buy.stripe.com/5kQ5kEaUKd8w0qr0FKe3e00 Comments URL: https://news.ycombinator.com/item?id=48879076 Points: 1 # Comments: 0",
+      "url": "https://buy.stripe.com/5kQ5kEaUKd8w0qr0FKe3e00",
       "image": "",
-      "date": "2026-07-11T04:17:19+00:00"
+      "date": "2026-07-12T07:17:52+00:00"
     },
     {
-      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space",
-      "summary": "Article URL: https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48868581 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/",
+      "title": "AI Should Build Its Own Research World Model",
+      "summary": "Article URL: https://www.evolvinglab.ai/blog/research-world-model Comments URL: https://news.ycombinator.com/item?id=48879047 Points: 1 # Comments: 0",
+      "url": "https://www.evolvinglab.ai/blog/research-world-model",
+      "image": "https://www.evolvinglab.ai/blog-cards/research-world-model.png",
+      "date": "2026-07-12T07:11:59+00:00"
+    },
+    {
+      "title": "The Ten Commandments of AI Usage",
+      "summary": "Article URL: https://defragzone.substack.com/p/the-ten-commandments-of-ai-usage Comments URL: https://news.ycombinator.com/item?id=48878905 Points: 1 # Comments: 0",
+      "url": "https://defragzone.substack.com/p/the-ten-commandments-of-ai-usage",
       "image": "",
-      "date": "2026-07-11T03:56:36+00:00"
+      "date": "2026-07-12T06:39:03+00:00"
     },
     {
-      "title": "Big Tech Doubles Debt Load to $350B in AI Spending Spree",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree Comments URL: https://news.ycombinator.com/item?id=48868449 Points: 10 # Comments: 2",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "title": "AI song going to be viral in 2026",
+      "summary": "Article URL: https://open.spotify.com/track/50mUiidUauqseqtm2Kr7U6 Comments URL: https://news.ycombinator.com/item?id=48878861 Points: 2 # Comments: 0",
+      "url": "https://open.spotify.com/track/50mUiidUauqseqtm2Kr7U6",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e5bde7828af903fba306f7d5",
+      "date": "2026-07-12T06:31:02+00:00"
+    },
+    {
+      "title": "MSK – an AI agent that thinks like a CTO",
+      "summary": "Article URL: https://apps.apple.com/us/app/msk-ai-cto-agent/id6778822216 Comments URL: https://news.ycombinator.com/item?id=48878839 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/msk-ai-cto-agent/id6778822216",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/06/b1/0e06b17c-8afc-dd83-bb13-6d46d959ab55/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-07-12T06:27:06+00:00"
+    },
+    {
+      "title": "Inside the secret AI war between Silicon Valley and China",
+      "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/ Comments URL: https://news.ycombinator.com/item?id=48878812 Points: 1 # Comments: 1",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/06/why-anthropic-alleges-chinese-firms-are-distilling-knowledge-claude/",
       "image": "",
-      "date": "2026-07-11T03:30:12+00:00"
+      "date": "2026-07-12T06:20:27+00:00"
     },
     {
-      "title": "Haves, have-nots and know-nots: Inside AI's new class divide",
-      "summary": "Article URL: https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos Comments URL: https://news.ycombinator.com/item?id=48868109 Points: 2 # Comments: 0",
-      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+      "title": "AI found a Linux root bug that was missed for 15 years",
+      "summary": "Article URL: https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/ Comments URL: https://news.ycombinator.com/item?id=48878713 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
       "image": "",
-      "date": "2026-07-11T02:37:07+00:00"
+      "date": "2026-07-12T05:56:59+00:00"
     },
     {
-      "title": "AI makes Pompeii victim's final moments look real",
-      "summary": "Article URL: https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/ Comments URL: https://news.ycombinator.com/item?id=48868096 Points: 1 # Comments: 1",
-      "url": "https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/06/Pompeii-skeleton-of-man-with-mortar.jpg?w=1200",
-      "date": "2026-07-11T02:35:08+00:00"
-    },
-    {
-      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
-      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/ Comments URL: https://news.ycombinator.com/item?id=48868094 Points: 2 # Comments: 1",
-      "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/",
+      "title": "DeepSeek developing its own AI chip, sources say",
+      "summary": "Article URL: https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48878697 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
       "image": "",
-      "date": "2026-07-11T02:34:45+00:00"
+      "date": "2026-07-12T05:53:37+00:00"
     },
     {
-      "title": "AI models' values are different from most people's",
-      "summary": "Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48867923 Points: 1 # Comments: 1",
-      "url": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
+      "title": "An open letter to the Medici of intelligence",
+      "summary": "Article URL: https://www.sov.vc/blog/the-next-frontier-sovereignty Comments URL: https://news.ycombinator.com/item?id=48878679 Points: 1 # Comments: 0",
+      "url": "https://www.sov.vc/blog/the-next-frontier-sovereignty",
+      "image": "https://sov.ventures/content/the-next-frontier-sovereignty.png",
+      "date": "2026-07-12T05:51:26+00:00"
+    },
+    {
+      "title": "Big Tech piles on $350B in debt to fuel AI data center race",
+      "summary": "Article URL: https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race Comments URL: https://news.ycombinator.com/item?id=48878360 Points: 5 # Comments: 0",
+      "url": "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/517a623/2147483647/strip/true/crop/1913x1004+0+135/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fea%2F67d8d84b424a87afadc4867ec977%2Fce557757f66f43109ce3595dc49b787e.jpg",
+      "date": "2026-07-12T04:49:48+00:00"
+    },
+    {
+      "title": "AI boom puts Big Tech's transparency to the test",
+      "summary": "Article URL: https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use Comments URL: https://news.ycombinator.com/item?id=48878336 Points: 2 # Comments: 0",
+      "url": "https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use",
       "image": "",
-      "date": "2026-07-11T02:13:37+00:00"
+      "date": "2026-07-12T04:45:37+00:00"
     },
     {
-      "title": "OpenAI and Google sell AI models to blacklisted China groups",
-      "summary": "Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48867753 Points: 3 # Comments: 1",
-      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
+      "title": "Guide to the circular deals underpinning the AI Boom",
+      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-ai-circular-deals/ Comments URL: https://news.ycombinator.com/item?id=48878287 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/graphics/2026-ai-circular-deals/",
       "image": "",
-      "date": "2026-07-11T01:49:13+00:00"
+      "date": "2026-07-12T04:34:03+00:00"
     },
     {
-      "title": "DeepSeek-AI/DeepSeek-v3.2",
-      "summary": "Article URL: https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2 Comments URL: https://news.ycombinator.com/item?id=48867720 Points: 1 # Comments: 2",
-      "url": "https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2",
-      "image": "https://huggingbay.xyz/og/artifact/hf-model-deepseek-ai-deepseek-v3-2.svg",
-      "date": "2026-07-11T01:44:28+00:00"
+      "title": "Negotiating AI in Open Source Software Communities: A Case Study of LLVM Project",
+      "summary": "Article URL: https://gupea.ub.gu.se/server/api/core/bitstreams/ad9b523e-f6d5-4dc2-b632-64f9734484cf/content Comments URL: https://news.ycombinator.com/item?id=48877994 Points: 2 # Comments: 0",
+      "url": "https://gupea.ub.gu.se/server/api/core/bitstreams/ad9b523e-f6d5-4dc2-b632-64f9734484cf/content",
+      "image": "",
+      "date": "2026-07-12T03:24:45+00:00"
+    },
+    {
+      "title": "TalkFitly – Practice high-EQ conversations with AI",
+      "summary": "Article URL: https://apps.apple.com/us/app/talkfitly/id6776912365 Comments URL: https://news.ycombinator.com/item?id=48877911 Points: 1 # Comments: 0",
+      "url": "https://apps.apple.com/us/app/talkfitly/id6776912365",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/5d/e8/d25de8c7-45ed-89ef-5311-7f8bdddf6939/Placeholder.mill/1200x630wa.jpg",
+      "date": "2026-07-12T03:06:17+00:00"
+    },
+    {
+      "title": "AI notetakers promise easy meeting recaps, but some question their use",
+      "summary": "Article URL: https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f Comments URL: https://news.ycombinator.com/item?id=48877528 Points: 6 # Comments: 2",
+      "url": "https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f",
+      "image": "https://dims.apnews.com/dims4/default/fec908f/2147483647/strip/true/crop/1920x1279+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F3c%2F8ee88156e8a38247fc56de441251%2Fbbe6352404fb47f1afba40c0ca237240",
+      "date": "2026-07-12T01:41:12+00:00"
+    },
+    {
+      "title": "I find AI roleplay therapeutic",
+      "summary": "Article URL: https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks Comments URL: https://news.ycombinator.com/item?id=48877439 Points: 2 # Comments: 0",
+      "url": "https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks",
+      "image": "https://chatbrat.ai/bratlog/ultimate-ai-roleplay-setup-guide-memory-lorebooks-hero.png",
+      "date": "2026-07-12T01:23:08+00:00"
     }
   ]
 }
