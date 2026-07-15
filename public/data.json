@@ -1,103 +1,110 @@
 {
-  "generated_at": "2026-07-14T08:25:45.457727+00:00",
+  "generated_at": "2026-07-15T08:33:30.182731+00:00",
   "items": [
     {
-      "title": "AI coding agents should optimize for less owned code",
-      "summary": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=48903476 Points: 1 # Comments: 0",
-      "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
-      "image": "https://www.openenergytransition.org/android-chrome-512x512.png",
-      "date": "2026-07-14T07:50:33+00:00"
-    },
-    {
-      "title": "Slay the Spire 2 Is Choosing \"Shit\" Art over Generative AI",
-      "summary": "Article URL: https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48903289 Points: 2 # Comments: 1",
-      "url": "https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/",
+      "title": "Ask HN: What Are You Building with AI?",
+      "summary": "Are you building with AI for yourself, your employer, customers, or as a startup? What LLMs, coding agents, or development tools are you using?  Are you primarily prompt coding, vibe coding, or using a more structured agentic workflow? Are you using one agent or coordinating multiple agents?  How much of the generated code do you review or rewrite? Has AI allowed you to build something you could not have built previously? What have you learned that would help someone starting an AI-assisted coding project today? Comments URL: https://news.ycombinator.com/item?id=48917667 Points: 1 # Comments: 3",
+      "url": "https://news.ycombinator.com/item?id=48917667",
       "image": "",
-      "date": "2026-07-14T07:22:52+00:00"
+      "date": "2026-07-15T08:05:14+00:00"
     },
     {
-      "title": "What Anthropic's latest AI discovery does–and doesn't–show",
-      "summary": "Article URL: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ Comments URL: https://news.ycombinator.com/item?id=48903165 Points: 1 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
-      "date": "2026-07-14T07:01:34+00:00"
+      "title": "What Do ASML's Q2 2026 Results Tell Us About the AI Boom?",
+      "summary": "Article URL: https://mrkt30.com/what-do-asmls-q2-2026-results-tell-us-about-the-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48917631 Points: 2 # Comments: 2",
+      "url": "https://mrkt30.com/what-do-asmls-q2-2026-results-tell-us-about-the-ai-boom/",
+      "image": "https://mrkt30.com/wp-content/uploads/2026/07/asml-graphic.jpg",
+      "date": "2026-07-15T07:59:33+00:00"
     },
     {
-      "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-      "summary": "we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey. we collected all this data into a benchmark and built a free grader to let you know where you stand. you answer on a 1–5 scale (e.g., autonomy runs from \"suggestions only\" to \"agents own multi-hour workflows across code, infra, and external systems\") - takes about 5 minutes. https://agent-benchmarks.com/software-factory/ waiting for your results! Comments URL: https://news.ycombinator.com/item?id=48903102 Points: 3 # Comments: 0",
-      "url": "https://agent-benchmarks.com/software-factory/",
+      "title": "What makes an AI coding tool worth paying for?",
+      "summary": "Article URL: https://vibecodingagency.com/gpu-cloud/ Comments URL: https://news.ycombinator.com/item?id=48917577 Points: 1 # Comments: 1",
+      "url": "https://vibecodingagency.com/gpu-cloud/",
+      "image": "https://vibecodingagency.com/og-image.png",
+      "date": "2026-07-15T07:51:58+00:00"
+    },
+    {
+      "title": "AI eating software: IBM crash",
+      "summary": "Article URL: https://www.bargo.ai/research/ibm-ai-capex-cannibalization Comments URL: https://news.ycombinator.com/item?id=48917453 Points: 1 # Comments: 0",
+      "url": "https://www.bargo.ai/research/ibm-ai-capex-cannibalization",
       "image": "",
-      "date": "2026-07-14T06:48:47+00:00"
+      "date": "2026-07-15T07:34:12+00:00"
     },
     {
-      "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
-      "summary": "Article URL: https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=48903101 Points: 2 # Comments: 0",
-      "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
-      "image": "https://images.unsplash.com/photo-1715026323215-a2dbb71272f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGRhdGElMjBjZW50ZXJ8ZW58MHx8fHwxNzgzOTYyOTc0fDA&ixlib=rb-4.1.0&q=80&w=2000",
-      "date": "2026-07-14T06:48:38+00:00"
+      "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+      "summary": "Article URL: https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589 Comments URL: https://news.ycombinator.com/item?id=48917305 Points: 4 # Comments: 0",
+      "url": "https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589",
+      "image": "https://image.theregister.com/252868.jpg?imageId=252868&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-07-15T07:15:17+00:00"
     },
     {
-      "title": "Weakening copyright to benefit AI would betray Australian Labor party's ethos",
-      "summary": "Article URL: https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail Comments URL: https://news.ycombinator.com/item?id=48903046 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
-      "image": "https://i.guim.co.uk/img/media/2c7ccfbdcea2f1e22bf16be7169b417717aa59cc/375_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae3c65ac11241e309a5572f0443dc321",
-      "date": "2026-07-14T06:39:08+00:00"
-    },
-    {
-      "title": "Context bombs: stopping AI attackers in their tracks",
-      "summary": "Article URL: https://agentic.tracebit.com/context-bombs/ Comments URL: https://news.ycombinator.com/item?id=48902986 Points: 3 # Comments: 1",
-      "url": "https://agentic.tracebit.com/context-bombs/",
-      "image": "https://agentic.tracebit.com/context-bombs/og.png",
-      "date": "2026-07-14T06:30:47+00:00"
-    },
-    {
-      "title": "Harvey LAB-AA: evaluating AI agents on real-world legal work",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/harvey-lab-aa Comments URL: https://news.ycombinator.com/item?id=48902852 Points: 1 # Comments: 0",
-      "url": "https://artificialanalysis.ai/articles/harvey-lab-aa",
+      "title": "Australia to establish government AI office, curb data centres' water use",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48917281 Points: 2 # Comments: 0",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/",
       "image": "",
-      "date": "2026-07-14T06:09:42+00:00"
+      "date": "2026-07-15T07:12:07+00:00"
     },
     {
-      "title": "Meta's AI advertising dreams have become a nightmare for brands",
-      "summary": "Article URL: https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7 Comments URL: https://news.ycombinator.com/item?id=48902837 Points: 2 # Comments: 0",
-      "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-      "image": "https://i.insider.com/6a54f5769d0a41df475c98d4?width=1200&format=jpeg",
-      "date": "2026-07-14T06:07:11+00:00"
+      "title": "Australia proposes AI rules for data centres and rejects copyright carve-out",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380 Comments URL: https://news.ycombinator.com/item?id=48917200 Points: 1 # Comments: 0",
+      "url": "https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3d38fd33144317417a7cc8eea12c5cec?impolicy=wcms_watermark_news&cropH=1155&cropW=2054&xPos=152&yPos=54&width=862&height=485&imformat=generic",
+      "date": "2026-07-15T06:59:35+00:00"
     },
     {
-      "title": "Everybody Should Welcome Nationalizing AI",
-      "summary": "Article URL: https://jacobin.com/2026/07/ai-nationalization-sanders-libertarians-property Comments URL: https://news.ycombinator.com/item?id=48902676 Points: 2 # Comments: 2",
-      "url": "https://jacobin.com/2026/07/ai-nationalization-sanders-libertarians-property",
-      "image": "https://media.jacobin.com/images/2026/7/328407064761.jpg",
-      "date": "2026-07-14T05:36:06+00:00"
-    },
-    {
-      "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
-      "summary": "Article URL: https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48902494 Points: 1 # Comments: 0",
-      "url": "https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/",
+      "title": "German media regulator says Google's AI Overviews subject to German media law",
+      "summary": "Article URL: https://www.reuters.com/legal/government/german-media-regulator-says-googles-ai-overviews-subject-german-media-law-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48916989 Points: 4 # Comments: 0",
+      "url": "https://www.reuters.com/legal/government/german-media-regulator-says-googles-ai-overviews-subject-german-media-law-2026-07-14/",
       "image": "",
-      "date": "2026-07-14T05:03:07+00:00"
+      "date": "2026-07-15T06:29:44+00:00"
     },
     {
-      "title": "Copyright law is now the biggest battleground in Australia's AI boom",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890 Comments URL: https://news.ycombinator.com/item?id=48902417 Points: 2 # Comments: 1",
-      "url": "https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890",
-      "image": "https://live-production.wcms.abc-cdn.net.au/1b2532d854ae9041342406bbb8b36acd?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "date": "2026-07-14T04:51:36+00:00"
+      "title": "Where authorities are restricting data centres amid AI boom",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48916982 Points: 1 # Comments: 0",
+      "url": "https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-07-14/",
+      "image": "",
+      "date": "2026-07-15T06:28:35+00:00"
     },
     {
-      "title": "Hands-On with iOS and iPadOS 27, macOS 27 Golden Gate, and Siri AI",
-      "summary": "Article URL: https://eshumarneedi.com/2026/07/13/handson-with-ios-and-ipados.html Comments URL: https://news.ycombinator.com/item?id=48902247 Points: 2 # Comments: 0",
-      "url": "https://eshumarneedi.com/2026/07/13/handson-with-ios-and-ipados.html",
-      "image": "https://eshumarneedi.com/uploads/2026/27-cover.jpg",
-      "date": "2026-07-14T04:17:48+00:00"
+      "title": "Sailboxes: Cloud environs for long horizon AI",
+      "summary": "Article URL: https://www.sailresearch.com/blog/sailboxes-general-access Comments URL: https://news.ycombinator.com/item?id=48916864 Points: 1 # Comments: 0",
+      "url": "https://www.sailresearch.com/blog/sailboxes-general-access",
+      "image": "https://sailresearch.com/og-image.png",
+      "date": "2026-07-15T06:11:55+00:00"
     },
     {
-      "title": "Ongoing changes to Android security patches due to AI vulnerability discovery",
-      "summary": "Article URL: https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery Comments URL: https://news.ycombinator.com/item?id=48902125 Points: 3 # Comments: 0",
-      "url": "https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery",
-      "image": "https://discuss.grapheneos.org/opengraph.png",
-      "date": "2026-07-14T03:53:45+00:00"
+      "title": "The Prompt-Wait-Evaluate Loop: How AI Kills Flow Without You Noticing",
+      "summary": "Article URL: https://www.sandordargo.com/blog/2026/07/15/how-ai-kills-flow Comments URL: https://news.ycombinator.com/item?id=48916798 Points: 3 # Comments: 0",
+      "url": "https://www.sandordargo.com/blog/2026/07/15/how-ai-kills-flow",
+      "image": "",
+      "date": "2026-07-15T06:01:34+00:00"
+    },
+    {
+      "title": "Meta Sued for Allegedly Using Discriminatory AI in Layoff Decisions",
+      "summary": "Article URL: https://gizmodo.com/meta-sued-for-allegedly-using-discriminatory-ai-in-layoff-decisions-2000785427 Comments URL: https://news.ycombinator.com/item?id=48916609 Points: 3 # Comments: 1",
+      "url": "https://gizmodo.com/meta-sued-for-allegedly-using-discriminatory-ai-in-layoff-decisions-2000785427",
+      "image": "",
+      "date": "2026-07-15T05:27:40+00:00"
+    },
+    {
+      "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/george-lucas-says-rejecting-ai-is-like-rejecting-cars-in-favour-of-horses-theres-nothing-you-can-do-about-it-its-the-future/ Comments URL: https://news.ycombinator.com/item?id=48916503 Points: 1 # Comments: 1",
+      "url": "https://www.pcgamer.com/software/ai/george-lucas-says-rejecting-ai-is-like-rejecting-cars-in-favour-of-horses-theres-nothing-you-can-do-about-it-its-the-future/",
+      "image": "https://cdn.mos.cms.futurecdn.net/78FVanyQ5vQmtSo5mLGxAn-1920-80.jpg",
+      "date": "2026-07-15T05:07:28+00:00"
+    },
+    {
+      "title": "AI or Not",
+      "summary": "Article URL: https://kritrim.xyz/app/1/aiornot/ Comments URL: https://news.ycombinator.com/item?id=48916487 Points: 3 # Comments: 3",
+      "url": "https://kritrim.xyz/app/1/aiornot/",
+      "image": "",
+      "date": "2026-07-15T05:05:52+00:00"
+    },
+    {
+      "title": "AI models' values are different from most people's",
+      "summary": "Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48916463 Points: 2 # Comments: 0",
+      "url": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
+      "image": "",
+      "date": "2026-07-15T05:01:32+00:00"
     }
   ]
 }
