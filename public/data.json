@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-07-16T08:31:16.945671+00:00",
-  "items": []
+  "generated_at": "2026-07-17T08:25:29.184637+00:00",
+  "items": [
+    {
+      "title": "Coding in space, AI-XR, and new interaction paradigms for devs",
+      "summary": "Article URL: https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/ Comments URL: https://news.ycombinator.com/item?id=48944637 Points: 1 # Comments: 0",
+      "url": "https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/",
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/JB-social-BlogSocialShare-1280x720-1-4.png",
+      "date": "2026-07-17T08:18:16+00:00"
+    },
+    {
+      "title": "A structurally chunked, pre-embedded SQLite corpus of the EU AI Act",
+      "summary": "Article URL: https://huggingface.co/datasets/faitholopade/aiact-openrag Comments URL: https://news.ycombinator.com/item?id=48944567 Points: 1 # Comments: 0",
+      "url": "https://huggingface.co/datasets/faitholopade/aiact-openrag",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/faitholopade/aiact-openrag.png",
+      "date": "2026-07-17T08:09:39+00:00"
+    },
+    {
+      "title": "Netflix says around 300 titles used generative AI",
+      "summary": "Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48944252 Points: 2 # Comments: 0",
+      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/american-experiment.jpg?quality=90&strip=all&crop=10.208333333333,0,79.583333333333,100",
+      "date": "2026-07-17T07:15:51+00:00"
+    },
+    {
+      "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
+      "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges Comments URL: https://news.ycombinator.com/item?id=48944178 Points: 2 # Comments: 0",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/17/02c21ed5-0817-4038-816d-b93ec401a385_e13d3cfd.jpg?itok=-jEW38HS&v=1784268998",
+      "date": "2026-07-17T07:02:54+00:00"
+    },
+    {
+      "title": "Z.ai Set to Be First China AI Firm with $1B Annual Sales",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales Comments URL: https://news.ycombinator.com/item?id=48943902 Points: 6 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+      "image": "",
+      "date": "2026-07-17T06:20:33+00:00"
+    },
+    {
+      "title": "Nvidia has a new AI-RAN plan – a 6G radio unit chip",
+      "summary": "Article URL: https://www.lightreading.com/6g/nvidia-has-a-radical-new-ai-ran-plan-a-6g-radio-unit-chip Comments URL: https://news.ycombinator.com/item?id=48943789 Points: 2 # Comments: 1",
+      "url": "https://www.lightreading.com/6g/nvidia-has-a-radical-new-ai-ran-plan-a-6g-radio-unit-chip",
+      "image": "",
+      "date": "2026-07-17T05:58:35+00:00"
+    },
+    {
+      "title": "Ask HN: I feel like I've lost my identity due to AI",
+      "summary": "I am a self taught software developer. I was previously an electrical engineer. For the past 10 years I’ve spent almost all my spare time reading and learning and lifting weights - software, electrical engineering, reading, and creating what I thought were novel projects - mostly in the software domain. For the longest time I’ve only been interested in ideas that haven’t really been done before, maybe that’s because I have adhd? But lots of the ideas I pursue and build are relatively novel or unique in some way, not derivative. Anyway, then LLMs happened. Now any idiot can just ask an AI for ideas or to think for them, or to build software for them in a single shot. Initially I was really excited by LLMs because I thought great, something to bounce ideas off. Now LLMs have far surpassed any idea I could possibly have. Not only that, but I’m a builder and I have always built things and launched projects to the world. Now my projects are drowning in a sea of noise. I’m contributing to the noise. I don’t even hand program anymore, because the llm can do it all better than me. I can architect better, but soon that will disappear too. I don’t mean to be morbid, but I feel like I don’t have much to live for anymore. I’m young (late 20s), I’m semi-disabled, and AI is affecting my career. I see the writing on the wall. Jobs are being heavily affected, layoffs constantly, restructures, the works. Before AI I had a way to stand out amongst the crowd. I had industry awards, global recognition to a certain degree, successful business exits, and strong programming skills. AI is advancing so rapidly that I think even system architects are fucked. So, can’t do physical jobs due to semi disability and pretty soon won’t be able to do office work because - any idiot can do office work now. I’m pretty checked out, and have basically lost passion for everything. I’ve been thinking about the phrase “chop wood, carry water” or whatever it is, and I’d like to do that. But that doesn’t pay the bills. Comments URL: https://news.ycombinator.com/item?id=48943622 Points: 6 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=48943622",
+      "image": "",
+      "date": "2026-07-17T05:28:54+00:00"
+    },
+    {
+      "title": "Ask HN: Workflow Automation vs AI Agents?",
+      "summary": "A while ago, workflow automation tools (Zapier, Make, n8n) were booming. Now AI agents start eating into that space, OpenAI's Workspace Agents, Lindy, Claude's agentic features, etc. i understand both have tradeoffs, but i'm trying to understand real-world usage: 1. why workflow automarion over AI Agents? What does it still do better? 2. if you've using AI agents, what made you switch? What do you trust them with? 3. why not use either of them? feel free to give your opinion, im curious Comments URL: https://news.ycombinator.com/item?id=48943616 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=48943616",
+      "image": "",
+      "date": "2026-07-17T05:28:15+00:00"
+    },
+    {
+      "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/ Comments URL: https://news.ycombinator.com/item?id=48943519 Points: 8 # Comments: 6",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+      "image": "",
+      "date": "2026-07-17T05:07:29+00:00"
+    },
+    {
+      "title": "EU forces Google to share search data and open Android to rival AI companies",
+      "summary": "Article URL: https://apnews.com/article/eu-google-android-antitrust-184b3067120e56d858cb8c81aee26d45 Comments URL: https://news.ycombinator.com/item?id=48943496 Points: 5 # Comments: 1",
+      "url": "https://apnews.com/article/eu-google-android-antitrust-184b3067120e56d858cb8c81aee26d45",
+      "image": "https://dims.apnews.com/dims4/default/117fdc2/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2F52%2F59efd8183892cf11aab37c69c89c%2Fd04b023ff8494a32a1ee56d7cf8163c9",
+      "date": "2026-07-17T05:03:06+00:00"
+    },
+    {
+      "title": "I measured whether AI writes hollower tests than humans. It doesn't",
+      "summary": "Article URL: https://driivai.github.io/voidguard/ Comments URL: https://news.ycombinator.com/item?id=48943442 Points: 1 # Comments: 0",
+      "url": "https://driivai.github.io/voidguard/",
+      "image": "",
+      "date": "2026-07-17T04:48:44+00:00"
+    },
+    {
+      "title": "Show HN: No AI, just plain old JavaScript and Python RAD",
+      "summary": "Article URL: https://jam-py-v7.github.io/jam-py-v7/ Comments URL: https://news.ycombinator.com/item?id=48943410 Points: 1 # Comments: 0",
+      "url": "https://jam-py-v7.github.io/jam-py-v7/",
+      "image": "",
+      "date": "2026-07-17T04:42:35+00:00"
+    },
+    {
+      "title": "China Just Dropped Another Bomb on America's Frontier AI Companies",
+      "summary": "Article URL: https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670 Comments URL: https://news.ycombinator.com/item?id=48943385 Points: 3 # Comments: 0",
+      "url": "https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670",
+      "image": "",
+      "date": "2026-07-17T04:38:23+00:00"
+    },
+    {
+      "title": "AI is changing what we can do. Who we become is still our choice",
+      "summary": "Article URL: https://humanistreview.ai/issue-1/appiah-ai-moral-character/ Comments URL: https://news.ycombinator.com/item?id=48943333 Points: 1 # Comments: 0",
+      "url": "https://humanistreview.ai/issue-1/appiah-ai-moral-character/",
+      "image": "",
+      "date": "2026-07-17T04:27:35+00:00"
+    }
+  ]
 }
