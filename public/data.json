@@ -1,4 +1,68 @@
 {
-  "generated_at": "2026-07-22T08:41:29.356844+00:00",
-  "items": []
+  "generated_at": "2026-07-23T08:42:37.375055+00:00",
+  "items": [
+    {
+      "title": "The Indie Hacker in the Age of AI: Renaissance, Reckoning, or Both?",
+      "summary": "Article URL: https://thinkapedia.com/t/tk_dHo0EZsbg46G/document Comments URL: https://news.ycombinator.com/item?id=49018436 Points: 2 # Comments: 0",
+      "url": "https://thinkapedia.com/t/tk_dHo0EZsbg46G/document",
+      "image": "https://thinkapedia.com/t/tk_dHo0EZsbg46G/image",
+      "date": "2026-07-23T08:25:24+00:00"
+    },
+    {
+      "title": "AI Slop: Why Philosophy Journals Should Reject AI-Written Prose",
+      "summary": "Article URL: http://schwitzsplinters.blogspot.com/2026/07/ai-slop-and-evidence-about-evidence-why.html Comments URL: https://news.ycombinator.com/item?id=49018380 Points: 2 # Comments: 0",
+      "url": "http://schwitzsplinters.blogspot.com/2026/07/ai-slop-and-evidence-about-evidence-why.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGZmzT2NRauPZfrVNc-I8OzPsetv_lPDnCMW6Aeo_nZtHHjNBhXTuzITZCeQWO0wvjj8URtXh12f__Alo-4DyejvODIGYp9ujZkn4OaXkgJmBBHN5xOdrmWtAmUe0OhYFJ3QnK03BTYCktSGWM66ReWZunWclQzgYVXXGiTBdcyhFL_FJTknV0A/w1200-h630-p-k-no-nu/Mud.jpg",
+      "date": "2026-07-23T08:18:00+00:00"
+    },
+    {
+      "title": "AI Agents Don't Respect Font Licenses",
+      "summary": "Article URL: https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses Comments URL: https://news.ycombinator.com/item?id=49018334 Points: 2 # Comments: 0",
+      "url": "https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses",
+      "image": "https://static.mixfont.com/assets/20260520-211754-image_v1-5-nxplsxpm.webp",
+      "date": "2026-07-23T08:11:01+00:00"
+    },
+    {
+      "title": "Generative AI and the German Far Right: Narratives, Tactics, Digital Strategies [pdf]",
+      "summary": "Article URL: https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf Comments URL: https://news.ycombinator.com/item?id=49018265 Points: 2 # Comments: 0",
+      "url": "https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf",
+      "image": "",
+      "date": "2026-07-23T08:00:02+00:00"
+    },
+    {
+      "title": "Why the US is losing Chinese AI stars",
+      "summary": "Article URL: https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3 Comments URL: https://news.ycombinator.com/item?id=49018203 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3",
+      "image": "",
+      "date": "2026-07-23T07:52:05+00:00"
+    },
+    {
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "summary": "Article URL: https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/ Comments URL: https://news.ycombinator.com/item?id=49017865 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "image": "https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/191:100/w_1280,c_limit/politics_chinese_ai_white_house.jpg",
+      "date": "2026-07-23T07:02:15+00:00"
+    },
+    {
+      "title": "The U.S. wants to contain China's AI. Silicon Valley keeps using it",
+      "summary": "Article URL: https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/ Comments URL: https://news.ycombinator.com/item?id=49017706 Points: 8 # Comments: 0",
+      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/",
+      "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_ideas_diffusion_final-1600x900.jpg",
+      "date": "2026-07-23T06:40:21+00:00"
+    },
+    {
+      "title": "European Commission: 'Guidance to Google for AI Interoperability'",
+      "summary": "Article URL: https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing Comments URL: https://news.ycombinator.com/item?id=49017682 Points: 2 # Comments: 0",
+      "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
+      "image": "https://daringfireball.net/graphics/df-wide-card.png",
+      "date": "2026-07-23T06:36:55+00:00"
+    },
+    {
+      "title": "AI Is the Ultimate Leaky Abstraction",
+      "summary": "Article URL: https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html Comments URL: https://news.ycombinator.com/item?id=49017551 Points: 2 # Comments: 0",
+      "url": "https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html",
+      "image": "https://www.jonathanbeard.io/img/og/2026-06-20-ai-the-ultimate-leaky-abstraction.png",
+      "date": "2026-07-23T06:18:09+00:00"
+    }
+  ]
 }
