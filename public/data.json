@@ -1,4 +1,89 @@
 {
-  "generated_at": "2026-07-24T08:39:55.919369+00:00",
-  "items": []
+  "generated_at": "2026-07-25T08:21:40.058778+00:00",
+  "items": [
+    {
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html Comments URL: https://news.ycombinator.com/item?id=49045591 Points: 4 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108107708-1740584303156-gettyimages-2201489565-ALEXA_AI_UNVEILING.jpeg?v=1784747366&w=1920&h=1080",
+      "date": "2026-07-25T08:14:47+00:00"
+    },
+    {
+      "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+      "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Points: 3 # Comments: 0",
+      "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+      "image": "https://www.energy.gov/sites/default/files/2025-02/DOE%20Full%20Seal%20on%20white%20gray%20background%20-%201250x785_1.png",
+      "date": "2026-07-25T07:50:15+00:00"
+    },
+    {
+      "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
+      "summary": "Article URL: https://www.innerkore.com/blog/library-and-librarian/ Comments URL: https://news.ycombinator.com/item?id=49045382 Points: 2 # Comments: 0",
+      "url": "https://www.innerkore.com/blog/library-and-librarian/",
+      "image": "https://innerkore.com/assets/images/logo.jpeg",
+      "date": "2026-07-25T07:40:13+00:00"
+    },
+    {
+      "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
+      "summary": "I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase. The codebase is 1M+ lines, 15 years old, hosted on Azure, and primarily written in C# and React. The prototype needs to be available for customer testing in September. No developers were available to work on it full-time, although I could occasionally get help with specific technical issues. An engineer will evaluate the implementation in August and decide how much confidence we can have in the AI-generated code so that we can decide how to “convert” the code to production-grade. My question is what I can do before August, primarily using AI tools and manual testing, to make the code as robust and reviewable as possible. I want to increase the likelihood that the AI-generated code would be so good that the path to production-grade would be closer to “copy-paste” than building everything again from scratch. Environment\nThe prototype is being developed in a separate branch, deployed to a separate internal environment, and connected to its own database and schema. Planning process\nWe interviewed customers in June and turned the resuls into an MVP spec. The process was approximately:\n1. Write a PRD.\n2. Use an LLM to convert the PRD into an architecture document, which was reviewed by an architect.\n3. Create product designs consisting of screen images and md files containing interaction details ans edge cases with Claude Design.\n4. Use an agent to break the work into epics using the PRD and architecture document as guardrails. The epics were the most granular planning artifacts that received review by me and the architect. Development process\nThe development flow was intended to run with little intervention:\n1. A planner agent converted epics into md story files and Jira stories\n2. A coding agent implemented the stories including tests and opened PRs\n3. A reviewer agent reviewed the PRs, requested changes, and merged them into the prototype branch The coding agent polled PRs for review comments and could escalate issues back to the planner. Agents also had a “stop and ask” list for decisions they were not allowed to make autonomously. I (and a few times an engineer) were involved by resolving those escalations and by manually testing the accumulated changes end to end each day. Most implementation and initial review were done with Claude-based agents. For riskier PRs, I also used Codex as a reviewer. The second-model review found substantially more relevant issues in the Claude-generated code, but token quotas limited the use. I had separate refactoring and harden runs for the code as well. Results\nThe planning and setting up the environment and agentic flow took about two weeks and then the agents built the whole MVP in about two weeks. Size-wise it was 13k lines of functional code + the same amount for tests. What I would like advice on\nAssuming that I cannot get substantial developer involvement before the review, how can I increase the likelihood that the code is as close to production-grade as possible? Here are some of the questions I have been thinking about:\n1. What checks or development loops would give the largest improvement in confidence before an engineer reviews the code?\n2. How would you use independent agents or models to reduce the risk that the coder and reviewer make the same incorrect assumptions?\n3. Should tests be generated by a separate agent from the one that wrote the implementation? \n4. What documentation or evidence would make the eventual engineering review faster and more reliable? \n5. If you had only a few weeks to improve this prototype before handing it to an engineer, what would you prioritize? Comments URL: https://news.ycombinator.com/item?id=49045271 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49045271",
+      "image": "",
+      "date": "2026-07-25T07:19:48+00:00"
+    },
+    {
+      "title": "Substack adds AI text detection to all notes and posts",
+      "summary": "Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0",
+      "url": "https://post.substack.com/p/against-claudefishing",
+      "image": "",
+      "date": "2026-07-25T07:04:43+00:00"
+    },
+    {
+      "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
+      "summary": "Article URL: https://varnam.substack.com/p/the-architecture-of-deep-thought Comments URL: https://news.ycombinator.com/item?id=49044674 Points: 2 # Comments: 0",
+      "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
+      "image": "",
+      "date": "2026-07-25T05:02:54+00:00"
+    },
+    {
+      "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
+      "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/ Comments URL: https://news.ycombinator.com/item?id=49044597 Points: 2 # Comments: 0",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
+      "image": "",
+      "date": "2026-07-25T04:42:35+00:00"
+    },
+    {
+      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2",
+      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "image": "",
+      "date": "2026-07-25T04:00:54+00:00"
+    },
+    {
+      "title": "Gatekeepers, Luddites, Haters and AI-Generated Maps",
+      "summary": "Article URL: https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/ Comments URL: https://news.ycombinator.com/item?id=49044345 Points: 3 # Comments: 0",
+      "url": "https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/",
+      "image": "",
+      "date": "2026-07-25T03:50:51+00:00"
+    },
+    {
+      "title": "AI Agent Blameless Postmortem Template",
+      "summary": "Article URL: https://cordum.io/blog/ai-agent-blameless-postmortem-template Comments URL: https://news.ycombinator.com/item?id=49044341 Points: 1 # Comments: 0",
+      "url": "https://cordum.io/blog/ai-agent-blameless-postmortem-template",
+      "image": "",
+      "date": "2026-07-25T03:50:03+00:00"
+    },
+    {
+      "title": "The Discovery Problem: When AI Agents Build Tools No One Can Find",
+      "summary": "Article URL: https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools Comments URL: https://news.ycombinator.com/item?id=49044338 Points: 1 # Comments: 0",
+      "url": "https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools",
+      "image": "https://www.ixcoach.com/ix-glass-logo.png",
+      "date": "2026-07-25T03:49:17+00:00"
+    },
+    {
+      "title": "Agentic AI Workflows and the Future of Streaming Ad Tech",
+      "summary": "Article URL: https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405 Comments URL: https://news.ycombinator.com/item?id=49043960 Points: 1 # Comments: 1",
+      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405",
+      "image": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/459460-krefetz-ai-advertising-ORG.png",
+      "date": "2026-07-25T02:31:42+00:00"
+    }
+  ]
 }
