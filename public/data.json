@@ -1,89 +1,96 @@
 {
-  "generated_at": "2026-07-25T08:21:40.058778+00:00",
+  "generated_at": "2026-07-26T08:37:33.356752+00:00",
   "items": [
     {
-      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html Comments URL: https://news.ycombinator.com/item?id=49045591 Points: 4 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108107708-1740584303156-gettyimages-2201489565-ALEXA_AI_UNVEILING.jpeg?v=1784747366&w=1920&h=1080",
-      "date": "2026-07-25T08:14:47+00:00"
+      "title": "What will more intelligence do for us?",
+      "summary": "Article URL: https://www.noahpinion.blog/p/what-will-more-intelligence-actually Comments URL: https://news.ycombinator.com/item?id=49055926 Points: 1 # Comments: 0",
+      "url": "https://www.noahpinion.blog/p/what-will-more-intelligence-actually",
+      "image": "https://substackcdn.com/image/fetch/$s_!ElHF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F533b347d-c640-4b99-b746-78e790ab20d9_739x415.jpeg",
+      "date": "2026-07-26T08:28:43+00:00"
     },
     {
-      "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
-      "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Points: 3 # Comments: 0",
+      "title": "If you feel the need to tell me your answer is AI-based, work it more",
+      "summary": "Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=49055896 Points: 1 # Comments: 0",
+      "url": "https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/",
+      "image": "https://cephalosec.com/content/images/size/w1200/2026/06/cephalosec-8-trans-2--1-.png",
+      "date": "2026-07-26T08:22:48+00:00"
+    },
+    {
+      "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+      "summary": "Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898 Comments URL: https://news.ycombinator.com/item?id=49055877 Points: 1 # Comments: 0",
+      "url": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+      "image": "",
+      "date": "2026-07-26T08:18:59+00:00"
+    },
+    {
+      "title": "Anthropic secures its AI-native software development lifecycle",
+      "summary": "Article URL: https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle Comments URL: https://news.ycombinator.com/item?id=49055849 Points: 2 # Comments: 0",
+      "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a5faa4b748d179725b5376e_og_how-anthropic-secures-its-ai-native-software-development-lifecycle.jpg",
+      "date": "2026-07-26T08:12:28+00:00"
+    },
+    {
+      "title": "Yann LeCun's Bet That Intelligence Starts in the World",
+      "summary": "Article URL: https://aryeian.blog/articles/jepa-world-models.html Comments URL: https://news.ycombinator.com/item?id=49055825 Points: 1 # Comments: 0",
+      "url": "https://aryeian.blog/articles/jepa-world-models.html",
+      "image": "",
+      "date": "2026-07-26T08:08:00+00:00"
+    },
+    {
+      "title": "Hans Moravec was right about AI",
+      "summary": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49055308 Points: 2 # Comments: 0",
+      "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/860/c8e/fcc5c1640476bc14c6e659e1f289e3f88e-moravec-wired-1.1x.rsocial.w1200.jpg",
+      "date": "2026-07-26T06:22:05+00:00"
+    },
+    {
+      "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
+      "summary": "Article URL: https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai Comments URL: https://news.ycombinator.com/item?id=49055188 Points: 3 # Comments: 0",
+      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+      "image": "",
+      "date": "2026-07-26T05:59:36+00:00"
+    },
+    {
+      "title": "MIT to become hotbed of AI video surveillance",
+      "summary": "Article URL: https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html Comments URL: https://news.ycombinator.com/item?id=49054638 Points: 14 # Comments: 2",
+      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+      "image": "",
+      "date": "2026-07-26T04:07:54+00:00"
+    },
+    {
+      "title": "DOE announces first Genesis Mission projects for AI-driven scientific discovery",
+      "summary": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49054396 Points: 5 # Comments: 1",
       "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
       "image": "https://www.energy.gov/sites/default/files/2025-02/DOE%20Full%20Seal%20on%20white%20gray%20background%20-%201250x785_1.png",
-      "date": "2026-07-25T07:50:15+00:00"
+      "date": "2026-07-26T03:26:50+00:00"
     },
     {
-      "title": "The Library and the Librarian: Why AI Needs Two Different Brains",
-      "summary": "Article URL: https://www.innerkore.com/blog/library-and-librarian/ Comments URL: https://news.ycombinator.com/item?id=49045382 Points: 2 # Comments: 0",
-      "url": "https://www.innerkore.com/blog/library-and-librarian/",
-      "image": "https://innerkore.com/assets/images/logo.jpeg",
-      "date": "2026-07-25T07:40:13+00:00"
-    },
-    {
-      "title": "Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?",
-      "summary": "I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase. The codebase is 1M+ lines, 15 years old, hosted on Azure, and primarily written in C# and React. The prototype needs to be available for customer testing in September. No developers were available to work on it full-time, although I could occasionally get help with specific technical issues. An engineer will evaluate the implementation in August and decide how much confidence we can have in the AI-generated code so that we can decide how to “convert” the code to production-grade. My question is what I can do before August, primarily using AI tools and manual testing, to make the code as robust and reviewable as possible. I want to increase the likelihood that the AI-generated code would be so good that the path to production-grade would be closer to “copy-paste” than building everything again from scratch. Environment\nThe prototype is being developed in a separate branch, deployed to a separate internal environment, and connected to its own database and schema. Planning process\nWe interviewed customers in June and turned the resuls into an MVP spec. The process was approximately:\n1. Write a PRD.\n2. Use an LLM to convert the PRD into an architecture document, which was reviewed by an architect.\n3. Create product designs consisting of screen images and md files containing interaction details ans edge cases with Claude Design.\n4. Use an agent to break the work into epics using the PRD and architecture document as guardrails. The epics were the most granular planning artifacts that received review by me and the architect. Development process\nThe development flow was intended to run with little intervention:\n1. A planner agent converted epics into md story files and Jira stories\n2. A coding agent implemented the stories including tests and opened PRs\n3. A reviewer agent reviewed the PRs, requested changes, and merged them into the prototype branch The coding agent polled PRs for review comments and could escalate issues back to the planner. Agents also had a “stop and ask” list for decisions they were not allowed to make autonomously. I (and a few times an engineer) were involved by resolving those escalations and by manually testing the accumulated changes end to end each day. Most implementation and initial review were done with Claude-based agents. For riskier PRs, I also used Codex as a reviewer. The second-model review found substantially more relevant issues in the Claude-generated code, but token quotas limited the use. I had separate refactoring and harden runs for the code as well. Results\nThe planning and setting up the environment and agentic flow took about two weeks and then the agents built the whole MVP in about two weeks. Size-wise it was 13k lines of functional code + the same amount for tests. What I would like advice on\nAssuming that I cannot get substantial developer involvement before the review, how can I increase the likelihood that the code is as close to production-grade as possible? Here are some of the questions I have been thinking about:\n1. What checks or development loops would give the largest improvement in confidence before an engineer reviews the code?\n2. How would you use independent agents or models to reduce the risk that the coder and reviewer make the same incorrect assumptions?\n3. Should tests be generated by a separate agent from the one that wrote the implementation? \n4. What documentation or evidence would make the eventual engineering review faster and more reliable? \n5. If you had only a few weeks to improve this prototype before handing it to an engineer, what would you prioritize? Comments URL: https://news.ycombinator.com/item?id=49045271 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49045271",
+      "title": "Dartmouth Workshop on Artificial Intelligence (1956)",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Dartmouth_workshop Comments URL: https://news.ycombinator.com/item?id=49053891 Points: 2 # Comments: 0",
+      "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
       "image": "",
-      "date": "2026-07-25T07:19:48+00:00"
+      "date": "2026-07-26T02:02:43+00:00"
     },
     {
-      "title": "Substack adds AI text detection to all notes and posts",
-      "summary": "Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0",
-      "url": "https://post.substack.com/p/against-claudefishing",
-      "image": "",
-      "date": "2026-07-25T07:04:43+00:00"
+      "title": "NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone",
+      "summary": "Article URL: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49053809 Points: 4 # Comments: 1",
+      "url": "https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2234563479-e1784752021438.jpg?resize=1200,600",
+      "date": "2026-07-26T01:49:50+00:00"
     },
     {
-      "title": "The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction",
-      "summary": "Article URL: https://varnam.substack.com/p/the-architecture-of-deep-thought Comments URL: https://news.ycombinator.com/item?id=49044674 Points: 2 # Comments: 0",
-      "url": "https://varnam.substack.com/p/the-architecture-of-deep-thought",
-      "image": "",
-      "date": "2026-07-25T05:02:54+00:00"
+      "title": "The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft",
+      "summary": "Article URL: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/ Comments URL: https://news.ycombinator.com/item?id=49053787 Points: 2 # Comments: 1",
+      "url": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2254386370.jpg?resize=1200,600",
+      "date": "2026-07-26T01:47:31+00:00"
     },
     {
-      "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
-      "summary": "Article URL: https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/ Comments URL: https://news.ycombinator.com/item?id=49044597 Points: 2 # Comments: 0",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/",
-      "image": "",
-      "date": "2026-07-25T04:42:35+00:00"
-    },
-    {
-      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2",
-      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-      "image": "",
-      "date": "2026-07-25T04:00:54+00:00"
-    },
-    {
-      "title": "Gatekeepers, Luddites, Haters and AI-Generated Maps",
-      "summary": "Article URL: https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/ Comments URL: https://news.ycombinator.com/item?id=49044345 Points: 3 # Comments: 0",
-      "url": "https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/",
-      "image": "",
-      "date": "2026-07-25T03:50:51+00:00"
-    },
-    {
-      "title": "AI Agent Blameless Postmortem Template",
-      "summary": "Article URL: https://cordum.io/blog/ai-agent-blameless-postmortem-template Comments URL: https://news.ycombinator.com/item?id=49044341 Points: 1 # Comments: 0",
-      "url": "https://cordum.io/blog/ai-agent-blameless-postmortem-template",
-      "image": "",
-      "date": "2026-07-25T03:50:03+00:00"
-    },
-    {
-      "title": "The Discovery Problem: When AI Agents Build Tools No One Can Find",
-      "summary": "Article URL: https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools Comments URL: https://news.ycombinator.com/item?id=49044338 Points: 1 # Comments: 0",
-      "url": "https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools",
-      "image": "https://www.ixcoach.com/ix-glass-logo.png",
-      "date": "2026-07-25T03:49:17+00:00"
-    },
-    {
-      "title": "Agentic AI Workflows and the Future of Streaming Ad Tech",
-      "summary": "Article URL: https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405 Comments URL: https://news.ycombinator.com/item?id=49043960 Points: 1 # Comments: 1",
-      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405",
-      "image": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/459460-krefetz-ai-advertising-ORG.png",
-      "date": "2026-07-25T02:31:42+00:00"
+      "title": "AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work",
+      "summary": "Article URL: https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./ Comments URL: https://news.ycombinator.com/item?id=49053679 Points: 2 # Comments: 0",
+      "url": "https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./",
+      "image": "https://static.philippdubach.com/ograph/ograph-isomorphic-labs-isodde1.jpg",
+      "date": "2026-07-26T01:28:59+00:00"
     }
   ]
 }
