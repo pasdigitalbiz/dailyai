@@ -1,4 +1,89 @@
 {
-  "generated_at": "2026-07-27T10:06:08.842089+00:00",
-  "items": []
+  "generated_at": "2026-07-28T08:48:29.588312+00:00",
+  "items": [
+    {
+      "title": "AI Hosts and Sandboxes Save Intel's Datacenter CPU Cookies",
+      "summary": "Article URL: https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338 Comments URL: https://news.ycombinator.com/item?id=49081091 Points: 2 # Comments: 0",
+      "url": "https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338",
+      "image": "https://image.nextplatform.com/5218918.jpg?imageId=5218918&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-07-28T08:40:06+00:00"
+    },
+    {
+      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith",
+      "summary": "Article URL: https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5 Comments URL: https://news.ycombinator.com/item?id=49081082 Points: 1 # Comments: 0",
+      "url": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/ZXwmisqypjk",
+      "date": "2026-07-28T08:38:51+00:00"
+    },
+    {
+      "title": "If AI Writes All the Code, What Do the Programmers Do?",
+      "summary": "Article URL: https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/ Comments URL: https://news.ycombinator.com/item?id=49080905 Points: 2 # Comments: 0",
+      "url": "https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/",
+      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "date": "2026-07-28T08:17:58+00:00"
+    },
+    {
+      "title": "Some people's chats with Claude AI found to be publicly available online",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cly5qgjk5ywo Comments URL: https://news.ycombinator.com/item?id=49080823 Points: 1 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/cly5qgjk5ywo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
+      "date": "2026-07-28T08:06:18+00:00"
+    },
+    {
+      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+      "summary": "Dear all, our team is using a Claude AI Team plan for more than 1 year already: - we are a normal company, doing normal business, nothing critical - all our bills are paid and we can see them as paid - nontheless, the service is not available for more than one week to us Question: - any other idea to reach out to them than their \"Fin AI Chatbot\" at support@anthropic.com? - did anybody else had the same experience? If yes, what helped to solve it? Its really frustrating :-( (especially since some people built their interal workflow around Claude, now they are somehow stuck) Comments URL: https://news.ycombinator.com/item?id=49080775 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49080775",
+      "image": "",
+      "date": "2026-07-28T08:00:19+00:00"
+    },
+    {
+      "title": "Show HN: Reverse-engineer viral videos into AI-ready shot breakdowns",
+      "summary": "Article URL: https://videolens.cc/zh/landing Comments URL: https://news.ycombinator.com/item?id=49080617 Points: 1 # Comments: 0",
+      "url": "https://videolens.cc/zh/landing",
+      "image": "https://videolens.cc/og-image.png",
+      "date": "2026-07-28T07:38:32+00:00"
+    },
+    {
+      "title": "Artificial Intelligence: Shades of Gray",
+      "summary": "Article URL: https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray Comments URL: https://news.ycombinator.com/item?id=49080612 Points: 1 # Comments: 0",
+      "url": "https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray",
+      "image": "",
+      "date": "2026-07-28T07:38:06+00:00"
+    },
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "summary": "Article URL: https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/ Comments URL: https://news.ycombinator.com/item?id=49080345 Points: 5 # Comments: 1",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "date": "2026-07-28T07:02:33+00:00"
+    },
+    {
+      "title": "Cracking the code: can AI help us decipher ancient languages?",
+      "summary": "Article URL: https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238 Comments URL: https://news.ycombinator.com/item?id=49080321 Points: 2 # Comments: 0",
+      "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
+      "image": "https://images.theconversation.com/files/749843/original/file-20260723-57-tmqzvk.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C4256%2C2128&q=45&auto=format&w=1356&h=668&fit=crop",
+      "date": "2026-07-28T06:59:35+00:00"
+    },
+    {
+      "title": "AI 'tokenmaxxing' fades as workplaces look to cut tech spending",
+      "summary": "Article URL: https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1 Comments URL: https://news.ycombinator.com/item?id=49080248 Points: 8 # Comments: 1",
+      "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
+      "image": "https://dims.apnews.com/dims4/default/39f6488/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F43%2F478f3e1c7c020bf5377e2b2c9410%2F29c57f7133f34a08b9b6c69c437a5c01",
+      "date": "2026-07-28T06:48:53+00:00"
+    },
+    {
+      "title": "How I use AI in my geology research without losing the science I love",
+      "summary": "Article URL: https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love Comments URL: https://news.ycombinator.com/item?id=49079892 Points: 1 # Comments: 0",
+      "url": "https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love",
+      "image": "",
+      "date": "2026-07-28T05:48:54+00:00"
+    },
+    {
+      "title": "How to choose an AI Agent platform for your team",
+      "summary": "Article URL: https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/ Comments URL: https://news.ycombinator.com/item?id=49079699 Points: 4 # Comments: 0",
+      "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
+      "image": "https://construct.computer/og/blog-how-to-choose-an-ai-agent-platform-for-your-team.png",
+      "date": "2026-07-28T05:22:03+00:00"
+    }
+  ]
 }
