@@ -1,89 +1,103 @@
 {
-  "generated_at": "2026-07-28T08:48:29.588312+00:00",
+  "generated_at": "2026-07-29T09:05:48.506916+00:00",
   "items": [
     {
-      "title": "AI Hosts and Sandboxes Save Intel's Datacenter CPU Cookies",
-      "summary": "Article URL: https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338 Comments URL: https://news.ycombinator.com/item?id=49081091 Points: 2 # Comments: 0",
-      "url": "https://www.nextplatform.com/compute/2026/07/28/ai-hosts-and-sandboxes-save-intels-datacenter-cpu-cookies/5279338",
-      "image": "https://image.nextplatform.com/5218918.jpg?imageId=5218918&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-07-28T08:40:06+00:00"
+      "title": "ChatGPT claims rogue AI attacked more companies",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2el319vzr3o Comments URL: https://news.ycombinator.com/item?id=49094996 Points: 1 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg",
+      "date": "2026-07-29T09:03:17+00:00"
     },
     {
-      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith",
-      "summary": "Article URL: https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5 Comments URL: https://news.ycombinator.com/item?id=49081082 Points: 1 # Comments: 0",
-      "url": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/ZXwmisqypjk",
-      "date": "2026-07-28T08:38:51+00:00"
+      "title": "The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything",
+      "summary": "Article URL: https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell Comments URL: https://news.ycombinator.com/item?id=49094691 Points: 1 # Comments: 2",
+      "url": "https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell",
+      "image": "https://substackcdn.com/image/fetch/$s_!Ysfy!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4046c588-0629-45e7-a4f5-e759b87193de_1248x832.jpeg",
+      "date": "2026-07-29T08:12:47+00:00"
     },
     {
-      "title": "If AI Writes All the Code, What Do the Programmers Do?",
-      "summary": "Article URL: https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/ Comments URL: https://news.ycombinator.com/item?id=49080905 Points: 2 # Comments: 0",
-      "url": "https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/",
-      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-      "date": "2026-07-28T08:17:58+00:00"
-    },
-    {
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cly5qgjk5ywo Comments URL: https://news.ycombinator.com/item?id=49080823 Points: 1 # Comments: 0",
-      "url": "https://www.bbc.com/news/articles/cly5qgjk5ywo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
-      "date": "2026-07-28T08:06:18+00:00"
-    },
-    {
-      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-      "summary": "Dear all, our team is using a Claude AI Team plan for more than 1 year already: - we are a normal company, doing normal business, nothing critical - all our bills are paid and we can see them as paid - nontheless, the service is not available for more than one week to us Question: - any other idea to reach out to them than their \"Fin AI Chatbot\" at support@anthropic.com? - did anybody else had the same experience? If yes, what helped to solve it? Its really frustrating :-( (especially since some people built their interal workflow around Claude, now they are somehow stuck) Comments URL: https://news.ycombinator.com/item?id=49080775 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49080775",
+      "title": "Software companies face existential question as AI changes what customers buy",
+      "summary": "Article URL: https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html Comments URL: https://news.ycombinator.com/item?id=49094514 Points: 2 # Comments: 0",
+      "url": "https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html",
       "image": "",
-      "date": "2026-07-28T08:00:19+00:00"
+      "date": "2026-07-29T07:44:04+00:00"
     },
     {
-      "title": "Show HN: Reverse-engineer viral videos into AI-ready shot breakdowns",
-      "summary": "Article URL: https://videolens.cc/zh/landing Comments URL: https://news.ycombinator.com/item?id=49080617 Points: 1 # Comments: 0",
-      "url": "https://videolens.cc/zh/landing",
-      "image": "https://videolens.cc/og-image.png",
-      "date": "2026-07-28T07:38:32+00:00"
+      "title": "Preventing Data-Purpose Laundering by Agentic AI",
+      "summary": "Article URL: https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/preventing-data-purpose-laundering-agentic-ai-hardware-rooted-pre-effectuation-layer-gdpr-purpose Comments URL: https://news.ycombinator.com/item?id=49094483 Points: 1 # Comments: 0",
+      "url": "https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/preventing-data-purpose-laundering-agentic-ai-hardware-rooted-pre-effectuation-layer-gdpr-purpose",
+      "image": "https://futurium.ec.europa.eu/system/files/2025-09/AI%20Alliance%20logo%201.png",
+      "date": "2026-07-29T07:39:11+00:00"
     },
     {
-      "title": "Artificial Intelligence: Shades of Gray",
-      "summary": "Article URL: https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray Comments URL: https://news.ycombinator.com/item?id=49080612 Points: 1 # Comments: 0",
-      "url": "https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray",
+      "title": "Which mobile AI agent is the most powerful in 2026",
+      "summary": "Article URL: https://knightli.com/en/2026/05/29/mobile-gui-agent-projects-comparison/ Comments URL: https://news.ycombinator.com/item?id=49094476 Points: 4 # Comments: 3",
+      "url": "https://knightli.com/en/2026/05/29/mobile-gui-agent-projects-comparison/",
       "image": "",
-      "date": "2026-07-28T07:38:06+00:00"
+      "date": "2026-07-29T07:38:09+00:00"
     },
     {
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "summary": "Article URL: https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/ Comments URL: https://news.ycombinator.com/item?id=49080345 Points: 5 # Comments: 1",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-      "date": "2026-07-28T07:02:33+00:00"
+      "title": "What our AI guiding principles mean – Wagtail CMS",
+      "summary": "Article URL: https://wagtail.org/blog/what-our-ai-guiding-principles-actually-mean/ Comments URL: https://news.ycombinator.com/item?id=49094465 Points: 1 # Comments: 0",
+      "url": "https://wagtail.org/blog/what-our-ai-guiding-principles-actually-mean/",
+      "image": "https://media.wagtail.org/images/pareto_frontier_of_open_weight_AI_models_fo.min-1200x630.png",
+      "date": "2026-07-29T07:35:52+00:00"
     },
     {
-      "title": "Cracking the code: can AI help us decipher ancient languages?",
-      "summary": "Article URL: https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238 Comments URL: https://news.ycombinator.com/item?id=49080321 Points: 2 # Comments: 0",
-      "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
-      "image": "https://images.theconversation.com/files/749843/original/file-20260723-57-tmqzvk.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C4256%2C2128&q=45&auto=format&w=1356&h=668&fit=crop",
-      "date": "2026-07-28T06:59:35+00:00"
-    },
-    {
-      "title": "AI 'tokenmaxxing' fades as workplaces look to cut tech spending",
-      "summary": "Article URL: https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1 Comments URL: https://news.ycombinator.com/item?id=49080248 Points: 8 # Comments: 1",
-      "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
-      "image": "https://dims.apnews.com/dims4/default/39f6488/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F43%2F478f3e1c7c020bf5377e2b2c9410%2F29c57f7133f34a08b9b6c69c437a5c01",
-      "date": "2026-07-28T06:48:53+00:00"
-    },
-    {
-      "title": "How I use AI in my geology research without losing the science I love",
-      "summary": "Article URL: https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love Comments URL: https://news.ycombinator.com/item?id=49079892 Points: 1 # Comments: 0",
-      "url": "https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love",
+      "title": "AI and democracy: the right to resist optimization",
+      "summary": "Article URL: https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/ Comments URL: https://news.ycombinator.com/item?id=49094409 Points: 3 # Comments: 0",
+      "url": "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/",
       "image": "",
-      "date": "2026-07-28T05:48:54+00:00"
+      "date": "2026-07-29T07:28:55+00:00"
     },
     {
-      "title": "How to choose an AI Agent platform for your team",
-      "summary": "Article URL: https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/ Comments URL: https://news.ycombinator.com/item?id=49079699 Points: 4 # Comments: 0",
-      "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
-      "image": "https://construct.computer/og/blog-how-to-choose-an-ai-agent-platform-for-your-team.png",
-      "date": "2026-07-28T05:22:03+00:00"
+      "title": "Scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development",
+      "summary": "Article URL: https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727 Comments URL: https://news.ycombinator.com/item?id=49094372 Points: 2 # Comments: 0",
+      "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231102-data-center-stock-mn-1420-c79938.jpg",
+      "date": "2026-07-29T07:21:48+00:00"
+    },
+    {
+      "title": "Is AI hype cooling down? I built a data-driven dashboard",
+      "summary": "Article URL: https://laurentiugabriel.github.io/is-ai-hype-cooling-down/ Comments URL: https://news.ycombinator.com/item?id=49094225 Points: 3 # Comments: 1",
+      "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
+      "image": "",
+      "date": "2026-07-29T06:58:23+00:00"
+    },
+    {
+      "title": "Sam Altman says people don't want an AI to act as CEO",
+      "summary": "Article URL: https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7 Comments URL: https://news.ycombinator.com/item?id=49094061 Points: 11 # Comments: 8",
+      "url": "https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7",
+      "image": "https://i.insider.com/6a68cedb548c9c486b3115cc?width=1200&format=jpeg",
+      "date": "2026-07-29T06:31:43+00:00"
+    },
+    {
+      "title": "Three big AI trends collide",
+      "summary": "Article URL: https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us Comments URL: https://news.ycombinator.com/item?id=49093963 Points: 2 # Comments: 0",
+      "url": "https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us",
+      "image": "",
+      "date": "2026-07-29T06:15:02+00:00"
+    },
+    {
+      "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
+      "summary": "Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza Comments URL: https://news.ycombinator.com/item?id=49093509 Points: 36 # Comments: 8",
+      "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+      "image": "https://substackcdn.com/image/fetch/$s_!BdFA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd97bb376-6b8e-4c67-9da8-ec95a7c0a12e_4323x2882.jpeg",
+      "date": "2026-07-29T04:46:53+00:00"
+    },
+    {
+      "title": "Cross-platform Shadow AI: Find, score, and report unmanaged AI",
+      "summary": "Article URL: https://www.npmjs.com/package/@guardion/shadow-ai Comments URL: https://news.ycombinator.com/item?id=49093496 Points: 2 # Comments: 0",
+      "url": "https://www.npmjs.com/package/@guardion/shadow-ai",
+      "image": "",
+      "date": "2026-07-29T04:44:18+00:00"
+    },
+    {
+      "title": "MonkeysCode and Capuchin AI: The Agentic IDE That Gives You Total Control",
+      "summary": "Article URL: https://monkeyscode.com/blog/introducing-monkeyscode-capuchin-the-agentic-ide-that-gives-you-total-control Comments URL: https://news.ycombinator.com/item?id=49093290 Points: 1 # Comments: 0",
+      "url": "https://monkeyscode.com/blog/introducing-monkeyscode-capuchin-the-agentic-ide-that-gives-you-total-control",
+      "image": "https://monkeyscode.com/og-image.webp",
+      "date": "2026-07-29T04:03:34+00:00"
     }
   ]
 }
