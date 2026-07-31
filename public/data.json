@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-07-30T08:46:06.310413+00:00",
-  "items": []
+  "generated_at": "2026-07-31T09:13:54.835184+00:00",
+  "items": [
+    {
+      "title": "Rewriting a Six-Year-Old Personal Project with AI",
+      "summary": "Article URL: https://www.hanqi-blog.com/translation/ai_coding Comments URL: https://news.ycombinator.com/item?id=49120492 Points: 1 # Comments: 0",
+      "url": "https://www.hanqi-blog.com/translation/ai_coding",
+      "image": "",
+      "date": "2026-07-31T08:29:48+00:00"
+    },
+    {
+      "title": "Japan is launching its first centralized intelligence agency since WWII",
+      "summary": "Article URL: https://www.cnn.com/2026/07/30/asia/japan-new-intelligence-agency-bureau-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49120367 Points: 2 # Comments: 0",
+      "url": "https://www.cnn.com/2026/07/30/asia/japan-new-intelligence-agency-bureau-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-05-25t195855z-1717224003-rc2cglaf8y6m-rtrmadp-3-japan-economy-budget.JPG?c=16x9&q=w_800,c_fill",
+      "date": "2026-07-31T08:10:26+00:00"
+    },
+    {
+      "title": "Anthropic's Claude AI models hack into 3 outside groups during testing",
+      "summary": "Article URL: https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df Comments URL: https://news.ycombinator.com/item?id=49120363 Points: 1 # Comments: 1",
+      "url": "https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df",
+      "image": "",
+      "date": "2026-07-31T08:10:08+00:00"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 1 # Comments: 0",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "image": "",
+      "date": "2026-07-31T07:59:11+00:00"
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 17 # Comments: 14",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
+      "date": "2026-07-31T07:29:22+00:00"
+    },
+    {
+      "title": "Benchmarking Guardrails for AI Agent Safety",
+      "summary": "Article URL: https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49119800 Points: 3 # Comments: 0",
+      "url": "https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/",
+      "image": "https://storage.ghost.io/c/68/76/6876f0af-8955-4de4-a637-a5e7cc399136/content/images/size/w1200/2025/10/img.png",
+      "date": "2026-07-31T06:46:54+00:00"
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated 'slop'",
+      "summary": "Article URL: https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/ Comments URL: https://news.ycombinator.com/item?id=49119542 Points: 2 # Comments: 0",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+      "date": "2026-07-31T06:06:12+00:00"
+    },
+    {
+      "title": "SAP's Big Push for Tabular AI. What It Means for Enterprises",
+      "summary": "Article URL: https://pub.towardsai.net/saps-big-push-for-tabular-ai-what-it-means-for-enterprises-7dc3af2a1d8c?sk=73d9e33939f8f38b3d7ea49f87bb2e6a Comments URL: https://news.ycombinator.com/item?id=49119518 Points: 1 # Comments: 0",
+      "url": "https://pub.towardsai.net/saps-big-push-for-tabular-ai-what-it-means-for-enterprises-7dc3af2a1d8c?sk=73d9e33939f8f38b3d7ea49f87bb2e6a",
+      "image": "https://miro.medium.com/v2/resize:fit:1200/1*6psDNjJiSdHmQz9OaLR2vQ.png",
+      "date": "2026-07-31T06:02:04+00:00"
+    },
+    {
+      "title": "'First tremors' of AI earthquake showing in digital revenue hit",
+      "summary": "Article URL: https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/ Comments URL: https://news.ycombinator.com/item?id=49119344 Points: 7 # Comments: 1",
+      "url": "https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/",
+      "image": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/01/shutterstock_25488645411-e1769777639587-800x418.webp?1785483421",
+      "date": "2026-07-31T05:29:47+00:00"
+    },
+    {
+      "title": "Nvidia's $750B AI bet deepens fears of a circular tech bubble",
+      "summary": "Article URL: https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble Comments URL: https://news.ycombinator.com/item?id=49119284 Points: 4 # Comments: 1",
+      "url": "https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/a80453d/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F1d%2Fd28b8c721ab3e02f5b1ca3ef620e%2F1x-1.jpg",
+      "date": "2026-07-31T05:19:46+00:00"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands: C:\\> DIR C:\\> COPY FILE.TXT A: You had to remember the command, syntax, paths, and parameters. The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus.\nIt didn't necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage. Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork still look surprisingly terminal-like: /skill-name [param1] [param2]. The parameters are written in natural language, but the user still needs to know the capabilities that exist, and how to invoke it. Command-line flags and arguments have just been replaced with tools, skills, and context. ChatGPT works very well for asking questions, but we aren't convinced that it's the final interface for delegating work across multiple agents. A blank text box and a list of chat threads feels limiting. An agent's capabilities are mostly invisible. With Marble, we're exploring an interface that treats AI more like a workspace than another chat app.\nEach delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript. Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat. The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface? Comments URL: https://news.ycombinator.com/item?id=49119274 Points: 43 # Comments: 23",
+      "url": "https://marbleos.com/demo",
+      "image": "https://marbleos.com/hn-og.png",
+      "date": "2026-07-31T05:17:29+00:00"
+    },
+    {
+      "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button",
+      "summary": "Article URL: https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/ Comments URL: https://news.ycombinator.com/item?id=49119261 Points: 4 # Comments: 3",
+      "url": "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
+      "image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGxpbmtlZGlufGVufDB8fHx8MTc4NTQyMTY3NXww&ixlib=rb-4.1.0&q=80&w=2000",
+      "date": "2026-07-31T05:15:03+00:00"
+    },
+    {
+      "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cz7dl7w8y7po Comments URL: https://news.ycombinator.com/item?id=49119165 Points: 16 # Comments: 5",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+      "date": "2026-07-31T04:56:48+00:00"
+    },
+    {
+      "title": "Anthropic's AI Claude escaped testing environment and hacked organizations",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack Comments URL: https://news.ycombinator.com/item?id=49119138 Points: 7 # Comments: 1",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
+      "image": "https://i.guim.co.uk/img/media/aa13c4d41c91dd3087da043d229ffc335478f87d/489_0_2893_2314/master/2893.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6bbc926ff8a7e708b6807530352a8ee2",
+      "date": "2026-07-31T04:51:28+00:00"
+    }
+  ]
 }
