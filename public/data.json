@@ -1,4 +1,96 @@
 {
-  "generated_at": "2026-08-01T08:32:07.347591+00:00",
-  "items": []
+  "generated_at": "2026-08-02T08:34:54.816434+00:00",
+  "items": [
+    {
+      "title": "POV: An AI replaced your job this morning [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=k35i0o-b8sI Comments URL: https://news.ycombinator.com/item?id=49142319 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=k35i0o-b8sI",
+      "image": "",
+      "date": "2026-08-02T08:30:18+00:00"
+    },
+    {
+      "title": "Adima AI: The Future of AI Enhancement",
+      "summary": "Article URL: https://www.aiimageupscale.com/ai-image-upscaler-pc Comments URL: https://news.ycombinator.com/item?id=49142294 Points: 1 # Comments: 0",
+      "url": "https://www.aiimageupscale.com/ai-image-upscaler-pc",
+      "image": "",
+      "date": "2026-08-02T08:26:44+00:00"
+    },
+    {
+      "title": "Apple struggles to keep pace with AI 'bug' hunters",
+      "summary": "Article URL: https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2 Comments URL: https://news.ycombinator.com/item?id=49142179 Points: 2 # Comments: 0",
+      "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
+      "image": "",
+      "date": "2026-08-02T08:07:05+00:00"
+    },
+    {
+      "title": "DeepSeek's Theory of the AI Gap",
+      "summary": "Article URL: https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript Comments URL: https://news.ycombinator.com/item?id=49141929 Points: 2 # Comments: 0",
+      "url": "https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript",
+      "image": "https://substackcdn.com/image/fetch/$s_!OuDP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd20876-a2a5-4fa5-a2eb-5a349bf8d80d_1672x941.webp",
+      "date": "2026-08-02T07:16:07+00:00"
+    },
+    {
+      "title": "AI labels to be compulsory on authentic-looking content under EU rules",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules Comments URL: https://news.ycombinator.com/item?id=49141912 Points: 5 # Comments: 1",
+      "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+      "image": "https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5fd708bf8c992dda3f7c51b13fb81ab",
+      "date": "2026-08-02T07:13:50+00:00"
+    },
+    {
+      "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate κ misses",
+      "summary": "Article URL: https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways Comments URL: https://news.ycombinator.com/item?id=49141862 Points: 3 # Comments: 0",
+      "url": "https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways",
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/zs6qq46jz8lvbm32gfo1",
+      "date": "2026-08-02T07:02:18+00:00"
+    },
+    {
+      "title": "AI Ate Your RAM (Why Memory Prices Exploded)",
+      "summary": "Article URL: https://www.youtube.com/watch?v=r7b2uwy8_CM Comments URL: https://news.ycombinator.com/item?id=49141426 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=r7b2uwy8_CM",
+      "image": "",
+      "date": "2026-08-02T05:33:53+00:00"
+    },
+    {
+      "title": "Futurism says Meta has \"almost nothing\" to show for AI. The numbers say",
+      "summary": "Article URL: https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise Comments URL: https://news.ycombinator.com/item?id=49140938 Points: 3 # Comments: 6",
+      "url": "https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise",
+      "image": "https://runtimewire.com/og/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise.jpg",
+      "date": "2026-08-02T03:55:08+00:00"
+    },
+    {
+      "title": "AI Models as Commodities",
+      "summary": "Article URL: https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war Comments URL: https://news.ycombinator.com/item?id=49140923 Points: 2 # Comments: 1",
+      "url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+      "image": "",
+      "date": "2026-08-02T03:51:00+00:00"
+    },
+    {
+      "title": "The world first agentic AI radio",
+      "summary": "Article URL: https://www.twitch.tv/newsmyimaginationai Comments URL: https://news.ycombinator.com/item?id=49140554 Points: 4 # Comments: 3",
+      "url": "https://www.twitch.tv/newsmyimaginationai",
+      "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/65472410-7351-4854-808a-921d7e612d92-profile_image-300x300.png",
+      "date": "2026-08-02T02:42:49+00:00"
+    },
+    {
+      "title": "Token diplomacy: How China is shaping the AI future",
+      "summary": "Article URL: https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future Comments URL: https://news.ycombinator.com/item?id=49140291 Points: 5 # Comments: 4",
+      "url": "https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future",
+      "image": "https://img.semafor.com/b603189686f3c99daf0e7f47c05b763628e64e27-2400x1800.png?rect=0,270,2400,1260&w=1200&h=630&q=75&auto=format",
+      "date": "2026-08-02T01:48:53+00:00"
+    },
+    {
+      "title": "People Who Called for Averting Nuclear War Are Calling for AI Slowdown",
+      "summary": "Article URL: https://allevato.me/2026/08/01/rome-declaration Comments URL: https://news.ycombinator.com/item?id=49140201 Points: 3 # Comments: 1",
+      "url": "https://allevato.me/2026/08/01/rome-declaration",
+      "image": "",
+      "date": "2026-08-02T01:32:01+00:00"
+    },
+    {
+      "title": "The AI Bubble Survives on $1.65T in Hidden Debt",
+      "summary": "Article URL: https://www.youtube.com/watch?v=HXlcMbxzz0U Comments URL: https://news.ycombinator.com/item?id=49140045 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=HXlcMbxzz0U",
+      "image": "",
+      "date": "2026-08-02T00:51:30+00:00"
+    }
+  ]
 }
