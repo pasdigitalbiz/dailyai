@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-08-12T07:48:33.694969+00:00",
-  "items": []
+  "generated_at": "2026-08-13T07:49:53.747260+00:00",
+  "items": [
+    {
+      "title": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
+      "summary": "Article URL: https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care Comments URL: https://news.ycombinator.com/item?id=49282805 Points: 1 # Comments: 0",
+      "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
+      "image": "https://cdn.mos.cms.futurecdn.net/qmSb79JhXv5V7cNThkNCf-969-80.jpg",
+      "date": "2026-08-13T07:35:17+00:00"
+    },
+    {
+      "title": "Putting Sign Language AI into Users Hands",
+      "summary": "Article URL: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/ Comments URL: https://news.ycombinator.com/item?id=49282676 Points: 2 # Comments: 2",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w1200-h630-n-nu-rw",
+      "date": "2026-08-13T07:15:38+00:00"
+    },
+    {
+      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "summary": "Article URL: https://comma.ai/shop/chestnut Comments URL: https://news.ycombinator.com/item?id=49282649 Points: 1 # Comments: 0",
+      "url": "https://comma.ai/shop/chestnut",
+      "image": "https://comma.ai/og-comma-four.png",
+      "date": "2026-08-13T07:10:08+00:00"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/ Comments URL: https://news.ycombinator.com/item?id=49282596 Points: 2 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Social-Card-cover.png?resize=1200,600",
+      "date": "2026-08-13T07:02:17+00:00"
+    },
+    {
+      "title": "Why Japanese firms are being so slow to use AI",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o Comments URL: https://news.ycombinator.com/item?id=49282544 Points: 3 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
+      "date": "2026-08-13T06:53:53+00:00"
+    },
+    {
+      "title": "Web Scraper was translated into 50 languages with AI",
+      "summary": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1",
+      "url": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
+      "image": "https://blog-images.webscraper.io/images/uTHzxnCZUewfqj7KNzUlJpdqJYALKeNl3p8wIb0g.jpg",
+      "date": "2026-08-13T06:45:53+00:00"
+    },
+    {
+      "title": "Samsung used AI to cut a chip-verification loop 15–30×",
+      "summary": "Article URL: https://www.echohive.ai/ai-engineering-acceleration Comments URL: https://news.ycombinator.com/item?id=49282459 Points: 1 # Comments: 1",
+      "url": "https://www.echohive.ai/ai-engineering-acceleration",
+      "image": "https://www.echohive.ai/posts/ai-engineering-acceleration/hero.jpg",
+      "date": "2026-08-13T06:37:50+00:00"
+    },
+    {
+      "title": "SPAR – Fall 2026 AI Safety Research Projects",
+      "summary": "Article URL: https://sparai.org/projects/f26/ Comments URL: https://news.ycombinator.com/item?id=49282431 Points: 1 # Comments: 0",
+      "url": "https://sparai.org/projects/f26/",
+      "image": "https://sparai.org/_astro/meta_banner.DdWJCnWz.jpg",
+      "date": "2026-08-13T06:32:49+00:00"
+    },
+    {
+      "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
+      "summary": "Article URL: https://bigthink.com/the-future/ai-translates-cuneiform/ Comments URL: https://news.ycombinator.com/item?id=49282415 Points: 1 # Comments: 0",
+      "url": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+      "image": "",
+      "date": "2026-08-13T06:29:24+00:00"
+    },
+    {
+      "title": "My AI agents shipped 128 releases of a product no one ever used",
+      "summary": "Article URL: https://bramo.ai/blog/01-post-mortem Comments URL: https://news.ycombinator.com/item?id=49282395 Points: 1 # Comments: 0",
+      "url": "https://bramo.ai/blog/01-post-mortem",
+      "image": "https://bramo.ai/assets/social/og-image.png",
+      "date": "2026-08-13T06:26:55+00:00"
+    },
+    {
+      "title": "The Measure of Intelligence",
+      "summary": "Article URL: https://arxiv.org/abs/1911.01547 Comments URL: https://news.ycombinator.com/item?id=49282353 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/1911.01547",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-08-13T06:20:50+00:00"
+    },
+    {
+      "title": "Over 70% of Americans oppose AI data centers; US protests intensify",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout Comments URL: https://news.ycombinator.com/item?id=49282302 Points: 1 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
+      "image": "https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1600-80.jpg",
+      "date": "2026-08-13T06:12:07+00:00"
+    },
+    {
+      "title": "Chinese censorship is leaking into answers from American AI",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5 Comments URL: https://news.ycombinator.com/item?id=49282247 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5",
+      "image": "",
+      "date": "2026-08-13T06:02:42+00:00"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary": "Article URL: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/ Comments URL: https://news.ycombinator.com/item?id=49282136 Points: 2 # Comments: 0",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
+      "date": "2026-08-13T05:43:23+00:00"
+    },
+    {
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/ Comments URL: https://news.ycombinator.com/item?id=49282069 Points: 3 # Comments: 2",
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
+      "date": "2026-08-13T05:27:51+00:00"
+    },
+    {
+      "title": "How do I self-host a good-looking AI generated website",
+      "summary": "I'm happy to use a service, but most come with hosting plans, and I just want the code so I can host it on my own website. I'm a long-term software developer of the type that isn't good at UI/UX (i.e. scroll bars are the devil, and the mouse isn't much better). I'm soon to do UI as part of my masters degree as part of my redemption arc, but I need something in the meantime, and I'm trying to be efficient with my search :) Comments URL: https://news.ycombinator.com/item?id=49281976 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49281976",
+      "image": "",
+      "date": "2026-08-13T05:08:48+00:00"
+    }
+  ]
 }
