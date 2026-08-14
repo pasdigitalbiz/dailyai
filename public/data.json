@@ -1,117 +1,110 @@
 {
-  "generated_at": "2026-08-13T07:49:53.747260+00:00",
+  "generated_at": "2026-08-14T07:47:06.903611+00:00",
   "items": [
     {
-      "title": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
-      "summary": "Article URL: https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care Comments URL: https://news.ycombinator.com/item?id=49282805 Points: 1 # Comments: 0",
-      "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
-      "image": "https://cdn.mos.cms.futurecdn.net/qmSb79JhXv5V7cNThkNCf-969-80.jpg",
-      "date": "2026-08-13T07:35:17+00:00"
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49295710 Points: 1 # Comments: 0",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
+      "date": "2026-08-14T07:36:14+00:00"
     },
     {
-      "title": "Putting Sign Language AI into Users Hands",
-      "summary": "Article URL: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/ Comments URL: https://news.ycombinator.com/item?id=49282676 Points: 2 # Comments: 2",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w1200-h630-n-nu-rw",
-      "date": "2026-08-13T07:15:38+00:00"
+      "title": "The web's newest weapon against AI scrapers is a font",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/ Comments URL: https://news.ycombinator.com/item?id=49295681 Points: 2 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
+      "date": "2026-08-14T07:33:16+00:00"
     },
     {
-      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
-      "summary": "Article URL: https://comma.ai/shop/chestnut Comments URL: https://news.ycombinator.com/item?id=49282649 Points: 1 # Comments: 0",
-      "url": "https://comma.ai/shop/chestnut",
-      "image": "https://comma.ai/og-comma-four.png",
-      "date": "2026-08-13T07:10:08+00:00"
+      "title": "Claude AI Content Marks Will Go Global but Cannot Prove Authorship",
+      "summary": "Article URL: https://www.ainews.com/p/claude-ai-content-marks-will-go-global-but-cannot-prove-authorship Comments URL: https://news.ycombinator.com/item?id=49295656 Points: 1 # Comments: 0",
+      "url": "https://www.ainews.com/p/claude-ai-content-marks-will-go-global-but-cannot-prove-authorship",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1f1a3b54-915f-472b-9b72-dbdd74f7ac51/Claude_AI_Content_Marks_Go_Global__Complicating_How_Creators_Are_Judged.png?t=1786575450",
+      "date": "2026-08-14T07:29:49+00:00"
     },
     {
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/ Comments URL: https://news.ycombinator.com/item?id=49282596 Points: 2 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Social-Card-cover.png?resize=1200,600",
-      "date": "2026-08-13T07:02:17+00:00"
+      "title": "The AI-Native Company",
+      "summary": "Article URL: https://danielmiessler.com/blog/the-ai-native-company Comments URL: https://news.ycombinator.com/item?id=49295633 Points: 1 # Comments: 0",
+      "url": "https://danielmiessler.com/blog/the-ai-native-company",
+      "image": "https://danielmiessler.com/images/the-ai-native-company-thumb.png?t=1786618742115",
+      "date": "2026-08-14T07:26:34+00:00"
     },
     {
-      "title": "Why Japanese firms are being so slow to use AI",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o Comments URL: https://news.ycombinator.com/item?id=49282544 Points: 3 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
-      "date": "2026-08-13T06:53:53+00:00"
-    },
-    {
-      "title": "Web Scraper was translated into 50 languages with AI",
-      "summary": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1",
-      "url": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
-      "image": "https://blog-images.webscraper.io/images/uTHzxnCZUewfqj7KNzUlJpdqJYALKeNl3p8wIb0g.jpg",
-      "date": "2026-08-13T06:45:53+00:00"
-    },
-    {
-      "title": "Samsung used AI to cut a chip-verification loop 15–30×",
-      "summary": "Article URL: https://www.echohive.ai/ai-engineering-acceleration Comments URL: https://news.ycombinator.com/item?id=49282459 Points: 1 # Comments: 1",
-      "url": "https://www.echohive.ai/ai-engineering-acceleration",
-      "image": "https://www.echohive.ai/posts/ai-engineering-acceleration/hero.jpg",
-      "date": "2026-08-13T06:37:50+00:00"
-    },
-    {
-      "title": "SPAR – Fall 2026 AI Safety Research Projects",
-      "summary": "Article URL: https://sparai.org/projects/f26/ Comments URL: https://news.ycombinator.com/item?id=49282431 Points: 1 # Comments: 0",
-      "url": "https://sparai.org/projects/f26/",
-      "image": "https://sparai.org/_astro/meta_banner.DdWJCnWz.jpg",
-      "date": "2026-08-13T06:32:49+00:00"
-    },
-    {
-      "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
-      "summary": "Article URL: https://bigthink.com/the-future/ai-translates-cuneiform/ Comments URL: https://news.ycombinator.com/item?id=49282415 Points: 1 # Comments: 0",
-      "url": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+      "title": "Apple and AI: Siri the Early Years",
+      "summary": "Article URL: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years Comments URL: https://news.ycombinator.com/item?id=49295590 Points: 1 # Comments: 0",
+      "url": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
       "image": "",
-      "date": "2026-08-13T06:29:24+00:00"
+      "date": "2026-08-14T07:18:51+00:00"
     },
     {
-      "title": "My AI agents shipped 128 releases of a product no one ever used",
-      "summary": "Article URL: https://bramo.ai/blog/01-post-mortem Comments URL: https://news.ycombinator.com/item?id=49282395 Points: 1 # Comments: 0",
-      "url": "https://bramo.ai/blog/01-post-mortem",
-      "image": "https://bramo.ai/assets/social/og-image.png",
-      "date": "2026-08-13T06:26:55+00:00"
-    },
-    {
-      "title": "The Measure of Intelligence",
-      "summary": "Article URL: https://arxiv.org/abs/1911.01547 Comments URL: https://news.ycombinator.com/item?id=49282353 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/1911.01547",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-08-13T06:20:50+00:00"
-    },
-    {
-      "title": "Over 70% of Americans oppose AI data centers; US protests intensify",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout Comments URL: https://news.ycombinator.com/item?id=49282302 Points: 1 # Comments: 0",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
-      "image": "https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1600-80.jpg",
-      "date": "2026-08-13T06:12:07+00:00"
-    },
-    {
-      "title": "Chinese censorship is leaking into answers from American AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5 Comments URL: https://news.ycombinator.com/item?id=49282247 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5",
+      "title": "Noviz AI is a architecture and sourcecode for ERP AI agents",
+      "summary": "Noviz AI is a complete ERP AI connector source code built for ERPNext, designed with an extensible architecture that can be adapted to connect AI agents with other ERP systems. It provides the core components for connecting AI agents to ERP business data, APIs, workflows, and operations. Comments URL: https://news.ycombinator.com/item?id=49295533 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49295533",
       "image": "",
-      "date": "2026-08-13T06:02:42+00:00"
+      "date": "2026-08-14T07:08:29+00:00"
     },
     {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "Article URL: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/ Comments URL: https://news.ycombinator.com/item?id=49282136 Points: 2 # Comments: 0",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
-      "date": "2026-08-13T05:43:23+00:00"
-    },
-    {
-      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
-      "summary": "Article URL: https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/ Comments URL: https://news.ycombinator.com/item?id=49282069 Points: 3 # Comments: 2",
-      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-      "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-      "date": "2026-08-13T05:27:51+00:00"
-    },
-    {
-      "title": "How do I self-host a good-looking AI generated website",
-      "summary": "I'm happy to use a service, but most come with hosting plans, and I just want the code so I can host it on my own website. I'm a long-term software developer of the type that isn't good at UI/UX (i.e. scroll bars are the devil, and the mouse isn't much better). I'm soon to do UI as part of my masters degree as part of my redemption arc, but I need something in the meantime, and I'm trying to be efficient with my search :) Comments URL: https://news.ycombinator.com/item?id=49281976 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49281976",
+      "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
+      "summary": "Article URL: https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/ Comments URL: https://news.ycombinator.com/item?id=49295484 Points: 2 # Comments: 0",
+      "url": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
       "image": "",
-      "date": "2026-08-13T05:08:48+00:00"
+      "date": "2026-08-14T06:59:53+00:00"
+    },
+    {
+      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
+      "summary": "Article URL: https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now Comments URL: https://news.ycombinator.com/item?id=49295419 Points: 6 # Comments: 0",
+      "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+      "image": "",
+      "date": "2026-08-14T06:48:28+00:00"
+    },
+    {
+      "title": "Duxpath AI",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49295396 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49295396",
+      "image": "",
+      "date": "2026-08-14T06:44:30+00:00"
+    },
+    {
+      "title": "Evaluating AI SRE Agents in Production (OpenSRE) – Evaluation",
+      "summary": "Article URL: https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production Comments URL: https://news.ycombinator.com/item?id=49295394 Points: 1 # Comments: 1",
+      "url": "https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production",
+      "image": "https://framerusercontent.com/images/JwnDZqoiustxmB5cNzOsvjCRKw.jpg?width=1820&height=1024",
+      "date": "2026-08-14T06:44:10+00:00"
+    },
+    {
+      "title": "Qwen3.8 2.4T A95B: Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b Comments URL: https://news.ycombinator.com/item?id=49295366 Points: 1 # Comments: 0",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b",
+      "image": "https://artificialanalysis.ai/en/models/qwen3-8-2-4t-a95b/opengraph-image?76c5a1db7097b9e1",
+      "date": "2026-08-14T06:35:32+00:00"
+    },
+    {
+      "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
+      "summary": "Article URL: https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795 Comments URL: https://news.ycombinator.com/item?id=49295227 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
+      "image": "",
+      "date": "2026-08-14T06:07:08+00:00"
+    },
+    {
+      "title": "Watermarking AI Text Is Fundamentally Flawed",
+      "summary": "Article URL: https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed Comments URL: https://news.ycombinator.com/item?id=49295165 Points: 1 # Comments: 0",
+      "url": "https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed",
+      "image": "https://negativestarinnovators.com/images/ai-text-watermark-post.png",
+      "date": "2026-08-14T05:54:31+00:00"
+    },
+    {
+      "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=rRRmUuxJolY Comments URL: https://news.ycombinator.com/item?id=49295139 Points: 3 # Comments: 3",
+      "url": "https://www.youtube.com/watch?v=rRRmUuxJolY",
+      "image": "",
+      "date": "2026-08-14T05:50:01+00:00"
+    },
+    {
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49295047 Points: 2 # Comments: 0",
+      "url": "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
+      "image": "",
+      "date": "2026-08-14T05:33:00+00:00"
     }
   ]
 }
