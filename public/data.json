@@ -1,110 +1,103 @@
 {
-  "generated_at": "2026-08-14T07:47:06.903611+00:00",
+  "generated_at": "2026-08-15T06:55:08.942018+00:00",
   "items": [
     {
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49295710 Points: 1 # Comments: 0",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
-      "date": "2026-08-14T07:36:14+00:00"
-    },
-    {
-      "title": "The web's newest weapon against AI scrapers is a font",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/ Comments URL: https://news.ycombinator.com/item?id=49295681 Points: 2 # Comments: 0",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
-      "date": "2026-08-14T07:33:16+00:00"
-    },
-    {
-      "title": "Claude AI Content Marks Will Go Global but Cannot Prove Authorship",
-      "summary": "Article URL: https://www.ainews.com/p/claude-ai-content-marks-will-go-global-but-cannot-prove-authorship Comments URL: https://news.ycombinator.com/item?id=49295656 Points: 1 # Comments: 0",
-      "url": "https://www.ainews.com/p/claude-ai-content-marks-will-go-global-but-cannot-prove-authorship",
-      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1f1a3b54-915f-472b-9b72-dbdd74f7ac51/Claude_AI_Content_Marks_Go_Global__Complicating_How_Creators_Are_Judged.png?t=1786575450",
-      "date": "2026-08-14T07:29:49+00:00"
-    },
-    {
-      "title": "The AI-Native Company",
-      "summary": "Article URL: https://danielmiessler.com/blog/the-ai-native-company Comments URL: https://news.ycombinator.com/item?id=49295633 Points: 1 # Comments: 0",
-      "url": "https://danielmiessler.com/blog/the-ai-native-company",
-      "image": "https://danielmiessler.com/images/the-ai-native-company-thumb.png?t=1786618742115",
-      "date": "2026-08-14T07:26:34+00:00"
-    },
-    {
-      "title": "Apple and AI: Siri the Early Years",
-      "summary": "Article URL: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years Comments URL: https://news.ycombinator.com/item?id=49295590 Points: 1 # Comments: 0",
-      "url": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
+      "title": "Google Opens the Gates of AI Slop Hell",
+      "summary": "Article URL: https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888 Comments URL: https://news.ycombinator.com/item?id=49308118 Points: 4 # Comments: 1",
+      "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
       "image": "",
-      "date": "2026-08-14T07:18:51+00:00"
+      "date": "2026-08-15T06:09:31+00:00"
     },
     {
-      "title": "Noviz AI is a architecture and sourcecode for ERP AI agents",
-      "summary": "Noviz AI is a complete ERP AI connector source code built for ERPNext, designed with an extensible architecture that can be adapted to connect AI agents with other ERP systems. It provides the core components for connecting AI agents to ERP business data, APIs, workflows, and operations. Comments URL: https://news.ycombinator.com/item?id=49295533 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49295533",
+      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
+      "summary": "I get my best ideas when I'm out walking or driving. I built Riffn to make sure I can capitalize on those ideas when and where they happen - while I'm away from my desk, usually outside. I used to use voice recording a lot. So I built Riffn to replace that with a direct voice link to any model or agent I wanted to talk to when my hands and eyes were busy. This lets me develop ideas and keep pushing forward on my apps and other projects when I'm out and about. Riffn is an iOS app that gives you a voice link to your coding agents or locally-installed LLMs. I built a small, open-source bridge that links Riffn to agents and models running on your own machine over Tailscale. Installing the bridge is just one npx command and QR pairing. Give each agent a name, then switch freely between agents with a 3-word command. Click 'Start Riffn', pop in an earbud, lock the phone, put it in your pocket, and start talking. I like to use it for slow thinking - you can leave it active in the background, ready for your next idea, spoken turn or a recognized command while you drive, walk the dog, or hang out the washing. The bridge is available on GitHub. For now this is iOS only. It uses Apple speech recognition. Comments URL: https://news.ycombinator.com/item?id=49308095 Points: 2 # Comments: 0",
+      "url": "https://riffn.io/how-riffn-works/",
+      "image": "https://riffn.io/assets/og-card.png",
+      "date": "2026-08-15T06:05:09+00:00"
+    },
+    {
+      "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
+      "summary": "Article URL: https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents Comments URL: https://news.ycombinator.com/item?id=49308031 Points: 2 # Comments: 0",
+      "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
+      "image": "https://predictabledialogs.com/learn/static/images/twitter-card.png",
+      "date": "2026-08-15T05:53:34+00:00"
+    },
+    {
+      "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881 Comments URL: https://news.ycombinator.com/item?id=49307948 Points: 2 # Comments: 0",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881",
       "image": "",
-      "date": "2026-08-14T07:08:29+00:00"
+      "date": "2026-08-15T05:38:09+00:00"
     },
     {
-      "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
-      "summary": "Article URL: https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/ Comments URL: https://news.ycombinator.com/item?id=49295484 Points: 2 # Comments: 0",
-      "url": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
+      "title": "Did the AI Bubble Just Pop?",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wrFH8PvDPFE Comments URL: https://news.ycombinator.com/item?id=49307886 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
       "image": "",
-      "date": "2026-08-14T06:59:53+00:00"
+      "date": "2026-08-15T05:22:07+00:00"
     },
     {
-      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
-      "summary": "Article URL: https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now Comments URL: https://news.ycombinator.com/item?id=49295419 Points: 6 # Comments: 0",
-      "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+      "title": "Best AI solution to hunt for buffer overflows in open source apps?",
+      "summary": "No answers so deleting. Comments URL: https://news.ycombinator.com/item?id=49307553 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49307553",
       "image": "",
-      "date": "2026-08-14T06:48:28+00:00"
+      "date": "2026-08-15T04:08:52+00:00"
     },
     {
-      "title": "Duxpath AI",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=49295396 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=49295396",
+      "title": "People Who Will Thrive in the AI Age",
+      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=49307507 Points: 12 # Comments: 3",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "image": "https://cdn.theatlantic.com/thumbor/qYbMj2NrXUMTcZRMJ39SEUKt3f4=/0x61:2876x1559/1200x625/media/img/mt/2026/06/2026_06_21_AI_users/original.jpg",
+      "date": "2026-08-15T03:58:17+00:00"
+    },
+    {
+      "title": "Dynatrace to buy AI observability startup Arize for $915M",
+      "summary": "Article URL: https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m Comments URL: https://news.ycombinator.com/item?id=49307465 Points: 1 # Comments: 1",
+      "url": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
+      "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Fnote%2Fdynatrace-to-buy-ai-observability-startup-arize-for-915m%3Fscreenshot%3Dtrue",
+      "date": "2026-08-15T03:49:18+00:00"
+    },
+    {
+      "title": "An Infamous Math Problem Closer to Being Solved by Encouraging AI",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87 Comments URL: https://news.ycombinator.com/item?id=49306928 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
       "image": "",
-      "date": "2026-08-14T06:44:30+00:00"
+      "date": "2026-08-15T02:06:56+00:00"
     },
     {
-      "title": "Evaluating AI SRE Agents in Production (OpenSRE) – Evaluation",
-      "summary": "Article URL: https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production Comments URL: https://news.ycombinator.com/item?id=49295394 Points: 1 # Comments: 1",
-      "url": "https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production",
-      "image": "https://framerusercontent.com/images/JwnDZqoiustxmB5cNzOsvjCRKw.jpg?width=1820&height=1024",
-      "date": "2026-08-14T06:44:10+00:00"
-    },
-    {
-      "title": "Qwen3.8 2.4T A95B: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b Comments URL: https://news.ycombinator.com/item?id=49295366 Points: 1 # Comments: 0",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b",
-      "image": "https://artificialanalysis.ai/en/models/qwen3-8-2-4t-a95b/opengraph-image?76c5a1db7097b9e1",
-      "date": "2026-08-14T06:35:32+00:00"
-    },
-    {
-      "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
-      "summary": "Article URL: https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795 Comments URL: https://news.ycombinator.com/item?id=49295227 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
+      "title": "Thank you to the people building these AI tools",
+      "summary": "This stuff has impacted my work and the well-being of my family in a positive way. It is easy to take these tools for granted due to the fear surrounding them and the sheer volume of activity in the space. It's hard to keep up and it's a wild ride. I appreciate that I get to have a high-level, well-versed thinking partner in my pocket 24/7 who builds things for me, to my spec, for $500-600/mo USD. Learning these new probabilistic systems is a fun and challenging endeavor. AI tools have enabled me to build the things that make my life's mission possible - teaching people how to keep kids safe on the Internet. I am grateful. Thank you. What's the most positive thing you've seen come from your work with AI tools? Comments URL: https://news.ycombinator.com/item?id=49306820 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49306820",
       "image": "",
-      "date": "2026-08-14T06:07:08+00:00"
+      "date": "2026-08-15T01:47:24+00:00"
     },
     {
-      "title": "Watermarking AI Text Is Fundamentally Flawed",
-      "summary": "Article URL: https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed Comments URL: https://news.ycombinator.com/item?id=49295165 Points: 1 # Comments: 0",
-      "url": "https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed",
-      "image": "https://negativestarinnovators.com/images/ai-text-watermark-post.png",
-      "date": "2026-08-14T05:54:31+00:00"
-    },
-    {
-      "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=rRRmUuxJolY Comments URL: https://news.ycombinator.com/item?id=49295139 Points: 3 # Comments: 3",
-      "url": "https://www.youtube.com/watch?v=rRRmUuxJolY",
+      "title": "Yester World Asking for Help from Google De-Monitization and AI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=z9QiBMdvgRE Comments URL: https://news.ycombinator.com/item?id=49306805 Points: 3 # Comments: 2",
+      "url": "https://www.youtube.com/watch?v=z9QiBMdvgRE",
       "image": "",
-      "date": "2026-08-14T05:50:01+00:00"
+      "date": "2026-08-15T01:43:29+00:00"
     },
     {
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
-      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49295047 Points: 2 # Comments: 0",
-      "url": "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
-      "image": "",
-      "date": "2026-08-14T05:33:00+00:00"
+      "title": "AI productivity gains drive net CO₂ increase in global energy–economy model",
+      "summary": "Article URL: https://www.nature.com/articles/s44168-026-00411-0 Comments URL: https://news.ycombinator.com/item?id=49306800 Points: 12 # Comments: 0",
+      "url": "https://www.nature.com/articles/s44168-026-00411-0",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44168-026-00411-0/MediaObjects/44168_2026_411_Fig1_HTML.png",
+      "date": "2026-08-15T01:42:40+00:00"
+    },
+    {
+      "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+      "summary": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/ Comments URL: https://news.ycombinator.com/item?id=49306375 Points: 2 # Comments: 1",
+      "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
+      "image": "https://hackaday.com/wp-content/uploads/2019/03/botnet.jpg",
+      "date": "2026-08-15T00:44:04+00:00"
+    },
+    {
+      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=49306182 Points: 3 # Comments: 0",
+      "url": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
+      "image": "https://cdn.theatlantic.com/thumbor/7KfgfRMyDesBiZt6Xq8UaNlXo30=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_07_09_AIs_Favorite_Writing_Tic/original.jpg",
+      "date": "2026-08-15T00:13:41+00:00"
     }
   ]
 }
