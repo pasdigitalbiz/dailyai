@@ -1,103 +1,96 @@
 {
-  "generated_at": "2026-08-15T06:55:08.942018+00:00",
+  "generated_at": "2026-08-16T06:56:27.775809+00:00",
   "items": [
     {
-      "title": "Google Opens the Gates of AI Slop Hell",
-      "summary": "Article URL: https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888 Comments URL: https://news.ycombinator.com/item?id=49308118 Points: 4 # Comments: 1",
-      "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
-      "image": "",
-      "date": "2026-08-15T06:09:31+00:00"
+      "title": "Beijing is forcing a mass breakup with AI lovers",
+      "summary": "Article URL: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/ Comments URL: https://news.ycombinator.com/item?id=49317305 Points: 1 # Comments: 0",
+      "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
+      "image": "https://restofworld.org/wp-content/uploads/2026/08/Chinese-AI-companions-Final-2.jpg",
+      "date": "2026-08-16T06:03:21+00:00"
     },
     {
-      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-      "summary": "I get my best ideas when I'm out walking or driving. I built Riffn to make sure I can capitalize on those ideas when and where they happen - while I'm away from my desk, usually outside. I used to use voice recording a lot. So I built Riffn to replace that with a direct voice link to any model or agent I wanted to talk to when my hands and eyes were busy. This lets me develop ideas and keep pushing forward on my apps and other projects when I'm out and about. Riffn is an iOS app that gives you a voice link to your coding agents or locally-installed LLMs. I built a small, open-source bridge that links Riffn to agents and models running on your own machine over Tailscale. Installing the bridge is just one npx command and QR pairing. Give each agent a name, then switch freely between agents with a 3-word command. Click 'Start Riffn', pop in an earbud, lock the phone, put it in your pocket, and start talking. I like to use it for slow thinking - you can leave it active in the background, ready for your next idea, spoken turn or a recognized command while you drive, walk the dog, or hang out the washing. The bridge is available on GitHub. For now this is iOS only. It uses Apple speech recognition. Comments URL: https://news.ycombinator.com/item?id=49308095 Points: 2 # Comments: 0",
-      "url": "https://riffn.io/how-riffn-works/",
-      "image": "https://riffn.io/assets/og-card.png",
-      "date": "2026-08-15T06:05:09+00:00"
-    },
-    {
-      "title": "Choosing the Right Database for AI Agents: LLM Generated SQL",
-      "summary": "Article URL: https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents Comments URL: https://news.ycombinator.com/item?id=49308031 Points: 2 # Comments: 0",
-      "url": "https://predictabledialogs.com/learn/ai-stack/choosing-database-configurable-ai-agents",
-      "image": "https://predictabledialogs.com/learn/static/images/twitter-card.png",
-      "date": "2026-08-15T05:53:34+00:00"
-    },
-    {
-      "title": "An Autonomous Framework for Systematic Factor Invest via Agentic AI",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881 Comments URL: https://news.ycombinator.com/item?id=49307948 Points: 2 # Comments: 0",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6416881",
-      "image": "",
-      "date": "2026-08-15T05:38:09+00:00"
-    },
-    {
-      "title": "Did the AI Bubble Just Pop?",
-      "summary": "Article URL: https://www.youtube.com/watch?v=wrFH8PvDPFE Comments URL: https://news.ycombinator.com/item?id=49307886 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
-      "image": "",
-      "date": "2026-08-15T05:22:07+00:00"
-    },
-    {
-      "title": "Best AI solution to hunt for buffer overflows in open source apps?",
-      "summary": "No answers so deleting. Comments URL: https://news.ycombinator.com/item?id=49307553 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49307553",
-      "image": "",
-      "date": "2026-08-15T04:08:52+00:00"
-    },
-    {
-      "title": "People Who Will Thrive in the AI Age",
-      "summary": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=49307507 Points: 12 # Comments: 3",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-      "image": "https://cdn.theatlantic.com/thumbor/qYbMj2NrXUMTcZRMJ39SEUKt3f4=/0x61:2876x1559/1200x625/media/img/mt/2026/06/2026_06_21_AI_users/original.jpg",
-      "date": "2026-08-15T03:58:17+00:00"
-    },
-    {
-      "title": "Dynatrace to buy AI observability startup Arize for $915M",
-      "summary": "Article URL: https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m Comments URL: https://news.ycombinator.com/item?id=49307465 Points: 1 # Comments: 1",
-      "url": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
-      "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Fnote%2Fdynatrace-to-buy-ai-observability-startup-arize-for-915m%3Fscreenshot%3Dtrue",
-      "date": "2026-08-15T03:49:18+00:00"
-    },
-    {
-      "title": "An Infamous Math Problem Closer to Being Solved by Encouraging AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87 Comments URL: https://news.ycombinator.com/item?id=49306928 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87",
-      "image": "",
-      "date": "2026-08-15T02:06:56+00:00"
-    },
-    {
-      "title": "Thank you to the people building these AI tools",
-      "summary": "This stuff has impacted my work and the well-being of my family in a positive way. It is easy to take these tools for granted due to the fear surrounding them and the sheer volume of activity in the space. It's hard to keep up and it's a wild ride. I appreciate that I get to have a high-level, well-versed thinking partner in my pocket 24/7 who builds things for me, to my spec, for $500-600/mo USD. Learning these new probabilistic systems is a fun and challenging endeavor. AI tools have enabled me to build the things that make my life's mission possible - teaching people how to keep kids safe on the Internet. I am grateful. Thank you. What's the most positive thing you've seen come from your work with AI tools? Comments URL: https://news.ycombinator.com/item?id=49306820 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49306820",
-      "image": "",
-      "date": "2026-08-15T01:47:24+00:00"
-    },
-    {
-      "title": "Yester World Asking for Help from Google De-Monitization and AI [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=z9QiBMdvgRE Comments URL: https://news.ycombinator.com/item?id=49306805 Points: 3 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=z9QiBMdvgRE",
-      "image": "",
-      "date": "2026-08-15T01:43:29+00:00"
-    },
-    {
-      "title": "AI productivity gains drive net CO₂ increase in global energy–economy model",
-      "summary": "Article URL: https://www.nature.com/articles/s44168-026-00411-0 Comments URL: https://news.ycombinator.com/item?id=49306800 Points: 12 # Comments: 0",
-      "url": "https://www.nature.com/articles/s44168-026-00411-0",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44168-026-00411-0/MediaObjects/44168_2026_411_Fig1_HTML.png",
-      "date": "2026-08-15T01:42:40+00:00"
+      "title": "Ownership in the Age of AI",
+      "summary": "Article URL: https://sahilkolwankar.com/blog/ai-input-not-output/ Comments URL: https://news.ycombinator.com/item?id=49316924 Points: 2 # Comments: 0",
+      "url": "https://sahilkolwankar.com/blog/ai-input-not-output/",
+      "image": "https://sahilkolwankar.com/blog-images/ai-input-not-output/og-cover.png",
+      "date": "2026-08-16T04:32:43+00:00"
     },
     {
       "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
-      "summary": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/ Comments URL: https://news.ycombinator.com/item?id=49306375 Points: 2 # Comments: 1",
+      "summary": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/ Comments URL: https://news.ycombinator.com/item?id=49316553 Points: 3 # Comments: 0",
       "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
       "image": "https://hackaday.com/wp-content/uploads/2019/03/botnet.jpg",
-      "date": "2026-08-15T00:44:04+00:00"
+      "date": "2026-08-16T03:10:29+00:00"
     },
     {
-      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
-      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=49306182 Points: 3 # Comments: 0",
-      "url": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
-      "image": "https://cdn.theatlantic.com/thumbor/7KfgfRMyDesBiZt6Xq8UaNlXo30=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_07_09_AIs_Favorite_Writing_Tic/original.jpg",
-      "date": "2026-08-15T00:13:41+00:00"
+      "title": "Has the hallucination problem in AI been solved?",
+      "summary": "My understanding that all AI can, and will hallucinate. I get downvoted for saying this, but no one ever says I'm wrong or cites any source. Perhaps it's more nuanced than that? Please, enlighten me. Comments URL: https://news.ycombinator.com/item?id=49316330 Points: 9 # Comments: 27",
+      "url": "https://news.ycombinator.com/item?id=49316330",
+      "image": "",
+      "date": "2026-08-16T02:23:52+00:00"
+    },
+    {
+      "title": "The AI Bubble Is on Its Last Legs",
+      "summary": "Article URL: https://www.youtube.com/watch?v=szK9LIGvW1o Comments URL: https://news.ycombinator.com/item?id=49315675 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
+      "image": "",
+      "date": "2026-08-16T00:31:36+00:00"
+    },
+    {
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html Comments URL: https://news.ycombinator.com/item?id=49315160 Points: 3 # Comments: 0",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9C2992C0BB2DD1F15FA5B260401959357C9348D49E20F0307F11F1BB9CAA7DB4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F3479b262dba3ef3c2f9613e7185421ae.jpg",
+      "date": "2026-08-15T23:10:56+00:00"
+    },
+    {
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 21 # Comments: 2",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-08-15T22:41:51+00:00"
+    },
+    {
+      "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+      "summary": "Article URL: https://fbirds5230.github.io/sentinel-scan/ Comments URL: https://news.ycombinator.com/item?id=49314841 Points: 2 # Comments: 0",
+      "url": "https://fbirds5230.github.io/sentinel-scan/",
+      "image": "",
+      "date": "2026-08-15T22:23:10+00:00"
+    },
+    {
+      "title": "Why AI agents need verified identity",
+      "summary": "Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/ Comments URL: https://news.ycombinator.com/item?id=49314608 Points: 4 # Comments: 0",
+      "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+      "image": "https://chrisbergeron.com/images/cb-cover.jpg",
+      "date": "2026-08-15T21:44:48+00:00"
+    },
+    {
+      "title": "The AI Slop Backlash Is Having an Impact",
+      "summary": "Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/ Comments URL: https://news.ycombinator.com/item?id=49314494 Points: 9 # Comments: 2",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
+      "date": "2026-08-15T21:27:31+00:00"
+    },
+    {
+      "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
+      "summary": "Article URL: https://tokenlab.sh/zh/mcp Comments URL: https://news.ycombinator.com/item?id=49314483 Points: 2 # Comments: 0",
+      "url": "https://tokenlab.sh/zh/mcp",
+      "image": "",
+      "date": "2026-08-15T21:26:34+00:00"
+    },
+    {
+      "title": "AI makes foundational knowledge more important",
+      "summary": "Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever Comments URL: https://news.ycombinator.com/item?id=49314435 Points: 12 # Comments: 0",
+      "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+      "image": "https://www.timeshighereducation.com/sites/default/files/foundations.jpg",
+      "date": "2026-08-15T21:18:21+00:00"
+    },
+    {
+      "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
+      "summary": "Article URL: https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/ Comments URL: https://news.ycombinator.com/item?id=49314329 Points: 4 # Comments: 0",
+      "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
+      "image": "",
+      "date": "2026-08-15T21:06:05+00:00"
     }
   ]
 }
