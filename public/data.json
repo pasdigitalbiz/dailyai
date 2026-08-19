@@ -1,4 +1,96 @@
 {
-  "generated_at": "2026-08-18T07:01:04.094102+00:00",
-  "items": []
+  "generated_at": "2026-08-19T07:02:28.025326+00:00",
+  "items": [
+    {
+      "title": "AI's recursive self-improvement might not come so quickly after all",
+      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49357929 Points: 1 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
+      "date": "2026-08-19T07:01:21+00:00"
+    },
+    {
+      "title": "Building Shared Memory for AI Agents in Notion",
+      "summary": "Article URL: https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion Comments URL: https://news.ycombinator.com/item?id=49357879 Points: 1 # Comments: 0",
+      "url": "https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion",
+      "image": "https://images.ctfassets.net/spoqsaf9291f/3KcypMugRMDnYguXzeAcKm/da0e5d9d74872fbf0769a50432fe9e8e/Lore.jpg",
+      "date": "2026-08-19T06:55:20+00:00"
+    },
+    {
+      "title": "Excited and exhausted: life as a tech writer in the AI age",
+      "summary": "Article URL: https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/ Comments URL: https://news.ycombinator.com/item?id=49357621 Points: 1 # Comments: 0",
+      "url": "https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/",
+      "image": "https://i0.wp.com/elizabethtai.com/wp-content/uploads/2026/08/alghozy-sl7l2sly7sq-unsplash.png?fit=1200%2C918&ssl=1",
+      "date": "2026-08-19T06:24:23+00:00"
+    },
+    {
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "summary": "Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49357584 Points: 2 # Comments: 0",
+      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+      "image": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/images/cover.png",
+      "date": "2026-08-19T06:19:40+00:00"
+    },
+    {
+      "title": "Does AI stop children from learning?",
+      "summary": "Article URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning Comments URL: https://news.ycombinator.com/item?id=49357530 Points: 4 # Comments: 0",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "image": "",
+      "date": "2026-08-19T06:13:31+00:00"
+    },
+    {
+      "title": "Designing AI with character: what we learned building Berd",
+      "summary": "Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd Comments URL: https://news.ycombinator.com/item?id=49357223 Points: 1 # Comments: 0",
+      "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
+      "image": "https://cdn.sanity.io/images/8m3angk4/production/6105f961ef9f2ce68c82a6544e5c4a4b9dd6e577-2803x1496.png?auto=format",
+      "date": "2026-08-19T05:26:26+00:00"
+    },
+    {
+      "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo Comments URL: https://news.ycombinator.com/item?id=49356812 Points: 3 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+      "image": "https://cdn.mos.cms.futurecdn.net/k6HG5K3cdUMaXy5YgvZnMA-2048-80.jpg",
+      "date": "2026-08-19T04:25:35+00:00"
+    },
+    {
+      "title": "Ask HN: Are AI credits too locked to individual applications?",
+      "summary": "The problem: I already had AI credits, but those credits were locked to one application. context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them. Is this actually a problem for other people, or is it just something that bothered me personally? Comments URL: https://news.ycombinator.com/item?id=49356667 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49356667",
+      "image": "",
+      "date": "2026-08-19T04:08:42+00:00"
+    },
+    {
+      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16834 Comments URL: https://news.ycombinator.com/item?id=49356648 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2608.16834",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-08-19T04:07:06+00:00"
+    },
+    {
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "summary": "Article URL: https://plugos.net/plugclaw/ Comments URL: https://news.ycombinator.com/item?id=49356609 Points: 3 # Comments: 1",
+      "url": "https://plugos.net/plugclaw/",
+      "image": "https://plugos.net/assets/static/favicon-192x192.GgSX_ec9.webp",
+      "date": "2026-08-19T04:03:16+00:00"
+    },
+    {
+      "title": "Mathematics in the Age of AI",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49356591 Points: 3 # Comments: 0",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-08-19T04:01:39+00:00"
+    },
+    {
+      "title": "Explaining AI agents is like explaining 3D printers",
+      "summary": "Article URL: https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/ Comments URL: https://news.ycombinator.com/item?id=49356461 Points: 2 # Comments: 0",
+      "url": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
+      "image": "https://imgen.jitbit.com/?txt=Explaining+AI+agents+is+like+explaining+3D+printers&bg=https%3a%2f%2fwww.jitbit.com%2fuploads%2fphoto-1642969164999-979483e21601.jpg&logo=https%3A%2F%2Fwww.jitbit.com%2Fimages%2Femaillogo.png",
+      "date": "2026-08-19T03:43:32+00:00"
+    },
+    {
+      "title": "Artificial Artificial Intelligence Just Gained a Third Artificial",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49356444 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49356444",
+      "image": "",
+      "date": "2026-08-19T03:41:05+00:00"
+    }
+  ]
 }
