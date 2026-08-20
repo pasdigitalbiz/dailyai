@@ -1,96 +1,131 @@
 {
-  "generated_at": "2026-08-19T07:02:28.025326+00:00",
+  "generated_at": "2026-08-20T07:03:11.203665+00:00",
   "items": [
     {
-      "title": "AI's recursive self-improvement might not come so quickly after all",
-      "summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49357929 Points: 1 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-      "date": "2026-08-19T07:01:21+00:00"
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "summary": "Article URL: https://www.wired.com/story/flock-safety-os-investigate/ Comments URL: https://news.ycombinator.com/item?id=49371195 Points: 3 # Comments: 0",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "image": "https://media.wired.com/photos/6a834e91eca883ccd19e5902/191:100/w_1280,c_limit/Security_Inside%20%E2%80%98Nightshift,%E2%80%99%20the%20AI%20Agent%20Flock%20Built%20for%20Police_v1.jpg",
+      "date": "2026-08-20T06:40:14+00:00"
     },
     {
-      "title": "Building Shared Memory for AI Agents in Notion",
-      "summary": "Article URL: https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion Comments URL: https://news.ycombinator.com/item?id=49357879 Points: 1 # Comments: 0",
-      "url": "https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion",
-      "image": "https://images.ctfassets.net/spoqsaf9291f/3KcypMugRMDnYguXzeAcKm/da0e5d9d74872fbf0769a50432fe9e8e/Lore.jpg",
-      "date": "2026-08-19T06:55:20+00:00"
-    },
-    {
-      "title": "Excited and exhausted: life as a tech writer in the AI age",
-      "summary": "Article URL: https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/ Comments URL: https://news.ycombinator.com/item?id=49357621 Points: 1 # Comments: 0",
-      "url": "https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/",
-      "image": "https://i0.wp.com/elizabethtai.com/wp-content/uploads/2026/08/alghozy-sl7l2sly7sq-unsplash.png?fit=1200%2C918&ssl=1",
-      "date": "2026-08-19T06:24:23+00:00"
-    },
-    {
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "summary": "Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49357584 Points: 2 # Comments: 0",
-      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-      "image": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/images/cover.png",
-      "date": "2026-08-19T06:19:40+00:00"
-    },
-    {
-      "title": "Does AI stop children from learning?",
-      "summary": "Article URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning Comments URL: https://news.ycombinator.com/item?id=49357530 Points: 4 # Comments: 0",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "title": "AI is changing how we code. Is this positive?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49371169 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49371169",
       "image": "",
-      "date": "2026-08-19T06:13:31+00:00"
+      "date": "2026-08-20T06:37:14+00:00"
     },
     {
-      "title": "Designing AI with character: what we learned building Berd",
-      "summary": "Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd Comments URL: https://news.ycombinator.com/item?id=49357223 Points: 1 # Comments: 0",
-      "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
-      "image": "https://cdn.sanity.io/images/8m3angk4/production/6105f961ef9f2ce68c82a6544e5c4a4b9dd6e577-2803x1496.png?auto=format",
-      "date": "2026-08-19T05:26:26+00:00"
-    },
-    {
-      "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo Comments URL: https://news.ycombinator.com/item?id=49356812 Points: 3 # Comments: 0",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
-      "image": "https://cdn.mos.cms.futurecdn.net/k6HG5K3cdUMaXy5YgvZnMA-2048-80.jpg",
-      "date": "2026-08-19T04:25:35+00:00"
-    },
-    {
-      "title": "Ask HN: Are AI credits too locked to individual applications?",
-      "summary": "The problem: I already had AI credits, but those credits were locked to one application. context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them. Is this actually a problem for other people, or is it just something that bothered me personally? Comments URL: https://news.ycombinator.com/item?id=49356667 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=49356667",
+      "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49371163 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49371163",
       "image": "",
-      "date": "2026-08-19T04:08:42+00:00"
+      "date": "2026-08-20T06:36:56+00:00"
     },
     {
-      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16834 Comments URL: https://news.ycombinator.com/item?id=49356648 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2608.16834",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-08-19T04:07:06+00:00"
-    },
-    {
-      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
-      "summary": "Article URL: https://plugos.net/plugclaw/ Comments URL: https://news.ycombinator.com/item?id=49356609 Points: 3 # Comments: 1",
-      "url": "https://plugos.net/plugclaw/",
-      "image": "https://plugos.net/assets/static/favicon-192x192.GgSX_ec9.webp",
-      "date": "2026-08-19T04:03:16+00:00"
-    },
-    {
-      "title": "Mathematics in the Age of AI",
-      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49356591 Points: 3 # Comments: 0",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-08-19T04:01:39+00:00"
-    },
-    {
-      "title": "Explaining AI agents is like explaining 3D printers",
-      "summary": "Article URL: https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/ Comments URL: https://news.ycombinator.com/item?id=49356461 Points: 2 # Comments: 0",
-      "url": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
-      "image": "https://imgen.jitbit.com/?txt=Explaining+AI+agents+is+like+explaining+3D+printers&bg=https%3a%2f%2fwww.jitbit.com%2fuploads%2fphoto-1642969164999-979483e21601.jpg&logo=https%3A%2F%2Fwww.jitbit.com%2Fimages%2Femaillogo.png",
-      "date": "2026-08-19T03:43:32+00:00"
-    },
-    {
-      "title": "Artificial Artificial Intelligence Just Gained a Third Artificial",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=49356444 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49356444",
+      "title": "AI Is Changing How We Hac",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49371156 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49371156",
       "image": "",
-      "date": "2026-08-19T03:41:05+00:00"
+      "date": "2026-08-20T06:36:18+00:00"
+    },
+    {
+      "title": "Crypto's (and AI's) midterm PAC machine",
+      "summary": "Article URL: https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044 Comments URL: https://news.ycombinator.com/item?id=49370228 Points: 3 # Comments: 1",
+      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
+      "image": "",
+      "date": "2026-08-20T03:58:56+00:00"
+    },
+    {
+      "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+      "summary": "Article URL: http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/ Comments URL: https://news.ycombinator.com/item?id=49370037 Points: 3 # Comments: 0",
+      "url": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
+      "image": "",
+      "date": "2026-08-20T03:24:31+00:00"
+    },
+    {
+      "title": "Does anyone find AI code review useful?",
+      "summary": "I’m genuinely trying to understand the point of AI code review. Once an LLM generated change gets into a few hundreds or thousands of lines, a human reviewer can barely read the whole thing in any meaningful way. And even if they can, why should they spend their time reviewing thousands of lines generated by someone else’s AI? If the code is going to be reviewed by another AI anyway, why doesn’t the developer opening the PR just run one more iteration before submitting it? Is the assumption that after a thorough implementation pass, having a different AI review the code “some time later” will catch things the original AI somehow missed? Or is the assumption that my precious \"Code Review AI\" has some superior prompt and sacred collection of skills that makes it meaningfully different from the AI the developer used to write the code? If that’s the case, why not just give developers that reviewer AI locally and have them iterate against it before opening the PR? What’s the point? Why not just blindly merge everything and see if it breaks or not? Comments URL: https://news.ycombinator.com/item?id=49369710 Points: 2 # Comments: 5",
+      "url": "https://news.ycombinator.com/item?id=49369710",
+      "image": "",
+      "date": "2026-08-20T02:24:07+00:00"
+    },
+    {
+      "title": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
+      "summary": "In addition to the resume creation tool we mentioned in our previous post, we've also developed an AI-powered resume screening tool to complement our overall ecosystem. This tool aims to help recruitment teams efficiently review hundreds of resumes without relying on keyword matching. This tool helps teams: - Batch upload and parse PDF resumes - Compare candidates with job descriptions - Review candidates' skills, experience, project experience, and industry fit - Provide candidate fit analysis and scoring ranges - Export results as a CSV file To better meet the requirements of the European and American markets, candidate contact information is encrypted by default when uploading data. We do not provide judgments on unsuitable or unrecommended candidates. Artificial intelligence can only be used as an aid, not a replacement for HR judgment. We oppose all forms of professional discrimination. We are currently offering Beta testing access to 100 HR professionals, recruiters, hiring managers, and technology team leaders. Beta users can enjoy: - Free use during the testing period - 1800 points per month after official launch - 35% discount on on-premises deployment services If you work in recruitment, you are welcome to participate in the trial: I would like to understand the issues with false positives, false negatives, and shortcomings in the workflow. What is the biggest pain point in your current resume screening process? Comments URL: https://news.ycombinator.com/item?id=49369678 Points: 1 # Comments: 1",
+      "url": "https://aiomniu.top/services/resume-screening",
+      "image": "https://aiomniu.top/og-image.png",
+      "date": "2026-08-20T02:17:09+00:00"
+    },
+    {
+      "title": "Credentialism is coming for AI agents",
+      "summary": "Article URL: https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49369402 Points: 1 # Comments: 0",
+      "url": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/",
+      "image": "",
+      "date": "2026-08-20T01:27:46+00:00"
+    },
+    {
+      "title": "How to use AI for your next job interview",
+      "summary": "Article URL: https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview Comments URL: https://news.ycombinator.com/item?id=49369333 Points: 1 # Comments: 0",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "image": "https://substackcdn.com/image/fetch/$s_!d0dw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05d5d17e-053e-4b41-bf16-243d1ee4b865_2912x1940.png",
+      "date": "2026-08-20T01:18:17+00:00"
+    },
+    {
+      "title": "Agentic AI has made CPUs the new performance bottleneck",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-cpu-comeback Comments URL: https://news.ycombinator.com/item?id=49369311 Points: 1 # Comments: 0",
+      "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+      "image": "https://spectrum.ieee.org/media-library/the-cpu-comeback-is-upon-us.jpg?id=67615384&width=1200&height=600&coordinates=0%2C718%2C0%2C532",
+      "date": "2026-08-20T01:14:05+00:00"
+    },
+    {
+      "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+      "summary": "Article URL: https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data Comments URL: https://news.ycombinator.com/item?id=49369063 Points: 2 # Comments: 0",
+      "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/Round-Hill-Music-Sues-Suno-and-Anthropic-scaled.jpg",
+      "date": "2026-08-20T00:40:14+00:00"
+    },
+    {
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49368840 Points: 6 # Comments: 0",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "image": "",
+      "date": "2026-08-20T00:07:06+00:00"
+    },
+    {
+      "title": "If You're Not Studying for Retention, Just Use AI",
+      "summary": "Article URL: https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai Comments URL: https://news.ycombinator.com/item?id=49368725 Points: 3 # Comments: 1",
+      "url": "https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai",
+      "image": "",
+      "date": "2026-08-19T23:50:50+00:00"
+    },
+    {
+      "title": "AI-Powered Cyberattacks",
+      "summary": "Article URL: https://www.opswat.com/blog/ai-powered-cyberattacks Comments URL: https://news.ycombinator.com/item?id=49368496 Points: 1 # Comments: 0",
+      "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
+      "image": "",
+      "date": "2026-08-19T23:25:19+00:00"
+    },
+    {
+      "title": "AI Hurtles Ahead",
+      "summary": "Article URL: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead Comments URL: https://news.ycombinator.com/item?id=49368452 Points: 2 # Comments: 3",
+      "url": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead",
+      "image": "https://www.oaktreecapital.com/images/oaktreecaplibraries/insights/memos/hm-memos_written-image-2_530x299px.png?sfvrsn=4f697366_10",
+      "date": "2026-08-19T23:21:08+00:00"
+    },
+    {
+      "title": "Technical leaders should have the largest AI exhaust",
+      "summary": "Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/ Comments URL: https://news.ycombinator.com/item?id=49368389 Points: 10 # Comments: 10",
+      "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+      "image": "https://schipper.ai/og-card.png",
+      "date": "2026-08-19T23:12:38+00:00"
+    },
+    {
+      "title": "\"Half-Day\": 0-Day in the Age of AI",
+      "summary": "Article URL: https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49368297 Points: 2 # Comments: 0",
+      "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
+      "image": "https://storage.ghost.io/c/03/11/03117d5a-f104-460a-8d3b-19cf9de84fa6/content/images/size/w1200/2022/10/margin-logo-with-title-2.png",
+      "date": "2026-08-19T23:03:53+00:00"
     }
   ]
 }
