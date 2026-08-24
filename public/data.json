@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-08-23T06:58:11.145484+00:00",
-  "items": []
+  "generated_at": "2026-08-24T07:17:25.206078+00:00",
+  "items": [
+    {
+      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+      "summary": "Article URL: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech Comments URL: https://news.ycombinator.com/item?id=49409392 Points: 1 # Comments: 0",
+      "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "image": "",
+      "date": "2026-08-23T15:03:17+00:00"
+    },
+    {
+      "title": "Oneiric, AI-generated, open source [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ Comments URL: https://news.ycombinator.com/item?id=49409332 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "image": "",
+      "date": "2026-08-23T14:55:14+00:00"
+    },
+    {
+      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+      "summary": "Article URL: https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/ Comments URL: https://news.ycombinator.com/item?id=49409320 Points: 1 # Comments: 0",
+      "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+      "image": "https://stevekrause.org/_astro/woe-is-em-call-me-ishmael-10.DFwDMwcy.webp",
+      "date": "2026-08-23T14:53:36+00:00"
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 3 # Comments: 0",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "image": "",
+      "date": "2026-08-23T14:23:09+00:00"
+    },
+    {
+      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane Comments URL: https://news.ycombinator.com/item?id=49409030 Points: 3 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "image": "https://i.guim.co.uk/img/media/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bf99c405619203c4887891d6f3c423b",
+      "date": "2026-08-23T14:16:47+00:00"
+    },
+    {
+      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
+      "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems. In the future, wouldn't that make anyone who produces original code become more cautious of sharing it, being aware that it will just be fed into the \"hive mind\" and they'll never get any attribution or financial gain out of it? Or has the value of code, tools and software become so cheap it doesn't really matter anymore? Comments URL: https://news.ycombinator.com/item?id=49408691 Points: 2 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49408691",
+      "image": "",
+      "date": "2026-08-23T13:24:59+00:00"
+    },
+    {
+      "title": "Product Owner Interview Questions for the Age of AI",
+      "summary": "Article URL: https://age-of-product.com/product-owner-interview-questions/ Comments URL: https://news.ycombinator.com/item?id=49408316 Points: 2 # Comments: 0",
+      "url": "https://age-of-product.com/product-owner-interview-questions/",
+      "image": "",
+      "date": "2026-08-23T12:31:15+00:00"
+    },
+    {
+      "title": "What do you think of AI website builders?",
+      "summary": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it Comments URL: https://news.ycombinator.com/item?id=49408013 Points: 1 # Comments: 1",
+      "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
+      "image": "",
+      "date": "2026-08-23T11:44:01+00:00"
+    },
+    {
+      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+      "summary": "Article URL: https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/ Comments URL: https://news.ycombinator.com/item?id=49408011 Points: 1 # Comments: 1",
+      "url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2271847602.jpg",
+      "date": "2026-08-23T11:42:54+00:00"
+    },
+    {
+      "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
+      "summary": "Article URL: https://zenodo.org/records/22067050 Comments URL: https://news.ycombinator.com/item?id=49407926 Points: 1 # Comments: 0",
+      "url": "https://zenodo.org/records/22067050",
+      "image": "",
+      "date": "2026-08-23T11:24:42+00:00"
+    },
+    {
+      "title": "Agentic AI in a Smolbox",
+      "summary": "Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49407905 Points: 2 # Comments: 0",
+      "url": "https://remyhax.xyz/posts/smolbox/",
+      "image": "https://remyhax.xyz/image/feature-agentic-ai-in-a-smolbox.png",
+      "date": "2026-08-23T11:20:53+00:00"
+    },
+    {
+      "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+      "summary": "Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/ Comments URL: https://news.ycombinator.com/item?id=49407872 Points: 1 # Comments: 0",
+      "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+      "image": "https://cdn.pagerduty.com/wp-content/uploads/2024/08/generic-video-pagerduty-background.jpg",
+      "date": "2026-08-23T11:14:58+00:00"
+    },
+    {
+      "title": "The search for consciousness inside AI",
+      "summary": "Article URL: https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms Comments URL: https://news.ycombinator.com/item?id=49407858 Points: 2 # Comments: 3",
+      "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+      "image": "",
+      "date": "2026-08-23T11:07:51+00:00"
+    },
+    {
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 34 # Comments: 39",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1735%2C$y_682/t_crop_custom/q_86%2Cf_auto/8fc11ce2d27e6a21d211604709ab3b2ad15f7e9e",
+      "date": "2026-08-23T10:54:35+00:00"
+    }
+  ]
 }
