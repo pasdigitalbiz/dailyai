@@ -1,103 +1,124 @@
 {
-  "generated_at": "2026-08-24T07:17:25.206078+00:00",
+  "generated_at": "2026-08-25T07:05:50.366134+00:00",
   "items": [
     {
-      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
-      "summary": "Article URL: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech Comments URL: https://news.ycombinator.com/item?id=49409392 Points: 1 # Comments: 0",
-      "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+      "summary": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it. Google fixed it in eight days, credited me by name, and the fix later became CVE-2026-14540 (CVSS 8.0, high). What I found: the MCP Toolbox's HTTP source makes outbound requests to a URL a caller can influence. It validated that first URL, but not where a redirect sent it next, and it did no filtering on the destination address at all. If the server you're calling answers with a redirect to 169.254.169.254, the toolbox follows it like any other response and hands back whatever's there. In a cloud environment, what's there is often the credential the environment itself is running on. The credential is never in the request you sent, the environment supplies it at the destination, and the toolbox just walked you to the door. Why this is sharper in agent tooling specifically: in most software, \"an attacker controls this input\" is a condition you argue about. In a tool-calling agent, it's closer to the default. The URL argument here isn't typed by a person who trusts it, it's chosen by a model that's usually just finished reading a web page, a database row, or a file it doesn't control. The thing that makes this exploitable, a caller-influenced destination, isn't an edge case for a server like this, it's the normal operating condition. What I sent Google, and what happened: I reported the finding with a reproduction and a suggested fix shape, validate on every hop not just the first request, reject private and link-local ranges including the IPv6 forms that encode an IPv4 address. Google's engineering team reviewed it, and the fix that shipped in pull request #3448 does the right version of all of that: an SSRFGuard that validates the destination on every redirect hop and resists DNS rebinding, configurable network boundaries, and early validation of the configured base URL at initialization so misconfiguration fails fast instead of at request time. Eight days from report to merged fix. CVE-2026-14540 was published a few weeks later, and I'm named in the official CVE record as the finder. The part I'm not publishing yet: I've been auditing other official MCP servers for the same pattern, not just Google's. Some pin the destination correctly, some don't. Where I've found something, I'm reporting it privately first and I'll write about it once a fix is out, the same way I did here. This post is only the Google case, because it's the only one that's public. If you're building something with this shape yourself, the question worth asking is small enough to hold in your head: can a value your caller influenced change which host receives a credentialed request, with nothing checking that destination first? If yes, you have this bug, whether or not anyone's found it yet. CVE record: https://www.cve.org/CVERecord?id=CVE-2026-14540\nFix: https://github.com/googleapis/mcp-toolbox/pull/3448 Comments URL: https://news.ycombinator.com/item?id=49429926 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49429926",
       "image": "",
-      "date": "2026-08-23T15:03:17+00:00"
+      "date": "2026-08-25T06:46:17+00:00"
     },
     {
-      "title": "Oneiric, AI-generated, open source [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ Comments URL: https://news.ycombinator.com/item?id=49409332 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
+      "summary": "Article URL: https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars Comments URL: https://news.ycombinator.com/item?id=49429903 Points: 2 # Comments: 1",
+      "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/data-center-under-Construction-Site-scaled.jpg",
+      "date": "2026-08-25T06:43:03+00:00"
+    },
+    {
+      "title": "New technology lets cloud AI models process your data without privacy leaks",
+      "summary": "Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/ Comments URL: https://news.ycombinator.com/item?id=49429691 Points: 4 # Comments: 0",
+      "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+      "image": "https://plugos.net/assets/static/favicon-192x192.GgSX_ec9.webp",
+      "date": "2026-08-25T06:11:42+00:00"
+    },
+    {
+      "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cq89jpjeq7ko Comments URL: https://news.ycombinator.com/item?id=49429688 Points: 4 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
+      "date": "2026-08-25T06:11:28+00:00"
+    },
+    {
+      "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
+      "summary": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities are often hallucinated. I was curious, so I even built my own cooking quantity benchmark while development, and here are the results. We're using my system, which is anchoring tables that are searched in the original country of the recipe. For example, when cooking carbonara, it's going to check for the Italian web for the anchoring table, not the English web.\nBenchmark results : https://cook.redwi.ng/static/blog/cookbench-v1-cooking-quant... The results were quite stunning, We reached 90% correct runs in average with correct quantities, and I'm saying that because I actually cooked myself these and I know the exact quantities Required for these recipes. Feel free to try it and give me your thoughts! Comments URL: https://news.ycombinator.com/item?id=49429600 Points: 2 # Comments: 0",
+      "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+      "image": "https://play-lh.googleusercontent.com/gWO-oFqPmb57d2hpMAVo9s2MIJglqpmIELsSY9ZROntRRoSx5N15-sTA2dIKbAIE2XMSFG7HOKoEMiWPi17Rdg=s0-br30",
+      "date": "2026-08-25T05:53:45+00:00"
+    },
+    {
+      "title": "Artificial Intelligence Market (2026 – 2033)",
+      "summary": "Article URL: https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market Comments URL: https://news.ycombinator.com/item?id=49429491 Points: 1 # Comments: 0",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
       "image": "",
-      "date": "2026-08-23T14:55:14+00:00"
+      "date": "2026-08-25T05:35:04+00:00"
     },
     {
-      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
-      "summary": "Article URL: https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/ Comments URL: https://news.ycombinator.com/item?id=49409320 Points: 1 # Comments: 0",
-      "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
-      "image": "https://stevekrause.org/_astro/woe-is-em-call-me-ishmael-10.DFwDMwcy.webp",
-      "date": "2026-08-23T14:53:36+00:00"
+      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2dk6wzjw23o Comments URL: https://news.ycombinator.com/item?id=49429464 Points: 3 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d33/live/8bab51a0-9fdf-11f1-9c90-a93a719154c7.jpg",
+      "date": "2026-08-25T05:31:24+00:00"
     },
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 3 # Comments: 0",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "title": "Ukraine hands Britain 'goldmine' of secret battlefield intelligence",
+      "summary": "Article URL: https://www.independent.co.uk/news/uk/home-news/ukraine-britain-battlefield-intelligence-russia-spies-b3038492.html Comments URL: https://news.ycombinator.com/item?id=49429433 Points: 3 # Comments: 0",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ukraine-britain-battlefield-intelligence-russia-spies-b3038492.html",
+      "image": "https://static.independent.co.uk/2026/08/24/21/2291336027..?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
+      "date": "2026-08-25T05:27:34+00:00"
+    },
+    {
+      "title": "Show HN: When AI Decides What Matters",
+      "summary": "Article URL: https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/ Comments URL: https://news.ycombinator.com/item?id=49429255 Points: 2 # Comments: 0",
+      "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+      "image": "https://jasondoyle.ie/assets/jason-doyle-og.png",
+      "date": "2026-08-25T04:56:55+00:00"
+    },
+    {
+      "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+      "summary": "Article URL: https://pragmaticbydefault.com/posts/ai-verification-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=49429130 Points: 1 # Comments: 0",
+      "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+      "image": "https://pragmaticbydefault.com/images/ai-verification-cover.png",
+      "date": "2026-08-25T04:38:01+00:00"
+    },
+    {
+      "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+      "summary": "Article URL: https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/ Comments URL: https://news.ycombinator.com/item?id=49429032 Points: 1 # Comments: 0",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+      "image": "https://res.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/en/headerimage/generatedHeaderImage-1787524536908.jpg",
+      "date": "2026-08-25T04:22:30+00:00"
+    },
+    {
+      "title": "Code maintainability plummets in the AI coding era",
+      "summary": "Article URL: https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era Comments URL: https://news.ycombinator.com/item?id=49429028 Points: 4 # Comments: 0",
+      "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+      "image": "https://res.cloudinary.com/leaddev/image/upload/f_auto/q_auto/dpr_auto/c_limit,w_1920,h_1080/next/2024/10/quality-assurance-03.jpg",
+      "date": "2026-08-25T04:21:41+00:00"
+    },
+    {
+      "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+      "summary": "Article URL: https://www.supermicro.com/en/accelerators/nvidia/super-ai-station Comments URL: https://news.ycombinator.com/item?id=49428966 Points: 2 # Comments: 2",
+      "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
       "image": "",
-      "date": "2026-08-23T14:23:09+00:00"
+      "date": "2026-08-25T04:08:43+00:00"
     },
     {
-      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane Comments URL: https://news.ycombinator.com/item?id=49409030 Points: 3 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-      "image": "https://i.guim.co.uk/img/media/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bf99c405619203c4887891d6f3c423b",
-      "date": "2026-08-23T14:16:47+00:00"
-    },
-    {
-      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
-      "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems. In the future, wouldn't that make anyone who produces original code become more cautious of sharing it, being aware that it will just be fed into the \"hive mind\" and they'll never get any attribution or financial gain out of it? Or has the value of code, tools and software become so cheap it doesn't really matter anymore? Comments URL: https://news.ycombinator.com/item?id=49408691 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=49408691",
+      "title": "AI algorithm for room temperature superconductor, candidate detected",
+      "summary": "Article URL: https://zenodo.org/records/22073633 Comments URL: https://news.ycombinator.com/item?id=49428877 Points: 1 # Comments: 0",
+      "url": "https://zenodo.org/records/22073633",
       "image": "",
-      "date": "2026-08-23T13:24:59+00:00"
+      "date": "2026-08-25T03:53:04+00:00"
     },
     {
-      "title": "Product Owner Interview Questions for the Age of AI",
-      "summary": "Article URL: https://age-of-product.com/product-owner-interview-questions/ Comments URL: https://news.ycombinator.com/item?id=49408316 Points: 2 # Comments: 0",
-      "url": "https://age-of-product.com/product-owner-interview-questions/",
+      "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc Comments URL: https://news.ycombinator.com/item?id=49428631 Points: 7 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
       "image": "",
-      "date": "2026-08-23T12:31:15+00:00"
+      "date": "2026-08-25T03:05:11+00:00"
     },
     {
-      "title": "What do you think of AI website builders?",
-      "summary": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it Comments URL: https://news.ycombinator.com/item?id=49408013 Points: 1 # Comments: 1",
-      "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
-      "image": "",
-      "date": "2026-08-23T11:44:01+00:00"
+      "title": "Thomson Reuters Standard for High Stakes AI",
+      "summary": "Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/ Comments URL: https://news.ycombinator.com/item?id=49428554 Points: 1 # Comments: 0",
+      "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
+      "image": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2026/05/Untitled-design-3.png",
+      "date": "2026-08-25T02:54:21+00:00"
     },
     {
-      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
-      "summary": "Article URL: https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/ Comments URL: https://news.ycombinator.com/item?id=49408011 Points: 1 # Comments: 1",
-      "url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2271847602.jpg",
-      "date": "2026-08-23T11:42:54+00:00"
-    },
-    {
-      "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
-      "summary": "Article URL: https://zenodo.org/records/22067050 Comments URL: https://news.ycombinator.com/item?id=49407926 Points: 1 # Comments: 0",
-      "url": "https://zenodo.org/records/22067050",
-      "image": "",
-      "date": "2026-08-23T11:24:42+00:00"
-    },
-    {
-      "title": "Agentic AI in a Smolbox",
-      "summary": "Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49407905 Points: 2 # Comments: 0",
-      "url": "https://remyhax.xyz/posts/smolbox/",
-      "image": "https://remyhax.xyz/image/feature-agentic-ai-in-a-smolbox.png",
-      "date": "2026-08-23T11:20:53+00:00"
-    },
-    {
-      "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
-      "summary": "Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/ Comments URL: https://news.ycombinator.com/item?id=49407872 Points: 1 # Comments: 0",
-      "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
-      "image": "https://cdn.pagerduty.com/wp-content/uploads/2024/08/generic-video-pagerduty-background.jpg",
-      "date": "2026-08-23T11:14:58+00:00"
-    },
-    {
-      "title": "The search for consciousness inside AI",
-      "summary": "Article URL: https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms Comments URL: https://news.ycombinator.com/item?id=49407858 Points: 2 # Comments: 3",
-      "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
-      "image": "",
-      "date": "2026-08-23T11:07:51+00:00"
-    },
-    {
-      "title": "'AI refuser' quit her dream job, and hopes others follow",
-      "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 34 # Comments: 39",
-      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-      "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1735%2C$y_682/t_crop_custom/q_86%2Cf_auto/8fc11ce2d27e6a21d211604709ab3b2ad15f7e9e",
-      "date": "2026-08-23T10:54:35+00:00"
+      "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+      "summary": "Article URL: https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/ Comments URL: https://news.ycombinator.com/item?id=49428514 Points: 3 # Comments: 0",
+      "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+      "image": "https://www.servethehome.com/wp-content/uploads/2026/08/hot-chips-2026-ibm-z-and-linuxone-slide-36.jpg",
+      "date": "2026-08-25T02:45:56+00:00"
     }
   ]
 }
