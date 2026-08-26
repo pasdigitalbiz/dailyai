@@ -1,124 +1,103 @@
 {
-  "generated_at": "2026-08-25T07:05:50.366134+00:00",
+  "generated_at": "2026-08-26T07:06:06.711087+00:00",
   "items": [
     {
-      "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
-      "summary": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it. Google fixed it in eight days, credited me by name, and the fix later became CVE-2026-14540 (CVSS 8.0, high). What I found: the MCP Toolbox's HTTP source makes outbound requests to a URL a caller can influence. It validated that first URL, but not where a redirect sent it next, and it did no filtering on the destination address at all. If the server you're calling answers with a redirect to 169.254.169.254, the toolbox follows it like any other response and hands back whatever's there. In a cloud environment, what's there is often the credential the environment itself is running on. The credential is never in the request you sent, the environment supplies it at the destination, and the toolbox just walked you to the door. Why this is sharper in agent tooling specifically: in most software, \"an attacker controls this input\" is a condition you argue about. In a tool-calling agent, it's closer to the default. The URL argument here isn't typed by a person who trusts it, it's chosen by a model that's usually just finished reading a web page, a database row, or a file it doesn't control. The thing that makes this exploitable, a caller-influenced destination, isn't an edge case for a server like this, it's the normal operating condition. What I sent Google, and what happened: I reported the finding with a reproduction and a suggested fix shape, validate on every hop not just the first request, reject private and link-local ranges including the IPv6 forms that encode an IPv4 address. Google's engineering team reviewed it, and the fix that shipped in pull request #3448 does the right version of all of that: an SSRFGuard that validates the destination on every redirect hop and resists DNS rebinding, configurable network boundaries, and early validation of the configured base URL at initialization so misconfiguration fails fast instead of at request time. Eight days from report to merged fix. CVE-2026-14540 was published a few weeks later, and I'm named in the official CVE record as the finder. The part I'm not publishing yet: I've been auditing other official MCP servers for the same pattern, not just Google's. Some pin the destination correctly, some don't. Where I've found something, I'm reporting it privately first and I'll write about it once a fix is out, the same way I did here. This post is only the Google case, because it's the only one that's public. If you're building something with this shape yourself, the question worth asking is small enough to hold in your head: can a value your caller influenced change which host receives a credentialed request, with nothing checking that destination first? If yes, you have this bug, whether or not anyone's found it yet. CVE record: https://www.cve.org/CVERecord?id=CVE-2026-14540\nFix: https://github.com/googleapis/mcp-toolbox/pull/3448 Comments URL: https://news.ycombinator.com/item?id=49429926 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=49429926",
+      "title": "Looking for people to follow designing systems to ship code with AI agents",
+      "summary": "Today I watched a workshop, probably recorded by one of the people attended the Zoom call and shared over X, and I loved it. The speaker was from Cursor and talked about her own genuine experience in developing the the systems at work that ship hundred of PRs every month w/o her touching the code at all -- aside from her working on the environment, harness, constraints, rules where these agents operate. What I liked also how she actually showed it, explained it, and her communication sounded pure hands-on experience. And more importantly, throughout the video she looked really tired and but energetic at the same time if you know what I mean. Tired because of solving real problems, and energetic because of solving real problems unlike those YouTubers or many X folks with overly energetic acts coming from speaking about AI rather than what they really do with AI at work. So for people like me who are away from the source of all this, which is Silicon Valley, I am really trying to access those resources; the resources that were not highly censored for much wider public view. I am doing progressively more AI driven automated deliveries at work, and I really want to learn from the masters in the field. Unfortunately not living in Silicon Valley and cannot attend those live meetings in person or not being informed about these digital workshops and zoom calls thru the active community is already leaving us behind. But I am sure some of those videos are shared like the one I watched today. But the question is where? In what communities or discord groups should I join? Any videos like that you watch and find extremely useful? Whom to follow on X or Reddit that fits this criteria? Comments URL: https://news.ycombinator.com/item?id=49444955 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49444955",
       "image": "",
-      "date": "2026-08-25T06:46:17+00:00"
+      "date": "2026-08-26T06:50:35+00:00"
     },
     {
-      "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
-      "summary": "Article URL: https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars Comments URL: https://news.ycombinator.com/item?id=49429903 Points: 2 # Comments: 1",
-      "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/data-center-under-Construction-Site-scaled.jpg",
-      "date": "2026-08-25T06:43:03+00:00"
+      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say Comments URL: https://news.ycombinator.com/item?id=49444664 Points: 4 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+      "image": "https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-1920-80.jpg",
+      "date": "2026-08-26T06:07:07+00:00"
     },
     {
-      "title": "New technology lets cloud AI models process your data without privacy leaks",
-      "summary": "Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/ Comments URL: https://news.ycombinator.com/item?id=49429691 Points: 4 # Comments: 0",
-      "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
-      "image": "https://plugos.net/assets/static/favicon-192x192.GgSX_ec9.webp",
-      "date": "2026-08-25T06:11:42+00:00"
+      "title": "Can AI Music Tools Replace Epidemic Sound? An Honest Look",
+      "summary": "Article URL: https://www.musegen.ai/blog/ai-music-vs-epidemic-sound Comments URL: https://news.ycombinator.com/item?id=49444616 Points: 1 # Comments: 0",
+      "url": "https://www.musegen.ai/blog/ai-music-vs-epidemic-sound",
+      "image": "https://www.musegen.ai/images/blog/ai-music-vs-epidemic-sound/cover-ai-music-vs-epidemic-sound.webp",
+      "date": "2026-08-26T06:01:42+00:00"
     },
     {
-      "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cq89jpjeq7ko Comments URL: https://news.ycombinator.com/item?id=49429688 Points: 4 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4072/live/6ff801d0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
-      "date": "2026-08-25T06:11:28+00:00"
+      "title": "Chinese government fears talking to AI might replace human intimacy",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern Comments URL: https://news.ycombinator.com/item?id=49444578 Points: 3 # Comments: 2",
+      "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fd31519098f19cec1512068a71377c",
+      "date": "2026-08-26T05:57:28+00:00"
     },
     {
-      "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
-      "summary": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities are often hallucinated. I was curious, so I even built my own cooking quantity benchmark while development, and here are the results. We're using my system, which is anchoring tables that are searched in the original country of the recipe. For example, when cooking carbonara, it's going to check for the Italian web for the anchoring table, not the English web.\nBenchmark results : https://cook.redwi.ng/static/blog/cookbench-v1-cooking-quant... The results were quite stunning, We reached 90% correct runs in average with correct quantities, and I'm saying that because I actually cooked myself these and I know the exact quantities Required for these recipes. Feel free to try it and give me your thoughts! Comments URL: https://news.ycombinator.com/item?id=49429600 Points: 2 # Comments: 0",
-      "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
-      "image": "https://play-lh.googleusercontent.com/gWO-oFqPmb57d2hpMAVo9s2MIJglqpmIELsSY9ZROntRRoSx5N15-sTA2dIKbAIE2XMSFG7HOKoEMiWPi17Rdg=s0-br30",
-      "date": "2026-08-25T05:53:45+00:00"
+      "title": "GitHub denies Copilot Autofix wrote the bug Wiz's AI agent found",
+      "summary": "Article URL: https://ai-news.ghost.io/github-denies-copilot-autofix-wrote-the-bug-wizs-ai-agent-found/ Comments URL: https://news.ycombinator.com/item?id=49444544 Points: 1 # Comments: 0",
+      "url": "https://ai-news.ghost.io/github-denies-copilot-autofix-wrote-the-bug-wizs-ai-agent-found/",
+      "image": "https://storage.ghost.io/c/9c/1f/9c1ff71c-2859-44c2-a962-1337982a6484/content/images/2026/08/issue-021-cover-light.png",
+      "date": "2026-08-26T05:53:25+00:00"
     },
     {
-      "title": "Artificial Intelligence Market (2026 – 2033)",
-      "summary": "Article URL: https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market Comments URL: https://news.ycombinator.com/item?id=49429491 Points: 1 # Comments: 0",
-      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
+      "title": "Perplexity's Portable Computer tackling local AI services market",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449 Comments URL: https://news.ycombinator.com/item?id=49444267 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
       "image": "",
-      "date": "2026-08-25T05:35:04+00:00"
+      "date": "2026-08-26T05:14:02+00:00"
     },
     {
-      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2dk6wzjw23o Comments URL: https://news.ycombinator.com/item?id=49429464 Points: 3 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d33/live/8bab51a0-9fdf-11f1-9c90-a93a719154c7.jpg",
-      "date": "2026-08-25T05:31:24+00:00"
-    },
-    {
-      "title": "Ukraine hands Britain 'goldmine' of secret battlefield intelligence",
-      "summary": "Article URL: https://www.independent.co.uk/news/uk/home-news/ukraine-britain-battlefield-intelligence-russia-spies-b3038492.html Comments URL: https://news.ycombinator.com/item?id=49429433 Points: 3 # Comments: 0",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ukraine-britain-battlefield-intelligence-russia-spies-b3038492.html",
-      "image": "https://static.independent.co.uk/2026/08/24/21/2291336027..?trim=1,0,1,0&width=1200&height=800&crop=1200:800",
-      "date": "2026-08-25T05:27:34+00:00"
-    },
-    {
-      "title": "Show HN: When AI Decides What Matters",
-      "summary": "Article URL: https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/ Comments URL: https://news.ycombinator.com/item?id=49429255 Points: 2 # Comments: 0",
-      "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
-      "image": "https://jasondoyle.ie/assets/jason-doyle-og.png",
-      "date": "2026-08-25T04:56:55+00:00"
-    },
-    {
-      "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
-      "summary": "Article URL: https://pragmaticbydefault.com/posts/ai-verification-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=49429130 Points: 1 # Comments: 0",
-      "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
-      "image": "https://pragmaticbydefault.com/images/ai-verification-cover.png",
-      "date": "2026-08-25T04:38:01+00:00"
-    },
-    {
-      "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
-      "summary": "Article URL: https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/ Comments URL: https://news.ycombinator.com/item?id=49429032 Points: 1 # Comments: 0",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
-      "image": "https://res.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/en/headerimage/generatedHeaderImage-1787524536908.jpg",
-      "date": "2026-08-25T04:22:30+00:00"
-    },
-    {
-      "title": "Code maintainability plummets in the AI coding era",
-      "summary": "Article URL: https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era Comments URL: https://news.ycombinator.com/item?id=49429028 Points: 4 # Comments: 0",
-      "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
-      "image": "https://res.cloudinary.com/leaddev/image/upload/f_auto/q_auto/dpr_auto/c_limit,w_1920,h_1080/next/2024/10/quality-assurance-03.jpg",
-      "date": "2026-08-25T04:21:41+00:00"
-    },
-    {
-      "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
-      "summary": "Article URL: https://www.supermicro.com/en/accelerators/nvidia/super-ai-station Comments URL: https://news.ycombinator.com/item?id=49428966 Points: 2 # Comments: 2",
-      "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+      "title": "Front end skill pack for AI agents, with machine-enforced quality gates",
+      "summary": "Article URL: https://krishna-modi12.github.io/frontend-design-pro/ Comments URL: https://news.ycombinator.com/item?id=49444248 Points: 1 # Comments: 1",
+      "url": "https://krishna-modi12.github.io/frontend-design-pro/",
       "image": "",
-      "date": "2026-08-25T04:08:43+00:00"
+      "date": "2026-08-26T05:11:54+00:00"
     },
     {
-      "title": "AI algorithm for room temperature superconductor, candidate detected",
-      "summary": "Article URL: https://zenodo.org/records/22073633 Comments URL: https://news.ycombinator.com/item?id=49428877 Points: 1 # Comments: 0",
-      "url": "https://zenodo.org/records/22073633",
+      "title": "Portable Computer: Local-First AI",
+      "summary": "Article URL: https://www.perplexity.ai/hub/products/portable-computer Comments URL: https://news.ycombinator.com/item?id=49444229 Points: 2 # Comments: 0",
+      "url": "https://www.perplexity.ai/hub/products/portable-computer",
       "image": "",
-      "date": "2026-08-25T03:53:04+00:00"
+      "date": "2026-08-26T05:09:04+00:00"
     },
     {
-      "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc Comments URL: https://news.ycombinator.com/item?id=49428631 Points: 7 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+      "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
+      "summary": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=49444199 Points: 2 # Comments: 0",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
       "image": "",
-      "date": "2026-08-25T03:05:11+00:00"
+      "date": "2026-08-26T05:03:50+00:00"
     },
     {
-      "title": "Thomson Reuters Standard for High Stakes AI",
-      "summary": "Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/ Comments URL: https://news.ycombinator.com/item?id=49428554 Points: 1 # Comments: 0",
-      "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
-      "image": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2026/05/Untitled-design-3.png",
-      "date": "2026-08-25T02:54:21+00:00"
+      "title": "The Connections That Turned a Precocious Teen into the Fallen Nostradamus of AI",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4 Comments URL: https://news.ycombinator.com/item?id=49444174 Points: 3 # Comments: 1",
+      "url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+      "image": "",
+      "date": "2026-08-26T05:00:35+00:00"
     },
     {
-      "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
-      "summary": "Article URL: https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/ Comments URL: https://news.ycombinator.com/item?id=49428514 Points: 3 # Comments: 0",
-      "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
-      "image": "https://www.servethehome.com/wp-content/uploads/2026/08/hot-chips-2026-ibm-z-and-linuxone-slide-36.jpg",
-      "date": "2026-08-25T02:45:56+00:00"
+      "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
+      "summary": "Article URL: https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/ Comments URL: https://news.ycombinator.com/item?id=49443903 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
+      "image": "",
+      "date": "2026-08-26T03:27:52+00:00"
+    },
+    {
+      "title": "Analyzing student votes across AI models for college essay help",
+      "summary": "Article URL: https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026 Comments URL: https://news.ycombinator.com/item?id=49443871 Points: 39 # Comments: 49",
+      "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+      "image": "https://studyarena.com/blog/heroes/which-ai-is-best-for-college-essays-2026.avif",
+      "date": "2026-08-26T03:23:50+00:00"
+    },
+    {
+      "title": "What platform has the best AI CMO?",
+      "summary": "I've seen heycatch and okara, maybe a few others like it... seems like they plug into reddit api and provide ai ugc tools. Does anyone have any success using tools like these? I wouldn't imagine much, but I wanted to get a temperature check. What's working, whats not? Comments URL: https://news.ycombinator.com/item?id=49443800 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49443800",
+      "image": "",
+      "date": "2026-08-26T03:13:26+00:00"
+    },
+    {
+      "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
+      "summary": "Article URL: https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339 Comments URL: https://news.ycombinator.com/item?id=49443338 Points: 20 # Comments: 11",
+      "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+      "image": "",
+      "date": "2026-08-26T02:10:22+00:00"
     }
   ]
 }
