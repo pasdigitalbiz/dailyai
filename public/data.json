@@ -1,96 +1,82 @@
 {
-  "generated_at": "2026-08-28T18:38:02.792510+00:00",
+  "generated_at": "2026-08-29T12:38:54.965235+00:00",
   "items": [
     {
-      "title": "New AI tech considered to tackle wrong-way driving",
-      "summary": "Article URL: https://www.rte.ie/news/ireland/2026/0828/1589622-ai-motorways/ Comments URL: https://news.ycombinator.com/item?id=49482612 Points: 1 # Comments: 0",
-      "url": "https://www.rte.ie/news/ireland/2026/0828/1589622-ai-motorways/",
-      "image": "https://www.rte.ie/images/001b6cee-1600.jpg",
-      "date": "2026-08-28T18:32:07+00:00"
-    },
-    {
-      "title": "I tested 47 news outlets: 16 block AI fact-checkers, incl. Reuters, WSJ and NYT",
-      "summary": "Article URL: https://korniienko.dev/blog/news-outlets-ai-cannot-read/ Comments URL: https://news.ycombinator.com/item?id=49482593 Points: 1 # Comments: 0",
-      "url": "https://korniienko.dev/blog/news-outlets-ai-cannot-read/",
-      "image": "https://korniienko.dev/og/blog-news-outlets-ai-cannot-read.png",
-      "date": "2026-08-28T18:30:17+00:00"
-    },
-    {
-      "title": "Ask HN: AI writes better code than me. How to keep my identity?",
-      "summary": "Nowadays, almost everyone codes with AI, right? I am a freelancer, and the entire market is now setting deadlines based on AI-assisted coding speeds. If you don't use AI, you simply cannot meet the deadlines. Because of this, I completely transitioned to AI-driven coding at the beginning of this year (starting around GPT-5.3). It's not that AI coding isn't fun. It is. But in the beginning, there were still many things AI couldn't do well. The community focus was on \"Harness Engineering,\" attaching MCPs, or deep Prompt Engineering. I actually built and used quite a few custom AI tools during that phase. In the past, you had to provide not just your intent and direction, but also detailed, step-by-step instructions to reach that goal. Lately, though, even if you skip the detailed instructions, both Claude and GPT-5.6 handle it perfectly. You don't even have to agonize over which model to use. \"Graph engineering\" is currently trending, but it seems the models have already learned those patterns natively—if you establish a high-level plan with them, they automatically embed the execution policies into it. Whenever I try to learn and apply a new AI engineering technique, the next model update already does it out of the box, making the effort feel pointless. The real problem is that AI is now too good. It applies ADT patterns, immutability, Option/Maybe, Result patterns, functional programming patterns, monadic chaining, and architectural structures like MVC, MVVM, MVI, and Hexagonal architectures far better than I can. It's heavily demotivating. All those years I spent memorizing GoF patterns, slowly applying them to my work, and tweaking them into my own style—it all feels meaningless now. Honestly, the vast majority of freelance work revolves around simple CRUD apps. Sure, there is domain knowledge to memorize, but when it comes to structuring CRUD, using functional techniques for error and value handling, or writing boundary tests, AI is just far more meticulous and capable than I am. It even feels like AI is better at domain modeling. I try to hypnotize myself into believing I'm still necessary, but realistically, I don't work in Big Tech. I'm a programmer who mostly assembles business logic on top of existing frameworks, and the truth is, AI does my job better. And faster. I don't think I can deny it anymore. Top-tier developers might still outperform AI, but for the vast majority of us, including myself, that is no longer the reality. To write the kind of code AI generates, I used to have to keep documentation open on a second monitor, think deeply, and constantly Google better approaches. AI just generates it instantly, making my past efforts feel obsolete. When AI writes better code than I do, how am I supposed to maintain my motivation and identity? I would especially love to hear from other freelance developers. With market deadlines getting tighter and tighter because of AI, how are you handling this transition? Again, it's not that AI \"vibe coding\" isn't fun. It is. But entirely separate from that, the stark realization that I am losing my competitive edge is making me increasingly depressed. Comments URL: https://news.ycombinator.com/item?id=49481969 Points: 5 # Comments: 3",
-      "url": "https://news.ycombinator.com/item?id=49481969",
+      "title": "AI Hallucination Cases Database",
+      "summary": "Article URL: https://www.damiencharlotin.com/hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49489219 Points: 2 # Comments: 0",
+      "url": "https://www.damiencharlotin.com/hallucinations/",
       "image": "",
-      "date": "2026-08-28T17:40:39+00:00"
+      "date": "2026-08-29T12:07:44+00:00"
     },
     {
-      "title": "LibreOffice 26.8 is out – local first, and with no AI",
-      "summary": "Article URL: https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301 Comments URL: https://news.ycombinator.com/item?id=49481868 Points: 6 # Comments: 1",
-      "url": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301",
-      "image": "https://image.theregister.com/261356.jpg?imageId=261356&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-08-28T17:33:39+00:00"
-    },
-    {
-      "title": "A History of the AI Incident-O-Pocalypse in B-Movie Horror Posters",
-      "summary": "Article URL: https://www.qawolf.com/blog/a-history-of-the-ai-incident-o-pocalypse-in-b-movie-horror-posters Comments URL: https://news.ycombinator.com/item?id=49481830 Points: 3 # Comments: 0",
-      "url": "https://www.qawolf.com/blog/a-history-of-the-ai-incident-o-pocalypse-in-b-movie-horror-posters",
-      "image": "https://cdn.prod.website-files.com/6260298eca091b3621cf1890/6a90afdfc731d81f8e083781_og_blog_post%20(3).png",
-      "date": "2026-08-28T17:29:52+00:00"
-    },
-    {
-      "title": "Songs created by AI banned from Australia's music charts",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c20vl4vm2pno Comments URL: https://news.ycombinator.com/item?id=49481822 Points: 3 # Comments: 1",
-      "url": "https://www.bbc.com/news/articles/c20vl4vm2pno",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
-      "date": "2026-08-28T17:29:31+00:00"
-    },
-    {
-      "title": "How I Design with AI",
-      "summary": "Article URL: https://ref.tools/blog/how-i-design-with-ai Comments URL: https://news.ycombinator.com/item?id=49481689 Points: 16 # Comments: 9",
-      "url": "https://ref.tools/blog/how-i-design-with-ai",
-      "image": "https://ref.tools/images/hida/og-image.webp",
-      "date": "2026-08-28T17:18:32+00:00"
-    },
-    {
-      "title": "SambaNova's SN50 RDU for AI at Hot Chips 2026 – ServeTheHome",
-      "summary": "Article URL: https://www.servethehome.com/sambanovas-sn50-rdu-for-ai-at-hot-chips-2026/ Comments URL: https://news.ycombinator.com/item?id=49481371 Points: 1 # Comments: 0",
-      "url": "https://www.servethehome.com/sambanovas-sn50-rdu-for-ai-at-hot-chips-2026/",
-      "image": "https://www.servethehome.com/wp-content/uploads/2026/08/SambaNova-SN50-Hot-Chips-2026-SN50-Dataflow.png",
-      "date": "2026-08-28T16:57:12+00:00"
-    },
-    {
-      "title": "Does the Rise of AI Mean the End of the IT Era?",
-      "summary": "Article URL: https://www.longfinance.net/news/pamphleteers/does-the-rise-of-ai-mean-the-end-of-the-it-era/ Comments URL: https://news.ycombinator.com/item?id=49481220 Points: 2 # Comments: 0",
-      "url": "https://www.longfinance.net/news/pamphleteers/does-the-rise-of-ai-mean-the-end-of-the-it-era/",
-      "image": "https://longfinance.net/static/img/long-finance-logo-new.png",
-      "date": "2026-08-28T16:47:59+00:00"
-    },
-    {
-      "title": "America's safety net isn't ready for the age of AI",
-      "summary": "Article URL: https://blog.csaip.org/p/americas-safety-net-isnt-ready-for Comments URL: https://news.ycombinator.com/item?id=49481204 Points: 2 # Comments: 1",
-      "url": "https://blog.csaip.org/p/americas-safety-net-isnt-ready-for",
-      "image": "https://substackcdn.com/image/fetch/$s_!KZqG!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsharedaiprosperity.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1663626705%26version%3D9",
-      "date": "2026-08-28T16:46:41+00:00"
-    },
-    {
-      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "summary": "Article URL: https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853 Comments URL: https://news.ycombinator.com/item?id=49481112 Points: 4 # Comments: 0",
-      "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
-      "image": "https://image.theregister.com/5292864.jpg?imageId=5292864&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
-      "date": "2026-08-28T16:41:37+00:00"
-    },
-    {
-      "title": "AI GPUs probably live longer than three years",
-      "summary": "Article URL: https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/ Comments URL: https://news.ycombinator.com/item?id=49480493 Points: 4 # Comments: 0",
-      "url": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/",
+      "title": "Did AI write this? It's getting harder to tell",
+      "summary": "Article URL: https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9 Comments URL: https://news.ycombinator.com/item?id=49488866 Points: 2 # Comments: 0",
+      "url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9",
       "image": "",
-      "date": "2026-08-28T16:01:14+00:00"
+      "date": "2026-08-29T11:02:06+00:00"
     },
     {
-      "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e Comments URL: https://news.ycombinator.com/item?id=49480449 Points: 32 # Comments: 30",
-      "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
+      "title": "DHH: On AI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NYFGCESmikA Comments URL: https://news.ycombinator.com/item?id=49488669 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
       "image": "",
-      "date": "2026-08-28T15:57:40+00:00"
+      "date": "2026-08-29T10:29:46+00:00"
+    },
+    {
+      "title": "Make AI Companies Criminally Liable for Preventable Harm",
+      "summary": "Article URL: https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/ Comments URL: https://news.ycombinator.com/item?id=49488608 Points: 1 # Comments: 0",
+      "url": "https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/",
+      "image": "https://cdn.sanity.io/images/3tzzh18d/production/075a93097df2d75bb05f8783b58795b042cd8302-1200x675.png",
+      "date": "2026-08-29T10:20:26+00:00"
+    },
+    {
+      "title": "Debian AI vote: Option 5 \"Responsible use of GenAI\" won",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002#texte Comments URL: https://news.ycombinator.com/item?id=49488522 Points: 4 # Comments: 2",
+      "url": "https://www.debian.org/vote/2026/vote_002#texte",
+      "image": "",
+      "date": "2026-08-29T10:09:52+00:00"
+    },
+    {
+      "title": "Hypothetical Paintings and Why AI-Generated Art Can Feel Soulless",
+      "summary": "Article URL: https://decodingvibes.com/blog/3-hypothetical-paintings-and-why-ai-generated-art-can-feel-soulless/ Comments URL: https://news.ycombinator.com/item?id=49488423 Points: 1 # Comments: 0",
+      "url": "https://decodingvibes.com/blog/3-hypothetical-paintings-and-why-ai-generated-art-can-feel-soulless/",
+      "image": "",
+      "date": "2026-08-29T09:53:37+00:00"
+    },
+    {
+      "title": "A Collectivist, Economic Vision for AI",
+      "summary": "Article URL: https://cacm.acm.org/research/a-collectivist-economic-vision-for-ai/ Comments URL: https://news.ycombinator.com/item?id=49488356 Points: 1 # Comments: 0",
+      "url": "https://cacm.acm.org/research/a-collectivist-economic-vision-for-ai/",
+      "image": "",
+      "date": "2026-08-29T09:34:45+00:00"
+    },
+    {
+      "title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+      "summary": "Article URL: https://oactodev.github.io/ninety-quid/report/ Comments URL: https://news.ycombinator.com/item?id=49488042 Points: 1 # Comments: 0",
+      "url": "https://oactodev.github.io/ninety-quid/report/",
+      "image": "",
+      "date": "2026-08-29T08:28:24+00:00"
+    },
+    {
+      "title": "Alpha School's AI teaching model is expanding. Does it work?",
+      "summary": "Article URL: https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/ Comments URL: https://news.ycombinator.com/item?id=49487831 Points: 2 # Comments: 1",
+      "url": "https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/",
+      "image": "https://static.scientificamerican.com/dam/asset/216182fe-4347-4d74-bcb4-ef1a1d49b8d9/Alpha-School.jpg?m=1787923970.896&w=1200",
+      "date": "2026-08-29T07:48:26+00:00"
+    },
+    {
+      "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "summary": "Article URL: https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes Comments URL: https://news.ycombinator.com/item?id=49487773 Points: 1 # Comments: 0",
+      "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+      "image": "https://cdn.prod.website-files.com/6295808d44499cde2ba36c71/6a91eb5bfdc588e82572ff2f_Screenshot%202026-08-28%20at%201.11.02%E2%80%AFPM.png",
+      "date": "2026-08-29T07:36:35+00:00"
+    },
+    {
+      "title": "Sharp rise in incidents of AI escaping users' control, research finds",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds Comments URL: https://news.ycombinator.com/item?id=49487734 Points: 3 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+      "image": "https://i.guim.co.uk/img/media/a448bcacf4651f894ef4c7e7c84d916302502513/0_0_4757_3804/master/4757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34829469bcdd124f4f221b23706c7c4d",
+      "date": "2026-08-29T07:27:57+00:00"
     }
   ]
 }
