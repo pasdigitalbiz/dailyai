@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-08-30T11:51:11.924777+00:00",
-  "items": []
+  "generated_at": "2026-08-31T13:42:12.533388+00:00",
+  "items": [
+    {
+      "title": "We tested how AI chatbots would handle foreign propaganda",
+      "summary": "Article URL: https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda Comments URL: https://news.ycombinator.com/item?id=49509687 Points: 1 # Comments: 0",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F06%2Fa0997e9e4141bb678bd7f1b92548%2F2026-07-ai-state-answers-final.jpg",
+      "date": "2026-08-31T13:40:14+00:00"
+    },
+    {
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/ Comments URL: https://news.ycombinator.com/item?id=49509670 Points: 1 # Comments: 0",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
+      "date": "2026-08-31T13:39:00+00:00"
+    },
+    {
+      "title": "Show HN: DogLM – Can you pet the dog in an AI-generated game?",
+      "summary": "Article URL: https://mikeushakov.github.io/doglm/ Comments URL: https://news.ycombinator.com/item?id=49509649 Points: 2 # Comments: 1",
+      "url": "https://mikeushakov.github.io/doglm/",
+      "image": "https://mikeushakov.github.io/doglm/doglm_og_v2_ready.png",
+      "date": "2026-08-31T13:37:10+00:00"
+    },
+    {
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49509527 Points: 2 # Comments: 0",
+      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "image": "https://substackcdn.com/image/fetch/$s_!FlXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e5aa31-f122-4e6f-8d34-a0df73329d51_2823x2117.jpeg",
+      "date": "2026-08-31T13:26:43+00:00"
+    },
+    {
+      "title": "'Headless software' signals further AI-led shake-up",
+      "summary": "Article URL: https://www.ft.com/content/febba6ee-9abd-47d4-bac4-3bbe8b64be7f Comments URL: https://news.ycombinator.com/item?id=49509526 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/febba6ee-9abd-47d4-bac4-3bbe8b64be7f",
+      "image": "",
+      "date": "2026-08-31T13:26:32+00:00"
+    },
+    {
+      "title": "Dave Fletcher from LeadDev: what engineering leaders want from AI [audio]",
+      "summary": "Article URL: https://scalingdevtools.com/podcast/episodes/dave-fletcher-from-leaddev-what-engineering-leaders-are-buying-in-the-ai-era Comments URL: https://news.ycombinator.com/item?id=49509512 Points: 1 # Comments: 0",
+      "url": "https://scalingdevtools.com/podcast/episodes/dave-fletcher-from-leaddev-what-engineering-leaders-are-buying-in-the-ai-era",
+      "image": "https://scalingdevtools.com/social/podcast/dave-fletcher-from-leaddev-what-engineering-leaders-are-buying-in-the-ai-era.png?v=4",
+      "date": "2026-08-31T13:25:50+00:00"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "summary": "Article URL: https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/ Comments URL: https://news.ycombinator.com/item?id=49509312 Points: 1 # Comments: 0",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+      "image": "",
+      "date": "2026-08-31T13:07:48+00:00"
+    },
+    {
+      "title": "OpenAI,Anthropic etc. 100 companies call for action to defend against rogue AI",
+      "summary": "Article URL: https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/ Comments URL: https://news.ycombinator.com/item?id=49509291 Points: 3 # Comments: 1",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+      "date": "2026-08-31T13:05:18+00:00"
+    },
+    {
+      "title": "AI in Education Knowledge Base",
+      "summary": "Article URL: https://edtechdev.github.io/aied/ Comments URL: https://news.ycombinator.com/item?id=49509073 Points: 2 # Comments: 1",
+      "url": "https://edtechdev.github.io/aied/",
+      "image": "https://edtechdev.github.io/aied/og-concept-map.png",
+      "date": "2026-08-31T12:48:35+00:00"
+    },
+    {
+      "title": "A new class of memory-based AI (MIRaS) published this week",
+      "summary": "Article URL: https://academic.oup.com/nar/article/54/16/gkag833/8769250 Comments URL: https://news.ycombinator.com/item?id=49509068 Points: 2 # Comments: 0",
+      "url": "https://academic.oup.com/nar/article/54/16/gkag833/8769250",
+      "image": "",
+      "date": "2026-08-31T12:48:18+00:00"
+    },
+    {
+      "title": "AI and Employment: So Far, So Good",
+      "summary": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html Comments URL: https://news.ycombinator.com/item?id=49509066 Points: 3 # Comments: 0",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+      "image": "https://marginalrevolution.com/wp-content/uploads/2026/08/btos-1.png",
+      "date": "2026-08-31T12:47:56+00:00"
+    },
+    {
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 32 # Comments: 25",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "date": "2026-08-31T12:41:22+00:00"
+    },
+    {
+      "title": "AI is hurting US politics. Here’s how candidates could use it for good",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters Comments URL: https://news.ycombinator.com/item?id=49508856 Points: 2 # Comments: 2",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters",
+      "image": "https://i.guim.co.uk/img/media/1854c7a2ab4204fab0e2e48f89b5ad83e2d283b0/329_0_3341_2672/master/3341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e6428a7a7bf28599336faed459b00ad1",
+      "date": "2026-08-31T12:27:58+00:00"
+    },
+    {
+      "title": "An AI coding agent silently erased 92% of AI nodes in n8n's most-cited dataset",
+      "summary": "Article URL: https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes Comments URL: https://news.ycombinator.com/item?id=49508746 Points: 1 # Comments: 0",
+      "url": "https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes",
+      "image": "https://sevenedge.pl/hero/hero-blog-n8n-node-erasure.webp",
+      "date": "2026-08-31T12:16:30+00:00"
+    },
+    {
+      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "summary": "Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 44 # Comments: 66",
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "image": "",
+      "date": "2026-08-31T12:08:25+00:00"
+    },
+    {
+      "title": "Energy biz SSE smacked around in court by a guy and AI",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391 Comments URL: https://news.ycombinator.com/item?id=49508650 Points: 2 # Comments: 1",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391",
+      "image": "https://image.theregister.com/223356.jpg?imageId=223356&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-08-31T12:07:07+00:00"
+    }
+  ]
 }
