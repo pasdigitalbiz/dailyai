@@ -1,89 +1,82 @@
 {
-  "generated_at": "2026-09-01T11:35:17.271929+00:00",
+  "generated_at": "2026-09-02T11:13:08.069739+00:00",
   "items": [
     {
-      "title": "AI-pilling our company: lessons learned",
-      "summary": "Article URL: https://sierra.ai/blog/ai-pilling-our-company-lessons-learned Comments URL: https://news.ycombinator.com/item?id=49520486 Points: 1 # Comments: 0",
-      "url": "https://sierra.ai/blog/ai-pilling-our-company-lessons-learned",
-      "image": "https://sierra.ai/-/cdn/image?src=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fca4jck6w%2Fproduction%2Fdf4221c0820bd5342cfc7d2201102abaa73a6f8e-2400x1260.png&width=1200&quality=75",
-      "date": "2026-09-01T11:24:56+00:00"
+      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
+      "summary": "Article URL: https://arxiv.org/abs/2608.31016 Comments URL: https://news.ycombinator.com/item?id=49534583 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2608.31016",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-09-02T11:07:07+00:00"
     },
     {
-      "title": "We Let AI Agents Rewrite a 92M-Message-a-Day Service in Go",
-      "summary": "Article URL: https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/ Comments URL: https://news.ycombinator.com/item?id=49520229 Points: 3 # Comments: 0",
-      "url": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
-      "image": "https://images.prismic.io/checklyhq/DkQueTTRxgYbz44l_OG.png?auto=format,compress",
-      "date": "2026-09-01T10:50:46+00:00"
+      "title": "Making the AI-powered case for legacy modernization",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/ Comments URL: https://news.ycombinator.com/item?id=49534530 Points: 1 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Asifa-Sherazi-Sanjeev-Tripathi-v2.png?resize=1200,600",
+      "date": "2026-09-02T11:00:54+00:00"
     },
     {
-      "title": "Can we stop AI from deceiving us?",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us Comments URL: https://news.ycombinator.com/item?id=49520204 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us",
-      "image": "https://i.guim.co.uk/img/media/1c7eeafcd64484d2bd067186b77bf8d9bf5156b0/0_0_4995_4000/master/4995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c367e285e542b5e9aa528ce3988ce3dd",
-      "date": "2026-09-01T10:46:05+00:00"
+      "title": "AI data center investment will top $1T by 2027, raising insurance exposures",
+      "summary": "Article URL: https://beinsure.com/news/ai-data-center-investment-will-top-1trn/ Comments URL: https://news.ycombinator.com/item?id=49534468 Points: 1 # Comments: 0",
+      "url": "https://beinsure.com/news/ai-data-center-investment-will-top-1trn/",
+      "image": "https://beinsure.com/wp-content/uploads/2026/08/1-15.jpg",
+      "date": "2026-09-02T10:51:04+00:00"
     },
     {
-      "title": "Show HN: I built a live stream site where every spot is instantly AI-generated",
-      "summary": "Article URL: https://videoai.me/live Comments URL: https://news.ycombinator.com/item?id=49520151 Points: 2 # Comments: 0",
-      "url": "https://videoai.me/live",
-      "image": "https://videoai.me/tv-og.jpg",
-      "date": "2026-09-01T10:35:55+00:00"
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 3 # Comments: 0",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "image": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+      "date": "2026-09-02T10:02:41+00:00"
     },
     {
-      "title": "Ethical AI that respects privacy and the planet",
-      "summary": "Article URL: https://www.infomaniak.com/en/apps/download-euria Comments URL: https://news.ycombinator.com/item?id=49519812 Points: 2 # Comments: 1",
-      "url": "https://www.infomaniak.com/en/apps/download-euria",
-      "image": "https://www.infomaniak.com/img/ksuite/euria-opengraph.png",
-      "date": "2026-09-01T09:30:45+00:00"
-    },
-    {
-      "title": "AI Mobile App Development Company: Services and Platform Guide – Kellton",
-      "summary": "Article URL: https://www.kellton.com/product-engineering/ai-app-development-services Comments URL: https://news.ycombinator.com/item?id=49519809 Points: 1 # Comments: 0",
-      "url": "https://www.kellton.com/product-engineering/ai-app-development-services",
+      "title": "Why Pi is my AI coding harness",
+      "summary": "Article URL: https://blog.kulman.sk/pi-is-now-my-ai-harness/ Comments URL: https://news.ycombinator.com/item?id=49534014 Points: 3 # Comments: 0",
+      "url": "https://blog.kulman.sk/pi-is-now-my-ai-harness/",
       "image": "",
-      "date": "2026-09-01T09:30:17+00:00"
+      "date": "2026-09-02T09:47:40+00:00"
     },
     {
-      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-      "summary": "Article URL: https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976 Comments URL: https://news.ycombinator.com/item?id=49519687 Points: 3 # Comments: 2",
-      "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-      "image": "https://image.theregister.com/5287988.jpg?imageId=5287988&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-09-01T09:06:46+00:00"
+      "title": "We Can't Let AI Writing Take over the Internet",
+      "summary": "Article URL: https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop Comments URL: https://news.ycombinator.com/item?id=49533814 Points: 2 # Comments: 0",
+      "url": "https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop",
+      "image": "https://substackcdn.com/image/fetch/$s_!4ddf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc24e97-4d2e-45a9-b05d-b13708214757_1534x872.png",
+      "date": "2026-09-02T09:21:17+00:00"
     },
     {
-      "title": "Quasar 438B: Intelligence, Performance and Price Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/quasar-438b Comments URL: https://news.ycombinator.com/item?id=49519509 Points: 1 # Comments: 0",
-      "url": "https://artificialanalysis.ai/models/quasar-438b",
-      "image": "https://artificialanalysis.ai/en/models/quasar-438b/opengraph-image?77a51caf7e80ee92",
-      "date": "2026-09-01T08:39:22+00:00"
-    },
-    {
-      "title": "Atlassian's own AI assistant doesn't know Jira renamed \"Projects\" to \"Spaces\"",
-      "summary": "Article URL: https://community.atlassian.com/forums/Jira-articles/Jira-Spaces-have-landed/ba-p/3117620 Comments URL: https://news.ycombinator.com/item?id=49519337 Points: 2 # Comments: 1",
-      "url": "https://community.atlassian.com/forums/Jira-articles/Jira-Spaces-have-landed/ba-p/3117620",
-      "image": "https://community.atlassian.com/forums/image/serverpage/image-id/409451i988353C632C188B7?v=v2",
-      "date": "2026-09-01T08:09:35+00:00"
-    },
-    {
-      "title": "Show HN: Edify – a Windows NLE with local AI subtitles/dubbing and OpenFX",
-      "summary": "Article URL: https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=49519285 Points: 1 # Comments: 0",
-      "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
-      "image": "https://store-images.s-microsoft.com/image/apps.12162.13659557889942468.c8d693bf-c7d9-41b7-ac99-069496c1deef.fbf1d9bd-c6a5-41c1-81dc-2b79b2927c21",
-      "date": "2026-09-01T08:00:32+00:00"
-    },
-    {
-      "title": "Data Science in the Age of AI",
-      "summary": "Article URL: https://www.robinlinacre.com/data_science_age_ai/ Comments URL: https://news.ycombinator.com/item?id=49519172 Points: 1 # Comments: 0",
-      "url": "https://www.robinlinacre.com/data_science_age_ai/",
+      "title": "\"I have the code and Claude AI – why would I pay you?\" [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=1L48dy4Lyjo Comments URL: https://news.ycombinator.com/item?id=49533308 Points: 2 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=1L48dy4Lyjo",
       "image": "",
-      "date": "2026-09-01T07:41:57+00:00"
+      "date": "2026-09-02T08:11:32+00:00"
     },
     {
-      "title": "AI product management: Familiar enough to start, different enough to fail",
-      "summary": "Article URL: https://www.leadinginproduct.com/p/ai-product-management Comments URL: https://news.ycombinator.com/item?id=49519135 Points: 2 # Comments: 0",
-      "url": "https://www.leadinginproduct.com/p/ai-product-management",
-      "image": "https://substackcdn.com/image/fetch/$s_!VLR_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd90b2571-0410-408b-9efd-29525e1c90a4_1024x1024.png",
-      "date": "2026-09-01T07:37:28+00:00"
+      "title": "The Singularity Is Not What It Seems: Whatever the AI Future Is, We're in It Now",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/ Comments URL: https://news.ycombinator.com/item?id=49533291 Points: 2 # Comments: 0",
+      "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+      "image": "https://cdn.theatlantic.com/thumbor/xqtuH5gcPd0n3apGAeR0r-JUHpA=/0x24:1200x649/1200x625/media/img/mt/2026/09/2026_08_28_AI_mpg/original.gif",
+      "date": "2026-09-02T08:10:02+00:00"
+    },
+    {
+      "title": "Show HN: Photo manager that finds and organizes photos with private, local AI",
+      "summary": "Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49533201 Points: 1 # Comments: 1",
+      "url": "https://ringlochid.me/imagesage/index.html",
+      "image": "",
+      "date": "2026-09-02T07:58:36+00:00"
+    },
+    {
+      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
+      "summary": "Article URL: https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai Comments URL: https://news.ycombinator.com/item?id=49533132 Points: 22 # Comments: 13",
+      "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--F8qMVcBv--/t_tohu-badge-facebook/f_auto/q_auto/4JIXCMF_653969853_JPG",
+      "date": "2026-09-02T07:50:46+00:00"
+    },
+    {
+      "title": "AI loss of control incidents are worsening, shows CLTR analysis",
+      "summary": "Article URL: https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/ Comments URL: https://news.ycombinator.com/item?id=49533070 Points: 2 # Comments: 0",
+      "url": "https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/",
+      "image": "",
+      "date": "2026-09-02T07:43:39+00:00"
     }
   ]
 }
