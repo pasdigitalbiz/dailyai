@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-09-06T10:51:33.762323+00:00",
-  "items": []
+  "generated_at": "2026-09-07T12:24:52.702269+00:00",
+  "items": [
+    {
+      "title": "A playable piano on Moonshot AI's About page",
+      "summary": "Article URL: https://www.moonshot.ai/about Comments URL: https://news.ycombinator.com/item?id=49597470 Points: 2 # Comments: 1",
+      "url": "https://www.moonshot.ai/about",
+      "image": "",
+      "date": "2026-09-07T12:18:50+00:00"
+    },
+    {
+      "title": "Toward a Social Psychology of AI",
+      "summary": "Article URL: https://arxiv.org/abs/2609.00009 Comments URL: https://news.ycombinator.com/item?id=49597377 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2609.00009",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-09-07T12:09:06+00:00"
+    },
+    {
+      "title": "Arguments in Favor of AI Fair Use",
+      "summary": "Article URL: https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/ Comments URL: https://news.ycombinator.com/item?id=49597371 Points: 1 # Comments: 0",
+      "url": "https://kk.org/thetechnium/arguments-in-favor-of-ai-fair-use/",
+      "image": "https://kk.org/wp-content/themes/kkdotorg/inc/images/og_default_1200.png",
+      "date": "2026-09-07T12:08:26+00:00"
+    },
+    {
+      "title": "Show HN: How Pagecord Uses AI",
+      "summary": "I recently received a surprising amount of anti-AI backlash on the socials for using coding LLMs to build my product, Pagecord. Some people are keen to use only software that has no AI involvement, which is a strong stance but one that feels almost impossible to uphold in 2026. I published a /ai page ( https://pagecord.com/ai ) to be fully open about what I use AI for wrt the business. Waste of time, or is this something more companies should be disclosing? Curious to know what people think. Comments URL: https://news.ycombinator.com/item?id=49597339 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49597339",
+      "image": "",
+      "date": "2026-09-07T12:04:39+00:00"
+    },
+    {
+      "title": "AI SEO for Startups and SaaS: A Complete Growth Strategy",
+      "summary": "AI and SaaS companies are entering one of the most competitive digital markets ever created. Comments URL: https://news.ycombinator.com/item?id=49597248 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49597248",
+      "image": "",
+      "date": "2026-09-07T11:53:05+00:00"
+    },
+    {
+      "title": "AI SEO Growth Framework for Startups and SaaS Companies",
+      "summary": "sda Comments URL: https://news.ycombinator.com/item?id=49597220 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49597220",
+      "image": "",
+      "date": "2026-09-07T11:50:11+00:00"
+    },
+    {
+      "title": "AI in Test Automation: Real Limitations vs. User Error",
+      "summary": "Article URL: https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error Comments URL: https://news.ycombinator.com/item?id=49596909 Points: 2 # Comments: 0",
+      "url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
+      "image": "https://www.davidmello.com/images/posts/ai-test-automation-pitfalls-vs-user-error/ai-testing-limits-v-skills-cover.webp",
+      "date": "2026-09-07T11:15:30+00:00"
+    },
+    {
+      "title": "French burglar used artificial intelligence to locate Canberra target in heist",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-09-07/burglary-canberra-home-french-nationals-luxury-goods/107125540 Comments URL: https://news.ycombinator.com/item?id=49596853 Points: 3 # Comments: 0",
+      "url": "https://www.abc.net.au/news/2026-09-07/burglary-canberra-home-french-nationals-luxury-goods/107125540",
+      "image": "https://live-production.wcms.abc-cdn.net.au/79ad398562ad7eda5cd28e41e7f7870d?impolicy=wcms_watermark_news&cropH=679&cropW=1207&xPos=7&yPos=0&width=862&height=485&imformat=generic",
+      "date": "2026-09-07T11:08:41+00:00"
+    },
+    {
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 2 # Comments: 0",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "image": "",
+      "date": "2026-09-07T10:38:32+00:00"
+    },
+    {
+      "title": "Terrence Tao – AI math solutions hurting the field",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117219548485446992 Comments URL: https://news.ycombinator.com/item?id=49596452 Points: 3 # Comments: 0",
+      "url": "https://mathstodon.xyz/@tao/117219548485446992",
+      "image": "",
+      "date": "2026-09-07T10:18:00+00:00"
+    },
+    {
+      "title": "Joining Advanced Machine Intelligence to work on world models",
+      "summary": "Article URL: https://www.lihaoyi.com/post/JoiningAMItoworkonWorldModels.html Comments URL: https://news.ycombinator.com/item?id=49596164 Points: 2 # Comments: 0",
+      "url": "https://www.lihaoyi.com/post/JoiningAMItoworkonWorldModels.html",
+      "image": "",
+      "date": "2026-09-07T09:37:45+00:00"
+    },
+    {
+      "title": "Ask HN: How do you keep AI coding agents in sync with a changing Figma file?",
+      "summary": "I keep running into this: hand a Figma file to Claude Code/Cursor, get a good first implementation, then the design changes and the agent has no memory of what changed or why. Curious if others have hit this and what you're doing about it, if anything. Comments URL: https://news.ycombinator.com/item?id=49595961 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49595961",
+      "image": "",
+      "date": "2026-09-07T09:17:00+00:00"
+    },
+    {
+      "title": "Show HN: The Token Times · a monthly newspaper on AI",
+      "summary": "Article URL: https://befailproof.ai/thetokentimes/ Comments URL: https://news.ycombinator.com/item?id=49595819 Points: 3 # Comments: 0",
+      "url": "https://befailproof.ai/thetokentimes/",
+      "image": "https://d2wq11aau0arks.cloudfront.net/failproof/thetokentimes/2026-august/t1.webp",
+      "date": "2026-09-07T08:56:19+00:00"
+    },
+    {
+      "title": "Beyond AI: Infrastructuring the Common Good",
+      "summary": "Article URL: https://zenodo.org/records/22276836 Comments URL: https://news.ycombinator.com/item?id=49595741 Points: 2 # Comments: 0",
+      "url": "https://zenodo.org/records/22276836",
+      "image": "",
+      "date": "2026-09-07T08:47:38+00:00"
+    }
+  ]
 }
