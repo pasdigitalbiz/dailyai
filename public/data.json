@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-09-14T12:39:34.199498+00:00",
-  "items": []
+  "generated_at": "2026-09-15T11:39:46.426689+00:00",
+  "items": [
+    {
+      "title": "OpenStreetMap fighting a large set of AI crawlers / scrapers",
+      "summary": "Article URL: https://en.osm.town/@osm_tech/117273699871137554 Comments URL: https://news.ycombinator.com/item?id=49710980 Points: 1 # Comments: 0",
+      "url": "https://en.osm.town/@osm_tech/117273699871137554",
+      "image": "",
+      "date": "2026-09-15T11:35:42+00:00"
+    },
+    {
+      "title": "What must happen for AI's trillion-dollar gamble to pay off",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/ Comments URL: https://news.ycombinator.com/item?id=49710588 Points: 2 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
+      "date": "2026-09-15T11:01:33+00:00"
+    },
+    {
+      "title": "Crypto's Biggest Week Ever? AI Swarm Fears Put the Market on Alert",
+      "summary": "Article URL: https://coinmarketcap.com/community/post/379296157/ Comments URL: https://news.ycombinator.com/item?id=49710525 Points: 2 # Comments: 0",
+      "url": "https://coinmarketcap.com/community/post/379296157/",
+      "image": "",
+      "date": "2026-09-15T10:55:24+00:00"
+    },
+    {
+      "title": "DDD matters more when AI writes your code",
+      "summary": "Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49710436 Points: 1 # Comments: 0",
+      "url": "https://threedots.tech/post/ddd-and-ai-coding/",
+      "image": "https://threedots.tech/images/covers/ddd-and-ai-coding-social.png",
+      "date": "2026-09-15T10:45:18+00:00"
+    },
+    {
+      "title": "Should AI friendliness be a priority for your projects?",
+      "summary": "Recently I came up with an idea that if MCP server and AI focused readme is reasonable for your project than it must be done. Take for example my API mocking/prototyping server \"Apate\" (github.com/rustrum/apate).\n1 year ago I never thought about AI as a main consumer of this tool. So it was focused mostly on smart human developers. But now I'm starting to think that developers should not be bothered with such stuff at all. It's up to AI to write mocking API DSL on fly while it's developing main app that should consume this API. Comments URL: https://news.ycombinator.com/item?id=49710339 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49710339",
+      "image": "",
+      "date": "2026-09-15T10:32:07+00:00"
+    },
+    {
+      "title": "Meta Kicks Muse Off Their Social Handles to Launch New AI Agent",
+      "summary": "Article URL: https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news Comments URL: https://news.ycombinator.com/item?id=49710219 Points: 2 # Comments: 0",
+      "url": "https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news",
+      "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/Muse.jpg",
+      "date": "2026-09-15T10:16:45+00:00"
+    },
+    {
+      "title": "AI hypervigilance is now an omnipresent cognitive load for your users",
+      "summary": "Article URL: https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users Comments URL: https://news.ycombinator.com/item?id=49710125 Points: 1 # Comments: 0",
+      "url": "https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users",
+      "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/bfb24918-b683-4615-a20c-22fdbe4aa339/82.png?t=1789335779",
+      "date": "2026-09-15T10:02:56+00:00"
+    },
+    {
+      "title": "Show HN: LM-Kit One – private AI on your infrastructure",
+      "summary": "Article URL: https://lm-kit.com/products/lm-kit-one/ Comments URL: https://news.ycombinator.com/item?id=49710060 Points: 1 # Comments: 0",
+      "url": "https://lm-kit.com/products/lm-kit-one/",
+      "image": "https://lm-kit.com/img/brand/og-default.png",
+      "date": "2026-09-15T09:53:46+00:00"
+    },
+    {
+      "title": "Pocket Bibles and AI",
+      "summary": "Article URL: https://www.amytis.io/blog/insights-on-ai-from-the-reformation Comments URL: https://news.ycombinator.com/item?id=49709903 Points: 3 # Comments: 3",
+      "url": "https://www.amytis.io/blog/insights-on-ai-from-the-reformation",
+      "image": "https://framerusercontent.com/images/1ma7gJwMblbf4Ev5XZCarN9ci0.png",
+      "date": "2026-09-15T09:28:17+00:00"
+    },
+    {
+      "title": "Creating word recordings with AI: learning where to cut",
+      "summary": "Article URL: https://freshteapot.net/writing/creating-word-audio-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49709820 Points: 1 # Comments: 0",
+      "url": "https://freshteapot.net/writing/creating-word-audio-with-ai/",
+      "image": "https://freshteapot.net/images/social-card.svg",
+      "date": "2026-09-15T09:17:29+00:00"
+    },
+    {
+      "title": "Challenging AI",
+      "summary": "Article URL: https://jensrantil.github.io/posts/challenging-ai/ Comments URL: https://news.ycombinator.com/item?id=49709711 Points: 1 # Comments: 0",
+      "url": "https://jensrantil.github.io/posts/challenging-ai/",
+      "image": "",
+      "date": "2026-09-15T09:01:45+00:00"
+    },
+    {
+      "title": "Is Big Tech's AI slowdown a safety pact or a cartel?",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel Comments URL: https://news.ycombinator.com/item?id=49709283 Points: 5 # Comments: 1",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-09-15T08:07:08+00:00"
+    },
+    {
+      "title": "Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html Comments URL: https://news.ycombinator.com/item?id=49709109 Points: 2 # Comments: 0",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/967313dea65cc5f3f1616dd5e5f91a0995d3fdbcb1461bdf7081078780cf60ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F15a10f1c4452b486fb36ed38458b8804.jpg",
+      "date": "2026-09-15T07:42:50+00:00"
+    },
+    {
+      "title": "Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=TcEefrWrddA Comments URL: https://news.ycombinator.com/item?id=49708893 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=TcEefrWrddA",
+      "image": "",
+      "date": "2026-09-15T07:15:15+00:00"
+    },
+    {
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cw980n0nd0qjo Comments URL: https://news.ycombinator.com/item?id=49708891 Points: 3 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+      "date": "2026-09-15T07:14:46+00:00"
+    },
+    {
+      "title": "A Blueprint for Keeping Humans in Control of AI",
+      "summary": "Article URL: https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai Comments URL: https://news.ycombinator.com/item?id=49708836 Points: 4 # Comments: 0",
+      "url": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
+      "image": "https://www.gsb.stanford.edu/sites/default/files/styles/og_image/public/2026-09/Bayati%20AI%20Agent%20Oversight%20Key%20Image.jpg.jpeg?itok=8Ejuth9q",
+      "date": "2026-09-15T07:08:38+00:00"
+    }
+  ]
 }
