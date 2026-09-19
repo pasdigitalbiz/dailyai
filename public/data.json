@@ -1,124 +1,131 @@
 {
-  "generated_at": "2026-09-18T11:09:09.483054+00:00",
+  "generated_at": "2026-09-19T10:53:44.514173+00:00",
   "items": [
     {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "summary": "Article URL: https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/ Comments URL: https://news.ycombinator.com/item?id=49752621 Points: 1 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
-      "date": "2026-09-18T11:02:39+00:00"
-    },
-    {
-      "title": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b Comments URL: https://news.ycombinator.com/item?id=49752571 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b",
-      "image": "",
-      "date": "2026-09-18T10:55:29+00:00"
-    },
-    {
-      "title": "The Fossil Logic of the Industrial and AI Revolutions",
-      "summary": "Article URL: https://blue-continuum.com/fossil-logic Comments URL: https://news.ycombinator.com/item?id=49752497 Points: 1 # Comments: 0",
-      "url": "https://blue-continuum.com/fossil-logic",
-      "image": "https://blue-continuum.com/__l5e/assets-v1/c6372efc-13d6-4f7d-af41-4b7f55c55ba3/two-extractions-hero.png",
-      "date": "2026-09-18T10:45:37+00:00"
-    },
-    {
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c65ymj7njvl7o Comments URL: https://news.ycombinator.com/item?id=49752482 Points: 2 # Comments: 0",
-      "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0503/live/89db5860-b2be-11f1-b1d1-571ed4d7ff2c.jpg",
-      "date": "2026-09-18T10:44:26+00:00"
-    },
-    {
-      "title": "TypeSafe AI's \"Meaningful Intelligence\"",
-      "summary": "Article URL: https://docs.typesafe.ai/introduction/machine-learning-primer Comments URL: https://news.ycombinator.com/item?id=49752460 Points: 1 # Comments: 0",
-      "url": "https://docs.typesafe.ai/introduction/machine-learning-primer",
-      "image": "https://ts-docs.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DTypeSafe%2Bfoundations%26title%3DAI%2Bprimer%26description%3DWhy%2BTypeSafe%2Btrains%2Bdecision%2Bmodels%2Bwith%2Bcalibrated%2Bprobabilities%2Binstead%2Bof%2Boptimizing%2Bfor%2Bgenerated%2Btext.%26theme%3Df0580ae664a0195833f0555d&w=1200&q=100",
-      "date": "2026-09-18T10:40:19+00:00"
-    },
-    {
-      "title": "Top Chinese AI models make 10% of OpenAI",
-      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report Comments URL: https://news.ycombinator.com/item?id=49752361 Points: 2 # Comments: 0",
-      "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/379215cd-d3d0-45ab-8dd0-c2c4e4693477_7aae281c.jpg?itok=Q_B_HG_Z&v=1789719725",
-      "date": "2026-09-18T10:28:14+00:00"
-    },
-    {
-      "title": "Getting Freaky in the Age of AI",
-      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49752358 Points: 1 # Comments: 0",
-      "url": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
-      "image": "https://iankduncan.com/portrait.jpg",
-      "date": "2026-09-18T10:27:38+00:00"
-    },
-    {
       "title": "Anthropic sets up biology lab as it ramps AI drug program",
-      "summary": "Article URL: https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49752272 Points: 3 # Comments: 1",
+      "summary": "Article URL: https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49765387 Points: 1 # Comments: 0",
       "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
       "image": "",
-      "date": "2026-09-18T10:17:03+00:00"
+      "date": "2026-09-19T10:52:46+00:00"
     },
     {
-      "title": "Noetive: Operational Intelligence for the Physical Economy",
-      "summary": "Article URL: https://eclipse.capital/blog/operational-intelligence-for-the-physical-economy Comments URL: https://news.ycombinator.com/item?id=49752197 Points: 1 # Comments: 0",
-      "url": "https://eclipse.capital/blog/operational-intelligence-for-the-physical-economy",
-      "image": "https://cdn.sanity.io/images/5uq66tk5/production/918e35b1270cc41ef8fe52b5189a3ed3dbfa521b-3000x2000.png?rect=0,213,3000,1575&w=1200&h=630&fit=max&auto=format",
-      "date": "2026-09-18T10:05:05+00:00"
-    },
-    {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 116 # Comments: 61",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-      "date": "2026-09-18T09:45:07+00:00"
-    },
-    {
-      "title": "Slop Grenades, AI Didn't Make Delivery Free – Food for Agile Thought 562",
-      "summary": "Article URL: https://age-of-product.com/food-agile-thought-562-slop-grenades/ Comments URL: https://news.ycombinator.com/item?id=49751978 Points: 1 # Comments: 0",
-      "url": "https://age-of-product.com/food-agile-thought-562-slop-grenades/",
+      "title": "California governor signs order to explore AI 'kill switch'",
+      "summary": "Article URL: https://techxplore.com/news/2026-09-california-governor-explore-ai.html Comments URL: https://news.ycombinator.com/item?id=49765263 Points: 1 # Comments: 0",
+      "url": "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
       "image": "",
-      "date": "2026-09-18T09:30:58+00:00"
+      "date": "2026-09-19T10:35:42+00:00"
     },
     {
-      "title": "Proton partners with Apertus, Switzerland's sovereign AI model",
-      "summary": "Article URL: https://proton.me/blog/lumo-apertus-partnership Comments URL: https://news.ycombinator.com/item?id=49751952 Points: 2 # Comments: 1",
-      "url": "https://proton.me/blog/lumo-apertus-partnership",
-      "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=images/f_auto,q_auto/v1789606577/wp-pme/lumo_cover05/lumo_cover05.png?_i=AA",
-      "date": "2026-09-18T09:26:03+00:00"
+      "title": "How to Limit What Apple's New Siri AI Can Access in iOS 27",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27 Comments URL: https://news.ycombinator.com/item?id=49765253 Points: 1 # Comments: 0",
+      "url": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+      "image": "https://www.eff.org/files/banner_library/apple-worm.png",
+      "date": "2026-09-19T10:33:38+00:00"
     },
     {
-      "title": "Could AI and synthetic biology = bioweapons?",
-      "summary": "Article URL: https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity Comments URL: https://news.ycombinator.com/item?id=49751818 Points: 3 # Comments: 0",
-      "url": "https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/E2eHvDp4nyI",
-      "date": "2026-09-18T09:02:31+00:00"
-    },
-    {
-      "title": "AI software should be treated like any other software [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=9tr7Mby62bo Comments URL: https://news.ycombinator.com/item?id=49751700 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=9tr7Mby62bo",
+      "title": "The last IMO problem AI could not solve [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Nbwv5wHQoj0 Comments URL: https://news.ycombinator.com/item?id=49765084 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
       "image": "",
-      "date": "2026-09-18T08:46:41+00:00"
+      "date": "2026-09-19T10:08:58+00:00"
     },
     {
-      "title": "What to Read to Stay Grounded Amidst AI Doomerism",
-      "summary": "Article URL: https://buttondown.com/maiht3k/archive/what-to-read-to-stay-grounded-amidst-ai-doomerism/ Comments URL: https://news.ycombinator.com/item?id=49751430 Points: 1 # Comments: 0",
-      "url": "https://buttondown.com/maiht3k/archive/what-to-read-to-stay-grounded-amidst-ai-doomerism/",
-      "image": "https://assets.buttondown.email/images/7beb7ad3-e14c-4de4-9e53-88bb3f924337.jpeg?w=960&fit=max",
-      "date": "2026-09-18T08:03:14+00:00"
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/ Comments URL: https://news.ycombinator.com/item?id=49765024 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
+      "date": "2026-09-19T09:59:30+00:00"
     },
     {
-      "title": "The Cost of AI Is Now My Main Blocker",
-      "summary": "Article URL: https://www.vincentschmalbach.com/cost-of-ai-is-now-my-main-blocker/ Comments URL: https://news.ycombinator.com/item?id=49751356 Points: 2 # Comments: 0",
-      "url": "https://www.vincentschmalbach.com/cost-of-ai-is-now-my-main-blocker/",
-      "image": "https://www.vincentschmalbach.com/wp-content/uploads/2021/05/Vincent-Schmalbach-draft01.jpg",
-      "date": "2026-09-18T07:53:40+00:00"
-    },
-    {
-      "title": "Altman, Huang: \"trust me; gonna b fine\"; Sanders: \"AI more dangerous than nukes\"",
-      "summary": "Article URL: https://garymarcus.substack.com/p/sam-altman-says-trust-me-jensen-huang Comments URL: https://news.ycombinator.com/item?id=49751322 Points: 5 # Comments: 3",
-      "url": "https://garymarcus.substack.com/p/sam-altman-says-trust-me-jensen-huang",
+      "title": "SwarmAuth – OAuth 2.1 for AI Agent Swarms",
+      "summary": "Article URL: https://pypi.org/project/swarmauth/ Comments URL: https://news.ycombinator.com/item?id=49764838 Points: 1 # Comments: 0",
+      "url": "https://pypi.org/project/swarmauth/",
       "image": "",
-      "date": "2026-09-18T07:49:05+00:00"
+      "date": "2026-09-19T09:28:20+00:00"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 121 # Comments: 72",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "image": "",
+      "date": "2026-09-19T09:20:58+00:00"
+    },
+    {
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack Comments URL: https://news.ycombinator.com/item?id=49764440 Points: 4 # Comments: 2",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "image": "https://i.guim.co.uk/img/media/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/master/3586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e814dac70cbcc331525841cd34235110",
+      "date": "2026-09-19T08:08:24+00:00"
+    },
+    {
+      "title": "How universities are affected by AI moving knowledge outside their walls",
+      "summary": "Article URL: https://www.brookings.edu/articles/how-universities-are-affected-by-ai-moving-knowledge-outside-their-walls/ Comments URL: https://news.ycombinator.com/item?id=49764439 Points: 3 # Comments: 0",
+      "url": "https://www.brookings.edu/articles/how-universities-are-affected-by-ai-moving-knowledge-outside-their-walls/",
+      "image": "https://www.brookings.edu/wp-content/uploads/2026/09/GettyImages-2210108535-1.jpg",
+      "date": "2026-09-19T08:08:02+00:00"
+    },
+    {
+      "title": "AI hallucination nearly triggers US Military operation",
+      "summary": "Article URL: https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/ Comments URL: https://news.ycombinator.com/item?id=49764435 Points: 8 # Comments: 2",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "date": "2026-09-19T08:07:08+00:00"
+    },
+    {
+      "title": "Chinese AI Radicalizes",
+      "summary": "Article URL: https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath Comments URL: https://news.ycombinator.com/item?id=49764360 Points: 1 # Comments: 0",
+      "url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
+      "image": "https://substackcdn.com/image/fetch/$s_!zXbq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10ab37be-9274-4690-8e14-03dc5a9cdaca_495x640.jpeg",
+      "date": "2026-09-19T07:53:15+00:00"
+    },
+    {
+      "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2YVCdwvG548 Comments URL: https://news.ycombinator.com/item?id=49764330 Points: 4 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
+      "image": "",
+      "date": "2026-09-19T07:49:01+00:00"
+    },
+    {
+      "title": "EFF Statement on California Governor's Executive Order on AI",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai Comments URL: https://news.ycombinator.com/item?id=49764156 Points: 10 # Comments: 0",
+      "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
+      "image": "https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg",
+      "date": "2026-09-19T07:15:45+00:00"
+    },
+    {
+      "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+      "summary": "Article URL: https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/ Comments URL: https://news.ycombinator.com/item?id=49764141 Points: 15 # Comments: 6",
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
+      "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/06/ai-chatbots-keep-talking-about-a-guy-named-elias-thorne-who-does-not-exist.png?w=2000",
+      "date": "2026-09-19T07:13:10+00:00"
+    },
+    {
+      "title": "AI systems out-persuade expert humans",
+      "summary": "Article URL: https://arxiv.org/abs/2606.16475 Comments URL: https://news.ycombinator.com/item?id=49764139 Points: 3 # Comments: 2",
+      "url": "https://arxiv.org/abs/2606.16475",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-09-19T07:12:15+00:00"
+    },
+    {
+      "title": "Could AI kill us all? Your questions, answered",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/ Comments URL: https://news.ycombinator.com/item?id=49764084 Points: 2 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+      "date": "2026-09-19T07:02:27+00:00"
+    },
+    {
+      "title": "How come AI-related posts get so many points on HN?",
+      "summary": "Have we all decided to rebrand Hacker News as a platform for discussing AI? I think that the too many people love to discuss harshly about AI Comments URL: https://news.ycombinator.com/item?id=49764057 Points: 18 # Comments: 16",
+      "url": "https://news.ycombinator.com/item?id=49764057",
+      "image": "",
+      "date": "2026-09-19T06:57:50+00:00"
+    },
+    {
+      "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/ Comments URL: https://news.ycombinator.com/item?id=49763977 Points: 10 # Comments: 7",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
+      "date": "2026-09-19T06:39:15+00:00"
     }
   ]
 }
