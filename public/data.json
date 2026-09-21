@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-09-20T11:17:53.007468+00:00",
-  "items": []
+  "generated_at": "2026-09-21T12:42:20.982906+00:00",
+  "items": [
+    {
+      "title": "Disney Hires Character.ai Chief to Drive Its Technology Push",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html Comments URL: https://news.ycombinator.com/item?id=49786538 Points: 1 # Comments: 1",
+      "url": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
+      "image": "",
+      "date": "2026-09-21T12:40:29+00:00"
+    },
+    {
+      "title": "AI is becoming too interconnected to fail",
+      "summary": "Article URL: https://www.axios.com/2026/09/21/ai-finance-credit-circular Comments URL: https://news.ycombinator.com/item?id=49786524 Points: 1 # Comments: 0",
+      "url": "https://www.axios.com/2026/09/21/ai-finance-credit-circular",
+      "image": "",
+      "date": "2026-09-21T12:39:48+00:00"
+    },
+    {
+      "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+      "summary": "Article URL: https://www.noemamag.com/the-end-of-upward-mobility/ Comments URL: https://news.ycombinator.com/item?id=49786210 Points: 1 # Comments: 0",
+      "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+      "image": "https://noemamag.imgix.net/2026/09/TheEndOfUpwardMobility-Illustration.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C0%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=47e0f7d4b84d384e472d9b32d4ec71d8",
+      "date": "2026-09-21T12:07:16+00:00"
+    },
+    {
+      "title": "Jev Use Cases Tested: Where This Decision-Only AI Fits",
+      "summary": "Article URL: https://www.mindstudio.ai/blog/jev-use-cases-automation Comments URL: https://news.ycombinator.com/item?id=49785983 Points: 1 # Comments: 0",
+      "url": "https://www.mindstudio.ai/blog/jev-use-cases-automation",
+      "image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/dfcd7682-856f-4eae-a3b1-e0c2a929f218.png?fm=auto&w=1200&h=630&fit=crop",
+      "date": "2026-09-21T11:41:41+00:00"
+    },
+    {
+      "title": "What defenders need from frontier AI labs",
+      "summary": "Article URL: https://vincenzoiozzo.com/blog/offense-winning-ai-race Comments URL: https://news.ycombinator.com/item?id=49785957 Points: 1 # Comments: 0",
+      "url": "https://vincenzoiozzo.com/blog/offense-winning-ai-race",
+      "image": "https://vincenzoiozzo.com/blog/images/offense-winning-ai-race.png",
+      "date": "2026-09-21T11:39:22+00:00"
+    },
+    {
+      "title": "MIT uses AI to identify aging \"zombie cells.\"",
+      "summary": "Article URL: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921 Comments URL: https://news.ycombinator.com/item?id=49785912 Points: 1 # Comments: 0",
+      "url": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Aging-Cells-01.jpg",
+      "date": "2026-09-21T11:34:43+00:00"
+    },
+    {
+      "title": "AI-controlled robot arms attempted harmful tasks 97% of the time",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks Comments URL: https://news.ycombinator.com/item?id=49785875 Points: 2 # Comments: 2",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
+      "image": "https://cdn.mos.cms.futurecdn.net/WWyX26gNdKvnwTVKzZaKs5-1027-80.png",
+      "date": "2026-09-21T11:31:53+00:00"
+    },
+    {
+      "title": "Show HN: Audit your site's structure for AI search crawlers (ChatGPT, Claude)",
+      "summary": "Article URL: https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/ Comments URL: https://news.ycombinator.com/item?id=49785726 Points: 1 # Comments: 0",
+      "url": "https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/",
+      "image": "",
+      "date": "2026-09-21T11:15:35+00:00"
+    },
+    {
+      "title": "Amazon blocks Meta's Muse AI agent from checkouts",
+      "summary": "Article URL: https://www.neowin.net/news/amazon-blocks-metas-muse-ai-agent-from-checkouts/ Comments URL: https://news.ycombinator.com/item?id=49785700 Points: 1 # Comments: 0",
+      "url": "https://www.neowin.net/news/amazon-blocks-metas-muse-ai-agent-from-checkouts/",
+      "image": "",
+      "date": "2026-09-21T11:10:37+00:00"
+    },
+    {
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "Article URL: https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/ Comments URL: https://news.ycombinator.com/item?id=49785644 Points: 3 # Comments: 0",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg",
+      "date": "2026-09-21T11:01:16+00:00"
+    },
+    {
+      "title": "AI is reaching new highs with AROM Labs",
+      "summary": "A biggest achievement for me today which I want to share with you all as a member of AROM Labs which is in terms of AI enhancements and closing the complete error loop with this architecture which transform the AI where it is to even more powerful. AI will not just interact with you via but now with our architecture AI can now understand your intent what you want to do before even telling that to AI. Soon we will share the score of AI models on traditional hardware vs our new architecture. Comments URL: https://news.ycombinator.com/item?id=49785441 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49785441",
+      "image": "",
+      "date": "2026-09-21T10:34:28+00:00"
+    },
+    {
+      "title": "A thing we may be able to learn from AI",
+      "summary": "Article URL: https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/ Comments URL: https://news.ycombinator.com/item?id=49785361 Points: 2 # Comments: 0",
+      "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+      "image": "",
+      "date": "2026-09-21T10:21:35+00:00"
+    },
+    {
+      "title": "AI Poster Prompts Improved",
+      "summary": "Article URL: https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html Comments URL: https://news.ycombinator.com/item?id=49785267 Points: 1 # Comments: 7",
+      "url": "https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html",
+      "image": "https://john.hartnup.uk/images/poster-v2-expressionist-woodcut-fete.webp",
+      "date": "2026-09-21T10:05:14+00:00"
+    },
+    {
+      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic Comments URL: https://news.ycombinator.com/item?id=49784978 Points: 7 # Comments: 6",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "image": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e9d797ea0dba3e3f9ec5f2d57e0accb",
+      "date": "2026-09-21T09:21:09+00:00"
+    }
+  ]
 }
