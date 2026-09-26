@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-09-25T11:46:24.718562+00:00",
-  "items": []
+  "generated_at": "2026-09-26T11:19:24.635629+00:00",
+  "items": [
+    {
+      "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=2YVCdwvG548 Comments URL: https://news.ycombinator.com/item?id=49855238 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
+      "image": "",
+      "date": "2026-09-26T10:42:01+00:00"
+    },
+    {
+      "title": "One Month Without AI",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 13 # Comments: 4",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "image": "",
+      "date": "2026-09-26T10:08:21+00:00"
+    },
+    {
+      "title": "Using Pomodoro to limit interaction with AI",
+      "summary": "Article URL: https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/ Comments URL: https://news.ycombinator.com/item?id=49854538 Points: 2 # Comments: 0",
+      "url": "https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/",
+      "image": "https://anaivebidder.com/images/agentic_pomodoro_header_hu_b4a5bce2c81ac2b1.jpg",
+      "date": "2026-09-26T08:53:58+00:00"
+    },
+    {
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "summary": "Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/ Comments URL: https://news.ycombinator.com/item?id=49854528 Points: 5 # Comments: 3",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
+      "date": "2026-09-26T08:52:57+00:00"
+    },
+    {
+      "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
+      "summary": "Article URL: https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies Comments URL: https://news.ycombinator.com/item?id=49854518 Points: 7 # Comments: 2",
+      "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+      "image": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-09/gdpr_under_attack_0_0.png?h=48f39255&itok=ITY9y5Tm",
+      "date": "2026-09-26T08:51:00+00:00"
+    },
+    {
+      "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
+      "summary": "Article URL: https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html Comments URL: https://news.ycombinator.com/item?id=49854382 Points: 6 # Comments: 2",
+      "url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
+      "image": "https://www.techspot.com/images2/news/bigimage/2024/05/2024-05-21-image-9.jpg",
+      "date": "2026-09-26T08:23:22+00:00"
+    },
+    {
+      "title": "Thought on how to deal with AI crawlers",
+      "summary": "Article URL: https://copepod.dev/human-required Comments URL: https://news.ycombinator.com/item?id=49853899 Points: 3 # Comments: 2",
+      "url": "https://copepod.dev/human-required",
+      "image": "",
+      "date": "2026-09-26T06:48:42+00:00"
+    },
+    {
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/ Comments URL: https://news.ycombinator.com/item?id=49853845 Points: 7 # Comments: 4",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+      "date": "2026-09-26T06:37:38+00:00"
+    },
+    {
+      "title": "Novelist accused of using AI to write book removed from French prize list",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france Comments URL: https://news.ycombinator.com/item?id=49853824 Points: 4 # Comments: 0",
+      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+      "image": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
+      "date": "2026-09-26T06:33:39+00:00"
+    },
+    {
+      "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276 Comments URL: https://news.ycombinator.com/item?id=49853726 Points: 12 # Comments: 0",
+      "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+      "image": "https://image.theregister.com/5285618.jpg?imageId=5285618&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-09-26T06:15:37+00:00"
+    },
+    {
+      "title": "Commodified Intelligence",
+      "summary": "Article URL: https://herecomesthemoon.net/2026/09/commodified-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49853701 Points: 4 # Comments: 0",
+      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "image": "https://herecomesthemoon.net/2026/09/commodified-intelligence/images/dithers/grain-elevator-valier_dithered.png",
+      "date": "2026-09-26T06:10:34+00:00"
+    },
+    {
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google Comments URL: https://news.ycombinator.com/item?id=49853692 Points: 5 # Comments: 0",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "date": "2026-09-26T06:08:44+00:00"
+    },
+    {
+      "title": "Can AI Shopping Agents Be Trusted?",
+      "summary": "Article URL: https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out Comments URL: https://news.ycombinator.com/item?id=49853522 Points: 15 # Comments: 27",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "image": "/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
+      "date": "2026-09-26T05:36:46+00:00"
+    },
+    {
+      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49853497 Points: 1 # Comments: 0",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "image": "https://www.eff.org/files/banner_library/graphic_adtech_mobile.png",
+      "date": "2026-09-26T05:32:07+00:00"
+    }
+  ]
 }
