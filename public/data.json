@@ -1,4 +1,75 @@
 {
-  "generated_at": "2026-09-27T11:57:54.770173+00:00",
-  "items": []
+  "generated_at": "2026-09-28T13:47:15.867809+00:00",
+  "items": [
+    {
+      "title": "Summer of AI Optimization",
+      "summary": "Article URL: https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/ Comments URL: https://news.ycombinator.com/item?id=49877803 Points: 1 # Comments: 0",
+      "url": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/",
+      "image": "",
+      "date": "2026-09-28T13:40:03+00:00"
+    },
+    {
+      "title": "'Things Will Never Be Chill Again':The Doomers Who Shaped the AI Safety Freakout",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05 Comments URL: https://news.ycombinator.com/item?id=49877679 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
+      "image": "",
+      "date": "2026-09-28T13:30:54+00:00"
+    },
+    {
+      "title": "Google, OpenAI and Anthropic plan AI safety body, The Information reports",
+      "summary": "Article URL: https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic Comments URL: https://news.ycombinator.com/item?id=49877627 Points: 2 # Comments: 0",
+      "url": "https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic",
+      "image": "https://media.thenextweb.com/2026/09/hand-holding-smartphone-ai-apps-folder.jpg",
+      "date": "2026-09-28T13:27:32+00:00"
+    },
+    {
+      "title": "China expands overseas travel curbs for top AI talent to include their families",
+      "summary": "Article URL: https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg Comments URL: https://news.ycombinator.com/item?id=49877376 Points: 3 # Comments: 1",
+      "url": "https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg",
+      "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/e7915f99f7eb0214280668e691e38fcd/2026-09/e_7.jpg",
+      "date": "2026-09-28T13:09:56+00:00"
+    },
+    {
+      "title": "Banning AI in Law School: We've Seen This Before",
+      "summary": "Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=49877276 Points: 1 # Comments: 0",
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
+      "image": "https://substackcdn.com/image/fetch/$s_!W8EF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4794521e-65a1-4760-b9f6-a9063144826b_1200x570.jpeg",
+      "date": "2026-09-28T13:00:39+00:00"
+    },
+    {
+      "title": "LabMCP: Open-source connectors for AI-controlled lab instruments",
+      "summary": "Article URL: https://www.k-dense.ai/blog/introducing-labmcp Comments URL: https://news.ycombinator.com/item?id=49877188 Points: 1 # Comments: 0",
+      "url": "https://www.k-dense.ai/blog/introducing-labmcp",
+      "image": "https://www.k-dense.ai/blog/introducing-labmcp/cover.png",
+      "date": "2026-09-28T12:52:46+00:00"
+    },
+    {
+      "title": "What is the AI capex breakeven rate?",
+      "summary": "Article URL: https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977 Comments URL: https://news.ycombinator.com/item?id=49877137 Points: 2 # Comments: 1",
+      "url": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
+      "image": "",
+      "date": "2026-09-28T12:48:20+00:00"
+    },
+    {
+      "title": "The next AI divide is between learning and earning",
+      "summary": "Article URL: https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/ Comments URL: https://news.ycombinator.com/item?id=49877081 Points: 1 # Comments: 0",
+      "url": "https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/",
+      "image": "",
+      "date": "2026-09-28T12:43:17+00:00"
+    },
+    {
+      "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49876719 Points: 3 # Comments: 2",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+      "image": "",
+      "date": "2026-09-28T12:07:08+00:00"
+    },
+    {
+      "title": "Corporate America embraces cheaper 'open' AI models",
+      "summary": "Article URL: https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd Comments URL: https://news.ycombinator.com/item?id=49876558 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+      "image": "",
+      "date": "2026-09-28T11:49:12+00:00"
+    }
+  ]
 }
