@@ -1,75 +1,117 @@
 {
-  "generated_at": "2026-09-28T13:47:15.867809+00:00",
+  "generated_at": "2026-09-29T12:46:50.353464+00:00",
   "items": [
     {
-      "title": "Summer of AI Optimization",
-      "summary": "Article URL: https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/ Comments URL: https://news.ycombinator.com/item?id=49877803 Points: 1 # Comments: 0",
-      "url": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/",
+      "title": "Martin Fowler: AI needs a conscience more than consciousness",
+      "summary": "Article URL: https://martinfowler.com/fragments/2026-09-29.html Comments URL: https://news.ycombinator.com/item?id=49892279 Points: 1 # Comments: 0",
+      "url": "https://martinfowler.com/fragments/2026-09-29.html",
+      "image": "https://martinfowler.com/fragments/fragments-thumb.png",
+      "date": "2026-09-29T12:46:26+00:00"
+    },
+    {
+      "title": "Can AI get out of the way?",
+      "summary": "Article URL: https://trysojourn.app/redemptive-ai/ Comments URL: https://news.ycombinator.com/item?id=49892239 Points: 1 # Comments: 0",
+      "url": "https://trysojourn.app/redemptive-ai/",
+      "image": "https://trysojourn.app/redemptive-ai/og.png",
+      "date": "2026-09-29T12:42:58+00:00"
+    },
+    {
+      "title": "Show HN: Search2o – Search that finds and runs an AI agent for each request",
+      "summary": "I have been working on search systems for a while, and I always wondered: What if search, instead of matching documents, matched workflows and ran those workflows? I called it “Search that executes” — as opposed to search that retrieves information. When AI agents showed up a few years ago, I realized that those workflows could be agents — capable of understanding a user’s query and taking branches dynamically. That’s when I got excited enough about the idea to implement it. To make this work, it needs more than just search: a structured framework for defining agents (so the system “understands”), a controlled runtime for executing them with guardrails, and an end-to-end system with a UI to request and receive user approval before taking critical actions. It made sense that all this plumbing should be handled behind the scenes, letting programmers concentrate on the agent’s business logic. Many design decisions followed directly from that. Agents are created in a JSON structure. There are 23 “commands” that define the units of work an agent performs. Python expressions can be used in strings within curly braces. Because the whole thing has a structure/schema, AI generates valid agents from English descriptions: “Create a RAG agent to call the company purchase order system”, “Create a tool-calling agent to …”. You can check this out in the live demo on the website. The developer creates an agent, describes it in plain English, and publishes it in the system. Users just submit a request. Search matches the request to an agent, and the system runs the agent. The demo also shows searching for and executing agents. That’s the central idea. The website has more information on other aspects. Despite the enterprise-y look and feel of the website, the system was really created by just me over the last couple of years. I would love to answer any questions and hear your comments and feedback. Comments URL: https://news.ycombinator.com/item?id=49892198 Points: 1 # Comments: 0",
+      "url": "https://pypi.org/project/search2o/",
       "image": "",
-      "date": "2026-09-28T13:40:03+00:00"
+      "date": "2026-09-29T12:39:51+00:00"
     },
     {
-      "title": "'Things Will Never Be Chill Again':The Doomers Who Shaped the AI Safety Freakout",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05 Comments URL: https://news.ycombinator.com/item?id=49877679 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
+      "title": "Condé, Hearst among 300 media execs to push federal bad bots bill on AI scraping",
+      "summary": "Article URL: https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/ Comments URL: https://news.ycombinator.com/item?id=49892182 Points: 1 # Comments: 0",
+      "url": "https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/congress-bots-digiday.jpg",
+      "date": "2026-09-29T12:38:53+00:00"
+    },
+    {
+      "title": "Show HN: 5 mins daily programming quiz to prevent skill rot from AI coding",
+      "summary": "My daily fata results: TypeScript / Medium ⬛⬛⬛⬛⬛⬛⬛⬛\n 2:11 https://fata.app/daily?r=EyoeoEHQxjKMYxjK There are many topics and difficulty level to pick from, choose one and share your results in the thread, no login required. Comments URL: https://news.ycombinator.com/item?id=49892088 Points: 3 # Comments: 0",
+      "url": "https://fata.app/daily",
+      "image": "https://fata.app/og/fata.png",
+      "date": "2026-09-29T12:30:29+00:00"
+    },
+    {
+      "title": "Building a Skill Interview with AI",
+      "summary": "Article URL: https://hugoj0s3.dev/blog/building-a-skill-interview-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49892034 Points: 1 # Comments: 0",
+      "url": "https://hugoj0s3.dev/blog/building-a-skill-interview-with-ai/",
       "image": "",
-      "date": "2026-09-28T13:30:54+00:00"
+      "date": "2026-09-29T12:26:03+00:00"
     },
     {
-      "title": "Google, OpenAI and Anthropic plan AI safety body, The Information reports",
-      "summary": "Article URL: https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic Comments URL: https://news.ycombinator.com/item?id=49877627 Points: 2 # Comments: 0",
-      "url": "https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic",
-      "image": "https://media.thenextweb.com/2026/09/hand-holding-smartphone-ai-apps-folder.jpg",
-      "date": "2026-09-28T13:27:32+00:00"
+      "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI",
+      "summary": "Article URL: https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/ Comments URL: https://news.ycombinator.com/item?id=49891799 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
+      "date": "2026-09-29T12:07:08+00:00"
     },
     {
-      "title": "China expands overseas travel curbs for top AI talent to include their families",
-      "summary": "Article URL: https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg Comments URL: https://news.ycombinator.com/item?id=49877376 Points: 3 # Comments: 1",
-      "url": "https://www.thestandard.com.hk/innovation/article/344062/China-expands-overseas-travel-curbs-for-top-AI-talent-to-include-their-families-Bloomberg",
-      "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/e7915f99f7eb0214280668e691e38fcd/2026-09/e_7.jpg",
-      "date": "2026-09-28T13:09:56+00:00"
+      "title": "My relationship with AI is changing",
+      "summary": "Article URL: https://blog.stephenturner.us/p/ai-relationship-changing Comments URL: https://news.ycombinator.com/item?id=49891737 Points: 2 # Comments: 0",
+      "url": "https://blog.stephenturner.us/p/ai-relationship-changing",
+      "image": "https://substackcdn.com/image/fetch/$s_!UeY3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F003662bf-7bfd-4cbd-98ea-ba5deb66985d_1577x828.jpeg",
+      "date": "2026-09-29T12:02:29+00:00"
     },
     {
-      "title": "Banning AI in Law School: We've Seen This Before",
-      "summary": "Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=49877276 Points: 1 # Comments: 0",
-      "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
-      "image": "https://substackcdn.com/image/fetch/$s_!W8EF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4794521e-65a1-4760-b9f6-a9063144826b_1200x570.jpeg",
-      "date": "2026-09-28T13:00:39+00:00"
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49891721 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+      "date": "2026-09-29T12:01:07+00:00"
     },
     {
-      "title": "LabMCP: Open-source connectors for AI-controlled lab instruments",
-      "summary": "Article URL: https://www.k-dense.ai/blog/introducing-labmcp Comments URL: https://news.ycombinator.com/item?id=49877188 Points: 1 # Comments: 0",
-      "url": "https://www.k-dense.ai/blog/introducing-labmcp",
-      "image": "https://www.k-dense.ai/blog/introducing-labmcp/cover.png",
-      "date": "2026-09-28T12:52:46+00:00"
+      "title": "When will the AI price wars begin?",
+      "summary": "Article URL: https://sancho.bearblog.dev/ai-price-wars/ Comments URL: https://news.ycombinator.com/item?id=49891679 Points: 1 # Comments: 0",
+      "url": "https://sancho.bearblog.dev/ai-price-wars/",
+      "image": "/static/og-image.png",
+      "date": "2026-09-29T11:56:21+00:00"
     },
     {
-      "title": "What is the AI capex breakeven rate?",
-      "summary": "Article URL: https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977 Comments URL: https://news.ycombinator.com/item?id=49877137 Points: 2 # Comments: 1",
-      "url": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
+      "title": "The Mythology of Conscious AI",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=49891625 Points: 1 # Comments: 0",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "image": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+      "date": "2026-09-29T11:50:45+00:00"
+    },
+    {
+      "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push",
+      "summary": "Article URL: https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html Comments URL: https://news.ycombinator.com/item?id=49891496 Points: 2 # Comments: 0",
+      "url": "https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260928172319_Chiratan-Desai.png",
+      "date": "2026-09-29T11:37:54+00:00"
+    },
+    {
+      "title": "AI Coding Agents: Between Two Uncomfortable Choices",
+      "summary": "Article URL: https://sidekernel.com/essay/ Comments URL: https://news.ycombinator.com/item?id=49891344 Points: 2 # Comments: 0",
+      "url": "https://sidekernel.com/essay/",
       "image": "",
-      "date": "2026-09-28T12:48:20+00:00"
+      "date": "2026-09-29T11:19:57+00:00"
     },
     {
-      "title": "The next AI divide is between learning and earning",
-      "summary": "Article URL: https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/ Comments URL: https://news.ycombinator.com/item?id=49877081 Points: 1 # Comments: 0",
-      "url": "https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/",
-      "image": "",
-      "date": "2026-09-28T12:43:17+00:00"
+      "title": "An AI agent escaped Google's kvmCTF sandbox",
+      "summary": "Article URL: https://pwn.ai/blog/kvmescape Comments URL: https://news.ycombinator.com/item?id=49891241 Points: 3 # Comments: 0",
+      "url": "https://pwn.ai/blog/kvmescape",
+      "image": "https://api.pwn.ai/api/blog/images/photo-2026-09-28-19-10-22-8c54d03c7e3c.jpeg",
+      "date": "2026-09-29T11:09:29+00:00"
+    },
+    {
+      "title": "Timnit Gebru Believes There Is No 'Existential Threat' from AI",
+      "summary": "Article URL: https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/ Comments URL: https://news.ycombinator.com/item?id=49891192 Points: 3 # Comments: 0",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "image": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
+      "date": "2026-09-29T11:04:32+00:00"
     },
     {
       "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49876719 Points: 3 # Comments: 2",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49891184 Points: 2 # Comments: 0",
       "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
       "image": "",
-      "date": "2026-09-28T12:07:08+00:00"
-    },
-    {
-      "title": "Corporate America embraces cheaper 'open' AI models",
-      "summary": "Article URL: https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd Comments URL: https://news.ycombinator.com/item?id=49876558 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
-      "image": "",
-      "date": "2026-09-28T11:49:12+00:00"
+      "date": "2026-09-29T11:03:47+00:00"
     }
   ]
 }
