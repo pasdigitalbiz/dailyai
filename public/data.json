@@ -1,4 +1,110 @@
 {
-  "generated_at": "2026-10-06T13:14:53.356487+00:00",
-  "items": []
+  "generated_at": "2026-10-07T13:15:45.858821+00:00",
+  "items": [
+    {
+      "title": "Ask HN: Will AI Longevity Models Optimize for Physical Scarcity?",
+      "summary": "Since longevity has a high value and AI models are becoming capable of new leaps I think the dynamic of the market might look for physical scarcity so that a betting strategy for the  tailored treatment will provide immense profits for such a search. Comments URL: https://news.ycombinator.com/item?id=49992222 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=49992222",
+      "image": "",
+      "date": "2026-10-07T13:06:00+00:00"
+    },
+    {
+      "title": "Show HN: Open model that checks stablecoin payments before an AI agent pays",
+      "summary": "Article URL: https://huggingface.co/sriram1983007/SRA-RiskGate-4B Comments URL: https://news.ycombinator.com/item?id=49992039 Points: 1 # Comments: 1",
+      "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/sriram1983007/SRA-RiskGate-4B.png",
+      "date": "2026-10-07T12:49:31+00:00"
+    },
+    {
+      "title": "Show HN: A fun AI project that roasts tech news as COOKING or COOKED",
+      "summary": "Hi HN, so i made a weekend fun project months ago which takes the top 10 tech stories or news from internet, roasts them and categorizes them into cooking or cooked instead of just giving dry summaries. $0 architecture: Github actions runs python script ones a day after extraction the news is news.json then github action updates the page to give us fresh news on frontend. This is open-sourced at https://github.com/pranavworks100/fennec so problem right now is sometimes roasts hit and sometimes they are just bland and generic. so if have ideas to make it even more funnier, please do so :) and another issue is that it sometimes pulls old news from months ago. Comments URL: https://news.ycombinator.com/item?id=49991917 Points: 1 # Comments: 0",
+      "url": "https://pranavworks100.github.io/fennec/",
+      "image": "",
+      "date": "2026-10-07T12:37:45+00:00"
+    },
+    {
+      "title": "The AI Bubble Is Bigger Than You Think [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=THjNYLjKnfE Comments URL: https://news.ycombinator.com/item?id=49991916 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=THjNYLjKnfE",
+      "image": "",
+      "date": "2026-10-07T12:37:44+00:00"
+    },
+    {
+      "title": "Opus 5.5 is the first model whose design doesn't look like AI slop",
+      "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=49991903 Points: 5 # Comments: 0",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "image": "https://quesma.com/_astro/thumbnail.CbJSiyQh.jpg",
+      "date": "2026-10-07T12:36:06+00:00"
+    },
+    {
+      "title": "Show HN: Engineering judgment in AI-assisted development [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=oMd9R_8O6uY Comments URL: https://news.ycombinator.com/item?id=49991678 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=oMd9R_8O6uY",
+      "image": "",
+      "date": "2026-10-07T12:13:59+00:00"
+    },
+    {
+      "title": "Can AI Make a Game Engine? [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=R_uf5OfMGio Comments URL: https://news.ycombinator.com/item?id=49991649 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=R_uf5OfMGio",
+      "image": "",
+      "date": "2026-10-07T12:11:10+00:00"
+    },
+    {
+      "title": "Cosmic shuts the door on AI code as GNOME debates letting bug reports in",
+      "summary": "Article URL: https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141 Comments URL: https://news.ycombinator.com/item?id=49991614 Points: 2 # Comments: 0",
+      "url": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141",
+      "image": "https://image.theregister.com/237408.jpg?imageId=237408&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-10-07T12:07:09+00:00"
+    },
+    {
+      "title": "AI vs. Human Creativity",
+      "summary": "Article URL: https://matiasmobilia.substack.com/p/ai-vs-human-creativity Comments URL: https://news.ycombinator.com/item?id=49991516 Points: 1 # Comments: 0",
+      "url": "https://matiasmobilia.substack.com/p/ai-vs-human-creativity",
+      "image": "",
+      "date": "2026-10-07T11:58:30+00:00"
+    },
+    {
+      "title": "\"Good\" AI",
+      "summary": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49991513 Points: 2 # Comments: 0",
+      "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "image": "https://substackcdn.com/image/fetch/$s_!PIrt!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwyounas.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1075606337%26version%3D9",
+      "date": "2026-10-07T11:57:53+00:00"
+    },
+    {
+      "title": "AI Just Became Humanity's Biggest Threat [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ujkD4SxPKOI Comments URL: https://news.ycombinator.com/item?id=49991381 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
+      "image": "",
+      "date": "2026-10-07T11:43:46+00:00"
+    },
+    {
+      "title": "Valkey 9.2 Targets Memory Overhead with AI Used to Improve Its Code",
+      "summary": "Article URL: https://techstrong.it/featured/valkey-9-2-targets-memory-overhead-with-ai-used-to-improve-its-code/ Comments URL: https://news.ycombinator.com/item?id=49991249 Points: 2 # Comments: 0",
+      "url": "https://techstrong.it/featured/valkey-9-2-targets-memory-overhead-with-ai-used-to-improve-its-code/",
+      "image": "https://techstrong.it/wp-content/uploads/2026/10/valkey_ai_770x330-1.jpg",
+      "date": "2026-10-07T11:28:38+00:00"
+    },
+    {
+      "title": "Jev made me rethink AI Ops Engineering",
+      "summary": "Article URL: https://arminn.com/writing/jev-made-me-rethink-ai-ops-engineering/ Comments URL: https://news.ycombinator.com/item?id=49991138 Points: 1 # Comments: 1",
+      "url": "https://arminn.com/writing/jev-made-me-rethink-ai-ops-engineering/",
+      "image": "",
+      "date": "2026-10-07T11:15:14+00:00"
+    },
+    {
+      "title": "Musician sent to prison for $10M streaming fraud using AI bots",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=49991123 Points: 2 # Comments: 0",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "image": "",
+      "date": "2026-10-07T11:13:16+00:00"
+    },
+    {
+      "title": "Rex – Superlogical's AI multiplexer, now in beta",
+      "summary": "Article URL: https://www.superlogical.com/updates/public-testing-beginning Comments URL: https://news.ycombinator.com/item?id=49990946 Points: 2 # Comments: 0",
+      "url": "https://www.superlogical.com/updates/public-testing-beginning",
+      "image": "https://www.superlogical.com/updates/public-testing-beginning/og.webp",
+      "date": "2026-10-07T10:51:22+00:00"
+    }
+  ]
 }
