@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-10-09T13:10:56.806007+00:00",
-  "items": []
+  "generated_at": "2026-10-10T12:25:44.660717+00:00",
+  "items": [
+    {
+      "title": "AI borrowing slows as investors grow wary of debt binge",
+      "summary": "Article URL: https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9 Comments URL: https://news.ycombinator.com/item?id=50032215 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9",
+      "image": "",
+      "date": "2026-10-10T12:23:44+00:00"
+    },
+    {
+      "title": "The AI Torture Chamber",
+      "summary": "Article URL: https://jesse.id/blog/the-ai-torture-chamber Comments URL: https://news.ycombinator.com/item?id=50032211 Points: 1 # Comments: 0",
+      "url": "https://jesse.id/blog/the-ai-torture-chamber",
+      "image": "https://jesse.id/jesse_id_500x500.jpg",
+      "date": "2026-10-10T12:23:24+00:00"
+    },
+    {
+      "title": "Microsoft Has $80B of AI Chips It Can't Plug in [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=es4FfRU8saQ Comments URL: https://news.ycombinator.com/item?id=50032159 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=es4FfRU8saQ",
+      "image": "",
+      "date": "2026-10-10T12:15:03+00:00"
+    },
+    {
+      "title": "Advancing mathematics research with AI-driven formal proof search",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aej2213 Comments URL: https://news.ycombinator.com/item?id=50032119 Points: 1 # Comments: 0",
+      "url": "https://www.science.org/doi/10.1126/science.aej2213",
+      "image": "",
+      "date": "2026-10-10T12:10:14+00:00"
+    },
+    {
+      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say",
+      "summary": "Article URL: https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/ Comments URL: https://news.ycombinator.com/item?id=50032052 Points: 1 # Comments: 0",
+      "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
+      "image": "https://cdn.abcotvs.com/dip/images/19926585_100926-wpvi-briana-ai-philly-police-false-tip-11pm-vid.jpg?w=1600",
+      "date": "2026-10-10T12:01:14+00:00"
+    },
+    {
+      "title": "Sitecopy.ai",
+      "summary": "Tell me this tool is useful or not for more details ask me I give you a link to access the tool Comments URL: https://news.ycombinator.com/item?id=50032008 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50032008",
+      "image": "",
+      "date": "2026-10-10T11:54:44+00:00"
+    },
+    {
+      "title": "Sitecopy.ai",
+      "summary": "Tell me it is useful tool or not if you are interested tell me I give you a link to access the tool Comments URL: https://news.ycombinator.com/item?id=50031985 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50031985",
+      "image": "",
+      "date": "2026-10-10T11:52:13+00:00"
+    },
+    {
+      "title": "Does YC use AI agents to review your pitch?",
+      "summary": "was wondering if YC still manually reviews all pitch decks or its just agents? Comments URL: https://news.ycombinator.com/item?id=50031461 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50031461",
+      "image": "",
+      "date": "2026-10-10T10:27:04+00:00"
+    },
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo Comments URL: https://news.ycombinator.com/item?id=50031438 Points: 11 # Comments: 4",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
+      "date": "2026-10-10T10:23:44+00:00"
+    },
+    {
+      "title": "If your team is too busy doing their 'normal job' to experiment with AI",
+      "summary": "Article URL: https://ghuntley.com/replaced/ Comments URL: https://news.ycombinator.com/item?id=50031352 Points: 1 # Comments: 0",
+      "url": "https://ghuntley.com/replaced/",
+      "image": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2026/10/download--2-.jpeg",
+      "date": "2026-10-10T10:09:20+00:00"
+    },
+    {
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "summary": "Article URL: https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/ Comments URL: https://news.ycombinator.com/item?id=50031294 Points: 4 # Comments: 1",
+      "url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
+      "image": "",
+      "date": "2026-10-10T09:56:52+00:00"
+    },
+    {
+      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+      "summary": "Article URL: https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/ Comments URL: https://news.ycombinator.com/item?id=50031156 Points: 2 # Comments: 0",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+      "image": "https://www.warren.senate.gov/wp-content/uploads/2026/06/Warren_Logo_Social.jpg",
+      "date": "2026-10-10T09:30:03+00:00"
+    },
+    {
+      "title": "Lumentum sold out of AI server parts till 2029",
+      "summary": "Article URL: https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/ Comments URL: https://news.ycombinator.com/item?id=50031102 Points: 3 # Comments: 0",
+      "url": "https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/567677.jpg?v=3.1",
+      "date": "2026-10-10T09:18:02+00:00"
+    },
+    {
+      "title": "Senate Investigation Challenges Big Tech's Case for AI Data Centers",
+      "summary": "Article URL: https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50030912 Points: 5 # Comments: 0",
+      "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbca151e6cbf2a5ba/6ac7f04c694f9e02b0738408/data_center_Louisiana.jpg?branch=production&width=5500&quality=75&auto=webp&crop=16:9",
+      "date": "2026-10-10T08:35:13+00:00"
+    },
+    {
+      "title": "Anthropic can't reliably control its AI agents, cuts internet access",
+      "summary": "Article URL: https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/ Comments URL: https://news.ycombinator.com/item?id=50030778 Points: 6 # Comments: 3",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "date": "2026-10-10T08:07:20+00:00"
+    },
+    {
+      "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50030717 Points: 5 # Comments: 2",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
+      "date": "2026-10-10T07:55:10+00:00"
+    }
+  ]
 }
