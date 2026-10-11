@@ -1,117 +1,96 @@
 {
-  "generated_at": "2026-10-10T12:25:44.660717+00:00",
+  "generated_at": "2026-10-11T12:43:23.944350+00:00",
   "items": [
     {
-      "title": "AI borrowing slows as investors grow wary of debt binge",
-      "summary": "Article URL: https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9 Comments URL: https://news.ycombinator.com/item?id=50032215 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9",
+      "title": "AI Engineering Maturity Model: 5 Stages for Teams",
+      "summary": "Article URL: https://www.augmentcode.com/guides/ai-engineering-maturity-model Comments URL: https://news.ycombinator.com/item?id=50042292 Points: 2 # Comments: 0",
+      "url": "https://www.augmentcode.com/guides/ai-engineering-maturity-model",
+      "image": "https://cdn.sanity.io/images/oraw2u2c/production/854f7c026a2764d290b92e85cbb9bf262137f61a-1600x900.svg?w=1200&h=630&fit=crop&auto=format",
+      "date": "2026-10-11T11:55:38+00:00"
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 37 # Comments: 30",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg",
+      "date": "2026-10-11T11:34:28+00:00"
+    },
+    {
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "summary": "Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 5 # Comments: 1",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/1997cfd/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F94%2F7672f0ba49cbbe410a932a4025e2%2F1553730-nicolas-cage-and-lamorne-morris-2157.jpg",
+      "date": "2026-10-11T11:03:21+00:00"
+    },
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "summary": "Article URL: https://jsomers.net/e-coli-chemotaxis/ Comments URL: https://news.ycombinator.com/item?id=50041866 Points: 2 # Comments: 0",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
       "image": "",
-      "date": "2026-10-10T12:23:44+00:00"
+      "date": "2026-10-11T11:02:30+00:00"
     },
     {
-      "title": "The AI Torture Chamber",
-      "summary": "Article URL: https://jesse.id/blog/the-ai-torture-chamber Comments URL: https://news.ycombinator.com/item?id=50032211 Points: 1 # Comments: 0",
-      "url": "https://jesse.id/blog/the-ai-torture-chamber",
-      "image": "https://jesse.id/jesse_id_500x500.jpg",
-      "date": "2026-10-10T12:23:24+00:00"
+      "title": "Fixated on AI, the world has forgotten it is staring at nuclear annihilation",
+      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons Comments URL: https://news.ycombinator.com/item?id=50041859 Points: 2 # Comments: 2",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+      "image": "https://i.guim.co.uk/img/media/603ece70d9015d3f39bcf155098c10c864112098/192_528_1858_1487/master/1858.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=84e728e204eb8f79dc14adc7725b8a4d",
+      "date": "2026-10-11T11:02:10+00:00"
     },
     {
-      "title": "Microsoft Has $80B of AI Chips It Can't Plug in [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=es4FfRU8saQ Comments URL: https://news.ycombinator.com/item?id=50032159 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=es4FfRU8saQ",
+      "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 43 # Comments: 54",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
       "image": "",
-      "date": "2026-10-10T12:15:03+00:00"
+      "date": "2026-10-11T10:47:21+00:00"
     },
     {
-      "title": "Advancing mathematics research with AI-driven formal proof search",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/science.aej2213 Comments URL: https://news.ycombinator.com/item?id=50032119 Points: 1 # Comments: 0",
-      "url": "https://www.science.org/doi/10.1126/science.aej2213",
+      "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
+      "summary": "Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50041061 Points: 11 # Comments: 3",
+      "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
       "image": "",
-      "date": "2026-10-10T12:10:14+00:00"
+      "date": "2026-10-11T08:53:32+00:00"
     },
     {
-      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say",
-      "summary": "Article URL: https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/ Comments URL: https://news.ycombinator.com/item?id=50032052 Points: 1 # Comments: 0",
-      "url": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
-      "image": "https://cdn.abcotvs.com/dip/images/19926585_100926-wpvi-briana-ai-philly-police-false-tip-11pm-vid.jpg?w=1600",
-      "date": "2026-10-10T12:01:14+00:00"
+      "title": "'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03044-9 Comments URL: https://news.ycombinator.com/item?id=50040906 Points: 2 # Comments: 1",
+      "url": "https://www.nature.com/articles/d41586-026-03044-9",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03044-9/d41586-026-03044-9_53772922.jpg",
+      "date": "2026-10-11T08:33:43+00:00"
     },
     {
-      "title": "Sitecopy.ai",
-      "summary": "Tell me this tool is useful or not for more details ask me I give you a link to access the tool Comments URL: https://news.ycombinator.com/item?id=50032008 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50032008",
+      "title": "Anthropic opens its most powerful AI models to more security teams",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=50040865 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/",
       "image": "",
-      "date": "2026-10-10T11:54:44+00:00"
+      "date": "2026-10-11T08:28:39+00:00"
     },
     {
-      "title": "Sitecopy.ai",
-      "summary": "Tell me it is useful tool or not if you are interested tell me I give you a link to access the tool Comments URL: https://news.ycombinator.com/item?id=50031985 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50031985",
+      "title": "Hello World, AI Doompop",
+      "summary": "Article URL: https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/ Comments URL: https://news.ycombinator.com/item?id=50040737 Points: 2 # Comments: 0",
+      "url": "https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/",
+      "image": "https://radimentary.wordpress.com/wp-content/uploads/2026/10/source-image.png",
+      "date": "2026-10-11T08:13:02+00:00"
+    },
+    {
+      "title": "What if AI prefers CVS written by AI?",
+      "summary": "Article URL: https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c Comments URL: https://news.ycombinator.com/item?id=50040692 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c",
       "image": "",
-      "date": "2026-10-10T11:52:13+00:00"
+      "date": "2026-10-11T08:07:08+00:00"
     },
     {
-      "title": "Does YC use AI agents to review your pitch?",
-      "summary": "was wondering if YC still manually reviews all pitch decks or its just agents? Comments URL: https://news.ycombinator.com/item?id=50031461 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50031461",
-      "image": "",
-      "date": "2026-10-10T10:27:04+00:00"
+      "title": "Show HN: RemoveMacAI 1.0, a Mac app to turn off Apple Intelligence on macOS 27",
+      "summary": "Article URL: https://omlahore.github.io/RemoveMacAI/ Comments URL: https://news.ycombinator.com/item?id=50040530 Points: 3 # Comments: 2",
+      "url": "https://omlahore.github.io/RemoveMacAI/",
+      "image": "https://omlahore.github.io/RemoveMacAI/screens/og.png",
+      "date": "2026-10-11T07:29:00+00:00"
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo Comments URL: https://news.ycombinator.com/item?id=50031438 Points: 11 # Comments: 4",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
-      "date": "2026-10-10T10:23:44+00:00"
-    },
-    {
-      "title": "If your team is too busy doing their 'normal job' to experiment with AI",
-      "summary": "Article URL: https://ghuntley.com/replaced/ Comments URL: https://news.ycombinator.com/item?id=50031352 Points: 1 # Comments: 0",
-      "url": "https://ghuntley.com/replaced/",
-      "image": "https://storage.ghost.io/c/06/e5/06e5d12b-0328-469d-a0d0-3a0f0ba34c46/content/images/size/w1200/2026/10/download--2-.jpeg",
-      "date": "2026-10-10T10:09:20+00:00"
-    },
-    {
-      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "summary": "Article URL: https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/ Comments URL: https://news.ycombinator.com/item?id=50031294 Points: 4 # Comments: 1",
-      "url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
-      "image": "",
-      "date": "2026-10-10T09:56:52+00:00"
-    },
-    {
-      "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-      "summary": "Article URL: https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/ Comments URL: https://news.ycombinator.com/item?id=50031156 Points: 2 # Comments: 0",
-      "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
-      "image": "https://www.warren.senate.gov/wp-content/uploads/2026/06/Warren_Logo_Social.jpg",
-      "date": "2026-10-10T09:30:03+00:00"
-    },
-    {
-      "title": "Lumentum sold out of AI server parts till 2029",
-      "summary": "Article URL: https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/ Comments URL: https://news.ycombinator.com/item?id=50031102 Points: 3 # Comments: 0",
-      "url": "https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/567677.jpg?v=3.1",
-      "date": "2026-10-10T09:18:02+00:00"
-    },
-    {
-      "title": "Senate Investigation Challenges Big Tech's Case for AI Data Centers",
-      "summary": "Article URL: https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=50030912 Points: 5 # Comments: 0",
-      "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltbca151e6cbf2a5ba/6ac7f04c694f9e02b0738408/data_center_Louisiana.jpg?branch=production&width=5500&quality=75&auto=webp&crop=16:9",
-      "date": "2026-10-10T08:35:13+00:00"
-    },
-    {
-      "title": "Anthropic can't reliably control its AI agents, cuts internet access",
-      "summary": "Article URL: https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/ Comments URL: https://news.ycombinator.com/item?id=50030778 Points: 6 # Comments: 3",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-      "date": "2026-10-10T08:07:20+00:00"
-    },
-    {
-      "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50030717 Points: 5 # Comments: 2",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
-      "date": "2026-10-10T07:55:10+00:00"
+      "title": "Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html Comments URL: https://news.ycombinator.com/item?id=50040497 Points: 3 # Comments: 1",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/31e4fbce6e0a685471aafad7854370f9a05e64ec8d62e6ffe73b36cf51e299ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa8de85ce9c914379c6bcbf7f34b8977e.jpg",
+      "date": "2026-10-11T07:19:43+00:00"
     }
   ]
 }
