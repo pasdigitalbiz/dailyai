@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-10-14T11:45:53.374731+00:00",
-  "items": []
+  "generated_at": "2026-10-15T11:21:54.448057+00:00",
+  "items": [
+    {
+      "title": "WhatsApp AI chatbot for business: costs and how it works",
+      "summary": "Article URL: https://madsalt.tech/blog/whatsapp-ai-chatbot-for-business/ Comments URL: https://news.ycombinator.com/item?id=50102020 Points: 2 # Comments: 0",
+      "url": "https://madsalt.tech/blog/whatsapp-ai-chatbot-for-business/",
+      "image": "https://madsalt.tech/og/en/blog-whatsapp-ai-chatbot-for-business.png",
+      "date": "2026-10-15T11:09:05+00:00"
+    },
+    {
+      "title": "TheoPhysEval: Assessing AI agents at autonomous theoretical physics solving",
+      "summary": "Article URL: https://arxiv.org/abs/2610.16733 Comments URL: https://news.ycombinator.com/item?id=50102019 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2610.16733",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-10-15T11:08:54+00:00"
+    },
+    {
+      "title": "How much does an AI agent cost to run? Numbers from 4 builds",
+      "summary": "Article URL: https://madsalt.tech/blog/how-much-does-an-ai-agent-cost/ Comments URL: https://news.ycombinator.com/item?id=50102016 Points: 2 # Comments: 0",
+      "url": "https://madsalt.tech/blog/how-much-does-an-ai-agent-cost/",
+      "image": "https://madsalt.tech/og/en/blog-how-much-does-an-ai-agent-cost.png",
+      "date": "2026-10-15T11:08:16+00:00"
+    },
+    {
+      "title": "Will AI Grow the Pie or Just Hand It to Fewer People?",
+      "summary": "Article URL: https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/ Comments URL: https://news.ycombinator.com/item?id=50101851 Points: 1 # Comments: 1",
+      "url": "https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/",
+      "image": "https://www.vincentschmalbach.com/wp-content/uploads/pressqueue/social/will-ai-grow-the-pie-or-hand-it-to-fewer-people-4463-485129be.jpg",
+      "date": "2026-10-15T10:48:27+00:00"
+    },
+    {
+      "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
+      "summary": "Article URL: https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html Comments URL: https://news.ycombinator.com/item?id=50101761 Points: 1 # Comments: 0",
+      "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
+      "image": "",
+      "date": "2026-10-15T10:37:46+00:00"
+    },
+    {
+      "title": "Sipeed announces MaixStation local AI computer",
+      "summary": "Article URL: https://sipeed.com/maixstation/ Comments URL: https://news.ycombinator.com/item?id=50101750 Points: 1 # Comments: 0",
+      "url": "https://sipeed.com/maixstation/",
+      "image": "https://sipeed.com/maixstation/img/og.jpg",
+      "date": "2026-10-15T10:36:30+00:00"
+    },
+    {
+      "title": "Management in the Age of AI",
+      "summary": "Article URL: https://staysaasy.com/management-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50101724 Points: 2 # Comments: 0",
+      "url": "https://staysaasy.com/management-in-the-age-of-ai/",
+      "image": "https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg",
+      "date": "2026-10-15T10:33:52+00:00"
+    },
+    {
+      "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
+      "summary": "Article URL: https://quickchat.ai/post/chinese-ai-agent-fleet Comments URL: https://news.ycombinator.com/item?id=50101662 Points: 3 # Comments: 0",
+      "url": "https://quickchat.ai/post/chinese-ai-agent-fleet",
+      "image": "https://quickchat.ai/blog-assets/posts/chinese-ai-agent-fleet_bg.png",
+      "date": "2026-10-15T10:26:04+00:00"
+    },
+    {
+      "title": "How are you centralising AI for development at your company?",
+      "summary": "I'm asking this because I'm seeing some frustrating patterns and if I may be bold, I think my answer is the correct one. Here's one I'm seeing: its the SDLC agent pattern and I think its wrong. Step 1: you have good AGENTS.md documentation for your code and other principles. (this is good) Step 2: There's a somewhat strict workflow and steps enforced like planner agent, reviewer agent, critique agent and directly create a PR from a ticket. Every human intervention here is considered an anti-pattern. I'd like it to be as simple as having documentation and giving developer full freedom with choice of harness, tools (MCP) and just make the pull request. What's the logic behind the multi step planner, reviewer, critique agents? Comments URL: https://news.ycombinator.com/item?id=50101587 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50101587",
+      "image": "",
+      "date": "2026-10-15T10:15:21+00:00"
+    },
+    {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50101586 Points: 2 # Comments: 0",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "date": "2026-10-15T10:15:07+00:00"
+    },
+    {
+      "title": "Costs of Switching AI Models",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zUCeaaGCRuc Comments URL: https://news.ycombinator.com/item?id=50101472 Points: 3 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=zUCeaaGCRuc",
+      "image": "",
+      "date": "2026-10-15T10:00:28+00:00"
+    },
+    {
+      "title": "Show HN: I built a rogue AI game, then let five AI models play it",
+      "summary": "Article URL: https://www.viberant.app/view.php?id=82 Comments URL: https://news.ycombinator.com/item?id=50101275 Points: 1 # Comments: 0",
+      "url": "https://www.viberant.app/view.php?id=82",
+      "image": "https://www.viberant.app/uploads/project-previews/82/cover.jpg",
+      "date": "2026-10-15T09:31:45+00:00"
+    },
+    {
+      "title": "AI has changed my engineering leadership role",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/AI-leadership/ Comments URL: https://news.ycombinator.com/item?id=50101212 Points: 1 # Comments: 0",
+      "url": "https://bjorg.bjornroche.com/management/AI-leadership/",
+      "image": "https://bjorg.bjornroche.com/assets/2026/AI-leadership.jpg",
+      "date": "2026-10-15T09:23:12+00:00"
+    },
+    {
+      "title": "Even Without AI, the Risk of a Biological Attack Is Terrifying",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/ Comments URL: https://news.ycombinator.com/item?id=50101181 Points: 1 # Comments: 0",
+      "url": "https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/",
+      "image": "https://www.motherjones.com/wp-content/uploads/2026/09/20260923_ai-bioweapon_2000b.jpg?w=1200&h=630&crop=1",
+      "date": "2026-10-15T09:17:14+00:00"
+    },
+    {
+      "title": "Kerno 1.0 – AI Back End Runtime QA Engineer",
+      "summary": "Article URL: https://kerno.io/blog/kerno-v1/ Comments URL: https://news.ycombinator.com/item?id=50100881 Points: 2 # Comments: 0",
+      "url": "https://kerno.io/blog/kerno-v1/",
+      "image": "https://kerno.io/blog/images/kerno-v1/cover.png",
+      "date": "2026-10-15T08:31:15+00:00"
+    },
+    {
+      "title": "REA – I tested AI agent reverse engineering",
+      "summary": "Article URL: https://korben.info/en/rea-ai-agent-reverse-engineering-test.html Comments URL: https://news.ycombinator.com/item?id=50100843 Points: 2 # Comments: 0",
+      "url": "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
+      "image": "",
+      "date": "2026-10-15T08:27:13+00:00"
+    }
+  ]
 }
