@@ -1,4 +1,96 @@
 {
-  "generated_at": "2026-10-19T13:04:23.188893+00:00",
-  "items": []
+  "generated_at": "2026-10-20T11:29:57.118810+00:00",
+  "items": [
+    {
+      "title": "AI debt worries spark surge in default insurance trading",
+      "summary": "Article URL: https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5 Comments URL: https://news.ycombinator.com/item?id=50164628 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5",
+      "image": "",
+      "date": "2026-10-20T11:26:27+00:00"
+    },
+    {
+      "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080 Comments URL: https://news.ycombinator.com/item?id=50164424 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+      "image": "",
+      "date": "2026-10-20T11:06:15+00:00"
+    },
+    {
+      "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
+      "summary": "Article URL: https://arxiv.org/abs/2609.19644 Comments URL: https://news.ycombinator.com/item?id=50164403 Points: 3 # Comments: 0",
+      "url": "https://arxiv.org/abs/2609.19644",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-10-20T11:04:02+00:00"
+    },
+    {
+      "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer",
+      "summary": "Article URL: https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai Comments URL: https://news.ycombinator.com/item?id=50164120 Points: 3 # Comments: 0",
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+      "image": "https://assets.aboutamazon.com/8a/19/8a5b8b1542a18aea511b89378867/aws-torchneuron-terminal-inline.gif",
+      "date": "2026-10-20T10:38:07+00:00"
+    },
+    {
+      "title": "How to save money on tokens for your AI agents",
+      "summary": "Article URL: https://terraphim.ai/posts/save-money-tokens-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50163942 Points: 1 # Comments: 0",
+      "url": "https://terraphim.ai/posts/save-money-tokens-ai-agents/",
+      "image": "https://terraphim.ai/images/terraphim_logo.png",
+      "date": "2026-10-20T10:24:13+00:00"
+    },
+    {
+      "title": "Study: New AI tool can predict cancer survival by a single patient selfie",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50163691 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "image": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d3a0fd408476c79d9c0e98ffa27a054",
+      "date": "2026-10-20T10:01:28+00:00"
+    },
+    {
+      "title": "Stateless Agents: How to make AI work for teams",
+      "summary": "Article URL: https://busabase.com/blog/how-to-make-ai-work-for-teams Comments URL: https://news.ycombinator.com/item?id=50163588 Points: 1 # Comments: 0",
+      "url": "https://busabase.com/blog/how-to-make-ai-work-for-teams",
+      "image": "https://s1.busabase.com/attachments/cHEfVIklx0ASY7gZ6iJhU7wCONhhfJNb/blobs/sha256/7f/7fda66fb2039b63050e0b75937e6c68085d9d8fa565f4c9fd35b0f439d2e50a4.png",
+      "date": "2026-10-20T09:49:33+00:00"
+    },
+    {
+      "title": "AI slop is a human problem",
+      "summary": "Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 1",
+      "url": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
+      "image": "https://nishanth.blog/icon-512.png",
+      "date": "2026-10-20T09:38:19+00:00"
+    },
+    {
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "summary": "Article URL: https://chatgpt2notion.com/products/aiexporthub-hero/ Comments URL: https://news.ycombinator.com/item?id=50163035 Points: 1 # Comments: 0",
+      "url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+      "image": "https://img.chatgpt2notion.com/products/aiexporthub-hero/2026-09-30/aiexporthub-producthunt-banner-2026-09-30.png",
+      "date": "2026-10-20T08:39:04+00:00"
+    },
+    {
+      "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
+      "summary": "Article URL: https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/ Comments URL: https://news.ycombinator.com/item?id=50162912 Points: 2 # Comments: 0",
+      "url": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
+      "image": "https://gil-neto.com/og-image.png",
+      "date": "2026-10-20T08:24:35+00:00"
+    },
+    {
+      "title": "Reducing the cognitive load of AI changes",
+      "summary": "Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=50162767 Points: 1 # Comments: 1",
+      "url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "image": "",
+      "date": "2026-10-20T08:05:13+00:00"
+    },
+    {
+      "title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "summary": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0",
+      "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "image": "https://deepsense.ai/wp-content/smush-webp/2026/10/AI-Evaluation-Pipeline_-Pass-or-Fail.png.webp",
+      "date": "2026-10-20T07:45:13+00:00"
+    },
+    {
+      "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ca7ufSI1Qxg Comments URL: https://news.ycombinator.com/item?id=50162633 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
+      "image": "",
+      "date": "2026-10-20T07:45:05+00:00"
+    }
+  ]
 }
