@@ -1,96 +1,89 @@
 {
-  "generated_at": "2026-10-20T11:29:57.118810+00:00",
+  "generated_at": "2026-10-21T11:42:04.011125+00:00",
   "items": [
     {
-      "title": "AI debt worries spark surge in default insurance trading",
-      "summary": "Article URL: https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5 Comments URL: https://news.ycombinator.com/item?id=50164628 Points: 1 # Comments: 0",
-      "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5",
+      "title": "The Unneeded – A book about why AI job losses will come all at once",
+      "summary": "Article URL: https://zenodo.org/records/23489856 Comments URL: https://news.ycombinator.com/item?id=50179256 Points: 1 # Comments: 0",
+      "url": "https://zenodo.org/records/23489856",
       "image": "",
-      "date": "2026-10-20T11:26:27+00:00"
+      "date": "2026-10-21T11:41:30+00:00"
     },
     {
-      "title": "Bill Gross's AI Tool Could Supercharge the Number of Startups",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080 Comments URL: https://news.ycombinator.com/item?id=50164424 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080",
+      "title": "Chinese AI Tool Linked to Hacks in Japan",
+      "summary": "Article URL: https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b Comments URL: https://news.ycombinator.com/item?id=50179112 Points: 3 # Comments: 1",
+      "url": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b",
       "image": "",
-      "date": "2026-10-20T11:06:15+00:00"
+      "date": "2026-10-21T11:28:16+00:00"
     },
     {
-      "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
-      "summary": "Article URL: https://arxiv.org/abs/2609.19644 Comments URL: https://news.ycombinator.com/item?id=50164403 Points: 3 # Comments: 0",
-      "url": "https://arxiv.org/abs/2609.19644",
-      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "date": "2026-10-20T11:04:02+00:00"
+      "title": "Artificial Analysis Decision Index v1.0",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-decision-index Comments URL: https://news.ycombinator.com/item?id=50179104 Points: 2 # Comments: 0",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-decision-index",
+      "image": "https://artificialanalysiscdn.com/article-assets/2026/artificial-analysis-decision-index.jpg",
+      "date": "2026-10-21T11:27:29+00:00"
     },
     {
-      "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer",
-      "summary": "Article URL: https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai Comments URL: https://news.ycombinator.com/item?id=50164120 Points: 3 # Comments: 0",
-      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
-      "image": "https://assets.aboutamazon.com/8a/19/8a5b8b1542a18aea511b89378867/aws-torchneuron-terminal-inline.gif",
-      "date": "2026-10-20T10:38:07+00:00"
+      "title": "Protecting Cockroach Labs' Source Code in the Age of AI",
+      "summary": "Article URL: https://www.cockroachlabs.com/blog/source-code-protection/ Comments URL: https://news.ycombinator.com/item?id=50178883 Points: 1 # Comments: 0",
+      "url": "https://www.cockroachlabs.com/blog/source-code-protection/",
+      "image": "https://images.ctfassets.net/00voh0j35590/6nk8gTUYIBQOulQ7wTJp8t/0010d313c8bddb7cca616aeee25413bf/Blog_1920x1080__2_.png",
+      "date": "2026-10-21T11:03:35+00:00"
     },
     {
-      "title": "How to save money on tokens for your AI agents",
-      "summary": "Article URL: https://terraphim.ai/posts/save-money-tokens-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50163942 Points: 1 # Comments: 0",
-      "url": "https://terraphim.ai/posts/save-money-tokens-ai-agents/",
-      "image": "https://terraphim.ai/images/terraphim_logo.png",
-      "date": "2026-10-20T10:24:13+00:00"
-    },
-    {
-      "title": "Study: New AI tool can predict cancer survival by a single patient selfie",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50163691 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "image": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d3a0fd408476c79d9c0e98ffa27a054",
-      "date": "2026-10-20T10:01:28+00:00"
-    },
-    {
-      "title": "Stateless Agents: How to make AI work for teams",
-      "summary": "Article URL: https://busabase.com/blog/how-to-make-ai-work-for-teams Comments URL: https://news.ycombinator.com/item?id=50163588 Points: 1 # Comments: 0",
-      "url": "https://busabase.com/blog/how-to-make-ai-work-for-teams",
-      "image": "https://s1.busabase.com/attachments/cHEfVIklx0ASY7gZ6iJhU7wCONhhfJNb/blobs/sha256/7f/7fda66fb2039b63050e0b75937e6c68085d9d8fa565f4c9fd35b0f439d2e50a4.png",
-      "date": "2026-10-20T09:49:33+00:00"
-    },
-    {
-      "title": "AI slop is a human problem",
-      "summary": "Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 1",
-      "url": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
-      "image": "https://nishanth.blog/icon-512.png",
-      "date": "2026-10-20T09:38:19+00:00"
-    },
-    {
-      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
-      "summary": "Article URL: https://chatgpt2notion.com/products/aiexporthub-hero/ Comments URL: https://news.ycombinator.com/item?id=50163035 Points: 1 # Comments: 0",
-      "url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
-      "image": "https://img.chatgpt2notion.com/products/aiexporthub-hero/2026-09-30/aiexporthub-producthunt-banner-2026-09-30.png",
-      "date": "2026-10-20T08:39:04+00:00"
-    },
-    {
-      "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
-      "summary": "Article URL: https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/ Comments URL: https://news.ycombinator.com/item?id=50162912 Points: 2 # Comments: 0",
-      "url": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
-      "image": "https://gil-neto.com/og-image.png",
-      "date": "2026-10-20T08:24:35+00:00"
-    },
-    {
-      "title": "Reducing the cognitive load of AI changes",
-      "summary": "Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=50162767 Points: 1 # Comments: 1",
-      "url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "title": "What's left for us after AI? China's thinkers have different answers",
+      "summary": "Article URL: https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas Comments URL: https://news.ycombinator.com/item?id=50178773 Points: 4 # Comments: 0",
+      "url": "https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas",
       "image": "",
-      "date": "2026-10-20T08:05:13+00:00"
+      "date": "2026-10-21T10:49:39+00:00"
     },
     {
-      "title": "Show HN: A practical framework for evaluating agentic AI systems",
-      "summary": "Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0",
-      "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
-      "image": "https://deepsense.ai/wp-content/smush-webp/2026/10/AI-Evaluation-Pipeline_-Pass-or-Fail.png.webp",
-      "date": "2026-10-20T07:45:13+00:00"
+      "title": "HGATE – Human-Guided AI-Assisted Traceable Engineering",
+      "summary": "Article URL: https://mali-tintash.github.io/hgate/ Comments URL: https://news.ycombinator.com/item?id=50178696 Points: 1 # Comments: 0",
+      "url": "https://mali-tintash.github.io/hgate/",
+      "image": "https://hgate.org/og-image.png",
+      "date": "2026-10-21T10:40:05+00:00"
     },
     {
-      "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ca7ufSI1Qxg Comments URL: https://news.ycombinator.com/item?id=50162633 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
-      "image": "",
-      "date": "2026-10-20T07:45:05+00:00"
+      "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+      "summary": "Article URL: https://squidbrake.com/benchmark Comments URL: https://news.ycombinator.com/item?id=50178546 Points: 1 # Comments: 0",
+      "url": "https://squidbrake.com/benchmark",
+      "image": "https://squidbrake.com/assets/og.png",
+      "date": "2026-10-21T10:23:05+00:00"
+    },
+    {
+      "title": "So yeah it was written using AI",
+      "summary": "Article URL: https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50177979 Points: 1 # Comments: 0",
+      "url": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
+      "image": "https://berthub.eu/articles/andrej-lisakov-Dw1HCwdoXmw-unsplash.jpg",
+      "date": "2026-10-21T09:20:27+00:00"
+    },
+    {
+      "title": "Poketrade.ai: I got tired of using five Pokémon apps, so I built one",
+      "summary": "Article URL: https://poketrade.ai/news/introducing-poketrade Comments URL: https://news.ycombinator.com/item?id=50177470 Points: 2 # Comments: 0",
+      "url": "https://poketrade.ai/news/introducing-poketrade",
+      "image": "https://poketrade.ai/news/introducing-poketrade/cover.webp",
+      "date": "2026-10-21T08:04:01+00:00"
+    },
+    {
+      "title": "AI Slowdown, What Slowdown?",
+      "summary": "Article URL: https://13trillionparameters.com/comics/003-the-slowdown Comments URL: https://news.ycombinator.com/item?id=50177327 Points: 2 # Comments: 1",
+      "url": "https://13trillionparameters.com/comics/003-the-slowdown",
+      "image": "https://13trillionparameters.com/assets/og-comic-003.jpg",
+      "date": "2026-10-21T07:43:19+00:00"
+    },
+    {
+      "title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/ai-code-cleanup/ Comments URL: https://news.ycombinator.com/item?id=50177259 Points: 2 # Comments: 0",
+      "url": "https://www.uber.com/us/en/blog/ai-code-cleanup/",
+      "image": "https://tb-static.uber.com/prod/udam-assets/242cc277-6b55-442f-9b89-d0b9262b156d.png",
+      "date": "2026-10-21T07:33:29+00:00"
+    },
+    {
+      "title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "summary": "Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt Comments URL: https://news.ycombinator.com/item?id=50177239 Points: 4 # Comments: 0",
+      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
+      "image": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/10/07/Ferguson_etal.jpg?itok=0lWZI0XD",
+      "date": "2026-10-21T07:30:56+00:00"
     }
   ]
 }
