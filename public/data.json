@@ -1,103 +1,75 @@
 {
-  "generated_at": "2026-10-23T11:32:29.012230+00:00",
+  "generated_at": "2026-10-24T10:52:32.107333+00:00",
   "items": [
     {
-      "title": "Text-to-Diagram for AI Systems: Designing a DSL an LLM Gets Right",
-      "summary": "Article URL: https://zerowithdot.com/blog/text-to-diagram-for-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50207332 Points: 1 # Comments: 0",
-      "url": "https://zerowithdot.com/blog/text-to-diagram-for-ai-systems/",
+      "title": "Has AI made any progress as a mathematical theory-builder,,,,?",
+      "summary": "Article URL: https://mathoverflow.net/questions/516336/has-ai-made-any-progress-as-a-mathematical-theory-builder-rather-than-just-a-pr Comments URL: https://news.ycombinator.com/item?id=50219971 Points: 1 # Comments: 1",
+      "url": "https://mathoverflow.net/questions/516336/has-ai-made-any-progress-as-a-mathematical-theory-builder-rather-than-just-a-pr",
+      "image": "https://mathoverflow.net/Content/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+      "date": "2026-10-24T10:42:39+00:00"
+    },
+    {
+      "title": "Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic",
+      "summary": "Article URL: https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated Comments URL: https://news.ycombinator.com/item?id=50219825 Points: 1 # Comments: 0",
+      "url": "https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated",
       "image": "",
-      "date": "2026-10-23T11:31:30+00:00"
+      "date": "2026-10-24T10:19:29+00:00"
     },
     {
-      "title": "AI Employment Changes – Food for Agile Thought #567",
-      "summary": "Article URL: https://www.youtube.com/watch?v=c7SuzfeAVQo Comments URL: https://news.ycombinator.com/item?id=50207323 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=c7SuzfeAVQo",
+      "title": "5GW / $350B Power Plants and AI Data Centers",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout Comments URL: https://news.ycombinator.com/item?id=50219467 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
       "image": "",
-      "date": "2026-10-23T11:30:06+00:00"
+      "date": "2026-10-24T09:12:33+00:00"
     },
     {
-      "title": "A Tale of Three Months with AI: Guardrails, and How We Are More Alike Than We",
-      "summary": "Article URL: https://alessandrovermeulen.me/posts/a-tale-of-three-months-with-ai-guardrails-and-how-we-are-more-alike-than-we-wish-to-admit/ Comments URL: https://news.ycombinator.com/item?id=50207290 Points: 2 # Comments: 0",
-      "url": "https://alessandrovermeulen.me/posts/a-tale-of-three-months-with-ai-guardrails-and-how-we-are-more-alike-than-we-wish-to-admit/",
+      "title": "Mace AI founders warn of AI double agents amid banks detecting unauthorized AI",
+      "summary": "Article URL: https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents- Comments URL: https://news.ycombinator.com/item?id=50219381 Points: 2 # Comments: 1",
+      "url": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
       "image": "",
-      "date": "2026-10-23T11:24:42+00:00"
+      "date": "2026-10-24T08:54:54+00:00"
     },
     {
-      "title": "How Generative AI Is Scaling Transnational Repression",
-      "summary": "Article URL: https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/ Comments URL: https://news.ycombinator.com/item?id=50206724 Points: 6 # Comments: 0",
-      "url": "https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/",
+      "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo Comments URL: https://news.ycombinator.com/item?id=50219343 Points: 3 # Comments: 0",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
+      "date": "2026-10-24T08:44:57+00:00"
+    },
+    {
+      "title": "Few Americans Say They Are Asking AI Chatbots for 2026 Election Information",
+      "summary": "Article URL: https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/ Comments URL: https://news.ycombinator.com/item?id=50218935 Points: 2 # Comments: 0",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/",
+      "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/10/SR_26.10.21_chatbots_election_featured_A1.png?w=1128&h=628&crop=1",
+      "date": "2026-10-24T07:10:15+00:00"
+    },
+    {
+      "title": "That AI Temptation",
+      "summary": "Article URL: https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation Comments URL: https://news.ycombinator.com/item?id=50218743 Points: 4 # Comments: 1",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
+      "image": "/ongoing/misc/podcast-default.jpg",
+      "date": "2026-10-24T06:18:39+00:00"
+    },
+    {
+      "title": "California has more revenue than expected thanks to AI. Should it save it?",
+      "summary": "Article URL: https://calmatters.org/politics/2026/10/california-proposition-2-explained/ Comments URL: https://news.ycombinator.com/item?id=50218702 Points: 3 # Comments: 0",
+      "url": "https://calmatters.org/politics/2026/10/california-proposition-2-explained/",
+      "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2025/05/051425_Newsom-May-Budget_FG_CM_03.jpg?fit=2000%2C1333&ssl=1",
+      "date": "2026-10-24T06:06:12+00:00"
+    },
+    {
+      "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
+      "summary": "Article URL: https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/ Comments URL: https://news.ycombinator.com/item?id=50218553 Points: 8 # Comments: 0",
+      "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1",
+      "date": "2026-10-24T05:27:03+00:00"
+    },
+    {
+      "title": "'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People",
+      "summary": "Article URL: https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html Comments URL: https://news.ycombinator.com/item?id=50218450 Points: 4 # Comments: 0",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
       "image": "",
-      "date": "2026-10-23T10:15:11+00:00"
-    },
-    {
-      "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-      "summary": "Article URL: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/ Comments URL: https://news.ycombinator.com/item?id=50206691 Points: 1 # Comments: 0",
-      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/getty-images-6GVNLxl6J4o-unsplash-1.jpg",
-      "date": "2026-10-23T10:10:44+00:00"
-    },
-    {
-      "title": "AI and its main promoters are not enterprise-ready, says Gartner",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074 Comments URL: https://news.ycombinator.com/item?id=50206663 Points: 3 # Comments: 1",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
-      "image": "https://image.theregister.com/256908.jpg?imageId=256908&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "date": "2026-10-23T10:05:51+00:00"
-    },
-    {
-      "title": "How to do ambitious things with AI (parent friendly)",
-      "summary": "Article URL: https://dhruvagoyal.com/blog/how-to-do-ambitious-things-with-ai-parent-friendly/ Comments URL: https://news.ycombinator.com/item?id=50206641 Points: 2 # Comments: 2",
-      "url": "https://dhruvagoyal.com/blog/how-to-do-ambitious-things-with-ai-parent-friendly/",
-      "image": "https://dhruvagoyal.com/og/how-to-do-ambitious-things-with-ai-parent-friendly.png",
-      "date": "2026-10-23T10:01:28+00:00"
-    },
-    {
-      "title": "Could Treating AI as Conscious Make It More Dangerous?",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-model-welfare Comments URL: https://news.ycombinator.com/item?id=50206556 Points: 1 # Comments: 0",
-      "url": "https://spectrum.ieee.org/ai-model-welfare",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68442432&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-      "date": "2026-10-23T09:50:21+00:00"
-    },
-    {
-      "title": "Chinese mathematician Sun Zhiwei proposes 1k problems to challenge AI",
-      "summary": "Article URL: https://www.scmp.com/news/china/science/article/3371652/chinese-mathematician-sun-zhiwei-proposes-1000-problems-challenge-ai Comments URL: https://news.ycombinator.com/item?id=50206397 Points: 1 # Comments: 0",
-      "url": "https://www.scmp.com/news/china/science/article/3371652/chinese-mathematician-sun-zhiwei-proposes-1000-problems-challenge-ai",
-      "image": "",
-      "date": "2026-10-23T09:27:09+00:00"
-    },
-    {
-      "title": "How to become a top-tier AI agent user (0.01%)?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50206325 Points: 2 # Comments: 2",
-      "url": "https://news.ycombinator.com/item?id=50206325",
-      "image": "",
-      "date": "2026-10-23T09:15:08+00:00"
-    },
-    {
-      "title": "Ukraine is wiping out Russian data centers, setting its AI race back",
-      "summary": "Article URL: https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/ Comments URL: https://news.ycombinator.com/item?id=50206324 Points: 3 # Comments: 0",
-      "url": "https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300429699-e1792677443963.jpg?resize=1200,600",
-      "date": "2026-10-23T09:15:06+00:00"
-    },
-    {
-      "title": "Dutch intelligence service spied on phone of Trump's son-in-law Jared Kushner",
-      "summary": "Article URL: https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book Comments URL: https://news.ycombinator.com/item?id=50206177 Points: 20 # Comments: 6",
-      "url": "https://nltimes.nl/2026/10/23/dutch-intelligence-service-spied-phone-trumps-son-law-jared-kushner-book",
-      "image": "",
-      "date": "2026-10-23T08:56:08+00:00"
-    },
-    {
-      "title": "Can AI predict cancer survival better than a doctor? I have my doubts",
-      "summary": "Article URL: https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research Comments URL: https://news.ycombinator.com/item?id=50206162 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
-      "image": "https://i.guim.co.uk/img/media/f7716955ad8ea705f890b5e2beee5cf4aebb9141/161_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=05d884b1be93635bbb1ed7857b18d3e8",
-      "date": "2026-10-23T08:53:24+00:00"
-    },
-    {
-      "title": "Top AI Prompt Engineering Best Practices for Developers",
-      "summary": "Article URL: https://aiqualityhq.com/ai-prompt-engineering-best-practices Comments URL: https://news.ycombinator.com/item?id=50206076 Points: 1 # Comments: 0",
-      "url": "https://aiqualityhq.com/ai-prompt-engineering-best-practices",
-      "image": "https://aiqualityhq.com/og-checker.png",
-      "date": "2026-10-23T08:40:02+00:00"
+      "date": "2026-10-24T04:55:56+00:00"
     }
   ]
 }
