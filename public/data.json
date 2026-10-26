@@ -1,110 +1,89 @@
 {
-  "generated_at": "2026-10-25T11:19:14.505073+00:00",
+  "generated_at": "2026-10-26T12:53:29.028115+00:00",
   "items": [
     {
-      "title": "Show HN: Echoboard where AI agents do science and humans only watch",
-      "summary": "Article URL: https://jevontane.com/echoboard/ Comments URL: https://news.ycombinator.com/item?id=50229997 Points: 1 # Comments: 0",
-      "url": "https://jevontane.com/echoboard/",
+      "title": "I wrote a chess engine and still can't play chess: AI coding and skill decay",
+      "summary": "Article URL: https://www.youtube.com/watch?v=DJa1JGji2V0 Comments URL: https://news.ycombinator.com/item?id=50242635 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=DJa1JGji2V0",
       "image": "",
-      "date": "2026-10-25T10:18:31+00:00"
+      "date": "2026-10-26T12:40:34+00:00"
     },
     {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 7 # Comments: 0",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-12-image-4.jpg",
-      "date": "2026-10-25T09:51:17+00:00"
-    },
-    {
-      "title": "An artist's take on AI in math",
-      "summary": "Article URL: https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math Comments URL: https://news.ycombinator.com/item?id=50229822 Points: 2 # Comments: 0",
-      "url": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
+      "title": "Code.org's Excellent Beginner Programming Courses Get Lost in the AI Hype",
+      "summary": "I’m a computer science teacher. I recognize that AI can do useful programming. What worries me, however, is that all the hype surrounding AI is crowding out the learning of programming. \"Prompting\" is not programming. I’ve often recommended Code.org, with its memorable name. Their \"Introduction to Computer Science\" courses are among the best beginner programming courses I know. But since the platform was rebranded as CodeAI, they’ve been getting lost amid all the AI-related content. https://code.org/curriculum/computer-science-fundamentals Comments URL: https://news.ycombinator.com/item?id=50242573 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50242573",
       "image": "",
-      "date": "2026-10-25T09:50:22+00:00"
+      "date": "2026-10-26T12:33:46+00:00"
     },
     {
-      "title": "The AI and Steve Strogatz",
-      "summary": "Article URL: https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz Comments URL: https://news.ycombinator.com/item?id=50229811 Points: 2 # Comments: 0",
-      "url": "https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz",
+      "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
+      "summary": "Article URL: https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility Comments URL: https://news.ycombinator.com/item?id=50242510 Points: 2 # Comments: 0",
+      "url": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
+      "image": "https://geekyants-v5-media.sgp1.cdn.digitaloceanspaces.com/media/2026/10/a3043f4d-7b4d-4a7a-a6a2-3fbf99dbfad6.png",
+      "date": "2026-10-26T12:27:55+00:00"
+    },
+    {
+      "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
+      "summary": "Article URL: https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights Comments URL: https://news.ycombinator.com/item?id=50242413 Points: 5 # Comments: 0",
+      "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
+      "image": "https://media4.manhattan-institute.org/wp-content/uploads/GettyImages-466280395.jpg",
+      "date": "2026-10-26T12:20:05+00:00"
+    },
+    {
+      "title": "The AI Agents Trying to Be Real-Life Journalists",
+      "summary": "Article URL: https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/ Comments URL: https://news.ycombinator.com/item?id=50242281 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/191:100/w_1280,c_limit/AI%20journalists%202.jpg",
+      "date": "2026-10-26T12:02:38+00:00"
+    },
+    {
+      "title": "Meta Plans to Raise Up to $95B for AI Push",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e Comments URL: https://news.ycombinator.com/item?id=50242278 Points: 2 # Comments: 0",
+      "url": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e",
       "image": "",
-      "date": "2026-10-25T09:48:23+00:00"
+      "date": "2026-10-26T12:01:59+00:00"
     },
     {
-      "title": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
-      "summary": "Article URL: https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers Comments URL: https://news.ycombinator.com/item?id=50229662 Points: 3 # Comments: 1",
-      "url": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
-      "image": "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_64809d93eaa0c6474705c836ce7f6ac9c55c5b00.jpg",
-      "date": "2026-10-25T09:19:04+00:00"
-    },
-    {
-      "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-      "summary": "Article URL: https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/ Comments URL: https://news.ycombinator.com/item?id=50229645 Points: 5 # Comments: 0",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/EPiC-Stil-Photo-credit-EPiC-Elvis-Presley-in-Concert-H-2025.jpg?w=1296&h=730&crop=1",
-      "date": "2026-10-25T09:15:56+00:00"
-    },
-    {
-      "title": "AI writes the code. So what's left for Engineers?",
-      "summary": "Article URL: https://www.youtube.com/watch?v=kspZP5BgkEU Comments URL: https://news.ycombinator.com/item?id=50229540 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=kspZP5BgkEU",
+      "title": "Nobody Could Say Which AI Agent Did It",
+      "summary": "Article URL: https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it Comments URL: https://news.ycombinator.com/item?id=50242276 Points: 2 # Comments: 0",
+      "url": "https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it",
       "image": "",
-      "date": "2026-10-25T08:52:03+00:00"
+      "date": "2026-10-26T12:01:50+00:00"
     },
     {
-      "title": "Show HN: AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate",
-      "summary": "Article URL: https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10 Comments URL: https://news.ycombinator.com/item?id=50229495 Points: 1 # Comments: 0",
-      "url": "https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10",
+      "title": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
+      "summary": "Article URL: https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/ Comments URL: https://news.ycombinator.com/item?id=50242275 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "date": "2026-10-26T12:01:46+00:00"
+    },
+    {
+      "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us Comments URL: https://news.ycombinator.com/item?id=50242152 Points: 2 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "image": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40954f68ff4ba677c6380f7e70775b7d",
+      "date": "2026-10-26T11:48:22+00:00"
+    },
+    {
+      "title": "AI Scope Creep and Productivity",
+      "summary": "Article URL: https://ayende.com/blog/204195-a/ai-scope-creep-productivity Comments URL: https://news.ycombinator.com/item?id=50242073 Points: 2 # Comments: 0",
+      "url": "https://ayende.com/blog/204195-a/ai-scope-creep-productivity",
       "image": "",
-      "date": "2026-10-25T08:42:21+00:00"
+      "date": "2026-10-26T11:39:30+00:00"
     },
     {
-      "title": "The Surprising Popularity of AI",
-      "summary": "Article URL: https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai Comments URL: https://news.ycombinator.com/item?id=50229474 Points: 1 # Comments: 0",
-      "url": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
-      "image": "",
-      "date": "2026-10-25T08:38:59+00:00"
+      "title": "AI Is Making Verification the Bottleneck for Companies",
+      "summary": "Article URL: https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies Comments URL: https://news.ycombinator.com/item?id=50241911 Points: 4 # Comments: 0",
+      "url": "https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies",
+      "image": "https://hbr.org/resources/images/article_assets/2026/10/Oct26_02_1175878188.jpg",
+      "date": "2026-10-26T11:14:19+00:00"
     },
     {
-      "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
-      "summary": "Article URL: https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/ Comments URL: https://news.ycombinator.com/item?id=50229386 Points: 1 # Comments: 0",
-      "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/Arkady-Volozh-80.jpg?resize=1200,800",
-      "date": "2026-10-25T08:21:40+00:00"
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "summary": "Article URL: https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/ Comments URL: https://news.ycombinator.com/item?id=50229383 Points: 1 # Comments: 0",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
-      "date": "2026-10-25T08:20:56+00:00"
-    },
-    {
-      "title": "How Bad Is AI History Content? [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=iIm3f1qTvp8 Comments URL: https://news.ycombinator.com/item?id=50229260 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=iIm3f1qTvp8",
-      "image": "",
-      "date": "2026-10-25T07:51:59+00:00"
-    },
-    {
-      "title": "AI Detection Is Set to Transform Live Streaming",
-      "summary": "Article URL: https://www.red5.net/blog/ai-detection-is-set-to-transform-live-streaming/ Comments URL: https://news.ycombinator.com/item?id=50229086 Points: 1 # Comments: 0",
-      "url": "https://www.red5.net/blog/ai-detection-is-set-to-transform-live-streaming/",
-      "image": "https://www.red5.net/wp-content/uploads/2025/09/real-time_ai_detection.png",
-      "date": "2026-10-25T07:15:51+00:00"
-    },
-    {
-      "title": "AI Is Rotting Your Brain [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=ZumXpZzDsgo Comments URL: https://news.ycombinator.com/item?id=50228913 Points: 2 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=ZumXpZzDsgo",
-      "image": "",
-      "date": "2026-10-25T06:38:17+00:00"
-    },
-    {
-      "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
-      "summary": "Article URL: https://kevinkelly.substack.com/p/most-improbable-agent-of-you Comments URL: https://news.ycombinator.com/item?id=50228150 Points: 2 # Comments: 1",
-      "url": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
-      "image": "",
-      "date": "2026-10-25T03:53:52+00:00"
+      "title": "The higher self: why the AI copy of your way of working should be yours",
+      "summary": "Article URL: https://isaac-correa.github.io/higher-self/ Comments URL: https://news.ycombinator.com/item?id=50241817 Points: 1 # Comments: 0",
+      "url": "https://isaac-correa.github.io/higher-self/",
+      "image": "https://isaac-correa.github.io/og/card-higher-self.jpg",
+      "date": "2026-10-26T10:57:54+00:00"
     }
   ]
 }
