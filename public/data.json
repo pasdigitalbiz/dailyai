@@ -1,89 +1,103 @@
 {
-  "generated_at": "2026-10-26T12:53:29.028115+00:00",
+  "generated_at": "2026-10-27T12:04:21.501868+00:00",
   "items": [
     {
-      "title": "I wrote a chess engine and still can't play chess: AI coding and skill decay",
-      "summary": "Article URL: https://www.youtube.com/watch?v=DJa1JGji2V0 Comments URL: https://news.ycombinator.com/item?id=50242635 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=DJa1JGji2V0",
+      "title": "Show HN: AI Compute Footprint (energy, space, water and CO2)",
+      "summary": "I made AI Compute Footprint to get an understanding how big the energy, space, water + CO₂ footprint of data centres running everyday AI tasks is, and how it compares with other everyday activities. I have a feel for how long a query takes when it runs on a local model on my laptop but I wanted to understand if we are all running these queries concurrently in the cloud, how much compute is that, how many GPUs, how much land. All the sources, confidence ranges and assumptions are listed (for inference only) and included on GitHub. Feedback, corrections, collaboration is really welcome! Comments URL: https://news.ycombinator.com/item?id=50257879 Points: 1 # Comments: 0",
+      "url": "https://heyyeah.github.io/AI_Compute_Footprint/",
+      "image": "https://heyyeah.github.io/AI_Compute_Footprint/assets/og.png?v=2",
+      "date": "2026-10-27T12:04:10+00:00"
+    },
+    {
+      "title": "Solid-state transformers could help power the AI boom",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/ Comments URL: https://news.ycombinator.com/item?id=50257867 Points: 1 # Comments: 0",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_digitaltransformers.jpg?resize=1200,600",
+      "date": "2026-10-27T12:02:37+00:00"
+    },
+    {
+      "title": "Officially corrected errors persist in AI training data",
+      "summary": "Article URL: https://zenodo.org/records/23642239 Comments URL: https://news.ycombinator.com/item?id=50257850 Points: 2 # Comments: 0",
+      "url": "https://zenodo.org/records/23642239",
       "image": "",
-      "date": "2026-10-26T12:40:34+00:00"
+      "date": "2026-10-27T12:01:45+00:00"
     },
     {
-      "title": "Code.org's Excellent Beginner Programming Courses Get Lost in the AI Hype",
-      "summary": "I’m a computer science teacher. I recognize that AI can do useful programming. What worries me, however, is that all the hype surrounding AI is crowding out the learning of programming. \"Prompting\" is not programming. I’ve often recommended Code.org, with its memorable name. Their \"Introduction to Computer Science\" courses are among the best beginner programming courses I know. But since the platform was rebranded as CodeAI, they’ve been getting lost amid all the AI-related content. https://code.org/curriculum/computer-science-fundamentals Comments URL: https://news.ycombinator.com/item?id=50242573 Points: 2 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50242573",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Article URL: https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/ Comments URL: https://news.ycombinator.com/item?id=50257841 Points: 1 # Comments: 0",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png",
+      "date": "2026-10-27T12:00:37+00:00"
+    },
+    {
+      "title": "Open AI vs. frontier models: the hidden cost of your data (2026)",
+      "summary": "Article URL: https://lucasaguiar.xyz/posts/modelos-ia-abertos-vs-fronteira-dados-2026/ Comments URL: https://news.ycombinator.com/item?id=50257839 Points: 2 # Comments: 0",
+      "url": "https://lucasaguiar.xyz/posts/modelos-ia-abertos-vs-fronteira-dados-2026/",
       "image": "",
-      "date": "2026-10-26T12:33:46+00:00"
+      "date": "2026-10-27T12:00:23+00:00"
     },
     {
-      "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
-      "summary": "Article URL: https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility Comments URL: https://news.ycombinator.com/item?id=50242510 Points: 2 # Comments: 0",
-      "url": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
-      "image": "https://geekyants-v5-media.sgp1.cdn.digitaloceanspaces.com/media/2026/10/a3043f4d-7b4d-4a7a-a6a2-3fbf99dbfad6.png",
-      "date": "2026-10-26T12:27:55+00:00"
+      "title": "Dockerless Serverless GPUs: How I Built a Fast, Cheap AI SaaS with RunPod Flash",
+      "summary": "Article URL: https://codingcat.dev/post/dockerless-serverless-gpus-fast-cheap-ai-saas-with-runpod-flash Comments URL: https://news.ycombinator.com/item?id=50257763 Points: 1 # Comments: 0",
+      "url": "https://codingcat.dev/post/dockerless-serverless-gpus-fast-cheap-ai-saas-with-runpod-flash",
+      "image": "https://codingcat.dev/api/og/blog.png?title=Dockerless+Serverless+GPUs%3A+How+I+Built+a+Fast%2C+Cheap+AI+SaaS+with+RunPod+Flash&author=Alex+Patterson&subtitle=Hosted+image+APIs+cost+3+to+4+cents+per+generation.+Using+RunPod+Flash+for+dockerless+serverless+GPUs%2C+FlashFun.dev+drops+that+to+a+fraction+of+a+cent%2C+turning+%241+into+500+to+3%2C000+images.+Here+is+the+full+architecture%2C+the+benchmarks%2C+and+the+code.&image=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fhfh83o0w%2Fproduction%2F78383c8986667bc1eaa504786488d88f212929a8-1280x720.jpg%3Fw%3D640%26h%3D360%26fit%3Dcrop%26auto%3Dformat",
+      "date": "2026-10-27T11:53:21+00:00"
     },
     {
-      "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
-      "summary": "Article URL: https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights Comments URL: https://news.ycombinator.com/item?id=50242413 Points: 5 # Comments: 0",
-      "url": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
-      "image": "https://media4.manhattan-institute.org/wp-content/uploads/GettyImages-466280395.jpg",
-      "date": "2026-10-26T12:20:05+00:00"
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "summary": "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 24 # Comments: 10",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+      "date": "2026-10-27T11:08:15+00:00"
     },
     {
-      "title": "The AI Agents Trying to Be Real-Life Journalists",
-      "summary": "Article URL: https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/ Comments URL: https://news.ycombinator.com/item?id=50242281 Points: 1 # Comments: 0",
+      "title": "AI promised less work. I've never worked more",
+      "summary": "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 2 # Comments: 1",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "image": "https://oioannou.com/img/blog-by-orestis.jpg",
+      "date": "2026-10-27T11:08:14+00:00"
+    },
+    {
+      "title": "Meet The AI Agents Trying to Be Real-Life Journalists",
+      "summary": "Article URL: https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/ Comments URL: https://news.ycombinator.com/item?id=50257178 Points: 1 # Comments: 0",
       "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
       "image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/191:100/w_1280,c_limit/AI%20journalists%202.jpg",
-      "date": "2026-10-26T12:02:38+00:00"
+      "date": "2026-10-27T10:51:36+00:00"
     },
     {
-      "title": "Meta Plans to Raise Up to $95B for AI Push",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e Comments URL: https://news.ycombinator.com/item?id=50242278 Points: 2 # Comments: 0",
-      "url": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e",
+      "title": "Highlighting What Changed: A Go Diff-Mask for AI Agent Screenshots",
+      "summary": "Article URL: https://towardsdev.com/highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots-64551334911a?sk=5efd0778f96236fa3fbefdb52727b5d5 Comments URL: https://news.ycombinator.com/item?id=50257151 Points: 1 # Comments: 0",
+      "url": "https://towardsdev.com/highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots-64551334911a?sk=5efd0778f96236fa3fbefdb52727b5d5",
       "image": "",
-      "date": "2026-10-26T12:01:59+00:00"
+      "date": "2026-10-27T10:48:38+00:00"
     },
     {
-      "title": "Nobody Could Say Which AI Agent Did It",
-      "summary": "Article URL: https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it Comments URL: https://news.ycombinator.com/item?id=50242276 Points: 2 # Comments: 0",
-      "url": "https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it",
+      "title": "Keeping API keys out of our AI agent's sandbox, and what that doesn't solve",
+      "summary": "Article URL: https://askdoozy.com/blog/ai-agent-api-keys-sandbox Comments URL: https://news.ycombinator.com/item?id=50256835 Points: 1 # Comments: 0",
+      "url": "https://askdoozy.com/blog/ai-agent-api-keys-sandbox",
+      "image": "https://askdoozy.com/og/blog/ai-agent-api-keys-sandbox.jpg",
+      "date": "2026-10-27T10:10:25+00:00"
+    },
+    {
+      "title": "I tested 12 small AI models on 2,500 design-system questions",
+      "summary": "Article URL: https://www.designsystemscollective.com/i-tested-12-small-ai-models-on-2-500-design-system-questions-the-model-wasnt-what-mattered-4ef16e69ad64 Comments URL: https://news.ycombinator.com/item?id=50256562 Points: 3 # Comments: 0",
+      "url": "https://www.designsystemscollective.com/i-tested-12-small-ai-models-on-2-500-design-system-questions-the-model-wasnt-what-mattered-4ef16e69ad64",
       "image": "",
-      "date": "2026-10-26T12:01:50+00:00"
+      "date": "2026-10-27T09:34:32+00:00"
     },
     {
-      "title": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
-      "summary": "Article URL: https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/ Comments URL: https://news.ycombinator.com/item?id=50242275 Points: 1 # Comments: 0",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "date": "2026-10-26T12:01:46+00:00"
+      "title": "Putting the Cart Before the AI",
+      "summary": "Article URL: https://blog.tohojo.dk/2025/06/putting-the-cart-before-the-ai.html Comments URL: https://news.ycombinator.com/item?id=50256507 Points: 1 # Comments: 0",
+      "url": "https://blog.tohojo.dk/2025/06/putting-the-cart-before-the-ai.html",
+      "image": "https://blog.tohojo.dk//media/network-logo-large.png",
+      "date": "2026-10-27T09:27:44+00:00"
     },
     {
-      "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us Comments URL: https://news.ycombinator.com/item?id=50242152 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-      "image": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40954f68ff4ba677c6380f7e70775b7d",
-      "date": "2026-10-26T11:48:22+00:00"
-    },
-    {
-      "title": "AI Scope Creep and Productivity",
-      "summary": "Article URL: https://ayende.com/blog/204195-a/ai-scope-creep-productivity Comments URL: https://news.ycombinator.com/item?id=50242073 Points: 2 # Comments: 0",
-      "url": "https://ayende.com/blog/204195-a/ai-scope-creep-productivity",
+      "title": "Ask HN: Can we do something about this impending AI dystopia",
+      "summary": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months. We all agree that an average software developer today is closely resembling the horse-carriage just when automobiles were becoming mainstream around 120 years ago. And coming to HN daily and finding at least one such lament from a software engineer is becoming quite tiresome. We are all, mostly, rational thinkers and worship logic and reasoning even more than our respective gods. With the context built-up enough, I would like to challenge the community to come up with ways to counter this death march that we find ourselves on. We are now, with every passing day, becoming more and more dependent on Agentic Coding. This is bringing the inevitable end to our profession closer at an exponential rate. It seems we are like a drug-addict that knows that soon, one day, the drug would be a likely end of him, yet carries on consuming it. How can we control this? How do we slow down the pace? How do we bring it to a halt? Is there a cold-turkey way out of this? [1] https://news.ycombinator.com/item?id=50230965 https://news.ycombinator.com/item?id=50188865 PS: This a resubmission of my post [https://news.ycombinator.com/item?id=50232407]. It got flagged for some reason. I sent a mail to HN, but didnt get any reply. Comments URL: https://news.ycombinator.com/item?id=50256342 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50256342",
       "image": "",
-      "date": "2026-10-26T11:39:30+00:00"
-    },
-    {
-      "title": "AI Is Making Verification the Bottleneck for Companies",
-      "summary": "Article URL: https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies Comments URL: https://news.ycombinator.com/item?id=50241911 Points: 4 # Comments: 0",
-      "url": "https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies",
-      "image": "https://hbr.org/resources/images/article_assets/2026/10/Oct26_02_1175878188.jpg",
-      "date": "2026-10-26T11:14:19+00:00"
-    },
-    {
-      "title": "The higher self: why the AI copy of your way of working should be yours",
-      "summary": "Article URL: https://isaac-correa.github.io/higher-self/ Comments URL: https://news.ycombinator.com/item?id=50241817 Points: 1 # Comments: 0",
-      "url": "https://isaac-correa.github.io/higher-self/",
-      "image": "https://isaac-correa.github.io/og/card-higher-self.jpg",
-      "date": "2026-10-26T10:57:54+00:00"
+      "date": "2026-10-27T09:05:20+00:00"
     }
   ]
 }
