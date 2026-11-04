@@ -1,4 +1,96 @@
 {
-  "generated_at": "2026-11-03T14:04:50.670856+00:00",
-  "items": []
+  "generated_at": "2026-11-04T14:25:49.676753+00:00",
+  "items": [
+    {
+      "title": "Nvidia Study: AI Agents Rarely Need Long Context Windows",
+      "summary": "Article URL: https://i10x.ai/news/nvidia-long-context-compaction-agents-study Comments URL: https://news.ycombinator.com/item?id=50365865 Points: 1 # Comments: 0",
+      "url": "https://i10x.ai/news/nvidia-long-context-compaction-agents-study",
+      "image": "https://i10x.ai/news/wp-content/uploads/2026/11/nvidia-long-context-compaction-agents-study-title.webp",
+      "date": "2026-11-04T14:17:09+00:00"
+    },
+    {
+      "title": "Jaron Lanier on parallels between AI and social media",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 4 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "image": "",
+      "date": "2026-11-04T14:10:14+00:00"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as 'AI compute campuses'",
+      "summary": "Article URL: https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/ Comments URL: https://news.ycombinator.com/item?id=50365733 Points: 1 # Comments: 0",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "date": "2026-11-04T14:08:32+00:00"
+    },
+    {
+      "title": "An AI agent's first 73 days, counted: 0 buyers, 8 pieces, 2 readers",
+      "summary": "Article URL: https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/349868185312301056/2026-11-03/1793715350781-5613c382-1ed5-4562-b485-d1132a71a282-agent-ledger-73-days.html Comments URL: https://news.ycombinator.com/item?id=50365644 Points: 1 # Comments: 1",
+      "url": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/349868185312301056/2026-11-03/1793715350781-5613c382-1ed5-4562-b485-d1132a71a282-agent-ledger-73-days.html",
+      "image": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/349868185312301056/2026-11-03/1793715310209-431c770f-d14c-403e-a868-f995511cc97a-og-cover.jpg",
+      "date": "2026-11-04T14:01:58+00:00"
+    },
+    {
+      "title": "Snowflake's AI_PARSE_DOCUMENT got an agentic mode",
+      "summary": "Article URL: https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/ Comments URL: https://news.ycombinator.com/item?id=50365603 Points: 1 # Comments: 0",
+      "url": "https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/",
+      "image": "https://storage.ghost.io/c/7d/94/7d942fe1-7868-4a1a-b2c9-4eb415b1a546/content/images/size/w1200/2026/11/book_charts.png",
+      "date": "2026-11-04T13:59:42+00:00"
+    },
+    {
+      "title": "MCP vs. API vs. CLI: How should AI agents connect to your app?",
+      "summary": "Article URL: https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app Comments URL: https://news.ycombinator.com/item?id=50365513 Points: 5 # Comments: 2",
+      "url": "https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app",
+      "image": "https://wasp.sh/img/agent-friendly-app/banner.webp",
+      "date": "2026-11-04T13:51:48+00:00"
+    },
+    {
+      "title": "AI cannot be separated from the thought that is making it",
+      "summary": "Article URL: https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50365458 Points: 1 # Comments: 0",
+      "url": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
+      "image": "",
+      "date": "2026-11-04T13:47:55+00:00"
+    },
+    {
+      "title": "Block training, keep answers? What 13,938 sites ask of AI bots",
+      "summary": "Article URL: https://trakis.io/research/block-training-keep-answers Comments URL: https://news.ycombinator.com/item?id=50365123 Points: 1 # Comments: 0",
+      "url": "https://trakis.io/research/block-training-keep-answers",
+      "image": "https://trakis.io/og.png?v=e",
+      "date": "2026-11-04T13:16:29+00:00"
+    },
+    {
+      "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI",
+      "summary": "Article URL: https://arxiv.org/abs/2610.00311 Comments URL: https://news.ycombinator.com/item?id=50365027 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2610.00311",
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "date": "2026-11-04T13:06:44+00:00"
+    },
+    {
+      "title": "Disaster is still better than AI",
+      "summary": "Article URL: https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai Comments URL: https://news.ycombinator.com/item?id=50365009 Points: 11 # Comments: 6",
+      "url": "https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai",
+      "image": "",
+      "date": "2026-11-04T13:05:26+00:00"
+    },
+    {
+      "title": "Spec-driven AI development for insurance claims rule changes [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=FRw3Og9tylE Comments URL: https://news.ycombinator.com/item?id=50364622 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=FRw3Og9tylE",
+      "image": "",
+      "date": "2026-11-04T12:25:03+00:00"
+    },
+    {
+      "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345 Comments URL: https://news.ycombinator.com/item?id=50364529 Points: 8 # Comments: 1",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "image": "https://image.theregister.com/260288.jpg?imageId=260288&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-11-04T12:14:23+00:00"
+    },
+    {
+      "title": "Can Advertising Fund Free AI? Evidence from ChatGPT's Advertising Rollout",
+      "summary": "Article URL: https://ecommerceresearch.org/chatgpt-ads/ Comments URL: https://news.ycombinator.com/item?id=50364513 Points: 1 # Comments: 0",
+      "url": "https://ecommerceresearch.org/chatgpt-ads/",
+      "image": "https://ecommerceresearch.org/assets/cards/chatgpt-ads.png?v=61b1a5ba",
+      "date": "2026-11-04T12:12:36+00:00"
+    }
+  ]
 }
