@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-11-08T13:16:44.809571+00:00",
-  "items": []
+  "generated_at": "2026-11-09T16:07:46.760049+00:00",
+  "items": [
+    {
+      "title": "Do AI coding agents care about SemVer or is it something for humans only?",
+      "summary": "Article URL: https://developer.microsoft.com/blog/do-ai-coding-agents-care-about-semver/ Comments URL: https://news.ycombinator.com/item?id=50427398 Points: 1 # Comments: 0",
+      "url": "https://developer.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+      "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Experience_-SemVer-and-Agent-Behavior.webp",
+      "date": "2026-11-09T16:03:09+00:00"
+    },
+    {
+      "title": "AI-Assisted Coding: Working Well with Coding Agents",
+      "summary": "Article URL: https://nokku.payanai.com/learn/courses/ai-assisted-coding-working-well-with-coding-agents Comments URL: https://news.ycombinator.com/item?id=50427116 Points: 2 # Comments: 0",
+      "url": "https://nokku.payanai.com/learn/courses/ai-assisted-coding-working-well-with-coding-agents",
+      "image": "",
+      "date": "2026-11-09T15:42:19+00:00"
+    },
+    {
+      "title": "AI Is Causing Signal Collapse Everywhere All at Once",
+      "summary": "Article URL: https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere Comments URL: https://news.ycombinator.com/item?id=50426392 Points: 3 # Comments: 0",
+      "url": "https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere",
+      "image": "",
+      "date": "2026-11-09T14:48:06+00:00"
+    },
+    {
+      "title": "Testing How AI Remasters Games by Remastering Eets (2006)",
+      "summary": "Article URL: https://popcar.bearblog.dev/testing-ai-by-remastering-eets/ Comments URL: https://news.ycombinator.com/item?id=50426298 Points: 2 # Comments: 0",
+      "url": "https://popcar.bearblog.dev/testing-ai-by-remastering-eets/",
+      "image": "https://bearblog.dev/static/og-image.png",
+      "date": "2026-11-09T14:41:12+00:00"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c35ynnpzdq51o Comments URL: https://news.ycombinator.com/item?id=50426217 Points: 2 # Comments: 0",
+      "url": "https://www.bbc.com/news/articles/c35ynnpzdq51o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "date": "2026-11-09T14:35:01+00:00"
+    },
+    {
+      "title": "Ask HN: How do you evaluate the skills your AI agents use?",
+      "summary": "Do you systematically evaluate agent skills, either before or while using them? If so, what tools or methods do you use? Or do you mostly rely on reading the SKILL.md and trying things out? Comments URL: https://news.ycombinator.com/item?id=50426070 Points: 4 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50426070",
+      "image": "",
+      "date": "2026-11-09T14:24:22+00:00"
+    },
+    {
+      "title": "The Race to Build a \"Find My\" for AI Chips",
+      "summary": "Article URL: https://spectrum.ieee.org/find-my-ai-chip Comments URL: https://news.ycombinator.com/item?id=50425847 Points: 1 # Comments: 0",
+      "url": "https://spectrum.ieee.org/find-my-ai-chip",
+      "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-radar-scanning-a-large-computer-chip-with-pieces-of-the-chip-featuring-different-regions-of-the-un.jpg?id=68612492&width=1200&height=600&coordinates=0%2C688%2C0%2C561",
+      "date": "2026-11-09T14:09:02+00:00"
+    },
+    {
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "summary": "Article URL: https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/ Comments URL: https://news.ycombinator.com/item?id=50425545 Points: 2 # Comments: 0",
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "image": "https://image-generator.buttondown.email/api/emphasize-subject?subject=How%20to%20talk%20about%20%22AI%22%20without%20adding%20to%20the%20anthropomorphization&author=Mystery%20AI%20Hype%20Theater%203000%3A%20The%20Newsletter&date=2026-06-25&img=https%3A//assets.buttondown.email/images/49aea655-fa69-4602-96ae-11418d32b490.png",
+      "date": "2026-11-09T13:47:28+00:00"
+    },
+    {
+      "title": "Human feedback guides AI approach that automates about 84% of decisions",
+      "summary": "Article URL: https://techxplore.com/news/2026-10-human-loop-feedback-ai-approach.html Comments URL: https://news.ycombinator.com/item?id=50425368 Points: 1 # Comments: 0",
+      "url": "https://techxplore.com/news/2026-10-human-loop-feedback-ai-approach.html",
+      "image": "",
+      "date": "2026-11-09T13:33:06+00:00"
+    },
+    {
+      "title": "AI 'slop' is a social judgement",
+      "summary": "Article URL: https://www.nature.com/articles/s41562-026-02639-6 Comments URL: https://news.ycombinator.com/item?id=50425222 Points: 3 # Comments: 1",
+      "url": "https://www.nature.com/articles/s41562-026-02639-6",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02639-6/MediaObjects/41562_2026_2639_Figa_HTML.png",
+      "date": "2026-11-09T13:20:33+00:00"
+    },
+    {
+      "title": "LLM APIs ranked for teams building AI agents",
+      "summary": "Article URL: https://rankings.leffke.com/categories/llm-apis Comments URL: https://news.ycombinator.com/item?id=50425116 Points: 1 # Comments: 0",
+      "url": "https://rankings.leffke.com/categories/llm-apis",
+      "image": "",
+      "date": "2026-11-09T13:11:03+00:00"
+    },
+    {
+      "title": "AI, Californians, 'translators': Vancouver council went off the rails this week",
+      "summary": "Article URL: https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails Comments URL: https://news.ycombinator.com/item?id=50424827 Points: 2 # Comments: 0",
+      "url": "https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails",
+      "image": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2026/07/0724-col-fumano-union-1.jpg",
+      "date": "2026-11-09T12:44:55+00:00"
+    },
+    {
+      "title": "Datacenters, Elon Musk, and AI are all on chopping block once Congress changes",
+      "summary": "Article URL: https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250 Comments URL: https://news.ycombinator.com/item?id=50424720 Points: 7 # Comments: 3",
+      "url": "https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250",
+      "image": "https://image.theregister.com/5308257.jpg?imageId=5308257&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-11-09T12:32:21+00:00"
+    },
+    {
+      "title": "AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time",
+      "summary": "Article URL: https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161 Comments URL: https://news.ycombinator.com/item?id=50424714 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161",
+      "image": "https://image.theregister.com/256930.jpg?imageId=256930&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-11-09T12:31:47+00:00"
+    },
+    {
+      "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+      "summary": "Article URL: https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345 Comments URL: https://news.ycombinator.com/item?id=50424707 Points: 1 # Comments: 0",
+      "url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+      "image": "https://image.theregister.com/5241522.jpg?imageId=5241522&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "date": "2026-11-09T12:31:06+00:00"
+    },
+    {
+      "title": "Consider the Agent: Pity, persuasion and selection in an emerging AI ecology",
+      "summary": "Article URL: https://institute.deepmind.com/essays/consider-the-agent/ Comments URL: https://news.ycombinator.com/item?id=50424649 Points: 2 # Comments: 0",
+      "url": "https://institute.deepmind.com/essays/consider-the-agent/",
+      "image": "https://lh3.googleusercontent.com/QTeMhOSU62kOPL6xAdRy5CCQA3hXipZs2NzB_uZyrbx0kW2RO-ybhVVsQwPD9148Yl5d9DuW1UsVcnjQy3KDzPmE5WWzZGNaAgwtDagmPvlw4bQ7=w1200-h630-n-nu-rw",
+      "date": "2026-11-09T12:25:34+00:00"
+    }
+  ]
 }
