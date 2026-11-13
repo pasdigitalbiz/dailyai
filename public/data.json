@@ -1,4 +1,103 @@
 {
-  "generated_at": "2026-11-12T15:05:11.391696+00:00",
-  "items": []
+  "generated_at": "2026-11-13T14:29:29.814779+00:00",
+  "items": [
+    {
+      "title": "Drawing the Line on AI Writing",
+      "summary": "Article URL: https://notes.archie-hall.com/p/drawing-the-line-on-ai-writing-literally Comments URL: https://news.ycombinator.com/item?id=50483800 Points: 1 # Comments: 0",
+      "url": "https://notes.archie-hall.com/p/drawing-the-line-on-ai-writing-literally",
+      "image": "https://substackcdn.com/image/fetch/$s_!vReN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa5d0b5b-e1f5-4bd2-b714-9a576a2efa41_2493x1352.heic",
+      "date": "2026-11-13T14:14:19+00:00"
+    },
+    {
+      "title": "Does Innovation Die in the Intelligence Era?",
+      "summary": "Article URL: https://cloudhpc.news/does-innovation-die-in-the-intelligence-era/ Comments URL: https://news.ycombinator.com/item?id=50483776 Points: 1 # Comments: 0",
+      "url": "https://cloudhpc.news/does-innovation-die-in-the-intelligence-era/",
+      "image": "https://cloudhpc.news/content/images/2026/11/title-image.jpg",
+      "date": "2026-11-13T14:13:02+00:00"
+    },
+    {
+      "title": "So you want to buy AI for your company",
+      "summary": "Article URL: https://idiallo.com/byte-size/buying-ai-for-your-company Comments URL: https://news.ycombinator.com/item?id=50483511 Points: 2 # Comments: 0",
+      "url": "https://idiallo.com/byte-size/buying-ai-for-your-company",
+      "image": "",
+      "date": "2026-11-13T13:53:31+00:00"
+    },
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/ Comments URL: https://news.ycombinator.com/item?id=50483510 Points: 3 # Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-2560x1440.jpg",
+      "date": "2026-11-13T13:53:29+00:00"
+    },
+    {
+      "title": "Politicians Must 'Call Bullshit' on AI Companies [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=xpwKob9bjko Comments URL: https://news.ycombinator.com/item?id=50483469 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=xpwKob9bjko",
+      "image": "",
+      "date": "2026-11-13T13:50:26+00:00"
+    },
+    {
+      "title": "How Microsoft's Principal Software Engineering Manager Works and Uses AI",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/how-microsofts-principal-software Comments URL: https://news.ycombinator.com/item?id=50483466 Points: 1 # Comments: 0",
+      "url": "https://newsletter.eng-leadership.com/p/how-microsofts-principal-software",
+      "image": "https://substackcdn.com/image/fetch/$s_!5MQp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9119ea8-efff-4fbe-ba70-502d079bef7c_1600x794.jpeg",
+      "date": "2026-11-13T13:50:08+00:00"
+    },
+    {
+      "title": "What CS bodies are worth studying in the age of AI?",
+      "summary": "Programming languages? Algorithms? AI itself? The field is already so gigantic that it was difficult to choose what to focus on 5 years ago; it now feels impossible. Comments URL: https://news.ycombinator.com/item?id=50483458 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50483458",
+      "image": "",
+      "date": "2026-11-13T13:49:28+00:00"
+    },
+    {
+      "title": "Show HN: Practice coding with AI on real tickets",
+      "summary": "I run AlgoCademy and we've just built what we think can become the LeetCode for AI Coding / Engineering. Would love to hear your feedback! First task is free and doesn't need an account. Comments URL: https://news.ycombinator.com/item?id=50483279 Points: 1 # Comments: 0",
+      "url": "https://algocademy.com/ai-coding-practice/",
+      "image": "https://algocademy.com/ai-coding-practice/assets/practice-room.webp",
+      "date": "2026-11-13T13:35:59+00:00"
+    },
+    {
+      "title": "Never Twice dont let the AI agent do mistake again",
+      "summary": "Article URL: https://clawhub.ai/cognicore-dev/skills/never-twice Comments URL: https://news.ycombinator.com/item?id=50483151 Points: 1 # Comments: 0",
+      "url": "https://clawhub.ai/cognicore-dev/skills/never-twice",
+      "image": "https://clawhub.ai/og/skill?v=10&slug=never-twice&owner=cognicore-dev&version=1.0.1",
+      "date": "2026-11-13T13:23:39+00:00"
+    },
+    {
+      "title": "Tentative Advice on Building with AI",
+      "summary": "Article URL: https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50482990 Points: 1 # Comments: 0",
+      "url": "https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/",
+      "image": "https://oath.tech/brand/oath-share-1200x630.png",
+      "date": "2026-11-13T13:08:18+00:00"
+    },
+    {
+      "title": "How Strata Fits a 125B AI Model into Consumer Hardware",
+      "summary": "Article URL: https://www.youtube.com/watch?v=u-yf-HlKhxU Comments URL: https://news.ycombinator.com/item?id=50482929 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=u-yf-HlKhxU",
+      "image": "",
+      "date": "2026-11-13T13:03:02+00:00"
+    },
+    {
+      "title": "Tech Job Market 2026, Where Is AI's VisiCalc? – Food for Agile Thought #570",
+      "summary": "Article URL: https://age-of-product.com/food-agile-thought-570-tech-job-market-2026/ Comments URL: https://news.ycombinator.com/item?id=50482847 Points: 3 # Comments: 0",
+      "url": "https://age-of-product.com/food-agile-thought-570-tech-job-market-2026/",
+      "image": "",
+      "date": "2026-11-13T12:56:28+00:00"
+    },
+    {
+      "title": "Tests as data: Ensuring AI-generated code does what we want",
+      "summary": "Article URL: https://martinfowler.com/articles/tests-as-data.html Comments URL: https://news.ycombinator.com/item?id=50482693 Points: 1 # Comments: 0",
+      "url": "https://martinfowler.com/articles/tests-as-data.html",
+      "image": "https://martinfowler.com/articles/tests-as-data/card.png",
+      "date": "2026-11-13T12:41:43+00:00"
+    },
+    {
+      "title": "AI agents have a big problem: Nobody wants to let them in",
+      "summary": "Article URL: https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html Comments URL: https://news.ycombinator.com/item?id=50482661 Points: 9 # Comments: 4",
+      "url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3283946-0-03253000-1794571220-Meta-Muse.jpeg?quality=50&strip=all&w=1024",
+      "date": "2026-11-13T12:37:41+00:00"
+    }
+  ]
 }
