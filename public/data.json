@@ -1,4 +1,117 @@
 {
-  "generated_at": "2026-11-17T15:55:13.887907+00:00",
-  "items": []
+  "generated_at": "2026-11-18T15:33:17.662661+00:00",
+  "items": [
+    {
+      "title": "The Artificial Plato's Cave",
+      "summary": "Article URL: https://hplisiecki.substack.com/p/the-artificial-platos-cave Comments URL: https://news.ycombinator.com/item?id=50547412 Points: 1 # Comments: 0",
+      "url": "https://hplisiecki.substack.com/p/the-artificial-platos-cave",
+      "image": "",
+      "date": "2026-11-18T15:23:25+00:00"
+    },
+    {
+      "title": "Nvidia halts all AI chip sales to China, including US-approved H200",
+      "summary": "Article URL: https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling Comments URL: https://news.ycombinator.com/item?id=50547376 Points: 4 # Comments: 0",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "date": "2026-11-18T15:20:02+00:00"
+    },
+    {
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "summary": "Article URL: https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/ Comments URL: https://news.ycombinator.com/item?id=50547370 Points: 2 # Comments: 1",
+      "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "image": "https://blog.jetbrains.com/wp-content/uploads/2026/11/ai-models-hate-python-love-php-cover-light.png",
+      "date": "2026-11-18T15:19:32+00:00"
+    },
+    {
+      "title": "Clicks and Kalashnikovs: The Houthis, AI, and a New Security Debate",
+      "summary": "Article URL: https://orfme.org/expert-speak/clicks-and-kalashnikovs-the-houthis-ai-and-a-new-security-debate/ Comments URL: https://news.ycombinator.com/item?id=50547246 Points: 2 # Comments: 0",
+      "url": "https://orfme.org/expert-speak/clicks-and-kalashnikovs-the-houthis-ai-and-a-new-security-debate/",
+      "image": "https://orfme.org/wp-content/uploads/2026/09/img-yemini.jpg",
+      "date": "2026-11-18T15:09:45+00:00"
+    },
+    {
+      "title": "Mac never sleeps: how DarkWake broke my scheduled AI jobs",
+      "summary": "Article URL: https://nickriebe.com/blog/darkwake-broke-my-scheduled-ai-jobs/ Comments URL: https://news.ycombinator.com/item?id=50547191 Points: 3 # Comments: 0",
+      "url": "https://nickriebe.com/blog/darkwake-broke-my-scheduled-ai-jobs/",
+      "image": "https://nickriebe.com/images/darkwake-skip-log.png",
+      "date": "2026-11-18T15:06:57+00:00"
+    },
+    {
+      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+      "summary": "Article URL: https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50547154 Points: 5 # Comments: 0",
+      "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+      "image": "",
+      "date": "2026-11-18T15:04:11+00:00"
+    },
+    {
+      "title": "Data Minimization Is Imperative for the Age of AI Agents",
+      "summary": "Article URL: https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50547106 Points: 4 # Comments: 0",
+      "url": "https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/",
+      "image": "https://cdn.sanity.io/images/3tzzh18d/production/039641efa416f326c8f9104d92df5ecf4a0aac54-1200x675.png",
+      "date": "2026-11-18T15:00:18+00:00"
+    },
+    {
+      "title": "The Reconstructible Mind: Generative AI and Undisclosed Thought",
+      "summary": "Article URL: https://zenodo.org/records/23660004 Comments URL: https://news.ycombinator.com/item?id=50547060 Points: 3 # Comments: 0",
+      "url": "https://zenodo.org/records/23660004",
+      "image": "",
+      "date": "2026-11-18T14:56:50+00:00"
+    },
+    {
+      "title": "Can Universities Survive? AI vs. Higher Education [audio]",
+      "summary": "Article URL: https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education Comments URL: https://news.ycombinator.com/item?id=50546900 Points: 3 # Comments: 1",
+      "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
+      "image": "https://static.wixstatic.com/media/b072fd_3e94282fab1a45b9bc2fefd0ba109b1d~mv2.png/v1/fit/w_2500,h_1330,al_c/b072fd_3e94282fab1a45b9bc2fefd0ba109b1d~mv2.png",
+      "date": "2026-11-18T14:42:25+00:00"
+    },
+    {
+      "title": "Show HN: Cmdbook – a home for the scripts you (or your AI) keep rewriting",
+      "summary": "Article URL: https://printf.app/cmdbook/ Comments URL: https://news.ycombinator.com/item?id=50546862 Points: 1 # Comments: 0",
+      "url": "https://printf.app/cmdbook/",
+      "image": "https://printf.app/assets/og/cmdbook-og.png?v=2",
+      "date": "2026-11-18T14:39:37+00:00"
+    },
+    {
+      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+      "summary": "Article URL: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe Comments URL: https://news.ycombinator.com/item?id=50546845 Points: 1 # Comments: 1",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+580/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F4f%2Ff1d983494f34b82fa698fa8913cc%2Fnpr-ai-fa.jpg",
+      "date": "2026-11-18T14:38:32+00:00"
+    },
+    {
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/ Comments URL: https://news.ycombinator.com/item?id=50546841 Points: 2 # Comments: 0",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "image": "",
+      "date": "2026-11-18T14:38:17+00:00"
+    },
+    {
+      "title": "Is the SaaS business model dead or there is still oportunities in this age of AI",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50546822 Points: 2 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50546822",
+      "image": "",
+      "date": "2026-11-18T14:36:55+00:00"
+    },
+    {
+      "title": "Anthropic IPO: A Brother-Sister Duo Behind a Trillion-Dollar AI Giant",
+      "summary": "Article URL: https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/ Comments URL: https://news.ycombinator.com/item?id=50546759 Points: 1 # Comments: 0",
+      "url": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/",
+      "image": "",
+      "date": "2026-11-18T14:32:01+00:00"
+    },
+    {
+      "title": "US tech outages blamed on rush to fix bugs found by AI",
+      "summary": "Article URL: https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208 Comments URL: https://news.ycombinator.com/item?id=50546690 Points: 1 # Comments: 0",
+      "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208",
+      "image": "",
+      "date": "2026-11-18T14:24:53+00:00"
+    },
+    {
+      "title": "Startup Makes Headway Towards Formalizing All of Math with AI",
+      "summary": "Article URL: https://spectrum.ieee.org/enormous-theorem-ai Comments URL: https://news.ycombinator.com/item?id=50546562 Points: 2 # Comments: 0",
+      "url": "https://spectrum.ieee.org/enormous-theorem-ai",
+      "image": "https://spectrum.ieee.org/media-library/ai-verifies-the-enormous-theorem-in-just-24-days.jpg?id=68692858&width=1200&height=600&coordinates=0%2C519%2C0%2C82",
+      "date": "2026-11-18T14:13:48+00:00"
+    }
+  ]
 }
