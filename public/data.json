@@ -1,82 +1,110 @@
 {
-  "generated_at": "2026-11-19T15:40:02.640534+00:00",
+  "generated_at": "2026-11-20T15:21:53.612851+00:00",
   "items": [
     {
-      "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 1 # Comments: 0",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "image": "https://i0.wp.com/thedataexchange.media/wp-content/uploads/2026/11/Pete-Warden-art.002.jpeg?fit=1920%2C1080&ssl=1",
-      "date": "2026-11-19T15:38:12+00:00"
+      "title": "An Italian court just put a price on \"I made it with AI\"",
+      "summary": "Article URL: https://tokyoticker.substack.com/p/six-prompts-15-minutes-no-copyright Comments URL: https://news.ycombinator.com/item?id=50575649 Points: 1 # Comments: 0",
+      "url": "https://tokyoticker.substack.com/p/six-prompts-15-minutes-no-copyright",
+      "image": "https://substackcdn.com/image/fetch/$s_!9mA7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d5e6f4a-9182-483a-85e0-31f1312ee91a_1456x816.jpeg",
+      "date": "2026-11-20T15:03:51+00:00"
     },
     {
-      "title": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=pyRG_5dCrfg Comments URL: https://news.ycombinator.com/item?id=50561434 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "summary": "Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50575429 Points: 1 # Comments: 0",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/191:100/w_1280,c_limit/The-Boy-Who-Builds-Missiles-Business.jpg",
+      "date": "2026-11-20T14:50:18+00:00"
+    },
+    {
+      "title": "What's the environmental impact of my AI usage?",
+      "summary": "Article URL: https://substack.hadley.nz/p/whats-the-environmental-impact-of Comments URL: https://news.ycombinator.com/item?id=50575419 Points: 1 # Comments: 1",
+      "url": "https://substack.hadley.nz/p/whats-the-environmental-impact-of",
+      "image": "https://substackcdn.com/image/fetch/$s_!SGWk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7485c002-a64e-4b6d-a526-816a6fe55fd7_1200x600.png",
+      "date": "2026-11-20T14:49:35+00:00"
+    },
+    {
+      "title": "AI is imposing a hidden 'cognitive tax' on the lowest-paid workers",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax Comments URL: https://news.ycombinator.com/item?id=50575395 Points: 1 # Comments: 0",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "image": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7aa767831454c080a8c14c08f3f868d5",
+      "date": "2026-11-20T14:48:07+00:00"
+    },
+    {
+      "title": "Show HN: Greatai Review – free AI and human code review for open source",
+      "summary": "Article URL: https://greatai.dev/clinic Comments URL: https://news.ycombinator.com/item?id=50575270 Points: 1 # Comments: 0",
+      "url": "https://greatai.dev/clinic",
+      "image": "https://greatai.dev/og-review.png",
+      "date": "2026-11-20T14:40:28+00:00"
+    },
+    {
+      "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html Comments URL: https://news.ycombinator.com/item?id=50574957 Points: 2 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080",
+      "date": "2026-11-20T14:15:42+00:00"
+    },
+    {
+      "title": "Cursor considering phasing out Chinese AI models",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/20/cursor- Comments URL: https://news.ycombinator.com/item?id=50574952 Points: 2 # Comments: 1",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-",
       "image": "",
-      "date": "2026-11-19T15:32:36+00:00"
+      "date": "2026-11-20T14:15:24+00:00"
     },
     {
-      "title": "AI found a hole in Java, and it starts with 'AAAAAAAA '",
-      "summary": "Article URL: https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/ Comments URL: https://news.ycombinator.com/item?id=50561354 Points: 2 # Comments: 0",
-      "url": "https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/",
-      "image": "https://www.engadget.com/img/gallery/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/l-intro-1795024736.jpg",
-      "date": "2026-11-19T15:27:40+00:00"
+      "title": "US Commerce approved sales of more than 879,000 AI chips to Chinese companies",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html Comments URL: https://news.ycombinator.com/item?id=50574934 Points: 3 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
+      "date": "2026-11-20T14:14:05+00:00"
     },
     {
-      "title": "Google rebrands its Gemini Spark AI agent as Tasks",
-      "summary": "Article URL: https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free Comments URL: https://news.ycombinator.com/item?id=50561261 Points: 1 # Comments: 0",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "date": "2026-11-19T15:21:26+00:00"
+      "title": "AI Gateway: Manage your company's AI from one place",
+      "summary": "Article URL: https://layerx.xyz/ai-gateway Comments URL: https://news.ycombinator.com/item?id=50574879 Points: 4 # Comments: 0",
+      "url": "https://layerx.xyz/ai-gateway",
+      "image": "https://layerx.xyz/ai-gateway/og-en.jpg",
+      "date": "2026-11-20T14:09:22+00:00"
     },
     {
-      "title": "Signs of AI writing, and how to fix each one",
-      "summary": "Article URL: https://hrih.si/articles/signs-of-ai-writing/ Comments URL: https://news.ycombinator.com/item?id=50560904 Points: 2 # Comments: 0",
-      "url": "https://hrih.si/articles/signs-of-ai-writing/",
-      "image": "https://hrih.si/og/signs-of-ai-writing.png?v=20555d41",
-      "date": "2026-11-19T14:53:12+00:00"
+      "title": "A Man and His Muse AI Agent Sue Meta",
+      "summary": "Article URL: https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/ Comments URL: https://news.ycombinator.com/item?id=50574732 Points: 1 # Comments: 0",
+      "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/CleanShot-2026-11-17-at-7.15.49-AM@2x.png",
+      "date": "2026-11-20T13:57:26+00:00"
     },
     {
-      "title": "What is this AI slop bug report trying to achieve?",
-      "summary": "Article URL: https://changelog.complete.org/archives/45166-what-is-this-ai-slop-bug-report-trying-to-achieve Comments URL: https://news.ycombinator.com/item?id=50560825 Points: 1 # Comments: 0",
-      "url": "https://changelog.complete.org/archives/45166-what-is-this-ai-slop-bug-report-trying-to-achieve",
-      "image": "",
-      "date": "2026-11-19T14:47:27+00:00"
+      "title": "Be Kind to AI (?)",
+      "summary": "Article URL: https://elsevanderberg.substack.com/p/be-kind-to-ai Comments URL: https://news.ycombinator.com/item?id=50574620 Points: 1 # Comments: 0",
+      "url": "https://elsevanderberg.substack.com/p/be-kind-to-ai",
+      "image": "https://substackcdn.com/image/fetch/$s_!loaM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90b9c767-9da6-426f-8d59-ca5c591bb7da_1014x554.png",
+      "date": "2026-11-20T13:49:48+00:00"
     },
     {
-      "title": "I let Apple's always-listening AI summarize my life for two weeks",
-      "summary": "Article URL: https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on Comments URL: https://news.ycombinator.com/item?id=50560667 Points: 3 # Comments: 0",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "date": "2026-11-19T14:35:14+00:00"
+      "title": "AI Search Analytics Confirm Higher Ed's LLM Winners Are Large Publics/Nonprofits",
+      "summary": "Article URL: https://insights.kolariconsulting.com/p/ai-search-analytics-confirm-higher Comments URL: https://news.ycombinator.com/item?id=50574569 Points: 1 # Comments: 0",
+      "url": "https://insights.kolariconsulting.com/p/ai-search-analytics-confirm-higher",
+      "image": "https://substackcdn.com/image/fetch/$s_!0l4K!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.487:0.5!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb395661c-e9f1-42d4-83f6-463f1122f6cd_1653x1047.png",
+      "date": "2026-11-20T13:45:26+00:00"
     },
     {
-      "title": "ELIZA creator is AI's fiercest critic",
-      "summary": "Article URL: https://www.latimes.com/business/story/2026-11-19/the-very-first-ai-chatbot-was-released-in-1966-it-turned-its-creator-into-ais-fiercest-critic Comments URL: https://news.ycombinator.com/item?id=50560349 Points: 1 # Comments: 0",
-      "url": "https://www.latimes.com/business/story/2026-11-19/the-very-first-ai-chatbot-was-released-in-1966-it-turned-its-creator-into-ais-fiercest-critic",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/c7047cd/2147483647/strip/true/crop/3052x1602+0+355/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fdc%2F4731cd434ea2a05a643710168c35%2Fap646421664736.jpg",
-      "date": "2026-11-19T14:11:03+00:00"
+      "title": "Jonathan Swift vs. AI",
+      "summary": "Article URL: https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50574402 Points: 2 # Comments: 0",
+      "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+      "image": "http://static1.squarespace.com/static/6317a497832bf15c3b30f236/t/6a99c774dc785a4e018b56ad/1788462964069/September+2026_Gullivers+Travels+AI_banner.jpg?format=1500w",
+      "date": "2026-11-20T13:31:41+00:00"
     },
     {
-      "title": "Canva Will Let Users Switch Off Most Generative AI",
-      "summary": "Article URL: https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=50559947 Points: 3 # Comments: 0",
-      "url": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
-      "image": "https://www.engadget.com/img/gallery/canva-will-let-users-switch-off-most-generative-ai/l-intro-1795044723.jpg",
-      "date": "2026-11-19T13:38:22+00:00"
+      "title": "Artificial intelligence projects for the Commodore 64 (1985)",
+      "summary": "Article URL: https://archive.org/details/Artificial_Intelligence_Projects_for_the_Commodore_64_1985_TAB_Books Comments URL: https://news.ycombinator.com/item?id=50574401 Points: 3 # Comments: 0",
+      "url": "https://archive.org/details/Artificial_Intelligence_Projects_for_the_Commodore_64_1985_TAB_Books",
+      "image": "https://archive.org/services/img/Artificial_Intelligence_Projects_for_the_Commodore_64_1985_TAB_Books",
+      "date": "2026-11-20T13:31:41+00:00"
     },
     {
-      "title": "The 5k Episodes a Week AI-Podcast Company Has Pivoted",
-      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/ Comments URL: https://news.ycombinator.com/item?id=50559896 Points: 1 # Comments: 0",
-      "url": "https://www.hollywoodreporter.com/business/digital/the-5000-episodes-a-week-ai-podcast-company-pivot-1236754759/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Liquid_Studios_Sample_Grid.png?w=1440&h=810&crop=1",
-      "date": "2026-11-19T13:34:37+00:00"
-    },
-    {
-      "title": "Artificial: Hollywood's Take on What Happened During the OpenAI Revolt (Trailer) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=OT8J-1DO9Fw Comments URL: https://news.ycombinator.com/item?id=50559794 Points: 1 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=OT8J-1DO9Fw",
-      "image": "",
-      "date": "2026-11-19T13:25:28+00:00"
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 63 # Comments: 32",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "image": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840bb47424232ef8465116aa8eea49a5",
+      "date": "2026-11-20T13:29:59+00:00"
     }
   ]
 }
